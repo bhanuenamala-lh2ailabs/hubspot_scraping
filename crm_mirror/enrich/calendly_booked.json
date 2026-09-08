@@ -1,0 +1,558 @@
+{
+ "booked": {
+  "340453550795": {
+   "email": "manibalan.vanathi@gmail.com",
+   "name": "Mani balan",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-07T11:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340550251243": {
+   "email": "charlesdcunha0@gmail.com",
+   "name": "charles dcunha",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-10T05:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340303406796": {
+   "email": "vivek@yugasa.com",
+   "name": "Vivek Mittal",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-10T06:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340538085061": {
+   "email": "globalsoftss@gmail.com",
+   "name": "Velumani Selvaraj",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-10T06:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340814474978": {
+   "email": "patelsivam079@gmail.com",
+   "name": "Sivam Patel",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-10T07:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340835653328": {
+   "email": "parikshetsingh2@gmail.com",
+   "name": "Parikshet Kadian",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-10T08:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340648265464": {
+   "email": "ishaagangwar@gmail.com",
+   "name": "Ishita Gangwar ",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-10T12:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340648265461": {
+   "email": "jangidakanksha12@gmail.com",
+   "name": "AKANKSHA",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-11T05:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340852724414": {
+   "email": "starsunil5683@gmail.com",
+   "name": "Sunil shah",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-11T06:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340845559520": {
+   "email": "janwapavan34@gmail.com",
+   "name": "Pavan janwa ",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-11T12:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340761050852": {
+   "email": "ganesh.sundars@gmail.com",
+   "name": "Ganesh Sundarraj",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-12T06:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340646687474": {
+   "email": "rsji1806@gmail.com",
+   "name": "Rudraksh Sharma",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-13T07:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340852739807": {
+   "email": "vishalbharti00074@gmail.com",
+   "name": "Vishal Bharti",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-13T12:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340852724459": {
+   "email": "boruahb928@gmail.com",
+   "name": "Biman Boruah",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-14T05:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340852713152": {
+   "email": "vanraj1901@gmail.com",
+   "name": "Rathod vanraj",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-14T06:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340704695032": {
+   "email": "snehaaradhya3@gmail.com",
+   "name": "Sneha B S ",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-14T08:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  "340852725460": {
+   "email": "samaksh.dey@gmail.com",
+   "name": "Samaksh Dey",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-14T12:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  }
+ },
+ "unmatched": [
+  {
+   "email": "ashaikh@a360pl.com",
+   "name": "Altaf Shaikh",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-07-21T06:00:00.000000Z",
+   "event": "LH2 AI Labs Discovery Call"
+  },
+  {
+   "email": "sales@encureit.com",
+   "name": "Ankit Bhandari ",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-07-22T09:30:00.000000Z",
+   "event": "LH2 AI Labs Discovery Call"
+  },
+  {
+   "email": "vinkal@athmin.com",
+   "name": "VINKAL VISHNOI",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-07-24T14:00:00.000000Z",
+   "event": "LH2 AI Labs Discovery Call"
+  },
+  {
+   "email": "vinkal@athmin.com",
+   "name": "Vinkal Vishnoi",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-07-27T04:30:00.000000Z",
+   "event": "LH2 AI Labs Discovery Call"
+  },
+  {
+   "email": "holesh@assystant.com",
+   "name": "Holesh Priyankar",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-07-30T11:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "rabbani.shahid700@gmail.com",
+   "name": "Shahid Rabbani",
+   "status": "canceled",
+   "event_status": "canceled",
+   "start": "2026-07-30T12:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "amandesai01@gmail.com",
+   "name": "Aman Desai",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-07-31T06:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "rabbani.shahid700@gmail.com",
+   "name": "Shahid Rabbani",
+   "status": "canceled",
+   "event_status": "canceled",
+   "start": "2026-07-31T06:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "abin2abraham@yahoo.co.in",
+   "name": "Abin Abraham",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-07-31T12:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "alan@makemeasticker.com",
+   "name": "Alan Dweck",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-03T07:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "amandesai01@gmail.com",
+   "name": "Aman Desai",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-03T12:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "kd@samdoo.in",
+   "name": "Keshavdas M",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-04T06:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "somil@luthienlabs.com",
+   "name": "Somil ",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-04T09:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "jai@founderscaffe.com",
+   "name": "Jai Dave",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-04T10:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "aditya@adityapalgupta.com",
+   "name": "Aditya Gupta",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-05T05:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "aayush@brandsmashers.com",
+   "name": "Aayush Jain",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-05T10:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "lamiya.saleem@lh2.ai",
+   "name": "lamiya ",
+   "status": "canceled",
+   "event_status": "canceled",
+   "start": "2026-08-05T11:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "patilvikram@gmail.com",
+   "name": "Vikram Ashok Patil",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-06T05:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "chinovibe.vincent@gmail.com",
+   "name": "Vincent Karthikeyan ",
+   "status": "canceled",
+   "event_status": "canceled",
+   "start": "2026-08-06T06:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "doshimehul@gmail.com",
+   "name": "Mehul Doshi",
+   "status": "canceled",
+   "event_status": "canceled",
+   "start": "2026-08-06T06:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "opencubicles@gmail.com",
+   "name": "Amit Agarwal",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-06T07:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "business@zyelum.com",
+   "name": "Ahmad",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-06T08:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "raghvaro10@gmail.com",
+   "name": "Raghav Arora",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-06T08:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "vikas.chauhann7@gmail.com",
+   "name": "Vikas Chauhan",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-06T09:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "imu1978@gmail.com",
+   "name": "Imran Mustafa ",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-06T09:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "aarshay.jain@gmail.com",
+   "name": "Aarshay Jain",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-06T10:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "doshimehul@gmail.com",
+   "name": "Mehul Doshi",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-06T10:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "aditya@adityapalgupta.com",
+   "name": "Aditya Gupta",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-07T05:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "lakhanjain000@gmail.com",
+   "name": "Lakhan Jain",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-07T06:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "gowtham@klyonix.com",
+   "name": "Gowtham Lingadurai",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-07T06:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "pradeep@deliqt.com",
+   "name": "Pradeep Singh",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-07T07:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "nvispute@gmail.com",
+   "name": "Nishant Vispute",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-07T07:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "vikrant.singh@srvtechnology.com",
+   "name": "Vikrant Singh",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-07T08:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "vivek@pgagi.in",
+   "name": "Viveijyoti bhowmik",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-07T08:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "akshayywaghmaree@gmail.com",
+   "name": "Akshay Waghmare",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-07T09:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "varshakvn@gmail.com",
+   "name": "Varsha Kota",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-07T09:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "vivek.iced@sric.iitr.ac.in",
+   "name": "Vivek Bansal",
+   "status": "canceled",
+   "event_status": "canceled",
+   "start": "2026-08-07T10:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "raghavaro10@gmail.com",
+   "name": "Raghav Arora",
+   "status": "canceled",
+   "event_status": "canceled",
+   "start": "2026-08-07T11:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "raghavaro10@gmail.com",
+   "name": "Raghav Arora",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-07T11:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "mastermanas805@gmail.com",
+   "name": "Manas",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-07T12:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "sridhar.r@kudzuinfotech.com",
+   "name": "Sridhar Ramaswamy",
+   "status": "canceled",
+   "event_status": "canceled",
+   "start": "2026-08-10T07:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "divyeshhdoshi@gmail.com",
+   "name": "Divyesh Doshi",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-10T08:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "vishvambhar.dayal@gmail.com",
+   "name": "Vishvambhar Dayal",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-10T09:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "ashutosh@zimo.one",
+   "name": "Ashutosh Sharma",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-10T09:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "bkt@northcorpsoftware.com",
+   "name": "Brijesh Tripathi",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-10T10:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "vbs16310@gmail.com",
+   "name": "Shah Vatsal B",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-10T11:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "girish.krishnaiah@gmail.com",
+   "name": "Girish Krishnaiah ",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-10T11:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "singhbirendrapratap567@gmail.com",
+   "name": "Birendra Pratap Singh ",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-11T06:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "chinovibe.vincent@gmail.com",
+   "name": "Vincent Karthikeyan ",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-11T10:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "mathurmanoj61@gmail.com",
+   "name": "Manoj Mathur",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-11T11:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "patkimayur@gmail.com",
+   "name": "Mayur Patki",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-12T09:30:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  },
+  {
+   "email": "vivek.iced@sric.iitr.ac.in",
+   "name": "Vivek Bansal",
+   "status": "active",
+   "event_status": "active",
+   "start": "2026-08-12T10:00:00.000000Z",
+   "event": "Discovery Call LH2 AI Labs"
+  }
+ ]
+}

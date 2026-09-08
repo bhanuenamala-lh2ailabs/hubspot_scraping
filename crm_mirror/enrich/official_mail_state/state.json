@@ -1,0 +1,1078 @@
+{
+ "15": {
+  "row": 15,
+  "company": "Microsoft / Azure AI",
+  "spoc": "Ece Kamar",
+  "final_email": "ecekamar@gmail.com",
+  "is_official": false,
+  "prior_email": "ecekamar@gmail.com",
+  "credits_spent": 2
+ },
+ "16": {
+  "row": 16,
+  "company": "Microsoft / Azure AI",
+  "spoc": "Jordan Usdan",
+  "final_email": "jordanu@microsoft.com",
+  "is_official": true,
+  "prior_email": "jordanu@gmail.com",
+  "credits_spent": 2,
+  "source": "signalhire_recheck"
+ },
+ "17": {
+  "row": 17,
+  "company": "Microsoft / Azure AI",
+  "spoc": "Geraldine Russell",
+  "final_email": "geraldine.russell@microsoft.com",
+  "is_official": true,
+  "prior_email": "geraldinem@aol.com",
+  "credits_spent": 2,
+  "source": "signalhire_recheck"
+ },
+ "18": {
+  "row": 18,
+  "company": "Microsoft / Azure AI",
+  "spoc": "Dean Mutovic",
+  "final_email": "dean.mutovic@microsoft.com",
+  "is_official": true,
+  "prior_email": "mutovic@gmail.com",
+  "credits_spent": 1
+ },
+ "19": {
+  "row": 19,
+  "company": "Microsoft / Azure AI",
+  "spoc": "Shabnam Abedi",
+  "final_email": "sabedi@exchange.microsoft.com",
+  "is_official": true,
+  "prior_email": "shabnam.abedi@outlook.com",
+  "credits_spent": 2,
+  "source": "signalhire_recheck"
+ },
+ "20": {
+  "row": 20,
+  "company": "Microsoft / Azure AI",
+  "spoc": "Tilicia Alexander",
+  "final_email": "talexander@microsoft.com",
+  "is_official": true,
+  "prior_email": "TiliciaAlexander@gmail.com",
+  "credits_spent": 1
+ },
+ "21": {
+  "row": 21,
+  "company": "Nvidia",
+  "spoc": "Jane Polak Scowcraft",
+  "final_email": "jscowcroft@nvidia.com",
+  "is_official": true,
+  "prior_email": "janescowcroft@gmail.com",
+  "credits_spent": 1
+ },
+ "22": {
+  "row": 22,
+  "company": "Nvidia",
+  "spoc": "Zhiding Yu",
+  "final_email": "zhidingy@nvidia.com",
+  "is_official": true,
+  "prior_email": "scutchrisding@gmail.com",
+  "credits_spent": 1
+ },
+ "24": {
+  "row": 24,
+  "company": "Anthropic",
+  "spoc": "katie Coleman",
+  "final_email": "kstreu@anthropic.com",
+  "is_official": true,
+  "prior_email": "nathan.streu@gmail.com",
+  "credits_spent": 1
+ },
+ "25": {
+  "row": 25,
+  "company": "Anthropic",
+  "spoc": "Maggie W",
+  "final_email": "maggiewu@anthropic.com",
+  "is_official": true,
+  "prior_email": "maggiewu413@gmail.com",
+  "credits_spent": 1
+ },
+ "26": {
+  "row": 26,
+  "company": "Anthropic",
+  "spoc": "Jeremy Jennings-Inchauspe",
+  "final_email": "jeremyji@anthropic.com",
+  "is_official": true,
+  "prior_email": "inchauspejeremy@gmail.com",
+  "credits_spent": 1
+ },
+ "27": {
+  "row": 27,
+  "company": "Anthropic",
+  "spoc": "Natalie R",
+  "final_email": "nroher@anthropic.com",
+  "is_official": true,
+  "prior_email": "nsroher@gmail.com",
+  "credits_spent": 1
+ },
+ "31": {
+  "row": 31,
+  "company": "Cohere",
+  "spoc": "Josh Netto-Rosen",
+  "final_email": "jnetto22@gmail.com",
+  "is_official": false,
+  "prior_email": "jnetto22@gmail.com",
+  "credits_spent": 2
+ },
+ "32": {
+  "row": 32,
+  "company": "Cohere",
+  "spoc": "Dhruti Joshi",
+  "final_email": "dhruti@cohere.com",
+  "is_official": true,
+  "prior_email": "dhrutijoshi92@gmail.com",
+  "credits_spent": 1
+ },
+ "33": {
+  "row": 33,
+  "company": "Cohere",
+  "spoc": "Raine Hahn",
+  "final_email": "raine@cohere.com",
+  "is_official": true,
+  "prior_email": "rainehahn15@gmail.com",
+  "credits_spent": 1
+ },
+ "38": {
+  "row": 38,
+  "company": "Alibaba / Qwen",
+  "spoc": "Binyuan Hui",
+  "final_email": "",
+  "is_official": false,
+  "prior_email": "",
+  "credits_spent": 2
+ },
+ "39": {
+  "row": 39,
+  "company": "Alibaba / Qwen",
+  "spoc": "Dapeng Liu",
+  "final_email": "dapeng.l@alibaba-inc.com",
+  "is_official": true,
+  "prior_email": "liodapeng@gmail.com",
+  "credits_spent": 1
+ },
+ "40": {
+  "row": 40,
+  "company": "Alibaba / Qwen",
+  "spoc": "Jingren Zhou",
+  "final_email": "jingren.zhou@alibaba-inc.com",
+  "is_official": true,
+  "prior_email": "jrzhoupro@gmail.com",
+  "credits_spent": 2,
+  "source": "signalhire_recheck"
+ },
+ "41": {
+  "row": 41,
+  "company": "Tencent",
+  "spoc": "Xing Sun",
+  "final_email": "xing_sun@tencent.com",
+  "is_official": true,
+  "prior_email": "",
+  "credits_spent": 1
+ },
+ "42": {
+  "row": 42,
+  "company": "Tencent",
+  "spoc": "Xin Li",
+  "final_email": "sin603@gmail.com",
+  "is_official": false,
+  "prior_email": "sin603@gmail.com",
+  "credits_spent": 2
+ },
+ "44": {
+  "row": 44,
+  "company": "LG AI Research",
+  "spoc": "Clayton Park",
+  "final_email": "ym100.park@lgresearch.ai",
+  "is_official": true,
+  "prior_email": "enamor100@gmail.com",
+  "credits_spent": 1
+ },
+ "45": {
+  "row": 45,
+  "company": "LG AI Research",
+  "spoc": "Hwayoung (Edward) Lee",
+  "final_email": "",
+  "is_official": false,
+  "prior_email": "",
+  "credits_spent": 2
+ },
+ "46": {
+  "row": 46,
+  "company": "LG AI Research",
+  "spoc": "Young Choi",
+  "final_email": "young.choi@lgresearch.ai",
+  "is_official": true,
+  "prior_email": "youngchoi08@gmail.com",
+  "credits_spent": 1
+ },
+ "48": {
+  "row": 48,
+  "company": "moonshot",
+  "spoc": "Yulun (Dylan) Du",
+  "final_email": "yulundu@gmail.com",
+  "is_official": false,
+  "prior_email": "yulundu@gmail.com",
+  "credits_spent": 2
+ },
+ "49": {
+  "row": 49,
+  "company": "moonshot",
+  "spoc": "Xu Xinran",
+  "final_email": "",
+  "is_official": false,
+  "prior_email": "",
+  "credits_spent": 2
+ },
+ "50": {
+  "row": 50,
+  "company": "moonshot",
+  "spoc": "Xinyu Zhou",
+  "final_email": "zxytim@gmail.com",
+  "is_official": false,
+  "prior_email": "zxytim@gmail.com",
+  "credits_spent": 2
+ },
+ "51": {
+  "row": 51,
+  "company": "moonshot",
+  "spoc": "Yang Zhilin",
+  "final_email": "",
+  "is_official": false,
+  "prior_email": "",
+  "credits_spent": 2
+ },
+ "53": {
+  "row": 53,
+  "company": "01.AI / Yi",
+  "spoc": "Ma Jie",
+  "final_email": "",
+  "is_official": false,
+  "prior_email": "",
+  "credits_spent": 2
+ },
+ "54": {
+  "row": 54,
+  "company": "01.AI / Yi",
+  "spoc": "Binqiang Zhao",
+  "final_email": "fairyhare@gmail.com",
+  "is_official": false,
+  "prior_email": "fairyhare@gmail.com",
+  "credits_spent": 2
+ },
+ "64": {
+  "row": 64,
+  "company": "Scale AI",
+  "spoc": "Thomas Wright",
+  "final_email": "thomas.wright@scale.com",
+  "is_official": true,
+  "prior_email": "ugctom@gmail.com",
+  "credits_spent": 1
+ },
+ "65": {
+  "row": 65,
+  "company": "Scale AI",
+  "spoc": "Sean Nguyen",
+  "final_email": "sean.nguyen@scale.com",
+  "is_official": true,
+  "prior_email": "sdhn15@gmail.com",
+  "credits_spent": 1
+ },
+ "67": {
+  "row": 67,
+  "company": "Surge AI",
+  "spoc": "Maria Wang-Faulkner",
+  "final_email": "maria@surgehq.ai",
+  "is_official": true,
+  "prior_email": "mariaywang@gmail.com",
+  "credits_spent": 2,
+  "source": "signalhire_recheck"
+ },
+ "68": {
+  "row": 68,
+  "company": "Surge AI",
+  "spoc": "Ari Klein",
+  "final_email": "ari@surgehq.ai",
+  "is_official": true,
+  "prior_email": "arisacal@gmail.com",
+  "credits_spent": 1
+ },
+ "69": {
+  "row": 69,
+  "company": "Surge AI",
+  "spoc": "Dave Games",
+  "final_email": "davegames@surgehq.ai",
+  "is_official": true,
+  "prior_email": "dvegames@gmail.com",
+  "credits_spent": 1
+ },
+ "70": {
+  "row": 70,
+  "company": "Surge AI",
+  "spoc": "Devin Marsh",
+  "final_email": "devinmarsh@surgehq.ai",
+  "is_official": true,
+  "prior_email": "devmarsh@gmail.com",
+  "credits_spent": 1
+ },
+ "71": {
+  "row": 71,
+  "company": "Surge AI",
+  "spoc": "Matt Ross",
+  "final_email": "mattross@surgehq.ai",
+  "is_official": true,
+  "prior_email": "mattross93@gmail.com",
+  "credits_spent": 1
+ },
+ "72": {
+  "row": 72,
+  "company": "Surge AI",
+  "spoc": "Mustafa G\u00fcndo\u011fdu",
+  "final_email": "gmustafa@iom.int",
+  "is_official": true,
+  "prior_email": "",
+  "credits_spent": 1
+ },
+ "73": {
+  "row": 73,
+  "company": "Labelbox",
+  "spoc": "Manu Sharma",
+  "final_email": "manu@labelbox.com",
+  "is_official": true,
+  "prior_email": "manu2790@gmail.com",
+  "credits_spent": 1
+ },
+ "75": {
+  "row": 75,
+  "company": "Labelbox",
+  "spoc": "Tanmay Chakraborty",
+  "final_email": "tchakraborty@labelbox.com",
+  "is_official": true,
+  "prior_email": "tanmay1c@gmail.com",
+  "credits_spent": 1
+ },
+ "76": {
+  "row": 76,
+  "company": "Labelbox",
+  "spoc": "Luciana (Lulu) Safdie",
+  "final_email": "lsafdie@labelbox.com",
+  "is_official": true,
+  "prior_email": "lusafdie@gmail.com",
+  "credits_spent": 1
+ },
+ "77": {
+  "row": 77,
+  "company": "Invisible Tech",
+  "spoc": "claudio-ronda",
+  "final_email": "",
+  "is_official": false,
+  "prior_email": "",
+  "credits_spent": 2
+ },
+ "78": {
+  "row": 78,
+  "company": "Invisible Tech",
+  "spoc": "Adam Kuznia",
+  "final_email": "adam.kuznia@invisible.email",
+  "is_official": true,
+  "prior_email": "kuzniaag@gmail.com",
+  "credits_spent": 1
+ },
+ "79": {
+  "row": 79,
+  "company": "Invisible Tech",
+  "spoc": "matthew-fitzpatrick",
+  "final_email": "matt@invisible.co",
+  "is_official": true,
+  "prior_email": "Matthew.A.Fitzpatrick@gmail.com",
+  "credits_spent": 1
+ },
+ "81": {
+  "row": 81,
+  "company": "Toloka AI",
+  "spoc": "Olga Megorskaya",
+  "final_email": "omegorskaya@toloka.ai",
+  "is_official": true,
+  "prior_email": "olga.megorskaya@gmail.com",
+  "credits_spent": 1
+ },
+ "82": {
+  "row": 82,
+  "company": "Toloka AI",
+  "spoc": "Artem Grigorev",
+  "final_email": "ortemij@toloka.ai",
+  "is_official": true,
+  "prior_email": "ortemij@gmail.com",
+  "credits_spent": 1
+ },
+ "83": {
+  "row": 83,
+  "company": "Toloka AI",
+  "spoc": "Maggie Matyszewska",
+  "final_email": "maggie@micro1.ai",
+  "is_official": true,
+  "prior_email": "karioczka@gmail.com",
+  "credits_spent": 1
+ },
+ "84": {
+  "row": 84,
+  "company": "Toloka AI",
+  "spoc": "Justin Anderson",
+  "final_email": "justin@toloka.ai",
+  "is_official": true,
+  "prior_email": "justinmanderson415@gmail.com",
+  "credits_spent": 1
+ },
+ "85": {
+  "row": 85,
+  "company": "Toloka AI",
+  "spoc": "Aleksandr Syrov",
+  "final_email": "asyrov@toloka.ai",
+  "is_official": true,
+  "prior_email": "",
+  "credits_spent": 1
+ },
+ "86": {
+  "row": 86,
+  "company": "Toloka AI",
+  "spoc": "Christelle Win Lime",
+  "final_email": "cwinlime@toloka.ai",
+  "is_official": true,
+  "prior_email": "croux@yahoo.com",
+  "credits_spent": 1
+ },
+ "87": {
+  "row": 87,
+  "company": "SuperAnnotate",
+  "spoc": "Leo Lind\u00e9n",
+  "final_email": "leo@superannotate.com",
+  "is_official": true,
+  "prior_email": "leo.e.linden@gmail.com",
+  "credits_spent": 1
+ },
+ "88": {
+  "row": 88,
+  "company": "SuperAnnotate",
+  "spoc": "Vishwesh Prasad",
+  "final_email": "vish@superannotate.com",
+  "is_official": true,
+  "prior_email": "vishweshprasad92@gmail.com",
+  "credits_spent": 1
+ },
+ "89": {
+  "row": 89,
+  "company": "SuperAnnotate",
+  "spoc": "Tigran Petrosyan",
+  "final_email": "tigran@superannotate.com",
+  "is_official": true,
+  "prior_email": "tik.hakobyan@gmail.com",
+  "credits_spent": 1
+ },
+ "91": {
+  "row": 91,
+  "company": "SuperAnnotate",
+  "spoc": "Davit Badalyan",
+  "final_email": "davit@superannotate.com",
+  "is_official": true,
+  "prior_email": "davit.badalyan@gmail.com",
+  "credits_spent": 1
+ },
+ "93": {
+  "row": 93,
+  "company": "Centific",
+  "spoc": "Prithivi Pradeep",
+  "final_email": "prithivi_raj@hotmail.com",
+  "is_official": false,
+  "prior_email": "prithivi_raj@hotmail.com",
+  "credits_spent": 2
+ },
+ "95": {
+  "row": 95,
+  "company": "Centific",
+  "spoc": "Kohinoor Kaur Mundi",
+  "final_email": "",
+  "is_official": false,
+  "prior_email": "",
+  "credits_spent": 2
+ },
+ "97": {
+  "row": 97,
+  "company": "Centific",
+  "spoc": "Akhila Makam Venkatesh, PMP\u00ae",
+  "final_email": "",
+  "is_official": false,
+  "prior_email": "",
+  "credits_spent": 2
+ },
+ "98": {
+  "row": 98,
+  "company": "Epoch AI",
+  "spoc": "Jaime Sevilla",
+  "final_email": "jaime@epoch.ai",
+  "is_official": true,
+  "prior_email": "",
+  "credits_spent": 1
+ },
+ "99": {
+  "row": 99,
+  "company": "Epoch AI",
+  "spoc": "David Owen",
+  "final_email": "david@epoch.ai",
+  "is_official": true,
+  "prior_email": "davidowen11a@gmail.com",
+  "credits_spent": 1
+ },
+ "28": {
+  "row": 28,
+  "company": "Anthropic",
+  "spoc": "jeremie Morfin",
+  "final_email": "jmorfin@standardcognition.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "74": {
+  "row": 74,
+  "company": "Labelbox",
+  "spoc": "Brian Rieger",
+  "final_email": "brian@riegerb.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "80": {
+  "row": 80,
+  "company": "Invisible Tech",
+  "spoc": "Kit Colbert",
+  "final_email": "kdenike@vmware.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "90": {
+  "row": 90,
+  "company": "SuperAnnotate",
+  "spoc": "Vahan Petrosyan",
+  "final_email": "vahan@superannotate.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "92": {
+  "row": 92,
+  "company": "SuperAnnotate",
+  "spoc": "Jason Liang",
+  "final_email": "jason@superannotate.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "94": {
+  "row": 94,
+  "company": "Centific",
+  "spoc": "Vicky Hu",
+  "final_email": "vicky.hu@intel.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "96": {
+  "row": 96,
+  "company": "Centific",
+  "spoc": "Vasudevan ( Vasu ) Sundarababu",
+  "final_email": "vasudevan.sundarababu@centific.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "100": {
+  "row": 100,
+  "company": "Epoch AI",
+  "spoc": "Greg Burnham",
+  "final_email": "",
+  "is_official": false,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "103": {
+  "row": 103,
+  "company": "Deccan AI",
+  "spoc": "Rukesh Reddy",
+  "final_email": "rukesh.reddy@citi.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "104": {
+  "row": 104,
+  "company": "Deccan AI",
+  "spoc": "Purva Bhandari",
+  "final_email": "7purvab@iimahd.ernet.in",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "105": {
+  "row": 105,
+  "company": "Deccan AI",
+  "spoc": "Vishal Chilla",
+  "final_email": "",
+  "is_official": false,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "106": {
+  "row": 106,
+  "company": "Deccan AI",
+  "spoc": "Anshool Agarwal",
+  "final_email": "anshool@deccan.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "107": {
+  "row": 107,
+  "company": "Deccan AI",
+  "spoc": "Nikita Sadhnani",
+  "final_email": "nikita.sadhnani@berglabs.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "108": {
+  "row": 108,
+  "company": "Rise Data Labs",
+  "spoc": "Vivian Chen",
+  "final_email": "vivian@joinrise.co",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "113": {
+  "row": 113,
+  "company": "Prolific",
+  "spoc": "William Silverthorne-Green",
+  "final_email": "williamhlgreen@gmail.com",
+  "is_official": false,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "114": {
+  "row": 114,
+  "company": "Prolific",
+  "spoc": "Enzo Blindow",
+  "final_email": "eblindow@fb.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "115": {
+  "row": 115,
+  "company": "Prolific",
+  "spoc": "Russ Tarr",
+  "final_email": "russ.tarr@feefo.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "116": {
+  "row": 116,
+  "company": "Prolific",
+  "spoc": "Kieran Ball",
+  "final_email": "kieranball94@gmail.com",
+  "is_official": false,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "133": {
+  "row": 133,
+  "company": "poolside",
+  "spoc": "Fran\u00e7ois Lange",
+  "final_email": "francois@poolside.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "134": {
+  "row": 134,
+  "company": "poolside",
+  "spoc": "Jenn Lachman",
+  "final_email": "jenn@poolside.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "135": {
+  "row": 135,
+  "company": "poolside",
+  "spoc": "Andrea Badia Serra",
+  "final_email": "andrea@poolside.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "136": {
+  "row": 136,
+  "company": "poolside",
+  "spoc": "Jason Warner",
+  "final_email": "jason@poolside.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "137": {
+  "row": 137,
+  "company": "poolside",
+  "spoc": "Margarida Garcia",
+  "final_email": "margarida@poolside.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "138": {
+  "row": 138,
+  "company": "poolside",
+  "spoc": "Robert McHardy",
+  "final_email": "rm@computerbase.de",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "139": {
+  "row": 139,
+  "company": "Anysphere (Cursor / Composer)",
+  "spoc": "Jordan Topoleski",
+  "final_email": "jtopoleski@x.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "140": {
+  "row": 140,
+  "company": "Anysphere (Cursor / Composer)",
+  "spoc": "Jimmy Harrington",
+  "final_email": "jharrington@militarybenefit.org",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "141": {
+  "row": 141,
+  "company": "Anysphere (Cursor / Composer)",
+  "spoc": "Emilie Cooksey",
+  "final_email": "emilie.cooksey@starburstdata.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "142": {
+  "row": 142,
+  "company": "Anysphere (Cursor / Composer)",
+  "spoc": "Courtney Truong",
+  "final_email": "courtney@graphite.dev",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "143": {
+  "row": 143,
+  "company": "Anysphere (Cursor / Composer)",
+  "spoc": "Chelane O'Brien",
+  "final_email": "chelane.beavers@gmail.com",
+  "is_official": false,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "144": {
+  "row": 144,
+  "company": "Anysphere (Cursor / Composer)",
+  "spoc": "Michael T.",
+  "final_email": "michael@cursor.so",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "145": {
+  "row": 145,
+  "company": "Anysphere (Cursor / Composer)",
+  "spoc": "Aman Sanger",
+  "final_email": "aman@cursor.so",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "146": {
+  "row": 146,
+  "company": "Anysphere (Cursor / Composer)",
+  "spoc": "Arvid Lunnemark",
+  "final_email": "arvid@mit.edu",
+  "is_official": false,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "147": {
+  "row": 147,
+  "company": "Anysphere (Cursor / Composer)",
+  "spoc": "Sualeh A.",
+  "final_email": "sualeh@anysphere.inc",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "148": {
+  "row": 148,
+  "company": "Anysphere (Cursor / Composer)",
+  "spoc": "Nihar Jhawar",
+  "final_email": "p12niharj@iimahd.ernet.in",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "149": {
+  "row": 149,
+  "company": "Mechanize Inc.",
+  "spoc": "Tamay Besiroglu",
+  "final_email": "tamay@mechanize.work",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "150": {
+  "row": 150,
+  "company": "Mechanize Inc.",
+  "spoc": "Matthew Barnett",
+  "final_email": "matthew@mechanize.work",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "151": {
+  "row": 151,
+  "company": "Prime Intellect",
+  "spoc": "Johannes Hagemann",
+  "final_email": "johannes@primeintellect.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "152": {
+  "row": 152,
+  "company": "Prime Intellect",
+  "spoc": "Will Brown",
+  "final_email": "williambrown97@gmail.com",
+  "is_official": false,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "153": {
+  "row": 153,
+  "company": "Prime Intellect",
+  "spoc": "Vincent Weisser",
+  "final_email": "vincent@primeintellect.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "154": {
+  "row": 154,
+  "company": "Prime Intellect",
+  "spoc": "Sami Jaghouar",
+  "final_email": "sami@primeintellect.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "155": {
+  "row": 155,
+  "company": "Applied Compute",
+  "spoc": "Rhythm Garg",
+  "final_email": "rhythm@appliedcompute.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "156": {
+  "row": 156,
+  "company": "Applied Compute",
+  "spoc": "Linden Li",
+  "final_email": "linden@appliedcompute.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "157": {
+  "row": 157,
+  "company": "Applied Compute",
+  "spoc": "Yash Patil",
+  "final_email": "yash@appliedcompute.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "158": {
+  "row": 158,
+  "company": "IBM Granite Code",
+  "spoc": "Ruchir Puri",
+  "final_email": "ruchir@us.ibm.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "159": {
+  "row": 159,
+  "company": "IBM Granite Code",
+  "spoc": "Sriram Raghavan",
+  "final_email": "sriramraghavan@in.ibm.com",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "161": {
+  "row": 161,
+  "company": "Datacurve (Shipd)",
+  "spoc": "Serena Ge",
+  "final_email": "serena@datacurve.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "162": {
+  "row": 162,
+  "company": "Datacurve (Shipd)",
+  "spoc": "Charley Lee",
+  "final_email": "charley@datacurve.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "163": {
+  "row": 163,
+  "company": "CodeRabbit",
+  "spoc": "Guritfaq Singh",
+  "final_email": "gur@coderabbit.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "164": {
+  "row": 164,
+  "company": "CodeRabbit",
+  "spoc": "Harjot Gill",
+  "final_email": "harjot@coderabbit.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "165": {
+  "row": 165,
+  "company": "CodeRabbit",
+  "spoc": "David Loker",
+  "final_email": "david@coderabbit.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "184": {
+  "row": 184,
+  "company": "HUD",
+  "spoc": "Jay Ram",
+  "final_email": "jay@hud.so",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "185": {
+  "row": 185,
+  "company": "HUD",
+  "spoc": "Parth A. Patel",
+  "final_email": "parth@hud.so",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "186": {
+  "row": 186,
+  "company": "HUD",
+  "spoc": "Roni Zahavi",
+  "final_email": "roni.zahavi@darrow.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "187": {
+  "row": 187,
+  "company": "HUD",
+  "spoc": "Lorenss Martinsons",
+  "final_email": "lm@hud.so",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "198": {
+  "row": 198,
+  "company": "Andromede",
+  "spoc": "Alexandre Sallinen",
+  "final_email": "",
+  "is_official": false,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "199": {
+  "row": 199,
+  "company": "Andromede",
+  "spoc": "Guillaume All\u00e8gre",
+  "final_email": "",
+  "is_official": false,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "200": {
+  "row": 200,
+  "company": "Andromede",
+  "spoc": "Stefan Krsteski",
+  "final_email": "stefan.krsteski@andromede.ai",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "201": {
+  "row": 201,
+  "company": "Andromede",
+  "spoc": "Tony O'Halloran",
+  "final_email": "",
+  "is_official": false,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "203": {
+  "row": 203,
+  "company": "Huzzlelabs",
+  "spoc": "Parham Rakhshanfar",
+  "final_email": "parham@huzzle.app",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "204": {
+  "row": 204,
+  "company": "Huzzlelabs",
+  "spoc": "Kiran Varsani",
+  "final_email": "kiran@huzzle.app",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ },
+ "205": {
+  "row": 205,
+  "company": "Huzzlelabs",
+  "spoc": "Ingmar Klein",
+  "final_email": "ingmar@huzzle.app",
+  "is_official": true,
+  "source": "signalhire",
+  "credits_spent": 0
+ }
+}

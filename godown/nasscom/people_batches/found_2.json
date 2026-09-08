@@ -1,0 +1,329 @@
+[
+  {
+    "name": "Cypros Technologies Private Limited",
+    "domain": "cypros.in",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Text is services copy only; no person named anywhere",
+    "others": []
+  },
+  {
+    "name": "DataFlow Services (India) Private Limited",
+    "domain": "corp.dataflowgroup.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only repeated page title 'The DataFlow Group Support Centre'; no names",
+    "others": []
+  },
+  {
+    "name": "Dev Accelerator Limited",
+    "domain": "devx.work",
+    "person": "Rushit Shah",
+    "title": "Co-founder & Whole-time Director",
+    "linkedin": "",
+    "confidence": "high",
+    "evidence": "'Our Founders ... Rushit Shah Co-founder & Whole-time Director'",
+    "others": [
+      {
+        "person": "Parth Shah",
+        "title": "Co-founder & Chairman of the Board",
+        "linkedin": ""
+      },
+      {
+        "person": "Umesh U.",
+        "title": "Co-founder & Managing Director",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Direction Software Solutions",
+    "domain": "direction.biz",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Services and 'Indo-German management' copy only; no individual named",
+    "others": []
+  },
+  {
+    "name": "Egon Zehnder Information and Research Services Private Limited",
+    "domain": "egonzehnder.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Article listings about CEOs generally; no named Egon Zehnder leader",
+    "others": []
+  },
+  {
+    "name": "Enviri India Services Private Limited",
+    "domain": "enviri.com",
+    "person": "Russell Hochman",
+    "title": "President and Chief Executive Officer",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "'Russell Hochman President and Chief Executive Officer' on Enviri Corporation leadership page",
+    "others": []
+  },
+  {
+    "name": "Escrownxt Services Private Limited",
+    "domain": "escrowtech.in",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "'The Core Management Team consists of ... Experts' - no names given",
+    "others": []
+  },
+  {
+    "name": "Everligntek Solutions Private Limited",
+    "domain": "everligntek.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "About/values copy only; 'Our expert team' but no person named",
+    "others": []
+  },
+  {
+    "name": "Fact Solutions India Pvt Ltd",
+    "domain": "factsoftware.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only 'Rasesh D, Managing Director, The Associated Auto Parts' - client testimonial",
+    "others": []
+  },
+  {
+    "name": "Fidrox Technologies Private Limited",
+    "domain": "fidrox.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Product page and footer only; no person named",
+    "others": []
+  },
+  {
+    "name": "First American (India) Pvt Ltd",
+    "domain": "firstam.co.in",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "'Donald Parker Kennedy, grandson of the founder, joined ... in 1948' - history, not current",
+    "others": []
+  },
+  {
+    "name": "GIEOM Business Solutions Private Limited",
+    "domain": "gieom.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "'Founded in 2012, Gieom is a leading provider' - no founder named",
+    "others": []
+  },
+  {
+    "name": "Globex Digital Solutions Private Limited",
+    "domain": "globexdigitalcorp.com",
+    "person": "Vijay Mohan Namana",
+    "title": "Chief Executive Officer",
+    "linkedin": "",
+    "confidence": "high",
+    "evidence": "'Vijay Mohan Namana Chief Executive Officer ... As CEO of Globex Digital'",
+    "others": [
+      {
+        "person": "Chandu N S",
+        "title": "Founder & Chief Innovation Officer",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "GreatFour Systems Private Limited",
+    "domain": "greatfour.com",
+    "person": "Pradeep Mittal",
+    "title": "CEO",
+    "linkedin": "https://www.linkedin.com/in/pradeep-mittal-a66464",
+    "confidence": "high",
+    "evidence": "'PRADEEP MITTAL CEO Pradeep is a Serial Entrepreneur' on core-team page",
+    "others": [
+      {
+        "person": "Arvind Kaul",
+        "title": "Executive Director",
+        "linkedin": "https://www.linkedin.com/in/arvind-kaul-6243b321"
+      },
+      {
+        "person": "Abhijit Goon",
+        "title": "Partner",
+        "linkedin": "https://www.linkedin.com/in/abhijitgoon"
+      },
+      {
+        "person": "Utkarsh Palnitkar",
+        "title": "Advisor - Life Sciences",
+        "linkedin": "https://www.linkedin.com/in/utkarsh-palnitkar"
+      }
+    ]
+  },
+  {
+    "name": "GTMVantage Technologies Private Limited",
+    "domain": "gtmvantage.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only repeated tagline 'GTMVantage - AI-Powered GTM Intelligence'",
+    "others": []
+  },
+  {
+    "name": "HanuAl Private Limited",
+    "domain": "roadathena.com",
+    "person": "Prerna Kalra",
+    "title": "Co-Founder",
+    "linkedin": "https://www.linkedin.com/in/prerna-kalra-2497661",
+    "confidence": "high",
+    "evidence": "'Leadership Core Team ... PRERNA KALRA Co-Founder' on RoadAtthena team page",
+    "others": [
+      {
+        "person": "Manav Singal",
+        "title": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/manav-singal-09093911"
+      },
+      {
+        "person": "Rahul Kalra",
+        "title": "Chief Growth Officer",
+        "linkedin": "https://www.linkedin.com/in/dr-rahul-kalra-3a42b5288"
+      }
+    ]
+  },
+  {
+    "name": "Heera Software Private Limited",
+    "domain": "heerasoftware.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Product page for TradePulse DMS only; no person named",
+    "others": []
+  },
+  {
+    "name": "Hinduja Global Solutions Ltd",
+    "domain": "teamhgs.com",
+    "person": "Venk Korla",
+    "title": "Global CEO",
+    "linkedin": "https://www.linkedin.com/in/venk-korla-844924",
+    "confidence": "medium",
+    "evidence": "'As the Global CEO of HGS, he drives...'; first bio, linked venk-korla profile",
+    "others": [
+      {
+        "person": "Giridhar GV",
+        "title": "CEO - APAC & Global CHRO",
+        "linkedin": "https://www.linkedin.com/in/giridhar-g-v-b7ba6922"
+      },
+      {
+        "person": "Natarajan Radhakrishnan",
+        "title": "CEO - Americas",
+        "linkedin": "https://www.linkedin.com/in/nat-radhakrishnan-5069a81"
+      }
+    ]
+  },
+  {
+    "name": "iamneo Edutech Private Limited",
+    "domain": "iamneo.ai",
+    "person": "TP Senthil kumar",
+    "title": "Founder and CEO",
+    "linkedin": "",
+    "confidence": "high",
+    "evidence": "\"From the CEO's desk ... TP Senthil kumar Founder and CEO\"",
+    "others": []
+  },
+  {
+    "name": "IEMA Research & Development Private Limited",
+    "domain": "iemlabs.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Mission/services copy for IIEMLabs only; no person named",
+    "others": []
+  },
+  {
+    "name": "Impetus Technologies India Private Limited",
+    "domain": "impetus.com",
+    "person": "Nachiket Deshpande",
+    "title": "Chief Executive Officer",
+    "linkedin": "https://www.linkedin.com/in/nachiket-g-deshpande",
+    "confidence": "high",
+    "evidence": "'Nachiket Deshpande Chief Executive Officer' beside his profile on team page",
+    "others": [
+      {
+        "person": "Ritu Bapna",
+        "title": "Founder & Board Member",
+        "linkedin": ""
+      },
+      {
+        "person": "Vikash Gaur",
+        "title": "Chief Operating Officer",
+        "linkedin": "https://www.linkedin.com/in/vikash-gaur-89854a"
+      },
+      {
+        "person": "Shikha Kandoi",
+        "title": "Chief Financial Officer",
+        "linkedin": "https://www.linkedin.com/in/shikha-kandoi-39a4141b"
+      }
+    ]
+  },
+  {
+    "name": "India Land Tech Park Private Limited",
+    "domain": "indialand.net",
+    "person": "Jaynit Raheja",
+    "title": "Managing Director",
+    "linkedin": "https://www.linkedin.com/in/jaynit-raheja-680a6841",
+    "confidence": "high",
+    "evidence": "'Jaynit Raheja Managing Director' on Our Team page; profile context 'Managing Director'",
+    "others": [
+      {
+        "person": "Salai Kumaran",
+        "title": "Chief Executive Officer",
+        "linkedin": "https://www.linkedin.com/in/salai-kumaran-a390b660"
+      },
+      {
+        "person": "Harish Fabiani",
+        "title": "Chairman",
+        "linkedin": "https://www.linkedin.com/in/harish-fabiani-124a8b14"
+      },
+      {
+        "person": "Sonali Fabiani",
+        "title": "Vice Chairperson",
+        "linkedin": "https://www.linkedin.com/in/sonalifabiani"
+      }
+    ]
+  },
+  {
+    "name": "Inference Labs Private Limited",
+    "domain": "inference.in",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Leadership page text names nobody; only Smollan Tanzania client testimonial",
+    "others": []
+  },
+  {
+    "name": "Infomate 360 Solutions India Private Limited",
+    "domain": "infomate360.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "About-us screening-services copy only; no person named",
+    "others": []
+  }
+]

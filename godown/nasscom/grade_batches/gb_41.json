@@ -1,0 +1,982 @@
+[
+ {
+  "name": "Klenty India Private Limited",
+  "city": "Chennai",
+  "domain": "klenty.com",
+  "website": "https://www.klenty.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "tforms and sync your sales engagement data Hubspot Fire up your productivity by automating workflows with Klenty + Hubspot Slack Never miss a beat! Ge"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 29033,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 1,
+   "DQ_training": 4,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "Agentic Cadences research accounts, create tailored 1:1 emails for prospects, and even add personalization to stale templates on your behalf."
+   ],
+   "DQ_training": [
+    "LEARN MORE EMAIL DELIVERABILITY Fix Deliverability Issues Before They Hurt Outbound Performance Klenty’s end-to-end email deliverability and inbox placement suite protects your Sender Reputation, monitors domain/inbox health, and ensures every message lands in Primary Tabs.",
+    "See how to engage prospects across multiple channels Learn how to increase call volume and improve connect rates Understand how to uncover coaching insights and deliver active coaching --> --> --> Work Email * Please enter a valid email ID Validating Email..."
+   ],
+   "cicd": [
+    "EXPLORE ALL INTEGRATIONS See How World-Class Sales Teams Dominate Their Market Hear our customers explaining the sales strategies, tactics and approaches that helped them create and close more pipeline.",
+    "Cold Calling Vault 150+ call tips, frameworks, and playbooks from top sales leaders Account-based Selling Guide A practical guide to targeting the right accounts and building pipeline."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Klodev Private Limited",
+  "city": "Coimbatore",
+  "domain": "klodev.com",
+  "website": "https://www.klodev.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ls and supercharges your business immediately. Slide 2 of 5 Software Development Build world-class software with a pool of highly efficient and experi"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Klodev has revolutionized the data management of our SaaS product, resulting in substantial improvements in operational efficiency and service delivery."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "KloudPortal Technology Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "kloudportal.com",
+  "website": "https://kloudportal.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 4,
+   "sdlc": 2,
+   "prod_eng": 3
+  },
+  "site_quotes": {
+   "cicd": [
+    " Lakehouse & Data Mesh  Real-time Analytics  Data Governance & Quality Explore Solution MEASURES PRACTICE Claude Agents & GenAI Attach Claude agents directly to governed Databricks data — reasoning over live pipelines, not static exports.",
+    "Slow Time to Insight Complex pipelines and manual processes delay insights and opportunities.",
+    "Data Integration & Pipelines Design and automate robust ETL/ELT pipelines for reliable data flow."
+   ],
+   "sdlc": [
+    "Our engineers work as an extension of your organization — bringing certified Databricks and Claude expertise directly into your sprints, not a detached project team.",
+    " Pre-vetted & certified engineers  Rapid onboarding & minimal ramp-up time  Aligned with your goals, tools & processes  Flexible engagement models OUR STRATEGIC ALLIANCES Partnering with the Best to Deliver Excellence Build Tomorrow, Faster."
+   ],
+   "prod_eng": [
+    "Platform Engineering Build self-service cloud platforms that accelerate developer productivity and delivery.",
+    " Murthy Advisor Technology strategist and innovation leader with extensive experience in enterprise architecture and product engineering."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Kochhar & Co.",
+  "city": "Bengaluru",
+  "domain": "kochhar.com",
+  "website": "https://kochhar.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 15625,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "is the first port of call for more than 65 of the Global Fortune 500 Corporations and behemoths of the Indian industry."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Kongsberg Digital Software And Services Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "kongsberg.com",
+  "website": "https://www.kongsberg.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 120996,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Strategic Alliance KONGSBERG brings a 200-year legacy of engineering excellence delivering advanced maritime and undersea systems worldwide."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Kryptoninc Infolab LLP",
+  "city": "Ahmedabad",
+  "domain": "kryptoninc.co",
+  "website": "https://kryptoninc.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Brand With Our Digital Solutions Request Quote Mobile Apps Android App Development iOS App Development Flutter App Development React Native App Devel"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 22486,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 4,
+   "prod_eng": 1,
+   "owns_product": 1,
+   "enterprise": 3
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Flexible Engagement Models Our solutions are scalable and can grow with your business, ensuring that you get the most value out of your investment.",
+    "Build With Us Full Stack Development Engagement Model We offer flexible full stack development engagement models customized to your business needs.",
+    "Yes, we offer flexible engagement models—full-time, part-time, hourly, or project-based—tailored to your needs.",
+    "Our combination of technical expertise, agile approach, industry knowledge, and a strong focus on client success sets us apart."
+   ],
+   "prod_eng": [
+    "About Kryptoninc HOW WE DO Solutions Product Engineering Our area of expertise is product engineering, and we develop creative solutions that advance your company."
+   ],
+   "owns_product": [
+    "Learn more MVP Launch Accelerate your product launch with our MVP development expertise."
+   ],
+   "enterprise": [
+    "Healthcare Fintech Foods & Beverages Education Staffing & Recruiting E-commerce View All Industries What we solve Bringing The Best Solutions For Your Business.",
+    "The National Disability Insurance Scheme (NDIS) has transformed the way disability support services are delivered in Australia.",
+    "Get Started Industries we serve Natwest Banking Natwest’s Business & Private Banking division partnered with Salesforce to create a 360° customer view for 4,000 bankers, integrating 7 APIs into a user-friendly design."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Kumaran Systems Pvt Ltd",
+  "city": "Chennai",
+  "domain": "kumaran.com",
+  "website": "https://kumaran.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 5545,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 6,
+   "enterprise": 15,
+   "cicd": 5,
+   "owns_product": 1,
+   "sdlc": 9
+  },
+  "site_quotes": {
+   "qa": [
+    "03 Test Automation Solutions High-quality automated testing improving efficiency and ensuring optimal value.",
+    "Explore Cloud Quality QA Services Comprehensive quality assurance ensuring your software meets the highest standards - automated, manual, performance and security testing built into every release cycle.",
+    "Explore QA Lifecycle Application Development Maintenance Services Application development and maintenance keeping systems current, secure and performant - from greenfield builds to long-tail legacy support, under one SLA.",
+    "Explore eTRK ktac.kumaran.app Live KTAC Automation Kumaran Test Automation Center Reusable frameworks that slash test creation time, built for teams that ship fast and can't afford gaps."
+   ],
+   "enterprise": [
+    "70% Reduced manual efforts Active Industries Expertise That Empowers Industries Worldwide 200+ Banking Transformation Programs Trusted Banking & Finance Sector Banking & Finance Sector Enabling SMEs with innovative technologies that optimize efficiency and meet their banking needs in an evolving financial landscape.",
+    "Explore Industry 70% Reduce manual processing effort by up to Effort Insurance Insurance Scalable solutions that generate customer value and enhance your company's digital journey through intelligent data platforms.",
+    "Read article Blog Sep 2024 Artificial Intelligence (AI) In Insurance Explore how AI is revolutionizing insurance with faster claims, better risk assessment, and improved customer experience.",
+    "Read article Blog Nov 2023 Revolutionizing Loss Run Reports: The Impact of Cognitive Document Processing in P&C Insurance industry Discover how Cognitive Document Processing (CDP) revolutionizes Loss Run report handling in P&C insurance with automation, AI-driven accuracy, and cost savings."
+   ],
+   "cicd": [
+    "Explore ADM Analytics Data & Analytics Services Transform raw data into actionable business intelligence through advanced analytics - modern lakehouses, AI-ready pipelines and decision dashboards built on Databricks.",
+    "Explore KTAC idp.kumaran.app Live IDP AI · Document Intelligence Intelligent Document Parser (IDP) Computer-vision pipeline that extracts complex tables, text and layouts straight into clean JSON.",
+    "The most overwhelming part of this type of modernization is ensuring smooth user movement of legacy services to the new modernized systems."
+   ],
+   "owns_product": [
+    "Explore Mobile View All Services Our Products Tools We Built Advantage You Keep Proprietary, in-house engineered software."
+   ],
+   "sdlc": [
+    "Read article Blog Nov 2023 Modernizing Apps: The Agile Way App Modernizations are already transforming applications worldwide.",
+    "Here is how to do it through Agile for a quick quantum leap toward the future.",
+    "Artificial Intelligence (AI) In Insurance Revolutionizing Loss Run Reports: The Impact of Cognitive Document Processing in P&C Insurance industry Modernization Modernizing Apps: The Agile Way Continue reading Related articles Blog Feb 2025 · Modernization Can the Cloud Replace Mainframes?",
+    "Read article Blog Nov 2023 · Modernization Modernizing Apps: The Agile Way App Modernizations are already transforming applications worldwide."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Kyndryl Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "kyndryl.com",
+  "website": "https://www.kyndryl.com/in/en",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 123682,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "enterprise": 4,
+   "DQ_training": 2,
+   "sdlc": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Explore jobs Answers to questions about Kyndryl Investors Sustainability Careers Kyndryl Kyndryl consulting Our platform Alliances and partners Investing in Kyndryl Kyndryl culture Does Kyndryl provide consulting services?"
+   ],
+   "enterprise": [
+    "Our business quite literally powers the vital systems that run banks, stock markets, airlines, automotive and healthcare companies, governments and more.",
+    "Explore customer stories 4000+ Global customers including of the Fortune 100 --> of the Fortune 100 Explore customer stories ISG names Kyndryl a Leader for GenAI and agentic AI services Kyndryl named Leader in ISG Provider Lens global Insurance Services report for agentic AI and generative AI.",
+    "Earlier in her career, Una served as a communications manager for the World Bank’s microfinance policy center, Senior Vice President for Corporate Affairs for Citigroup's markets and banking unit and was a Senior Communications Advisor at the U.S.",
+    "Previously, Michael was Executive Vice President and Group President of Commercial Solutions at Conduent, where he led a diverse global portfolio including Customer Experience Management, Automated Document Solutions, Finance and Accounting, Procurement, Commercial Healthcare, and Banking and Lending solutions."
+   ],
+   "DQ_training": [
+    "The program also provides placement opportunities in the industry, empowering women to build successful careers in cybersecurity.",
+    "Giovanni joined IBM in 2008 through the ExtremeBlue internship program while pursuing his MBA and full-time after graduation as part of the IBM Corporate Leadership Development Program."
+   ],
+   "sdlc": [
+    "Under his leadership, the division doubled and transformed into an agile, business-outcome-oriented team, focused on helping clients address their data and analytics needs.",
+    "Prior to this, Ingram served as Managing Partner at Kyndryl for major European financial institutions, leading international teams to deliver modernised infrastructure services that support Agile and DevOps ways of working."
+   ],
+   "DQ_support": [
+    "Paolo has spent more than 30 years with IBM in sales and marketing, hardware and software roles, with responsibilities in Italy and around the world."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "L&T Technology Services Ltd",
+  "city": "Mumbai",
+  "domain": "ltts.com",
+  "website": "https://www.ltts.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "L&T Technology Services (LTTS) | Digital Engineering, Product Engineering and ER&D Services Skip to main content × Quick Links mini Search info@"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 32721,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 2,
+   "owns_product": 1,
+   "qa": 1,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Know More Our Latest Insights eBook Pragmatic by Design: Engineering AI For the Real World Discover how AI is transforming product engineering with insights on scaling, trust, and innovation from industry leaders in this MITTR-LTTS report.",
+    "| How LTTS is #EngineeringTheChange Our Journey Toward Engineering Innovation and Excellence Born from the engineering excellence of Larsen & Toubro (L&T), LTTS began as a division within one of the world’s largest engineering conglomerates."
+   ],
+   "owns_product": [
+    "Through various growth platforms and innovative accelerator programs, our goal is to carve out the right career growth path for all our people and empower them to innovate a better tomorrow."
+   ],
+   "qa": [
+    "Know More From Fragmented Test Systems To An Intelligent ATE Ecosystem LTTS modernized automated testing with an intelligent ATE framework - delivering 35% lower costs, 50% higher throughput, and 40% faster time-to-market."
+   ],
+   "sdlc": [
+    "Our commitment to excellence and innovation doesn’t stop at the technologies we develop; it extends to how we work with our clients.",
+    "Our commitment to Purposeful Agile Innovation drives us to consistently push boundaries."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ladera Technology Private Limited",
+  "city": "Chennai",
+  "domain": "laderatechnology.com",
+  "website": "https://laderatechnology.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2016-07-19",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 37967,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Lantronix India Private Limited",
+  "city": "Hyderabad",
+  "domain": "lantronix.com",
+  "website": "https://www.lantronix.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 12532,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 12,
+   "enterprise": 4,
+   "owns_product": 1,
+   "qa": 1,
+   "sdlc": 1,
+   "cicd": 3,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Edge AI Solutions At Lantronix, we deliver on the promise of Edge AI with proven real-world solutions, integrating the hardware, software and management platform required to make real-time decisions at the edge.",
+    "Lantronix’s proven intelligent networking solutions enable you to monitor and manage your connected devices and utilities, securely and at scale.",
+    "Hardware Engineering Developing custom embedded computing modules and peripheral boards tailored to client’s specifications.",
+    "Learn More EdgeFabric.ai Visual orchestration platform where AI, hardware, and speed converge into a seamless fabric of intelligence."
+   ],
+   "enterprise": [
+    "IT/Data Center Healthcare Banking & Financial Case STUDY Lantronix Powers U.S.",
+    "Income Protection and Wealth Accumulation Includes a 401(k) plan with company match, Short and Long-Term Disability, Life Insurance, and much more.",
+    "(NASDAQ: LTRX) is a global provider of Edge AI and Industrial IoT solutions that power NDAA-compliant unmanned systems, critical infrastructure, and resilient enterprise networks Contact Us 05 Offices Worldwide 250+ Employees 2M+ Customers 15+ UAV Customers 50+ IoT Products About Lantronix Lantronix Inc.",
+    "(Nasdaq: LTRX) is a global leader in Edge AI and Industrial IoT solutions, delivering intelligent computing, secure connectivity, and remote management for mission-critical applications."
+   ],
+   "owns_product": [
+    "With over 2,000 projects successfully delivered to leading global brand companies, you can trust Lantronix to deliver the results you are looking for to get your products to market faster."
+   ],
+   "qa": [
+    "Learn More Quality Assurance Lantronix’s Quality Assurance services (QA Services) are based on the project requirements (e.g."
+   ],
+   "sdlc": [
+    "Prototype, Waterfall, Agile) and the independent testing and validation team participates in all phases of the project, such as formal technical reviews, audits, carrying out different levels of testing like White box, Black box, System testing and assist during certification process."
+   ],
+   "cicd": [
+    "Its API-first architecture with OpenAI 3.1-compliant REST interface integrates seamlessly with your automation tools including NetBox, Ansible, Terraform, ServiceNow and custom CMDRs.",
+    "OpenAPI 3.1 REST Every management action is callable from Ansible, ServiceNow, Terraform and more.",
+    "The platform integrates natively with the tools network teams already run: NetBox, Ansible, Terraform, ServiceNow, and custom CMDBs which makes the out-of-band layer a fully programmable component of the broader NetOps automation stack."
+   ],
+   "DQ_training": [
+    "The SLC 9000 is the natural next step — not a replacement, but an evolution."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Latent View Analytics Limited",
+  "city": "Chennai",
+  "domain": "latentview.com",
+  "website": "https://www.latentview.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 1711,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [
+    "https://latentview.darwinbox.in/ms/candidate/careers"
+   ],
+   "jd_chars": 12057,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 24,
+   "cicd": 9,
+   "owns_product": 1,
+   "sdlc": 2,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Technology CPG Financial Services Retail Industrials Healthcare & Life Sciences Insights Close Insights Open Insights Insights Trends and perspectives on all things data.",
+    "Read More → LatentView Analytics invests $3M in HealtheonAI, an agentic AI start-up focused on healthcare RCM.",
+    "Read More → HIGHLIGHTS Data Analytics LatentView Analytics invests $3M in HealtheonAI, an agentic AI start-up focused on healthcare RCM.",
+    "0 + Fortune 500 Clients Analytics ally for top companies worldwide."
+   ],
+   "cicd": [
+    "Whether you’re migrating to Databricks Lakehouse, modernizing a Snowflake data warehouse, building real-time pipelines on Azure or AWS, or engineering the data infrastructure for AI and machine learning – LatentView delivers end-to-end execution, not just advice.",
+    "With 20+ years of experience and a Fortune 500 client base, we unify fragmented data across cloud and on premise systems, eliminate data silos, implement Unity Catalog governance frameworks, and build the scalable pipelines that power reliable analytics and AI decisions.",
+    "Unreliable data quality and lack of trust – Inconsistent pipelines and poor validation reduce confidence in analytics outputs.",
+    "Slow analytics and delayed decision-making – Inefficient data pipelines increase latency and limit timely insights."
+   ],
+   "owns_product": [
+    "2021 Became the first analytics firm to go public, launched growth accelerators."
+   ],
+   "sdlc": [
+    "Agile & Adoption-Focused We build user-centric, agile solutions that prioritize quick deployment and strong cross-functional adoption.",
+    "Fuel Digital Transformation Strategically As a tech leader, you want to stay agile with your business decisions and you leverage analytics to do it accurately."
+   ],
+   "senior_roles": [
+    "Fuel Digital Transformation Strategically As a tech leader, you want to stay agile with your business decisions and you leverage analytics to do it accurately."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Lean Impeccable Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "leanimpeccable.com",
+  "website": "https://leanimpeccable.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 3
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Inquire with us about: LEGACY TO MICRO SERVICES DESIGN SPRINTS DIGITAL STRATEGY DESIGN ECO SYSTEM DESIGN TECH REVIEW AS A SERVICE POC AS A SERVICE IMPLEMENTATION Develop and provide digital services and products to empower your organization in accomplishing its business objectives.",
+    "Their expertise in Jira, Change Management, Release Cycles, and Agile methods improved our workflow.",
+    "Our approach in implementing design sprints 1."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Learnvista Private Limited",
+  "city": "Bengaluru",
+  "domain": "learnbay.co",
+  "website": "https://www.learnbay.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "DQ_training": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Specialize in your Domain Choose from BFSI, Retail, Healthcare, and more for focused, relevant learning.",
+    "Manufacturing Technology Consulting Healthcare BFSI Retail Real Projects, Real Experience Master data science & AI by working on 100+ real-world projects with expert guidance."
+   ],
+   "DQ_training": [
+    "Get project Certification from: Renowened Industry Reach your career goals Advance your career with our effective Placement Support.",
+    "Placement Support Mock Interviews Resume BuildUp Interview calls Real Stories, Real Success Discover what our learners say about us Courses Top Rated in: Discover what our learners say about us Get Ahead with Industry-Leading Courses “ I had a great learning experience at Learnbay.",
+    "Placement Highlights Highest Salary Hike Average Salary Hike Hiring Partners Careers Reshaped Enrol now for data science courses ,DSA & System designing or full stack development courses."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Legasis Services Pvt Ltd",
+  "city": "Pune",
+  "domain": "legasis.in",
+  "website": "https://legasis.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 5761,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "LendingTree Research Services LLP",
+  "city": "Hyderabad",
+  "domain": "lendingtree.com",
+  "website": "https://www.lendingtree.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "e of the largest networks of lenders in the nation. Some of our products and tools include: Mortgage Refinance Home Equity Loans Credit Cards Reverse"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 885917,
+   "signals": {
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "vcs_generic": [
+     "github.com/jgthms/bulma */ @-webkit-keyframes spinAround { from { -webkit-transform:",
+     "github.com/jgthms/minireset.css */ /* line 3, node_modules/bulma/sass/base/minireset.sass */ html, body, p, ol, ul, li, dl, dt, dd, blockquote, figure, fieldset, legend, textarea, pre, iframe, hr, h1, h2, h3, h4, h5, h6 { margin:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 12,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Find insurers Health Insurance Insurance Health Insurance Get Health Insurance Compare health insurance plans Best health insurance companies Affordable health insurance Cost of health insurance Insurance Alternatives Medical Loans Dental Loans Emergency Loans Compare Health Insurance Medical bills can add up fast.",
+    "Health insurance helps make sure costs don't get out of hand.",
+    "4 min read HOME LOANS Best Roof Financing Options: 7 Loans to Consider 9 min read HOME LOANS Fastest HELOC Closing in 2025: 5 Days to Close 5 min read How Much Is Flood Insurance?",
+    "5 min read AUTO INSURANCE Average Cost of Car Insurance (2026) 8 min read AUTO INSURANCE How Much Does Car Insurance Go Up After an Accident?"
+   ],
+   "DQ_training": [
+    "Any paid placements are labeled as such."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "LetitbeXAI Tech Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "letitbexai.com",
+  "website": "https://www.letitbexai.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "dly evolving market. Their quality engineering ensures that our products meet the highest standards. We’re thrilled with the impact of LetitbeX AI sol"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1685,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 11,
+   "cicd": 6,
+   "enterprise": 5,
+   "sdlc": 2,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "qa": [
+    "Learn More Quality Engineering Make quality a continuous capability intelligent, automated, embedded across the lifecycle.",
+    "AI Quality Engineering LexxIT AI-driven quality engineering for faster, stronger delivery LexxIT AI Quality Engineering Problem Manual testing slows releases.",
+    "Services AI & Data Enterprise Platforms Engineering & Delivery Quality Engineering Managed Services Platforms LexxIT LEXAUTO LIPP GOVAI Industries Healthcare Banking & Financial Services Insurance Manufacturing Retail Education GCC Company About Why Letitbex AI Leadership Insights Careers Contact © 2026 Letitbex AI.",
+    "Enterprise Security AI-Powered Quality Engineering & Test Automation - Letitbex AI Platforms Services Industries Company Partners Contact Let's Talk › › › Quality Engineering Embedding quality across the software lifecycle from design to production."
+   ],
+   "cicd": [
+    "How It Works Scriptless test creation, self-healing automation, AI-driven regression selection integrated into your CI/CD pipeline.",
+    "We help organizations improve test effectiveness, reduce repetitive effort, and make quality a continuous delivery capability not an end-of-cycle checkpoint.",
+    "Quality Strategy Test Automation AI Testing (LexxIT) Performance Engineering CI/CD Quality Gates TCoE Setup Capability Stack What We Deliver Quality Strategy & Governance Enterprise-wide quality standards that teams can actually implement aligned to delivery goals from day one.",
+    "Load and stress testing Endurance and scalability testing System resilience and chaos engineering Performance baseline and regression tracking Talk to our Expert Continuous Quality in CI/CD Quality as a delivery signal automated gates in every pipeline, not a manual checkpoint at the end."
+   ],
+   "enterprise": [
+    "Services AI & Data Enterprise Platforms Engineering & Delivery Quality Engineering Managed Services Platforms LexxIT LEXAUTO LIPP GOVAI Industries Healthcare Banking & Financial Services Insurance Manufacturing Retail Education GCC Company About Why Letitbex AI Leadership Insights Careers Contact © 2026 Letitbex AI."
+   ],
+   "sdlc": [
+    "A quality gate at the end of a sprint is a symptom of a broken delivery model we fix the model.",
+    "AI governance Security Compliance Audit Want to know more about how we work?"
+   ],
+   "owns_product": [
+    "Our platform portfolio and service depth work together.",
+    "Our platforms and services are designed for continuity."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Linkfields Innovations Private Limited",
+  "city": "Hyderabad",
+  "domain": "linkfields.com",
+  "website": "https://www.linkfields.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Software Development Company | Linkfields Innovations Services Engineering Application Dev"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2142,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "sdlc": 1,
+   "owns_product": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Read more Insurance Automate claims processing, customer interactions, and refine risk management, resulting in significant resource savings and operational optimization.",
+    "Read more Banking Implementing automated solutions to streamline customer service, ensure compliance, transforming the banking sector into a future-ready workspace.",
+    "Telecom Fintech FMCG Banking Insurance Mining Oil and Gas Manufacturing Insights & Updates News FT ranking: Africa's Fastest Growing Companies 2023 Read more Blog AI in the Finance Sector: How to Benefit from Conversational AI?",
+    "Telecom Fintech FMCG Banking Insurance Mining Oil and Gas Manufacturing Want a new work experience?"
+   ],
+   "sdlc": [
+    "Our experienced professionals are agile in their work, but also very thorough."
+   ],
+   "owns_product": [
+    "WHAT WE OFFER Facilitating the expertise required for change Renovation, reinvention, and resilience are the thought process that we put into our products."
+   ],
+   "cicd": [
+    "RPA development Using UIpath, Microsoft Power Automate and other RPA tools, we create intelligent applications based on the defined automation pipeline."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Lloyds Offshore Global Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "lloydsbank.com",
+  "website": "https://www.lloydsbank.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 3935,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Lloyds Bank - Internet Banking - Error We are sorry an error has occurred, please try again later.",
+    "Legal Privacy Security Lloyds Banking Group Rates and Charges Lloyds Bank - Internet Banking - Error We are sorry an error has occurred, please try again later.",
+    "Legal Privacy Security Lloyds Banking Group Rates and Charges"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Logic Systems & Solutions",
+  "city": "Mumbai",
+  "domain": "logicsystems.co.in",
+  "website": "https://logicsystems.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "owned IT solution providers, we deal in end-to-end solution portfolios, from network security services to enterprise WI-Fi solutions & consultation we"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 4
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Get In Touch Our Expertise Networking Solutions We take care of your ever-evolving networking needs seamlessly and without error.",
+    "Powered by WayBell About us – Logic Systems & Solutions --> Skip to content Home About us Products & Solutions Services Contact us Search for: Search for: About us admin 2021-07-09T16:22:03+00:00 About us Logic systems and Solutions is your one-stop solution for all the IT support and security systems needs.",
+    "Our spectrum of services ranging from powerful and seamless IT support services, from repairing and maintaining computers on a regular and annual basis, we also cater to global organizations and government offices.",
+    "We also provide adept security system services where we cover CCTV, Access control, Telephones- Intercom facility, repairing and service Annually and on regular basis."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ }
+]

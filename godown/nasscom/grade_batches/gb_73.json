@@ -1,0 +1,1047 @@
+[
+ {
+  "name": "Greystar Services India Private Limited",
+  "city": "Mohali",
+  "domain": "greystar.com",
+  "website": "https://www.greystar.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 23047,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "DQ_agency": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "These scammers may mimic our branding, use unofficial email addresses, or send fake job offers that promise employment in exchange for sensitive personal information or access to banking information.",
+    "Please note, Greystar will never request your banking details or other sensitive personal information during the interview process.",
+    "Benefits Healthcare Health insurance (including company-paid opportunities) is offered, along with competitive dental (US Only) and vision insurance* plan options *in select countries Retirement Planning We know planning for retirement is a top priority for our team members."
+   ],
+   "DQ_agency": [
+    "These scammers may mimic our branding, use unofficial email addresses, or send fake job offers that promise employment in exchange for sensitive personal information or access to banking information."
+   ],
+   "sdlc": [
+    "We aim to make our process clear, quick, and straightforward."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Guvi Geek Network Private Limited",
+  "city": "Chennai",
+  "domain": "guvi.in",
+  "website": "https://www.guvi.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "tion 4 Exclusive Lessons 4 hrs English 1499 Free Enroll now Python 35 Exclusive Lessons 26 hrs Hindi 1700 Free Enroll now Grow 10X Pack Pack of 10 Cou"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 15070,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 8,
+   "DQ_training": 9,
+   "DQ_agency": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Resume Builder Our Products HackerKID Coding classes platform for K-12 children GUVI For Corporates Meet your Hiring & Training Needs Placement Preparation Ace Up your Aptitude Still Confused?",
+    "Resume Builder Our Products HackerKID Coding classes platform for K-12 children GUVI for Corporates Meet your Hiring & Training Needs Placement Preparation Ace Up your Aptitude Still Confused?",
+    "2017 HCL GUVI got selected as One of the Top 10 startups led by Women in India hosted by Google Launchpad & actively got engaged in the Google for Startups Accelerator.",
+    "2018 Conducted Asia's 2nd largest AI Hackathon 'Code In India' (500+ participants) in the HCL Madurai, Selected among the Top 50 startups in India by IIGP 2.0(Tata Trusts), Selected for JioGenNext Startup Accelerator & Invited to Google I/O meet in California."
+   ],
+   "DQ_training": [
+    "Resume Builder Our Products HackerKID Coding classes platform for K-12 children GUVI For Corporates Meet your Hiring & Training Needs Placement Preparation Ace Up your Aptitude Still Confused?",
+    "Explore all Programs ✕ Our Accreditations & Partnerships Live Classes + Placement Guidance Live Classes + Placement Guidance HCL GUVI offers one of the industry’s leading Project Based Career Programs that promises Placement Guidance on completing the program.",
+    "My mentors used to explain concepts in Tamil in really clear-cut ways.Placement support along with mock interviews and job-specific prep sessions was very useful.",
+    "Resume Builder Our Products HackerKID Coding classes platform for K-12 children GUVI for Corporates Meet your Hiring & Training Needs Placement Preparation Ace Up your Aptitude Still Confused?"
+   ],
+   "DQ_agency": [
+    "Welcoming to hire professionals for Technical Development, Graphic Design, Digital Marketing, Sales, & Industry experts across various domains."
+   ],
+   "enterprise": [
+    "Dwivedi has contributed to various engineering service projects, particularly for Fortune 500 companies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Ingka Services LLP",
+  "city": "Bengaluru",
+  "domain": "ingka.com",
+  "website": "https://www.ingka.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2007-05-15",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 43106,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "cicd": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Skills for Employment – Let’s stand with refugees Read more Our approach to a fair income – How we work with living wage Read more Gender equality at Ingka Group Read more Supporting LGBT+ rights Read more Come join us!",
+    "How does IKEA approach a landscape in which ways of working are being fundamentally revisited, with a need for more flexibility and agile teams, where digital and traditional environments go hand in hand?"
+   ],
+   "cicd": [
+    "Alejandra’s portfolio covers the talent pipeline, recruitment and employer branding, leadership, competence and change management."
+   ],
+   "DQ_agency": [
+    "Alejandra’s portfolio covers the talent pipeline, recruitment and employer branding, leadership, competence and change management."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Instavc Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "instavc.com",
+  "website": "https://www.instavc.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "InstaVC is far superior and ease of connectivity is where your product stands superior to any other competitors. Mr. Alain Bayle President And Founde"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 56244,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 18,
+   "enterprise": 24,
+   "DQ_support": 5,
+   "senior_roles": 4,
+   "DQ_training": 2,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Video Collaboration & Conferencing Solutions by InstaVC InstaVC Our Products Our Products Meeting, engagement, and room products from the InstaVC ecosystem.",
+    "Open Our Products inMeet Video meeting platform inLynk Employee and partner management inFusion Meeting room solution Cloud Suite Cloud Suite Video APIs and vertical cloud platforms for specialized workflows.",
+    "Submit vc@instavc.com WhatsApp Us Our Products inMeet inLynk inFusion Cloud Suite inAPI inClass inClinic inShop inAffiliate Industries Enterprise Healthcare Education Retail Government Finance Legal Manufacturing Customer Support support@instavc.com DataSheets inMeet inShare InstaVC © 2026.",
+    "Cookie Policy Video Collaboration & Conferencing Solutions by InstaVC InstaVC Our Products Our Products Meeting, engagement, and room products from the InstaVC ecosystem."
+   ],
+   "enterprise": [
+    "Open Cloud Suite inAPI Video API platform inClass Virtual classroom platform inClinic Virtual clinic platform inShop Virtual shopping platform inAffiliate Affiliate program platform Industries Industries Collaboration paths for enterprise, public sector, education, healthcare, and more.",
+    "A flexible Video Meeting Engine tailored for Enterprise, Education, Healthcare, Government & Defense.",
+    "Explore API Engine Request Custom Demo ENTERPRISE HEALTHCARE GOVT & DEFENSE EDUCATION Build, Customize, and Secure Your Video Ecosystem From developer-first APIs to government-grade encryption, get the exact video infrastructure your business requires.",
+    "Industry Vertical Solutions GOVT TRUSTED inClinic (Doctor-Patient Video Consultation Platform) : A secure, healthcare-focused portal facilitating remote medical consultations with compliance-ready features."
+   ],
+   "DQ_support": [
+    "Hardware Integration One Room.",
+    "Seamlessly connect in-person hardware with remote participants for a unified experience."
+   ],
+   "senior_roles": [
+    "Consult with our technical architects to see how our API engine can transform your enterprise communication."
+   ],
+   "DQ_training": [
+    "Keep Your Institution's Data Safe and Secure 🔒 High level security 📜 Compliance Ready � Role-Based Access Engineered for Every Academic Environment A unified, secure architecture that adapts to the distinct operational requirements of schools, universities, and coaching centers alike.",
+    "📋 Coaching Centers High-performance tools for test prep."
+   ],
+   "DQ_agency": [
+    "✨ White-Label Branding Customize the platform with your logo."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "iRely Soft Services (India) Private Limited",
+  "city": "Kolkata",
+  "domain": "irely.com",
+  "website": "https://irely.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "esses Leverage iRely's industry expertise and comprehensive software solutions to work smarter and faster. Commodity Commodity Procurement, Trading an"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 29006,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_bpo": 1,
+   "owns_product": 8
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "Our single-platform, cloud-capable solutions simplify complicated core business processes from the front desk to the back office so your business runs smoother, and you can work smarter on what matters."
+   ],
+   "owns_product": [
+    "Please see a sample set below of our DNA: Recognizes that our Customers run their entire business on our Products.",
+    "Our Products & Services must be, evidently, exemplary.",
+    "Our Product Join our team in delivering excellence through i21, a world-class ERP financial software product.",
+    "As a product-centric organization, we constantly evolve and enhance our product, offering you the chance to specialize in specific modules and become a subject matter expert."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "iSprout Business Centre Private Limited",
+  "city": "Hyderabad",
+  "domain": "isprout.in",
+  "website": "https://isprout.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2016-11-07",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 14442,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "0 Cities 0 Centres 0 + Clients 0 k+ Workstations Filters Reset Location All Department All Hr Sales Designs Network & IT Software & Technology Digital Marketing Finance & Accounts Customer Experience Operations iSprout jobs Found 9 jobs Careers in Hospitality Division Hyderabad"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "J.C. Penney Services India Private Limited",
+  "city": "Bengaluru",
+  "domain": "jcpenney.com",
+  "website": "https://www.jcpenney.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 5549,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "We take pride in being a one-stop shop for all your needs, with as many options as you can imagine as well as your favorite brands such as Levi’s, Dockers, Skechers, and more."
+   ],
+   "DQ_bpo": [
+    "--> Skip to Main Content Toggle navigation About JCPenney Inclusion & Diversity Careers Corporate Customer Care/Call Center Distribution/Supply Chain International Salon/Beauty Stores Shop @ JCPenney Careers @ JCPenney Search Jobs Your Career Begins Here Make It Count!"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "JPM & DJM Enterprises Services Private Limited",
+  "city": "Mumbai",
+  "domain": "stewart.com",
+  "website": "https://www.stewart.com/en/ind/services",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 30438,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 3,
+   "enterprise": 2,
+   "DQ_bpo": 1,
+   "qa": 3,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Becoming part of Stewart has further strengthened our processes and enabled us to deliver quality services at a very economical price.",
+    "For most projects, we follow the Agile Scrum Methodology.",
+    "Consequently, the QA teams are introduced early on in the SDLC process to understand business requirements and remain engaged throughout the project lifecycle."
+   ],
+   "enterprise": [
+    "As a consequence, secondary business areas such as technical support, data entry, data conversion, insurance processing, bookkeeping and Internet research often tend to get overlooked.",
+    "Title insurance business domain has become our core strength."
+   ],
+   "DQ_bpo": [
+    "As a consequence, secondary business areas such as technical support, data entry, data conversion, insurance processing, bookkeeping and Internet research often tend to get overlooked."
+   ],
+   "qa": [
+    "This ensures that each and every deliverable is reviewed and approved by the QA team.",
+    "The primary objective of the QA processes is to enhance the overall quality of the product and help in getting the acceptance sign-off from the customer.",
+    "Consequently, the QA teams are introduced early on in the SDLC process to understand business requirements and remain engaged throughout the project lifecycle."
+   ],
+   "DQ_support": [
+    "We also manage a help desk (Stewart I Need Help) which listens to anyone from the organization who either failed to get timely help from somebody or they don’t know where to get help from."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Kaizen Secure Voiz Private Limited",
+  "city": "Chennai",
+  "domain": "kaizenvoiz.com",
+  "website": "https://kaizenvoiz.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "can easily understand several english, native languages [+] Case Studies Merit Trac India’s largest pure-play assessment company uses SpeechTrac with"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "compliance": 1,
+   "DQ_bpo": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Insurance Customer onboarded from anywhere and anytime through voice biometrics; makes Proof of Life verification easy.",
+    "Healthcare Makes patient onboarding faster and multi-factor authentication simpler; allows hospitals to comply with HIPAA, ISO 27001 standards.",
+    "Fraudsters Why Voice Biometrics is the Ultimate Shield With rising threats in digital banking, financial institutions need robust, real-time protection against sophisticated fraud."
+   ],
+   "compliance": [
+    "Healthcare Makes patient onboarding faster and multi-factor authentication simpler; allows hospitals to comply with HIPAA, ISO 27001 standards."
+   ],
+   "DQ_bpo": [
+    "Seamless Service How Voice Recognition is Changing Call Centre Legacy IVRs often frustrate customers with repetitive steps and long wait times.",
+    "Voice biometrics is redefining the call center experience by enabling instant, secure, and intelligent authentication the moment a user speaks."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Kovai Systems India Private Limited",
+  "city": "Coimbatore",
+  "domain": "kovai.co",
+  "website": "https://www.kovai.co",
+  "already_in_hubspot": false,
+  "headcount_known": 330,
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 12053,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "enterprise": 3,
+   "senior_roles": 1,
+   "owns_product": 4,
+   "DQ_agency": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Prioritizing longevity, we believe we are on a marathon and not on a sprint."
+   ],
+   "enterprise": [
+    "Health & well being We provide health insurance plans that cover both employees and their families, ensuring peace of mind.",
+    "Life Insurance Cover All employees are provided with life insurance coverage equivalent to 3x their annual salary because your security matters.",
+    "Before joining Kovai.co, she made significant contributions to the IT testing landscape in London, U.K., leading testing projects for major banks such as Lloyds Banking Group and RBC."
+   ],
+   "senior_roles": [
+    "Vishnu Balachandran Technical Architect Creating a knowledge driven environment As a technology community-oriented product company we indulge in various technical activities to sharpen our skills."
+   ],
+   "owns_product": [
+    "CSR Policy Terms of Use Privacy Policy Cookie Policy --> Story of Kovai.co Product Suite",
+    "Sunil Pillai Vice President, Marketing Sunil Krishna Pillai, an experienced marketing leader with over two decades in marketing, branding, and digital transformation, spearheads the marketing and branding for Kovai.co's three SaaS products.",
+    "Gowri Ramkumar Vice President, Sales and Customer Success Gowri Ramkumar, the Vice President of Sales & Customer Success at Kovai.co, spearheads the company's global sales, customer nurturing, and partnership initiatives for its diverse range of software and B2B SaaS products.",
+    "Currently, Arunkumar aims to drive Kovai.co's Middle-Eastern business growth by identifying and establishing partner programs for our products."
+   ],
+   "DQ_agency": [
+    "Sunil Pillai Vice President, Marketing Sunil Krishna Pillai, an experienced marketing leader with over two decades in marketing, branding, and digital transformation, spearheads the marketing and branding for Kovai.co's three SaaS products."
+   ],
+   "cicd": [
+    "His expertise lies in building high-performance teams, strengthening leadership pipelines, and fostering a collaborative and inclusive work environment."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Krib Information Services Private Limited",
+  "city": "Noida",
+  "domain": "kribindia.com",
+  "website": "https://kribindia.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 6227,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "Data Entry Operator Basic knowlegae of computer (i.e MS word, Excel and Internet) 2."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Krisin Consulting LLP",
+  "city": "Gurugram",
+  "domain": "krisin.in",
+  "website": "https://krisin.cloud/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ou are offered are centred around the problems you face in your work You are able to immediately apply what you learn in your work You can direct when"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 12,
+   "enterprise": 2,
+   "DQ_bpo": 1,
+   "owns_product": 8
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Comprehensive Library Access a ready-to-deploy coaching library covering 40+ critical skills essential for today's dynamic work environment.",
+    "Renny Varghese Broadridge Krisin's training has helped me since this is the first time, I have come across a training/coaching program that focusses on daily practice.",
+    "Success stories Read casestudy 3-month digital coaching-based Practice Journey for Broadridge's 314-member cohort of recent hires successfully helped participants transition from campus to corporate It was very easy to use the KRISIN platform and the daily Email/SMS links.",
+    "Outcomes: With digitally driven coaching and continuous learning, they became more adept at technical know-how and the soft skills needed."
+   ],
+   "enterprise": [
+    "Emami Negotiation Skills Program cohort size 22 Read casestudy Our 4-month hybrid Executive Development Program (EDP) for 20 senior leaders at a healthcare BPO effectively combined faculty-led sessions with a digital Practice Journey.",
+    "Business Leaders Program cohort size 38 Read casestudy In the demanding world of healthcare, the first- time managers faced a steep learning curve."
+   ],
+   "DQ_bpo": [
+    "Emami Negotiation Skills Program cohort size 22 Read casestudy Our 4-month hybrid Executive Development Program (EDP) for 20 senior leaders at a healthcare BPO effectively combined faculty-led sessions with a digital Practice Journey."
+   ],
+   "owns_product": [
+    "Managerial Development Program cohort size 25 Scalable and Data-Driven Capability Building Krisin's Capability Accelerator Programs, offered through our platform, guides learners to adopt the behaviours, mindset and identity required to scale themselves 10X.",
+    "Accelerator Dictionary Measurable Outcomes for Every Employee Krisin's scalable capabilty accelerator provides measurable changes and insights into ROI.",
+    "It is possible now with Krisin's Capability Accelerator 1.0 - a powerful combination of platform and library.",
+    "Mail us at - sales.team@krisin.in Experience the future of capability building with Krisin's powerful Capabilty Accelerator 1.0."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Ksolves India Limited",
+  "city": "New Delhi",
+  "domain": "ksolves.com",
+  "website": "https://www.ksolves.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "KSOLVES - Software Development Company Lifetime No Question Refund Policy at Ksolves Store Buy Now -"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 31042,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 30,
+   "enterprise": 5,
+   "DQ_support": 1,
+   "owns_product": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Big Data Apache Spark Apache Kafka Apache Cassandra Apache Nifi Apache Hadoop Apache NiFi Orchestrate complex data flows with Ksolves Apache NiFi services using secure, scalable pipelines that ensure reliable, real-time data movement across systems.",
+    "DevOps Docker Kubernetes Azure Data Visualization App Monitoring Odoo We have a team of highly trained Odoo specialists who help us build, deploy, and design ERP systems that assist our customers.",
+    "Microservices Container, Docker, and Kubernetes API Gateways Messaging and Event Streaming Serverless Architectures Bigdata Turn Raw Data Into Decisions Process, analyze, and act on data at scale.",
+    "Ksolves builds pipelines, lakes, and analytics layers that make your data usable."
+   ],
+   "enterprise": [
+    "Healthcare Building compliant, data-driven systems that streamline patient workflows and clinical operations.",
+    "Healthcare Patient data sitting in disconnected systems is both a compliance risk and an operational bottleneck.",
+    "How can NLP be used in Healthcare?",
+    "NLP is increasingly being used in healthcare for tasks like electronic health record (EHR) analysis, medical coding, clinical decision support, and disease prediction."
+   ],
+   "DQ_support": [
+    "Read Full Case Study 80 TB Daily real-time retail data processed with sub-second pricing and stock decisions for a major Middle East retailer, on existing Red Hat OpenShift infrastructure with zero new hardware and no Power BI report changes."
+   ],
+   "owns_product": [
+    "Entertainment We build the pipelines that turn viewing patterns and engagement signals into decisions your product and content teams can act on."
+   ],
+   "DQ_bpo": [
+    "Speech Recognition Transform spoken language into written text with speech recognition, enabling transcription services, voice-controlled applications, and accessible content for all."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Linkage IT Private Limited",
+  "city": "Mohali",
+  "domain": "linkageit.com",
+  "website": "https://www.linkageit.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2016-02-08",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "As a full-service digital consultancy, we aim to offer a wide range of IT solutions, that include niche-skilled top-tier IT staffing, custom software development, digital marketing, website design and development, data analytics, cloud computing, and CRM services."
+   ],
+   "sdlc": [
+    "Our agile approach enables us to meet your needs efficiently and effectively."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Lumen IT India Private Limited",
+  "city": "Bengaluru",
+  "domain": "lumen.com",
+  "website": "https://www.lumen.com/en-us/home.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "enterprise": 3,
+   "DQ_support": 4,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Read more 01 02 03 Cloud-native innovation We designed our platform for the realities of Cloud 2.0—dynamic, distributed and always evolving."
+   ],
+   "enterprise": [
+    "It needed an AI-era network to modernize healthcare delivery.</p>\\n<p>Lumen® Dedicated Internet Access and Lumen® SD-WAN empowered American Family Care to stabilize, secure and optimize high-performance operations.",
+    "Read more Modernizing banking networks As Hanmi Bank grew, its systems began to struggle with everyday activity.",
+    "It needed an AI-era network to modernize healthcare delivery."
+   ],
+   "DQ_support": [
+    "Older systems made it difficult to see issues early and keep operations running smoothly.</p>\\n<p>Together, we upgraded connectivity, modernized network hardware and added around-the-clock monitoring.",
+    "Together, we upgraded connectivity, modernized network hardware and added around-the-clock monitoring.",
+    "Lumen Technologies Networking Services Integrated networking solutions designed to decrease latency, strengthen security and scale to growing business demand.",
+    "Networking Services Integrated networking solutions designed to decrease latency, strengthen security and scale to growing business demand."
+   ],
+   "DQ_bpo": [
+    "Read More Upgrading emergency response for public safety Pima County, Arizona, needed to modernize nine legacy 911 call centers to handle emergency calls more quickly and reliably."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "M&G Global Services Private Limited",
+  "city": "Mumbai",
+  "domain": "prudential.co.uk",
+  "website": "https://group.mandg.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 52265,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 3,
+   "owns_product": 1,
+   "enterprise": 21,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our strategy Simplify our business 02 Becoming more nimble and efficient in how we work to best serve our customers.",
+    "Simplify and automate our processes, using technology and AI, to improve efficiency, service and customer experience.",
+    "Discover the values that shape how we work and the partnerships that bring our purpose to life."
+   ],
+   "owns_product": [
+    "Continued to broaden our product offering and distribution with 16 new fund launches in Asset Management, integration of PruFund on FNZ technology and the launch of retail fixed term annuity."
+   ],
+   "enterprise": [
+    "Read more $ 50 m $ 50 m to improve digital banking $ 50 m to improve digital banking We invested US$50m in Tyme Group to expand digital banking in Vietnam and Indonesia, boosting financial inclusion for underserved communities.",
+    "View our strategy Who guides us Our Board and Executive team bring deep expertise in asset management, insurance, and financial services – guiding M&G's strategy and ensuring strong governance.",
+    "He has more than 25 years of experience in financial services, with a particular focus on the global asset management and insurance sectors.",
+    "Before that Andrea was CEO of their Italian Insurance business, a position he held for five years."
+   ],
+   "DQ_agency": [
+    "Prior to that she led the communications and branding for RSA Insurance Group and Lloyd’s of London."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "MEETCS Private Limited",
+  "city": "Navi Mumbai",
+  "domain": "meetcs.com",
+  "website": "https://meetcs.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2014-03-01",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "owns_product": 1,
+   "DQ_training": 4,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "24/7 IT Support Reliable, round-the-clock support to keep your business running smoothly anytime, anywhere."
+   ],
+   "owns_product": [
+    "Our Product : A-2-A Admission Management Fee Management Learning Management Alumni Engagement Library Management Placement Management Admission Management A2A takes care of all the admission related procedures and formalities."
+   ],
+   "DQ_training": [
+    "Our Product : A-2-A Admission Management Fee Management Learning Management Alumni Engagement Library Management Placement Management Admission Management A2A takes care of all the admission related procedures and formalities.",
+    "Placement Management The students are attracted more to academic institutions that provide them avenues for employment and facilitate placement.",
+    "Growth Potential We integrate the placement features of our advanced A2A alumni system with built-in job boards, empowering your alumni to share opportunities with students.",
+    "From admissions , enrollments , and fees to teaching/learning , alumni engagement , and placement , A2A offers a comprehensive, one-stop platform for all academic needs."
+   ],
+   "DQ_agency": [
+    "We also specialize in crafting high – quality e-learning content, delivering tailored corporate training programs, offering expert consultancy services, and providing comprehensive web development and digital marketing solutions ."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "MOL Information Technology India Private Limited",
+  "city": "Kolkata",
+  "domain": "mol-it.com",
+  "website": "https://www.mol-it.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 15093,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "I focus on ensuring that data is organized, reliable, and easily accessible by monitoring data pipelines, resolving issues, and implementing enhancements which helps business teams to access accurate insights and make proper decisions."
+   ],
+   "DQ_bpo": [
+    "Our Key Capabilities: UiPath & Power Automate: Streamline repetitive tasks like data entry, document processing, and reporting to reduce manual effort and improve efficiency."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "NetScout Systems Software India Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "netscout.com",
+  "website": "https://www.netscout.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "as a Service Cybersecurity & DDoS Protection Omnis Security Portfolio NetOps and SecOps Collaboration Comprehensive DDoS Protection Cybersecurity Stac"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 35081,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 25,
+   "owns_product": 14,
+   "sdlc": 1,
+   "senior_roles": 6,
+   "enterprise": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Omnis KlearSight Sensor Leverage eBPF to deliver packet-level visibility for Kubernetes performance and troubleshooting.",
+    "Omnis Streamer Build data pipelines that sift through the noise to improve IT operations and AI/ML workflows.",
+    "NETSCOUT also supports virtualized environments using the vSTREAM virtual appliance for east-west monitoring such as SDN environments, cloud, and Kubernetes, just to name a few."
+   ],
+   "owns_product": [
+    "Resource Library Explore the latest case studies, whitepapers, eBooks, and more to discover real-world applications of our products and solutions.",
+    "Support & Training Overview Get support for your products and solutions to maximize the value of your investment.",
+    "Learn more Contact Us Unlock End-to-End Visibility With NETSCOUT Whether you have a question about our products and solutions, are seeking expert advice, or need support, our team is here to help.",
+    "Contact Us Unlock End-to-End Visibility With NETSCOUT Whether you have a question about our products and solutions, are seeking expert advice, or need support, our team is here to help."
+   ],
+   "sdlc": [
+    "Whether we're developing new technology, supporting customers, or working across functions, our shared values guide how we work together every day."
+   ],
+   "senior_roles": [
+    "© 2026 NETSCOUT Terms & Conditions Website Terms of Use Data Privacy and Trust Center Transparency in Supply Chains Privacy Policy Vendor Portal Do Not Sell or Share My Personal Information California Privacy Notice UK Disclosure SRE Observability Solutions",
+    "Contact Us Home Solutions Site Reliability Engineering For Site Reliability Engineering Teams See what logs, metrics, and traces can’t: how network behavior and hidden dependencies impact SLOs, incidents, and MTTR across hybrid and cloud environments.",
+    "Contact us Challenges Challenges What's at Stake Outcomes That Matter Use Cases Resources Challenges Reliability Requires Network Visibility SRE teams run services with strong application telemetry, yet many high‑severity incidents stall because the root cause lives outside logs, metrics, and traces.",
+    "NETSCOUT provides SRE teams with high‑fidelity network insight to diagnose failures faster, reduce alert noise, and protect error budgets, without agents, code changes, or tool sprawl."
+   ],
+   "enterprise": [
+    "From healthcare and financial services to utilities, manufacturing, and telecommunications, our approach transforms the way organizations plan, deliver, integrate, test, and deploy services and applications."
+   ],
+   "DQ_bpo": [
+    "Learn more Case Study Enhancing Cybersecurity for a Global Financial Services BPO with Omnis Cyber Intelligence (OCI) Solution on AWS By implementing the NETSCOUT OCI solution on AWS, this BPO company successfully enhanced its cybersecurity capabilities."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Omega Healthcare Management Services Private Limited",
+  "city": "Chennai",
+  "domain": "omegahms.com",
+  "website": "https://www.omegahms.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 118290,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 54,
+   "owns_product": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Empowering Healthcare to Thrive",
+    "Explore Our Platform Discover Our Clinical Mindset Skilled Workers 0 + AI Agents 0 + Healthcare Organizations Served 0 + Outcomes Realized Stay focused on driving growth.",
+    "Care Coordination Enhance patient satisfaction and meet the goals of value-based healthcare.",
+    "Health Data Curation Ease the path to healthcare research that helps patients thrive."
+   ],
+   "owns_product": [
+    "Explore Our Platform Discover Our Clinical Mindset Skilled Workers 0 + AI Agents 0 + Healthcare Organizations Served 0 + Outcomes Realized Stay focused on driving growth."
+   ],
+   "DQ_bpo": [
+    "Revenue Cycle Management Unite and improve control of your front, middle, and back office operations."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ }
+]

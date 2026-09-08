@@ -1,0 +1,10 @@
+﻿flow,status,raw_pool,qualified,enrich_attempted,enrich_pass,pushed,crm_live,crm_past_coldcall,crm_reached_gmeet+,crm_dead,crm_won,crm_max_depth_seen,note
+NASSCOM ( IT Services ),active,2775,144,366,235,212,212,131,3,66,0,5,phones 100% SignalHire reveal; +91-mobile hard gate on
+Romania ( IT Services ),active,170,50,13,29,29,29,0,0,0,0,0,"no +91 gate (non-India); 25 numbers are company-site, labelled on deal; all now on Shobit"
+Bangladesh ( IT Services ) — CANCELLED,cancelled,266,266,51,14,11,0,0,0,0,0,,whole plan chucked 13 Aug; deals deleted from HubSpot (recycle bin 90d)
+Deadpool waves ( dead startups ),active,10957,400,103,92,92,50,42,3,17,0,5,"JOIN IS PARTIAL: push log has no deal ids, domain-join only — crm_* are LOWER BOUNDS. Best mobile-hit rate of any source; 15 sector waves"
+Tracxn Sheet ( Startups ),active (waves),,725,,,327,100,50,10,69,0,7,JOIN IS PARTIAL: ready-queue log has no deal ids — crm_* are LOWER BOUNDS. Upstream sheet predates this laptop; only local waves counted; 168 in holding pool
+SalesNav batch (7 Aug),one-shot,685,600,600,400,400,400,354,15,198,0,8,single 7 Aug batch
+LinkedIn campaign flows,active,,261,,,35,35,12,7,23,0,7,"1,000-person ad audience abandoned — those people were NEVER contacted; do not exclude from outreach"
+OutFlo outreach ( Startups ),active,,45,,,83,56,31,11,39,0,7,"stages measure different waves (61 bucketed + 22 replied) — qualified<pushed is expected, not an error. Reply-driven; Indonesia held bucket empty"
+IT-services sheet ( Scraping Algo era ),one-shot,1241,77,77,75,75,75,42,3,45,0,4,the upstream GoodFirms-era crawler itself is NOT on this laptop — its raw funnel is unrecoverable here

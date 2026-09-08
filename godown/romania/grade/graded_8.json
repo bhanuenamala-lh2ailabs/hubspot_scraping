@@ -1,0 +1,476 @@
+[
+ {
+  "name": "Fortune Soft",
+  "domain": "fortunesoft.ro",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [
+   "cap_40_no_careers_blog_team (not binding)"
+  ],
+  "pre2024_basis": "Wayback 2023-06: case-study section plus 'developed and delivered several solutions'",
+  "evidence": [
+   "2023 snapshot: 'Our Company has developed and delivered several solutions'",
+   "Builds VOD systems, news portals, monitoring apps, Smart TV apps",
+   "No careers page, no blog, no team page reached",
+   "Only homepage reachable; zero process or CI/CD wording"
+  ],
+  "why_this_rank": "DQ_support flag was mislabelled: 'monitoring applications' is software they build, not a helpdesk, so no BPO cap. Score is gold-only because no careers page exists to test private-repo discipline.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Inventiff.",
+  "domain": "inventiff.io",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [
+   "cap_40_no_careers_blog_team (not binding)"
+  ],
+  "pre2024_basis": "Wayback 2023-06 prose: 'software development is not just about writing code'",
+  "evidence": [
+   "2023 snapshot names software development as core practice",
+   "UK headquarters with Romanian delivery; independent agency, not captive",
+   "Live site unreachable at fetch; no site signals collected",
+   "No careers page, blog or team page found"
+  ],
+  "why_this_rank": "Zero Tier B/C reflects a failed fetch, not observed weakness: the live site was unreachable so no signals could be collected. UK HQ is not a captive parent, so no rejection.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "InteliStat Solutions",
+  "domain": "intelistat.ro",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "cap_40_no_careers_blog_team (not binding)"
+  ],
+  "pre2024_basis": "Wayback 2022-06 snapshot exists but carried no software wording — weak +10",
+  "evidence": [
+   "Archived 2022 but snapshot did not advertise software work",
+   "Custom software plus CRM/ERP and cloud per seed",
+   "Homepage and about reached; no process signals at all",
+   "No careers page, blog or team page"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "ZANEFFI SRL",
+  "domain": "zaneffi.com",
+  "score": 48,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 25,
+  "tier_c_points": 13,
+  "raw_before_caps": 48,
+  "caps_applied": [],
+  "pre2024_basis": "Wayback 2023-06 snapshot exists but carried no software wording — weak +10",
+  "evidence": [
+   "Site names Continuous Integration & Deployment alongside OWASP Top 10",
+   "ISO/IEC 27001:2022 claimed as change-control compliance",
+   "Enterprise deployments cited including Stellantis and industrial clients",
+   "Blog and team pages reached; no careers page exists"
+  ],
+  "why_this_rank": "Strongest site-level engineering evidence in the batch, yet held under 50 by two things outside its practice: the 2023 snapshot lacked software wording (+10 not +25) and there is no careers page at all, so Tier A is structurally zero. The three DQ_bpo hits describe workflows their automation product replaces, not services they perform, so no BPO cap.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "99 Code Lines",
+  "domain": "99codelines.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "cap_30_generalist_agency (not binding)",
+   "cap_40_no_careers_blog_team (not binding)"
+  ],
+  "pre2024_basis": "Wayback 2020-06 quote is pure nav menu — downgraded from PROVEN to +10",
+  "evidence": [
+   "2020 quote is only a nav menu listing service links",
+   "Services menu bundles Search Engine Optimization with development",
+   "JIRA and Agile mentioned; no Git, CI/CD or review",
+   "No careers page, blog or team page"
+  ],
+  "why_this_rank": "Labelled PROVEN but the quote is nothing but scraped nav-menu items ('Home About Our Company Technologies Services...'), which proves a site existed, not that software was shipped. Downgraded to the weak +10 per the nav-scrape trap.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Roti's Web",
+  "domain": "rotisweb.ro",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "cap_40_no_careers_blog_team (not binding)"
+  ],
+  "pre2024_basis": "No Wayback and .ro has no RDAP — UNKNOWN is missing data, weak +10, no cap",
+  "evidence": [
+   "cicd flag is a tech-stack list: AWS, Docker, Nginx, Redis",
+   "Public github.com/Rotis-Web scores zero by rule",
+   "Solo web studio; no careers page, blog or team",
+   "No pipeline, review gate or quality-gate wording anywhere"
+  ],
+  "why_this_rank": "Not capped at 45 despite UNKNOWN: .ro domains have no RDAP at all, so pre-2024 status is missing rather than disproven. The cicd flag is mislabelled — it is a technology list, not a pipeline, so no Tier B awarded.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Splashdev",
+  "domain": "splashdev.at",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [],
+  "pre2024_basis": "Wayback 2022-06 services menu naming Custom Software Development Services",
+  "evidence": [
+   "Owns SplashInsurance, SplashRisk, debt-collection and leasing products",
+   "Regulated domains: insurance, leasing, risk management, claims processing",
+   "Blog, about and team reached; no careers page exists",
+   "No Git, CI/CD, QA or compliance wording found"
+  ],
+  "why_this_rank": "Has genuine owned products and regulated clients — two Tier C signals — but Tier C requires Tier A/B corroboration and there is no careers page and no CI/CD evidence, so they score nothing. Both DQ flags are mislabelled: 'custom branding of the software' is white-labelling their own product, and the data-entry line is a document-management module they sell.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "ICD Web",
+  "domain": "icdweb.eu",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "cap_30_generalist_agency (not binding)"
+  ],
+  "pre2024_basis": "Wayback 2023-06 snapshot exists but carried no software wording — weak +10",
+  "evidence": [
+   "Priced tiers bundle Premium SEO, Google Ads, Social Media Ads",
+   "Scrum and Kanban named, but sprint reviews not code review",
+   "Blog and about reached; no careers page exists",
+   "Hosting, domain registration and 24/7 support sold alongside dev"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Artep Development",
+  "domain": "artep.eu",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "cap_30_generalist_agency (not binding)",
+   "cap_40_no_careers_blog_team (not binding)"
+  ],
+  "pre2024_basis": "No Wayback and no RDAP record — UNKNOWN treated as missing, weak +10, no cap",
+  "evidence": [
+   "Practice spans design, graphics, branding and development",
+   "Mobile and web application build work per seed",
+   "Homepage and about reached; no process signals found",
+   "No careers page, blog or team page"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Hipwerk",
+  "domain": "hipwerk.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [
+   "cap_40_no_careers_blog_team (not binding)"
+  ],
+  "pre2024_basis": "Wayback 2020-06 tagline: 'Full-stack geeks for hire', 'see our work'",
+  "evidence": [
+   "2020 copy: 'Home of Lickable Products', 'see our work'",
+   "2020 snapshot navigation shows work, team and blog sections",
+   "Only homepage reachable now; zero current signals collected",
+   "No careers page found on the live site"
+  ],
+  "why_this_rank": "The 2020 snapshot shows work, team and blog sections that the current crawl could not reach — only '/' was fetched. Zero Tier B/C is a collection gap on a now-thin site, not evidence those practices are absent.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Neurony Solutions",
+  "domain": "neurony.ro",
+  "score": 48,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 13,
+  "raw_before_caps": 48,
+  "caps_applied": [],
+  "pre2024_basis": "Wayback 2023-06 title: 'Building Impactful Software Solutions to Accelerate Growth'",
+  "evidence": [
+   "Dedicated PM or QA specialist assignable to projects",
+   "Owns AI products including a continuous learning platform",
+   "Named 'How it works' process page for AI integration",
+   "Blog, about and team reached; no careers page exists"
+  ],
+  "why_this_rank": "Held under 50 purely by the absence of a careers page — Tier A cannot fire, so a real software firm with its own AI products stalls at gold plus thin site signals. DQ_training was mislabelled: the learning platform is their own product, not a training business. The github.com/neurony org scores zero and, on this thesis, is a mild negative.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Cramba App Studio",
+  "domain": "cramba.ro",
+  "score": 0,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "template_prototype_shop_minus_15 (applied)",
+   "cap_40_no_careers_blog_team (not binding)"
+  ],
+  "pre2024_basis": "No Wayback and .ro has no RDAP — UNKNOWN is missing data, weak +10, no cap",
+  "evidence": [
+   "Takes over Lovable, v0, Bolt and ChatGPT prototypes",
+   "Also productionises Figma designs and website templates",
+   "One-person studio; no careers page, blog or team",
+   "No Git, review, CI/CD or QA wording anywhere"
+  ],
+  "why_this_rank": "The template/prototype penalty is not incidental here: the stated business is taking AI-generated prototypes from Lovable, v0 and ChatGPT to production, which is precisely the machine-authored codebase this rubric exists to avoid buying. Minus 15 against a weak +10 floors the score.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "GIB Media",
+  "domain": "gibmedia.ro",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [
+   "cap_40_no_careers_blog_team (not binding)"
+  ],
+  "pre2024_basis": "Wayback 2023-06: 'Realizam aplicatii web personalizate' — builds custom web apps",
+  "evidence": [
+   "2023 Romanian copy advertises custom web application development",
+   "Also sells graphic design and branding materials",
+   "Only homepage reachable; no process signals collected",
+   "No careers page, blog or team page"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "DevX Digital",
+  "domain": "devx.digital",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "cap_30_generalist_agency (not binding)"
+  ],
+  "pre2024_basis": "Wayback 2023-06 quote is mostly repeated nav — downgraded from PROVEN to +10",
+  "evidence": [
+   "2023 quote repeats nav twice; only 'technology implementation company'",
+   "Real delivery narrative: diagnosis, implementation, verification, documented handover",
+   "White-label technical SEO delivery for a partner agency",
+   "Blog reached; no careers page exists"
+  ],
+  "why_this_rank": "Two separate downgrades explain the low number. The PROVEN quote is duplicated nav text that never says software development, so it drops to +10. And the genuinely substantive 'how we work' copy is a Tier C signal that cannot fire without Tier A/B corroboration, which no careers page and no CI/CD evidence leaves unavailable.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Selectsoft",
+  "domain": "selectsoft.ro",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [],
+  "pre2024_basis": "Wayback 2020-06 snapshot exists but carried no software wording — weak +10",
+  "evidence": [
+   "Own product vendor: inventory, retail, e-Factura, SAF-T software",
+   "DQ_support hit is a Romanian client testimonial praising support",
+   "DQ_agency hit is the footer credit 'Development by INOVEO'",
+   "Blog and team reached; no careers page exists"
+  ],
+  "why_this_rank": "Both DQ flags are artefacts and neither cap fires: the support hit is a customer testimonial, and the agency hit is the site's own footer credit to the studio that built their website. A real fiscal-compliance product vendor still scores 10 because the 2020 snapshot carried no software wording and there is no careers page to test.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Docodex",
+  "domain": "docodex.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [
+   "cap_30_generalist_agency (not binding)"
+  ],
+  "pre2024_basis": "Wayback 2023-06 headline: 'Servicii complete de web design & web development'",
+  "evidence": [
+   "Sixteen agency hits: technical SEO, Google Ads, Performance Max, GA4",
+   "Builds SaaS platforms with multi-tenant billing and onboarding",
+   "cicd hit reads 'turn your website into a lead pipeline'",
+   "Blog and about reached; no careers page exists"
+  ],
+  "why_this_rank": "The signal counts look strong but none survive inspection: the cicd hit is a marketing 'pipeline of leads' phrase, and the owns_product and sdlc hits are Tier C items that cannot fire without Tier A/B corroboration. Sixteen SEO and Google Ads hits would also cap this at 30 if the score ever reached it.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Neobyte Solutions",
+  "domain": "neobytesolutions.com",
+  "score": 48,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 13,
+  "raw_before_caps": 48,
+  "caps_applied": [],
+  "pre2024_basis": "On-site pages datestamped 5 April 2022 plus 2022 blog archive — upgraded from UNKNOWN",
+  "evidence": [
+   "Careers page datestamped 'April 5, 2022', pre-2024 artefact",
+   "Employs a QA Engineer; six open roles listed",
+   "Ships own products including custom ERP and OHS software",
+   "7,316-char careers page names no repo host or review"
+  ],
+  "why_this_rank": "Gold was upgraded from UNKNOWN to +25 on hard evidence the field missed: their own careers and blog pages carry visible 2022 publication datestamps, which is a dated pre-2024 artefact. Unlike most of this pool, Neobyte is not held down by a missing careers page — it has one, 7,316 characters long, and it still names no private-repo host, no review gate and no CI/CD, so the Tier A zero here is genuine weakness rather than missing data. DQ_training hits are a blog post and a founder bio, not a training business.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "CodinBit",
+  "domain": "codinbit.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [
+   "cap_30_generalist_agency (not binding)"
+  ],
+  "pre2024_basis": "Wayback 2022-06 page title: 'Web Development - Web Design Company | CodinBit'",
+  "evidence": [
+   "Self-described full-service web, software, design and branding agency",
+   "Capabilities bundle branding, digital strategy, support and hosting",
+   "3,573-char careers page yielded no Git or review signals",
+   "DQ_training hits describe GetJobReady, a client coaching platform"
+  ],
+  "why_this_rank": "One of only two firms here with a real careers page, and 3,573 characters of it produced no private-repo host, no review gate and no Git or CI/CD mention, so both Tier A and Tier B are zero on collected evidence rather than absent evidence. The training flags are client case-study text about a platform they built, so no cap.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Enlivy",
+  "domain": "enlivy.dev",
+  "score": 53,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 15,
+  "tier_c_points": 13,
+  "raw_before_caps": 53,
+  "caps_applied": [
+   "cap_30_generalist_agency (considered, not applied)"
+  ],
+  "pre2024_basis": "Wayback 2023-06 prose: 'At the Core, Enlivy is a software development company'",
+  "evidence": [
+   "Cites servers, CI/CD and dev tooling as delivery infrastructure",
+   "Expanding from services into its own SaaS products",
+   "Fifty-article blog: 29 web development, 13 performance posts",
+   "Two GitHub links are personal accounts, not the firm"
+  ],
+  "why_this_rank": "Top of the batch on a matter-of-fact CI/CD reference — mentioned as background infrastructure excluded from a quote, not as a marketing bullet — plus the clearest pre-2024 software wording in the pool. The generalist-agency cap was considered and declined: the SEO evidence is a Clutch review title and blog categories, not a services page, and no services page was reached to confirm a bundled offering. If a later crawl shows SEO or ads sold as a service line, this drops to 30. The two GitHub links belong to individuals, not an org matching the company, so they score zero either way.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Altasoft Software Solutions SRL",
+  "domain": "altasoft-solutions.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [
+   "cap_30_generalist_agency (not binding)",
+   "cap_40_no_careers_blog_team (not binding)"
+  ],
+  "pre2024_basis": "Wayback 2023-06 title: 'AltaSoft Software Solutions', IT team augmentation partner",
+  "evidence": [
+   "Sells website development, SEO and marketing beside software work",
+   "Microsoft Dynamics 365 Business Central and CRM practice",
+   "'Work for Altasoft' link but no careers content collected",
+   "No Git, CI/CD, QA or compliance wording found"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ }
+]

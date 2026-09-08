@@ -1,0 +1,753 @@
+[
+ {
+  "name": "Barclays Global Service Centre Private Limited",
+  "city": "Pune",
+  "domain": "barclays.com",
+  "website": "https://home.barclays/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20191102",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 18769,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 26
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Registered office for all: 1 Churchill Place, London E14 5HP.<br>\\n</p>\\n\"}}\" id=\"text-6def19dcfa\"> Barclays Bank UK PLC and Barclays Bank PLC are each authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority.",
+    "Barclays Insurance Services Company Limited and Barclays Investment Solutions Limited are each authorised and regulated by the Financial Conduct Authority.",
+    "Barclays PLC is an approved bank holding company and regulated by the Prudential Regulation Authority.",
+    "Registered office for all: 1 Churchill Place, London E14 5HP.<br>\\n</p>\\n\"}}\" id=\"text-c8255bf2f3\"> Barclays Bank UK PLC and Barclays Bank PLC are each authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "BCE Global Technology Centre Private Limited",
+  "city": "Bengaluru",
+  "domain": "bceglobaltech.com",
+  "website": "https://www.bceglobaltech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2023-09-19",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Bestfit Business Solutions Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "bestfitsolutions.co.in",
+  "website": "http://www.bestfitsolutions.co.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Caftius Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "caftius.com",
+  "website": "https://www.caftius.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "CDM Smith Global Services India LLP",
+  "city": "Bengaluru",
+  "domain": "cdmsmith.com",
+  "website": "https://www.cdmsmith.com/en-au",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nt, transportation, energy and facilities. Passionate about our work and invested in each other, we are inspired to think and driven to solve the worl"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 18442,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "CitiusTech Healthcare Technology Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "citiustech.com",
+  "website": "https://www.citiustech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230101",
+   "quote": "penings Contact Us Offerings Offerings Overview > Digital & Product Engineering Applying design thinking and next-gen technology Data, Analytics & AI"
+  },
+  "jd": {
+   "pages_read": 17,
+   "external_job_boards": [],
+   "jd_chars": 109924,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 59,
+   "prod_eng": 4,
+   "senior_roles": 2,
+   "owns_product": 3,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Know Our Story CITIUSTECH.AI What if AI knew healthcare?",
+    "AI that understands healthcare will navigate industry complexity, meet regulatory demands, and integrate with core platforms while operating reliably at scale.",
+    "Through CitiusTech.AI, we help healthcare enterprises adopt secure, compliant, and scalable AI solutions that deliver measurable impact across the care continuum.",
+    "Explore Our AI Solutions SERVICES, CONSULTING AND PRODUCTS Building intelligent healthcare systems that deliver results We bring unmatched healthcare domain knowledge, proven consulting capabilities, and decades of product engineering heritage to help enterprises build intelligent systems with confidence and clarity."
+   ],
+   "prod_eng": [
+    "Explore Our AI Solutions SERVICES, CONSULTING AND PRODUCTS Building intelligent healthcare systems that deliver results We bring unmatched healthcare domain knowledge, proven consulting capabilities, and decades of product engineering heritage to help enterprises build intelligent systems with confidence and clarity.",
+    "ENGINEERING EXCELLENCE Human intelligence, dedicated to healthcare.",
+    "You will set the standard at the intersection of healthcare domain depth and modern engineering excellence.",
+    "We earned multiple Stevie Awards and secured investment from General Atlantic, while deepening our product engineering and data capabilities."
+   ],
+   "senior_roles": [
+    "Explore Offerings CLIENT SUCCESS For Healthcare Leaders, By HealthTech Leaders “CitiusTech is a company that always does what it says and will back you up in what you say.",
+    "Fast-track Growth “My journey at CitiusTech began as a Solution Architect, deeply focused on technology."
+   ],
+   "owns_product": [
+    "Our accelerators and domain-aggregated frameworks form a backbone of repeatable engineering enabling speed, scale, and lasting value without constant reinvention.",
+    "We earned multiple Stevie Awards and secured investment from General Atlantic, while deepening our product engineering and data capabilities."
+   ],
+   "cicd": [
+    "Built on healthcare-ready data pipelines, governance, and product-grade engineering, our Gen AI solutions deliver outcomes that withstand clinical and regulatory rigor."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "CLSA Technology & Services LLP",
+  "city": "Pune",
+  "domain": "clsa.com",
+  "website": "https://www.clsa.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 47425,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Internships CITIC CLSA offers a comprehensive eight-week internship programme for aspiring graduates considering a career in financial services in Asia.",
+    "To learn more about the CITIC CLSA internship programme please click here ."
+   ],
+   "enterprise": [
+    "We employ experienced professionals across the equity broking, investment banking and asset management businesses."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "CodeTantra Tech Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "codetantra.com",
+  "website": "https://www.codetantra.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ve courses Award winning programming courses Programming in Python Programming in Java Programming in C Programming in C++ Courses on popular technolo"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "Bulk import of question banks - automatic where standardized templates are used and manual as part of premium support services for ad hoc formats Manually evaluated question types include subjective essay, viva voce, document upload, etc."
+   ],
+   "sdlc": [
+    "Before co-founding CodeTantra with his BITS, Pilani batch mate Ravi, he had co-founded TalentSprint."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Crane Process Flow Technologies (India) Private Limited",
+  "city": "Pune",
+  "domain": "craneco.com",
+  "website": "https://www.craneco.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 19374,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 4,
+   "enterprise": 2,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Innovation Driven by Engineering Excellence",
+    "Process Flow Technologies Engineering Excellence Built for Mission-Critical Challenges.",
+    "Who We Are 170 Years of Engineering Excellence Crane has always been an engineering led company.",
+    "Engineering Excellence In addition to a world class set of processes and our disciplined cadence, at its core, Crane has always been an engineering led company."
+   ],
+   "enterprise": [
+    "Our Commitment Exciting Careers We believe that attracting and retaining the highest quality people is the best insurance of success.",
+    "Today, our solutions are used primarily in commercial and military aerospace and space applications, as well as electronics and semiconductor manufacturing, power applications (nuclear, renewable and conventional), healthcare, and certain critical industrial applications."
+   ],
+   "DQ_training": [
+    "All associates receive an annual development plan that includes a mixture of on-the-job coaching and formal training experiences to support individual development needs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "CriterionScreeners Global Private Limited",
+  "city": "Bengaluru",
+  "domain": "criterionscreeners.com",
+  "website": "https://www.criterionscreeners.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 109,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "DataFlow Services (India) Private Limited",
+  "city": "Noida",
+  "domain": "corp.dataflowgroup.com",
+  "website": "https://support.dataflowgroup.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Professions Corporate Social Responsibility Resources Blogs Case Studies Resources Library Media Releases White Papers Support/Contact Us Resolution N"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 229,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "DTCC Enterprise Services India Pvt Ltd",
+  "city": "Chennai",
+  "domain": "dtcc.com",
+  "website": "https://www.dtcc.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ns &amp; Reference Data CA 20022 Service CA Web Service ETF Portfolio Data Service Legal Notice System Data Liquidity Coverage Ratio Service Security"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "View details The Future of Clearing & Securities Service Discover how DTCC's multi-year, transformational initiative will enable a more agile and scalable processing foundation for the industry."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Egon Zehnder Information and Research Services Private Limited",
+  "city": "Gurugram",
+  "domain": "egonzehnder.com",
+  "website": "https://www.egonzehnder.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230104",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 35565,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 10,
+   "DQ_template": 10
+  },
+  "site_quotes": {
+   "cicd": [
+    "Designing Dynamic, Future-Oriented CEO Succession Planning This conversation examines how boards can design dynamic CEO succession processes that strengthen leadership pipelines and future preparedness.",
+    "A survey of 100+ CFOs reveals the opportunities and gaps in the talent pipeline."
+   ],
+   "DQ_template": [
+    "Executive Succession Planning Template & Guidance When it comes to executive succession, having support is key.",
+    "Utilize our succession planning template to get started."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "ENEL X Services India Private Limited",
+  "city": "Mumbai",
+  "domain": "enelx.com",
+  "website": "https://www.enelx.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20231002",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "Enel X --> /apps/enel-x-digital-ecosystem/templates/page-hub Salta il contenuto Corporate Italia IT Italia IT Italia Europa Italia Polonia UK Irlanda Spagna Portogallo LATAM Cile Argentina Brasile Colombia APAC Australia Giappone Corea del Sud Nuova Zelanda Cerca qui..."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Enviri India Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "enviri.com",
+  "website": "https://www.enviri.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230605",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Fact Solutions India Pvt Ltd",
+  "city": "Kolkata",
+  "domain": "factsoftware.com",
+  "website": "https://www.factsoftware.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 16191,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 3,
+   "owns_product": 5
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Learn More FACT ERP.NG is a fully integrated solution specially designed for Small and Medium Enterprises (SMEs) who require an affordable, flexible and agile solution for their business needs.",
+    "‍ Room to grow: We are a company where people move between roles, take on bigger scope, and shape how we work — not just execute a fixed job description.",
+    "Learn More About FACT FACT ERP.NG is a fully integrated solution specially designed for Small and Medium Enterprises (SMEs) who require an affordable, flexible and agile solution for their business needs."
+   ],
+   "owns_product": [
+    "“ Rasesh DManaging Director, The Associated Auto Parts Pvt Ltd Awards & Recognitions Awards & Recognitions Interested to explore our product suite?",
+    "From product positioning to campaigns, content, and events, you will help prospects and customers understand the value of our platform — and help sales and support teams do their jobs better with the right materials and messaging.",
+    "Apply Now Interested to explore our product suite?",
+    "Learn more Next Interested to explore our product suite?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Fidrox Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "fidrox.com",
+  "website": "https://fidrox.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 20555,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Video Management System Does it feel like your aging CCTV systems are holding you back?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Franklin Templeton International Services (India) Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "franklintempleton.com",
+  "website": "https://www.franklintempleton.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Geeta Eservices Private Limited",
+  "city": "Mumbai",
+  "domain": "geetaeservices.com",
+  "website": "https://geetaeservices.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20231030",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 185562,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Globex Digital Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "globexdigitalcorp.com",
+  "website": "https://globexdigital.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20231030",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 23363,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 18,
+   "sdlc": 4
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Book a Free Strategy Call See Our Results Trusted by industry leaders 200+ Projects Delivered 50+ Enterprise Clients 98% Client Satisfaction 90+ Years Combined Expertise Ready to start your AI transformation?",
+    "Globex Digital Insights Read GenAI 8 min read GenAI in the Enterprise: 5 Patterns That Actually Work After implementing GenAI across 50+ enterprise clients, we've seen which use cases deliver and which become expensive pilot projects.",
+    "Globex Digital Insights Read Free Resource Get Your Free AI Readiness Guide A practical checklist covering data readiness, use case prioritisation, and ROI measurement — used by our enterprise clients before every AI engagement.",
+    "Join 50+ enterprise clients that trust GlobeX Digital for their AI transformation journey."
+   ],
+   "sdlc": [
+    "Secure Now View All Services Our Process From Idea to Impact in 90 Days A proven three-step delivery model that gets you to measurable ROI fast — without the enterprise drag."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

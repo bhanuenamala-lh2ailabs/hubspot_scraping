@@ -1,0 +1,471 @@
+[
+ {
+  "name": "Naatscorp Private Limited",
+  "domain": "naatscorp.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [
+   "cap 45 - DOMAIN_ONLY, no artefact of software work (non-binding)",
+   "cap 40 - no careers page, blog or team (non-binding)"
+  ],
+  "pre2024_basis": "DOMAIN_ONLY - naatscorp.com registered 2022-05-15; proves the name existed, not that software was written",
+  "evidence": [
+   "Site: 'ISO 9001 certification for our manufacturing processes'",
+   "Site: 'PRODUCT MANUFACTURING ... innovations are brought to fruition' - hardware, not code",
+   "Homepage only reached; no careers, blog or team page",
+   "No JD text collected; jd_chars 0"
+  ],
+  "why_this_rank": "The owns_product hits describe medical-device manufacturing, not a codebase, so Tier C earns nothing; only the homepage was reachable and no JD exists, so nothing here speaks to version control at all.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Neenopal Intelligent Solutions Private Limited",
+  "domain": "neenopal.com",
+  "score": 33,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 13,
+  "raw_before_caps": 33,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-06-01 snapshot exists but did not advertise software work; +10, no cap-45",
+  "evidence": [
+   "Site: 'NeenOpal Achieves ISO 27001:2022 and SOC 2 Certification'",
+   "Site: 'End-to-end SaaS product strategy and development'",
+   "Site: healthcare, pharma and finance clients named in case studies",
+   "cicd=9 quotes are client ETL and streaming pipelines, not builds"
+  ],
+  "why_this_rank": "The nine cicd hits all describe client data pipelines (ETL, Microsoft Fabric streaming), not their own build pipeline, so no Tier B CI/CD credit; zero careers pages were read, so nothing evidences review practice either way.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "NIIT Limited",
+  "domain": "niit.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "cap 30 - training / edtech core business",
+   "cap 45 - DOMAIN_ONLY, no artefact of software work (non-binding)"
+  ],
+  "pre2024_basis": "DOMAIN_ONLY - niit.com registered 1995-04-27; no dated pre-2024 software artefact in the bundle",
+  "evidence": [
+   "Site: 'Learn Git and GitLab fundamentals' - course syllabus, not practice",
+   "Site: 'Apply Git branching, JIRA sprint workflows' - learner curriculum",
+   "DQ_training=28: placements, CTC and faculty testimonials dominate",
+   "No JD collected; every vcs/cicd hit sits in programme descriptions"
+  ],
+  "why_this_rank": "vcs=9, cicd=20 and pr_practice=2 make this look like the strongest engineering site in the bundle, but every quote is course-catalogue text NIIT sells to students. It is a training company teaching Git, not a firm practising it, so the counts earn zero and the training cap applies.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Nivaata Systems Private Limited",
+  "domain": "routematic.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-06-01 snapshot exists but did not advertise software work; +10, no cap-45",
+  "evidence": [
+   "23k chars of JD read across 5 pages; zero git/PR/CI mention",
+   "Site: 'enhancing our platform with user-friendly features' - only product hint",
+   "Compliance hits are WCAG and GDPR, not ISO, SOC 2 or CMMI",
+   "Own SaaS for employee transport; no client software delivery"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Oasys Cybernetics Private Limited",
+  "domain": "oasys.co",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [
+   "cap 40 - no careers page, blog or team (non-binding)"
+  ],
+  "pre2024_basis": "UNKNOWN - no Wayback snapshot and no RDAP record; MISSING, not absent, so +10 and no cap-45",
+  "evidence": [
+   "Site: 'OASYS gets Maturity Level 5 Rating in CMMI DEV V2.0'",
+   "Site: hospital operations digitization across financial, medical, legal domains",
+   "Homepage only reached; no careers, blog or team page",
+   "No JD text collected; jd_chars 0"
+  ],
+  "why_this_rank": "A CMMI DEV Level 5 appraisal is the strongest process claim anywhere in this bundle and normally implies enforced review gates, but only the homepage was reachable and the pre-2024 record is missing entirely, so it stands uncorroborated. This is a re-crawl candidate rather than a settled Skip.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "One Kosmos Technology Private Limited",
+  "domain": "1kosmos.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [
+   "REJECT - multinational captive arm of US 1Kosmos Inc",
+   "cap 40 - no careers page, blog or team (non-binding)"
+  ],
+  "pre2024_basis": "PROVEN - 2023-06-01 snapshot shows an identity-management product with case studies, datasheets and solution briefs",
+  "evidence": [
+   "Wayback 2023: 'Identity Management ... Case Studies Datasheets ... Solution Briefs'",
+   "Scored site is 1kosmos.com, the US parent's product marketing",
+   "Site: 'Native GDPR, data residency' is product copy, not certification",
+   "Homepage only reached; no careers, blog or team page"
+  ],
+  "why_this_rank": "Rejected as the Indian captive of a US identity-product vendor. Everything scored belongs to the parent's product site, so none of it evidences an Indian-built codebase that could be acquired.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "OneMagnify India Private Limited",
+  "domain": "onemagnify.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "REJECT - multinational captive arm of US OneMagnify",
+   "cap 30 - marketing-agency bundle (non-binding)"
+  ],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-06-01 snapshot exists but did not advertise software work; +10, no cap-45",
+  "evidence": [
+   "Blog: 'E-E-A-T in 2026 ... for SEO Success' - marketing agency output",
+   "enterprise=7 hits are pet insurance and disability benefits copy",
+   "8k chars of JD read; no repo host, review gate or CI",
+   "Chennai entity is the India arm of US OneMagnify"
+  ],
+  "why_this_rank": "Rejected as a US marketing firm's India delivery arm. Separately worth recording that its seven enterprise hits are employee-benefit copy about pet insurance, not regulated-client evidence, and its compliance hit is HIPAA/GDPR product marketing.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Opengov India Private Limited",
+  "domain": "opengov.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "REJECT - India GCC of US OpenGov Inc"
+  ],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-06-01 snapshot exists but did not advertise software work; +10, no cap-45",
+  "evidence": [
+   "44 Ashby listings, 32k chars read; no repo host or review gate",
+   "Site: 'IT Support Specialist Information Technology India'",
+   "Compliance hit is PCI DSS text from customer data-processing terms",
+   "Pune entity is the GCC of US govtech OpenGov Inc"
+  ],
+  "why_this_rank": "Rejected as a US govtech vendor's Indian GCC. Notable for calibration that 44 collected Ashby listings, one of the largest JD hauls in this bundle, still named no version-control host and no review step.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Orange Technolab Pvt Ltd",
+  "domain": "orangewebtech.com",
+  "score": 35,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 35,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06-01 snapshot advertises 'a variety of website design and development services'",
+  "evidence": [
+   "Wayback 2023: 'variety of website design and development services'",
+   "Site: founder names 'Orange Technolab Pvt Ltd (ISO 9001:2015)'",
+   "Five careers pages fetched returned 9 characters of text",
+   "owns_product hit is a client testimonial about an ecommerce portal"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "OrangeScape Technologies Private Limited",
+  "domain": "orangescape.com",
+  "score": 33,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 13,
+  "raw_before_caps": 33,
+  "caps_applied": [
+   "cap 45 - DOMAIN_ONLY, no dated pre-2024 artefact (non-binding)"
+  ],
+  "pre2024_basis": "DOMAIN_ONLY - orangescape.com registered 2003-11-03; the bundle holds no dated pre-2024 artefact to upgrade on",
+  "evidence": [
+   "Site: 'compliance with SOC 2, GDPR, HIPAA, and ISO 27001'",
+   "Site: owns Kissflow low-code platform; healthcare and banking workflows",
+   "12k chars of JD read; no repo host, review gate or CI",
+   "DQ_template hits are Kissflow's own product templates, not a template shop"
+  ],
+  "why_this_rank": "The most likely under-scored firm in this bundle: a 2003-registered Chennai product company that owns Kissflow, a long-lived low-code codebase, at target size. It lands at 33 only because the classifier found no dated pre-2024 artefact and 12k chars of JD named no review practice - missing evidence rather than evidence of absence. Worth a manual look before discarding.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "PAS Digital Private Limited",
+  "domain": "caleedo.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2022-06-01 snapshot exists but did not advertise software work; +10, no cap-45",
+  "evidence": [
+   "Site: 'VAPT Tested ISO 27001 and 9001 certified'",
+   "Site: 'microservice technologies for auto scale, auto healing, auto deploy'",
+   "10k chars of JD across 3 pages; no repo host or review gate",
+   "No named CI tooling, no pipeline, no branching language anywhere"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Pine Labs Limited",
+  "domain": "pinelabs.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-06-01 snapshot exists but did not advertise software work; +10, no cap-45",
+  "evidence": [
+   "Site: 'consistently achieved compliance with PCI DSS ... across our platforms'",
+   "8.7k chars of JD read; no repo host, review gate or CI",
+   "enterprise hit is family insurance benefits copy",
+   "Payments product company, not a client software vendor"
+  ],
+  "why_this_rank": "Off-profile as well as low-scoring: Pine Labs builds payment software for itself, not for clients, and is a large listed fintech rather than a 50-600 person shop. Only 8.7k chars of careers text was collected and it said nothing about how its engineers merge code.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Researchwire Knowledge Solutions Private Limited",
+  "domain": "researchwire.in",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 13,
+  "raw_before_caps": 33,
+  "caps_applied": [
+   "cap 20 - patent-research / market-research KPO core business"
+  ],
+  "pre2024_basis": "PROVEN downgraded to +10 - the 2023-06-01 quote is a patent-research services menu, not software work",
+  "evidence": [
+   "Wayback 2023: 'Patent Portfolio Management ... Patent Search | Litigation Support'",
+   "Site: 'ISO 27001 certified global Intellectual property ... consulting firm'",
+   "128k chars of JD read; no repo host, review gate or CI",
+   "Site: 'Our platform offers top-level security with encryption'"
+  ],
+  "why_this_rank": "The snapshot the classifier read as PROVEN is a patent-search services nav, so Tier GOLD drops to +10. The core business is IP and market-research outsourcing, which caps this at 20 despite 128k chars of collected job text - the second-largest haul here - producing no engineering signal at all.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "SecPod Technologies Pvt Ltd",
+  "domain": "secpod.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06-01 snapshot shows product briefs, documentation and case studies for their own product",
+  "evidence": [
+   "Wayback 2023: 'Product Briefs Documentation Case Studies eBooks Whitepapers'",
+   "vcs/cicd hit is one blog headline about another firm's GitHub breach",
+   "9k chars of JD read; no repo host, review gate or CI",
+   "Compliance hit is HIPAA baselines their scanner enforces for customers"
+  ],
+  "why_this_rank": "Its only vcs and cicd hits come from a single security-news headline about a GitHub supply-chain attack on other companies - exactly the vendor-marketing trap the rubric warns about - so no Tier A or B credit is given. SecPod clearly owns a long-lived scanner codebase, but the bundle carries nothing on how that code is reviewed.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "SG Analytics Private Limited",
+  "domain": "sganalytics.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [
+   "cap 20 - offshore research / analytics KPO core business"
+  ],
+  "pre2024_basis": "PROVEN downgraded to +10 - the 2023-06-01 quote is an analytics-and-ESG nav, not software work",
+  "evidence": [
+   "Wayback 2023: 'Analytics and ESG Company ... Services Industries Case Studies'",
+   "Site: 'ISO 27001:2013, SOC 2 Type II compliance, and GDPR'",
+   "184k chars of JD read; no repo host, review gate or CI",
+   "cicd hit reads 'grow pipeline' - a sales pipeline"
+  ],
+  "why_this_rank": "Its single cicd hit is a sales-pipeline sentence and its sdlc hits are analytics marketing, so neither earns Tier B. The core business is offshore research support for investment banks, which caps it at 20 - and 184k chars of job text, the largest in this bundle, contained no engineering-process language whatsoever.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Shyro Health Private Limited",
+  "domain": "shyrohealth.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-06-01 snapshot exists but did not advertise software work; +10, no cap-45",
+  "evidence": [
+   "Site: 'ISO 27001 certified, and designed to meet HIPAA, GDPR, and DPDP'",
+   "cicd=2 hits are blog teasers on stress and social media",
+   "2.9k chars of JD read; no repo host, review gate or CI",
+   "senior_roles hit is a founder's former VP Engineering title"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Speed Engineering Solutions Private Limited",
+  "domain": "speed-global.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [
+   "cap 40 - no careers page, blog or team (non-binding)"
+  ],
+  "pre2024_basis": "UNKNOWN - no Wayback snapshot and no RDAP record; MISSING, not absent, so +10 and no cap-45",
+  "evidence": [
+   "Site: 'ISO 9001: 2015 TUV Certified'",
+   "Site: 'design, development and validation cycle' - mechanical engineering",
+   "Homepage only reached; no careers, blog or team page",
+   "No JD text collected; jd_chars 0"
+  ],
+  "why_this_rank": "Off-profile regardless of score: the 'development and validation' language here is mechanical design and CAE services for automotive and industrial clients, not software built and sold to clients.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Tart Labs",
+  "domain": "tartlabs.com",
+  "score": 60,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 15,
+  "tier_c_points": 10,
+  "raw_before_caps": 60,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-06-01 snapshot exists but did not advertise software work; +10, no cap-45",
+  "evidence": [
+   "Process page: 'performing code reviews along the way' during sprints",
+   "Site: 'We also offer DevOps, QA, and data engineering services'",
+   "Site: 'AI-driven custom software and product engineering solutions'",
+   "5.9k chars of JD read; the review claim is marketing, not JD"
+  ],
+  "why_this_rank": "The only firm in this bundle with an explicit review gate anywhere, but it sits on a services page selling their Agile delivery process, not in a job description - so it takes the discounted +25, no private-repo host is named, and confidence stays Inferred rather than Verified. Its cicd=29 count is mostly client data-pipeline copy, which is why Tier B is 15 and not higher.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Terralogic Software Solutions Private Limited",
+  "domain": "terralogic.com",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 20,
+  "tier_c_points": 13,
+  "raw_before_caps": 58,
+  "caps_applied": [
+   "cap 30 - dev bundled with digital marketing, SEO, SMO and helpdesk"
+  ],
+  "pre2024_basis": "PROVEN - 2020-06-01 snapshot titled 'Terralogic - Software Development and IT Services Company'",
+  "evidence": [
+   "Wayback 2020: 'Terralogic - Software Development and IT Services Company'",
+   "Site: 'Digital Marketing, SEO, SMO and User experience (UI/UX)' bundled",
+   "Site: ISO 27001 and ISO 9001:2015 certified",
+   "100k chars of JD read; no repo host, review gate or CI"
+  ],
+  "why_this_rank": "Would have scored 58 on an 18-year software record, ISO certifications and a client testimonial about running their QA-automation arm, but it sells SEO, SMO, digital marketing and multi-channel helpdesk alongside development, which is the generalist-agency signature and caps it at 30. Also flag that the site claims 1400+ professionals against a recorded headcount of 18.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Trimplin Private Limited",
+  "domain": "trimplin.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [
+   "cap 20 - academic-writing / editing services core business",
+   "cap 30 - dev bundled with writing, coaching and design (non-binding)"
+  ],
+  "pre2024_basis": "PROVEN downgraded to +10 - the 2023-06-01 quote is academic-writing marketing copy, not software work",
+  "evidence": [
+   "Wayback 2023 quote sells relief from exam fear, not software",
+   "Site: 'Academic Writing Support (editing, formatting, coaching) ... IT & Development'",
+   "Site: 'ISO 9001:2015 Certified'",
+   "qa hit is 'Final QA, plagiarism scan report'"
+  ],
+  "why_this_rank": "The snapshot the classifier scored as PROVEN software work is essay-anxiety marketing copy. The business is academic writing, editing and coaching with 'IT & Development' as one line in a services bundle, and even its QA signal turns out to be a plagiarism scan.",
+  "graded_by": "agent"
+ }
+]

@@ -1,0 +1,206 @@
+[
+ {
+  "name": "Nerve Cells AI Private Limited",
+  "city": "Chandigarh(PB)",
+  "domain": "nervecells.ai",
+  "website": "https://www.nervecells.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ur business needs. Binance Ethereum Solana Polygon Solidity Angular C++ ES6 JS Node React Python Hyperledger Foundation Blockchain Consulting Our skil"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 19241,
+   "signals": {
+    "cicd": 1
+   },
+   "quotes": {
+    "cicd": [
+     "1 year of continues development CERTIK BMB chain CI/CD HACKEN token Jenkins --> How can we help you?"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 8,
+   "owns_product": 1,
+   "prod_eng": 2,
+   "enterprise": 2,
+   "DQ_agency": 1,
+   "DQ_template": 1,
+   "vcs": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "We design and build reliable software, intelligent hardware, and next-generation defence technologies that help businesses and institutions move forward with confidence.",
+    "What we build: Focused engineering across software, hardware, and advanced research.",
+    "Embedded Systems Intelligent Electronic Services We design custom embedded systems, firmware, and hardware solutions built for accuracy, stability, and reliable real-world performance across industrial and commercial applications.",
+    "Embedded and Hardware Services (8) See More --> Embedded Firmware Low-level software designed for stable, efficient hardware operation."
+   ],
+   "owns_product": [
+    "Our Products Products Software Services S.Services Embedded Services E.Services AI Automation Services AI Services Our Products (5) See More --> --> RC Remote V1 Stable and reliable remote controller built for basic flight control and operational training."
+   ],
+   "prod_eng": [
+    "Product Engineering End-to-end product development from concept to deployment.",
+    "Comprehensive Expertise Our team brings hands-on experience across software development, embedded systems, and product engineering."
+   ],
+   "enterprise": [
+    "We offer comprehensive health insurance coverage.",
+    "Our health insurance plans provide access to a wide network of healthcare providers and cover a range of services to ensure that our employees receive the care they need."
+   ],
+   "DQ_agency": [
+    "Business Development Executive 2 Year(s) 1 Designation Required Experience Openings Digital Marketing Intern (6 Months internship) 6 Month(s) 1 How can we help you?"
+   ],
+   "DQ_template": [
+    "-> Read More -> --> ES6 Features You May Not Know About ES6 Published in Insights 18 May 2023 Introduction ECMAScript 6 (ES6) Is the latest version of Java Script and it brings many new features, such as arrow functions, template literals, promises, generators, new built-in methods, classes and..."
+   ],
+   "vcs": [
+    "GitHub To Send/Receive Code Why choose us?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 1
+ },
+ {
+  "name": "Sinnonteq IT Consulting LLP",
+  "city": "Kozhikode",
+  "domain": "sinnonteq.com",
+  "website": "https://sinnonteq.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "elopment Company - Sinnonteq Skip to content About Services Mobile App Development Website development E-Commerce Development Augmented reality and Vi"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 14578,
+   "signals": {
+    "cicd": 1,
+    "vcs_generic": 1,
+    "testing": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Exposure to CI/CD pipelines and version control (Git)."
+    ],
+    "vcs_generic": [
+     "Exposure to CI/CD pipelines and version control (Git)."
+    ],
+    "testing": [
+     "Experience with QA tools like Jira, TestRail, Postman, Selenium, Playwright, or Cypress."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1,
+   "DQ_agency": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Application Audit & Quality Check Performance Scalability Security Functional & Technical QA We thoroughly evaluate your application’s performance, scalability, and security to ensure it’s robust and future-ready."
+   ],
+   "DQ_agency": [
+    "With 20+ years of cross-industry expertise, our team delivers tailored solutions across AI, custom applications, data, cloud, DevOps, cybersecurity, and digital marketing."
+   ],
+   "sdlc": [
+    "Your Trusted Technology Partner With 20+ years of expertise, we deliver innovative IT solutions in AI, cloud, and cybersecurity, helping businesses stay agile, secure, and future-ready."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 1
+ },
+ {
+  "name": "Indigrators Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "indigrators.com",
+  "website": "https://indigrators.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ment Global Customer Support Enterprise Solutions Our Model We Build Your Team We Run Your Operations You Scale without limits Company About us Career"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 195899,
+   "signals": {
+    "cicd": 7,
+    "vcs_generic": 3,
+    "testing": 9
+   },
+   "quotes": {
+    "cicd": [
+     "Collaborate with DevOps and QA teams for seamless CI/CD and deployment workflows.",
+     "Write automated tests and support CI/CD pipelines.",
+     "Strong experience with Git , CI/CD , and TDD/BDD practices ."
+    ],
+    "vcs_generic": [
+     "Strong experience with Git , CI/CD , and TDD/BDD practices .",
+     "Solid knowledge of CI/CD processes and tools such as Git, CircleCI .",
+     "Understanding of version control systems like Git."
+    ],
+    "testing": [
+     "Write and maintain unit and integration tests to ensure code reliability.",
+     "Strong experience with Git , CI/CD , and TDD/BDD practices .",
+     "Support QA activities including test case creation, test automation, and maintenance."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "sdlc": 1,
+   "DQ_support": 3,
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Your product vision, backed by a dedicated India team.",
+    "Delivery Your team begins delivering on your product, support, or operational goals."
+   ],
+   "sdlc": [
+    "With agile execution and competitive pricing, Indigrators enables organizations to innovate faster and scale smarter."
+   ],
+   "DQ_support": [
+    "is a global consulting firm with expertise since 2006, specializing in digital transformation through comprehensive IT support and consulting."
+   ],
+   "prod_eng": [
+    "Learn more Alphaleo is a technology-led consulting and solutions firm specializing in digital transformation, enterprise platforms, and scalable product engineering."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

@@ -1,0 +1,2543 @@
+{
+ "companies": [
+  {
+   "waves": [
+    "Mobility (survivors: Ola, Uber, Rapido)"
+   ],
+   "company": "TaxiForSure",
+   "display": "TaxiForSure",
+   "founders": [
+    "Aprameya Radhakrishna",
+    "Raghunandan G"
+   ],
+   "founded": "2011",
+   "shutdown": "2016",
+   "funding_raised": "~$40M",
+   "status": "Acquired-dead (Ola 2015)",
+   "founder_notes": "Aprameya -> Vokal/Koo; Raghunandan -> Zolve",
+   "source": "Prior session research",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Mobility (survivors: Ola, Uber, Rapido)"
+   ],
+   "company": "Baxi",
+   "display": "Baxi (74 BC Technologies)",
+   "founders": [
+    "Ashutosh Johri",
+    "Manu Rana"
+   ],
+   "founded": "2015",
+   "shutdown": "~2018",
+   "funding_raised": "~$5-6M",
+   "status": "Dead (clean)",
+   "founder_notes": "Manu Rana -> founder of 6to8, Baxitaxi",
+   "source": "inc42.com; tracxn.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Mobility (survivors: Ola, Uber, Rapido)"
+   ],
+   "company": "Meru Cabs",
+   "display": "Meru Cabs",
+   "founders": [
+    "Neeraj Gupta"
+   ],
+   "founded": "2006/07",
+   "shutdown": "N/A - ALIVE, do not target",
+   "funding_raised": "~$75M",
+   "status": "Acquired-alive (Mahindra Logistics, 100%, Dec 2021)",
+   "founder_notes": "Neeraj Gupta stepped down 2021",
+   "source": "wikipedia.org; inc42.com",
+   "gate": "EXCLUDE",
+   "gate_reason": "ALIVE \u2014 still trading"
+  },
+  {
+   "waves": [
+    "Hyperlocal grocery (survivors: BigBasket, Blinkit)"
+   ],
+   "company": "PepperTap",
+   "display": "PepperTap",
+   "founders": [
+    "Navneet Singh",
+    "Milin Jain"
+   ],
+   "founded": "2014",
+   "shutdown": "2016",
+   "funding_raised": "~$51M",
+   "status": "Dead (clean)",
+   "founder_notes": "Navneet -> logistics ventures",
+   "source": "Prior session research",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal grocery (survivors: BigBasket, Blinkit)"
+   ],
+   "company": "LocalBanya",
+   "display": "LocalBanya",
+   "founders": [
+    "Rashi Choudhary",
+    "Amit Naik",
+    "Karan Mehrotra"
+   ],
+   "founded": "2012",
+   "shutdown": "2016",
+   "funding_raised": "undisclosed",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal grocery (survivors: BigBasket, Blinkit)"
+   ],
+   "company": "GrocShop",
+   "display": "GrocShop",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "2016",
+   "funding_raised": "small",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Hyperlocal grocery (survivors: BigBasket, Blinkit)",
+    "Hyperlocal Delivery/Logistics (consolidated into Zomato/Swiggy/Dunzo)"
+   ],
+   "company": "Townrush",
+   "display": "Townrush (grocery)",
+   "founders": [
+    "Saurya P. Sinha",
+    "Tushar Bisht",
+    "Ashutosh Banerjee"
+   ],
+   "founded": "-",
+   "shutdown": "2016",
+   "funding_raised": "small",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Hyperlocal grocery (survivors: BigBasket, Blinkit)"
+   ],
+   "company": "Aagar.com",
+   "display": "Aagar.com",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "2016",
+   "funding_raised": "small",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Hyperlocal grocery (survivors: BigBasket, Blinkit)"
+   ],
+   "company": "ZopNow",
+   "display": "ZopNow",
+   "founders": [
+    "Mukesh Singh",
+    "Bal Krishn Birla"
+   ],
+   "founded": "2011",
+   "shutdown": "2019",
+   "funding_raised": "~$10M",
+   "status": "Dead but messy (assets to ZopSmart/More)",
+   "founder_notes": "Mukesh Singh -> founded ZopSmart",
+   "source": "entrackr.com; startuparticle.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Foodtech (survivors: Zomato, Swiggy)"
+   ],
+   "company": "TinyOwl",
+   "display": "TinyOwl",
+   "founders": [
+    "Harshvardhan Mandad"
+   ],
+   "founded": "2014",
+   "shutdown": "2016",
+   "funding_raised": "~$27.7M",
+   "status": "Acquired-dead (merged into Runnr->Zomato)",
+   "founder_notes": "Harshvardhan -> other ventures",
+   "source": "thehotstartups.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Foodtech (survivors: Zomato, Swiggy)"
+   ],
+   "company": "Yumist",
+   "display": "Yumist",
+   "founders": [
+    "Alok Jain",
+    "Abhimanyu Maheshwari"
+   ],
+   "founded": "2014",
+   "shutdown": "2017",
+   "funding_raised": "~$1M",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Foodtech (survivors: Zomato, Swiggy)"
+   ],
+   "company": "Dazo",
+   "display": "Dazo (fka TapCibo)",
+   "founders": [
+    "Shashank Shekhar Singhal",
+    "Monica Rastogi"
+   ],
+   "founded": "2014",
+   "shutdown": "2015",
+   "funding_raised": "~$235K+",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Foodtech (survivors: Zomato, Swiggy)"
+   ],
+   "company": "SpoonJoy",
+   "display": "SpoonJoy",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "2015",
+   "funding_raised": "~$1M",
+   "status": "Acqui-hired (Grofers)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Foodtech (survivors: Zomato, Swiggy)"
+   ],
+   "company": "Langhar",
+   "display": "Langhar",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "~2016",
+   "funding_raised": "small",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Foodtech (survivors: Zomato, Swiggy)"
+   ],
+   "company": "Eatlo",
+   "display": "Eatlo",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "2016",
+   "funding_raised": "small",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Foodtech (survivors: Zomato, Swiggy)"
+   ],
+   "company": "ZuperMeal",
+   "display": "ZuperMeal",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "2016",
+   "funding_raised": "seed only",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Foodtech (survivors: Zomato, Swiggy)"
+   ],
+   "company": "FranklyMe",
+   "display": "FranklyMe",
+   "founders": [],
+   "founded": "2014",
+   "shutdown": "2016",
+   "funding_raised": "~$600K",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Edtech (survivors: PhysicsWallah, upGrad, Unacademy)"
+   ],
+   "company": "Lido Learning",
+   "display": "Lido Learning",
+   "founders": [
+    "Sahil Sheth"
+   ],
+   "founded": "2019",
+   "shutdown": "2022",
+   "funding_raised": "~$20M+",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Edtech (survivors: PhysicsWallah, upGrad, Unacademy)"
+   ],
+   "company": "FrontRow",
+   "display": "FrontRow",
+   "founders": [
+    "Ishaan Preet Singh",
+    "Shubham Malhotra"
+   ],
+   "founded": "2020",
+   "shutdown": "2023",
+   "funding_raised": "~$14M",
+   "status": "Dead (clean, considered returning $2.5M)",
+   "founder_notes": "-",
+   "source": "cbinsights.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Edtech (survivors: PhysicsWallah, upGrad, Unacademy)"
+   ],
+   "company": "DUX Education",
+   "display": "DUX Education",
+   "founders": [
+    "Rohit Jain",
+    "Udit Chaturvedi",
+    "Manika Tiwari"
+   ],
+   "founded": "2020",
+   "shutdown": "2023",
+   "funding_raised": "~Rs2Cr",
+   "status": "Dead (clean)",
+   "founder_notes": "Chaturvedi -> CFO Techno Sportswear; Tiwari -> CSO LXL Ideas",
+   "source": "inc42.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Edtech (survivors: PhysicsWallah, upGrad, Unacademy)"
+   ],
+   "company": "Udayy",
+   "display": "Udayy",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "2022",
+   "funding_raised": "varies",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Edtech (survivors: PhysicsWallah, upGrad, Unacademy)"
+   ],
+   "company": "Crejo.Fun",
+   "display": "Crejo.Fun",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "2022",
+   "funding_raised": "Matrix-backed",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Edtech (survivors: PhysicsWallah, upGrad, Unacademy)"
+   ],
+   "company": "SuperLearn",
+   "display": "SuperLearn",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "2022",
+   "funding_raised": "varies",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Edtech (survivors: PhysicsWallah, upGrad, Unacademy)"
+   ],
+   "company": "Amazon Academy",
+   "display": "Amazon Academy",
+   "founders": [],
+   "founded": "2021",
+   "shutdown": "2023",
+   "funding_raised": "corporate",
+   "status": "Dead (IP = Amazon)",
+   "founder_notes": "-",
+   "source": "techcrunch.com",
+   "gate": "EXCLUDE",
+   "gate_reason": "IP_HELD \u2014 acquirer owns the codebase"
+  },
+  {
+   "waves": [
+    "Edtech (survivors: PhysicsWallah, upGrad, Unacademy)"
+   ],
+   "company": "WhiteHat Jr",
+   "display": "WhiteHat Jr",
+   "founders": [
+    "Karan Bajaj"
+   ],
+   "founded": "-",
+   "shutdown": "wound down",
+   "funding_raised": "acquired ($300M)",
+   "status": "Acquired-dead (IP with BYJU'S)",
+   "founder_notes": "-",
+   "source": "Prior session research",
+   "gate": "EXCLUDE",
+   "gate_reason": "IP_HELD \u2014 acquirer owns the codebase"
+  },
+  {
+   "waves": [
+    "Edtech (survivors: PhysicsWallah, upGrad, Unacademy)"
+   ],
+   "company": "Toppr",
+   "display": "Toppr",
+   "founders": [
+    "Zishaan Hayath"
+   ],
+   "founded": "-",
+   "shutdown": "wound down",
+   "funding_raised": "acquired ($150M)",
+   "status": "Acquired-dead (IP with BYJU'S)",
+   "founder_notes": "Zishaan Hayath -> exited 2021",
+   "source": "Prior session research",
+   "gate": "EXCLUDE",
+   "gate_reason": "IP_HELD \u2014 acquirer owns the codebase"
+  },
+  {
+   "waves": [
+    "P2P Lending / Fintech NBFC (survivors: Faircent, LenDenClub)"
+   ],
+   "company": "Monexo",
+   "display": "Monexo",
+   "founders": [
+    "Mukesh Bubna"
+   ],
+   "founded": "-",
+   "shutdown": "~2024",
+   "funding_raised": "-",
+   "status": "Dead/wound down (RBI show-cause notice)",
+   "founder_notes": "-",
+   "source": "medianama.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "P2P Lending / Fintech NBFC (survivors: Faircent, LenDenClub)"
+   ],
+   "company": "Finzy",
+   "display": "Finzy",
+   "founders": [
+    "Abhinav Sherwal",
+    "Amit More",
+    "Apoorv Gawde",
+    "Vishwas Dixit"
+   ],
+   "founded": "-",
+   "shutdown": "~2024",
+   "funding_raised": "-",
+   "status": "Dead/frozen (RBI show-cause notice)",
+   "founder_notes": "-",
+   "source": "medianama.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "P2P Lending / Fintech NBFC (survivors: Faircent, LenDenClub)"
+   ],
+   "company": "Rang De",
+   "display": "Rang De",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "~2024",
+   "funding_raised": "-",
+   "status": "Halted withdrawals (RBI action)",
+   "founder_notes": "-",
+   "source": "medianama.com; yourstory.com",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "P2P Lending / Fintech NBFC (survivors: Faircent, LenDenClub)"
+   ],
+   "company": "Financepeer",
+   "display": "Financepeer",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "~2024",
+   "funding_raised": "-",
+   "status": "Halted withdrawals (RBI action)",
+   "founder_notes": "-",
+   "source": "medianama.com; yourstory.com",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "P2P Lending / Fintech NBFC (survivors: Faircent, LenDenClub)"
+   ],
+   "company": "i-lend",
+   "display": "i-lend",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "~2024",
+   "funding_raised": "-",
+   "status": "Halted withdrawals (RBI action)",
+   "founder_notes": "-",
+   "source": "medianama.com; yourstory.com",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "P2P Lending / Fintech NBFC (survivors: Faircent, LenDenClub)"
+   ],
+   "company": "13Karat",
+   "display": "13Karat",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "~2024",
+   "funding_raised": "-",
+   "status": "Halted withdrawals (RBI action)",
+   "founder_notes": "-",
+   "source": "medianama.com; yourstory.com",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Furniture & Home Decor E-comm (survivors: Pepperfry, Urban Ladder->Reliance)"
+   ],
+   "company": "FabFurnish",
+   "display": "FabFurnish",
+   "founders": [
+    "Vikram Chopra",
+    "Mehul Agrawal",
+    "Vaibhav Aggarwal"
+   ],
+   "founded": "2011/12",
+   "shutdown": "2017",
+   "funding_raised": "~$30M",
+   "status": "Acquired-dead (Future Group 2016; IP w/ Future)",
+   "founder_notes": "Vikram Chopra -> founded Cars24",
+   "source": "inc42.com",
+   "gate": "EXCLUDE",
+   "gate_reason": "IP_HELD \u2014 acquirer owns the codebase"
+  },
+  {
+   "waves": [
+    "Furniture & Home Decor E-comm (survivors: Pepperfry, Urban Ladder->Reliance)"
+   ],
+   "company": "Mebelkart",
+   "display": "Mebelkart",
+   "founders": [
+    "Rahul Agrawal",
+    "Nikhil Saraf"
+   ],
+   "founded": "~2013",
+   "shutdown": "2017",
+   "funding_raised": "~$20M (via AskMe)",
+   "status": "Acquired then collapsed (AskMe shut 2016)",
+   "founder_notes": "-",
+   "source": "wikipedia.org; yourstory.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Furniture & Home Decor E-comm (survivors: Pepperfry, Urban Ladder->Reliance)"
+   ],
+   "company": "Zansaar",
+   "display": "Zansaar",
+   "founders": [
+    "Jawad Ayaz",
+    "Vinod Chandran"
+   ],
+   "founded": "2012",
+   "shutdown": "~2015",
+   "funding_raised": "~$6M",
+   "status": "Dead (clean)",
+   "founder_notes": "Co-founder -> CapriCoast (later shut too)",
+   "source": "crunchbase.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Furniture & Home Decor E-comm (survivors: Pepperfry, Urban Ladder->Reliance)"
+   ],
+   "company": "Fabmart/Indiaplaza",
+   "display": "Fabmart/Indiaplaza",
+   "founders": [
+    "K. Vaitheeswaran"
+   ],
+   "founded": "1999",
+   "shutdown": "2013",
+   "funding_raised": "angel/VC",
+   "status": "Dead (clean, historic)",
+   "founder_notes": "K. Vaitheeswaran -> author/consultant",
+   "source": "business-standard.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Online Pharmacy (survivors: PharmEasy, 1mg/Tata, Netmeds/Reliance)"
+   ],
+   "company": "Zigy.com",
+   "display": "Zigy.com (PM Health & Life Care)",
+   "founders": [
+    "Phaneesh Murthy",
+    "Anil Bajpai"
+   ],
+   "founded": "2015",
+   "shutdown": "2016",
+   "funding_raised": "~$5M",
+   "status": "Dead (clean)",
+   "founder_notes": "Phaneesh Murthy -> advisory/PE",
+   "source": "the-ken.com; cbinsights.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Online Pharmacy (survivors: PharmEasy, 1mg/Tata, Netmeds/Reliance)"
+   ],
+   "company": "Pluss",
+   "display": "Pluss",
+   "founders": [
+    "Atit Jain",
+    "Madhulika Pandey",
+    "Tarun Lawadia"
+   ],
+   "founded": "2015",
+   "shutdown": "2016",
+   "funding_raised": "~$1M",
+   "status": "Acquired-dead (Netmeds)",
+   "founder_notes": "-",
+   "source": "cbinsights.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Online Pharmacy (survivors: PharmEasy, 1mg/Tata, Netmeds/Reliance)"
+   ],
+   "company": "Medlife",
+   "display": "Medlife",
+   "founders": [
+    "Prashant Singh",
+    "Tushar Kumar"
+   ],
+   "founded": "2014",
+   "shutdown": "2021",
+   "funding_raised": "~$39M",
+   "status": "Acquired-dead (PharmEasy 2021)",
+   "founder_notes": "Prashant Singh -> other ventures",
+   "source": "wikipedia.org; inc42.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Online Pharmacy (survivors: PharmEasy, 1mg/Tata, Netmeds/Reliance)"
+   ],
+   "company": "mChemist",
+   "display": "mChemist",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "-",
+   "funding_raised": "small",
+   "status": "Dead/dormant",
+   "founder_notes": "-",
+   "source": "yourstory.com",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Online Pharmacy (survivors: PharmEasy, 1mg/Tata, Netmeds/Reliance)"
+   ],
+   "company": "Bookmeds",
+   "display": "Bookmeds",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "-",
+   "funding_raised": "small",
+   "status": "Dead/dormant",
+   "founder_notes": "-",
+   "source": "yourstory.com",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Online Pharmacy (survivors: PharmEasy, 1mg/Tata, Netmeds/Reliance)"
+   ],
+   "company": "Medidart",
+   "display": "Medidart",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "-",
+   "funding_raised": "small",
+   "status": "Dead/dormant",
+   "founder_notes": "-",
+   "source": "yourstory.com",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Online Pharmacy (survivors: PharmEasy, 1mg/Tata, Netmeds/Reliance)"
+   ],
+   "company": "Savemymeds",
+   "display": "Savemymeds",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "-",
+   "funding_raised": "small",
+   "status": "Dead/dormant",
+   "founder_notes": "-",
+   "source": "yourstory.com",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Hyperlocal Home Services (survivor: Urban Company)"
+   ],
+   "company": "Zimmber",
+   "display": "Zimmber",
+   "founders": [
+    "Anubhab Goel",
+    "Gaurav Shrivastava",
+    "Amit Kumar"
+   ],
+   "founded": "2014",
+   "shutdown": "2017",
+   "funding_raised": "~$11M",
+   "status": "Acquired-dead (Quikr, ~$10M all-stock)",
+   "founder_notes": "-",
+   "source": "inc42.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal Home Services (survivor: Urban Company)",
+    "Hyperlocal Laundry (no dominant survivor)"
+   ],
+   "company": "Doormint",
+   "display": "Doormint",
+   "founders": [
+    "Abhinav Agarwal",
+    "Naga Chokkanathan"
+   ],
+   "founded": "2014/15",
+   "shutdown": "2016",
+   "funding_raised": "Helion/Kalaari-backed",
+   "status": "Dead (assets -> Wassup)",
+   "founder_notes": "-",
+   "source": "yourstory.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal Home Services (survivor: Urban Company)"
+   ],
+   "company": "Housejoy",
+   "display": "Housejoy",
+   "founders": [
+    "Sunil Goel",
+    "Arjun Mendu",
+    "Saran Chatterjee"
+   ],
+   "founded": "2015",
+   "shutdown": "~2019",
+   "funding_raised": "~$27M",
+   "status": "Dead/pivoted (construction)",
+   "founder_notes": "-",
+   "source": "entrackr.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal Home Services (survivor: Urban Company)"
+   ],
+   "company": "FindYahan",
+   "display": "FindYahan",
+   "founders": [
+    "Rachit Mathur",
+    "Snehil Khanor"
+   ],
+   "founded": "2013",
+   "shutdown": "2016",
+   "funding_raised": "small",
+   "status": "Acquired-dead (Zimmber)",
+   "founder_notes": "Snehil Khanor -> TrulyMadly",
+   "source": "cbinsights.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal Home Services (survivor: Urban Company)"
+   ],
+   "company": "Taskbob",
+   "display": "Taskbob",
+   "founders": [
+    "Aseem Khare"
+   ],
+   "founded": "2015",
+   "shutdown": "2017",
+   "funding_raised": "~$5M",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "Multiple sources",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Used Car Marketplaces (survivors: CarDekho, Cars24, CarTrade, Spinny, Droom)"
+   ],
+   "company": "Truebil",
+   "display": "Truebil",
+   "founders": [
+    "Rakesh Raman",
+    "Shanu Vivek",
+    "Suraj Kalwani",
+    "Shubh Bansal"
+   ],
+   "founded": "2015",
+   "shutdown": "2020",
+   "funding_raised": "~$27M",
+   "status": "Acquired-dead (Spinny, Aug 2020)",
+   "founder_notes": "Shanu Vivek -> founder Reel Saga, GolBol",
+   "source": "tracxn.com; cbinsights.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Social/Video Commerce (survivors: Meesho, DealShare)"
+   ],
+   "company": "Simsim",
+   "display": "Simsim",
+   "founders": [
+    "Amit Bagaria",
+    "Kunal Suri",
+    "Saurabh Vashishtha"
+   ],
+   "founded": "2019",
+   "shutdown": "2023",
+   "funding_raised": "~$17M",
+   "status": "Acquired-dead (YouTube 2021, ~$70M; IP = Google)",
+   "founder_notes": "-",
+   "source": "techcrunch.com; inc42.com",
+   "gate": "EXCLUDE",
+   "gate_reason": "IP_HELD \u2014 acquirer owns the codebase"
+  },
+  {
+   "waves": [
+    "Social/Video Commerce (survivors: Meesho, DealShare)"
+   ],
+   "company": "Bulbul",
+   "display": "Bulbul",
+   "founders": [
+    "Sachin Bhatia"
+   ],
+   "founded": "2019",
+   "shutdown": "2022",
+   "funding_raised": "~$18M",
+   "status": "Acquired-dead (Good Glamm Group)",
+   "founder_notes": "Sachin Bhatia -> serial founder (ex-MakeMyTrip/TrulyMadly)",
+   "source": "inc42.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Social/Video Commerce (survivors: Meesho, DealShare)"
+   ],
+   "company": "Trell",
+   "display": "Trell",
+   "founders": [
+    "Pulkit Agrawal",
+    "Prashant Sachan",
+    "Bimal Kartheek Rebba"
+   ],
+   "founded": "2016",
+   "shutdown": "2022",
+   "funding_raised": "~$57M",
+   "status": "Dead (financial-irregularity allegations, Sequoia exit)",
+   "founder_notes": "-",
+   "source": "inc42.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Quick Commerce (survivors: Zepto, Blinkit, Instamart)"
+   ],
+   "company": "Dunzo",
+   "display": "Dunzo",
+   "founders": [
+    "Kabeer Biswas",
+    "Ankur Agarwal",
+    "Dalvir Suri",
+    "Mukund Jha"
+   ],
+   "founded": "2014",
+   "shutdown": "2025",
+   "funding_raised": "$450M+ (incl. Reliance $200M)",
+   "status": "Dead (clean, Jan 2025)",
+   "founder_notes": "Kabeer Biswas -> Flipkart Minutes head",
+   "source": "restofworld.org; wikipedia.org",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Quick Commerce (survivors: Zepto, Blinkit, Instamart)"
+   ],
+   "company": "Fraazo",
+   "display": "Fraazo",
+   "founders": [
+    "Atul Kumar",
+    "Vikas Dosala",
+    "Sumit Rai",
+    "Aashish Krishnatre"
+   ],
+   "founded": "2016",
+   "shutdown": "2022",
+   "funding_raised": "~$68M",
+   "status": "Dead",
+   "founder_notes": "-",
+   "source": "entrackr.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Quick Commerce (survivors: Zepto, Blinkit, Instamart)"
+   ],
+   "company": "1K Kirana",
+   "display": "1K Kirana (1K Stores)",
+   "founders": [
+    "Kumar Sangeetesh",
+    "Sachin Sharma",
+    "Abhishek Halder"
+   ],
+   "founded": "2018",
+   "shutdown": "2024",
+   "funding_raised": "~$36M",
+   "status": "Dead (near-bankruptcy)",
+   "founder_notes": "-",
+   "source": "inc42.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Quick Commerce (survivors: Zepto, Blinkit, Instamart)"
+   ],
+   "company": "Blip",
+   "display": "Blip",
+   "founders": [
+    "Ansh Agarwal",
+    "Sarvesh Kedia"
+   ],
+   "founded": "2024",
+   "shutdown": "2025",
+   "funding_raised": "bootstrapped",
+   "status": "Dead (clean)",
+   "founder_notes": "Ansh Agarwal (ex-Whatfix)",
+   "source": "yourstory.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Quick Commerce (survivors: Zepto, Blinkit, Instamart)"
+   ],
+   "company": "Otipy",
+   "display": "Otipy",
+   "founders": [
+    "Varun Khurana"
+   ],
+   "founded": "2020",
+   "shutdown": "~2025",
+   "funding_raised": "~$40M",
+   "status": "Dead",
+   "founder_notes": "Varun Khurana (ex-Grofers co-founder)",
+   "source": "india.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal Delivery/Logistics (consolidated into Zomato/Swiggy/Dunzo)"
+   ],
+   "company": "Opinio",
+   "display": "Opinio",
+   "founders": [
+    "Mayank Kumar",
+    "Lokesh Jangid"
+   ],
+   "founded": "2014",
+   "shutdown": "2016",
+   "funding_raised": "~$8.3M",
+   "status": "Dead (clean; assets later to Cult.fit)",
+   "founder_notes": "-",
+   "source": "yourstory.com; tracxn.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal Delivery/Logistics (consolidated into Zomato/Swiggy/Dunzo)"
+   ],
+   "company": "Parcelled",
+   "display": "Parcelled",
+   "founders": [
+    "Xitij Kothi"
+   ],
+   "founded": "2014",
+   "shutdown": "2016",
+   "funding_raised": "~$5M",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "yourstory.com; dealroom.co",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal Delivery/Logistics (consolidated into Zomato/Swiggy/Dunzo)"
+   ],
+   "company": "Roadrunnr/Runnr",
+   "display": "Roadrunnr/Runnr",
+   "founders": [
+    "Mohit Kumar",
+    "Arpit Dave"
+   ],
+   "founded": "2015",
+   "shutdown": "2017",
+   "funding_raised": "~$21M",
+   "status": "Acquired-dead (Zomato, ~$40M)",
+   "founder_notes": "-",
+   "source": "inc42.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal Laundry (no dominant survivor)"
+   ],
+   "company": "PickMyLaundry",
+   "display": "PickMyLaundry",
+   "founders": [
+    "Gaurav Agrawal",
+    "Ankur Jain",
+    "Samar Sisodia"
+   ],
+   "founded": "2015",
+   "shutdown": "~2019",
+   "funding_raised": "~$500K",
+   "status": "Dead/dormant",
+   "founder_notes": "All listed as former co-founders",
+   "source": "tracxn.com; inc42.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal Laundry (no dominant survivor)"
+   ],
+   "company": "Tooler",
+   "display": "Tooler",
+   "founders": [
+    "Sukanth Srivastava"
+   ],
+   "founded": "2015",
+   "shutdown": "2016",
+   "funding_raised": "angel",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "yourstory.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal Laundry (no dominant survivor)"
+   ],
+   "company": "LaundroKart",
+   "display": "LaundroKart",
+   "founders": [
+    "Vineet Patil",
+    "Ravi Raghav"
+   ],
+   "founded": "2014",
+   "shutdown": "~2017",
+   "funding_raised": "unfunded",
+   "status": "Dead/dormant",
+   "founder_notes": "-",
+   "source": "tracxn.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal Laundry (no dominant survivor)"
+   ],
+   "company": "Urban Dhobi",
+   "display": "Urban Dhobi",
+   "founders": [
+    "Tushar Thettayil",
+    "Satyam Mishra"
+   ],
+   "founded": "2015",
+   "shutdown": "~2017",
+   "funding_raised": "~$18K",
+   "status": "Dead/dormant",
+   "founder_notes": "-",
+   "source": "tracxn.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Hyperlocal Laundry (no dominant survivor)"
+   ],
+   "company": "Flashdoor",
+   "display": "Flashdoor",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "~2016/17",
+   "funding_raised": "small",
+   "status": "Dead",
+   "founder_notes": "-",
+   "source": "Multiple sources",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Hyperlocal Laundry (no dominant survivor)"
+   ],
+   "company": "MyWash",
+   "display": "MyWash",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "~2016/17",
+   "funding_raised": "small",
+   "status": "Acquired-dead (Housejoy)",
+   "founder_notes": "-",
+   "source": "Multiple sources",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Hyperlocal Laundry (no dominant survivor)"
+   ],
+   "company": "OneClickWash",
+   "display": "OneClickWash",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "~2016/17",
+   "funding_raised": "small",
+   "status": "Acquired-dead (PickMyLaundry)",
+   "founder_notes": "-",
+   "source": "Multiple sources",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Daily Deals / Group Buying (2011-2013; no pure survivor)"
+   ],
+   "company": "Taggle",
+   "display": "Taggle",
+   "founders": [
+    "Rutvik Doshi"
+   ],
+   "founded": "-",
+   "shutdown": "-",
+   "funding_raised": "-",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "businesstoday.in",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Daily Deals / Group Buying (2011-2013; no pure survivor)"
+   ],
+   "company": "Dealsandyou",
+   "display": "Dealsandyou",
+   "founders": [
+    "Harish Bahl"
+   ],
+   "founded": "-",
+   "shutdown": "-",
+   "funding_raised": "-",
+   "status": "Dead/dormant",
+   "founder_notes": "-",
+   "source": "afaqs.com",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Daily Deals / Group Buying (2011-2013; no pure survivor)"
+   ],
+   "company": "Koovs",
+   "display": "Koovs (deals era)",
+   "founders": [
+    "Rakesh Biyani"
+   ],
+   "founded": "-",
+   "shutdown": "-",
+   "funding_raised": "-",
+   "status": "Pivoted to fashion, then dead",
+   "founder_notes": "-",
+   "source": "businesstoday.in",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Daily Deals / Group Buying (2011-2013; no pure survivor)"
+   ],
+   "company": "Shopo",
+   "display": "Shopo (Snapdeal C2C)",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "2017",
+   "funding_raised": "-",
+   "status": "Dead (IP w/ Snapdeal)",
+   "founder_notes": "-",
+   "source": "cbinsights.com",
+   "gate": "EXCLUDE",
+   "gate_reason": "IP_HELD \u2014 acquirer owns the codebase"
+  },
+  {
+   "waves": [
+    "Crypto/Web3 Exchanges (survivors: CoinDCX, CoinSwitch)"
+   ],
+   "company": "Koinex",
+   "display": "Koinex",
+   "founders": [
+    "Rahul Raj",
+    "Rakesh Yadav",
+    "Aditya Naik"
+   ],
+   "founded": "2017",
+   "shutdown": "2019",
+   "funding_raised": "-",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "cbinsights.com; dealroom.co",
+   "gate": "TARGET",
+   "gate_reason": "dead/dormant + named founder"
+  },
+  {
+   "waves": [
+    "Crypto/Web3 Exchanges (survivors: CoinDCX, CoinSwitch)"
+   ],
+   "company": "Coindelta",
+   "display": "Coindelta",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "~2019",
+   "funding_raised": "-",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "coingape.com; cbinsights.com",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Crypto/Web3 Exchanges (survivors: CoinDCX, CoinSwitch)"
+   ],
+   "company": "Coinome",
+   "display": "Coinome",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "~2018/19",
+   "funding_raised": "-",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "coingape.com; cbinsights.com",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  },
+  {
+   "waves": [
+    "Crypto/Web3 Exchanges (survivors: CoinDCX, CoinSwitch)"
+   ],
+   "company": "BTCXIndia",
+   "display": "BTCXIndia",
+   "founders": [],
+   "founded": "-",
+   "shutdown": "~2018/19",
+   "funding_raised": "-",
+   "status": "Dead (clean)",
+   "founder_notes": "-",
+   "source": "coingape.com; cbinsights.com",
+   "gate": "HOLD",
+   "gate_reason": "NO_FOUNDER \u2014 research row has no named person"
+  }
+ ],
+ "people": [
+  {
+   "name": "Aprameya Radhakrishna",
+   "company": "TaxiForSure",
+   "display_company": "TaxiForSure",
+   "wave": "Mobility",
+   "founded": "2011",
+   "shutdown": "2016",
+   "funding_raised": "~$40M",
+   "status": "Acquired-dead (Ola 2015)",
+   "notes": "Aprameya -> Vokal/Koo; Raghunandan -> Zolve",
+   "is_primary": true,
+   "source": "Prior session research"
+  },
+  {
+   "name": "Raghunandan G",
+   "company": "TaxiForSure",
+   "display_company": "TaxiForSure",
+   "wave": "Mobility",
+   "founded": "2011",
+   "shutdown": "2016",
+   "funding_raised": "~$40M",
+   "status": "Acquired-dead (Ola 2015)",
+   "notes": "Aprameya -> Vokal/Koo; Raghunandan -> Zolve",
+   "is_primary": false,
+   "source": "Prior session research"
+  },
+  {
+   "name": "Ashutosh Johri",
+   "company": "Baxi",
+   "display_company": "Baxi (74 BC Technologies)",
+   "wave": "Mobility",
+   "founded": "2015",
+   "shutdown": "~2018",
+   "funding_raised": "~$5-6M",
+   "status": "Dead (clean)",
+   "notes": "Manu Rana -> founder of 6to8, Baxitaxi",
+   "is_primary": true,
+   "source": "inc42.com; tracxn.com"
+  },
+  {
+   "name": "Manu Rana",
+   "company": "Baxi",
+   "display_company": "Baxi (74 BC Technologies)",
+   "wave": "Mobility",
+   "founded": "2015",
+   "shutdown": "~2018",
+   "funding_raised": "~$5-6M",
+   "status": "Dead (clean)",
+   "notes": "Manu Rana -> founder of 6to8, Baxitaxi",
+   "is_primary": false,
+   "source": "inc42.com; tracxn.com"
+  },
+  {
+   "name": "Navneet Singh",
+   "company": "PepperTap",
+   "display_company": "PepperTap",
+   "wave": "Hyperlocal grocery",
+   "founded": "2014",
+   "shutdown": "2016",
+   "funding_raised": "~$51M",
+   "status": "Dead (clean)",
+   "notes": "Navneet -> logistics ventures",
+   "is_primary": true,
+   "source": "Prior session research"
+  },
+  {
+   "name": "Milin Jain",
+   "company": "PepperTap",
+   "display_company": "PepperTap",
+   "wave": "Hyperlocal grocery",
+   "founded": "2014",
+   "shutdown": "2016",
+   "funding_raised": "~$51M",
+   "status": "Dead (clean)",
+   "notes": "Navneet -> logistics ventures",
+   "is_primary": false,
+   "source": "Prior session research"
+  },
+  {
+   "name": "Rashi Choudhary",
+   "company": "LocalBanya",
+   "display_company": "LocalBanya",
+   "wave": "Hyperlocal grocery",
+   "founded": "2012",
+   "shutdown": "2016",
+   "funding_raised": "undisclosed",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "Prior session research"
+  },
+  {
+   "name": "Amit Naik",
+   "company": "LocalBanya",
+   "display_company": "LocalBanya",
+   "wave": "Hyperlocal grocery",
+   "founded": "2012",
+   "shutdown": "2016",
+   "funding_raised": "undisclosed",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "Prior session research"
+  },
+  {
+   "name": "Karan Mehrotra",
+   "company": "LocalBanya",
+   "display_company": "LocalBanya",
+   "wave": "Hyperlocal grocery",
+   "founded": "2012",
+   "shutdown": "2016",
+   "funding_raised": "undisclosed",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "Prior session research"
+  },
+  {
+   "name": "Mukesh Singh",
+   "company": "ZopNow",
+   "display_company": "ZopNow",
+   "wave": "Hyperlocal grocery",
+   "founded": "2011",
+   "shutdown": "2019",
+   "funding_raised": "~$10M",
+   "status": "Dead but messy (assets to ZopSmart/More)",
+   "notes": "Mukesh Singh -> founded ZopSmart",
+   "is_primary": true,
+   "source": "entrackr.com; startuparticle.com"
+  },
+  {
+   "name": "Bal Krishn Birla",
+   "company": "ZopNow",
+   "display_company": "ZopNow",
+   "wave": "Hyperlocal grocery",
+   "founded": "2011",
+   "shutdown": "2019",
+   "funding_raised": "~$10M",
+   "status": "Dead but messy (assets to ZopSmart/More)",
+   "notes": "Mukesh Singh -> founded ZopSmart",
+   "is_primary": false,
+   "source": "entrackr.com; startuparticle.com"
+  },
+  {
+   "name": "Harshvardhan Mandad",
+   "company": "TinyOwl",
+   "display_company": "TinyOwl",
+   "wave": "Foodtech",
+   "founded": "2014",
+   "shutdown": "2016",
+   "funding_raised": "~$27.7M",
+   "status": "Acquired-dead (merged into Runnr->Zomato)",
+   "notes": "Harshvardhan -> other ventures",
+   "is_primary": true,
+   "source": "thehotstartups.com"
+  },
+  {
+   "name": "Alok Jain",
+   "company": "Yumist",
+   "display_company": "Yumist",
+   "wave": "Foodtech",
+   "founded": "2014",
+   "shutdown": "2017",
+   "funding_raised": "~$1M",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "Prior session research"
+  },
+  {
+   "name": "Abhimanyu Maheshwari",
+   "company": "Yumist",
+   "display_company": "Yumist",
+   "wave": "Foodtech",
+   "founded": "2014",
+   "shutdown": "2017",
+   "funding_raised": "~$1M",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "Prior session research"
+  },
+  {
+   "name": "Shashank Shekhar Singhal",
+   "company": "Dazo",
+   "display_company": "Dazo (fka TapCibo)",
+   "wave": "Foodtech",
+   "founded": "2014",
+   "shutdown": "2015",
+   "funding_raised": "~$235K+",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "Prior session research"
+  },
+  {
+   "name": "Monica Rastogi",
+   "company": "Dazo",
+   "display_company": "Dazo (fka TapCibo)",
+   "wave": "Foodtech",
+   "founded": "2014",
+   "shutdown": "2015",
+   "funding_raised": "~$235K+",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "Prior session research"
+  },
+  {
+   "name": "Sahil Sheth",
+   "company": "Lido Learning",
+   "display_company": "Lido Learning",
+   "wave": "Edtech",
+   "founded": "2019",
+   "shutdown": "2022",
+   "funding_raised": "~$20M+",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "Prior session research"
+  },
+  {
+   "name": "Ishaan Preet Singh",
+   "company": "FrontRow",
+   "display_company": "FrontRow",
+   "wave": "Edtech",
+   "founded": "2020",
+   "shutdown": "2023",
+   "funding_raised": "~$14M",
+   "status": "Dead (clean, considered returning $2.5M)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "cbinsights.com"
+  },
+  {
+   "name": "Shubham Malhotra",
+   "company": "FrontRow",
+   "display_company": "FrontRow",
+   "wave": "Edtech",
+   "founded": "2020",
+   "shutdown": "2023",
+   "funding_raised": "~$14M",
+   "status": "Dead (clean, considered returning $2.5M)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "cbinsights.com"
+  },
+  {
+   "name": "Rohit Jain",
+   "company": "DUX Education",
+   "display_company": "DUX Education",
+   "wave": "Edtech",
+   "founded": "2020",
+   "shutdown": "2023",
+   "funding_raised": "~Rs2Cr",
+   "status": "Dead (clean)",
+   "notes": "Chaturvedi -> CFO Techno Sportswear; Tiwari -> CSO LXL Ideas",
+   "is_primary": true,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Udit Chaturvedi",
+   "company": "DUX Education",
+   "display_company": "DUX Education",
+   "wave": "Edtech",
+   "founded": "2020",
+   "shutdown": "2023",
+   "funding_raised": "~Rs2Cr",
+   "status": "Dead (clean)",
+   "notes": "Chaturvedi -> CFO Techno Sportswear; Tiwari -> CSO LXL Ideas",
+   "is_primary": false,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Manika Tiwari",
+   "company": "DUX Education",
+   "display_company": "DUX Education",
+   "wave": "Edtech",
+   "founded": "2020",
+   "shutdown": "2023",
+   "funding_raised": "~Rs2Cr",
+   "status": "Dead (clean)",
+   "notes": "Chaturvedi -> CFO Techno Sportswear; Tiwari -> CSO LXL Ideas",
+   "is_primary": false,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Mukesh Bubna",
+   "company": "Monexo",
+   "display_company": "Monexo",
+   "wave": "P2P Lending / Fintech NBFC",
+   "founded": "-",
+   "shutdown": "~2024",
+   "funding_raised": "-",
+   "status": "Dead/wound down (RBI show-cause notice)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "medianama.com"
+  },
+  {
+   "name": "Abhinav Sherwal",
+   "company": "Finzy",
+   "display_company": "Finzy",
+   "wave": "P2P Lending / Fintech NBFC",
+   "founded": "-",
+   "shutdown": "~2024",
+   "funding_raised": "-",
+   "status": "Dead/frozen (RBI show-cause notice)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "medianama.com"
+  },
+  {
+   "name": "Amit More",
+   "company": "Finzy",
+   "display_company": "Finzy",
+   "wave": "P2P Lending / Fintech NBFC",
+   "founded": "-",
+   "shutdown": "~2024",
+   "funding_raised": "-",
+   "status": "Dead/frozen (RBI show-cause notice)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "medianama.com"
+  },
+  {
+   "name": "Apoorv Gawde",
+   "company": "Finzy",
+   "display_company": "Finzy",
+   "wave": "P2P Lending / Fintech NBFC",
+   "founded": "-",
+   "shutdown": "~2024",
+   "funding_raised": "-",
+   "status": "Dead/frozen (RBI show-cause notice)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "medianama.com"
+  },
+  {
+   "name": "Vishwas Dixit",
+   "company": "Finzy",
+   "display_company": "Finzy",
+   "wave": "P2P Lending / Fintech NBFC",
+   "founded": "-",
+   "shutdown": "~2024",
+   "funding_raised": "-",
+   "status": "Dead/frozen (RBI show-cause notice)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "medianama.com"
+  },
+  {
+   "name": "Rahul Agrawal",
+   "company": "Mebelkart",
+   "display_company": "Mebelkart",
+   "wave": "Furniture & Home Decor E-comm",
+   "founded": "~2013",
+   "shutdown": "2017",
+   "funding_raised": "~$20M (via AskMe)",
+   "status": "Acquired then collapsed (AskMe shut 2016)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "wikipedia.org; yourstory.com"
+  },
+  {
+   "name": "Nikhil Saraf",
+   "company": "Mebelkart",
+   "display_company": "Mebelkart",
+   "wave": "Furniture & Home Decor E-comm",
+   "founded": "~2013",
+   "shutdown": "2017",
+   "funding_raised": "~$20M (via AskMe)",
+   "status": "Acquired then collapsed (AskMe shut 2016)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "wikipedia.org; yourstory.com"
+  },
+  {
+   "name": "Jawad Ayaz",
+   "company": "Zansaar",
+   "display_company": "Zansaar",
+   "wave": "Furniture & Home Decor E-comm",
+   "founded": "2012",
+   "shutdown": "~2015",
+   "funding_raised": "~$6M",
+   "status": "Dead (clean)",
+   "notes": "Co-founder -> CapriCoast (later shut too)",
+   "is_primary": true,
+   "source": "crunchbase.com"
+  },
+  {
+   "name": "Vinod Chandran",
+   "company": "Zansaar",
+   "display_company": "Zansaar",
+   "wave": "Furniture & Home Decor E-comm",
+   "founded": "2012",
+   "shutdown": "~2015",
+   "funding_raised": "~$6M",
+   "status": "Dead (clean)",
+   "notes": "Co-founder -> CapriCoast (later shut too)",
+   "is_primary": false,
+   "source": "crunchbase.com"
+  },
+  {
+   "name": "K. Vaitheeswaran",
+   "company": "Fabmart/Indiaplaza",
+   "display_company": "Fabmart/Indiaplaza",
+   "wave": "Furniture & Home Decor E-comm",
+   "founded": "1999",
+   "shutdown": "2013",
+   "funding_raised": "angel/VC",
+   "status": "Dead (clean, historic)",
+   "notes": "K. Vaitheeswaran -> author/consultant",
+   "is_primary": true,
+   "source": "business-standard.com"
+  },
+  {
+   "name": "Phaneesh Murthy",
+   "company": "Zigy.com",
+   "display_company": "Zigy.com (PM Health & Life Care)",
+   "wave": "Online Pharmacy",
+   "founded": "2015",
+   "shutdown": "2016",
+   "funding_raised": "~$5M",
+   "status": "Dead (clean)",
+   "notes": "Phaneesh Murthy -> advisory/PE",
+   "is_primary": true,
+   "source": "the-ken.com; cbinsights.com"
+  },
+  {
+   "name": "Anil Bajpai",
+   "company": "Zigy.com",
+   "display_company": "Zigy.com (PM Health & Life Care)",
+   "wave": "Online Pharmacy",
+   "founded": "2015",
+   "shutdown": "2016",
+   "funding_raised": "~$5M",
+   "status": "Dead (clean)",
+   "notes": "Phaneesh Murthy -> advisory/PE",
+   "is_primary": false,
+   "source": "the-ken.com; cbinsights.com"
+  },
+  {
+   "name": "Atit Jain",
+   "company": "Pluss",
+   "display_company": "Pluss",
+   "wave": "Online Pharmacy",
+   "founded": "2015",
+   "shutdown": "2016",
+   "funding_raised": "~$1M",
+   "status": "Acquired-dead (Netmeds)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "cbinsights.com"
+  },
+  {
+   "name": "Madhulika Pandey",
+   "company": "Pluss",
+   "display_company": "Pluss",
+   "wave": "Online Pharmacy",
+   "founded": "2015",
+   "shutdown": "2016",
+   "funding_raised": "~$1M",
+   "status": "Acquired-dead (Netmeds)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "cbinsights.com"
+  },
+  {
+   "name": "Tarun Lawadia",
+   "company": "Pluss",
+   "display_company": "Pluss",
+   "wave": "Online Pharmacy",
+   "founded": "2015",
+   "shutdown": "2016",
+   "funding_raised": "~$1M",
+   "status": "Acquired-dead (Netmeds)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "cbinsights.com"
+  },
+  {
+   "name": "Prashant Singh",
+   "company": "Medlife",
+   "display_company": "Medlife",
+   "wave": "Online Pharmacy",
+   "founded": "2014",
+   "shutdown": "2021",
+   "funding_raised": "~$39M",
+   "status": "Acquired-dead (PharmEasy 2021)",
+   "notes": "Prashant Singh -> other ventures",
+   "is_primary": true,
+   "source": "wikipedia.org; inc42.com"
+  },
+  {
+   "name": "Tushar Kumar",
+   "company": "Medlife",
+   "display_company": "Medlife",
+   "wave": "Online Pharmacy",
+   "founded": "2014",
+   "shutdown": "2021",
+   "funding_raised": "~$39M",
+   "status": "Acquired-dead (PharmEasy 2021)",
+   "notes": "Prashant Singh -> other ventures",
+   "is_primary": false,
+   "source": "wikipedia.org; inc42.com"
+  },
+  {
+   "name": "Anubhab Goel",
+   "company": "Zimmber",
+   "display_company": "Zimmber",
+   "wave": "Hyperlocal Home Services",
+   "founded": "2014",
+   "shutdown": "2017",
+   "funding_raised": "~$11M",
+   "status": "Acquired-dead (Quikr, ~$10M all-stock)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Gaurav Shrivastava",
+   "company": "Zimmber",
+   "display_company": "Zimmber",
+   "wave": "Hyperlocal Home Services",
+   "founded": "2014",
+   "shutdown": "2017",
+   "funding_raised": "~$11M",
+   "status": "Acquired-dead (Quikr, ~$10M all-stock)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Amit Kumar",
+   "company": "Zimmber",
+   "display_company": "Zimmber",
+   "wave": "Hyperlocal Home Services",
+   "founded": "2014",
+   "shutdown": "2017",
+   "funding_raised": "~$11M",
+   "status": "Acquired-dead (Quikr, ~$10M all-stock)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Abhinav Agarwal",
+   "company": "Doormint",
+   "display_company": "Doormint",
+   "wave": "Hyperlocal Home Services",
+   "founded": "2014/15",
+   "shutdown": "2016",
+   "funding_raised": "Helion/Kalaari-backed",
+   "status": "Dead (assets -> Wassup)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "yourstory.com"
+  },
+  {
+   "name": "Naga Chokkanathan",
+   "company": "Doormint",
+   "display_company": "Doormint",
+   "wave": "Hyperlocal Home Services",
+   "founded": "2014/15",
+   "shutdown": "2016",
+   "funding_raised": "Helion/Kalaari-backed",
+   "status": "Dead (assets -> Wassup)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "yourstory.com"
+  },
+  {
+   "name": "Sunil Goel",
+   "company": "Housejoy",
+   "display_company": "Housejoy",
+   "wave": "Hyperlocal Home Services",
+   "founded": "2015",
+   "shutdown": "~2019",
+   "funding_raised": "~$27M",
+   "status": "Dead/pivoted (construction)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "entrackr.com"
+  },
+  {
+   "name": "Arjun Mendu",
+   "company": "Housejoy",
+   "display_company": "Housejoy",
+   "wave": "Hyperlocal Home Services",
+   "founded": "2015",
+   "shutdown": "~2019",
+   "funding_raised": "~$27M",
+   "status": "Dead/pivoted (construction)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "entrackr.com"
+  },
+  {
+   "name": "Saran Chatterjee",
+   "company": "Housejoy",
+   "display_company": "Housejoy",
+   "wave": "Hyperlocal Home Services",
+   "founded": "2015",
+   "shutdown": "~2019",
+   "funding_raised": "~$27M",
+   "status": "Dead/pivoted (construction)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "entrackr.com"
+  },
+  {
+   "name": "Rachit Mathur",
+   "company": "FindYahan",
+   "display_company": "FindYahan",
+   "wave": "Hyperlocal Home Services",
+   "founded": "2013",
+   "shutdown": "2016",
+   "funding_raised": "small",
+   "status": "Acquired-dead (Zimmber)",
+   "notes": "Snehil Khanor -> TrulyMadly",
+   "is_primary": true,
+   "source": "cbinsights.com"
+  },
+  {
+   "name": "Snehil Khanor",
+   "company": "FindYahan",
+   "display_company": "FindYahan",
+   "wave": "Hyperlocal Home Services",
+   "founded": "2013",
+   "shutdown": "2016",
+   "funding_raised": "small",
+   "status": "Acquired-dead (Zimmber)",
+   "notes": "Snehil Khanor -> TrulyMadly",
+   "is_primary": false,
+   "source": "cbinsights.com"
+  },
+  {
+   "name": "Aseem Khare",
+   "company": "Taskbob",
+   "display_company": "Taskbob",
+   "wave": "Hyperlocal Home Services",
+   "founded": "2015",
+   "shutdown": "2017",
+   "funding_raised": "~$5M",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "Multiple sources"
+  },
+  {
+   "name": "Rakesh Raman",
+   "company": "Truebil",
+   "display_company": "Truebil",
+   "wave": "Used Car Marketplaces",
+   "founded": "2015",
+   "shutdown": "2020",
+   "funding_raised": "~$27M",
+   "status": "Acquired-dead (Spinny, Aug 2020)",
+   "notes": "Shanu Vivek -> founder Reel Saga, GolBol",
+   "is_primary": true,
+   "source": "tracxn.com; cbinsights.com"
+  },
+  {
+   "name": "Shanu Vivek",
+   "company": "Truebil",
+   "display_company": "Truebil",
+   "wave": "Used Car Marketplaces",
+   "founded": "2015",
+   "shutdown": "2020",
+   "funding_raised": "~$27M",
+   "status": "Acquired-dead (Spinny, Aug 2020)",
+   "notes": "Shanu Vivek -> founder Reel Saga, GolBol",
+   "is_primary": false,
+   "source": "tracxn.com; cbinsights.com"
+  },
+  {
+   "name": "Suraj Kalwani",
+   "company": "Truebil",
+   "display_company": "Truebil",
+   "wave": "Used Car Marketplaces",
+   "founded": "2015",
+   "shutdown": "2020",
+   "funding_raised": "~$27M",
+   "status": "Acquired-dead (Spinny, Aug 2020)",
+   "notes": "Shanu Vivek -> founder Reel Saga, GolBol",
+   "is_primary": false,
+   "source": "tracxn.com; cbinsights.com"
+  },
+  {
+   "name": "Shubh Bansal",
+   "company": "Truebil",
+   "display_company": "Truebil",
+   "wave": "Used Car Marketplaces",
+   "founded": "2015",
+   "shutdown": "2020",
+   "funding_raised": "~$27M",
+   "status": "Acquired-dead (Spinny, Aug 2020)",
+   "notes": "Shanu Vivek -> founder Reel Saga, GolBol",
+   "is_primary": false,
+   "source": "tracxn.com; cbinsights.com"
+  },
+  {
+   "name": "Sachin Bhatia",
+   "company": "Bulbul",
+   "display_company": "Bulbul",
+   "wave": "Social/Video Commerce",
+   "founded": "2019",
+   "shutdown": "2022",
+   "funding_raised": "~$18M",
+   "status": "Acquired-dead (Good Glamm Group)",
+   "notes": "Sachin Bhatia -> serial founder (ex-MakeMyTrip/TrulyMadly)",
+   "is_primary": true,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Pulkit Agrawal",
+   "company": "Trell",
+   "display_company": "Trell",
+   "wave": "Social/Video Commerce",
+   "founded": "2016",
+   "shutdown": "2022",
+   "funding_raised": "~$57M",
+   "status": "Dead (financial-irregularity allegations, Sequoia exit)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Prashant Sachan",
+   "company": "Trell",
+   "display_company": "Trell",
+   "wave": "Social/Video Commerce",
+   "founded": "2016",
+   "shutdown": "2022",
+   "funding_raised": "~$57M",
+   "status": "Dead (financial-irregularity allegations, Sequoia exit)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Bimal Kartheek Rebba",
+   "company": "Trell",
+   "display_company": "Trell",
+   "wave": "Social/Video Commerce",
+   "founded": "2016",
+   "shutdown": "2022",
+   "funding_raised": "~$57M",
+   "status": "Dead (financial-irregularity allegations, Sequoia exit)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Kabeer Biswas",
+   "company": "Dunzo",
+   "display_company": "Dunzo",
+   "wave": "Quick Commerce",
+   "founded": "2014",
+   "shutdown": "2025",
+   "funding_raised": "$450M+ (incl. Reliance $200M)",
+   "status": "Dead (clean, Jan 2025)",
+   "notes": "Kabeer Biswas -> Flipkart Minutes head",
+   "is_primary": true,
+   "source": "restofworld.org; wikipedia.org"
+  },
+  {
+   "name": "Ankur Agarwal",
+   "company": "Dunzo",
+   "display_company": "Dunzo",
+   "wave": "Quick Commerce",
+   "founded": "2014",
+   "shutdown": "2025",
+   "funding_raised": "$450M+ (incl. Reliance $200M)",
+   "status": "Dead (clean, Jan 2025)",
+   "notes": "Kabeer Biswas -> Flipkart Minutes head",
+   "is_primary": false,
+   "source": "restofworld.org; wikipedia.org"
+  },
+  {
+   "name": "Dalvir Suri",
+   "company": "Dunzo",
+   "display_company": "Dunzo",
+   "wave": "Quick Commerce",
+   "founded": "2014",
+   "shutdown": "2025",
+   "funding_raised": "$450M+ (incl. Reliance $200M)",
+   "status": "Dead (clean, Jan 2025)",
+   "notes": "Kabeer Biswas -> Flipkart Minutes head",
+   "is_primary": false,
+   "source": "restofworld.org; wikipedia.org"
+  },
+  {
+   "name": "Mukund Jha",
+   "company": "Dunzo",
+   "display_company": "Dunzo",
+   "wave": "Quick Commerce",
+   "founded": "2014",
+   "shutdown": "2025",
+   "funding_raised": "$450M+ (incl. Reliance $200M)",
+   "status": "Dead (clean, Jan 2025)",
+   "notes": "Kabeer Biswas -> Flipkart Minutes head",
+   "is_primary": false,
+   "source": "restofworld.org; wikipedia.org"
+  },
+  {
+   "name": "Atul Kumar",
+   "company": "Fraazo",
+   "display_company": "Fraazo",
+   "wave": "Quick Commerce",
+   "founded": "2016",
+   "shutdown": "2022",
+   "funding_raised": "~$68M",
+   "status": "Dead",
+   "notes": "-",
+   "is_primary": true,
+   "source": "entrackr.com"
+  },
+  {
+   "name": "Vikas Dosala",
+   "company": "Fraazo",
+   "display_company": "Fraazo",
+   "wave": "Quick Commerce",
+   "founded": "2016",
+   "shutdown": "2022",
+   "funding_raised": "~$68M",
+   "status": "Dead",
+   "notes": "-",
+   "is_primary": false,
+   "source": "entrackr.com"
+  },
+  {
+   "name": "Sumit Rai",
+   "company": "Fraazo",
+   "display_company": "Fraazo",
+   "wave": "Quick Commerce",
+   "founded": "2016",
+   "shutdown": "2022",
+   "funding_raised": "~$68M",
+   "status": "Dead",
+   "notes": "-",
+   "is_primary": false,
+   "source": "entrackr.com"
+  },
+  {
+   "name": "Aashish Krishnatre",
+   "company": "Fraazo",
+   "display_company": "Fraazo",
+   "wave": "Quick Commerce",
+   "founded": "2016",
+   "shutdown": "2022",
+   "funding_raised": "~$68M",
+   "status": "Dead",
+   "notes": "-",
+   "is_primary": false,
+   "source": "entrackr.com"
+  },
+  {
+   "name": "Kumar Sangeetesh",
+   "company": "1K Kirana",
+   "display_company": "1K Kirana (1K Stores)",
+   "wave": "Quick Commerce",
+   "founded": "2018",
+   "shutdown": "2024",
+   "funding_raised": "~$36M",
+   "status": "Dead (near-bankruptcy)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Sachin Sharma",
+   "company": "1K Kirana",
+   "display_company": "1K Kirana (1K Stores)",
+   "wave": "Quick Commerce",
+   "founded": "2018",
+   "shutdown": "2024",
+   "funding_raised": "~$36M",
+   "status": "Dead (near-bankruptcy)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Abhishek Halder",
+   "company": "1K Kirana",
+   "display_company": "1K Kirana (1K Stores)",
+   "wave": "Quick Commerce",
+   "founded": "2018",
+   "shutdown": "2024",
+   "funding_raised": "~$36M",
+   "status": "Dead (near-bankruptcy)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Ansh Agarwal",
+   "company": "Blip",
+   "display_company": "Blip",
+   "wave": "Quick Commerce",
+   "founded": "2024",
+   "shutdown": "2025",
+   "funding_raised": "bootstrapped",
+   "status": "Dead (clean)",
+   "notes": "Ansh Agarwal (ex-Whatfix)",
+   "is_primary": true,
+   "source": "yourstory.com"
+  },
+  {
+   "name": "Sarvesh Kedia",
+   "company": "Blip",
+   "display_company": "Blip",
+   "wave": "Quick Commerce",
+   "founded": "2024",
+   "shutdown": "2025",
+   "funding_raised": "bootstrapped",
+   "status": "Dead (clean)",
+   "notes": "Ansh Agarwal (ex-Whatfix)",
+   "is_primary": false,
+   "source": "yourstory.com"
+  },
+  {
+   "name": "Varun Khurana",
+   "company": "Otipy",
+   "display_company": "Otipy",
+   "wave": "Quick Commerce",
+   "founded": "2020",
+   "shutdown": "~2025",
+   "funding_raised": "~$40M",
+   "status": "Dead",
+   "notes": "Varun Khurana (ex-Grofers co-founder)",
+   "is_primary": true,
+   "source": "india.com"
+  },
+  {
+   "name": "Mayank Kumar",
+   "company": "Opinio",
+   "display_company": "Opinio",
+   "wave": "Hyperlocal Delivery/Logistics",
+   "founded": "2014",
+   "shutdown": "2016",
+   "funding_raised": "~$8.3M",
+   "status": "Dead (clean; assets later to Cult.fit)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "yourstory.com; tracxn.com"
+  },
+  {
+   "name": "Lokesh Jangid",
+   "company": "Opinio",
+   "display_company": "Opinio",
+   "wave": "Hyperlocal Delivery/Logistics",
+   "founded": "2014",
+   "shutdown": "2016",
+   "funding_raised": "~$8.3M",
+   "status": "Dead (clean; assets later to Cult.fit)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "yourstory.com; tracxn.com"
+  },
+  {
+   "name": "Xitij Kothi",
+   "company": "Parcelled",
+   "display_company": "Parcelled",
+   "wave": "Hyperlocal Delivery/Logistics",
+   "founded": "2014",
+   "shutdown": "2016",
+   "funding_raised": "~$5M",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "yourstory.com; dealroom.co"
+  },
+  {
+   "name": "Mohit Kumar",
+   "company": "Roadrunnr/Runnr",
+   "display_company": "Roadrunnr/Runnr",
+   "wave": "Hyperlocal Delivery/Logistics",
+   "founded": "2015",
+   "shutdown": "2017",
+   "funding_raised": "~$21M",
+   "status": "Acquired-dead (Zomato, ~$40M)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Arpit Dave",
+   "company": "Roadrunnr/Runnr",
+   "display_company": "Roadrunnr/Runnr",
+   "wave": "Hyperlocal Delivery/Logistics",
+   "founded": "2015",
+   "shutdown": "2017",
+   "funding_raised": "~$21M",
+   "status": "Acquired-dead (Zomato, ~$40M)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "inc42.com"
+  },
+  {
+   "name": "Gaurav Agrawal",
+   "company": "PickMyLaundry",
+   "display_company": "PickMyLaundry",
+   "wave": "Hyperlocal Laundry",
+   "founded": "2015",
+   "shutdown": "~2019",
+   "funding_raised": "~$500K",
+   "status": "Dead/dormant",
+   "notes": "All listed as former co-founders",
+   "is_primary": true,
+   "source": "tracxn.com; inc42.com"
+  },
+  {
+   "name": "Ankur Jain",
+   "company": "PickMyLaundry",
+   "display_company": "PickMyLaundry",
+   "wave": "Hyperlocal Laundry",
+   "founded": "2015",
+   "shutdown": "~2019",
+   "funding_raised": "~$500K",
+   "status": "Dead/dormant",
+   "notes": "All listed as former co-founders",
+   "is_primary": false,
+   "source": "tracxn.com; inc42.com"
+  },
+  {
+   "name": "Samar Sisodia",
+   "company": "PickMyLaundry",
+   "display_company": "PickMyLaundry",
+   "wave": "Hyperlocal Laundry",
+   "founded": "2015",
+   "shutdown": "~2019",
+   "funding_raised": "~$500K",
+   "status": "Dead/dormant",
+   "notes": "All listed as former co-founders",
+   "is_primary": false,
+   "source": "tracxn.com; inc42.com"
+  },
+  {
+   "name": "Sukanth Srivastava",
+   "company": "Tooler",
+   "display_company": "Tooler",
+   "wave": "Hyperlocal Laundry",
+   "founded": "2015",
+   "shutdown": "2016",
+   "funding_raised": "angel",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "yourstory.com"
+  },
+  {
+   "name": "Vineet Patil",
+   "company": "LaundroKart",
+   "display_company": "LaundroKart",
+   "wave": "Hyperlocal Laundry",
+   "founded": "2014",
+   "shutdown": "~2017",
+   "funding_raised": "unfunded",
+   "status": "Dead/dormant",
+   "notes": "-",
+   "is_primary": true,
+   "source": "tracxn.com"
+  },
+  {
+   "name": "Ravi Raghav",
+   "company": "LaundroKart",
+   "display_company": "LaundroKart",
+   "wave": "Hyperlocal Laundry",
+   "founded": "2014",
+   "shutdown": "~2017",
+   "funding_raised": "unfunded",
+   "status": "Dead/dormant",
+   "notes": "-",
+   "is_primary": false,
+   "source": "tracxn.com"
+  },
+  {
+   "name": "Tushar Thettayil",
+   "company": "Urban Dhobi",
+   "display_company": "Urban Dhobi",
+   "wave": "Hyperlocal Laundry",
+   "founded": "2015",
+   "shutdown": "~2017",
+   "funding_raised": "~$18K",
+   "status": "Dead/dormant",
+   "notes": "-",
+   "is_primary": true,
+   "source": "tracxn.com"
+  },
+  {
+   "name": "Satyam Mishra",
+   "company": "Urban Dhobi",
+   "display_company": "Urban Dhobi",
+   "wave": "Hyperlocal Laundry",
+   "founded": "2015",
+   "shutdown": "~2017",
+   "funding_raised": "~$18K",
+   "status": "Dead/dormant",
+   "notes": "-",
+   "is_primary": false,
+   "source": "tracxn.com"
+  },
+  {
+   "name": "Rutvik Doshi",
+   "company": "Taggle",
+   "display_company": "Taggle",
+   "wave": "Daily Deals / Group Buying",
+   "founded": "-",
+   "shutdown": "-",
+   "funding_raised": "-",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "businesstoday.in"
+  },
+  {
+   "name": "Harish Bahl",
+   "company": "Dealsandyou",
+   "display_company": "Dealsandyou",
+   "wave": "Daily Deals / Group Buying",
+   "founded": "-",
+   "shutdown": "-",
+   "funding_raised": "-",
+   "status": "Dead/dormant",
+   "notes": "-",
+   "is_primary": true,
+   "source": "afaqs.com"
+  },
+  {
+   "name": "Rakesh Biyani",
+   "company": "Koovs",
+   "display_company": "Koovs (deals era)",
+   "wave": "Daily Deals / Group Buying",
+   "founded": "-",
+   "shutdown": "-",
+   "funding_raised": "-",
+   "status": "Pivoted to fashion, then dead",
+   "notes": "-",
+   "is_primary": true,
+   "source": "businesstoday.in"
+  },
+  {
+   "name": "Rahul Raj",
+   "company": "Koinex",
+   "display_company": "Koinex",
+   "wave": "Crypto/Web3 Exchanges",
+   "founded": "2017",
+   "shutdown": "2019",
+   "funding_raised": "-",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": true,
+   "source": "cbinsights.com; dealroom.co"
+  },
+  {
+   "name": "Rakesh Yadav",
+   "company": "Koinex",
+   "display_company": "Koinex",
+   "wave": "Crypto/Web3 Exchanges",
+   "founded": "2017",
+   "shutdown": "2019",
+   "funding_raised": "-",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "cbinsights.com; dealroom.co"
+  },
+  {
+   "name": "Aditya Naik",
+   "company": "Koinex",
+   "display_company": "Koinex",
+   "wave": "Crypto/Web3 Exchanges",
+   "founded": "2017",
+   "shutdown": "2019",
+   "funding_raised": "-",
+   "status": "Dead (clean)",
+   "notes": "-",
+   "is_primary": false,
+   "source": "cbinsights.com; dealroom.co"
+  }
+ ]
+}

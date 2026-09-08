@@ -1,0 +1,552 @@
+[
+ {
+  "name": "Creativ Digital Agency",
+  "domain": "creativdigital.ro",
+  "website": "https://creativdigital.ro/",
+  "seed_lead_score": "7",
+  "seed_reason": "Team of software engineers/security specialists building custom software, mobile/web apps, AI/ML and pentesting with cloud/DevOps and its own products, alongsid",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "DQ_agency": 20,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "HEALTHCARE SAAS PatientPath.dentist Sistem Management Dental Platformă SaaS completă dezvoltată de CreativDigital pentru automatizarea cabinetelor dentare."
+   ],
+   "DQ_agency": [
+    "Politica de Confidențialitate Termeni și Condiții Blog SEO & AI 2025 - Ghiduri Complete",
+    "Resurse SEO Gratuite Contactează un Expert SEO ARTICOL RECOMANDAT Claude Opus 5: Noul Flagship Anthropic „Pentru Fiecare Zi” – Analiză, Benchmarkuri și Scenarii Business Anthropic a lansat Claude Opus 5 la același preț de 5 USD / 25 USD per milion de tokeni.",
+    "23 Mai 2026 Citește → SEO Tehnic 4 min Google Lansează May 2026 Core Update, iar Rapoartele de Backlink-uri Dispar: Glitch sau Purjare Algoritmică?",
+    "17 Martie 2026 Citește → AI & SEO 8 min Google March 2026 Core Update & AI Overviews: Cum îți salvezi traficul SEO Google schimbă algoritmul de căutare și modul în care afișează răspunsurile."
+   ],
+   "DQ_support": [
+    "Cum AI, Securitatea și Hardware-ul Redefinesc Viitorul Digital O analiză strategică a evenimentelor din noiembrie 2025: de la lansarea Google Gemini 3 și parteneriatul istoric cu Apple, până la noile amenințări cibernetice și impactul AI asupra pieței muncii."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 2
+ },
+ {
+  "name": "FPD Consulting & Solutions",
+  "domain": "fpd.ro",
+  "website": "https://www.fpd.ro/",
+  "seed_lead_score": "6",
+  "seed_reason": "Builds React/Angular/React Native/Node/Java/Python web and mobile apps and ERP/CMS products, though bundled with design consultancy, video and digital marketing",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_agency": 9
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Contact Citește mai mult SeoCherry SeoCherry este o agenție de marketing digital pentru optimizare SEO, management reputaţie, promovare pe bloguri și optimizare rata de conversie.[su_spacer] Adrese utile: Preț Servicii",
+    "Contact Citește mai mult Vizualizați clienții noștri Ce am livrat --> Digital marketing ZOF Marketingul digital se definește ca un mod de promovare și de vânzare a produselor și serviciilor prin intermediul canalului online de comunicare.",
+    "Dar pur și simplu a avea site-ul… (mai mult) Conteaza viteza paginii web pentru SEO Ce este viteza paginii Viteza paginii este timpul necesar între cererea browserului pentru o pagină până când browserul finalizează procesarea și… (mai mult) Totul despre Core Web Vitals Ce este Core Web Vitals?",
+    "Acest mesaj este transmis tare și clar prin… (mai mult) Ce înseamnă social media marketing Marketingul pe rețelele sociale reprezintă legătura cu publicul dvs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 0
+ },
+ {
+  "name": "The Niche Society",
+  "domain": "thenichesociety.ro",
+  "website": "https://thenichesociety.ro/",
+  "seed_lead_score": "6",
+  "seed_reason": "Builds web apps, AI integrations and custom automation for founders/CTOs, though positioned as a full-service digital agency also doing SEO and Google Ads.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 25467,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "DQ_agency": 32
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Dezvoltare Web Website-uri & Prezență Online Creăm website-uri profesionale, rapide și optimizate SEO care transformă vizitatorii în clienți.",
+    "Dezvoltare Website Optimizare SEO Google Business Profile Google Ads Marketing Digital Strategie & Promovare Online Strategii de marketing digital complete: social media, content creation, campanii ads și consultanță pentru creșterea vizibilității și vânzărilor.",
+    "+ Oferim servicii complete de dezvoltare web: website-uri de prezentare, magazine online (eCommerce), aplicații web, landing page-uri, optimizare SEO, Google Ads și management Google Business Profile.",
+    "+ Da, oferim servicii complete de marketing digital: management social media (Facebook, Instagram, TikTok, LinkedIn), campanii Google Ads și Social Media Ads, creare content cu AI, email marketing și consultanță strategică de marketing."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 0
+ },
+ {
+  "name": "Roman Daniel-Gabriel",
+  "domain": "romandanielgabriel.ro",
+  "website": "https://romandanielgabriel.ro/en",
+  "seed_lead_score": "6",
+  "seed_reason": "Senior full-stack developer/technical consultant (9+ years) building custom software, bespoke ERPs and e-commerce architectures, though a solo freelancer.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_agency": 6,
+   "DQ_template": 1,
+   "vcs": 3,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "See details Presentation website From 650 EUR Fast, clear, SEO-friendly sites that turn visitors into leads.",
+    "Owned the full development cycle across the entire client portfolio, delivering presentation websites and SEO optimization.",
+    "The web application leverages the latest industry standards for image optimization, accessibility, and SEO.",
+    "Beyond impeccable development efficiency, Toto Home achieved a top-5 organic SEO ranking for its core target keywords in less than a month after launch."
+   ],
+   "DQ_template": [
+    "See details Custom software development Hourly rate 40 EUR / hour Non-template projects: bespoke apps, complex multi-system integrations, and ongoing maintenance."
+   ],
+   "vcs": [
+    "Core Stack PHP 8.4+ CodeIgniter 4 MariaDB PostgreSQL HTMX Alpine JS Tailwind GitHub Docker Cursor Gemini Google Stitch Familiar Technologies Frameworks, platforms, and integrations I have shipped alongside the core stack, from APIs and infrastructure to analytics and e-commerce.",
+    "Privacy Policy Cookie Policy GitHub LinkedIn Photographer Cookie preferences We use essential cookies for the site to function."
+   ],
+   "cicd": [
+    "Core Stack PHP 8.4+ CodeIgniter 4 MariaDB PostgreSQL HTMX Alpine JS Tailwind GitHub Docker Cursor Gemini Google Stitch Familiar Technologies Frameworks, platforms, and integrations I have shipped alongside the core stack, from APIs and infrastructure to analytics and e-commerce."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/gabrielroman13"
+  ],
+  "_prio": -1
+ },
+ {
+  "name": "NoError.ro",
+  "domain": "noerror.ro",
+  "website": "https://www.noerror.ro/",
+  "seed_lead_score": "6",
+  "seed_reason": "Builds custom software and enterprise web platforms on a modern stack (Next.js/React/TypeScript) with AI, though positioned around web design, e-commerce and SE",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_agency": 13,
+   "sdlc": 1,
+   "compliance": 1,
+   "DQ_template": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Firmă web design & creare site web, magazin online, SEO",
+    "NOERROR Creare site web Magazin online SEO Performanță Configurator Despre AI & Automatizări Contact NOERROR · Web design & creare site Creăm site-uri și magazine online care convertesc — plus integrări și AI când ai nevoie.",
+    "Discovery tehnic înainte de cod Expertiză în Web design, creare site și SEO — cu prețuri orientative și configurator.",
+    "Firmă web design și dezvoltare: site de prezentare, e-commerce, SEO, Google Ads, video pentru firme (7–12 RON/min) și platforme custom."
+   ],
+   "sdlc": [
+    "Livrari la timp Sprinturi clare, milestones asumate si comunicare fara blocaje."
+   ],
+   "compliance": [
+    "Conform politicilor Meta și GDPR."
+   ],
+   "DQ_template": [
+    "2026 Anunțuri Noutăți NOERROR și poziționare de produs De ce un site fără template ajută echipele de marketing să măsoare mai curat Anunț NOERROR despre legătura dintre design custom, tracking, Core Web Vitals și decizii de campanie bazate pe date stabile.",
+    "4 mai 2026 NOERROR construiește site-uri și platforme custom în Next.js, fără șabloane cumpărate De ce pornim de la viziunea clientului, nu de la un template: control pe performanță, SEO, integrări și mentenanță după lansare."
+   ],
+   "cicd": [
+    "4 mai 2026 Rakuten fixes issues twice as fast with Codex Rakuten utilizează Codex pentru a livra software mai rapid și mai sigur, reducând MTTR cu 50% și automatizând revizuirile CI/CD."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": -1
+ },
+ {
+  "name": "IOTNetPRO",
+  "domain": "iotnetweb.com",
+  "website": "https://iotnetweb.com/en",
+  "seed_lead_score": "6",
+  "seed_reason": "Builds custom software and end-to-end IoT solutions (LoRaWAN/LPWAN platform), though also offering web design, hosting and digital marketing.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "IOTNetWEB | index Home About Portfolio Service Contacts Romanian English MENU Home About Portfolio Service Contacts Rom"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "DQ_agency": 6,
+   "sdlc": 3,
+   "DQ_template": 2,
+   "cicd": 1,
+   "compliance": 1,
+   "DQ_bpo": 1,
+   "DQ_support": 3
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We create fast, fully optimized online stores tailored to your products and your customers."
+   ],
+   "DQ_agency": [
+    "READ MORE Digital Marketing A great website means nothing if nobody finds it.",
+    "We run targeted digital marketing campaigns that put your business in front of the right people at the right time — driving real traffic, real leads, and real results.",
+    "Custom websites, online stores, digital marketing, hosting — we handle it all, start to finish.",
+    "READ MORE Contact Us Websites SEO Check Yours 01 Next Our Process See how a clear, structured web design process helps us build better websites — faster and with fewer surprises."
+   ],
+   "sdlc": [
+    "READ MORE Contact Us Websites SEO Check Yours 01 Next Our Process See how a clear, structured web design process helps us build better websites — faster and with fewer surprises.",
+    "custom software built around your processes: flexibility, ownership and growth — explained for business owners, not developers.",
+    "Read More How We Work Signing the contract We plan a meeting in order to get to know each other better and discuss the main specific needs of your business."
+   ],
+   "DQ_template": [
+    "Our new website feels like it belongs to our brand — not a generic template.",
+    "22 Jul When Is Custom Software Worth It — and When Is Ready-Made Software the Better Choice?"
+   ],
+   "cicd": [
+    "We guide you through the whole process from the first conversation to the final launch, so you never have to feel lost or overwhelmed."
+   ],
+   "compliance": [
+    "10 Jul Data Security in Automation: Why Your Web Platform Infrastructure Matters Why secure hosting, encryption, and GDPR compliance are essential for IoT platforms and industrial automation."
+   ],
+   "DQ_bpo": [
+    "IOTNetWEB Home About Portfolio Services Blog Contact Romanian English MENU Home About Portfolio Services Blog Contact Romanian English About Us You won't find an impersonal call center or cookie-cutter solutions here."
+   ],
+   "DQ_support": [
+    "Read More 2018 Bridging Web & Hardware As industries evolved, we moved beyond standard web development.",
+    "Read More 2020 Continuous Innovation Today, we deliver fully unified ecosystems—where secure web platforms, custom software, and smart hardware work seamlessly together to drive efficiency.",
+    "Read More 2021 Entering the IoT Space We began bridging the gap between hardware and software, developing our first web custom dashboards designed to read data directly from physical sensors."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/twbs"
+  ],
+  "_prio": -2
+ },
+ {
+  "name": "Vectoora",
+  "domain": "vectoora.com",
+  "website": "https://www.vectoora.com/",
+  "seed_lead_score": "5",
+  "seed_reason": "Builds websites, mobile applications and digital platforms, but positioned as a design-led digital agency emphasizing UI/UX and 'readymade' websites.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_template": 2,
+   "DQ_agency": 5,
+   "enterprise": 1,
+   "sdlc": 2,
+   "owns_product": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "We build readymade websites, mobile applications, and elaborate online business services."
+   ],
+   "DQ_agency": [
+    "02 Branding Cutting-Edge Technology: We stay at the forefront of 3D technology, constantly exploring new tools and techniques.",
+    "CD Website - Branding & Personal Website Transforming the digital presence for an elite personal trainer through strategic branding and a custom web platform.",
+    "All Featured Branding Why Software Companies Need Branding, Not Just Great Code Branding is not a decorative layer on top of a product.",
+    "From strategic branding and refined visual identity to custom web and mobile development, we collaborate directly with ambitious companies to turn strong ideas into powerful digital experiences."
+   ],
+   "enterprise": [
+    "Healthcare Digital experiences for clinics, wellness brands, and health platforms."
+   ],
+   "sdlc": [
+    "How We Work From Idea to Launch A clear, structured process that takes your project from first conversation to a polished, production-ready digital product.",
+    "LinkedIn Our Process A strategic journey from the first spark of an idea to a global digital presence."
+   ],
+   "owns_product": [
+    "04 Launch & Grow We ship, measure real usage, and iterate — helping your product keep improving long after launch."
+   ],
+   "cicd": [
+    "FEB 18, 2025 Development What a Modern Software Development Process Looks Like in 2025 From discovery and rapid prototyping to continuous delivery and real user feedback — a practical look at how high-performing teams actually build software."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": -2
+ },
+ {
+  "name": "inteliScience",
+  "domain": "inteliscience.net",
+  "website": "https://inteliscience.net/",
+  "seed_lead_score": "8",
+  "seed_reason": "Custom software and AI-driven solutions with deep Siemens NX/NXOpen and Teamcenter engineering-automation development and nearshore teams.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 12620,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "prod_eng": 1,
+   "sdlc": 4,
+   "DQ_bpo": 3,
+   "DQ_agency": 5,
+   "DQ_template": 3,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Explore more Pioneering Tomorrow through Digital Engineering Excellence services Engineering Intelligence for Siemens NX & Teamcenter Explore more NX & AI NXOpen automation and engineering AI that take the routine out of your Siemens NX workflows – from drawing and PMI generation to intelligent design support."
+   ],
+   "sdlc": [
+    "Teamcenter Solutions Programming, server customization, and managed support for Siemens Teamcenter – your PLM backbone shaped to your processes and kept running, delivered nearshore.",
+    "They integrate into your processes, follow your standards, and stay with your project, giving you continuity without the overhead of recruiting and retaining niche talent yourself.",
+    "How We Work We don’t maintain a standing bench of idle developers – we recruit and place the right Siemens NX and PLM specialists for your needs on demand."
+   ],
+   "DQ_bpo": [
+    "Call Center +40 774 463 429 Our Location +40 774 463 429 Romania Email info@inteliscience.net Social network info@inteliscience.net Linkedin-in Get in Touch Define your goals and identify areas where AI can add value to your business Please enable JavaScript in your browser to complete this form."
+   ],
+   "DQ_agency": [
+    "Marketing Used to track advertising effectiveness and show relevant ads (Google Ads, LinkedIn, Facebook, X)."
+   ],
+   "DQ_template": [
+    "Use the works template, don't build frames manually: File → New → works drawing template \"A1_Kundenzeichnung\" .",
+    "04 Stuck-in-NX help, works edition NX questions answered in the context of your setup — your templates, your Teamcenter integration, your naming rules — where generic forums and even Siemens' own copilot can only answer generically.",
+    "We build around your templates, naming conventions, and modeling standards from the start."
+   ],
+   "cicd": [
+    "The pipeline is straightforward, and every stage runs where your data lives: 01 — CONNECT Your sources, as they are Teamcenter items & datasets Network drives & archives Works standards & CAD guidelines Wikis, protocols, test reports 02 — INDEX Understood, not just stored Documents parsed incl.",
+    "The pipeline handles mixed formats and scanned PDFs, and revision logic (\"rev F supersedes rev E\") is part of the indexing."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": -4
+ },
+ {
+  "name": "Royalsoft",
+  "domain": "royalsoft.eu",
+  "website": "https://www.royalsoft.eu/",
+  "seed_lead_score": "6",
+  "seed_reason": "Digital agency doing web/eCommerce, mobile app, web-app and custom ERP development (Magento/WooCommerce), though also offering online marketing services.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Royalsoft | Fullstack Digital Agency About Case Studies Ironclad Sansha Dance International Tourism Group GreenSeas International Foa"
+  },
+  "jd": {
+   "jd_chars": 24218,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "DQ_agency": 18,
+   "sdlc": 1,
+   "qa": 1,
+   "DQ_template": 3
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Online Marketing Marketing Strategy Content Marketing Email Marketing Search Engine Optimization Social Media Marketing Conversion Rate Optimization PPC Campaigns Learn more...",
+    "Digital Marketing Marketing Strategy We base all our actions on data and careful planning.",
+    "Content Marketing Tell the perfect story to your target audience.",
+    "Social Media Marketing Raise Awareness and Establish Trust."
+   ],
+   "sdlc": [
+    "An agile team of web designers, web developers and online marketers who work in perfect sinergy to bring you results."
+   ],
+   "qa": [
+    "QA Tester / Intern Experience: Not required Work Status: Full time / Part time Job Status: 6-12 months We are looking for young people interested in developing a career in Web / Software Development."
+   ],
+   "DQ_template": [
+    "Our solution A modern and easy to manage presentation website We built a new, custom WordPress theme with a modern and responsive UI/UX.",
+    "We started our brainstorming process and after conducting research we decided to develop a custom industrial feel WordPress theme, filled with custom tools that will allow for easy editing and low long term maintenance costs.",
+    "Andrei Developer Technologies The best way to satisfy the need for this client was with a custom WordPress theme, mainly to enable easy content management, all the while keeping page loading speed at very high levels."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": -4
+ },
+ {
+  "name": "tagDiv",
+  "domain": "tagdiv.com",
+  "website": "https://tagdiv.com/",
+  "seed_lead_score": "6",
+  "seed_reason": "Software company building best-selling WordPress theme products plus SaaS solutions, web development and e-commerce — real product engineering, though theme-cen",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "9\"}.tdc-font-fa-windows:before{content:\"\\f17a\"}.tdc-font-fa-android:before{content:\"\\f17b\"}.tdc-font-fa-linux:before{content:\"\\f17c\"}.tdc-font-fa-drib"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_template": 7,
+   "DQ_agency": 4,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "Newspaper is the best WordPress Theme that helps you create and design your project without any coding skills.",
+    "More Details LIVE PREVIEW Newsmag Theme News & Magazine Are you searching for a modern blog, news, and magazine WordPress theme?",
+    "The Newsmag template is excellent for a news, newspaper, magazine, publishing or review site.",
+    "SEO ready, fast, simple, and easy to use without coding skills, Newsmag WordPress Theme is designed to help you monetize your website."
+   ],
+   "DQ_agency": [
+    "SEO ready, fast, simple, and easy to use without coding skills, Newsmag WordPress Theme is designed to help you monetize your website.",
+    "Follow us on: Facebook Instagram Twitter Blog SEO Implementing Effective SEO Practices for News Websites The reason why your news articles rank first on news websites is because of SEO.",
+    "Adina Continue reading Blog SEO What is SEO – Strategies and Recommendations for Beginners What is SEO?",
+    "SEO, or Search Engine Optimization, refers to a series of processes to improve a website's visibility and ranking in search engine results..."
+   ],
+   "owns_product": [
+    "Create special incentives for your clients to test your products without requiring them to commit to the full price before they are ready.",
+    "Unlocking your product value with shortcodes for the customers' subscription plans is the key to success."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": -6
+ }
+]

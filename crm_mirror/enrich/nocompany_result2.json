@@ -1,0 +1,259 @@
+{
+ "created": [
+  [
+   "Logicloom",
+   "logicloom.in"
+  ],
+  [
+   "Scaletech",
+   ""
+  ],
+  [
+   "Doorhopper",
+   "doorhopper.com"
+  ],
+  [
+   "Playlyfe",
+   "playlyfe.com"
+  ],
+  [
+   "EasyCommute",
+   "easycommute.com"
+  ],
+  [
+   "Techweirdo",
+   "techweirdo.com"
+  ],
+  [
+   "Backspacce Technologies",
+   "backspacce.com"
+  ],
+  [
+   "Riyalto",
+   "riyalto.com"
+  ],
+  [
+   "Cloudberry",
+   "cloudberry.io"
+  ],
+  [
+   "Ontic Consulting",
+   "onticconsulting.com"
+  ],
+  [
+   "Mobibeans Solution",
+   "mobibeans.com"
+  ],
+  [
+   "Endeavour Digital",
+   "endeavourdigital.in"
+  ],
+  [
+   "QuadB Tech",
+   "quadb.com"
+  ],
+  [
+   "Backspace Technologies",
+   "backspacetechnologies.com"
+  ],
+  [
+   "WebCodeGenie",
+   "webcodegenie.com"
+  ],
+  [
+   "Schrout Software",
+   "schrout.com"
+  ],
+  [
+   "CAZ BRAIN",
+   "cazbrain.com"
+  ],
+  [
+   "DataHiveLabs",
+   "datahivelabs.com"
+  ],
+  [
+   "Tensor Thoughts",
+   "tensorthoughts.com"
+  ],
+  [
+   "Alan",
+   "alan.com"
+  ],
+  [
+   "TechMonkey",
+   "techmonkey.io"
+  ],
+  [
+   "Crio.Do",
+   "crio.do"
+  ],
+  [
+   "Skill Lync",
+   "skilllync.co"
+  ],
+  [
+   "Codeground",
+   "codeground.com"
+  ]
+ ],
+ "existed": [
+  "A360PL",
+  "Cruzata",
+  "Techweirdo"
+ ],
+ "assoc": [
+  [
+   "A360PL",
+   "A360PL",
+   "a360pl.com",
+   "333409410795"
+  ],
+  [
+   "Logicloom",
+   "Logicloom",
+   "logicloom.in",
+   "337395701470"
+  ],
+  [
+   "Scaletech",
+   "Scaletech",
+   "",
+   "337366609609"
+  ],
+  [
+   "Techweirdo 1",
+   "Techweirdo",
+   "techweirdo.com",
+   "337295098558"
+  ],
+  [
+   "Backspacce Technologies",
+   "Backspacce Technologies",
+   "backspacce.com",
+   "337377961658"
+  ],
+  [
+   "S - Riyalto - 2",
+   "Riyalto",
+   "riyalto.com",
+   "337200083655"
+  ],
+  [
+   "Cloudberry",
+   "Cloudberry",
+   "cloudberry.io",
+   "337355076318"
+  ],
+  [
+   "Cruzata",
+   "Cruzata",
+   "cruzata.com",
+   "334453529310"
+  ],
+  [
+   "Mobibeans Solution Pvt Ltd.",
+   "Mobibeans Solution",
+   "mobibeans.com",
+   "337341102837"
+  ],
+  [
+   "QuadB Tech",
+   "QuadB Tech",
+   "quadb.com",
+   "337368580796"
+  ],
+  [
+   "Backspace Technologies 2",
+   "Backspace Technologies",
+   "backspacetechnologies.com",
+   "337377844967"
+  ],
+  [
+   "WebCodeGenie",
+   "WebCodeGenie",
+   "webcodegenie.com",
+   "337377921748"
+  ],
+  [
+   "Schrout Software",
+   "Schrout Software",
+   "schrout.com",
+   "337292879589"
+  ],
+  [
+   "CAZ BRAIN",
+   "CAZ BRAIN",
+   "cazbrain.com",
+   "337273234154"
+  ],
+  [
+   "Tensor Thoughts",
+   "Tensor Thoughts",
+   "tensorthoughts.com",
+   "337362501344"
+  ],
+  [
+   "Alan (YC US connect)",
+   "Alan",
+   "alan.com",
+   "337295098566"
+  ],
+  [
+   "TechMonkey",
+   "TechMonkey",
+   "techmonkey.io",
+   "337362545373"
+  ],
+  [
+   "Crio.Do",
+   "Crio.Do",
+   "crio.do",
+   "337362501348"
+  ],
+  [
+   "Skill Lync",
+   "Skill Lync",
+   "skilllync.co",
+   "337295098575"
+  ],
+  [
+   "Codeground",
+   "Codeground",
+   "codeground.com",
+   "337377921756"
+  ],
+  [
+   "Techweirdo 2",
+   "Techweirdo",
+   "techweirdo.com",
+   "337295098558"
+  ]
+ ],
+ "errs": [
+  [
+   "Doorhopper/assoc",
+   "{'raw': '{\"status\":\"error\",\"message\":\"One or more associations are invalid\",\"correlationId\":\"019fb198-2233-7bf2-b043-9fa"
+  ],
+  [
+   "Playlyfe/assoc",
+   "{'raw': '{\"status\":\"error\",\"message\":\"One or more associations are invalid\",\"correlationId\":\"019fb198-2b32-70be-8b84-3ba"
+  ],
+  [
+   "EasyCommute/assoc",
+   "{'raw': '{\"status\":\"error\",\"message\":\"One or more associations are invalid\",\"correlationId\":\"019fb198-3493-7348-8585-5cf"
+  ],
+  [
+   "Ontic Consulting/assoc",
+   "{'raw': '{\"status\":\"error\",\"message\":\"One or more associations are invalid\",\"correlationId\":\"019fb198-68ca-727b-841c-6a3"
+  ],
+  [
+   "Endeavour Digital/assoc",
+   "{'raw': '{\"status\":\"error\",\"message\":\"One or more associations are invalid\",\"correlationId\":\"019fb198-7a80-74c7-a963-232"
+  ],
+  [
+   "DataHiveLabs/assoc",
+   "{'raw': '{\"status\":\"error\",\"message\":\"One or more associations are invalid\",\"correlationId\":\"019fb198-b4a9-707c-9734-560"
+  ]
+ ]
+}

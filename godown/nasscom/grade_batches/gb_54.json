@@ -1,0 +1,863 @@
+[
+ {
+  "name": "Syskey Softlabs Private Limited",
+  "city": "Coimbatore",
+  "domain": "syskeysoftlabs.com",
+  "website": "https://www.syskeysoftlabs.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "4979.00 Who We Are Syskey Softlabs Pvt Limited, an emerging Software Development firm from India, offering Cybersecurity products/solutions for Operat"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "TA Netgables Pvt Ltd",
+  "city": "Noida",
+  "domain": "saralweb.com",
+  "website": "https://saralweb.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 8100,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Taashee Linux Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "taashee.com",
+  "website": "https://taashee.com/?ref=logo",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "Information Management Data Life Cycle Management Resources Case Studies Brochures News Flash Newsroom Testimonials Careers Blog Company Why Taashee O"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 148527,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 5,
+   "sdlc": 2,
+   "enterprise": 6
+  },
+  "site_quotes": {
+   "cicd": [
+    "Sign, gate, and evidence AI through CI/CD to run safe, cost-aware AI at scale in 2026.",
+    "Read more 10 Steps to Seamlessly Deploy and Manage Kubernetes Clusters with SUSE Rancher March 26, 2024 If you're navigating the complex waters of containerization and orchestration with Kubernetes, you're likely aware of the challenges involved in...",
+    "Read more Ansible’s Role in Automated Defence Strategies: 10 highlights to Blow your Mind!"
+   ],
+   "sdlc": [
+    "This dedication ensures we stay adept and agile in a rapidly evolving landscape.",
+    "Smart ways of budgeting Agile methodology, when included in any project, highlights the grey areas that require a lot of improvisation and attention in order to achieve the business goals."
+   ],
+   "enterprise": [
+    "The Hidden Lever for Cloud ROI in BFSI, September 11, 2025 Most cloud programs stall for the same reason: people don’t use the platform the way architects imagined.",
+    "What BFSI, Public Sector, September 3, 2025 If 2025 is the age of “let’s try GenAI,” 2026 will be the year enterprises are judged on how safely...",
+    "The Hidden Lever for Cloud ROI in BFSI, Government & Education September 11, 2025 No Comments Most cloud programs stall for the same reason: people don’t use the platform the way architects imagined.",
+    "It provides global financial services through its wide range of products such as Commercial Banking, Corporate Finance, and Retail Banking."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Tally Solutions Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "tallysolutions.com",
+  "website": "https://tallysolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "an focus on what matters most for their business. We design our products to focus on just that – to make our products work for you, and not the other"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 34696,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "prod_eng": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "--> Our benefits Mediclaim & OPD shield for dependents We at Tally strive to power you with wellness benefits, in the form of insurance coverage and OPD reimbursement, that shield yourself and dependent family members against any medical uncertainty.",
+    "Attractive voluntary top-up insurance options to choose from, giving you the extended coverage and peace of mind Conveyance reimbursement We reimburse the fuel expense incurred for travel to work, plus maintenance cost and insurance renewal, for your vehicle!",
+    "In his 10+ years at Tally, Abhishek has owned multiple Tally versions and created a foundation for revolutionising digital banking for businesses.",
+    "In the past, Nabendu worked with Infosys, where he led product engineering for key offerings in the Finacle banking product suite, including loan origination and liquidity management systems."
+   ],
+   "prod_eng": [
+    "In the past, Nabendu worked with Infosys, where he led product engineering for key offerings in the Finacle banking product suite, including loan origination and liquidity management systems."
+   ],
+   "owns_product": [
+    "In the past, Nabendu worked with Infosys, where he led product engineering for key offerings in the Finacle banking product suite, including loan origination and liquidity management systems."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Tanika Tech Jewels Private Limited",
+  "city": "Mumbai",
+  "domain": "jwero.ai",
+  "website": "https://www.jwero.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ous Next Tightly integrated with the business apps to ease your work Keep Pushing Forward, We've Got Your Back. Sign Up Setup your digital business ef"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 68564,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Tarento Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "tarento.com",
+  "website": "https://www.tarento.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "are designed to support Startups to Enterprises. View all ❯ CASE STUDIES Paradiset: Democratising Healthy Eating 2200 Startup Applicants. 120 Countrie"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 3163,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "vcs": 3
+  },
+  "site_quotes": {
+   "vcs": [
+    "github.com/necolas/normalize.css */ /*!"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Tavant Technologies India Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "tavant.com",
+  "website": "https://tavant.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 3269,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "uchless Lending VΞLOX Digital Lending Touchless Lending --> Application Development Intelligent Automation Digital Software Factory Encompass MANUFACT"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 72928,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "senior_roles": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "AI-Powered Industry Software Products High-ROI AI accelerators and solutions tailored for industry-specific challenges."
+   ],
+   "senior_roles": [
+    "Shikha Tomar Associate Technical Architect Testimonials"
+   ],
+   "qa": [
+    "Quality Engineering What I value most about Tavant is its inclusive culture and supportive leadership."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "TeamF1 Networks Private Limited",
+  "city": "Hyderabad",
+  "domain": "teamf1networks.com",
+  "website": "https://teamf1networks.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "More We add intelligence to hardware Know More Homepage --> Our Products Businesses across the industry are constantly looking for one-stop solution t"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 21572,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 6,
+   "DQ_support": 3
+  },
+  "site_quotes": {
+   "owns_product": [
+    "So whether you require a complete turnkey solution for a secure connected device or an incremental upgrade of your current system with new technologies, the TeamF1 professional services team stands ready to build up on the standard TeamF1 offerings, and provide the differentiation that your products need.",
+    "We truly believe our product should add value to customers business and help derive desired results.",
+    "To keep up our commitment to excellence and to deliver great value to our customers, we strive to provide ever improving and enhanced versions of our products and expert services."
+   ],
+   "DQ_support": [
+    "The completely customized solutions of TeamF1 Networks encompass the breadth of requirements for securely connecting devices: from high-performance routing stacks, hardware-accelerated security protocols to intuitive device management, bridging the gap between demand and supply in the network security space.",
+    "With operations in 90 locations across 43 countries, D-Link provides networking solutions for individuals, homes, businesses, and industries, including a comprehensive range of industry-leading network solutions and AI-driven cloud management services.",
+    "D-Link, the global networking solutions provider, celebrates three decades of “Building Networks for People” across 65 countries."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "TechDoQuest Private Limited",
+  "city": "Hyderabad",
+  "domain": "techdoquest.com",
+  "website": "https://www.techdoquest.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2366,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2,
+   "enterprise": 4,
+   "sdlc": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "This includes engineering pipelines, setting up reports, and integrating AI features where they add value.",
+    "For people, not just pipelines."
+   ],
+   "enterprise": [
+    "BFSI (Banking, Financial Services & Insurance) Secure platforms.",
+    "Stable platforms, secure integrations, and compliance-ready systems are table stakes in BFSI.",
+    "Healthcare & Life Sciences Secure data.",
+    "Reliability, security, and compliance are non-negotiable in healthcare."
+   ],
+   "sdlc": [
+    "How We Work We don’t rely on lofty values or abstract goals.",
+    "Values and Culture How we work with each other matters as much as how we work with clients."
+   ],
+   "DQ_support": [
+    "It supports the way we build and deliver."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Techmeridian Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "techmeridian.in",
+  "website": "https://www.techmeridian.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "--> --> --> TechMeridian Solutions Pvt Ltd – Mobile Application Development, Web development, Client – Server application, Custom application"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Techstar Software Devlopment India Private Limited",
+  "city": "Hyderabad",
+  "domain": "techstargroup.com",
+  "website": "https://www.techstargroup.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2012-09-11",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1181,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "sdlc": 3,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Strengthen Your Security Posture Data Silos to Patient-Centered Intelligence Connect and secure healthcare data, ensure compliance, and enable smarter, coordinated care across systems.",
+    " OUR SUBSIDIARIES Highly specialized services A trusted partner for over 70 healthcare organizations.",
+    "Fusion provides services to help healthcare customers unlock data, from their EHRs and other data sources, to allow a vendor agnostic approach to achieving clinical outcomes.",
+    "Our customers are largely from the healthcare systems and Fortune 500 enterprises from various industries."
+   ],
+   "sdlc": [
+    "Discover HealthSeek Engineering the Next-Gen Enterprise Reimagine legacy systems with cloud-native architectures, scalable platforms, and agile engineering for global growth.",
+    "Learn More OUR PROCESS A simple yet powerful and efficient process Discover how easy it is to work with TechStar Group."
+   ],
+   "owns_product": [
+    "With our “Trusted Partner” services philosophy we have developed several frameworks and accelerators in various technologies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Techtrail Technologies Private Limited",
+  "city": "Pune",
+  "domain": "tech-trail.com",
+  "website": "https://www.tech-trail.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2014-04-16",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 5599,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Agile Method This gives the edge by involving our clients in our development lifecycle."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Techu Innovation Labs Private Limited",
+  "city": "Hyderabad",
+  "domain": "techu.in",
+  "website": "https://techu.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Pay 35% Now 65% After Placement Start your career program with 50% of the fee today.",
+    "Clear terms View ISA terms AI Ecosystem Learn AI Tools That Power the Industry Join TechU, one of the best AI training institutes in Hyderabad, and master real-world tools like Figma, AI coding platforms, and modern development environments."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "TECHVED Consulting India Private Limited",
+  "city": "Mumbai",
+  "domain": "techved.com",
+  "website": "https://www.techved.com",
+  "already_in_hubspot": true,
+  "headcount_known": 270,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ty Compliance Technology and Engineering Mobility Solutions Mobile app Development Enterprise Mobility Solutions ERP/CRM Mobile Integration Web Soluti"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 4900,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 4,
+   "enterprise": 2,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Accessibility Assessment We evaluate inclusivity to make your product accessible to every user.",
+    "Can you help us select the right usability testing methods for our product?"
+   ],
+   "enterprise": [
+    "Prime reasons to choose TECHVED consulting: Established expertise 20+ years of transforming fortune 500 companies.",
+    "AI Chatbot Personalized Chatbot For Top Insurance Company We built a personalized mobile Chatbot experience for the unique Home Insurance product with a seamless user journey specially made for the Indian audience."
+   ],
+   "sdlc": [
+    "Agile & quick High-velocity delivery for competitive dominance."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "TechWise Digital Private Limited",
+  "city": "New Delhi",
+  "domain": "techwisedigital.com",
+  "website": "https://techwisedigital.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 35539,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Agile Deployment With a streamlined hiring process, extensive talent network, and responsive recruitment approach, we help organizations quickly deploy qualified professionals, reducing time-to-hire while ensuring business continuity and project success.",
+    "Agile IT solutions that evolve with your business for long-term growth & resilience."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "TecLogos Automation Private Limited",
+  "city": "Pune",
+  "domain": "teclogos.in",
+  "website": "https://teclogos.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 4929,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "TEKsystems Global Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "teksystems.com",
+  "website": "https://www.teksystems.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Security Workforce Development Technology Partnerships See Our Work Industries toggle menu < Back Industries Financial Services Media, Entertainment"
+  },
+  "jd": {
+   "pages_read": 14,
+   "external_job_boards": [],
+   "jd_chars": 43010,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2,
+   "sdlc": 4
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Open Communication We see the caring and respectful sharing of information and feedback as a responsibility of everyone and fundamental to having honest relationships, knowing that context and coaching make us better."
+   ],
+   "sdlc": [
+    "We take the complexity out of implementation with our Lean-agile principles, portable and repeatable architecture, and deployment frameworks, all designed to support your technology strategy.",
+    "Read Now Agile Transformation Accelerate business agility and insight-driven decisions.",
+    "Read Now Our Approach How We Do It DevOps & Agile Accelerate speed and delivery for scalable growth."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Telstra Global Business Services LLP",
+  "city": "Bengaluru",
+  "domain": "telstra.com.au",
+  "website": "https://www.telstra.com.au/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 139570,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Healthy body, mind and spirit Wellbeing tools and an inclusive insurance policy to help you and your family focus on what matters most."
+   ],
+   "cicd": [
+    "Explore our concession offers Help us understand your situation You might feel overwhelmed, but there are options for you to consider.",
+    "Manage your plan Consider switching to Pre-Paid Help us understand your situation You might feel overwhelmed, but there are options for you to consider."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Temenos India Pvt Ltd",
+  "city": "Chennai",
+  "domain": "temenos.com",
+  "website": "https://www.temenos.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "the regional Temenos Newsletter with news and updates about our products, services and events Sign Up Contact Us More Locations Contact Us Customer Su"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 36914,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 117,
+   "owns_product": 6,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Core, Digital & AI Banking Software Leader Portfolio Products and Services Core Banking Deliver modern, comprehensive banking for all customer segments.",
+    "Digital Banking Power personalized experiences, seamless transactions and accelerate transformation.",
+    "Explore All Products and Services Innovation Platform AI Cloud Discover Our Innovations Temenos SaaS Maximize customer focus and accelerate your growth with updated, resilient and secure banking services.",
+    "Corporate & Commercial One platform for streamlined corporate and commercial banking."
+   ],
+   "owns_product": [
+    "Read news The future of banking starts here Discover how our platform helps financial institutions navigate change, embrace new opportunities, and deliver smarter, faster banking.",
+    "Candidate FAQs The future of banking starts here Discover how our platform helps financial institutions navigate change, embrace new opportunities, and deliver smarter, faster banking.",
+    "Read blog 1 2 3 … 65 The future of banking starts here Discover how our platform helps financial institutions navigate change, embrace new opportunities, and deliver smarter, faster banking.",
+    "Explore our culture Measurable success 20% invested in R&D 150+ countries on our model bank framework 100+ FinTechs on Temenos Exchange The future of banking starts here Discover how our platform helps financial institutions navigate change, embrace new opportunities, and deliver smarter, faster banking."
+   ],
+   "sdlc": [
+    "They have enabled us to be very agile and deliver with speed and confidence."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Terafina Software Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "ncrvoyix.com",
+  "website": "https://www.ncrvoyix.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 19107,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 5,
+   "sdlc": 1,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Our hardware and services ensure your mission-critical operations perform at their highest level.",
+    "View our services View our services Hardware Discover our portfolio of purpose-built hardware designed to power restaurant and retail experiences.",
+    "View our hardware View our hardware Payments Simplify transactions with flexible and scalable end-to-end payment solutions built for fast-paced retail and restaurant environments.",
+    "Explore services Explore services Hardware From POS and payments to self-service and back-of-house, our hardware portfolio supports critical workflows across retail and restaurants, and is engineered for durability and reliability in fast-paced, high-volume environments."
+   ],
+   "sdlc": [
+    "Edge technology, which is becoming more and more prevalent in the retail world, empowers retailers to be more agile and update their systems without fear of disruption."
+   ],
+   "owns_product": [
+    "Explore hardware Explore hardware Bringing our platform story to life The NCR Voyix Customer Experience Center (CEC) is where our technology moves from slideware to real-world execution.",
+    "This allows teams to quickly see how our platform, applications, and services work together in practice."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

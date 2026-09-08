@@ -1,0 +1,918 @@
+[
+ {
+  "name": "Tescra Software Private Limited",
+  "city": "Bengaluru",
+  "domain": "tescra.com",
+  "website": "https://tescra.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "ftware delivery for their business needs, but also promoted our products and services. Service 01 Testing Services Service 02 Team Extensions Service"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Automating Finance Operations for a Fortune 500 Company A Fortune 500 financial services firm faced manual, time-consuming financial reporting processes."
+   ],
+   "sdlc": [
+    "By combining deep domain knowledge with agile methodologies, we help organizations innovate faster, operate smarter, and scale with confidence."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Tevatron Technologies Private Limited",
+  "city": "Noida",
+  "domain": "tevatrontech.com",
+  "website": "https://www.tevatrontech.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "help them translate ideas into products. With expertise in Product Engineering, R&D and Innovation, we work with special focus on the Automotive, Hea"
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 38427,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 1,
+   "sdlc": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "With expertise in Product Engineering, R&D and Innovation, we work with special focus on the Automotive, Health, and Traffic & City Surveillance Domains, among others like FMCG, Retail, Manufacturing & Energy."
+   ],
+   "sdlc": [
+    "Our customers benefit from the right mix of technology skills, industry and domain knowledge, defined processes and methodologies, and a choice of engagement models."
+   ],
+   "enterprise": [
+    "Our industry expertise includes Automotive, Business Intelligence, Consumer Electronics, Defence, Agriculture, Healthcare, Logistics, New Age Media & Education, Semiconductors, Telecom and more."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "The World Bank (IBRD)",
+  "city": "Chennai",
+  "domain": "worldbank.org",
+  "website": "https://www.worldbank.org/ext/en/home",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 13,
+   "external_job_boards": [],
+   "jd_chars": 141193,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 9,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "The IFC Banking on Women has invested over $10 billion in 307 financial institutions across 83 countries since 2012 to finance women-led enterprises.",
+    "We also invest in the foundational human infrastructure—including healthcare, education, and skilling—necessary to build a thriving workforce.",
+    "lp-heading-top-none lp-heading-bottom-default col-xs-12 col-sm-6 col-md-4 col-lg-4 background-image ENERGY AND INFRASTRUCTURE Powering tomorrow’s jobs true lp lp-popup ENERGY AND INFRASTRUCTURE Powering tomorrow’s jobs Roads, reliable energy, schools, and healthcare are the lifeblood of communities and economies.",
+    "In Kazakhstan, 2700 KMs of road created 50,000+ construction jobs, 1,200 permanent maintenance positions, and connected millions of residents to better healthcare, education, and economic opportunities."
+   ],
+   "DQ_support": [
+    "It supports the design of the new Country Growth and Jobs Report series, expands access to labor market data through the Global Labor Database, and pilots innovative approaches on gender, youth employment, migration, informality, and the sustainable transition."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Thermo Fisher Scientific India Private Limited",
+  "city": "Hyderabad",
+  "domain": "thermofisher.com",
+  "website": "https://www.thermofisher.com/in/en/home.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 13221,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "Join template four --> Career Site Cookie Settings Personal Information About Thermo Fisher Scientific Thermo Fisher Scientific Inc."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "ThoughtWorks Technologies India Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "thoughtworks.com",
+  "website": "https://www.thoughtworks.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 131111,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "sdlc": 8,
+   "enterprise": 4,
+   "cicd": 3,
+   "prod_eng": 2,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Explore our platform and services for the AI era."
+   ],
+   "sdlc": [
+    "From agile and extreme programming to data mesh, AI and beyond, we’re industry pioneers, thought leaders and hands-on technologists who transform the possible into reality.",
+    "Learn more about our process and tips to help you prepare One of the best questions candidates ask our recruiters is: ‘What will I actually be doing as a consultant at Thoughtworks?’ Here, you’ll work in collaborative and purpose-led teams to create impactful solutions for clients from a variety of industries.",
+    "Our services Manufacturing is the backbone of the global economy, driving innovation and shaping the future of how we work and live.",
+    "They must think disruptively about opportunities, and respond quickly by creating more agile, innovative organizations that can act upon new information and feedback quickly."
+   ],
+   "enterprise": [
+    "We partner with some of the world’s leading businesses – from scale-ups to global Fortune 500 enterprises – to drive innovation and disruptive thinking, and turn big ambitions into reality."
+   ],
+   "cicd": [
+    "For example, you could influence the digital strategy of a retail giant, launch a new mobile application for a bank or redesign platforms using event sourcing and intelligent data pipelines.",
+    "The principles and methods we use, the books that we’ve written about continuous delivery, microservices, data and Al, all of that comes from our approach to building software."
+   ],
+   "prod_eng": [
+    "A lot has changed since then, but our unwavering commitment to engineering excellence has seen us grow to become leaders in the AI-first software delivery and data engineering space.",
+    "Explore our social change stories Our commitment to design-led thinking, engineering excellence and innovation means we prioritize people, build teams with strong technical foundations and embed AI into every step of the process – not just as a tool, but as a mindset."
+   ],
+   "senior_roles": [
+    "Featured content Blog Decoding human behavior: Laws every business leader should know As business and tech leaders, we're not just overseeing outcomes; we're indirectly driving change through others in complex systems."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Tietoevry India Private Limited",
+  "city": "Pune",
+  "domain": "tieto.in",
+  "website": "https://careers.tieto.com:443/careers-in-india",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [
+    "https://jobs.smartrecruiters.com/my-applications/Tieto2?dcr_ci=Tieto2"
+   ],
+   "jd_chars": 72434,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Tieto Caretech With Tieto Caretech you'll be part of building solutions for healthcare and social care professionals.",
+    "Tieto Banktech powers some of the Nordics’ most trusted banking systems with secure, reliable, and scalable solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "TLB & Co",
+  "city": "Bengaluru",
+  "domain": "lodhabhatt.com",
+  "website": "https://www.lodhabhatt.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 11659,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "TLG India Private Limited",
+  "city": "Gurugram",
+  "domain": "sapient.com",
+  "website": "https://www.publicissapient.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 31803,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 13,
+   "enterprise": 5,
+   "sdlc": 6
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our platforms combine that expertise with your context, including your systems, data, rules and workflows.",
+    "Our Platforms 3 platforms built on decades of enterprise context.",
+    "*Required field First name * Last name * Company * Email * Country * Select a country Message Sign me up to receive future marketing communications regarding our products, services and events."
+   ],
+   "enterprise": [
+    "2019 Digital banking With AGTB we built the first fully digital trade finance bank in months, combining adaptive architecture with agile delivery.",
+    "Digital banking Bodhi enables agentic workflows 2021 Bodhi enables agentic workflows Sapient Bodhi, our first agentic AI platform, was created with pre-built machine learning models and pre-configured AI workflows.",
+    "Dynamic customer experiences 2019 Digital banking With AGTB we built the first fully digital trade finance bank in months, combining adaptive architecture with agile delivery.",
+    "Digital banking 2021 Bodhi enables agentic workflows Sapient Bodhi, our first agentic AI platform, was created with pre-built machine learning models and pre-configured AI workflows."
+   ],
+   "sdlc": [
+    "2019 Digital banking With AGTB we built the first fully digital trade finance bank in months, combining adaptive architecture with agile delivery.",
+    "2022 Slingshot automates full SDLC Sapient Slingshot began as a prototype blending generative AI with PSChat to accelerate developer workflows, and quickly expanded toward full-scale modernization.",
+    "Slingshot automates full SDLC A new way to search 2024 A new way to search With Homes & Villas by Marriott Bonvoy we launched an AI-powered vacation home search tool on Azure using GPT models, shifting travel discovery to an experience-based search.",
+    "Dynamic customer experiences 2019 Digital banking With AGTB we built the first fully digital trade finance bank in months, combining adaptive architecture with agile delivery."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Togglenow Software solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "togglenow.com",
+  "website": "https://togglenow.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 123,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "ToggleNow Software Solutions Pvt Ltd - SAP Partner Company Offerings Cloud Offerings Agile, cost-eff"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 47407,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 9,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Talk to our experts → Explore our Solutions → The Challenge Your SAP Security is More Fragile Than You Think Your SAP Security is More Fragile Than You Think You’ve invested in various compliance tools.",
+    "201, Sprint Antaaya, opp to Balewadi Stadium, Exit to Baner Rd, Balewadi, Pune, Maharashtra - 411045 Get in Touch Today Inactive Search Become a partner Partner with us to unlock new opportunities, leverage expertise, and join a dynamic network that thrives on innovation and shared success.",
+    "Our Commitment We empower enterprises to transform SAP landscapes into agile, secure, and intelligent platforms—driving efficiency, resilience, and lasting competitive advantage across digital core, GRC, and audit.",
+    "Automate your processes with continuous controls monitoring."
+   ],
+   "enterprise": [
+    "presence positions us to support Fortune 500 clients and deliver cutting-edge solutions tailored for North American enterprises."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "ToLuna India Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "toluna.com",
+  "website": "https://www.toluna.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "TomTom India Pvt Ltd",
+  "city": "Pune",
+  "domain": "tomtom.com",
+  "website": "https://www.tomtom.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "n accurate, up-to-date geolocation data turn to TomTom. See our products See our products See our customers See our customers Explore our technology D"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 28318,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "vcs": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We explore the use of AI solutions at TomTom and speak to our product team about TomTom MCP Server."
+   ],
+   "vcs": [
+    "Ruben Woelders : The alpha TomTom MCP Server is now available on GitHub , complete with open-source code, documentation and setup guides."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "TopGrep Tech Private Limited",
+  "city": "Bengaluru",
+  "domain": "topgrep.com",
+  "website": "https://www.topgrep.com",
+  "already_in_hubspot": true,
+  "headcount_known": 34,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ed Lab FAQs About Us Topics Careers Contact Us Gallery More Portfolio Case Study - Calibrating NPS Case Study - Test Optimization Testimonials Ai Assi"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "qa": 5,
+   "cicd": 3,
+   "DQ_training": 1,
+   "vcs": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Course Development Partner You own your product and we build the product certification for various roles and levels.",
+    "Compliance We can help you setup the processes that are required for you to get SOC II or ISO certification for SaaS products."
+   ],
+   "qa": [
+    "Automated Testing We build automated test suites for websites and apps using tools like Selenium WebDriver and Appium in Java and Python.",
+    "Our testers can help you integrate test automation into your software development process.",
+    "09.09.23 04:37 AM - Comment(s) Read more Learning XML Parsing: One Step Closer to Quality Engineering (QE) By topgrep21 Gaining knowledge of XML parsing can be highly beneficial in various software testing scenarios.",
+    "Understanding XML parsing can empower QA professionals in various ways : Effect..."
+   ],
+   "cicd": [
+    "API Testing (Cloud Optimised) API testing/automated is critical for product quality and CI/CD processes.",
+    "DevOps Engineer A results driven DevOps engineer with ability to create roadmap for Infrastructure-as-a-Service, define and maintain automated pipelines architecture and tooling.",
+    "Infrastructure as code using terraform and scaling modern web architectures Office Admin The ideal candidate will be in charge of the organization and efficiency of daily office operations."
+   ],
+   "DQ_training": [
+    "Training & coaching to transform test professionals from mere survival centric to thrive, flourish and finding joy in a fulfilling career journey Our History In our careers spanning 25 years, we have helped many professionals find their foot in the industry."
+   ],
+   "vcs": [
+    "Labs renders on browser (eg: Learn Git on Linux terminal from browser on low a cost laptop)."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Totient Business Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "totient.in",
+  "website": "https://totient.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "iness Solutions Pvt Ltd | Product Development India | Agile software development Company +91 80 2678 0415 --> info@totientinc.com / info@totient.co.in"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 5954,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 13,
+   "sdlc": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Totient Home Product Engineering Partnership Industries Blog Company Contact Mail Us info@totientinc.com Home Product-Led Engineering.",
+    "Quicklinks Product Engineering Partnership Industries Careers Insights The Real Cost of Technical Debt The Hidden Cost of Cloud Infrastructure Why Most AI Products Never Scale Design for Flexibility.",
+    "Disclaimer / Privacy / Terms Of Use Mail Us info@totientinc.com Home Product Engineering Partnership Industries Blog Company Contact Top Careers",
+    "Totient Home Product Engineering Partnership Industries Blog Company Contact Mail Us info@totientinc.com Careers Careers FUN AT WORK A Workplace Where People Thrive We create a welcoming and engaging environment where employees feel comfortable being themselves."
+   ],
+   "sdlc": [
+    "Engagement models are built around shared ownership of outcomes.",
+    "Totient partners with organizations to align ownership, accountability, and outcomes — ensuring that how we work together supports long-term success."
+   ],
+   "cicd": [
+    "Many AI initiatives fail to move beyond pilots because data pipelines, governance models, and deployment environments are not designed for production workloads."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Transact Campus India Private Limited",
+  "city": "Chennai",
+  "domain": "transactcampus.com",
+  "website": "https://illumiatech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4365028009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4362166009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4362274009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4362324009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363260009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363277009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363123009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363104009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363111009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4367191009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363127009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4362341009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4365021009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363131009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363139009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363147009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363155009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363163009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363170009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363187009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363194009",
+    "https://job-boards.greenhouse.io/illumiallc/jobs/4363204009"
+   ],
+   "jd_chars": 85252,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "sdlc": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Get In Touch 07.30.26 America's Top EdTech Companies of 2026 Explore more news Higher Education Healthcare One credential for the whole campus From tuition to dorm access to the dining hall, students move through their day on one identity — and administrators see it all in one operations view.",
+    "Food, Nutrition, and Dining Services Support safe meal choices, improve patient outcomes, and reduce operational strain with integrated clinical nutrition management solutions built for healthcare facilities.",
+    "Your work will have real impact, supporting higher education, healthcare, and senior living communities who depend on us every day.",
+    "Our Mission We empower education, healthcare, and corporate enterprises with secure, intelligent technology that streamlines operations and enriches experiences for everyone they serve."
+   ],
+   "sdlc": [
+    "A Culture Built on What Matters Our principles guide how we work and the positive impact we aim to make everyday."
+   ],
+   "owns_product": [
+    "Learn More About Us A Network of 300+ Trusted Technology Integration Partners Learn More Pause Enterprise-Grade Security, Built In Illumia applies trusted security practices across all our platforms."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Transaction Network Services Communications India Private Limited",
+  "city": "Noida",
+  "domain": "tnsi.com",
+  "website": "https://tnsi.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 26248,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "enterprise": [
+    "We achieve this by combining our advanced insurance platform with human touch – the latter of which depends on effectively engaging consumers.",
+    "TNS Job Openings Join the TNS Team With employees based in 21 countries around the world, TNS is a leading global provider of data communication and interoperability services to diverse industries, such as retail, banking, payment processing, telecommunications and the financial markets.",
+    "TNS’ services extend to over 60 countries and we deliver mission critical solutions to many Fortune 500 companies.",
+    "1994 TNS lists on NASDAQ."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Transaltus Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "transaltus.com",
+  "website": "https://www.transaltus.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 41,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ments and ensure timely delivery of our services. READ MORE Our Products & Services SAP Services SEE MORE Cyber-Security Services SEE MORE New-Generat"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 17364,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "prod_eng": 3,
+   "cicd": 2,
+   "enterprise": 2,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We engineer reusable systems, agentic platforms, and enterprise-grade AI accelerators that power intelligent operations at scale."
+   ],
+   "prod_eng": [
+    "What You’ll Be Building As an AI Engineer, you’ll be at the heart of our AI-native product engineering squad — crafting agent-based architectures, LLM-powered utilities, and plug-and-play AI systems for some of the most complex enterprise environments.",
+    "With a relentless focus on human-centered design, engineering excellence, and collaborative problem-solving, we ensure that our solutions are aligned with your business vision and are adaptable to future growth.",
+    "We are dedicated to precision, foresight, and engineering excellence, ensuring our customers are always prepared for the future COMPANY VALUES Client Success ​ We derive satisfaction from our client’s success and consistently work towards delivering quality services."
+   ],
+   "cicd": [
+    "You’ll work with vector databases, fine-tuned LLMs, retrieval pipelines, and orchestration layers — all designed for scale, compliance, and velocity.",
+    "Implement RAG (Retrieval-Augmented Generation) pipelines, prompt engineering modules, and trust layer architectures."
+   ],
+   "enterprise": [
+    "Ensure governance, security, and explainability across all AI systems with a strong focus on regulated industries.",
+    "CTO LinkedIn Cyber Security Strategist and IT executive with over three decades of experience, cutting across Retail, Manufacturing, BFSI, IT & Technology companies."
+   ],
+   "sdlc": [
+    "Ability to move fast in agile teams, and ship PoCs that evolve into scalable products."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Transcend Infosystems Private Limited",
+  "city": "Noida",
+  "domain": "tipl.in",
+  "website": "https://www.tipl.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "es SaaS Based Solution E-Governance Solution Cloud Services Custom Software Development IT Consulting Services Mobile App Development Network Services"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "explore Previous Next An Overview of our flagship Forest Produce Management System (FPMS) INR 10 + Billion More than INR 10+ Billion of Timber supply Chain operations run on our platform each year."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Transcosmos India Private Limited",
+  "city": "Bengaluru",
+  "domain": "trans-cosmos.co.jp",
+  "website": "https://www.trans-cosmos.co.jp/english/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Trikaal Tech Enterprises Pvt Ltd",
+  "city": "Chennai",
+  "domain": "trikaaltech.com",
+  "website": "http://www.trikaaltech.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "rojects Services Design & CAD Automation Project Management Portfolio Telecom Telecom - Wireless Telecom - Fixed Mechanical !--> MEP Building Informat"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 6302,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Triwave Solutions Private Limited",
+  "city": "Chennai",
+  "domain": "triwavesolutions.com",
+  "website": "https://triwavesolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "grity Know More Our core values have helped us build a good portfolio of clients. Be a part of Team Triwave Join Us As We Help, Grow And Retain Our Ta"
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 72021,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 1,
+   "sdlc": 2,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Product Development We can design, develop, and enhance your customer facing as well as enterprise applications by working closely with your company's existing product engineering team."
+   ],
+   "sdlc": [
+    "With our solutions, you can remain agile, competitive, responsive, and on top of your game.",
+    "Learn More Our Process Talent acquisition is the Heart and Soul of our business, and we achieve this with a structured process that delivers every time based on stringent quality metrics."
+   ],
+   "DQ_training": [
+    "Commitment to the Society At Triwave, we strongly believe in nurturing local talent and giving back to the community that has supported us throughout our journey Internship Program: In 2023, we have successfully completed our internship program with a group of incredibly talented individuals from Howard County!",
+    "Our internship program aims not only to enrich their skill sets but also to foster an environment where creativity and innovation can flourish."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "name": "Techdyno BD",
+  "domain": "techdynobdltd.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "01896037216",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Team page lists no names; only services, contact form, founding date 2018",
+  "others": []
+ },
+ {
+  "name": "Inprozone Software Ltd",
+  "domain": "inprozone.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Company profile says \"Update Soon\"; no leadership names present",
+  "others": []
+ },
+ {
+  "name": "StaticMania",
+  "domain": "staticmania.com",
+  "person": "Atique Hasan",
+  "title": "Founder & Creative Director",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Atique Hasan Founder & Creative Director",
+  "others": []
+ },
+ {
+  "name": "Trust IT",
+  "domain": "trustitbdltd.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Only \"a talented team\"; product listings, no individual named",
+  "others": []
+ },
+ {
+  "name": "Rynexus Infotech Ltd.",
+  "domain": "rynexus.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "About page describes \"our team\" generically; no personal names",
+  "others": []
+ },
+ {
+  "name": "Ultimate IT Solution Ltd",
+  "domain": "ultimateit-bd.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "+8801983401410",
+  "email": "",
+  "confidence": "low",
+  "evidence": "About text covers history since 2012; no leadership names given",
+  "others": []
+ },
+ {
+  "name": "ITSOFT-BD",
+  "domain": "itsoft-bd.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "+8801704784034",
+  "email": "contact@itsoft-bd.com",
+  "confidence": "low",
+  "evidence": "About page has mission, vision, address; LinkedIn link is company profile",
+  "others": []
+ },
+ {
+  "name": "baseTOP",
+  "domain": "basetop.ca",
+  "person": "Arjo Hossain",
+  "title": "Co-founder",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Meet Our Team: Arjo Hossain Co-founder",
+  "others": [
+   {
+    "person": "SK Rusho",
+    "title": "Co-founder",
+    "linkedin": ""
+   },
+   {
+    "person": "Arefin Shaon",
+    "title": "Co-founder",
+    "linkedin": ""
+   },
+   {
+    "person": "Aminul Islam",
+    "title": "Co-founder",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "Softvence Agency",
+  "domain": "softvence.agency",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "\"Founder at iMU & RegS Company\" is an unnamed client testimonial byline",
+  "others": []
+ },
+ {
+  "name": "DTech Creative",
+  "domain": "dtechcreative.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Only CTO named; rest of roster reads as theme placeholders",
+  "others": [
+   {
+    "person": "Didar Hosen",
+    "title": "CTO",
+    "linkedin": "https://www.linkedin.com/in/didar-hosen-0b09a6121"
+   }
+  ]
+ },
+ {
+  "name": "Nano IT World",
+  "domain": "nanoitworld.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "\"formed by people who are highly experienced\"; no names on team pages",
+  "others": []
+ },
+ {
+  "name": "WellXperts",
+  "domain": "wellxperts.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Team and leadership pages returned service copy only, no names",
+  "others": []
+ },
+ {
+  "name": "Kraftwerk Technologies Limited",
+  "domain": "kraftwerktech.com",
+  "person": "Anwar Iqbal Anik",
+  "title": "Founder & Chief Executive Officer",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Management: Anwar Iqbal Anik Founder & Chief Executive Officer",
+  "others": [
+   {
+    "person": "Mohsin Ul Amin Khan",
+    "title": "Co-Founder & Chief Operating Officer",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "Suitable IT",
+  "domain": "suitableit.com",
+  "person": "Saimur Rahman Jihad",
+  "title": "Founder & CEO",
+  "linkedin": "https://www.linkedin.com/in/msrjihad",
+  "phone": "",
+  "email": "msrjihad@suitableit.com",
+  "confidence": "high",
+  "evidence": "Saimur Rahman Jihad Founder & CEO, Suitable IT",
+  "others": []
+ },
+ {
+  "name": "mPair Technologies Ltd.",
+  "domain": "mpairtech.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "All pages returned only the site tagline; no content captured",
+  "others": []
+ },
+ {
+  "name": "Essential Intelligence Services BD",
+  "domain": "eiservicesbd.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "+8801575746004",
+  "email": "accounts@eiservicesbd.com",
+  "confidence": "low",
+  "evidence": "\"EIS Leadership\" heading only; no individual named below it",
+  "others": []
+ },
+ {
+  "name": "Xceed Bangladesh Ltd.",
+  "domain": "xceedbd.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Service and FAQ pages only; no leadership names present",
+  "others": []
+ },
+ {
+  "name": "DigiByte Solutions",
+  "domain": "digibytebd.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "\"Meet the talented individuals\" with no names; LinkedIn link is company",
+  "others": []
+ },
+ {
+  "name": "Wooprex",
+  "domain": "wooprex.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Team pages returned service menu items only, no people",
+  "others": []
+ },
+ {
+  "name": "DPRS LAB",
+  "domain": "dprslab.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "\"We are the team of professionals\"; LinkedIn link is company page",
+  "others": []
+ },
+ {
+  "name": "Cloud Gen",
+  "domain": "cloudgen.bd",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "\"Our team comprises seasoned professionals\"; no individual named",
+  "others": []
+ }
+]

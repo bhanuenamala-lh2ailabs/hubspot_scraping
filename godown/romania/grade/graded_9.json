@@ -1,0 +1,252 @@
+[
+ {
+  "name": "Creativ Digital Agency",
+  "domain": "creativdigital.ro",
+  "score": 23,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 13,
+  "raw_before_caps": 23,
+  "caps_applied": [
+   "generalist-agency cap 30 - SEO service line is genuine, not scraped (not binding, raw 23)"
+  ],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-06-01 Wayback snapshot exists but carries no software wording; weak +10, no 45 cap",
+  "evidence": [
+   "Wayback 2023-06-01 exists but snapshot text did not mention software",
+   "Own SaaS: PatientPath.dentist dental management platform, built by CreativDigital",
+   "Heavy SEO service line: 'Contacteaza un Expert SEO', free SEO resources",
+   "No careers page; jd_chars 0; no VCS or review evidence"
+  ],
+  "why_this_rank": "The agency cap was examined and the SEO line is real (an SEO-expert CTA and a full SEO blog hub), but at raw 23 it never binds. The 23 is Tier C only: they genuinely own and shipped a dental SaaS and serve healthcare, which corroborates each other. Tier C was allowed without Tier A/B because Tier A is structurally unavailable in this pool. No careers page at all exists, so no PR or review evidence could ever be collected here - this is an evidence vacuum on process, not a demonstration of weak process.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "FPD Consulting & Solutions",
+  "domain": "fpd.ro",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "generalist-agency cap 30 - SeoCherry is a real owned SEO brand (not binding, raw 10)"
+  ],
+  "pre2024_basis": "UNKNOWN - .ro has no RDAP at all and no Wayback snapshot; missing evidence not new-domain evidence, so weak +10 and no 45 cap",
+  "evidence": [
+   ".ro domain: no RDAP exists at all; no Wayback snapshot",
+   "Runs SeoCherry, a separate SEO and reputation-management brand",
+   "Blog is SEO content: Core Web Vitals, page speed, social media",
+   "No careers page; jd_chars 0"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "The Niche Society",
+  "domain": "thenichesociety.ro",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "generalist-agency cap 30 - SEO/Ads/social is a stated service line (not binding, raw 10)"
+  ],
+  "pre2024_basis": "UNKNOWN - .ro has no RDAP at all and no Wayback snapshot; missing evidence, weak +10 and no 45 cap",
+  "evidence": [
+   "Careers page 25,467 chars yet zero Git/CI/review signals extracted",
+   "Sells SEO, Google Ads, TikTok/Instagram management alongside web development",
+   "No Wayback snapshot and no RDAP for .ro domain",
+   "FAQ lists full digital-marketing menu as core offering"
+  ],
+  "why_this_rank": "This is one of only three firms in the batch that does have a careers page, and it is a substantial one at 25,467 characters - yet not a single version-control, pipeline or review phrase was extracted from it. That is negative evidence rather than absent evidence, and it separates this firm from the ones scoring 10 purely for having no careers page at all. The DQ hits are also genuine service lines, not scraped nav text.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Roman Daniel-Gabriel",
+  "domain": "romandanielgabriel.ro",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "generalist-agency cap 30 - SEO bundled with site delivery (not binding, raw 10)",
+   "-15 template shop examined, NOT applied - flagged quote reads 'Non-template projects: bespoke apps'"
+  ],
+  "pre2024_basis": "UNKNOWN - .ro has no RDAP at all and no Wayback snapshot; missing evidence, weak +10 and no 45 cap",
+  "evidence": [
+   "Solo freelancer; 9+ years claimed but no dated artefact",
+   "Public GitHub gabrielroman13 recorded; public repos score zero",
+   "Template flag reversed: quote reads 'Non-template projects: bespoke apps'",
+   "Fixed-price presentation websites from 650 EUR, SEO optimisation bundled"
+  ],
+  "why_this_rank": "A one-person shop, so pull-request and code-review discipline is structurally impossible - there is no second engineer to review. The GitHub and Docker hits come from a tech-stack list, not a pipeline description, and the GitHub org is a personal public account which scores zero and points the wrong way for a codebase we would want never to have been public. The template penalty was examined and reversed: the flagged sentence is him explicitly disclaiming templates.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "NoError.ro",
+  "domain": "noerror.ro",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "generalist-agency cap 30 - SEO/Google Ads/video is a stated service line (not binding, raw 10)",
+   "-15 template shop examined, NOT applied - flagged quotes are the firm disclaiming bought templates"
+  ],
+  "pre2024_basis": "UNKNOWN - .ro has no RDAP at all and no Wayback snapshot; missing evidence, weak +10 and no 45 cap",
+  "evidence": [
+   "CI/CD hit is a blog repost about Rakuten and Codex",
+   "Template flag reversed: site says no bought templates, custom Next.js",
+   "Compliance hit is GDPR and Meta ad policy, not ISO",
+   "Positioned as web design, e-commerce, SEO, Google Ads, video"
+  ],
+  "why_this_rank": "Two of the three positive-looking signals are false. The only CI/CD hit is scraped third-party news about Rakuten using Codex - somebody else's practice republished on their blog, not theirs. The compliance hit is a GDPR/Meta advertising-policy line, not a change-control certification. The template penalty was reversed because the flagged text is them arguing against templates. What remains is a web-design and SEO shop with no careers page.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "IOTNetPRO",
+  "domain": "iotnetweb.com",
+  "score": 23,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 13,
+  "raw_before_caps": 23,
+  "caps_applied": [
+   "PROVEN downgraded to +10 - 2023 Wayback quote is bare nav menu, no software wording",
+   "generalist-agency cap 30 - marketing and hosting genuinely bundled (not binding, raw 23)",
+   "BPO cap 20 examined, NOT applied - call-centre quote is a disclaimer",
+   "-15 template examined, NOT applied - both quotes are anti-template statements"
+  ],
+  "pre2024_basis": "Downgraded from PROVEN to +10 - the 2023-06-01 quote is only nav text (Home About Portfolio Service Contacts), no software or project wording; site history claims 2018/2020/2021 but is undated self-claim",
+  "evidence": [
+   "PROVEN quote is bare nav menu: Home About Portfolio Service Contacts",
+   "BPO flag reversed: 'You won't find an impersonal call center'",
+   "Own IoT/LoRaWAN platform; site timeline claims 2018, 2020, 2021",
+   "github.com/twbs is the Bootstrap vendor, not their org"
+  ],
+  "why_this_rank": "Four separate flags had to be examined and three were reversed. The PROVEN gold quote is scraped navigation text only, so it was downgraded to +10 per the quote-check rule. The BPO hit is the firm saying you will NOT find a call centre here, and both template hits are anti-template statements, so neither cap applies. The listed GitHub org is twbs, i.e. Bootstrap, a vendor dependency, not theirs. The 13 is Tier C for a real IoT/LoRaWAN platform plus a described process, allowed without Tier A/B because Tier A is structurally unavailable here. Only the generalist-agency signature is genuine, and it does not bind.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Vectoora",
+  "domain": "vectoora.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "-15 template shop examined, NOT applied - single ambiguous 'readymade' phrase, custom work evidenced elsewhere",
+   "generalist-agency cap 30 examined, NOT applied - branding/design is not the SEO/PPC/SMM bundle"
+  ],
+  "pre2024_basis": "UNKNOWN - no Wayback snapshot and no RDAP record; treated as missing evidence, weak +10 and no 45 cap",
+  "evidence": [
+   "'We build readymade websites' - their own homepage self-description",
+   "Only CI/CD hit is one 2025 marketing blog post",
+   "Branding-led: visual identity, 3D, personal-trainer website case study",
+   "No Wayback, no RDAP, no careers page, jd_chars 0"
+  ],
+  "why_this_rank": "The lone engineering-looking signal is a Feb 2025 blog post titled 'What a Modern Software Development Process Looks Like in 2025'. Judged on substance it is content marketing from a branding studio whose other posts are about branding, not an engineering blog describing their own review or delivery workflow, so the +20 was withheld. The 'readymade websites' phrase was weighed for the -15 penalty and left unapplied - it is one ambiguous translation against evidenced custom platform work. Tier C did not fire: only the process page holds up, the 'enterprise' hit is an industry list of clinics and wellness brands.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "inteliScience",
+  "domain": "inteliscience.net",
+  "score": 28,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 18,
+  "raw_before_caps": 28,
+  "caps_applied": [
+   "BPO cap 20 examined, NOT applied - 'Call Center' is their contact phone label",
+   "generalist-agency cap 30 examined, NOT applied - hit is a cookie-consent banner category",
+   "-15 template examined, NOT applied - hits are Siemens NX CAD drawing templates"
+  ],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-06-01 Wayback snapshot exists but no software wording captured; weak +10, no 45 cap",
+  "evidence": [
+   "'Call Center' hit is their own contact phone label",
+   "Template hits are Siemens NX CAD drawing templates, not websites",
+   "Agency hit is a cookie-consent banner category, not a service",
+   "Careers page 12,620 chars with no Git, CI or review wording"
+  ],
+  "why_this_rank": "The strongest firm in this batch on substance and the clearest case of mislabelled flags: all three DQ signals are false positives. 'Call Center' is the label above their own phone number, the marketing hit is a line inside their cookie-consent banner, and the template hits are Siemens NX drawing templates and client CAD naming standards. What is left is deep, niche, hand-written work - NXOpen automation, Teamcenter server customisation, and their own AI document-indexing product with revision-supersedes logic. That earns the full Tier C 18, awarded without Tier A/B corroboration because Tier A is structurally unavailable in this pool. It is held down by two things unrelated to practice: a 2023 snapshot whose captured text happened not to name software, and a 12,620-character careers page that never describes how engineers work. Their pipeline text is a data-indexing pipeline, not CI/CD, so no Tier B was awarded. Worth a manual re-read before discarding.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Royalsoft",
+  "domain": "royalsoft.eu",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 35,
+  "caps_applied": [
+   "generalist-agency cap 30 APPLIED and BINDING - full Online Marketing service line (raw 35)",
+   "-15 template examined, NOT applied - themes are custom-built, not bought"
+  ],
+  "pre2024_basis": "PROVEN - 2023-06-01 Wayback names four delivered client case studies (Ironclad, Sansha, International Tourism Group, GreenSeas); quote checked and is a real portfolio, not nav filler",
+  "evidence": [
+   "Wayback 2023 names client case studies: Ironclad, Sansha, GreenSeas",
+   "Full Online Marketing line: SEO, PPC, SMM, email, content",
+   "JD: 'QA Tester / Intern' - dedicated QA role exists",
+   "Careers page 24,218 chars; no VCS host or review gate"
+  ],
+  "why_this_rank": "The highest score in the batch, and the only one where a cap actually binds. The PROVEN gold quote was checked and survives: it lists four named delivered client projects, which is a genuine pre-2024 portfolio rather than the scraped nav text seen elsewhere in this pool. But the generalist-agency signature is unambiguous - Online Marketing is a first-class service line covering strategy, content, email, SEO, social and PPC - so the 30 cap applies and pulls 35 down to 30. The only process point is a dedicated QA tester role in a JD; 24,218 characters of careers text name no repository host and no review gate.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "tagDiv",
+  "domain": "tagdiv.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [
+   "-15 template/website-builder shop APPLIED - sells no-code WordPress themes as the product",
+   "generalist-agency cap 30 examined, NOT applied - SEO posts are their own content marketing"
+  ],
+  "pre2024_basis": "PROVEN - the 2023-06-01 snapshot serves their own tagDiv Composer (tdc-) product CSS, so their software was demonstrably shipping pre-2024, even though the extracted quote is stylesheet code not marketing copy",
+  "evidence": [
+   "2023 Wayback quote is their own tagDiv Composer product CSS",
+   "'Newspaper... without any coding skills' - no-code theme product",
+   "SEO posts are own content marketing, not a service line",
+   "Owns Newspaper, Newsmag, Composer; no careers page, jd_chars 0"
+  ],
+  "why_this_rank": "The gold quote is raw CSS rather than copy, which normally triggers a downgrade, but here the CSS carries their own tdc- (tagDiv Composer) prefix, so it is their product's build output being served in 2023 - stronger proof of pre-2024 software than marketing text would be, and the +25 is kept on that basis. The -15 then applies squarely: the product is WordPress themes sold on the promise of building 'without any coding skills', which is the website-builder shop the rule targets. The counter-argument, that they write the builder rather than assemble from one, is real but they sell products to a mass market rather than building software for clients, which is the wrong shape for this list. SEO hits were examined and are blog content aimed at theme buyers, not a service line, so no agency cap.",
+  "graded_by": "agent"
+ }
+]

@@ -1,0 +1,1730 @@
+[
+ {
+  "id": "336203768535",
+  "properties": {
+   "createdate": "2026-07-17T07:28:32.602Z",
+   "dealname": "Crypso",
+   "dealstage": "3992480465",
+   "hs_lastmodifieddate": "2026-07-29T21:27:39.084Z",
+   "hs_object_id": "336203768535",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LH2 Distress",
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-17T07:28:32.602Z",
+  "updatedAt": "2026-07-29T21:27:39.084Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/336203768535"
+ },
+ {
+  "id": "336683765462",
+  "properties": {
+   "createdate": "2026-07-20T11:25:16.832Z",
+   "dealname": "Investmint",
+   "dealstage": "4036632309",
+   "hs_lastmodifieddate": "2026-07-30T07:56:10.703Z",
+   "hs_object_id": "336683765462",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LH2 Distress",
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-20T11:25:16.832Z",
+  "updatedAt": "2026-07-30T07:56:10.703Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/336683765462"
+ },
+ {
+  "id": "337062579960",
+  "properties": {
+   "createdate": "2026-07-21T04:35:47.787Z",
+   "dealname": "S - Riyalto - 2",
+   "dealstage": "4036687549",
+   "hs_lastmodifieddate": "2026-07-30T05:56:22.451Z",
+   "hs_object_id": "337062579960",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-21T04:35:47.787Z",
+  "updatedAt": "2026-07-30T05:56:22.451Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337062579960"
+ },
+ {
+  "id": "337060454074",
+  "properties": {
+   "createdate": "2026-07-21T04:36:55.586Z",
+   "dealname": "IT - Reckonsys",
+   "dealstage": "4035313388",
+   "hs_lastmodifieddate": "2026-07-29T16:22:10.611Z",
+   "hs_object_id": "337060454074",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-21T04:36:55.586Z",
+  "updatedAt": "2026-07-29T16:22:10.611Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337060454074"
+ },
+ {
+  "id": "337060454081",
+  "properties": {
+   "createdate": "2026-07-21T04:38:04.655Z",
+   "dealname": "IT- Antino",
+   "dealstage": "4035313388",
+   "hs_lastmodifieddate": "2026-07-28T13:04:32.132Z",
+   "hs_object_id": "337060454081",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-21T04:38:04.655Z",
+  "updatedAt": "2026-07-28T13:04:32.132Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337060454081"
+ },
+ {
+  "id": "337063295719",
+  "properties": {
+   "createdate": "2026-07-21T04:40:09.649Z",
+   "dealname": "Serpent Consulting 1",
+   "dealstage": "3992480475",
+   "hs_lastmodifieddate": "2026-08-03T13:45:26.335Z",
+   "hs_object_id": "337063295719",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-21T04:40:09.649Z",
+  "updatedAt": "2026-08-03T13:45:26.335Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337063295719"
+ },
+ {
+  "id": "337062580938",
+  "properties": {
+   "createdate": "2026-07-21T04:40:44.960Z",
+   "dealname": "NMG",
+   "dealstage": "3992480471",
+   "hs_lastmodifieddate": "2026-08-02T00:05:37.893Z",
+   "hs_object_id": "337062580938",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-21T04:40:44.960Z",
+  "updatedAt": "2026-08-02T00:05:37.893Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337062580938"
+ },
+ {
+  "id": "337061895900",
+  "properties": {
+   "createdate": "2026-07-21T04:41:27.249Z",
+   "dealname": "Nickelfox",
+   "dealstage": "4030231231",
+   "hs_lastmodifieddate": "2026-08-02T07:38:51.415Z",
+   "hs_object_id": "337061895900",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-21T04:41:27.249Z",
+  "updatedAt": "2026-08-02T07:38:51.415Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337061895900"
+ },
+ {
+  "id": "337264332509",
+  "properties": {
+   "createdate": "2026-07-21T14:21:58.533Z",
+   "dealname": "The Modern Data Company",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:49.799Z",
+   "hs_object_id": "337264332509",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:21:58.533Z",
+  "updatedAt": "2026-07-24T18:18:49.799Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337264332509"
+ },
+ {
+  "id": "337276931833",
+  "properties": {
+   "createdate": "2026-07-21T14:22:10.933Z",
+   "dealname": "Reliance Intelligence",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:34.999Z",
+   "hs_object_id": "337276931833",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:22:10.933Z",
+  "updatedAt": "2026-07-24T18:18:34.999Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337276931833"
+ },
+ {
+  "id": "337255327440",
+  "properties": {
+   "createdate": "2026-07-21T14:22:25.999Z",
+   "dealname": "PW (PhysicsWallah)",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:34.876Z",
+   "hs_object_id": "337255327440",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:22:25.999Z",
+  "updatedAt": "2026-07-24T18:18:34.876Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337255327440"
+ },
+ {
+  "id": "337267937988",
+  "properties": {
+   "createdate": "2026-07-21T14:22:38.158Z",
+   "dealname": "Autopilot Growth",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:45.917Z",
+   "hs_object_id": "337267937988",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:22:38.158Z",
+  "updatedAt": "2026-07-24T18:18:45.917Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337267937988"
+ },
+ {
+  "id": "337280518851",
+  "properties": {
+   "createdate": "2026-07-21T14:22:51.982Z",
+   "dealname": "Secure Traces",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:52.508Z",
+   "hs_object_id": "337280518851",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:22:51.982Z",
+  "updatedAt": "2026-07-24T18:18:52.508Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337280518851"
+ },
+ {
+  "id": "337280518853",
+  "properties": {
+   "createdate": "2026-07-21T14:23:07.548Z",
+   "dealname": "Vymo",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:51.074Z",
+   "hs_object_id": "337280518853",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:23:07.548Z",
+  "updatedAt": "2026-07-24T18:18:51.074Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337280518853"
+ },
+ {
+  "id": "337343869635",
+  "properties": {
+   "createdate": "2026-07-21T14:23:16.581Z",
+   "dealname": "Traya",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:49.306Z",
+   "hs_object_id": "337343869635",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:23:16.581Z",
+  "updatedAt": "2026-07-24T18:18:49.306Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337343869635"
+ },
+ {
+  "id": "337262534370",
+  "properties": {
+   "createdate": "2026-07-21T14:23:44.036Z",
+   "dealname": "Kambaa Inc",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:46.896Z",
+   "hs_object_id": "337262534370",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:23:44.036Z",
+  "updatedAt": "2026-07-24T18:18:46.896Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337262534370"
+ },
+ {
+  "id": "337266135787",
+  "properties": {
+   "createdate": "2026-07-21T14:23:58.849Z",
+   "dealname": "Cendyn",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:35.053Z",
+   "hs_object_id": "337266135787",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:23:58.849Z",
+  "updatedAt": "2026-07-24T18:18:35.053Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337266135787"
+ },
+ {
+  "id": "337290052296",
+  "properties": {
+   "createdate": "2026-07-21T14:24:14.055Z",
+   "dealname": "ABB",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:51.774Z",
+   "hs_object_id": "337290052296",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:24:14.055Z",
+  "updatedAt": "2026-07-24T18:18:51.774Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337290052296"
+ },
+ {
+  "id": "337275125470",
+  "properties": {
+   "createdate": "2026-07-21T14:24:28.751Z",
+   "dealname": "Paytm",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-28T13:44:07.732Z",
+   "hs_object_id": "337275125470",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:24:28.751Z",
+  "updatedAt": "2026-07-28T13:44:07.732Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337275125470"
+ },
+ {
+  "id": "337342087908",
+  "properties": {
+   "createdate": "2026-07-21T14:24:43.293Z",
+   "dealname": "InovarTech",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:37.362Z",
+   "hs_object_id": "337342087908",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:24:43.293Z",
+  "updatedAt": "2026-07-24T18:18:37.362Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337342087908"
+ },
+ {
+  "id": "337297247944",
+  "properties": {
+   "createdate": "2026-07-21T14:24:57.721Z",
+   "dealname": "Zingle AI Lab",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:51.949Z",
+   "hs_object_id": "337297247944",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:24:57.721Z",
+  "updatedAt": "2026-07-24T18:18:51.949Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337297247944"
+ },
+ {
+  "id": "337291845340",
+  "properties": {
+   "createdate": "2026-07-21T14:25:11.875Z",
+   "dealname": "Cars24",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-28T13:50:10.763Z",
+   "hs_object_id": "337291845340",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:25:11.875Z",
+  "updatedAt": "2026-07-28T13:50:10.763Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337291845340"
+ },
+ {
+  "id": "337302660814",
+  "properties": {
+   "createdate": "2026-07-21T14:25:26.910Z",
+   "dealname": "Keychain",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:49.124Z",
+   "hs_object_id": "337302660814",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:25:26.910Z",
+  "updatedAt": "2026-07-24T18:18:49.124Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337302660814"
+ },
+ {
+  "id": "337320816369",
+  "properties": {
+   "createdate": "2026-07-21T14:25:42.106Z",
+   "dealname": "Sahi",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:41.627Z",
+   "hs_object_id": "337320816369",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:25:42.106Z",
+  "updatedAt": "2026-07-24T18:18:41.627Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337320816369"
+ },
+ {
+  "id": "337304448743",
+  "properties": {
+   "createdate": "2026-07-21T14:25:57.456Z",
+   "dealname": "Headout",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:47.792Z",
+   "hs_object_id": "337304448743",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:25:57.456Z",
+  "updatedAt": "2026-07-24T18:18:47.792Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337304448743"
+ },
+ {
+  "id": "337293653726",
+  "properties": {
+   "createdate": "2026-07-21T14:26:11.788Z",
+   "dealname": "PAR Technology",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:50.261Z",
+   "hs_object_id": "337293653726",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:26:11.788Z",
+  "updatedAt": "2026-07-24T18:18:50.261Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337293653726"
+ },
+ {
+  "id": "337343870676",
+  "properties": {
+   "createdate": "2026-07-21T14:26:26.198Z",
+   "dealname": "Asort.com",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:38.453Z",
+   "hs_object_id": "337343870676",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:26:26.198Z",
+  "updatedAt": "2026-07-24T18:18:38.453Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337343870676"
+ },
+ {
+  "id": "337342088920",
+  "properties": {
+   "createdate": "2026-07-21T14:26:40.494Z",
+   "dealname": "Enphase Energy",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:42.492Z",
+   "hs_object_id": "337342088920",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:26:40.494Z",
+  "updatedAt": "2026-07-24T18:18:42.492Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337342088920"
+ },
+ {
+  "id": "337275126486",
+  "properties": {
+   "createdate": "2026-07-21T14:26:54.695Z",
+   "dealname": "Equations Work",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:36.030Z",
+   "hs_object_id": "337275126486",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:26:54.695Z",
+  "updatedAt": "2026-07-24T18:18:36.030Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337275126486"
+ },
+ {
+  "id": "337262537423",
+  "properties": {
+   "createdate": "2026-07-21T14:27:09.168Z",
+   "dealname": "WebEngage",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-07-24T18:18:53.264Z",
+   "hs_object_id": "337262537423",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Sales Navigator",
+   "linkedin_url": null,
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-21T14:27:09.168Z",
+  "updatedAt": "2026-07-24T18:18:53.264Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/337262537423"
+ },
+ {
+  "id": "339017083583",
+  "properties": {
+   "createdate": "2026-07-28T08:58:36.307Z",
+   "dealname": "Brilworks Software",
+   "dealstage": "4036632312",
+   "hs_lastmodifieddate": "2026-07-29T00:05:06.956Z",
+   "hs_object_id": "339017083583",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T08:58:36.307Z",
+  "updatedAt": "2026-07-29T00:05:06.956Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339017083583"
+ },
+ {
+  "id": "338955384547",
+  "properties": {
+   "createdate": "2026-07-28T08:59:16.906Z",
+   "dealname": "Serpent Consulting 2",
+   "dealstage": "3992480475",
+   "hs_lastmodifieddate": "2026-08-03T13:45:03.473Z",
+   "hs_object_id": "338955384547",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T08:59:16.906Z",
+  "updatedAt": "2026-08-03T13:45:03.473Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/338955384547"
+ },
+ {
+  "id": "338957218500",
+  "properties": {
+   "createdate": "2026-07-28T08:59:58.386Z",
+   "dealname": "Religent Systems",
+   "dealstage": "4036632311",
+   "hs_lastmodifieddate": "2026-07-28T13:23:31.072Z",
+   "hs_object_id": "338957218500",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T08:59:58.386Z",
+  "updatedAt": "2026-07-28T13:23:31.072Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/338957218500"
+ },
+ {
+  "id": "338957218501",
+  "properties": {
+   "createdate": "2026-07-28T09:00:04.721Z",
+   "dealname": "Doomshell",
+   "dealstage": "3992480471",
+   "hs_lastmodifieddate": "2026-07-29T21:41:10.904Z",
+   "hs_object_id": "338957218501",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T09:00:04.721Z",
+  "updatedAt": "2026-07-29T21:41:10.904Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/338957218501"
+ },
+ {
+  "id": "339168867007",
+  "properties": {
+   "createdate": "2026-07-28T09:00:10.686Z",
+   "dealname": "Enaviya",
+   "dealstage": "4036687549",
+   "hs_lastmodifieddate": "2026-07-28T09:01:24.594Z",
+   "hs_object_id": "339168867007",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T09:00:10.686Z",
+  "updatedAt": "2026-07-28T09:01:24.594Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339168867007"
+ },
+ {
+  "id": "338959140579",
+  "properties": {
+   "createdate": "2026-07-28T09:00:21.413Z",
+   "dealname": "Techweirdo 2",
+   "dealstage": "3992480465",
+   "hs_lastmodifieddate": "2026-07-30T05:57:01.223Z",
+   "hs_object_id": "338959140579",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T09:00:21.413Z",
+  "updatedAt": "2026-07-30T05:57:01.223Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/338959140579"
+ },
+ {
+  "id": "339179410111",
+  "properties": {
+   "createdate": "2026-07-28T09:00:24.512Z",
+   "dealname": "Codeground",
+   "dealstage": "3992480471",
+   "hs_lastmodifieddate": "2026-08-05T06:15:43.484Z",
+   "hs_object_id": "339179410111",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T09:00:24.512Z",
+  "updatedAt": "2026-08-05T06:15:43.484Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339179410111"
+ },
+ {
+  "id": "338982204094",
+  "properties": {
+   "createdate": "2026-07-28T09:00:45.988Z",
+   "dealname": "Encureit",
+   "dealstage": "3992480471",
+   "hs_lastmodifieddate": "2026-07-29T21:41:15.262Z",
+   "hs_object_id": "338982204094",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T09:00:45.988Z",
+  "updatedAt": "2026-07-29T21:41:15.262Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/338982204094"
+ },
+ {
+  "id": "338895317724",
+  "properties": {
+   "createdate": "2026-07-28T09:00:54.350Z",
+   "dealname": "Bloom CS",
+   "dealstage": "3992480471",
+   "hs_lastmodifieddate": "2026-07-29T21:41:27.908Z",
+   "hs_object_id": "338895317724",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T09:00:54.350Z",
+  "updatedAt": "2026-07-29T21:41:27.908Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/338895317724"
+ },
+ {
+  "id": "339024151284",
+  "properties": {
+   "createdate": "2026-07-28T09:01:35.422Z",
+   "dealname": "QuadB Tech",
+   "dealstage": "3992480471",
+   "hs_lastmodifieddate": "2026-08-03T03:36:14.909Z",
+   "hs_object_id": "339024151284",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T09:01:35.422Z",
+  "updatedAt": "2026-08-03T03:36:14.909Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339024151284"
+ },
+ {
+  "id": "339022363383",
+  "properties": {
+   "createdate": "2026-07-28T09:01:45.276Z",
+   "dealname": "WebCodeGenie",
+   "dealstage": "4030231231",
+   "hs_lastmodifieddate": "2026-07-30T23:01:36.357Z",
+   "hs_object_id": "339022363383",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T09:01:45.276Z",
+  "updatedAt": "2026-07-30T23:01:36.357Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339022363383"
+ },
+ {
+  "id": "338957219532",
+  "properties": {
+   "createdate": "2026-07-28T09:01:51.102Z",
+   "dealname": "Alan (YC US connect)",
+   "dealstage": "4036632311",
+   "hs_lastmodifieddate": "2026-08-04T13:43:38.445Z",
+   "hs_object_id": "338957219532",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T09:01:51.102Z",
+  "updatedAt": "2026-08-04T13:43:38.445Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/338957219532"
+ },
+ {
+  "id": "338984128188",
+  "properties": {
+   "createdate": "2026-07-28T09:01:56.896Z",
+   "dealname": "QualeInfoTech",
+   "dealstage": "4035313388",
+   "hs_lastmodifieddate": "2026-07-31T13:33:16.732Z",
+   "hs_object_id": "338984128188",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T09:01:56.896Z",
+  "updatedAt": "2026-07-31T13:33:16.732Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/338984128188"
+ },
+ {
+  "id": "338898922197",
+  "properties": {
+   "createdate": "2026-07-28T09:02:24.269Z",
+   "dealname": "Tech Web",
+   "dealstage": "4036687549",
+   "hs_lastmodifieddate": "2026-07-30T05:50:05.604Z",
+   "hs_object_id": "338898922197",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-28T09:02:24.269Z",
+  "updatedAt": "2026-07-30T05:50:05.604Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/338898922197"
+ },
+ {
+  "id": "339311937231",
+  "properties": {
+   "createdate": "2026-07-30T06:40:29.167Z",
+   "dealname": "Metalstreet",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T06:56:38.500Z",
+   "hs_object_id": "339311937231",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "http://linkedin.com/in/arun-shukla-3795a611",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T06:40:29.167Z",
+  "updatedAt": "2026-07-30T06:56:38.500Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339311937231"
+ },
+ {
+  "id": "339219976923",
+  "properties": {
+   "createdate": "2026-07-30T06:40:36.037Z",
+   "dealname": "Vah Vah",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T06:56:45.362Z",
+   "hs_object_id": "339219976923",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "linkedin.com/in/senapaty/?originalSubdomain=in",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T06:40:36.037Z",
+  "updatedAt": "2026-07-30T06:56:45.362Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339219976923"
+ },
+ {
+  "id": "339341259505",
+  "properties": {
+   "createdate": "2026-07-30T06:40:48.857Z",
+   "dealname": "10Club",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T06:56:57.778Z",
+   "hs_object_id": "339341259505",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://www.linkedin.com/in/kavitharao",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T06:40:48.857Z",
+  "updatedAt": "2026-07-30T06:56:57.778Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339341259505"
+ },
+ {
+  "id": "339202035437",
+  "properties": {
+   "createdate": "2026-07-30T06:40:55.321Z",
+   "dealname": "BigPhi",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T06:57:03.419Z",
+   "hs_object_id": "339202035437",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://www.linkedin.com/in/navneetai",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T06:40:55.321Z",
+  "updatedAt": "2026-07-30T06:57:03.419Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339202035437"
+ },
+ {
+  "id": "339310003916",
+  "properties": {
+   "createdate": "2026-07-30T06:41:01.362Z",
+   "dealname": "Welly",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T06:57:10.446Z",
+   "hs_object_id": "339310003916",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/urviraghbeer",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T06:41:01.362Z",
+  "updatedAt": "2026-07-30T06:57:10.446Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339310003916"
+ },
+ {
+  "id": "339227216616",
+  "properties": {
+   "createdate": "2026-07-30T06:41:07.313Z",
+   "dealname": "The Woman's Company",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T06:57:15.028Z",
+   "hs_object_id": "339227216616",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://www.linkedin.com/in/anika-parashar-a6902a32",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T06:41:07.313Z",
+  "updatedAt": "2026-07-30T06:57:15.028Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339227216616"
+ },
+ {
+  "id": "339350244038",
+  "properties": {
+   "createdate": "2026-07-30T08:53:39.341Z",
+   "dealname": "Savart",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T08:54:47.540Z",
+   "hs_object_id": "339350244038",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/sankarshc",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T08:53:39.341Z",
+  "updatedAt": "2026-07-30T08:54:47.540Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339350244038"
+ },
+ {
+  "id": "339379982070",
+  "properties": {
+   "createdate": "2026-07-30T08:53:48.511Z",
+   "dealname": "Galaxycard",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T09:09:54.967Z",
+   "hs_object_id": "339379982070",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "http://linkedin.com/in/gunjeetsingh",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T08:53:48.511Z",
+  "updatedAt": "2026-07-30T09:09:54.967Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339379982070"
+ },
+ {
+  "id": "339350244043",
+  "properties": {
+   "createdate": "2026-07-30T08:53:57.176Z",
+   "dealname": "BillMart",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T09:10:07.681Z",
+   "hs_object_id": "339350244043",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/jigish-sonagara-55677b5",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T08:53:57.176Z",
+  "updatedAt": "2026-07-30T09:10:07.681Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339350244043"
+ },
+ {
+  "id": "339360611032",
+  "properties": {
+   "createdate": "2026-07-30T08:54:04.933Z",
+   "dealname": "Finbingo",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T08:55:14.692Z",
+   "hs_object_id": "339360611032",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/samir-jayaswal-bb79693",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T08:54:04.933Z",
+  "updatedAt": "2026-07-30T08:55:14.692Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339360611032"
+ },
+ {
+  "id": "339258840794",
+  "properties": {
+   "createdate": "2026-07-30T08:54:11.039Z",
+   "dealname": "Baselit",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T09:10:18.650Z",
+   "hs_object_id": "339258840794",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/sahilsingla98",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T08:54:11.039Z",
+  "updatedAt": "2026-07-30T09:10:18.650Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339258840794"
+ },
+ {
+  "id": "339357003453",
+  "properties": {
+   "createdate": "2026-07-30T08:54:17.554Z",
+   "dealname": "Humalect",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T09:10:25.885Z",
+   "hs_object_id": "339357003453",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/vishalsaugat",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T08:54:17.554Z",
+  "updatedAt": "2026-07-30T09:10:25.885Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339357003453"
+ },
+ {
+  "id": "339350244049",
+  "properties": {
+   "createdate": "2026-07-30T08:54:24.427Z",
+   "dealname": "FifthTry",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T09:10:32.710Z",
+   "hs_object_id": "339350244049",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/amitu",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T08:54:24.427Z",
+  "updatedAt": "2026-07-30T09:10:32.710Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339350244049"
+ },
+ {
+  "id": "339202217695",
+  "properties": {
+   "createdate": "2026-07-30T08:54:31.327Z",
+   "dealname": "Theremin",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T09:11:46.639Z",
+   "hs_object_id": "339202217695",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/partha-sarathi-pahari-cfa-89023067",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T08:54:31.327Z",
+  "updatedAt": "2026-07-30T09:11:46.639Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339202217695"
+ },
+ {
+  "id": "339202217696",
+  "properties": {
+   "createdate": "2026-07-30T08:54:51.574Z",
+   "dealname": "Stupa Sports Analytics",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T09:10:58.605Z",
+   "hs_object_id": "339202217696",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/megha-gambhir-5406aa31",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T08:54:51.574Z",
+  "updatedAt": "2026-07-30T09:10:58.605Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339202217696"
+ },
+ {
+  "id": "339343161077",
+  "properties": {
+   "createdate": "2026-07-30T08:55:00.868Z",
+   "dealname": "Saarthi Pedagogy",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T08:56:09.614Z",
+   "hs_object_id": "339343161077",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T08:55:00.868Z",
+  "updatedAt": "2026-07-30T08:56:09.614Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339343161077"
+ },
+ {
+  "id": "339341460203",
+  "properties": {
+   "createdate": "2026-07-30T08:55:07.966Z",
+   "dealname": "Cosmofeed",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-07-30T09:11:15.204Z",
+   "hs_object_id": "339341460203",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/vivek-yadav95",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T08:55:07.966Z",
+  "updatedAt": "2026-07-30T09:11:15.204Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339341460203"
+ },
+ {
+  "id": "339318269638",
+  "properties": {
+   "createdate": "2026-07-30T10:21:48.622Z",
+   "dealname": "Biconomy",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-08-03T05:04:25.188Z",
+   "hs_object_id": "339318269638",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/sachintomar2271",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T10:21:48.622Z",
+  "updatedAt": "2026-08-03T05:04:25.188Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339318269638"
+ },
+ {
+  "id": "339253024500",
+  "properties": {
+   "createdate": "2026-07-30T10:21:55.450Z",
+   "dealname": "Knowl",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-08-03T05:04:26.020Z",
+   "hs_object_id": "339253024500",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/anuj-a-9367987",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T10:21:55.450Z",
+  "updatedAt": "2026-08-03T05:04:26.020Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339253024500"
+ },
+ {
+  "id": "339274929901",
+  "properties": {
+   "createdate": "2026-07-30T10:22:05.808Z",
+   "dealname": "RefreshMint",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-08-03T05:04:27.060Z",
+   "hs_object_id": "339274929901",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/bimal-kumaar-4011",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T10:22:05.808Z",
+  "updatedAt": "2026-08-03T05:04:27.060Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339274929901"
+ },
+ {
+  "id": "339253034729",
+  "properties": {
+   "createdate": "2026-07-30T10:47:25.951Z",
+   "dealname": "ProfitWheel",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-08-03T05:04:27.572Z",
+   "hs_object_id": "339253034729",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://www.linkedin.com/in/gautamm/",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T10:47:25.951Z",
+  "updatedAt": "2026-08-03T05:04:27.572Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339253034729"
+ },
+ {
+  "id": "339318274778",
+  "properties": {
+   "createdate": "2026-07-30T10:47:32.731Z",
+   "dealname": "Alphaa AI",
+   "dealstage": "4036687547",
+   "hs_lastmodifieddate": "2026-08-03T05:04:28.431Z",
+   "hs_object_id": "339318274778",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/prekshak",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T10:47:32.731Z",
+  "updatedAt": "2026-08-03T05:04:28.431Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339318274778"
+ },
+ {
+  "id": "339253034732",
+  "properties": {
+   "createdate": "2026-07-30T10:47:46.711Z",
+   "dealname": "Doosra",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-08-03T05:04:29.910Z",
+   "hs_object_id": "339253034732",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T10:47:46.711Z",
+  "updatedAt": "2026-08-03T05:04:29.910Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339253034732"
+ },
+ {
+  "id": "339322060493",
+  "properties": {
+   "createdate": "2026-07-30T10:47:53.497Z",
+   "dealname": "Zoko",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-08-03T05:04:30.751Z",
+   "hs_object_id": "339322060493",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "http://linkedin.com/in/aromal-sivadasan-b70676b",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T10:47:53.497Z",
+  "updatedAt": "2026-08-03T05:04:30.751Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339322060493"
+ },
+ {
+  "id": "339310200560",
+  "properties": {
+   "createdate": "2026-07-30T10:47:59.833Z",
+   "dealname": "Kaagaz",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-08-03T05:04:31.324Z",
+   "hs_object_id": "339310200560",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": null,
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T10:47:59.833Z",
+  "updatedAt": "2026-08-03T05:04:31.324Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339310200560"
+ },
+ {
+  "id": "339322060498",
+  "properties": {
+   "createdate": "2026-07-30T10:48:06.976Z",
+   "dealname": "DigiBoxx",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-08-05T07:08:22.415Z",
+   "hs_object_id": "339322060498",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/aurnobmitro",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T10:48:06.976Z",
+  "updatedAt": "2026-08-05T07:08:22.415Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339322060498"
+ },
+ {
+  "id": "339265987319",
+  "properties": {
+   "createdate": "2026-07-30T10:48:14.519Z",
+   "dealname": "FreeStand",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-08-05T07:06:07.055Z",
+   "hs_object_id": "339265987319",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/konarksharma",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T10:48:14.519Z",
+  "updatedAt": "2026-08-05T07:06:07.055Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339265987319"
+ },
+ {
+  "id": "339289001706",
+  "properties": {
+   "createdate": "2026-07-30T10:48:21.822Z",
+   "dealname": "WonDRx",
+   "dealstage": "4036687547",
+   "hs_lastmodifieddate": "2026-08-03T05:04:33.522Z",
+   "hs_object_id": "339289001706",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/pankajsindhu",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T10:48:21.822Z",
+  "updatedAt": "2026-08-03T05:04:33.522Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339289001706"
+ },
+ {
+  "id": "339227396796",
+  "properties": {
+   "createdate": "2026-07-30T10:48:28.323Z",
+   "dealname": "Truein",
+   "dealstage": "3992480462",
+   "hs_lastmodifieddate": "2026-08-03T05:04:34.795Z",
+   "hs_object_id": "339227396796",
+   "hubspot_owner_id": "166262056",
+   "lead_source": null,
+   "linkedin_url": "https://linkedin.com/in/ankittanna/#",
+   "pipeline": "default"
+  },
+  "createdAt": "2026-07-30T10:48:28.323Z",
+  "updatedAt": "2026-08-03T05:04:34.795Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339227396796"
+ },
+ {
+  "id": "339202252503",
+  "properties": {
+   "createdate": "2026-07-30T11:20:30.173Z",
+   "dealname": "Schneider Electric",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T11:03:37.352Z",
+   "hs_object_id": "339202252503",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "Outflo Outreach - Indonesia",
+   "linkedin_url": "https://www.linkedin.com/in/aston",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-30T11:20:30.173Z",
+  "updatedAt": "2026-08-04T11:03:37.352Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339202252503"
+ },
+ {
+  "id": "339370180313",
+  "properties": {
+   "createdate": "2026-07-30T11:20:35.869Z",
+   "dealname": "Marimo Global Technology Indonesia",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T11:03:37.352Z",
+   "hs_object_id": "339370180313",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "Outflo Outreach - Indonesia",
+   "linkedin_url": "https://www.linkedin.com/in/sansan-fajrian",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-30T11:20:35.869Z",
+  "updatedAt": "2026-08-04T11:03:37.352Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339370180313"
+ },
+ {
+  "id": "339341496036",
+  "properties": {
+   "createdate": "2026-07-30T11:20:41.770Z",
+   "dealname": "DoZe Ninja",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T11:03:37.352Z",
+   "hs_object_id": "339341496036",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "Outflo Outreach - Indonesia",
+   "linkedin_url": "https://www.linkedin.com/in/davidsusanto",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-30T11:20:41.770Z",
+  "updatedAt": "2026-08-04T11:03:37.352Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339341496036"
+ },
+ {
+  "id": "339352223471",
+  "properties": {
+   "createdate": "2026-07-30T11:26:29.053Z",
+   "dealname": "Jome Journey",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T11:03:37.352Z",
+   "hs_object_id": "339352223471",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "Outflo Outreach - Indonesia",
+   "linkedin_url": "https://www.linkedin.com/in/naufalfalah-a",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-30T11:26:29.053Z",
+  "updatedAt": "2026-08-04T11:03:37.352Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339352223471"
+ },
+ {
+  "id": "339202253527",
+  "properties": {
+   "createdate": "2026-07-30T11:26:34.274Z",
+   "dealname": "Stealth Startup",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T11:03:37.352Z",
+   "hs_object_id": "339202253527",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "Outflo Outreach - Indonesia",
+   "linkedin_url": "https://www.linkedin.com/in/krisnasw",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-30T11:26:34.274Z",
+  "updatedAt": "2026-08-04T11:03:37.352Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339202253527"
+ },
+ {
+  "id": "339258886883",
+  "properties": {
+   "createdate": "2026-07-30T11:26:39.831Z",
+   "dealname": "Markono Group Pte Ltd",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T11:03:37.352Z",
+   "hs_object_id": "339258886883",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "Outflo Outreach - Indonesia",
+   "linkedin_url": "https://www.linkedin.com/in/m-wahyu-indriyanto",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-30T11:26:39.831Z",
+  "updatedAt": "2026-08-04T11:03:37.352Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339258886883"
+ },
+ {
+  "id": "339341498063",
+  "properties": {
+   "createdate": "2026-07-30T11:26:45.143Z",
+   "dealname": "GE HealthCare",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T11:03:37.352Z",
+   "hs_object_id": "339341498063",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "Outflo Outreach - Indonesia",
+   "linkedin_url": "https://www.linkedin.com/in/agungjies",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-30T11:26:45.143Z",
+  "updatedAt": "2026-08-04T11:03:37.352Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339341498063"
+ },
+ {
+  "id": "339281951455",
+  "properties": {
+   "createdate": "2026-07-30T11:26:50.725Z",
+   "dealname": "Software Engineer",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T11:03:37.352Z",
+   "hs_object_id": "339281951455",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "Outflo Outreach - Indonesia",
+   "linkedin_url": "https://www.linkedin.com/in/kopianan",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-30T11:26:50.725Z",
+  "updatedAt": "2026-08-04T11:03:37.352Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339281951455"
+ },
+ {
+  "id": "339370184408",
+  "properties": {
+   "createdate": "2026-07-30T11:26:55.925Z",
+   "dealname": "Allo Bank",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T11:03:37.352Z",
+   "hs_object_id": "339370184408",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "Outflo Outreach - Indonesia",
+   "linkedin_url": "https://www.linkedin.com/in/syafiqmuhammad",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-30T11:26:55.925Z",
+  "updatedAt": "2026-08-04T11:03:37.352Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339370184408"
+ },
+ {
+  "id": "339221959417",
+  "properties": {
+   "createdate": "2026-07-30T11:27:01.027Z",
+   "dealname": "Handal Informasi Teknologi",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T11:03:37.352Z",
+   "hs_object_id": "339221959417",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "Outflo Outreach - Indonesia",
+   "linkedin_url": "https://www.linkedin.com/in/medinanzahra",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-30T11:27:01.027Z",
+  "updatedAt": "2026-08-04T11:03:37.352Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339221959417"
+ },
+ {
+  "id": "339318285006",
+  "properties": {
+   "createdate": "2026-07-30T11:27:06.336Z",
+   "dealname": "Anantarupa Studios",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T11:03:37.352Z",
+   "hs_object_id": "339318285006",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "Outflo Outreach - Indonesia",
+   "linkedin_url": "https://www.linkedin.com/in/yusdisaliman",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-30T11:27:06.336Z",
+  "updatedAt": "2026-08-04T11:03:37.352Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339318285006"
+ },
+ {
+  "id": "339380024040",
+  "properties": {
+   "createdate": "2026-07-30T11:27:12.343Z",
+   "dealname": "PT. Adisena Mitra Usaha (Beyondtech)",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T11:03:37.352Z",
+   "hs_object_id": "339380024040",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "Outflo Outreach - Indonesia",
+   "linkedin_url": "https://www.linkedin.com/in/mardeni-mihardi-466070113",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-30T11:27:12.343Z",
+  "updatedAt": "2026-08-04T11:03:37.352Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339380024040"
+ },
+ {
+  "id": "339191478007",
+  "properties": {
+   "createdate": "2026-07-30T11:27:17.519Z",
+   "dealname": "Insignia.co.id",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T11:03:37.352Z",
+   "hs_object_id": "339191478007",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "Outflo Outreach - Indonesia",
+   "linkedin_url": "https://www.linkedin.com/in/fahlevialir",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-07-30T11:27:17.519Z",
+  "updatedAt": "2026-08-04T11:03:37.352Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/339191478007"
+ },
+ {
+  "id": "340286684920",
+  "properties": {
+   "createdate": "2026-08-04T05:23:44.698Z",
+   "dealname": "Testaing",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-04T05:39:55.708Z",
+   "hs_object_id": "340286684920",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Lead-Gen Form - ITservices_targeted_message",
+   "linkedin_url": "https://www.linkedin.com/in/spadmanabhuni",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-08-04T05:23:44.698Z",
+  "updatedAt": "2026-08-04T05:39:55.708Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/340286684920"
+ },
+ {
+  "id": "340233491158",
+  "properties": {
+   "createdate": "2026-08-04T06:36:34.945Z",
+   "dealname": "MIB Tech Solutions",
+   "dealstage": "4018854644",
+   "hs_lastmodifieddate": "2026-08-04T07:18:35.696Z",
+   "hs_object_id": "340233491158",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Lead-Gen Form - ITservices_targeted_message",
+   "linkedin_url": "https://www.linkedin.com/in/mustafa-imran-imran-m-i-b-560a9a359",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-08-04T06:36:34.945Z",
+  "updatedAt": "2026-08-04T07:18:35.696Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/340233491158"
+ },
+ {
+  "id": "340271261409",
+  "properties": {
+   "createdate": "2026-08-04T10:05:39.709Z",
+   "dealname": "Gitesh Kund",
+   "dealstage": "4018854644",
+   "hs_lastmodifieddate": "2026-08-04T11:07:35.067Z",
+   "hs_object_id": "340271261409",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Lead-Gen Form - ITservices_targeted_message",
+   "linkedin_url": "https://www.linkedin.com/in/gitesh-kund-4608bb359",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-08-04T10:05:39.709Z",
+  "updatedAt": "2026-08-04T11:07:35.067Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/340271261409"
+ },
+ {
+  "id": "340283150066",
+  "properties": {
+   "createdate": "2026-08-04T10:05:48.173Z",
+   "dealname": "Compose",
+   "dealstage": "4018854635",
+   "hs_lastmodifieddate": "2026-08-05T05:58:49.471Z",
+   "hs_object_id": "340283150066",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Lead-Gen Form - ITservices_targeted_message",
+   "linkedin_url": "https://www.linkedin.com/in/sheetal-chauhan-932a8644",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-08-04T10:05:48.173Z",
+  "updatedAt": "2026-08-05T05:58:49.471Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/340283150066"
+ },
+ {
+  "id": "340303341295",
+  "properties": {
+   "createdate": "2026-08-05T05:46:11.413Z",
+   "dealname": "C4Scale",
+   "dealstage": "4002503379",
+   "hs_lastmodifieddate": "2026-08-05T06:02:41.807Z",
+   "hs_object_id": "340303341295",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Lead-Gen Form - Jul 31 2026",
+   "linkedin_url": "https://www.linkedin.com/in/chakravarthyvp",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-08-05T05:46:11.413Z",
+  "updatedAt": "2026-08-05T06:02:41.807Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/340303341295"
+ },
+ {
+  "id": "340273536751",
+  "properties": {
+   "createdate": "2026-08-05T05:46:19.061Z",
+   "dealname": "Justifi.World",
+   "dealstage": "4018854632",
+   "hs_lastmodifieddate": "2026-08-05T07:42:59.083Z",
+   "hs_object_id": "340273536751",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Lead-Gen Form - Jul 31 2026",
+   "linkedin_url": "https://www.linkedin.com/in/sandipan-basu-b67323335",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-08-05T05:46:19.061Z",
+  "updatedAt": "2026-08-05T07:42:59.083Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/340273536751"
+ },
+ {
+  "id": "340397948623",
+  "properties": {
+   "createdate": "2026-08-05T05:46:27.112Z",
+   "dealname": "Luqa Technologies",
+   "dealstage": "4018854633",
+   "hs_lastmodifieddate": "2026-08-05T07:32:03.391Z",
+   "hs_object_id": "340397948623",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Lead-Gen Form - Jul 31 2026",
+   "linkedin_url": "https://www.linkedin.com/in/akhthar",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-08-05T05:46:27.112Z",
+  "updatedAt": "2026-08-05T07:32:03.391Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/340397948623"
+ },
+ {
+  "id": "340399708890",
+  "properties": {
+   "createdate": "2026-08-05T05:46:34.628Z",
+   "dealname": "Brandsmashers Tech",
+   "dealstage": "4018854634",
+   "hs_lastmodifieddate": "2026-08-05T07:23:45.777Z",
+   "hs_object_id": "340399708890",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Lead-Gen Form - Jul 31 2026",
+   "linkedin_url": "https://www.linkedin.com/in/aayush-jain-code",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-08-05T05:46:34.628Z",
+  "updatedAt": "2026-08-05T07:23:45.777Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/340399708890"
+ },
+ {
+  "id": "340273537753",
+  "properties": {
+   "createdate": "2026-08-05T05:46:41.955Z",
+   "dealname": "Cognizant",
+   "dealstage": "4018854635",
+   "hs_lastmodifieddate": "2026-08-05T07:32:36.199Z",
+   "hs_object_id": "340273537753",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Lead-Gen Form - Jul 31 2026",
+   "linkedin_url": "https://www.linkedin.com/in/rishabh-srivastav-1266521aa",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-08-05T05:46:41.955Z",
+  "updatedAt": "2026-08-05T07:32:36.199Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/340273537753"
+ },
+ {
+  "id": "340394448605",
+  "properties": {
+   "createdate": "2026-08-05T05:47:27.028Z",
+   "dealname": "Vincent Karthikeyan",
+   "dealstage": "4002503384",
+   "hs_lastmodifieddate": "2026-08-05T06:51:53.069Z",
+   "hs_object_id": "340394448605",
+   "hubspot_owner_id": "166262056",
+   "lead_source": "LinkedIn Lead-Gen Form - ITservices_targeted_message",
+   "linkedin_url": "https://www.linkedin.com/in/vincent-karthikeyan-81429a249",
+   "pipeline": "2425754306"
+  },
+  "createdAt": "2026-08-05T05:47:27.028Z",
+  "updatedAt": "2026-08-05T06:51:53.069Z",
+  "archived": false,
+  "url": "https://app-na2.hubspot.com/contacts/246754894/record/0-3/340394448605"
+ }
+]

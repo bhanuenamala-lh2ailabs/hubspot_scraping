@@ -1,0 +1,921 @@
+[
+ {
+  "name": "Nuvepro Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "nuvepro.com",
+  "website": "https://nuvepro.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 19879,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "The Role Behind AI’s Hottest Hiring Trend, and How to Build One Read More Blog , Task By Anisha K Sreenivasan June 19, 2026 Most AI Bootcamps Fail.",
+    "Task Intelligence Will Redefine Them Read More Blog , Task By Anisha K Sreenivasan June 16, 2026 What Is an AI Bootcamp and Why Are Enterprises Investing in Them?"
+   ],
+   "cicd": [
+    "The skilling tracks encompassed Java, Big Data, Golang, Full Stack, Datapipeline, and more."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Oberoi Contact Centre (A Div. of EIH Ltd)",
+  "city": "New Delhi",
+  "domain": "oberoihotels.com",
+  "website": "https://www.oberoihotels.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 7931,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2
+  },
+  "site_quotes": {
+   "cicd": [
+    "Mandarin Oriental has a strong pipeline of hotels and residences under development and is a member of the Jardine Matheson Group.",
+    "Initiative, resourcefulness and hard work, combined with the capability to face and overcome the most overwhelming odds can best characterise this phenomenal entrepreneur."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Oceaneering International Services Limited",
+  "city": "Pune",
+  "domain": "oceaneering.com",
+  "website": "https://www.oceaneering.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 15,
+   "external_job_boards": [],
+   "jd_chars": 121462,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2,
+   "DQ_support": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Learn More Tennis-Ball Sized Technology Overcomes Common Pigging Issues To Improve Pipeline Inspection Tennis-Ball Sized Technology Overcomes Common Pigging Issues To Improve Pipeline Inspection Faced with mounting challenges and an inspection backlog in their pipeline inspection program, a client needed a...",
+    "Learn More Onshore Pipelines Leverage a proactive, data-driven approach to prevent failures, optimize maintenance, and ensure safe, compliant operations."
+   ],
+   "DQ_support": [
+    "Subsea Hardware Subsea Hardware Unmatched subsea connection reliability and customization.",
+    "Additionally, we are a leader in offshore oilfield maintenance services, umbilicals, subsea hardware, and tooling."
+   ],
+   "owns_product": [
+    "Our products are backed by unparalleled quality, reliability, and global support."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "OCM India GCC Private Limited",
+  "city": "Hyderabad",
+  "domain": "oaktreecapital.com",
+  "website": "https://www.oaktreecapital.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "allure of debt strategies in today’s climate has outweighed portfolio pressures. www.perenews.com Important Notice You are leaving the Oaktree website"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 10237,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Octave Capability Center India Private Limited",
+  "city": "Hyderabad",
+  "domain": "octave.com",
+  "website": "https://www.octave.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 10337,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 2,
+   "sdlc": 1,
+   "enterprise": 1,
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "David Widegren - Head of Engineering Information Management // CERN The more difficult problems we try to solve, the more obvious it becomes that we can’t solve them ourselves.",
+    "David Widegren - Head of Engineering Information Management // CERN Case Studies An operations and asset management partner that doesn’t miss a beat EDF U.S."
+   ],
+   "sdlc": [
+    "It's also trust - in our process, in ourselves and in each other."
+   ],
+   "enterprise": [
+    "We specialize in a wide variety of industries, including: Chemicals & Petrochemicals Defence Education Electronics Engineering services Food, Beverage & Retail Government & Public Sector Healthcare Manufacturing Metals & Mining Oil & Gas Power & Utilities Transportation Public Safety Security Who leads Octave?"
+   ],
+   "DQ_support": [
+    "Previously SVP of Global HR at Hexagon, she brings 25+ years of HR leadership across global software, services and hardware companies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Odyssey Technologies Ltd",
+  "city": "Chennai",
+  "domain": "odysseytec.com",
+  "website": "https://www.odysseytec.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "e downloaded from Here for Windows, Mac and Ubuntu systems. Android users can get it from the play store. Scan the code on the side to download the xo"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Olive Technology Limited",
+  "city": "Hyderabad",
+  "domain": "olivetech.com",
+  "website": "https://olivetech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "live Services About Contact Toggle menu Search for: Quality software solutions to meet your growing needs. Expand the sphere of possible Discover Futu"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 15334,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Learn More HealthCare When it comes to the extent to which the healthcare industry can benefit from effective digital transformation, the possibilities are endless.",
+    "Read Full Story > Digital Solutions and Analytics Digital Transformation in Financial Services Industry CIO July 19, 2022 Digital transformation in the banking and finance sectors has been accelerated by the onset of the COVID-19..."
+   ],
+   "sdlc": [
+    "Olive Technology’s business process consulting services are based on agile thinking and approaches."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "One Oath Educational Research and Technologies Private Limited",
+  "city": "Kolkata",
+  "domain": "assessli.com",
+  "website": "https://www.assessli.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We also collect technical info like your IP address and browser type to help improve our platform.",
+    "Cancellation and Refund Policy We want you to have a great experience with our platform."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "OneGlobe Systems LLP",
+  "city": "Chennai",
+  "domain": "oneglobesystems.com",
+  "website": "https://www.oneglobesystems.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "c Process Automation App Development And Integration Mobile Application Development Web Application Development Integration BlockChain Corporate Perfo"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 9857,
+   "signals": {
+    "testing": 1
+   },
+   "quotes": {
+    "testing": [
+     "Hands on experience in Unit Testing and UAT of issues and collaborate with the business users to obtain sign-off."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1,
+   "sdlc": 2,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "qa": [
+    "Hands on experience in Unit Testing and UAT of issues and collaborate with the business users to obtain sign-off."
+   ],
+   "sdlc": [
+    "December 10 2024 --> Oracle GRC End-of-Life Transition Oracle GRC Product Support Ends 5/31/2025 February 29 2024 --> Disciplined Agile Delivery Disciplined Agile Delivery (DAD) is the latest buzz word in the Software Development world.",
+    "• Agile Approach: We follow agile development methodologies to deliver projects on time and within budget, ensuring flexibility, adaptability, and customer satisfaction."
+   ],
+   "owns_product": [
+    "OneGlobe needs the contact information you provide to us to contact you about our products and services."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Onward Technologies Ltd",
+  "city": "Mumbai",
+  "domain": "onwardgroup.com",
+  "website": "https://www.onwardgroup.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 16508,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6,
+   "prod_eng": 12,
+   "sdlc": 6,
+   "owns_product": 6,
+   "DQ_support": 6
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Learn More --> Healthcare & MedTech Healthcare & MedTech Explore how you can revolutionize your MedTech experiences with design-led product and software engineering from seasoned experts."
+   ],
+   "prod_eng": [
+    "Digital Services Digital Services Harness agile software product engineering to accelerate speed to market and enhance cost efficiencies.",
+    "Learn More --> Mechanical Product Engineering Mechanical Product Engineering Secure your competitive edge by developing smarter products with performative precision and reliability."
+   ],
+   "sdlc": [
+    "Digital Services Digital Services Harness agile software product engineering to accelerate speed to market and enhance cost efficiencies."
+   ],
+   "owns_product": [
+    "Learn More --> Embedded Product & Systems Engineering Embedded Product & Systems Engineering Leverage our expertise in embedded platforms and systems engineering to fast-track your product deployment."
+   ],
+   "DQ_support": [
+    "Apart from having 13 offices in 6 countries worldwide, our capability centres in India house embedded labs dedicated to clients where software & hardware trials are consistently conducted to yield desired results."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "OpexWorks Solutions Private Limited",
+  "city": "Pune",
+  "domain": "opexworks.com",
+  "website": "https://www.opexworks.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Explore T1 Suite Risk & Compliance Stop Worrying Digitize Audits for enhanced efficiency Transform your Product,Process, and System Audits, along with EHS,Safety, and ESG audits for suppliers into a digital format."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Opiant Technologies Private Limited",
+  "city": "New Delhi",
+  "domain": "opiant.in",
+  "website": "https://opiant.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ions Leadership CSR Bouquet of Services Digital Engineering Web Development Mobility Experience Design UI/UX Design Conceptualization UX Strategy Cons"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 13437,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 18,
+   "qa": 1,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Healthcare Improving patient care digitally.",
+    "Banking Finance Secure digital banking solutions.",
+    "Learn More → Healthcare Digital solutions improving patient care, data management, and healthcare services.",
+    "Learn More → Banking Finance Empowering banks with secure, scalable, and innovative digital solutions."
+   ],
+   "qa": [
+    "Know More Build your team Scale your success We help organizations extend their engineering capabilities by providing experienced Software Developers, QA Engineers, UX Designers, Data Scientists, and Project Managers who integrate seamlessly into your existing teams."
+   ],
+   "sdlc": [
+    "Aligned to Your Way of Work Talent that seamlessly integrates with your processes, tools, and business objectives.",
+    "Introduction Modern inventory operations require real-time visibility, accurate tracking, efficient workflows, and agile decision-making to meet growing business and customer demands."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Oremus Corporate Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "oremuscorp.com",
+  "website": "https://www.oremuscorp.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "rovided accounting and bookkeeping services not only to our portfolio companies but also to our investment advisory firm. Their work is thorough and a"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "People A workforce of young, dynamic, and agile individuals."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "OroSoft Solutions Private Limited",
+  "city": "Mumbai",
+  "domain": "orosoft.com",
+  "website": "https://www.orosoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 171,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 11887,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 8,
+   "DQ_support": 1,
+   "sdlc": 2,
+   "enterprise": 3
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our platforms help bullion enterprises modernize trading, refining, finance, and compliance with greater efficiency and control.",
+    "Explore What We Do Talk to Us Neo Product Suite - Smarter Solutions for the Bullion Business Neo Suite is built for the day-to-day realities of bullion operations, bringing together financial workflows, refining, and trading in one intelligent system.",
+    "Explore Neo Product Suite Talk to Us Ready to Transform Your Precious Metals Business?",
+    "For over two decades, the Neo Product Suite, our industry-focused ERP and trading platform, has been streamlining trading, refining, finance, and compliance for precious metals businesses worldwide."
+   ],
+   "DQ_support": [
+    "It supports daily operations effectively, and with further enhancements, it can provide an even better user experience."
+   ],
+   "sdlc": [
+    "See Open Positions Explore What We Do The Values That Shape Who We Are and How We Work Purpose, trust, and innovation guide everything we do at OroSoft.",
+    "Our values shape how we work, how we collaborate, and how we continuously learn and grow, creating technology that delivers real value for our clients, our teams, and the industry we serve."
+   ],
+   "enterprise": [
+    "Healthcare Benefits Your well-being comes first.",
+    "We offer healthcare benefits that support you and your family, so you can stay healthy and focused.",
+    "Our Mission Our mission is to be the technology backbone of the bullion and refinery ecosystem, enabling our clients to drive operational excellence and maintain compliance in a highly regulated environment."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Osmosys Software Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "osmosys.co",
+  "website": "https://osmosys.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "alent365 PineStem IncidentReporter365 VetsOnCloud Resources Case Studies Blog About Contact Select Page Design Led • Client-Centric • Results Focused"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Team Osmosys always did the right thing for our product and been there for all our needs.",
+    "Srinivas is also the innovator behind most of our products and enjoys building new solutions to the betterment of various services."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "OutSystems India Private Limited",
+  "city": "Bengaluru",
+  "domain": "outsystems.com",
+  "website": "https://www.outsystems.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-11-28",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 26547,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 8,
+   "sdlc": 6,
+   "DQ_template": 5,
+   "owns_product": 2,
+   "DQ_bpo": 1,
+   "qa": 1,
+   "pr_practice": 1,
+   "DQ_agency": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Watch how Bosch delivered AIoT Zurich doubles monthly policy sales Zurich Insurance launches a new digital distribution framework Zurich’s OutSystems-driven digital transformation gave them the competitive edge they needed—and doubled their monthly policy sales.",
+    "(NYSE: GS) is a leading global investment banking, securities, and investment management firm that provides a wide range of financial services to a substantial and diversified client base that includes corporations, financial institutions, governments, and individuals.",
+    "Guidepost Growth Equity is a leading growth equity firm that partners with technology companies offering innovative solutions in large, dynamic markets including business services, software, healthcare IT, communications, and infrastructure.",
+    "In 12 weeks, this insurance leader launched an API-first, digital FNOL claims experience that decreased claimants' level of effort and increased process efficiency."
+   ],
+   "sdlc": [
+    "With the help of visual development, pre-built reusable building blocks, and AI assistance throughout the SDLC, OutSystems makes it possible to build, manage, and scale mission-critical solutions 10x faster than standard code—without compromising on security, governance, or performance.",
+    "With an AI-driven development experience and a unique agentic AI architecture, Mentor streamlines the entire SDLC, helping you build faster and smarter.",
+    "Report Gartner: How to Maximize the Impact of Agentic AI in the SDLC How to remove bottlenecks and streamline workflows with automation.",
+    "Mentor is the first agentic development experience built for the enterprise, providing conversational AI that powers the entire software development lifecycle (SDLC)."
+   ],
+   "DQ_template": [
+    "Low-code Platform Platform Overview Pricing Evaluation Guide Low-Code Basics Application Templates Start Free Why OutSystems Customer Stories Analyst Reviews Events Services Partners FAQs Careers & Culture Mendix vs.",
+    "See all available positions Site Map Menu Low-code Platform Low-code Platform Go back Platform Overview Pricing Evaluation Guide Low-Code Basics Application Templates Start Free Why OutSystems Why OutSystems Go back Customer Stories Analyst Reviews Events Services Partners FAQs Careers & Culture Mendix vs.",
+    "Being able to upload a document and have a ready-made application—including UI, logic, and data models—in just a few minutes is fantastic.",
+    "Try Now for Free Schedule a Demo Site Map Menu Low-code Platform Low-code Platform Go back Platform Overview Pricing Evaluation Guide Low-Code Basics Application Templates Start Free Why OutSystems Why OutSystems Go back Customer Stories Analyst Reviews Events Services Partners FAQs Careers & Culture Mendix vs."
+   ],
+   "owns_product": [
+    "Our product management team is full of experts who know the industry inside and out so they can make sure our platform is everything our customers need.",
+    "You will learn the insides and outs of our platform and fast track your career in this amazing company."
+   ],
+   "DQ_bpo": [
+    "They built NATIS web-application that better integrated systems, eliminating duplicate data entry."
+   ],
+   "qa": [
+    "Download Forge Component Learn more about Box Keysight Technologies Keysight Technologies × Eggplant, now a part of Keysight Technologies, is an industry leading software test automation platform provider using artificial intelligence (AI) and analytics to automate test creation and test execution."
+   ],
+   "pr_practice": [
+    "The Fit Test platform allows users to perform what can be best described as an ‘automated peer review’, analyzing your entire OutSystems model instead of generated code."
+   ],
+   "DQ_agency": [
+    "Embedding Vonage cloud communications APIs into your workflows gives you full control of the user experience and branding."
+   ],
+   "DQ_support": [
+    "Its products include mobile computers and tablets, software, thermal barcode label and receipt printers, RFID smart label printers/encoders/fixed & handheld readers/antennas, autonomous mobile robots (AMR’s) & machine vision (MV), and fixed industrial scanning hardware & software."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Pairee Infotech Private Limited",
+  "city": "Bengaluru",
+  "domain": "pairee.com",
+  "website": "https://pairee.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 9,
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2002-07-25",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 9097,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "owns_product": 1,
+   "cicd": 2,
+   "qa": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Whether you’re scaling operations or adapting to market shifts, our agile digital frameworks ensure seamless expansion and sustained success."
+   ],
+   "owns_product": [
+    "Our custom software development integrates machine learning, intelligent automation, and predictive logic to solve complex problems, automate workflows, and make your platforms more responsive to user needs and market conditions."
+   ],
+   "cicd": [
+    "We embed AI into your CI/CD pipelines for predictive builds, automated testing, and real-time monitoring—ensuring faster releases with higher stability.",
+    "Services Include: Predictive CI/CD Pipelines Real-Time Health Monitoring and Auto-Healing AI-Powered Deployment Optimization Smart Log Analysis for Incident Prevention DevSecOps with AI-Based Anomaly Detection Why Choose Pairee?"
+   ],
+   "qa": [
+    "We embed AI into your CI/CD pipelines for predictive builds, automated testing, and real-time monitoring—ensuring faster releases with higher stability."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "ParaBlu Systems Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "parablu.com",
+  "website": "https://www.crashplan.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 160,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "are Defense Insider Threats Resources Downloads Data Sheets Case Studies White Papers eBooks Blogs Media Webinars Pricing Request Demo Select Page Coh"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [
+    "https://boards.greenhouse.io"
+   ],
+   "jd_chars": 18508,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "sdlc": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Learn More Safeguard Your Data and Operations Our platform is more than just backup and recovery; it’s a foundation for your integrated strategy to maintain data security, availability, and compliance in the face of unforeseen business interruptions.",
+    "This comes through in our product development, customer satisfaction, and team member interactions."
+   ],
+   "sdlc": [
+    "We empower each other to take ownership, challenge assumptions, and stay agile in a fast-moving world."
+   ],
+   "DQ_support": [
+    "Recover Quickly CrashPlan helps you recover quickly from data loss incidents such as hardware failure or malware without extended downtime or paying a ransom."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "ParamNetwork India Private Limited",
+  "city": "Bengaluru",
+  "domain": "param.network",
+  "website": "https://www.param.network/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "l, add contacts and share invoices instantly. It is a light-node software, where businesses can share quotations, purchase orders, invoices and confir"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Agile Solutions Logistics Smart Tracking",
+    "This agile low-code platform is engineered for seamless customisation and integration, enabling you to swiftly design and implement efficient workflows."
+   ],
+   "owns_product": [
+    "Our platform is fortified by industry-leading certifications.",
+    "Your journey starts here As your customers change how they want to access your products and services, you have to evolve how you do business."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Patanjali Associates and Kanti Mohan Rustagi-IRP",
+  "city": "New Delhi",
+  "domain": "patanjaliassociates.com",
+  "website": "https://www.patanjaliassociates.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2005-07-14",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 8186,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

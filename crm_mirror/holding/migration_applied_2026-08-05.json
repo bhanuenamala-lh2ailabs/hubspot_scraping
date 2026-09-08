@@ -1,0 +1,1472 @@
+[
+ {
+  "deal_id": "335922425584",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954041591",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954041592",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042559",
+  "from": "Call Attempted",
+  "to": "Dead/ColdCall/WrongNumber",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042569",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042571",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042573",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042579",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042581",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042597",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954043579",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954043581",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954043586",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954043590",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954043601",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954043603",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954043604",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954041587",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954041588",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954041589",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042560",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042575",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042582",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042585",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042588",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042600",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042604",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042605",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954042608",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954043578",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954043588",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954043589",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954043594",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335954043596",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "335929619181",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "336726947572",
+  "from": "Call Attempted",
+  "to": "Dead/ColdCall/WrongNumber",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337570133717",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337557537472",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337562917578",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337532053182",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337559331517",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337561116398",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337561116400",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337633848034",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337559331523",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337635638975",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337524844278",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337562919659",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337476427487",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337614161604",
+  "from": "Call Attempted",
+  "to": "Interested",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337506222779",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337524845249",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337474609895",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337508034297",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337612384967",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337561117431",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337570136779",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337478216408",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337571931896",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337481790151",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337577161436",
+  "from": "Call Attempted",
+  "to": "Dead/ColdCall/WrongNumber",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337481790176",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337592762070",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337592762075",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337825875656",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337800342231",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337804722878",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337818897103",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337843573467",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337854325475",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337808167667",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337806520017",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337778294489",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337689907917",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337739491034",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337854340853",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "337806520057",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "338964131516",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "338983744212",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339172007624",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "338917057216",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "338981936848",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339022105316",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "338917060340",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "338927909609",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "338927912691",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339011309263",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "338898555629",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339018478308",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "338884130499",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "338898557688",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "338965982939",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "338927933176",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339011322594",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339358668503",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339356862175",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339230787318",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339191216846",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339191216851",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339258674895",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339258674896",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339369928381",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339191216854",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339191216856",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339219974890",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339311934190",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339230788320",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339360446177",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339342989014",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339318055671",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339258676958",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339274908347",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339310170841",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339378384587",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339322025705",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339352183502",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339370139329",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339276634819",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339191432902",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339358812916",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339227366133",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339265953504",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339278356171",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339227366137",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339278356172",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339343159002",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339360607981",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339288971984",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339253001935",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339390786286",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339390786287",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339276635868",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340119593684",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339991739099",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340073829056",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340106497771",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339984513774",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340112021238",
+  "from": "Call Attempted",
+  "to": "Dead/ColdCall/WrongNumber",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340111983333",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340106498751",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340095068874",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340119617233",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339984514755",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340112004851",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340119594691",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340095070920",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339950954210",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340080117476",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340108473074",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340111949518",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340112022252",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340068299512",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340111942365",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340119653050",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340111986398",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340111986407",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340164702946",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340119782096",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340138510073",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340166512346",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340186312414",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340082085609",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339972543219",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340151871189",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340150056666",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340117820136",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340117820152",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340184504045",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340188269259",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339972589244",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340186376942",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340168680123",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340122885864",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340168665828",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340080250607",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340136734440",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340104715998",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340168680150",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340168680155",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340117861059",
+  "from": "Call Attempted",
+  "to": "Dead/ColdCall/WrongNumber",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340134940356",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340168595170",
+  "from": "Call Attempted",
+  "to": "Dead/ColdCall/Not Interested",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340188288751",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340168738544",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340136748767",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340188317416",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340119857913",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340080264951",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340188357340",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340168742612",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339984651976",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340095209203",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340302711490",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340250628800",
+  "from": "Call Attempted",
+  "to": "Interested",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340317897417",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340228051665",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340242491096",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340259601136",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340231703276",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340316098269",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340317898426",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340250629845",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340331855560",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340345914091",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340254278347",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340312550089",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340288400074",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340205664987",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340272953075",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340330066656",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340242492104",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340214639332",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340316101351",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340272956120",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340330071756",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340177116894",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340242496198",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340231707375",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340316102332",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "340302716619",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Scraped"
+ },
+ {
+  "deal_id": "339213523673",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339291843292",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339342448372",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339338859207",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339224810189",
+  "from": "Call Attempted",
+  "to": "Interested",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339272327885",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339226579674",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339275876028",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339226579692",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339324796623",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339230203630",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339328386799",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339261636299",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339282850544",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339224813242",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339293590220",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339190596334",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339252174529",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339352218330",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339281947366",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "339325590220",
+  "from": "Call Attempted",
+  "to": "Interested",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "340273536751",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "340357010142",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "340394456799",
+  "from": "Call Attempted",
+  "to": "No Pickup",
+  "pipeline": "Campaign"
+ },
+ {
+  "deal_id": "340343171782",
+  "from": "Call Attempted",
+  "to": "Interested",
+  "pipeline": "Campaign"
+ }
+]

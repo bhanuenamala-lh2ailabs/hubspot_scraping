@@ -1,0 +1,6 @@
+source,tier,attempted_pages,rows_parsed,with_domain,new_after_dedupe,overlap_pct,barrier,secs
+infopark,P1,27,813,723,322,8.4,,0
+itao,P2,1,13,0,13,0.0,,0
+sida,P2,1,66,59,57,12.1,,0
+rito,P2,1,0,0,0,0.0,no_public_directory,0
+stpi_national,P3,1,0,0,0,0.0,data_in_pdf_not_html,0

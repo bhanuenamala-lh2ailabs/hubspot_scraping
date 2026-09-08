@@ -1,0 +1,1043 @@
+[
+ {
+  "name": "Algo mediaSOFT SRl",
+  "domain": "algomediasoft.com",
+  "website": "https://algomediasoft.com/ro",
+  "seed_lead_score": "8",
+  "seed_reason": "Technology company (20+ years) doing software development, IoT and integrated automation systems, with its own GoManager operations-management product (web/mobi",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "�9D� �&Z\u0006G\u000e��zŞ'ø$�2�\\��6N6ܭ��j���h @�h\u001bD�Q����) ۹\u000f���y��K�\u0006PHp��߂\u0006,���\u0017�]�r'�\u000f�+�ל4�!��b����K��I��b�ɸ.�\u00061vT�&E����j�V�6��C�~ X*�ŭ����\u0007�\u0010� .�\u0000���a��C"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "qa": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Specialiști QA / Testare Calitatea soluțiilor IT și web înainte de lansare — teste de penetrare și stres cu rapoarte clare.",
+    "Folosim Blockchain, AI, Machine Learning și QA riguros pentru soluții fiabile și avansate."
+   ],
+   "DQ_support": [
+    "Expertiză Hibridă: Stăpânim atât codul (Software), cât și curentul (Hardware)."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 20
+ },
+ {
+  "name": "Eview Software",
+  "domain": "eview-software.com",
+  "website": "https://eview-software.com/",
+  "seed_lead_score": "6",
+  "seed_reason": "Software development company (12 years) serving mid/large corporations across Europe and the US, though its copy leans heavily on web design and UI work.",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; proves ownership of a name only",
+   "date": "2022-07-16",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_agency": 1,
+   "cicd": 2,
+   "sdlc": 2,
+   "compliance": 4
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Get a Quote Marketing Services & Consulting Working with a dedicated marketing consultant gives you direct access to a certified team of experts who live and breathe digital marketing all day, every day."
+   ],
+   "cicd": [
+    "Ioshua Hill Scrum Master Eview made it very easy for us to scale up our engineering team and get ahead of or development pipeline."
+   ],
+   "sdlc": [
+    "Ioshua Hill Scrum Master Eview made it very easy for us to scale up our engineering team and get ahead of or development pipeline."
+   ],
+   "compliance": [
+    "Contact READY TO DO THIS Let's get to work Get the offer Quick Links CCPA GDPR Terms and conditions Privacy Policy Say Hello office@eview-software.com florin@eview-software.com © 2022."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 20
+ },
+ {
+  "name": "Zitec",
+  "domain": "zitec.com",
+  "website": "https://zitec.com/",
+  "seed_lead_score": "9",
+  "seed_reason": "Established (2003) digital-transformation firm doing software development, DevOps & security, cloud/platform, AI engineering and data/ML.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Consultancy & Professional Services Public Sector Services Software Development Mobile Development Quality Assurance Cloud Services Microsoft Azure S"
+  },
+  "jd": {
+   "jd_chars": 24893,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "DQ_agency": 2,
+   "owns_product": 7
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Reimagining mobile banking for modern users We created Nexent Bank’s next-generation CardAvantaj mobile app to support the organization’s digital transformation ambitions, being recognized with the Public Choice Award at UX Awards Berlin 2026.",
+    "Zitec proved to be that partner.\" Antar Turgay Retail Banking Director, Nexent Bank Discover Nexent Bank’s digital journey Let’s build together Give us a few details about your project or goal."
+   ],
+   "DQ_agency": [
+    "2016 - 2017 We created more strategic partnerships We acquired Inotec , adding web design and digital marketing to our portfolio to deliver end-to-end solutions."
+   ],
+   "owns_product": [
+    "In 2018, we officially launched Mirro , our first major HR and performance management SaaS product spin-off, and acquired two more digital agencies (Bright and Symbolic).",
+    "Create AI features that set your products apart If your objectives include real-time content personalization, predictive outcome generation, harnessing using computer vision, or simulating complex scenarios with recurrent neural networks, our AI strategies will exceed your expectations.",
+    "We’ll optimize your platform through code refactoring, system updates, and dependency management to maintain a secure and smooth experience.",
+    "Our in-house designers and engineers continuously adapt your platform with new features, performance improvements, and user-driven updates."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 19
+ },
+ {
+  "name": "MCRO",
+  "domain": "mcro.tech",
+  "website": "https://mcro.tech/",
+  "seed_lead_score": "8",
+  "seed_reason": "Custom software development firm building scalable web and mobile applications with cloud infrastructure and product strategy.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 34727,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "sdlc": 3,
+   "qa": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Financial Education Ecommerce Events Open Source Healthcare Real Estate Featured articles .",
+    "First it retrieves supporting… /blog/streamlining-oncology-care-with-docviser-workflows/ AI in Healthcare AI in Healthcare Streamlining Oncology Care with Docviser Workflows July 11, 2025 Reading time: 3 Min."
+   ],
+   "sdlc": [
+    "Product Discovery Phase - Make it or break it in 3 steps Jun 30, 2020 5 min Read How to create React Native Wrappers for Native SDKs Jan 21, 2019 9 min Read How to run a successful Design Sprint Nov 14, 2018 5 min Read View All Blog Posts Got a great project idea?"
+   ],
+   "qa": [
+    "View open positions If you are a top Engineer, Manager, UX Designer or QA and you want to work with other world class engineers this place is for you."
+   ],
+   "owns_product": [
+    "You need to update your website to the latest algorithms and add content to maintain your client's interest in your products… Got an awesome project for us?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/MCROEngineering"
+  ],
+  "_prio": 19
+ },
+ {
+  "name": "QTeam Software Solutions",
+  "domain": "qteam.solutions",
+  "website": "https://qteam.solutions/",
+  "seed_lead_score": "8",
+  "seed_reason": "Custom software company doing web product engineering/re-engineering, IoT, mobile development, DevOps and software maintenance since 2016.",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; proves ownership of a name only",
+   "date": "2016-04-26",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 1604,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_agency": 2,
+   "qa": 4,
+   "owns_product": 1,
+   "enterprise": 1,
+   "DQ_support": 2,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Qteam home - Qteam Software Solutions Our Values What we do Team Careers QMagazine Let's talk × Software Craftsmanship Our purpose is to deliver complex digital solutions in web related industries like e-learning, e-commerce and social media marketing.",
+    "Instead of having to hire and lay off internal maintenance personnel (which can hurt in other ways as well, employer branding would be one such aspect), companies can simply adjust their outsourcing contract to match their current needs."
+   ],
+   "qa": [
+    "Maturity, professionalism and a strong sense of humour are the ingredients I appreciate the most in QTeam recipe.\" Matei QA \"As a Quality Assurance practitioner, I feel that the best phrase to describe QTeam is top quality: Quality time spent around quality people working on top-quality products.",
+    "Tips for success Key QA best practices for your custom software project How to help your employees learn to love AI We’re looking for awesome Mid and Senior Quality Assurance Engineers How to choose the best tech stack for your software project?",
+    "Why automated testing doesn’t replace manual testing Busting the myths.",
+    "Read the article Key QA best practices for your custom software project Those that follow our blog posts closely, know that we are big fans of bespoke software."
+   ],
+   "owns_product": [
+    "It’s only natural to look for ways to minimize resource use and get your product out there as fast as possible."
+   ],
+   "enterprise": [
+    "Whether it’s retail, food & beverage, finance, banking, transportation and many others."
+   ],
+   "DQ_support": [
+    "Internal capabilities Hardware, software, and your employees’ skills.",
+    "Also, processes that need to be developed or changed, hardware that needs to be bought, or checking to see whether the AI solution can work with all the internal tools you have."
+   ],
+   "DQ_template": [
+    "You can grow it internally, use your internal resources and outside consultants, acquire a ready-made solution, or outsource the whole process."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 19
+ },
+ {
+  "name": "Moldoweb",
+  "domain": "moldoweb.com",
+  "website": "https://moldoweb.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Software development and outsourcing company doing enterprise/custom application development, dedicated teams and staff augmentation (Angular/Node/.NET).",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "and reliable partnerships | MoldoWEB Home About Us Services Angular Development Node JS Development .NET Development Firebase Development Custom Busin"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "sdlc": 5,
+   "cicd": 1,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "This ensures our products are not only current but also equipped for the future.",
+    "Jan 19, 2026 Outsourcing 5 Mistakes to Avoid When Working with an Offshore Development Center Working with an offshore development center can give you and your company great opportunities to grow your product, and access..."
+   ],
+   "sdlc": [
+    "Mar 7, 2025 Outsourcing Why Agile Methodology is Key to Successful IT Outsourcing Projects If you’re familiar with outsourcing IT projects or have outsourced projects yourself, you know how things can change quickly during...",
+    "The team utilized the Scrum methodology throughout the duration of the project.",
+    "They conducted daily stand-ups, sprint reviews, and various more meetings.\" Paige Conlan Operations Manager, Van Ameyde McAuslands, United Kingdom \"MoldoWEB successfully delivered an app that met the client's requirements."
+   ],
+   "cicd": [
+    "MoldoWEB fills in gaps in your project pipeline by managing end-to-end product development projects."
+   ],
+   "DQ_training": [
+    "Developer Replacement If a developer isn't the right fit at any point during the project, we will provide a suitable replacement in a short period of time."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 19
+ },
+ {
+  "name": "Scriptstackers",
+  "domain": "scriptstackers.com",
+  "website": "https://scriptstackers.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Full-stack web and mobile development team (15+ years) working across Laravel/Next/React/Vue/Node/Python and AI/ML with business analysis.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "c Designer, USA Helen Kim Web Developer, USA Howard Shiflet PHP Developer, USA Subscribe our newsletter Et harum quidem rerum facilis est us et expedi"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "sdlc": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We focus on speed optimization, security best practices, and scalability, ensuring your platform performs at its best — even as your business grows.",
+    "From OAuth and JWT to 2FA and SSL encryption, we ensure that only authorized users access your platform.",
+    "Our platform is a success story thanks to their dedication and expertise.\" Team VOLUNTARIAT BRASOV Volunteer events mobile apps \" After working with an unreliable developers team, we turned to this team, and they fixed everything."
+   ],
+   "sdlc": [
+    "Using Agile and Scrum practices, we foster collaboration between designers, developers, and stakeholders, ensuring transparency and adaptability throughout the project.",
+    "Their project management skills and clear communication made working with them a pleasure.\" Team FITPLANNER Fitness industry \" Their agile development approach kept us involved throughout the process."
+   ],
+   "enterprise": [
+    "They’re not just developers—they’re problem solvers.\" Team FEEEL Medical healthcare platform 0 + Customers 10 mil + Lines of code 0 + Meeting hours Amazing teams Meet the expert teams behind our success Frontend team Building engaging web interfaces."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 19
+ },
+ {
+  "name": "Luminos Software",
+  "domain": "luminos.software",
+  "website": "https://www.luminos.software/",
+  "seed_lead_score": "8",
+  "seed_reason": "Software services firm offering technology strategy, digital product design, software development, team extensions and DevOps for entrepreneurs.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "sit Careers Our Company About us Careers Services Solutions Case Studies Request call \"The most personable team ever\" \"They actually care about what t"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "qa": 1,
+   "sdlc": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "May 31, 2024 QA: The Unsung Heroes of Software Development CTO Playbook May 31, 2024 The DevOps Edge: Faster, Smarter, Better Software CTO Playbook May 31, 2024 Software Product Roles 101: Who Does What?"
+   ],
+   "sdlc": [
+    "Testing & Quality Assurance Ensure smooth and agile software applications on every device with manual and automation testers.",
+    "Agile Management Organise and optimise your technical delivery goals with business analysts, product owners and project managers."
+   ],
+   "owns_product": [
+    "Differentiate your products and services to press home unique advantages."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 19
+ },
+ {
+  "name": "Tecknoworks",
+  "domain": "tecknoworks.com",
+  "website": "https://tecknoworks.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Builds production AI systems, BI & data analytics, automation and next-gen software/apps with cloud and legacy modernization on Azure.",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; proves ownership of a name only",
+   "date": "2014-01-18",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 12921,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "cicd": 1,
+   "sdlc": 1,
+   "qa": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Legacy warehouses, fragmented pipelines, inconsistent governance."
+   ],
+   "sdlc": [
+    "LET'S TALK How We Work From Assessment to Production in 60-90 Days."
+   ],
+   "qa": [
+    "Week of June 1-7, 2026 Read More » June 8, 2026 QA in the Age of AI: From Test Execution to Product Judgment Read More » June 4, 2026 AI This Week – The Supply Shock"
+   ],
+   "enterprise": [
+    "0 + Fortune 500 clients The world’s most profitable companies trust us to keep them ten steps ahead."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 19
+ },
+ {
+  "name": "Codemart",
+  "domain": "codemart.ro",
+  "website": "https://codemart.ro/codemart/zwei/",
+  "seed_lead_score": "8",
+  "seed_reason": "Cluj near-shoring pioneer (since 2004) building deep custom software, including the critically-acclaimed Virtual Brain / BrainXplore neuroscience platforms.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ernship! Learn modern technologies as Fullstack DevBackend: Java & PythonFrontend: Typescript/ReactJoin interesting projectsglobal B2B eCommerce syste"
+  },
+  "jd": {
+   "jd_chars": 9326,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "compliance": 1,
+   "owns_product": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "This commitment to high quality has been put in writing with our Company Policy for Quality and proven by our ISO 9001 certification for developing client-oriented software , issued by TUV Austria."
+   ],
+   "owns_product": [
+    "A diverse and inclusive workforce enhances innovation, strengthens collaboration, and ensures that our products and services reflect the needs of all users."
+   ],
+   "enterprise": [
+    "Coming with their own set of Fortune 500 clients, Junidas made Codemart one of the authors of the world's largest WebObjects system , handling a yearly order volume of more than 1 billion Euro."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 19
+ },
+ {
+  "name": "CustomSoft",
+  "domain": "customsoft.io",
+  "website": "https://www.customsoft.io/",
+  "seed_lead_score": "8",
+  "seed_reason": "Technology company doing engineering, web/mobile and e-commerce development, software analysis/consulting, automated testing and AI (mAIa) for market leaders.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Akinon BigCommerce VTEX Onport Eva Segmentify mAIa Services Web development Mobile development E-commerce development Software analysis E-commerce con"
+  },
+  "jd": {
+   "jd_chars": 1149,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our Products Featured Product Akinon is a cloud-based omnichannel commerce platform, next-generation application suite.",
+    "Find out more Our Products BigCommerce BigCommerce is the world’s leading cloud e-commerce platform for established and rapidly growing businesses.",
+    "We request this data to be able to get in contact with you and to provide you with the information you are requesting about our products and services."
+   ],
+   "sdlc": [
+    "Innovation stays at the core of our processes as we combine cutting-edge technologies with trans-disciplinary know-how to discover the best solutions for our customers."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 19
+ },
+ {
+  "name": "Moonlysoft",
+  "domain": "moonlysoft.com",
+  "website": "https://moonlysoft.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Technology partner engineering intelligent software — agentic AI (multi-agent systems in production), custom web/mobile product development and managed cloud.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 3577,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "sdlc": 4,
+   "DQ_support": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "04 Launch We help correctly position your product in front of the right audience."
+   ],
+   "sdlc": [
+    "LIFE AT MOONLYSOFT How we work We value your ideas Speak up early.",
+    "Learning is continuous, and we are always open to new experiences, working alongside an agile team whose ideas and opinions challenge us to constantly evolve.",
+    "That's still the core of how we work today."
+   ],
+   "DQ_support": [
+    "The right tools The hardware and software you need to do great work."
+   ],
+   "compliance": [
+    "Work with us → See open roles 100 % Remote-first team ISO 27001 Certified & ISO 9001 15 + Client partnerships 3 × TechBehemoths winner WHO WE ARE A technology partner that turns aspirations into reality Our core principles revolve around trust, accountability, and a never-ending pursuit of growth."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 19
+ },
+ {
+  "name": "BitStone SRL",
+  "domain": "bitstone.com",
+  "website": "https://bitstone.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Software development company (since 2006) doing custom software, AI/ML solutions, technical audits, software outsourcing, staff augmentation, DevOps and QA.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "BitStone – Software Development --> --> --> --> --> Home Services Our Work Careers Contact Us Home Se"
+  },
+  "jd": {
+   "jd_chars": 20641,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "sdlc": 3,
+   "DQ_agency": 2,
+   "compliance": 5,
+   "DQ_training": 2,
+   "cicd": 1,
+   "DQ_bpo": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Extend your business with our dedicated, agile teams and let us handle the software consultancy, while you seize the growth driven by digital innovation.",
+    "The project leveraged a cross-functional Agile team of 10-12 members, encompassing a range of expertise across the entire Software Development Lifecycle (SDLC).",
+    "This collaborative approach, combining the strengths of both BitStone and Xyxle's teams, fostered innovation and agile development, ultimately delivering a solution that exceeded the client's expectations."
+   ],
+   "DQ_agency": [
+    "Industries We offer custom software services across multiple industries Ecommerce Mobility Education Fintech Healthtech Legal Document Management Digital Marketing IoT Trusted by companies from all over the world.",
+    "Specialized Solutions Across Industries Education Mobility ecommerce Digital Marketing Healthtech Fintech IoT Legal Document Management Product Information Management “ Mathias Riechsteiner Curaden I’m working with BitStone because they are fast moving, target oriented, well structured and customer oriented."
+   ],
+   "compliance": [
+    "Close GDPR Cookie Banner Accept Settings Close GDPR Cookie Banner Close GDPR Cookie Settings Privacy Overview Strictly Necessary Cookies Powered by GDPR Cookie Compliance Privacy Overview This website uses cookies so that we can provide you with the best user experience possible."
+   ],
+   "DQ_training": [
+    "For Students Internship Each summer we run an internship program specially designed for students.",
+    "The company enables musicians to release their work globally, gain visibility through playlist placements, and connect with wider audiences."
+   ],
+   "cicd": [
+    "Technologies Frontend React, Flutter, Material UI/Metronic backend PHP, NestJS infrastructure Kubernetes, Prometheus, Grafana, Toglee, Kuma Database MariaDB, MongoDB, ElasticSearch Growth through Reach Worldwide Distribution."
+   ],
+   "DQ_bpo": [
+    "Their legacy processes relied heavily on manual data entry, making it harder to maintain accuracy at scale, slowing down supplier onboarding and limiting scalability.",
+    "Support for branded item data entry through various methods (manual UI, Excel, XML, API)."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 19
+ },
+ {
+  "name": "SoftState Technologies",
+  "domain": "soft-state.com",
+  "website": "https://soft-state.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "End-to-end web and mobile application developer (React/React Native) focused on the healthcare industry with well-documented, GDPR-compliant code.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "compliance": 1,
+   "qa": 1,
+   "owns_product": 1,
+   "sdlc": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Home Developing tomorrow's solutions We are specialised in the Healthcare industry where we transform your vision into reality by developing software solutions for your business through React and React Native."
+   ],
+   "compliance": [
+    "GDPR Compliant Data protection has always been important and that’s why our company offers products that ask for permission, respect the privacy of the subject, value and protect your data."
+   ],
+   "qa": [
+    "Our Services The technologies we work with React React Native GraphQL Redux Next.js Gatsby Cypress Node.js JavaScript SoftState Technologies has been an incredible partner in bringing our products to market."
+   ],
+   "owns_product": [
+    "Our Services The technologies we work with React React Native GraphQL Redux Next.js Gatsby Cypress Node.js JavaScript SoftState Technologies has been an incredible partner in bringing our products to market."
+   ],
+   "sdlc": [
+    "They were integrated with our scrum processes and also attended ad hoc meetings for design and other needs, also their responsive team promptly attends to requests and concerns and works efficiently."
+   ],
+   "senior_roles": [
+    "John Langton VP of Engineering, AtScale Inc."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 19
+ },
+ {
+  "name": "Tooktech",
+  "domain": "tooktech.com",
+  "website": "https://tooktech.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Team of engineers/designers/PMs building custom enterprise web and mobile applications with software consulting and POC/discovery.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Web&Mobile Applications, Software Development, Software consultancy | TookTech Technologies Home Services Our Proce"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 5,
+   "owns_product": 4,
+   "cicd": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "TookTech Technologies Home Services Our Process About Us Testimonials Careers Contact Us Your Business Needs Our Software Solutions We are a team of experienced engineers, designers and project managers, ready to help you build and deploy your custom web and mobile applications.",
+    "Project Management Agile, SCRUM, Kanban We are using appropriate project management methodologies for your business, together with solid and proactive communication to efficiently get projects done.",
+    "Our Process We believe that building and transforming a great idea into an awesome product requires a well defined process.",
+    "This will be usually divided in versions and sprints."
+   ],
+   "owns_product": [
+    "01 Ideas & Initial discovery We begin by understanding and evaluating your ideas, the associated business domain and the needs that will be fulfilled by your product.",
+    "We then help you to create a first visual representation of your product by using mockups and wireframes.",
+    "Now, our architects and developers will pick the right technical stack for your product.",
+    "03 Planning We create a project plan for the delivery of your product."
+   ],
+   "cicd": [
+    "Very important here is to early establish and execute an appropriate CI/CD pipeline that can automate as much as possible all the manual build and delivery steps."
+   ],
+   "enterprise": [
+    "Here at TookTech, we are developing software solutions for SMEs from various business domains (AI, banking, big data, consumer services, education, health, legal, property management, retail, social media) from all parts of the world."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 19
+ },
+ {
+  "name": "Nevexo",
+  "domain": "nevexo.tech",
+  "website": "https://www.nevexo.tech/",
+  "seed_lead_score": "8",
+  "seed_reason": "Software engineering studio acting as an embedded technical partner across AI/ML, web platforms, mobile (React Native/Flutter) and cloud infrastructure.",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; proves ownership of a name only",
+   "date": "2023-09-01",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "View more Streamlining client onboarding with eKYC We built a complete eKYC pipeline: reading IDs and their machine-readable zone, matching faces with a custom autoencoder, and checking liveness with active and passive anti-spoofing."
+   ],
+   "owns_product": [
+    "We needed a quick interface for our product and they delivered a fantastic UI in the (extremely short) agreed deadline along with a lot of great insights that helped us improve the overall user experience."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/nevexo-technologies"
+  ],
+  "_prio": 18
+ },
+ {
+  "name": "20Robots Technologies",
+  "domain": "20robots.tech",
+  "website": "https://20robots.tech/",
+  "seed_lead_score": "8",
+  "seed_reason": "AI-integration and custom software development firm doing intelligent document processing, chatbots, custom CRM and automation for private and government sector",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "xperience in the IT industry, he has relevant experience in software development, IT transformation, agile development, cloud-native applications, pro"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "sdlc": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Finance & Banking Enhance risk assessment, detect fraud, and optimize investment strategies with data-driven insights.",
+    "Healthcare & Pharmaceuticals Improve patient outcomes, optimize clinical trials, and enhance operational efficiency with data analytics.",
+    "Finance & Banking Process invoices, statements, and compliance documents with precision and security.",
+    "Healthcare Extract patient data, insurance claims, and medical records while maintaining HIPAA compliance."
+   ],
+   "sdlc": [
+    "Agile Development Our expert team implements solutions using agile methodologies, ensuring flexibility, transparency, and continuous improvement."
+   ],
+   "compliance": [
+    "Healthcare Extract patient data, insurance claims, and medical records while maintaining HIPAA compliance."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 18
+ },
+ {
+  "name": "Redbee Software",
+  "domain": "redbeesoftware.com",
+  "website": "https://redbeesoftware.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "ISO 9001/27001-certified AWS-partner custom software development firm building web and mobile products with Odoo ERP and certified developers.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 4256,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "compliance": 1,
+   "DQ_support": 2,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "compliance": [
+    "Book a Free Consultation Book a Free Consultation Awards & Certifications RedBee Software is an ISO 9001:2015 and ISO 27001:2013 certified company."
+   ],
+   "DQ_support": [
+    "View Full Case Study How a leading Dairy Equipment Distributor unified two companies with Odoo ERP Implementation Farming Romania We implemented a centralized Odoo ERP for a leading dairy hardware distributor, replacing fragmented legacy systems with a single, scalable platform."
+   ],
+   "enterprise": [
+    "Our experience working in the fintech and healthcare sectors proved valuable in seamlessly integrating health functionalities with the existing financial ones.",
+    "View Full Case Study Automating Romanian medical certifications with Odoo ERP Implementation Medical Services Romania Romanian medical clinic automated its regulated medical and psychological certificates on Odoo, generating each document in one click."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 18
+ },
+ {
+  "name": "OceanoBe Technology",
+  "domain": "oceanobe.com",
+  "website": "https://oceanobe.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "End-to-end software solution company building fintech/banking/payment software with engineering excellence in Java/Angular/React/.NET.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "prod_eng": 4,
+   "enterprise": 5,
+   "sdlc": 6,
+   "DQ_agency": 1,
+   "pr_practice": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Empowering Businesses with Engineering Excellence Seamless end-to-end integration, flawless execution: elevate your business with our software engineering expertise.",
+    "A Symphony of Code: engineering excellence for enterprises of the future We strategize and implement technology-driven solutions to help our clients disrupt markets, optimize internally and drive business value.",
+    "engineering Senior PHP Developer (Laravel) PHP Developer (Laravel) – Leasing Platform engineering Senior Java Engineer in Banking Our experienced Java developers understand the nuances of creating reliable and efficient solutions."
+   ],
+   "enterprise": [
+    "Our Technology Expertise - your shortcut to digital transformation Your trusted partner in crafting customized fintech, banking, or payment software solutions.",
+    "engineering Senior Java Engineer in Banking Our experienced Java developers understand the nuances of creating reliable and efficient solutions.",
+    "Open Positions Current Openings ​ engineering Senior Java Engineer in Banking Remember the days when you were unstoppable!",
+    "engineering Senior PHP Developer (Laravel) PHP Developer (Laravel) – Leasing Platform engineering Senior Java Engineer in Banking Our experienced Java developers understand the nuances of creating reliable and efficient solutions."
+   ],
+   "sdlc": [
+    "Design UX MVP High Level Design Iteration Product Design Web Development Mobile Development DevOps Support Release Management Software Environment Ways of working Our Process OceanoBe expertise is focusing on the development and delivery of valuable software solutions for our clients.",
+    "Our process emphasizes close collaboration with all our partners, which helps bring better solutions and within a shorter time frame.",
+    "You can rely on OceanoBe for all these decisions, our design sprint approach will make sure that we deliver fast solutions.",
+    "2 Feedback is essential to our process."
+   ],
+   "DQ_agency": [
+    "1 Building your software solutions requires a few critical decisions in areas such as technology, user experience , branding or design."
+   ],
+   "pr_practice": [
+    "Having regular knowledge sessions, code reviews and daily stand up meetings will ensure that all team members are on the same page."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/oceanobe"
+  ],
+  "_prio": 18
+ },
+ {
+  "name": "WebitFactory",
+  "domain": "webitfactory.io",
+  "website": "https://webitfactory.io/",
+  "seed_lead_score": "7",
+  "seed_reason": "Offers custom software development plus blockchain and AI services across many industries with case studies.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "WebitFactory WebitFactory Home Our work About us Contact us Home Our work About us Contact us Building products We levera"
+  },
+  "jd": {
+   "jd_chars": 29657,
+   "signals": {
+    "vcs_generic": 3
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Contact us to apply First name Last name Email Phone Years of Experience 1-3 3-5 5+ Linkedin Profile URL GitHub profile, portfolio, or examples of relevant open-source contributions PDF CV File I have read and agree to the Terms of Privacy Submit People first We truly care about our team.",
+     "Contact us to apply First name Last name Email Phone Years of Experience 1-3 3-5 5+ Linkedin Profile URL GitHub profile, portfolio, or examples of relevant open-source contributions PDF CV File I have read and agree to the Terms of Privacy Submit People first We truly care about our team.",
+     "Contact us to apply First name Last name Email Phone Years of Experience 1-3 3-5 5+ Linkedin Profile URL GitHub profile, portfolio, or examples of relevant open-source contributions PDF CV File I have read and agree to the Terms of Privacy Submit People first We truly care about our team."
+    ]
+   },
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "sdlc": 3,
+   "owns_product": 4,
+   "senior_roles": 2,
+   "vcs": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our agile development services ensure you pivot quickly, so you can meet demands and seize opportunities.",
+    "Covering vital aspects from ticketing to child monitoring, it's simplified our processes significantly.",
+    "Learn more Our Core Values Guided by Values, Driven by Vision Agile Adaptability Experience unparalleled agility with purpose-built solutions."
+   ],
+   "owns_product": [
+    "Our platform ensures organized workflows and prompt project delivery.",
+    "Their expertise has amplified our platform's efficiency, simplified communication, and boosted transparency, directly benefiting our business operations.",
+    "Their expertise has improved our platform, offering users flexibility—from staking to claiming discounts.",
+    "Their expertise has significantly enhanced our platform's capabilities and efficiency."
+   ],
+   "senior_roles": [
+    "Tech Leaders We embrace the latest tech to lead and set new standards in our industry."
+   ],
+   "vcs": [
+    "Contact us to apply First name Last name Email Phone Years of Experience 1-3 3-5 5+ Linkedin Profile URL GitHub profile, portfolio, or examples of relevant open-source contributions PDF CV File I have read and agree to the Terms of Privacy Submit People first We truly care about our team."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 18
+ }
+]

@@ -1,0 +1,757 @@
+[
+ {
+  "name": "mReady",
+  "domain": "mready.net",
+  "website": "https://mready.net/en/",
+  "seed_lead_score": "7",
+  "seed_reason": "Unreachable at fetch time; blurb describes a mobile app development firm offering mobile strategy consultancy, design and development.",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; proves ownership of a name only",
+   "date": "2011-11-07",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "Inteo IT Development",
+  "domain": "inteo.ro",
+  "website": "https://inteo.ro/",
+  "seed_lead_score": "7",
+  "seed_reason": "Builds custom, robust software solutions with database design, integration and turnkey cloud software with multi-level access control.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "C4studio",
+  "domain": "c4studio.ro",
+  "website": "https://c4studio.ro/",
+  "seed_lead_score": "7",
+  "seed_reason": "Development company delivering bespoke software and quality web solutions since 2013 (thin homepage, judged largely on description).",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 69,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "Starbyte",
+  "domain": "starbyte.ro",
+  "website": "https://starbyte.ro/home",
+  "seed_lead_score": "7",
+  "seed_reason": "Unreachable at fetch time; blurb describes a Romanian software developer building web-enabled systems for banking, insurance and risk management.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "out Us Careers Team Testimonials Our Story State Of The Art Case Studies eBooks Tehnologies MENU Home Services About Us Solutions Clients Contact EN R"
+  },
+  "jd": {
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "Burzcast",
+  "domain": "burzcast.com",
+  "website": "https://burzcast.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Boutique software consultancy doing custom software, AI & automation and cloud/security with its own products (MirCRM, BurzSync) on macOS/Azure.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "PhantomTech",
+  "domain": "phantomtechind.com",
+  "website": "https://phantomtechind.com/en",
+  "seed_lead_score": "7",
+  "seed_reason": "Digital studio building full-stack web applications (React/Next/Node) and custom ERP systems for scale.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Process How We Work No mystery."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "Devodrome",
+  "domain": "devodrome.com",
+  "website": "https://devodrome.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Unreachable at fetch time; blurb describes a full software development team (PMs, developers, designers, testers) building and delivering software.",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; proves ownership of a name only",
+   "date": "2011-02-07",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 3
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Click here to listen to Lee's testimonial recorded during one of our sprint planning meetings."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "Appscend",
+  "domain": "appscend.com",
+  "website": "https://appscend.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Unreachable at fetch time; blurb describes a technology company (since 2011) providing mobile development products and custom development services.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "provides turnkey mobile solutions & custom app development OUR PRODUCTS: Our Customers Trusted by innovation driven companies worldwide. SEE OUR WORK"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "vcs": 2,
+   "owns_product": 2,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "vcs": [
+    "Check out our GitHub profile to access Appscend's development framework and app building tool.",
+    "GITHUB Latest Blog Posts & News Stack up with the latest in the industry & check out our latest developments."
+   ],
+   "owns_product": [
+    "Our team includes dedicated account managers, tech gurus and seasoned business execs that have their skin in the game to make our products key business drivers for your business."
+   ],
+   "DQ_agency": [
+    "Customer service is also great.” Drew Himel MyWSISolution, USA “Mobile is becoming a huge opportunity for businesses everywhere, and mobile apps will soon become a key factor in any digital marketing mix."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/appscend"
+  ],
+  "_prio": 14
+ },
+ {
+  "name": "Mobile Touch",
+  "domain": "mobiletouch.eu",
+  "website": "https://www.mobiletouch.eu/",
+  "seed_lead_score": "7",
+  "seed_reason": "Software company solely focused on building native iOS/Android mobile applications (minimal site but a clear mobile-engineering focus).",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 1243,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "Soft Lab",
+  "domain": "soft-lab.ro",
+  "website": "https://www.soft-lab.ro/",
+  "seed_lead_score": "7",
+  "seed_reason": "Thin site; blurb describes a software development company focused on quality, innovation and speed to drive client business results.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 69,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "NoMoreCoffeePlease",
+  "domain": "nomorecoffeeplease.com",
+  "website": "https://www.nomorecoffeeplease.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Thin site; blurb describes a full-service web and mobile development company building products for startup founders and product teams.",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; proves ownership of a name only",
+   "date": "2020-09-11",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 104,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "BisSoft",
+  "domain": "bissoft.ro",
+  "website": "https://www.bissoft.ro/",
+  "seed_lead_score": "7",
+  "seed_reason": "Full-stack software house building custom applications, workflow automation and BI/enterprise-data solutions (healthcare focus) for startups to Fortune 500 clie",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "-> --> Home About Services Careers Contact High Performance Software solutions! BisSoft New Way to success BisSoft has been delivering innovative soft"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Our clients range from early stage start-ups to Fortune 500 companies across a wide variety of industries."
+   ],
+   "sdlc": [
+    "We combine user centered design with Agile development to deliver software projects on-time, on-target and on-budget."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "Zincoo Digital Studio",
+  "domain": "zincoo.com",
+  "website": "https://zincoo.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Design-and-engineering studio building mobile applications (React Native) and scalable, secure SaaS platforms (cloud architecture, APIs, security) alongside mar",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "Nerds Computing",
+  "domain": "nerds.sh",
+  "website": "https://nerds.sh/",
+  "seed_lead_score": "8",
+  "seed_reason": "Software engineering services firm building solid architectures and scalable platforms (web/mobile, backend, APIs, cloud, DevOps) for SMEs and tech companies.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 15379,
+   "signals": {
+    "testing": 1
+   },
+   "quotes": {
+    "testing": [
+     "React, Hooks, Jest, Redux Native in ASP .NET core, XUnit or NUnit, Entity Framework REST, GraphQL Strong experience with unit & integration & e2e testing Relational Databases:"
+    ]
+   },
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "sdlc": 3,
+   "DQ_agency": 2,
+   "cicd": 5,
+   "enterprise": 1,
+   "prod_eng": 2,
+   "DQ_template": 3,
+   "senior_roles": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Co-Founder of Agile Freaks Case Studies Latest Work From concept to code, we engineer results that matter.",
+    "How We Work We keep our collaboration models simple and effective — built around how your team actually works.",
+    "Whether we own the project or join your team, our goal is the same — to build reliable software, work transparently, and make your engineering process stronger with every sprint."
+   ],
+   "DQ_agency": [
+    "Creative writing Content strategy SEO & storytelling Social media Growth journey Details Sales Partner Associate Building connections that spark collaboration and real impact.",
+    "That means fast page transitions, server-assisted rendering for SEO, and a design system that enables accessible controls, predictable behavior, and consistent performance across breakpoints."
+   ],
+   "cicd": [
+    "Relationship-driven sales Pipeline building & outreach Business-driven curiosity Generating opportunities Building client relationships Details Didn't find your role?",
+    "Upskilling & Growth Hands-on trainings and mentorship covering .NET Core, React, Blockchain, Functional Programming, Kubernetes, and many other cutting-edge technologies.",
+    "As a video platform engineering team, we build streaming platforms end-to-end — from DRM integration and encoding pipelines to subscriber-facing web apps and editorial admin tools.",
+    "Content ingestion pipelines normalize metadata, artwork, captions, and availability windows; catalog tools handle bundles, promotions, and regional rights; entitlement rules map cleanly to packages and offers."
+   ],
+   "enterprise": [
+    "Health Insurance Coverage Enjoy extra perks that support your wellbeing — including private health insurance and initiatives that help you stay balanced, healthy, and motivated every day."
+   ],
+   "prod_eng": [
+    "RO Connect With Us Video Platform Engineering Streaming & Content Delivery Streaming has become the primary screen across phones, TVs, and everything in between.",
+    "As a video platform engineering team, we build streaming platforms end-to-end — from DRM integration and encoding pipelines to subscriber-facing web apps and editorial admin tools."
+   ],
+   "DQ_template": [
+    "Buy when you need speed-to-market and your requirements fit a standard template.",
+    "Once value is proven, we scale with automated onboarding, configuration templates, and remote operations that keep portfolios reliable.",
+    "Full portfolio rollout follows with automated onboarding and configuration templates."
+   ],
+   "senior_roles": [
+    "We work best with tech-driven companies — teams led by CTOs, engineering managers, or technical founders who value strong execution and clear communication."
+   ],
+   "owns_product": [
+    "Our platform handles automated market bidding across frequency response (FCR, FFR), capacity markets, wholesale energy, and balancing products."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/nerds-sh"
+  ],
+  "_prio": 12
+ },
+ {
+  "name": "Melonbyte",
+  "domain": "melonbyte.io",
+  "website": "https://melonbyte.io/?src=goodfirms",
+  "seed_lead_score": "7",
+  "seed_reason": "Boutique web dev agency building SaaS solutions, custom web development (Laravel/Vue), API integration, automation and mobile/desktop apps.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "melonbyte - Top European Web Development Agency Baseball Book Calendar Checkmark Mail Logo Github Logo Html5 Logo I"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "vcs": 2,
+   "sdlc": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "vcs": [
+    "Read More Tech used: Laravel, VueJS, 3rd Party APIs, Git, MySql, Mongo DB Explore Explore is an emotionally intelligent ad-free social media platform for creatives who value their work and treasure meaningful relationships Read More Tech used: Laravel, VueJS, MySql, Git, Stripe API Let's talk!",
+    "Read More Tech used: Laravel, Vue, Google Api, MySql, Git BidPro Bidpro is a Marketing Rules App, very similar to Facebook's native marketing platform rules, except it allows much more control and granularity to setting up rules."
+   ],
+   "sdlc": [
+    "Robert Alex 30 minute meeting Choose what time works best for you Our process First we talk, do some research, and see what is the best way to plant your idea."
+   ],
+   "DQ_agency": [
+    "Read More Tech used: Laravel, Facebook API, Facebook Marketing API, TikTok API, Google Ads API, Outbrain API, Taboola API View our full portfolio Our Prices We understand that quality comes at a price, but we believe that our clients deserve the best."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 12
+ },
+ {
+  "name": "Armoury Software Solutions",
+  "domain": "armoury.ro",
+  "website": "https://armoury.ro/",
+  "seed_lead_score": "6",
+  "seed_reason": "Builds web apps, mobile apps and games with QA and UI/UX, though a small/new team (also does WordPress), so tentatively relevant.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 12
+ },
+ {
+  "name": "minic studio",
+  "domain": "minic.ro",
+  "website": "https://minic.ro/",
+  "seed_lead_score": "6",
+  "seed_reason": "Offers custom software development, web and e-commerce and UX/UI with outsourcing, though bundled with online marketing (Facebook/Google) services.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "vcs": 2,
+   "cicd": 3,
+   "qa": 1,
+   "DQ_agency": 2,
+   "owns_product": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "vcs": [
+    "#React #Redux #MongoDb #Jest #Docker #Lerna #Scss #NPM #Webpack #Git Turbopass GMBH Custom software development, E-commerce, API & more Together, we have achieved that Turbopass is now able to offer travelers an all-in-one solution for hassle-free sightseeing and transportation in major cities across Europe.",
+    "Bitbucket Bitbucket supports our coding efforts with its integrated Git repositories, making source control seamless and secure."
+   ],
+   "cicd": [
+    "#React #Redux #MongoDb #Jest #Docker #Lerna #Scss #NPM #Webpack #Git Turbopass GMBH Custom software development, E-commerce, API & more Together, we have achieved that Turbopass is now able to offer travelers an all-in-one solution for hassle-free sightseeing and transportation in major cities across Europe.",
+    "#Prestashop #Php #.net #Laravel #Html #mySql #Css #Javascript #Docker More!",
+    "#NodeJs #VueJs #Facebook GraphApi #Paypal #Html #Css #Docker More!"
+   ],
+   "qa": [
+    "#React #Redux #MongoDb #Jest #Docker #Lerna #Scss #NPM #Webpack #Git Turbopass GMBH Custom software development, E-commerce, API & more Together, we have achieved that Turbopass is now able to offer travelers an all-in-one solution for hassle-free sightseeing and transportation in major cities across Europe."
+   ],
+   "DQ_agency": [
+    "Additionally, if your project requires UX or UI design, or even branding services, we’ve got you covered, ensuring a comprehensive solution for all your digital needs.",
+    "kolboid blog Jon Loomer He is a decisive thinker and a teacher regarding social media marketing."
+   ],
+   "owns_product": [
+    "WordPress WordPress’s flexibility and ease of use make it our platform of choice for content-driven websites."
+   ],
+   "DQ_bpo": [
+    "Automated reports have significantly reduced manual data entry errors, resulting in more reliable working hour data."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 12
+ },
+ {
+  "name": "Prisma Solutions",
+  "domain": "prismaweb.ro",
+  "website": "https://prismaweb.ro/en",
+  "seed_lead_score": "6",
+  "seed_reason": "Offers custom web application and software development alongside website and e-commerce work as a small IT development firm.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Mastrodom Project Web Design and Development Vibe Festival Web Development in collaboration with Diversity Advertising János Zsigmond Unitarian High"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Our Team Kiss Levente Co-Founder & Business Developer Fischer Otto Co-Founder & Tech lead Szasz Attila Web developer Nüszl Richard Web developer Moldovan Istvan Social media manager Expand the map Contact us Address Tg."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 12
+ },
+ {
+  "name": "Utopian Vision SRL",
+  "domain": "utopianvision.ro",
+  "website": "https://utopianvision.ro/",
+  "seed_lead_score": "6",
+  "seed_reason": "Builds custom software, cloud applications and multi-vendor web platforms (PHP/MariaDB/JS) with server configuration, alongside websites and online stores.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 7499,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 12
+ },
+ {
+  "name": "Digital Expression",
+  "domain": "digitalexpression.ro",
+  "website": "https://digitalexpression.ro/",
+  "seed_lead_score": "6",
+  "seed_reason": "Creative agency that also builds real technology (mobile banking, push-notification servers, AR) for clients like Volksbank and Nestlé.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 20107,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "MySQL, PostgreSQL) experience with Parse Platform experience with Firebase, Google Play Services, Google Maps SDK experience with Agile methodology good understanding of client and server side technologies Front-end developer (SCSS) We’re searching for a great talent that loves to make web apps."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 12
+ }
+]

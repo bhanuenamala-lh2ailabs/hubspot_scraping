@@ -1,0 +1,470 @@
+[
+ {
+  "name": "Inzuscene Technologies Private Limited",
+  "domain": "inzuscene.com",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 10,
+  "caps_applied": [],
+  "pre2024_status": "2023 capture readable, no software wording - weak +10, cap-45 lifted",
+  "evidence": [
+   "ISO 9001, 27001 and 20000 certified",
+   "Industrial AI and enterprise software for asset-intensive workflows",
+   "Partner ecosystem featuring Fortune 500 companies",
+   "Blog page live but empty: no articles found"
+  ],
+  "why": "Certifications plus enterprise-software positioning corroborate a light Tier C, but there is no careers JD, repo or any engineering-process evidence.",
+  "changed_from_previous": "Skip 20 -> Skip 30, GOLD weak +10 added"
+ },
+ {
+  "name": "Ixsight Technologies Pvt Ltd",
+  "domain": "ixsight.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2007, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "Owns AML and location-intelligence products; 'the best use our products'",
+   "Banking, insurance, government clients; case studies and demos",
+   "Careers page exists but no process or tooling detail",
+   "No ISO/SOC claim, no CI/CD, no repo found"
+  ],
+  "why": "A genuine long-lived data/AML product firm, but Tier C positioning cannot fire without any Tier A/B corroboration, so it stays at the weak GOLD floor.",
+  "changed_from_previous": "Skip 10 -> Skip 10, cap-45 lifted (was non-binding)"
+ },
+ {
+  "name": "Kalpatharu Software Limited",
+  "domain": "kalsofte.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "verified: 2021 capture advertises software development",
+  "evidence": [
+   "2021 snapshot: 'leading Software Development Company from Coimbatore'",
+   "Wayback history back to 2007",
+   "Blog, about and team pages reached; no engineering content",
+   "No careers JD, no repo, no CI/CD, no certifications"
+  ],
+  "why": "Pre-2024 software delivery is now proven, but the site carries zero engineering-process signal beyond that.",
+  "changed_from_previous": "Skip 10 -> Skip 25, GOLD now verified"
+ },
+ {
+  "name": "LinkedIn Technology Information Private Limited",
+  "domain": "in.linkedin.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2009, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "Scrape captured social-feed posts, not a company engineering site",
+   "QA/product hits are third-party feed content (AMD, Figma)",
+   "No careers, tech or process page for the India entity",
+   "No repo, CI/CD or code-review evidence"
+  ],
+  "why": "The bundle is public-feed noise rather than a company site, so nothing above the weak GOLD floor can be substantiated.",
+  "changed_from_previous": "Skip 10 -> Skip 10, no change"
+ },
+ {
+  "name": "Maersk Global Service Centres (India) Pvt Ltd",
+  "domain": "maerskline.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 1997, 2021 capture had no software wording - weak +10",
+  "evidence": [
+   "Logistics and supply-chain marketing throughout; no engineering pages",
+   "'Agile' hits refer to agile supply chains, not development",
+   "Careers content is logistics operations roles",
+   "No repo, CI/CD, code review or certification signal"
+  ],
+  "why": "Core business is shipping and logistics; the corrected pages surfaced no software-engineering practice at all.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "MHP India Private Limited",
+  "domain": "mhp.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2005, 2013 capture had no software wording - weak +10",
+  "evidence": [
+   "'We are an agile project management company' - consulting framing",
+   "Application Management Services: SLA-based support of productive systems",
+   "Careers and team pages reached, no engineering process detail",
+   "No repo, no named CI/CD tooling, no certifications cited"
+  ],
+  "why": "Positions as agile management consulting and application support rather than a building-and-reviewing engineering shop, and no Tier A/B evidence appeared.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "MorningStar India Private Limited",
+  "domain": "morningstar.in",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no careers/blog/team cap 40 (not binding)"
+  ],
+  "pre2024_status": "site live since 2012, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "Only the homepage was reachable",
+   "No careers, blog, about or team page found",
+   "No signals of any tier extracted",
+   "Investor-research content, not an engineering site"
+  ],
+  "why": "Homepage-only reach with zero engineering signal; the cap-40 still applies but nothing pushes the score near it.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted, cap-40 still stands"
+ },
+ {
+  "name": "MTAP Technologies Pvt Ltd",
+  "domain": "mtap.in",
+  "score": 80,
+  "band": "Priority",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 50,
+  "tier_c_points": 20,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2014, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "JD: 'Code review of team members' commits as part of CI/CD cycle'",
+   "CI/CD pipelines named: Jenkins, GitLab CI, CircleCI",
+   "QA automation: Selenium, Playwright, Appium; QA early in lifecycle",
+   "Owns transport platforms serving Fortune 500 and aviation enterprises"
+  ],
+  "why": "The careers page carries real engineering JDs with code review, named CI/CD tooling, git workflows and test automation on an owned platform, so the SEO/marketing hits are internal marketing roles rather than a bundled-agency offering.",
+  "changed_from_previous": "Skip 45 -> Priority 80, GOLD cap lifted"
+ },
+ {
+  "name": "Nanosecond Technologies Private Limited",
+  "domain": "pice.one",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "first capture Dec 2022, no software wording - weak +10, thin margin",
+  "evidence": [
+   "Owns fintech products: card bill payments, GST, invoicing",
+   "No careers or team page reached",
+   "No repo, CI/CD, code review or QA evidence",
+   "Site only appears in Wayback from late 2022"
+  ],
+  "why": "A young consumer fintech product with no engineering-process surface; the single owned-product signal cannot fire Tier C alone.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "Orbitsys Technologies Private Limited",
+  "domain": "orbitsys.in",
+  "score": 33,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 13,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2009, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "ISO 27001:2022 certified company, stated repeatedly",
+   "Owns Cloud Hosted Dealer Management System, multi-country",
+   "Careers, blog and team pages recovered but content-free",
+   "No JD process detail, no repo, no CI/CD tooling"
+  ],
+  "why": "A long-lived owned DMS product plus ISO 27001 gives a modest base, but the recovered careers and blog pages added no engineering-process evidence.",
+  "changed_from_previous": "Skip 20 -> Skip 33, cap-40 and GOLD cap both lifted"
+ },
+ {
+  "name": "Park Hospitals",
+  "domain": "neotiahospital.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2008, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "Hospital and maternity care content across all pages",
+   "All six pages reached; none mention software or engineering",
+   "No repo, CI/CD, QA or code-review signal",
+   "Enterprise hits are healthcare marketing copy"
+  ],
+  "why": "A hospital operator, not an IT firm; full page coverage confirms the absence rather than leaving it open.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "Prostarm Info Systems Limited",
+  "domain": "prostarm.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2019, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "UPS and power-electronics manufacturer; installation and AMC services",
+   "Careers, blog, about and team reached; no engineering roles",
+   "'Prostarm SEO' is a blog byline, not a service line",
+   "No repo, CI/CD, QA or certification signal"
+  ],
+  "why": "Hardware manufacturing and maintenance contracts with no software-engineering surface anywhere on the reached pages.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "Quest Diagnostics HTAS India Private Limited",
+  "domain": "questdiagnostics.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 1998, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "CLIA-certified labs providing HIPAA-covered services",
+   "All six pages reached; content is patient and payer facing",
+   "Single decorative 'scalable, agile cloud platform' line",
+   "No repo, CI/CD tooling or engineering JD found"
+  ],
+  "why": "Genuine HIPAA/CLIA compliance earns the change-control points, but only one decorative platform mention exists so Tier C cannot fire.",
+  "changed_from_previous": "Skip 20 -> Skip 20, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "Rasacode Technologies Private Limited",
+  "domain": "rasacode.in",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 15,
+  "caps_applied": [
+   "generalist-agency cap 30 (binding)"
+  ],
+  "pre2024_status": "verified: 2022 capture advertises web and mobile app development",
+  "evidence": [
+   "2022 snapshot already sells mobile app development",
+   "Service picker bundles SEO with development and eCommerce",
+   "QA Strategy, application and mobile testing service lines",
+   "Career path stated from Junior to Principal Engineer"
+  ],
+  "why": "GOLD is now proven and the raw sum reaches 50, but SEO sold alongside development on the same service menu is the generalist-agency signature and caps it at 30.",
+  "changed_from_previous": "Skip 10 -> Skip 30, GOLD verified but agency cap binds"
+ },
+ {
+  "name": "Rolls Royce India Private Limited",
+  "domain": "rolls-royce.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 1996, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "Corporate, board and product content for aero engines",
+   "Only dated 2023 item is a production test facility release",
+   "No engineering JD, repo, CI/CD or QA evidence",
+   "'Prod eng' hit is a board-bio phrase, decorative"
+  ],
+  "why": "Group corporate site with no software-engineering practice exposed; the India entity's engineering work is invisible here.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "Sesame Group India Private Limited",
+  "domain": "sbg.co.uk",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 1999, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "Mortgage, protection and insurance adviser support network",
+   "Products are advisory services, not software",
+   "Careers and about reached; no engineering roles",
+   "No repo, CI/CD, QA or code-review signal"
+  ],
+  "why": "A financial-services support network rather than a software builder; nothing above the weak GOLD floor is evidenced.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "SHRM East Private Limited",
+  "domain": "shrmindia.org",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2007, 2014 capture had no software wording - weak +10",
+  "evidence": [
+   "HR membership body: conferences, chapters, certifications",
+   "Templates are job descriptions, not website templates",
+   "Careers, blog and about reached; no engineering content",
+   "No repo, CI/CD, QA or code-review signal"
+  ],
+  "why": "HR membership and content business with no software-engineering function evidenced, so no cap is even engaged at this score.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "Sirius Info Services Private Limited",
+  "domain": "siriusinfos.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2014, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "Careers, blog and about reached but yielded no signals",
+   "Zero extracted signal counts across all categories",
+   "No repo, CI/CD, QA or certification evidence",
+   "Site content too thin to judge substance"
+  ],
+  "why": "Four pages were reached and produced no scoreable engineering evidence of any tier.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "Swiggy Limited",
+  "domain": "swiggy.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no careers/blog/team cap 40 (not binding)"
+  ],
+  "pre2024_status": "domain captured since 2004, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "Only the JavaScript homepage was reachable",
+   "No careers, blog, about or team page recovered",
+   "No signals extracted in any category",
+   "Absence of signal here is a crawl limit, not proof"
+  ],
+  "why": "The app shell blocked every off-homepage page, so the score reflects missing evidence rather than a judgement on the company.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted, cap-40 still stands"
+ },
+ {
+  "name": "T-Systems Information and Communication Technology India Private Limited",
+  "domain": "t-systems.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 1998, 2019 capture had no software wording - weak +10",
+  "evidence": [
+   "All six pages reached; content is cloud and industry marketing",
+   "'Agile manner' in careers copy, no process or tooling",
+   "Health content management software cited as partner capability",
+   "No repo, named CI/CD tooling, QA or certification signal"
+  ],
+  "why": "A large IT-services group whose public pages carry only marketing-level agile language, leaving no Tier A/B evidence to corroborate its positioning.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "TechRAQ Info Solutions Private Limited",
+  "domain": "techraq.com",
+  "score": 45,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 10,
+  "caps_applied": [],
+  "pre2024_status": "verified: 2023 capture advertises web and mobile application development",
+  "evidence": [
+   "2023 snapshot: 'Application development & implementation for Web & Mobile'",
+   "Software Quality Engineering: testing throughout the development lifecycle",
+   "'Agile Dev & Dev-Ops' named, but no tools or pipelines",
+   "'Our Products' section names no actual product"
+  ],
+  "why": "Pre-2024 delivery is proven and a real quality-engineering practice is claimed, but no careers JD, tooling or repo exists to lift it into Secondary.",
+  "changed_from_previous": "Skip 23 -> Skip 45, GOLD verified, pages recovered"
+ },
+ {
+  "name": "Telemune Software Solutions Private Limited",
+  "domain": "telemune.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2003, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "Only homepage and team page reached",
+   "Sole signal is a culture line about being open",
+   "No careers JD, blog or tech-stack page",
+   "No repo, CI/CD, QA or certification evidence"
+  ],
+  "why": "A telecom software vendor of long standing, but the reachable pages expose no engineering-process evidence at all.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ }
+]

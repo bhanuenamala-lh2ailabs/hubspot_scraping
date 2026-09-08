@@ -1,0 +1,315 @@
+[
+  {
+    "name": "10 Decoders Consultancy Services Private Limited",
+    "domain": "10decoders.com",
+    "person": "Venkatachalam",
+    "title": "Founder & CEO",
+    "linkedin": "https://www.linkedin.com/in/venkatachalam-d",
+    "confidence": "high",
+    "evidence": "\"Venkatachalam Founder & CEO\"; \"10decoders was founded by Venkatachalam (CEO)\"",
+    "others": [
+      {
+        "person": "Edrin Thomas",
+        "title": "Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/thomas-edrin"
+      },
+      {
+        "person": "Meenakshi",
+        "title": "Co-Founder · Delivery & Enterprise Engineering",
+        "linkedin": "https://www.linkedin.com/in/supriya10d"
+      },
+      {
+        "person": "Manikandan",
+        "title": "Co-Founder · R&D and Innovation",
+        "linkedin": "https://www.linkedin.com/in/mani10d"
+      }
+    ]
+  },
+  {
+    "name": "A5E Consulting Private Limited",
+    "domain": "a5econsulting.com",
+    "person": "Saurabh Bhatt",
+    "title": "Founder & CEO",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Saurabh Bhatt Founder & CEO\" on A5E leadership page",
+    "others": [
+      {
+        "person": "Avkash Chauhan",
+        "title": "Global SVP – Digital Solutions",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Access Healthcare Services Pvt Ltd",
+    "domain": "accesshealthcare.co",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "All team/leadership pages returned 404; no names scraped",
+    "others": []
+  },
+  {
+    "name": "Actualize Consulting Engineers (India) Private Limited",
+    "domain": "actualize.co.in",
+    "person": "Harish Kashyap",
+    "title": "Founder",
+    "linkedin": "https://www.linkedin.com/in/harishkashyapactualize",
+    "confidence": "medium",
+    "evidence": "\"Team Harish Founder\"; profile slug harishkashyapactualize",
+    "others": [
+      {
+        "person": "Akhilesh Kamath",
+        "title": "Founder",
+        "linkedin": "https://www.linkedin.com/in/akhileshkamathactualize"
+      }
+    ]
+  },
+  {
+    "name": "Adient India Private Limited",
+    "domain": "adient.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Executive team names listed with no titles attached to any name",
+    "others": []
+  },
+  {
+    "name": "Agility E Services Private Limited",
+    "domain": "agility.com",
+    "person": "Henadi Al-Saleh",
+    "title": "CEO and Board Member, Agility",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Henadi is CEO and a Board Member of Agility\"",
+    "others": []
+  },
+  {
+    "name": "AITOBI Technologies Private Limited",
+    "domain": "aitobi.co",
+    "person": "Roushan Kumar",
+    "title": "Chief Executive Officer",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Our Founding Members Roushan Kumar Chief Executive Officer\"",
+    "others": [
+      {
+        "person": "Ravi Teja",
+        "title": "CO- Founder",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Amgen Technology Private Limited",
+    "domain": "wwwext.amgen.com",
+    "person": "Robert A. Bradway",
+    "title": "Chairman and Chief Executive Officer, Amgen Inc.",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Bradway Chairman and Chief Executive Officer, Amgen Inc.\" on leadership page",
+    "others": []
+  },
+  {
+    "name": "Apollo India Services LLP",
+    "domain": "apollo.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Leadership page scraped as nav and marketing copy only; no names",
+    "others": []
+  },
+  {
+    "name": "aQb Solutions Private Limited",
+    "domain": "aqbsolutions.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only a services page was scraped; no people named",
+    "others": []
+  },
+  {
+    "name": "Artha Data Solutions India Private Limited",
+    "domain": "thinkartha.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "About-us text names no individuals",
+    "others": []
+  },
+  {
+    "name": "AUI Systems Private Limited",
+    "domain": "auisys.com",
+    "person": "Harpal Parmar",
+    "title": "CEO & Co-Founder",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Harpal Parmar CEO & Co-Founder\" repeated on team page",
+    "others": [
+      {
+        "person": "Shashi Kiran BP",
+        "title": "CTO & Co-Founder",
+        "linkedin": ""
+      },
+      {
+        "person": "Manmohan Singh",
+        "title": "COO & Co-Founder",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Avalara Technologies Private Limited",
+    "domain": "avalara.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only \"Vivek Dadhania Tax Manager\", a customer story, not Avalara leadership",
+    "others": []
+  },
+  {
+    "name": "Axium Global Private Limited",
+    "domain": "axiumglobal.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "About-us text mentions \"UK management\" but names no one",
+    "others": []
+  },
+  {
+    "name": "Barclays Global Service Centre Private Limited",
+    "domain": "barclays.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "\"Update from Group CEO, C.S.\" — name truncated, unusable",
+    "others": []
+  },
+  {
+    "name": "Botminds AI Technologies Private Limited",
+    "domain": "botminds.ai",
+    "person": "Gokul Ganapathi",
+    "title": "CEO & Co-Founder",
+    "linkedin": "https://www.linkedin.com/in/gokulbotminds",
+    "confidence": "high",
+    "evidence": "\"Gokul Ganapathi CEO & Co-Founder\" with adjacent LinkedIn link",
+    "others": [
+      {
+        "person": "Ansari Ismail",
+        "title": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/ansarimi"
+      },
+      {
+        "person": "Pankaj Dhingra",
+        "title": "Chief Operating Officer & Chief Strategy Officer",
+        "linkedin": "https://www.linkedin.com/in/pandhi"
+      },
+      {
+        "person": "Elangovan Nagalingam",
+        "title": "Chairman",
+        "linkedin": "https://www.linkedin.com/in/elangovan-nagalingam-6bb20912"
+      }
+    ]
+  },
+  {
+    "name": "Broadridge Financial Solutions (India) Pvt Ltd",
+    "domain": "broadridge.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Scraped pages are product and contact copy; no leaders named",
+    "others": []
+  },
+  {
+    "name": "Caprus IT Private Limited",
+    "domain": "caprusit.com",
+    "person": "Omkar Tadepalli",
+    "title": "MD & CEO",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Omkar Tadepalli – MD & CEO Founded Caprus IT in March 2007\"",
+    "others": [
+      {
+        "person": "Susheel Dhanasri",
+        "title": "Vice President – Sales & Marketing",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "CDM Smith Global Services India LLP",
+    "domain": "cdmsmith.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "About-us text refers to \"leadership team\" generically, names no one",
+    "others": []
+  },
+  {
+    "name": "CitiusTech Healthcare Technology Pvt Ltd",
+    "domain": "citiustech.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "\"The founders assembled a high-caliber engineering team\" — founders never named",
+    "others": []
+  },
+  {
+    "name": "CLSA Technology & Services LLP",
+    "domain": "clsa.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "About and services pages name no individuals",
+    "others": []
+  },
+  {
+    "name": "CodeTantra Tech Solutions Private Limited",
+    "domain": "codetantra.com",
+    "person": "Ramana Telidevara",
+    "title": "Founder & CEO",
+    "linkedin": "https://www.linkedin.com/in/ramanatsv",
+    "confidence": "high",
+    "evidence": "\"Team Ramana Telidevara, Founder & CEO\" at the LinkedIn link",
+    "others": [
+      {
+        "person": "Ravi Sekhar Chilmakuri",
+        "title": "Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/ravi1sekhar1chilmakuri"
+      }
+    ]
+  },
+  {
+    "name": "Corient Business Solutions Private Limited",
+    "domain": "corientbs.co.uk",
+    "person": "Sachin Lohade",
+    "title": "Co Founder",
+    "linkedin": "https://www.linkedin.com/in/sachinlohade1",
+    "confidence": "high",
+    "evidence": "\"Sachin Lohade Co Founder\" on team page; slug sachinlohade1 matches",
+    "others": []
+  },
+  {
+    "name": "Crane Process Flow Technologies (India) Private Limited",
+    "domain": "craneco.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "\"appointed President and CEO\" with no name; founder only as \"R.T.\"",
+    "others": []
+  }
+]

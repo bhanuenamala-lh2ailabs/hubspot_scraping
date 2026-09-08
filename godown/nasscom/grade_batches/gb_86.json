@@ -1,0 +1,122 @@
+[
+ {
+  "name": "Ossisto Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "ossisto.com",
+  "website": "https://ossisto.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 20923,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_bpo": 8,
+   "DQ_agency": 21,
+   "enterprise": 5
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "Let us handle it, while you focus on growth Data Entry Virtual Assistant Data accuracy matters.",
+    "Our Data Entry Virtual Assistants are experts in precision.",
+    "2 Onboarding Once you approve our proposal, our team will begin processing your data entry tasks.",
+    "After we deliver your completed data entry tasks, we’ll continue to provide ongoing support."
+   ],
+   "DQ_agency": [
+    "Our Social Media Virtual Assistant handles posts, engagement, and analytics, boosting your brand effortlessly Digital Marketing Virtual Assistant Supercharge digital marketing with our dedicated Virtual Assistant Services.",
+    "From content to SEO, campaigns, and analytics, we've got you covered.",
+    "ossisto has been a very good choice for us in seo meta and ppc advertising AI development and social media.",
+    "This blog covers… Read more Key Benefits of Using Keyword Clustering Tools for Rankings Keyword clustering tools help you group related search terms, uncover user intent, and build stronger SEO strategies."
+   ],
+   "enterprise": [
+    "Industries we serve Boost your business with our industry-focused support Property Management Real Estate Small Business Owners Ecommerce Insurance Health Care Don't know where to start?",
+    "Competitive Benefits: We believe in rewarding our employees generously, with competitive salaries, comprehensive health insurance, and other attractive benefits.",
+    "For modern businesses, finding the best… Read more How Technology is Reshaping the Future of Healthcare Innovative technologies are making healthcare more connected, efficient, and proactive.",
+    "By… Read more Top Healthcare SEO Services for Medical Practices 2026 Healthcare SEO services help medical practices, clinics, and hospitals improve online visibility, attract more patients, and grow revenue."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -24
+ },
+ {
+  "name": "Aabasoft Technologies (India) Private Limited",
+  "city": "Kochi",
+  "domain": "aabasoft.com",
+  "website": "https://www.aabasoft.com/in-en/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Offshore Software Development Company Kerala, India | Aabasoft - Aabasoft Technologies Pvt. Ltd. To"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 13413,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 4,
+   "sdlc": 1,
+   "DQ_bpo": 12,
+   "DQ_agency": 7,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our products will strictly measure up to the required quality, value and time.",
+    "Our products will strictly adhere on our values quality, value and time.",
+    "Our products and custom development solutions are designed to fit our clients business requirements, and to help them achieve their organizational goals and objectives.",
+    "Cloud helps you create agility in all your platforms and help developers focus on an excellent client side user experience and fast turnover."
+   ],
+   "sdlc": [
+    "Welcome to the agile world!"
+   ],
+   "DQ_bpo": [
+    "Apply Now BPO Services HR RECRUITER We are hiring for Kochi location..",
+    "Apply Now Web & Mobile DATA ENTRY TRAINIEE We are hiring for kochi location..",
+    "Apply Now BPO Services SALES AND FINANCE ADVISOR We are hiring..",
+    "Apply Now BPO Services ASSOCIATE RESEARCHER We are Hiring Associate Researcher.."
+   ],
+   "DQ_agency": [
+    "Apply Now Internet Marketing Digital Marketing Intern – Search Engine Marketing...",
+    "Apply Now Internet Marketing Digital Marketing Intern – Social Media Marketing ...",
+    "Apply Now Internet Marketing DIGITAL MARKETING INTERN – SEO We Are Hiring Interns For Kochi Location..",
+    "Apply Now Internet Marketing DIGITAL MARKETING INTERN – CONTENT WRITER We Are Hiring Interns For Kochi Location.."
+   ],
+   "enterprise": [
+    "Apply Now BPO Services HEALTHCARE SUPPORT EXECUTIVE We are Hiring.."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -24
+ }
+]

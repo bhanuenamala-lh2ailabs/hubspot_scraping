@@ -1,0 +1,50 @@
+  (no existing_universe.csv — skipping that dedupe)
+  (no DEALS_MASTER.csv — skipping that dedupe)
+prior universe: 0 domains, 0 names
+
+[P1] infopark
+    infopark companies p0 — 42 rows, 35 domains cumulative
+    infopark companies p1 — 42 rows, 70 domains cumulative
+    infopark companies p2 — 42 rows, 109 domains cumulative
+    infopark companies p3 — 42 rows, 147 domains cumulative
+    infopark companies p4 — 42 rows, 180 domains cumulative
+    infopark companies p5 — 42 rows, 219 domains cumulative
+    infopark companies p6 — 42 rows, 256 domains cumulative
+    infopark companies p7 — 42 rows, 295 domains cumulative
+    infopark companies p8 — 42 rows, 332 domains cumulative
+    infopark companies p9 — 42 rows, 371 domains cumulative
+    infopark companies p10 — 12 rows, 381 domains cumulative
+    infopark companies p11 — 0 rows, 381 domains cumulative
+    infopark infopark-kochi-phase-1 p0 — 42 rows, 416 domains cumulative
+    infopark infopark-kochi-phase-1 p1 — 42 rows, 451 domains cumulative
+    infopark infopark-kochi-phase-1 p2 — 42 rows, 490 domains cumulative
+    infopark infopark-kochi-phase-1 p3 — 42 rows, 526 domains cumulative
+    infopark infopark-kochi-phase-1 p4 — 42 rows, 564 domains cumulative
+    infopark infopark-kochi-phase-1 p5 — 42 rows, 602 domains cumulative
+    infopark infopark-kochi-phase-1 p6 — 10 rows, 612 domains cumulative
+    infopark infopark-kochi-phase-1 p7 — 0 rows, 612 domains cumulative
+    infopark infopark-thrissur p0 — 42 rows, 650 domains cumulative
+    infopark infopark-thrissur p1 — 42 rows, 688 domains cumulative
+    infopark infopark-thrissur p2 — 1 rows, 689 domains cumulative
+    infopark infopark-thrissur p3 — 0 rows, 689 domains cumulative
+    infopark infopark-cherthala p0 — 17 rows, 706 domains cumulative
+    infopark infopark-cherthala p1 — 17 rows, 723 domains cumulative
+    infopark infopark-cherthala p2 — 0 rows, 723 domains cumulative
+    -> 813 parsed, 723 with domain (79s)
+
+
+================================================================================================
+SELF-AUDIT
+================================================================================================
+1. source report rows: 1 (one per directory attempted)  PASS
+2. social/blocked domains in output: 0  PASS
+3. conservation: final 390 + rejects 423 == parsed 813  PASS
+4. domain fill-rate overall: 88.7%
+     infopark             813 parsed    723 dom   88.9%
+5. non-evidenced domains: 0  PASS
+6. sampled 15 'listed' rows, domain found in cached HTML: 0/15
+7. duplicate domains in output: 0  PASS
+================================================================================================
+
+TOTALS: 390 companies | with domain 346 | backfill_needed 44 | rejects 423
+outputs -> /Users/bhanu/Desktop/hubspot/godown/itdirs/out/it_directory_universe.csv

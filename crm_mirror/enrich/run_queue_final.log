@@ -1,0 +1,43 @@
+  already have -> {'Yuktha': 81, 'Lamiya': 82} ; still needed -> {'Yuktha': 19, 'Lamiya': 18}
+queue=725 | already pushed=163 | credits=183 | target={'Yuktha': 19, 'Lamiya': 18}
+  [Lamiya 83] cb= 68 Finnoto                    +919560074578 deal=340116079333
+  [Lamiya 84] cb= 68 Circle Health              +919820110633 deal=340188317416
+  [Lamiya 85] cb= 68 Mobilab                    +918638795614 deal=340116079337
+  [Lamiya 86] cb= 68 ZeboLive                   +916358860154 deal=340188342988
+  [Yuktha 82] cb= 68 Healthysure                +919920247419 deal=340168692467
+  [Lamiya 87] cb= 68 Aquaconnect                +919677088546 deal=340168707797
+  [Yuktha 83] cb= 68 NxtWave                    +918008600644 deal=340168707800
+  [Yuktha 84] cb= 68 Hudle                      +919818731968 deal=340068424410
+  [Lamiya 88] cb= 68 Allo Health                +919322065652 deal=340188290787
+  [Lamiya 89] cb= 68 Torus Robotics             +918939565425 deal=340122901178
+  [Yuktha 85] cb= 68 HexaHealth                 +919930134478 deal=340068424416
+  [Yuktha 86] cb= 68 Ossus                      +919920563943 deal=340168707804
+  [Lamiya 90] cb= 68 Seekho                     +919667520563 deal=340119857913
+  [Yuktha 87] cb= 68 Marut Drones               +919000103541 deal=340114045641
+  [Yuktha 88] cb= 68 Metashot                   +919886604448 deal=340168693451
+  --- Lamiya batch 10 ---
+  [Lamiya 91] cb= 68 RevFin                     +917042689844 deal=340080264951
+  [Yuktha 89] cb= 68 AugSenseLab                +919446328078 deal=339972603596
+  [Lamiya 92] cb= 68 ANSCER                     +918075581971 deal=339991884521
+  [Lamiya 93] cb= 68 JustDeliveries             +917977543109 deal=340188357340
+  [Yuktha 90] cb= 68 Gabit                      +919654861517 deal=339972603601
+  [Lamiya 94] cb= 68 Metalbook                  +919555110226 deal=340104731335
+  --- Yuktha batch 10 ---
+  [Yuktha 91] cb= 68 HiWiPay                    +919930268050 deal=339972603606
+  [Lamiya 95] cb= 68 NeoGeo                     +919313359531 deal=340188365554
+  [Lamiya 96] cb= 68 REGRIP                     +919829897853 deal=340168707817
+  [Yuktha 92] cb= 66 Buildd                     +918511194400 deal=340188302042
+  [Yuktha 93] cb= 66 EximPe                     +919845232406 deal=340119858894
+  [Lamiya 97] cb= 66 FamApp                     +918427568881 deal=340168742612
+  [Yuktha 94] cb= 66 Saarathi                   +919216493338 deal=340117873398
+  [Lamiya 98] cb= 66 Mykare Health              +919962080966 deal=339984651976
+  [Yuktha 95] cb= 66 Floworks                   +919353469949 deal=340188343021
+  [Lamiya 99] cb= 66 Prolance                   +919845188732 deal=340188357353
+  [Yuktha 96] cb= 66 Blitz                      +919455500191 deal=340168742618
+  [Lamiya 100] cb= 66 SmartCheck                 +919066822435 deal=340095209203
+  [Yuktha 97] cb= 66 Liquide Solutions          +919599588124 deal=340166765263
+  [Yuktha 98] cb= 66 Oorjaa                     +919833550953 deal=340080265931
+  [Yuktha 99] cb= 66 Jidoka                     +919962279984 deal=340168717020
+  [Yuktha 100] cb= 66 FatakPay                   +919820232276 deal=340166765268
+
+pushed {'Yuktha': 100, 'Lamiya': 100} | skipped-no-phone 40 | credits 183 -> 141

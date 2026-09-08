@@ -1,0 +1,295 @@
+[
+ {
+  "name": "aarsis Solutions",
+  "domain": "aarsis.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "+8801301775511",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Team page has no names, only 'Meet our talented team of professionals'",
+  "others": []
+ },
+ {
+  "name": "Glorious IT",
+  "domain": "gloriousit.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Team lists engineer, CMO, sales, marketer; no founder/CEO/MD named",
+  "others": [
+   {
+    "person": "Priyanka Majumder",
+    "title": "HR & Chief Marketing Officer",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "Octarnal",
+  "domain": "octarnal.com",
+  "person": "Muntahi Safwan",
+  "title": "Founder",
+  "linkedin": "https://www.linkedin.com/in/muntahi-safwan",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Muntahi Safwan Founder; Muntahi founded Octarnal to prove design engineering business sense",
+  "others": [
+   {
+    "person": "Sagor Hossain",
+    "title": "Co-Founder",
+    "linkedin": "https://www.linkedin.com/in/sagor-hossain-web-dev"
+   },
+   {
+    "person": "Abdul M. Fahim",
+    "title": "CTO",
+    "linkedin": "https://www.linkedin.com/in/abdulmozidfahim"
+   }
+  ]
+ },
+ {
+  "name": "Ridwa",
+  "domain": "ridwa.com",
+  "person": "Mahmud Sogir",
+  "title": "Founder, Tech Lead",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Mahmud Sogir FOUNDER, TECH LEAD He has the ideas",
+  "others": []
+ },
+ {
+  "name": "MNP Techs",
+  "domain": "mnptechs.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Product and services copy only; no individual named anywhere",
+  "others": []
+ },
+ {
+  "name": "Web Integrator Ltd",
+  "domain": "webintegrator.com.bd",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Text is Flexify Ltd about-page copy; no person named",
+  "others": []
+ },
+ {
+  "name": "Incrosoft",
+  "domain": "incrosoft.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Page text empty; only a person-schema URL incrosoft.com/susmoy-debnath, no title",
+  "others": [
+   {
+    "person": "Susmoy Debnath",
+    "title": null,
+    "linkedin": "https://www.linkedin.com/in/thesusmoy"
+   }
+  ]
+ },
+ {
+  "name": "S Technologies",
+  "domain": "stechbd.net",
+  "person": "Ashraful Alam Shemul",
+  "title": "CEO & Founder",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Ashraful Alam Shemul CEO of S Technologies; Shemul is the founder",
+  "others": []
+ },
+ {
+  "name": "PrimX Technologies",
+  "domain": "primxtech.com",
+  "person": "Mohammad Arman Sharier",
+  "title": "Co-Founder",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Mohammad Arman Sharier Co-Founder Reefat Ahmed-Ar-Rafi Co-Founder",
+  "others": [
+   {
+    "person": "Reefat Ahmed-Ar-Rafi",
+    "title": "Co-Founder",
+    "linkedin": "https://www.linkedin.com/in/reefat-ahmed-ar-rafi-7628a2111"
+   }
+  ]
+ },
+ {
+  "name": "W3 Soft Net",
+  "domain": "w3softnet.com",
+  "person": "Shah Jamal",
+  "title": "Chairman & CEO",
+  "linkedin": "https://www.linkedin.com/in/md-shah-jamal",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Shah Jamal Chairman & CEO; Under his leadership W3 Soft Net",
+  "others": [
+   {
+    "person": "Amin Bepari",
+    "title": "Managing Director",
+    "linkedin": "https://www.linkedin.com/in/okaminbepari"
+   }
+  ]
+ },
+ {
+  "name": "R-creation",
+  "domain": "rcreation-bd.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "About page describes company only; LinkedIn /in/r-creation is company handle",
+  "others": []
+ },
+ {
+  "name": "SLYTHZ LABS",
+  "domain": "slythz.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Only repeated tagline 'SLYTHZ LABS | Know and Visualize the Future'",
+  "others": []
+ },
+ {
+  "name": "Winky Tech Limited",
+  "domain": "winkytech.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Bare role card: 'CEO, Founder & Managing Director Md.' with no name",
+  "others": []
+ },
+ {
+  "name": "Rafusoft",
+  "domain": "rafusoft.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Team lists programmers, marketers, support only; no founder/CEO/MD named",
+  "others": []
+ },
+ {
+  "name": "Abiflow Labs",
+  "domain": "abiflowlabs.com",
+  "person": "Mohammad Abu Abid",
+  "title": "Founder & CEO",
+  "linkedin": "https://www.linkedin.com/in/abid-mohammad-abu-3742063ab",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Mohammad Abu Abid — Founder & CEO of Abiflow Labs",
+  "others": []
+ },
+ {
+  "name": "Workspace InfoTech Australia PTY Limited",
+  "domain": "workspaceit.com.au",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Services copy only; no individual named on the captured page",
+  "others": []
+ },
+ {
+  "name": "Oracle Byte",
+  "domain": "oraclebyte.com",
+  "person": "Tasnimul Haque",
+  "title": "Founder & CEO",
+  "linkedin": "https://www.linkedin.com/in/tasnimul-haque-",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Tasnimul Haque Founder & CEO, Oracle Byte",
+  "others": [
+   {
+    "person": "Khudrat-A-Khuda Emon",
+    "title": "Business Development Specialist",
+    "linkedin": "https://www.linkedin.com/in/md-kudrat-a-khuda-emon-7a1bb3398"
+   }
+  ]
+ },
+ {
+  "name": "Update Tech Ltd.",
+  "domain": "updatetechltd.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Team and leadership pages return 'Page not found'; no names present",
+  "others": []
+ },
+ {
+  "name": "SOFT GHOR",
+  "domain": "softghor.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Only quotes 'KEN MaCcarthy', founder father of internet marketing, not company",
+  "others": []
+ },
+ {
+  "name": "iSoft",
+  "domain": "isoftint.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "01816025846",
+  "email": "info@isoftint.com",
+  "confidence": "low",
+  "evidence": "Team shows Support Engineers and Marketing Officer only; no founder/CEO named",
+  "others": []
+ },
+ {
+  "name": "Roopokar",
+  "domain": "roopokar.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "+8801715374237",
+  "email": "sales@roopokar.com",
+  "confidence": "low",
+  "evidence": "Inventory software marketing page only; no person named",
+  "others": []
+ }
+]

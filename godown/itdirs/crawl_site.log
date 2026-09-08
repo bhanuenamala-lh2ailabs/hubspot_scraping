@@ -1,0 +1,15 @@
+[site] 337 in lane, 0 done, 337 to go, 8 workers
+[site] batch 1/14 — 25 done, 24/min, ~13 min left
+[site] batch 2/14 — 50 done, 31/min, ~9 min left
+[site] batch 3/14 — 75 done, 31/min, ~9 min left
+[site] batch 4/14 — 100 done, 34/min, ~7 min left
+[site] batch 5/14 — 125 done, 37/min, ~6 min left
+[site] batch 6/14 — 150 done, 37/min, ~5 min left
+[site] batch 7/14 — 175 done, 40/min, ~4 min left
+[site] batch 8/14 — 200 done, 39/min, ~4 min left
+[site] batch 9/14 — 225 done, 40/min, ~3 min left
+[site] batch 10/14 — 250 done, 40/min, ~2 min left
+[site] batch 11/14 — 275 done, 5/min, ~12 min left
+[site] batch 12/14 — 300 done, 6/min, ~7 min left
+[site] batch 13/14 — 325 done, 6/min, ~2 min left
+[site] COMPLETE — 337 processed in 53.3 min

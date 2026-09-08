@@ -1,0 +1,302 @@
+[
+ {
+  "name": "Jones Lang LaSalle Property Consultants (India) Private Limited",
+  "domain": "jll.co.in",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "commercial real estate brokerage, property investment and facilities management",
+  "evidence": "\"Commercial real estate and property investment\"; industry insights, listed properties, REITs, GCC siting"
+ },
+ {
+  "name": "Kapil IT Solutions Private Limited",
+  "domain": "kapilit.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "custom applications, ERP and mobile development plus own vertical software products",
+  "evidence": "\"Customized Applications, ERP Software Development, Mobile Applications\"; \"our exclusive products help real estate\""
+ },
+ {
+  "name": "KIOPL Management Solutions India Private Limited",
+  "domain": "kkr.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "global private equity, credit, infrastructure and real estate investment firm",
+  "evidence": "\"KKR is a leading global investment firm\"; private equity, credit, infrastructure AUM figures"
+ },
+ {
+  "name": "KPIT Technologies Ltd",
+  "domain": "kpit.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "cannot determine; scraped page returned binary garbage, needs human check",
+  "evidence": "text is unreadable binary/encoding garbage, no legible business description present"
+ },
+ {
+  "name": "Kyndryl Solutions Private Limited",
+  "domain": "kyndryl.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "mission-critical IT operations, data centre outsourcing, some modernization engineering",
+  "evidence": "\"agentic modernization\", \"policy as code\"; but recognitions are data centre outsourcing, hybrid cloud"
+ },
+ {
+  "name": "Lentera Technologies Private Limited",
+  "domain": "lentera.in",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": 2015,
+  "what_they_do": "web and mobile app development, custom software, plus own CRM products",
+  "evidence": "\"We have been working with Software Development, since 2015\"; \"Custom Development\", \"Our Products\""
+ },
+ {
+  "name": "Live Deftsoft Informatics Private Limited",
+  "domain": "deftsoft.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "web and mobile app development agency, also digital marketing services",
+  "evidence": "\"dedicated software development and digital marketing agency\"; \"responsive, secure websites and web apps\""
+ },
+ {
+  "name": "M&G Global Services Private Limited",
+  "domain": "prudential.co.uk",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "asset management, life and pensions savings and investment products",
+  "evidence": "\"a leader in savings and investments\"; \"combines global asset management with life and pensions\""
+ },
+ {
+  "name": "Manhattan Associates (India) Development Centre Pvt Ltd",
+  "domain": "manh.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "builds supply chain, warehouse management and commerce software platform",
+  "evidence": "\"Manhattan Active is the unified foundation for global supply chains\"; \"most extensible WMS in the industry\""
+ },
+ {
+  "name": "Medsynaptic Pvt Ltd",
+  "domain": "medsynaptic.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "builds and sells RIS-PACS, VNA and teleradiology medical imaging software",
+  "evidence": "\"Medsynapse RIS-PACS has many inbuilt AI Workflows\"; \"15,000+ Licenses Installed\", named products"
+ },
+ {
+  "name": "Mettlesemi Systems And Technologies Private Limited",
+  "domain": "mettlesemi.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "both",
+  "founded_year": 2021,
+  "what_they_do": "FPGA/ASIC design services, embedded firmware and own embedded security products",
+  "evidence": "\"Embedded Software/Firmware expertise\"; \"RTL Design and Design Verification\"; \"Embedded Products\""
+ },
+ {
+  "name": "Minutus Computing Private Limited",
+  "domain": "minutuscomputing.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "customizes and extends 3DEXPERIENCE PLM platform, builds integrations, DevSecOps",
+  "evidence": "\"building, extending, customizing and enriching 3DEXPERIENCE platform and applications\"; iPaaS, custom part numbering"
+ },
+ {
+  "name": "mokSa Technologies India Pvt Ltd",
+  "domain": "moksatechnologies.com",
+  "relevant": false,
+  "confidence": "medium",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "Genesys contact-centre partner doing CX implementation and consulting",
+  "evidence": "\"Pure Play Genesys Partner with Global footprint\"; \"CX implementations in 10+ countries\""
+ },
+ {
+  "name": "Mouri Tech Limited",
+  "domain": "mouritech.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "enterprise application services, product engineering, plus own AI and compliance platforms",
+  "evidence": "\"Application Services, DevOps, Product Engineering\"; digital assets \"MouRio – AI Platform, mSecComply\""
+ },
+ {
+  "name": "Murata Vios Private Limited",
+  "domain": "viosmedical.com",
+  "relevant": false,
+  "confidence": "medium",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "remote cardiac telemetry and vital-signs patient monitoring program for hospitals",
+  "evidence": "\"hospital-grade cardiac telemetry... 24/7 remote monitoring by certified ECG technicians\"; no development claim"
+ },
+ {
+  "name": "Navigators Software Pvt Ltd",
+  "domain": "navsoft.in",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "custom application and product engineering, ERP/ecommerce builds, own retail products",
+  "evidence": "\"Application Development, Product Engineering, Outsourcing & Dedicated Teams\"; \"Retail Products... NavAI\""
+ },
+ {
+  "name": "Netflix Entertainment Services India LLP",
+  "domain": "about.netflix.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "streaming entertainment: series, films and games for global subscribers",
+  "evidence": "\"We are here to entertain the world\"; \"Netflix delivers the next series, films and games\""
+ },
+ {
+  "name": "Nike India Technology Center Private Limited",
+  "domain": "about.nike.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "athletic footwear and apparel brand, sport product innovation",
+  "evidence": "\"The official website for NIKE, Inc., Converse and Jordan Brands\"; footwear, apparel, athlete stories"
+ },
+ {
+  "name": "Novo Nordisk Service Center India Pvt Ltd",
+  "domain": "novonordisk.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "pharmaceutical manufacturer of prescription medicines, diabetes and obesity drugs",
+  "evidence": "R&D pipeline, semaglutide, falsified medicines guidance; \"accelerate drug discovery\" as buyer of AI"
+ },
+ {
+  "name": "Object Technology Solutions India Private Limited",
+  "domain": "otsi.co.in",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "custom application development, integration, QA engineering and test automation",
+  "evidence": "\"Application Integration, Platform Modernization, QA & Testing COE\"; \"OTSI Develops UPAg Statistics for Ministry\""
+ },
+ {
+  "name": "OneGlobe Systems LLP",
+  "domain": "oneglobesystems.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "Oracle applications, cloud apps, custom software development and web design",
+  "evidence": "\"a wide range of IT services, including network administration, software development, and web design\""
+ },
+ {
+  "name": "Orange Technolab Pvt Ltd",
+  "domain": "orangewebtech.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "web, mobile, game and ecommerce development plus bespoke solution development",
+  "evidence": "\"An award-winning Software Development Company... Web, Mobile & Cloud development\"; \"bespoke Solution Development\""
+ },
+ {
+  "name": "Ozonetel Communications Private Limited",
+  "domain": "ozonetel.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "builds unified contact-centre CX platform with voice AI agents",
+  "evidence": "\"Unified Customer Experience Platform\"; \"Build and deploy your own AI agents\", 3,500+ brands"
+ },
+ {
+  "name": "PB Fintech Limited",
+  "domain": "pbfintech.in",
+  "relevant": false,
+  "confidence": "medium",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "online insurance and lending marketplace (Policybazaar, Paisabazaar) distribution",
+  "evidence": "\"India's largest online platform for Insurance & Lending products\" — distributes insurance, not software"
+ },
+ {
+  "name": "Pinnacle Infotech Solutions",
+  "domain": "pinnaclecad.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "cannot determine; scraped page returned binary garbage, needs human check",
+  "evidence": "text is unreadable binary/encoding garbage, no legible business description present"
+ },
+ {
+  "name": "Precise Testing Solution Private Limited",
+  "domain": "precisetestingsolution.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "software QA: manual and automation testing, security and compliance testing",
+  "evidence": "\"A Pure Software Testing Company\"; \"Functional Testing, Automation Testing, Performance Testing\""
+ },
+ {
+  "name": "Privafy Technologies India Private Limited",
+  "domain": "privafy.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "builds cloud-native security-as-a-service products for carriers, IoT, enterprises",
+  "evidence": "\"Privafy CarrierEdge, MicroEdge, CloudEdge\"; \"integrated cloud-native security-as-a-service\""
+ },
+ {
+  "name": "Provalidate Services Private Limited",
+  "domain": "provalidate.in",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "employee background verification and pre-employment screening checks",
+  "evidence": "\"cost-effective and customized background check solutions\"; site itself \"Developed By: Delta-i Software\""
+ },
+ {
+  "name": "QA Masters Private Limited",
+  "domain": "surensinffotek.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "software QA engineering, test automation, RPA bots and AI automation builds",
+  "evidence": "\"focused company for QA and RPA areas\"; \"Software Quality Assurance and Engineering\", bots, NLP"
+ },
+ {
+  "name": "Quatrro Global Services Pvt Ltd",
+  "domain": "quatrro.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "business and knowledge process outsourcing, mortgage and finance back-office",
+  "evidence": "\"offering business and knowledge processing services\"; \"pioneers of the Indian Business Process Outsourcing industry\""
+ }
+]

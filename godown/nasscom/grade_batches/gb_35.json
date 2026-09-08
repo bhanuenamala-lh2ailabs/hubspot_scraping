@@ -1,0 +1,853 @@
+[
+ {
+  "name": "Foss Infotech Private Limited",
+  "city": "Coimbatore",
+  "domain": "fossinfotech.com",
+  "website": "http://www.fossinfotech.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ng Customers across the globe with Odoo ERP and Open Source Software Solutions. We are specialized in ERP, CRM, Document Management System and Softwar"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 12295,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "DQ_training": 1,
+   "DQ_template": 2,
+   "cicd": 1,
+   "sdlc": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "By using this module, we Our Products Our products include ODOO (Formerly OpenERP), Alfresco and RackON (Customized servers built on Open Standards)."
+   ],
+   "DQ_training": [
+    "Alfresco is the best found replacement for Microsoft SharePoint."
+   ],
+   "DQ_template": [
+    "Intuitive and user-friendly, the app comes with an extensive template library and an affordable price: 90% cheaper than Mailchimp.",
+    "Odoo Website Builder The web page editor has been completely redeveloped for better performance and optimized usability."
+   ],
+   "cicd": [
+    "Your Sales Funnel, The Way You Like It Track your opportunities pipeline with the revolutionary kanban view."
+   ],
+   "sdlc": [
+    "Your Sales Funnel, The Way You Like It Track your opportunities pipeline with the revolutionary kanban view."
+   ],
+   "DQ_support": [
+    "foss Read more Opensource Hardware Rackon FOSS INFOTECH launches its own Open Source Hardware Rack-ON Powered by KVM based Hypervisors to create Virtual Machine."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "FourCore Labs Private Limited",
+  "city": "New Delhi",
+  "domain": "fourcore.io",
+  "website": "https://fourcore.io",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "cicd": 2,
+   "DQ_template": 1,
+   "vcs": 2,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Leadership Explore More Frequently Asked Questions Everything you need to know about FourCore ATTACK, security control validation, and continuous validation in regulated environments.",
+    "FourCore ATTACK helps regulated entities meet SEBI's Cyber Security and Cyber Resilience Framework (CSCRF) by continuously validating security controls and auto-generating audit-ready evidence.",
+    "In recent months, Rhysida has run campaigns compromising and extorting organizations from the government, education, healthcare, IT, and manufacturing sectors.",
+    "Wed Aug 31, 2022 Ryuk Ransomware: History, Timeline, and Adversary Simulation Ryuk is ransomware attributed to the hacker group WIZARD SPIDER that has targeted governments, healthcare, manufacturing, and technology organizations."
+   ],
+   "cicd": [
+    "Mon July 04, 2022 Jenkins discloses zero-day vulnerabilities affecting dozens of plugins If you are a user of Jenkins, go patch!",
+    "Jenkins security team announced various bugs affecting a variety of their plugins."
+   ],
+   "DQ_template": [
+    "Mon May 30, 2022 New zero-day code execution vulnerability in MS Office - Follina Independent security research team nao_sec reported a file submitted from Belarus exploiting the ms-msdt protocol and template injection to achieve zero-click code execution in MS Word."
+   ],
+   "vcs": [
+    "Download it now from GitHub.",
+    "Download the binary from GitHub."
+   ],
+   "DQ_training": [
+    "Not a mascot, and not a replacement for skilled human red teaming, but a standing source of evidence that your defenses still hold."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Fox Mandal & Associates LLP",
+  "city": "Mumbai",
+  "domain": "foxmandal.in",
+  "website": "https://foxmandal.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 35588,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our processes (including use of and access to technology) are designed to ensure that all matters remain confidential and are discussed within the firm only on a “need to know” basis."
+   ],
+   "enterprise": [
+    "We advise a wide range of clients, including Fortune 500 companies, large and medium multinationals, Indian business groups, emerging companies, public sector organisations, government, and educational institutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Fragomen Immigration Services India Private Limited",
+  "city": "New Delhi",
+  "domain": "fragomen.com",
+  "website": "https://www.fragomen.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 137521,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our platform for sovereignty delivers custom solutions built on a century of cutting-edge innovations in material, digital, and data science domains.",
+    "With operations across five continents, today our platform for sovereignty delivers integrated solutions safeguarding revenue mobilisation, natural resources, health, and brand protection as well as digital sovereignty and secure public services."
+   ],
+   "DQ_training": [
+    "EOIs already in the pool will transfer automatically to the new system, without applicants needing to file a replacement EOI.",
+    "Generally, individuals who have continuously maintained an EOI (including those who lodged a replacement within 90 days after an earlier EOI expired) will retain a queue position linked to the date their original EOI was accepted."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Frontierwox Tech Private Limited",
+  "city": "Chennai",
+  "domain": "frontierwox.in",
+  "website": "https://frontierwox.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2025-12-10",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2
+  },
+  "site_quotes": {
+   "cicd": [
+    "AI Chatbots OCR Extraction Predictive Models Cloud Infrastructure & DevOps Cloud migration, serverless architecture, CI/CD automation, and multi-tenant cloud management on AWS, Azure, and Google Cloud Platform.",
+    "AWS / Azure / GCP CI/CD Pipelines Docker / K8s EdTech & Digital Campus End-to-end digital campus suites, AI-proctored examination platforms, LMS portals, and verifiable digital certification platforms via FWT iZON."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Fujitsu Research of India Private Limited",
+  "city": "Bengaluru",
+  "domain": "fujitsu.com",
+  "website": "https://global.fujitsu/en-global",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "right culture and transform your business. We’ve built our portfolio to help you achieve this with hybrid IT, end to end networking solutions and Dig"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 35853,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "It supports better decisions and stronger operations while maintaining data sovereignty, security, and control."
+   ],
+   "enterprise": [
+    "Designed for enterprise use, it delivers explainability, robust governance, and reliable security, enabling safe deployment in critical and regulated environments.",
+    "Fujitsu Generative AI for Cohere Takane（Video） Takane (PDF) 04 Customer Success Stories Using Fujitsu AI Evolutions in Action Social Medical Corporation Genshukai Achieve sustainable regional healthcare with AI and Fujitsu Data Intelligence PaaS."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Fulambri Text Com Private Limited",
+  "city": "Mumbai",
+  "domain": "fulambritext.com",
+  "website": "https://fulambritext.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 235,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "GAC Digital Private Limited",
+  "city": "Hyderabad",
+  "domain": "gacdigital.in",
+  "website": "https://gacdigital.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2019-12-24",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Our professionals are experienced in diverse domains such as banking, insurance, retail, automobile, manufacturing and financial markets.",
+    "Vision Statement To be the leaders in providing word-class software’s and IT solutions to the world’s Fortune 500 companies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Gap IT Services India Private Limited",
+  "city": "Hyderabad",
+  "domain": "gapinc.com",
+  "website": "https://www.gapinc.com/en-us/",
+  "already_in_hubspot": false,
+  "headcount_known": 72298,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 13,
+   "external_job_boards": [],
+   "jd_chars": 94791,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "enterprise": 6,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "BROWSE OPENINGS How We Work Center on the Customer Every decision we make starts with our customer."
+   ],
+   "enterprise": [
+    "With more than 20 years of experience across Fortune 500 companies and startups, Eric brings a strong track record of driving growth through disciplined strategy, operational rigor, and a focus on enabling creative, entrepreneurial cultures.",
+    "leadership organization of Chinese Americans – and previously served on the board of Heritage Financial Corporation (NASDAQ: HFWA).",
+    "With more than 30 years of technology leadership across seven Fortune 500 companies, Sven has built a distinguished career driving large-scale strategic and cultural change."
+   ],
+   "owns_product": [
+    "You'll get a chance to balance and shape business process with technology development, and lend your strategic eye to the way we approach our products.",
+    "This team is key to overseeing the cohesion of our products working together to make something bigger, and aligning with our technical standards and strategies to ultimately create an ecosystem that is optimized and sound."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Garuda Aerospace Private Limited",
+  "city": "Chennai",
+  "domain": "garudaaerospace.com",
+  "website": "https://www.garudaaerospace.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "+ Delighted Clients 200 + Employees 350 Projects 500 Pilots Our Products Kisan Agri Drone Farmers can adapt to various circumstances and make thoughtf"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1287,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Gateway Internet Protocol Management Private Limited",
+  "city": "Pune",
+  "domain": "sakon.com",
+  "website": "https://www.sakon.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "o understand, manage and transform their telecom and device portfolios. Read about Sakon Device Platform Why Device Platform Solutions Device Lifecycl"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 13980,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "DQ_support": 1,
+   "owns_product": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Impact at Scale From Fortune 500 clients to global sustainability efforts, your work here influences enterprises worldwide and shapes a more responsible digital future.",
+    "Global Impact Today, Sakon manages services for more than 200 global enterprises across over 100 countries, serving organizations from high-growth startups to Fortune 500 leaders.",
+    "A healthcare IT professional stated, “Sakon has been truly flexible in accommodating our unique allocation methodology."
+   ],
+   "DQ_support": [
+    "Businesses want to keep their people connected and focused, meaning MMS providers are challenged to deliver reliable hardware and thoughtful service simultaneously."
+   ],
+   "owns_product": [
+    "We deployed our platform across 92,000+ devices, centralized inventory management, and integrated with their HR, MDM, and carrier systems — reducing annual mobility expenses by over $2 million and boosting user satisfaction by 40%.",
+    "With over 175,000 peer contributors on Gartner’s Peer Insights platform , a high rating isn’t just a vanity metric; it represents the faith and approval given to our platform after years of meeting and exceeding expectations.",
+    "While a litany of other TEM services are available, our platform remains the top choice for businesses seeking their first integrated telecom environment and organizations looking to upgrade existing software."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "GBSM Consulting Pvt. Ltd. (Business Brio Division)",
+  "city": "Kolkata",
+  "domain": "businessbrio.com",
+  "website": "https://www.businessbrio.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 24,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Clienteractive --> - Talent Brio - Vista Resource Center - Case Studies - White Papers --> Our Policy - Privacy Policy - Terms & Conditions Contact U"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 13410,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "enterprise": 4,
+   "cicd": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Scalable AI designed around your processes and business goals."
+   ],
+   "enterprise": [
+    "Financial Services and Insurance explore Telecom explore Manufacturing explore Consumer Goods explore Utility explore Social Sector explore Our Engagements We equip our clients to deliver value out of volume of data.",
+    "About Us Company Awards & Recognitions AI Innovation Studio Management Team Press Coverage Affiliation Our Verticals Financial Services and Insurance Telecom Manufacturing Consumer Goods Utility Capabilities Services Technologies Resource Center Products Career Privacy Policy Terms & Conditions © 2026 Business Brio.",
+    "Our leadership team brings deep global experience from Fortune 500 companies and has delivered impactful solutions across industries and geographies.",
+    "Download Fraud Analytics in Insurance - For one of the largest title insurance companies in North America Developed early warning method by applying machine learning algorithms on title plant data, claims data, easements and CC&Rs to identify suspicious release cases for one of the largest title Insurance..."
+   ],
+   "cicd": [
+    "Freshers / 0–1 Year Location : Kolkata (Onsite/Hybrid) Details Sales & Marketing Associate Job Description Support outreach, follow-ups, and sales pipeline management Collaborate with internal teams to support c.."
+   ],
+   "owns_product": [
+    "Find our products listed in the marketplace in the Product page section."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "GCC Services India Private Limited",
+  "city": "Bengaluru",
+  "domain": "ab-inbev.com",
+  "website": "https://www.ab-inbev.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Geekay Infotech",
+  "city": "Mumbai",
+  "domain": "geekayinfotech.com",
+  "website": "https://geekayinfotech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "n Solutions Audio & Video Infrastructure Solutions Software Application Development Solutions IT Offshoring Projects Consultancy Services Cyber Securi"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 39797,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "cicd": 2,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Talent Acquisition Executive – Healthcare Domain, USA Open Positions: – 1 Work Location:- Hybrid (Ghatkopar)/ Work from Home Work Timings:- 7:30 PM to 5:00 AM (IST) or Flexible as per different time zones of the USA Responsibilities:- Manage the entire life cycle of the recruitment process for clients in the USA.",
+    "of relevant experience in the Healthcare industry for USA Clients.",
+    "Qualification:- Any Management Graduate/Postgraduate, Medical background is preferable Key Requirements:- Strong understanding of Healthcare Industry requirements.",
+    "Knowledge of recruitment of Nurses, Nursing Assistants, Doctors, Therapists, Admin staff of hospitals & healthcare facilities, etc."
+   ],
+   "cicd": [
+    "Job description:- Influence Target audience and build Opportunity pipeline: Training/workshops as possible within the concerned region to establish our influence (authority) in the eyes of potential clients.",
+    "Juggling physical and digital assets can be overwhelming, impacting costs, productivity, and strategic decision-making."
+   ],
+   "sdlc": [
+    "Our commitment revolves around providing customer-centric, tailor-made solutions with a focus on high-quality, agile services offered in a cost-effective manner.",
+    "Our strategic technology consultancy services encompass cyber security and virtual CIO, ensuring businesses are agile and secure, instilling the confidence to emerge as industry leaders."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "General Atlantic Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "generalatlantic.com",
+  "website": "https://www.generalatlantic.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-11-01",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [
+    "https://job-boards.greenhouse.io/generalatlantic/jobs/4087844004"
+   ],
+   "jd_chars": 18745,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Learn More Assets Under Management $ 130B Total Capital Invested Since Inception $121B Global Locations 21 Partnerships with Depth Our platform is made to build durable, world-changing companies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "General Mills India Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "generalmills.com",
+  "website": "https://www.generalmills.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "owns_product": 3
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Explore more about our brands and our process."
+   ],
+   "owns_product": [
+    "Do you use GMO ingredients in your products?",
+    "Where are your products sold?",
+    "Our products are found in approximately 90% of U.S."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "GENPACT India Private Limited",
+  "city": "Gurugram",
+  "domain": "genpact.com",
+  "website": "https://www.genpact.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "npact Cora Discover Genpact Cora’s products Choose from our portfolio of powerful products to accelerate transformation. Transform with digital Genpac"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 18519,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 8,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Read more Read more Agentic AI Banking on agentic AI: Turning AP challenges into opportunities.",
+    "START HERE Rethink operations to reduce risk and refresh customer experiences with predictive, data-driven solutions.</p>\\r\\n\"}}\"> Insurance core operations Rethink operations to reduce risk and refresh customer experiences with predictive, data-driven solutions.",
+    "TECHNOLOGY Rethink operations to reduce risk and refresh customer experiences with predictive, data-driven solutions.</p>\\r\\n\"}}\"> Insurance core operations Rethink operations to reduce risk and refresh customer experiences with predictive, data-driven solutions.",
+    "During the Global Financial Crisis, became the trusted operator for complex, regulated processes at scale.</p>\\r\\n\"}}\" id=\"text-c62e86d1f3\" class=\"cmp-text\"> Spun out from GE in 2005 with IPO in 2007."
+   ],
+   "owns_product": [
+    "We combine our deep industry and business process knowledge with unique cloud accelerators, best practices, and platform partners.</p>\\r\\n\"}}\"> Cloud Services We combine our deep industry and business process knowledge with unique cloud accelerators, best practices, and platform partners."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "GEP Solutions Pvt Ltd",
+  "city": "Navi Mumbai",
+  "domain": "gep.com",
+  "website": "https://www.gep.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ies, intelligent and beautifully designed interfaces, GEP's software solutions drive transformative performance, create game-changing impact and help"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [
+    "https://geppeoplecentral.darwinbox.com/ms/candidatev2/main/careers/home"
+   ],
+   "jd_chars": 41043,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Learn More Supply Chain Outsourcing Build a resilient, agile supply chain with GEP’s flexible outsourcing solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "GERP Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "gerptech.com",
+  "website": "https://www.gerptech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "GK Cloud Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "gkcloud.ai",
+  "website": "https://gkcloud.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ }
+]

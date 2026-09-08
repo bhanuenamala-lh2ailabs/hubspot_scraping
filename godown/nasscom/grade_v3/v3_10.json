@@ -1,0 +1,1051 @@
+[
+ {
+  "name": "RMSI Pvt Ltd",
+  "city": "Gautam Buddha Nagar",
+  "domain": "rmsi.com",
+  "website": "https://www.rmsi.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "t including every manner of geospatial data conversions, to software development, to modeling, analytics, and consulting. The ability to offer complet"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 20319,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "cicd": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Explore How We Work - Our End-to-end capabilities RMSI manages the entire transformation journey – from data acquisition to AI-driven insights – so clients can focus on outcomes, not infrastructure.",
+    "Mission & Core Values Our values shape who we are, guide how we work, and define the impact we create."
+   ],
+   "cicd": [
+    "When a month’s rain quota arrives in four days, the marginal cost of each additional millimetre rises sharply – pumping stations are overwhelmed, rivers and nullahs reach capacity, and low-lying areas flood even before the rain itself lets up."
+   ],
+   "compliance": [
+    "CMMi level 5 certification ISO 27001:2022, ISO 9001:2015 ISO 14001:2015, ISO 45001:2018 The Turning Point Independence & Growth RMSI’s proven business model and solid client relationships motivated management to take ownership."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Rudrabhishek Infosystem Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "replinfosys.com",
+  "website": "https://www.replinfosys.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2012-12-28",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 5384,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "RIPL is an ISO 9001:2015 certified company, headquartered at New Delhi."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Secure Source Surveillance Pvt Ltd",
+  "city": "Secunderabad",
+  "domain": "sssplt.com",
+  "website": "https://sssplt.com/aboutus.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2020-06-15",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Fingerprinting Detailed fingerprint analysis and verification of candidates to trace any criminal history as per police records Certifications and Accreditations Information Security upheld with ISO 27001:2013 certified, PBSA and NASSCOM NSR empaneled."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "Techies India Inc.",
+  "city": "Ludhiana",
+  "domain": "techiesindiainc.com",
+  "website": "https://techiesindiainc.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "Magento Development Company - Mobile Application Development Services - Techies India Inc Toggle navigation Home White label Ab"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 7037,
+   "signals": {
+    "vcs_generic": 1,
+    "testing": 1
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Working Knowledge of Git Strong organisational and project management skills."
+    ],
+    "testing": [
+     "Knowledge of Agile (Scrum) methodology Experience with unit testing Full Stack Developer Responsibilities:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 32,
+   "DQ_agency": 4,
+   "sdlc": 2,
+   "vcs": 1,
+   "qa": 2
+  },
+  "site_quotes": {
+   "compliance": [
+    "Data Importance of GDPR Compliance: Lessons from Uber’s GDPR Fine BigCommerce BigCommerce – Everything You Need to Know About it in 2022 Design Future Creativity: Latest Web Design Trends for 2022 Marketing Techies India Inc.",
+    "Cookie Duration Description cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\".",
+    "cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin."
+   ],
+   "DQ_agency": [
+    "Speak With Us Be a part of Techies Family​ Techies is a software development company excelling in custom development, eCommerce, and digital marketing.",
+    "eCommerce Magento BigCommerce Shopify App Development Media Buying Case Studies Blog Blog For all your Design, Development & Digital Marketing Needs!",
+    "SEO Specialist Komal Gupta Senior iOS Developer Mohit Sharma Senior iOS Developer Taranjeet Singh Senior Android Developer Amanpreet Kaur Senior Quality Analyst Scaling a business is hard work.",
+    "eCommerce Magento BigCommerce Shopify App Development Media Buying Case Studies Blog Blog Archive For all your Design, Development & Digital Marketing Needs!"
+   ],
+   "sdlc": [
+    "We are a team of designers, developers, product owners, scrum masters, marketers and above all Friends.",
+    "Knowledge of Agile (Scrum) methodology Experience with unit testing Full Stack Developer Responsibilities: Developing high-quality bespoke software code Taking part in technical design and progress meetings Ensuring responsiveness of applications."
+   ],
+   "vcs": [
+    "Working Knowledge of Git Strong organisational and project management skills."
+   ],
+   "qa": [
+    "Knowledge of Agile (Scrum) methodology Experience with unit testing Full Stack Developer Responsibilities: Developing high-quality bespoke software code Taking part in technical design and progress meetings Ensuring responsiveness of applications.",
+    "Talk to us See your new team in action Design Team Development Team Head Marketing Team Mobility Team QA Team Surinder Kumar Senior UI/UX Developer Gourav Verma Sr."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Technicious Technology Services Private Limited",
+  "city": "Kolhapur",
+  "domain": "technicious.in",
+  "website": "https://www.technicious.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 4,
+   "prod_eng": 1,
+   "cicd": 1,
+   "enterprise": 1,
+   "compliance": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "IoT We connect your machines Custom IoT hardware, edge AI, and real-time monitoring we bring your shop floor, pumps, and infrastructure online.",
+    "Real-time production monitoring, work order tracking, quality control powered by our own LoRa-based IoT hardware with Edge AI capability.",
+    "Since 2019, we've built cloud platforms, mobile apps, enterprise systems, and even our own IoT hardware from scratch.",
+    "Proprietary LoRA Hardware Advanced IoT hardware for Edge AI, eliminating cloud dependency for critical operations."
+   ],
+   "prod_eng": [
+    "IT Consulting & Product Engineering top of page Menu Close About Services Prodi Case Studies Contact About Services Prodi Case Studies Contact Menu Close Home About Prodi Services Case Studies Who We Are We're Tech Builders."
+   ],
+   "cicd": [
+    "Modern Tech Stack ReactJS, Flutter, Django, FastAPI, AWS, Docker, we build on technology that's current, maintainable, and ready to scale."
+   ],
+   "enterprise": [
+    "Specialized Domain Expertise Deep knowledge across manufacturing, healthcare, maritime, and telecom sectors."
+   ],
+   "compliance": [
+    "Technicious is independently assessed and certified under ISO 9001:2015 — the internationally recognized standard for Quality Management Systems."
+   ],
+   "sdlc": [
+    "This means our processes for software development, IoT integration, cloud solutions, consulting, and digital transformation are held to a globally accepted quality benchmark for both domestic and international clients."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "Technovalley Software India Private Limited",
+  "city": "Kochi",
+  "domain": "technovalley-aks.com",
+  "website": "https://internship.technovalley.co.in/index",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "CCNP MCSA & MCSE Red Hat Red Hat - DevOps RHLS Programming Java Python ASP.NET R Language Mean Stack Full Stack PL/SQL MCSD Web Technologies Android"
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 135828,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "DQ_training": 10,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Read More 12 Agile Over the past few years, agile development techniques have entered the IT domain, and Lean start-up principles are now prompting organizations ...",
+    "Explore where we work, how we work and the opportunities that await you."
+   ],
+   "DQ_training": [
+    "Recognized as the trusted Skill Partner of Kerala Knowledge Economy Mission (KKEM) , Technovalley blends industry-validated curricula, real-world labs, placement assistance, and international certifications to ensure learners gain not just knowledge but a true competitive edge in the global job market .",
+    "All internship programs are enabled as a part of 2017 IT Policy of Govt of Kerala.",
+    "We do not charge interns for placements as consultants and we only charge them for their internship expenses.",
+    "The division focuses on providing high end technical certification courses to students and software professionals ,globally, in strategic association with the world-renowned IT Majors Such as Microsoft, IBM, Enterprise DB Corporation, Oracle Corporation, EC Council and Redhat India etc."
+   ],
+   "compliance": [
+    "As an ISO 9001:2015 certified organization , we are proud to be recognized as the State Skill Partner of Kerala Knowledge Economy Mission (Govt."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Testhouse India Pvt Ltd",
+  "city": "Thiruvananthapuram",
+  "domain": "testhouse.net",
+  "website": "https://www.testhouse.net/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 19,
+   "enterprise": 30,
+   "owns_product": 2,
+   "cicd": 2,
+   "sdlc": 8,
+   "DQ_agency": 1,
+   "pr_practice": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Testhouse is recognised in two Gartner’s 2025 Hype Cycle Reports and Market Guide Report confirming what our clients already know - Testhouse is the partner of choice for modern quality engineering and assurance Book a QA Strategy Call testhouse in numbers Assured.",
+    "Enabling digital transformation through trusted quality engineering.",
+    "Your Trusted Partner in Software Quality Engineering From strategy to execution, we work with forward-looking businesses across industries to accelerate delivery, reduce defects and embed quality throughout the software lifecycle.",
+    "--> Built for Continuous Delivery We embed quality into every stage of your DevOps lifecycle — enabling shift-left, shift-right and zero-defect delivery."
+   ],
+   "enterprise": [
+    "Trusted by leaders in finance, government, healthcare and more.",
+    "--> Industry-Agnostic Expertise Whether you’re operating in finance, healthcare, energy, retail, or the public sector — our test frameworks and industry-aligned methodologies deliver measurable results.",
+    "See More --> --> David Bowen Microsoft partner Gold Devops, Silver Cloud Platforms, System Integrator Dynamics B-North says --> We are delighted with our work with the team at Testhouse, it is an important step on our journey to be ready for mobilisation upon the planned receipt of our banking license.",
+    "Technology is a vital part of our model, so it was important to put our state-of-the-art cloud banking model to the test, to ensure that it is secure and reliable while delivering the best possible service to brokers and ultimately UK SMEs."
+   ],
+   "owns_product": [
+    "--> Speed Without Compromise Our automation-first approach, powered by reusable accelerators, reduces test cycles by up to 40% while ensuring full coverage and traceability.",
+    "[] --> Frameworks Built for Speed and Scale With pre-built accelerators, reusable test assets and automation-first design, we help clients reduce test cycle times by up to 40% while maintaining traceability and coverage."
+   ],
+   "cicd": [
+    "--> Built for Continuous Delivery We embed quality into every stage of your DevOps lifecycle — enabling shift-left, shift-right and zero-defect delivery.",
+    "What began as a software testing company has evolved into a trusted quality assurance consultancy, facilitating agile methodologies and continuous delivery pipelines."
+   ],
+   "sdlc": [
+    "+44 20 8555 5577 About Partners Careers Automation Data Assurance DevOps Digital Experience Validation How We Work Resources Contact Us Privacy statement Linkedin X YouTube Facebook Instagram Careers at Testhouse",
+    "Cutting edge projects We embrace DevOps, Agile methodologies and cutting edge technologies to meet the changing needs of our customers.",
+    "Experience working in Agile delivery environments.",
+    "+44 20 8555 5577 About Partners Careers Automation Data Assurance DevOps Digital Experience Validation How We Work Resources Contact Us Privacy statement Linkedin X YouTube Facebook Instagram QA & Testing Resources – Blog, Ebooks, Case Studies"
+   ],
+   "DQ_agency": [
+    "Alfi Christina Suresh Executive – Marketing (Branding & PR) Testhouse is my first company, and I could not have asked for a better start."
+   ],
+   "pr_practice": [
+    "Configuration Management Maintain system consistency with version control, change tracking, and automated configuration deployment."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "UL Cyberpark (ULCCS IT Infrastructure Pvt Ltd)",
+  "city": "Calicut",
+  "domain": "ulcyberpark.com",
+  "website": "https://www.ulcyberpark.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "rpark.com CLOSE ﻿ Introducing A Coworking Space to enhance your productivity Know More @ Quick Space annexed to UL CyberPark Green e -highway A sustai"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 10149,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "qa": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "9:00 AM https://www.edupreneurvillage.com/edu-register/?ut 19 November NASTech 2020 9:00 AM https://app.zuddl.com/p/a/event/a668cb3b-92d8-4a3f 11 November HR Forum 6:00 AM https://us02web.zoom.us/webinar/register/WN_Ol1Qmf 02 November Accelerator for Electronics..."
+   ],
+   "qa": [
+    "QA Engineer closing date: 31-08-2026 retailcloud View Details Devops Engineer(AWS"
+   ],
+   "compliance": [
+    "Today it is as an ISO 9001:2008 certified organization and the biggest labour contract Society providing direct employment to more than 2000 workers from rural areas and also supporting 5000 families indirectly."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Watsoo Express Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "watsoo.com",
+  "website": "https://watsoo.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nage oil & gas fleets from anywhere in real-time. Know More Our Products AIS - 140 Secure. Exceptional. Intelligent System - Prithvi AIS 140 A 360-deg"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 3,
+   "enterprise": 3,
+   "cicd": 1,
+   "compliance": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Learn More Other IT Services Comprehensive IT support, custom development and blockchain solutions.",
+    "By joining NVIDIA Inception, Watsoo will gain access to - NVIDIA's latest hardware and software innovations Comprehensive training and expert mentorship, and An exclusive community of AI experts for collaboration opportunities.",
+    "The fleets there run on roads that are tough for hardware."
+   ],
+   "enterprise": [
+    "Core Banking System Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "Learn More Industries Industries We Cater Explore How We Transform Businesses Across Sectors Banking & Finance Building a successful financial institution requires Security, Efficiency, Accuracy, and Agility.",
+    "Request a Demo Explore Solution ISO CMMI 3 TUV iCAT Best AI/ML Solution Leading the Future of Connected Financial Technologies The four core pillars of BFSI and NBFCs are security, efficiency, accuracy, and agility."
+   ],
+   "cicd": [
+    "Oil and Gas Cutting-edge IoT solutions to optimise asset management, streamline supply chains, improve fleet operations and ensure pipeline integrity through real-time monitoring and data-driven insights."
+   ],
+   "compliance": [
+    "Request a Demo Explore Solution ISO CMMI 3 TUV iCAT Best AI/ML Solution Leading the Future of Connected Financial Technologies The four core pillars of BFSI and NBFCs are security, efficiency, accuracy, and agility."
+   ],
+   "owns_product": [
+    "Explore AI/ML Solutions Our products and services start at just ₹100 and scale up to multi-crore enterprise solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Whiz Consulting Private Limited",
+  "city": "Bareilly",
+  "domain": "whizconsulting.net",
+  "website": "https://www.whizconsulting.net/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "sApp +(61)-280-064-788 +(61)-280-064-788 info@whizconsulting.net Get A Quote Hire Virtual Accountant Menu AUS USA UK India Menu Home Our Services Book"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 5,
+   "DQ_agency": 1,
+   "compliance": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "The experience of working with Whiz was overwhelming.",
+    "Switching to a new accounting partner can seem overwhelming."
+   ],
+   "DQ_agency": [
+    "Satyam Manager - Sales Pooja Pushpan Senior Content Lead A wordsmith with 10+ years in SEO writing and storytelling, turns words into impact while immersing herself in the endless worlds of books."
+   ],
+   "compliance": [
+    "As a SOC 2 and ISO 27001 certified F&A service provider, we apply strict access controls, encryption, and multi-factor authentication to protect your confidential data.",
+    "7 Advanced Security Standards As an ISO 27001 and SOC 2 certified finance and accounting service provider, we apply enterprise-grade encryption, access controls, and continuous audits to protect your financial data."
+   ],
+   "enterprise": [
+    "Popular Reads Rolling Forecasts vs Annual Budgets: What Growing Businesses Should Use 9 Reasons Healthcare Providers Choose Outsourcing Accounting A Detailed Guide to Financial Reporting for Global Businesses View All Blogs Join the Whiz Community!"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Cetark Solutions Private Limited",
+  "city": "Mohali",
+  "domain": "cetark.com",
+  "website": "https://www.cetark.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Read More SOC Our officers are ready to manage and protect your infrastructure 24x7x365 Read More Why Us We are proud to announce that Cetark Corp global is in compliance/Certified with ISO-27001 and GDPR to maintain customer data protection while processing information."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "GIEOM Business Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "gieom.com",
+  "website": "https://www.gieom.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "Validator Consultant Edition Integration Partners Resources Case Studies Whitepapers Testimonials Brochures Webinar About Us Company News Awards Conta"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 13,
+   "enterprise": 15,
+   "DQ_template": 3,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "EU DORA Compliance Fast-track your digital transformation and compliance with the DORA 360 platform, your accelerator for success.",
+    "Your Platform: Meet Gieom Consultant Edition, a live, AI-powered platform, built for consulting.",
+    "EXPLORE OUR PLATFORM MagpieAI - Multi Agent Prompt Engine MagpieAI is a cutting-edge generative AI tool designed to transform banking, regulatory, and compliance document handling.",
+    "EXPLORE OUR PLATFORM Key Features Process Observability Gain deep visibility into your business processes and their dependencies on people, systems, and third parties."
+   ],
+   "enterprise": [
+    "Learn More Gieom Labs Driving research and innovation with Magpie AI to unlock new possibilities in RegTech and banking compliance.",
+    "BOOK A DISCOVERY CALL Future-proof your operations with unified GRC, AI-powered risk intelligence, and operational resilience, built for regulated industries The GRC and Operational Resilience Platform for Regulated Industries.",
+    "We also support compliance with other applicable global and regional regulations and operational resilience frameworks across BFSI sector.",
+    "EXPLORE OUR PLATFORM MagpieAI - Multi Agent Prompt Engine MagpieAI is a cutting-edge generative AI tool designed to transform banking, regulatory, and compliance document handling."
+   ],
+   "DQ_template": [
+    "Whether it’s a periodic risk assessment, a KRI trend analysis, or a resilience scorecard, users can generate consistent, templated reports aligned with regulatory or organizational formats, without manual rework.",
+    "It has additionally built custom templates to ensure compliance with regulations such as the UK’s Operational Resilience Act, the European Union’s Digital Operational Resilience Act (DORA), and Australia’s CPS 230."
+   ],
+   "compliance": [
+    "With operations across Europe, the Middle East, and Asia Pacific, Gieom serves over 100 customers globally and is certified for ISO 27001 and ISO 9001."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Orbitsys Technologies Private Limited",
+  "city": "Gurugram",
+  "domain": "orbitsys.in",
+  "website": "https://orbitsys.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230119",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "CRM-DMS Providers in India Toggle navigation Home About us Services Contact Us More News Blogs Support DMS Login --> × Request a Demo Submit Cloud Hosted Dealer Management System One World An ISO 27001:2022 Certified Company Request a Demo MULTI-COUNTRY"
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "Sairam Group Of Institutions",
+  "city": "Chennai",
+  "domain": "sairamgroup.in",
+  "website": "https://sairamgroup.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 15379,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 4,
+   "compliance": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Presently, the group encompasses more than twenty institutions including Schools, Engineering Institutions, Medical Colleges, Teacher Training Institutes, Polytechnic Colleges and Management School with a student strength in excess of 20,000.",
+    "Consistent placement record of over 95% in reputed firms.",
+    "Good percentage of students pursuing higher studies abroad and attaining global placement."
+   ],
+   "compliance": [
+    "The College is accredited by National Board of Accreditation and is also an ISO9001:2008 certified institution."
+   ],
+   "qa": [
+    "Sai Prakash Leo Muthu, has been honored as a World Baden-Powell Fellow by the World Scout Foundation, under the esteemed patronage of His Majesty The King of Sweden."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Sun Knowledge Pvt Ltd",
+  "city": "Kolkata",
+  "domain": "sunknowledge.com",
+  "website": "https://sunknowledge.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ILLING SERVICES PRODUCTS MTM RESOURCES NEWSROOM WHITEPAPERS CASE STUDIES VIDEO TESTIMONIALS BLOG COMPLIANCE CONTACT HOME DME BILLING PRE BILLING SERVI"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 31882,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 7,
+   "enterprise": 43,
+   "DQ_bpo": 4
+  },
+  "site_quotes": {
+   "compliance": [
+    "Fast reauthorization , precise follow-ups, and HIPAA-compliant processes across 38 specialties.",
+    "– an ISO 27001:2022 certified, American-owned and operated company, headquartered in New York City – is a leading global provider of Business and Knowledge Process Outsourcing services in the US healthcare domain.",
+    "Complete HIPAA Compliance with Enhanced PHI Security Security and confidentiality are paramount in healthcare operations.",
+    "Our experts adhere strictly to Health Insurance Portability and Accountability Act (HIPAA) regulations, supplemented by robust Personal Health Information (PHI) security measures."
+   ],
+   "enterprise": [
+    "read more SOLUTIONS FOR PAYERS Pick from our carefully curated solutions designed for healthcare Payers .",
+    "WHY SUNKNOWLEDGE Trusted Partner in Healthcare Outsourcing SunKnowledge Inc.",
+    "has been empowering healthcare practices across the U.S.",
+    "Serving both payers and providers, SunKnowledge offers unique expertise across multiple practice management systems, driving better ROI for top healthcare brands."
+   ],
+   "DQ_bpo": [
+    "Orthotics and Prosthetics (O&P) Trust our cost-effective solutions for prosthetics and orthotics billing to fit your needs Skilled Nursing Facilities We ensure a seamless coordination between your front and back office to facilitate comprehensive value-based care.",
+    "The Best PA support in the Industry Senior Executive, Leading O&P Provider from Pennsylvania We have had the pleasure of working with the Sunknowledge team throughout the few months utilizing their services for patient data entry and eligibility verification.",
+    "SCHEDULE A CALL These systems are often integrated with electronic health records (EHRs) to eliminate manual data entry, ensure accuracy and enhance data security through HIPAA compliant platforms.",
+    "Data Errors – Manual data entry leads to numerous mistakes, thus leaving practices with inaccurate records and billing issues."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Vrentin Tech Private Limited",
+  "city": "New Delhi",
+  "domain": "muoro.io",
+  "website": "https://muoro.io/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "istributed Engineering Teams - Muoro Home About Us Services Case Studies Join Muoro Hire Engineers Build Remote Software Engineering Teams With Muoro"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 164,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "cicd": 3,
+   "compliance": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "From fragmented systems to Operational AI Our teams use internal, platform-agnostic accelerators to reduce risk and speed up delivery."
+   ],
+   "cicd": [
+    "1 A Governed Lakehouse, Not Just a Pipeline 2 Policies Enforced on Unity Catalog 3 The Audit Trail, On Demand 4 The Consent Layer Databricks Doesn't Ship Pre-built connectors for MySQL, PostgreSQL, Redshift, Salesforce, files and APIs.",
+    "1 A Governed Lakehouse, Not Just a Pipeline Pre-built connectors for MySQL, PostgreSQL, Redshift, Salesforce, files and APIs."
+   ],
+   "compliance": [
+    "PCI DSS Explore Skionis governed Databricks lakehouse details Book a Governance Demo for your Databricks workspace 03."
+   ],
+   "enterprise": [
+    "Where we deliver the most value We specialize in financial services and regulated, data-heavy environments, working with PE-backed asset management, lending, and wealth teams backed by Goldman Sachs, Blackstone, Neuberger Berman, Ares, Citi, and Bessemer."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "SAG Infotech Pvt Ltd",
+  "city": "Jaipur",
+  "domain": "saginfotech.com",
+  "website": "https://saginfotech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 25749,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "We are certified by the Confederation of Indian Industry (CII), ISO 27001:2013 and are members of NASSCOM, ASSOCHAM India, FORTI and Confederation of All India Traders (CAIT)."
+   ],
+   "DQ_support": [
+    "The hardware upgrade is also needed to be kept in mind for the solution to run better on time."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Bruhat Insights Global Private Limited",
+  "city": "Chennai",
+  "domain": "myavtar.com",
+  "website": "http://www.myavtar.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "al Sales Manager-North Job Description Promotes and sells a portfolio of technical and/or nontechnical products and/or service... View more L&D Manage"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 34331,
+   "signals": {
+    "cicd": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Drive platform choices (feature stores, model registries, vector DBs, orchestration) and MLOps standards (CI/CD, lineage, monitoring, SLOs)."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 1,
+   "enterprise": 1,
+   "DQ_training": 1,
+   "DQ_support": 1,
+   "DQ_bpo": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "• Support governance and continuous improvement for SKU processes: identify recurring issues, propose simplifications, and help standardize workflow and templates."
+   ],
+   "enterprise": [
+    "An MBA, with over 19 years of experience in business analysis, talent strategy and workforce diversity consulting, Karthik has devised flexible working policies and created diversity-ready workplaces for several fortune 500 organizations."
+   ],
+   "DQ_training": [
+    "His indulgence in free coaching classes for the needy and community service has led him to handle his current role with a greater sense of purpose."
+   ],
+   "DQ_support": [
+    "His Primary areas of responsibility include providing technical expertise in networking technology and hardware, including switches, routers and firewalls."
+   ],
+   "DQ_bpo": [
+    "Usha Pillai Principal Strategist Usha has over 30 years of experience spanning several industries--- IT Education, Telecom, Tech support BPO, Accounting KPO, Holidays & leisure and Consulting."
+   ],
+   "sdlc": [
+    "Bhanu Kumar Vice President, ESG & information Services A Technologist with close to 3 decades of hands on experience in Technology relating to Cloud Infrastructure, Automatic Identification & Data Capture (AIDC), Analytics, DevOps, Agile."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 1
+ },
+ {
+  "name": "Kovaion Consulting India Pvt Ltd",
+  "city": "Coimbatore",
+  "domain": "kovaion.com",
+  "website": "https://www.kovaion.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "s to harness their power on complex technologies. Read More Our Products On Low Code App Development Platform The right platform to develop your appli"
+  },
+  "jd": {
+   "pages_read": 14,
+   "external_job_boards": [],
+   "jd_chars": 111057,
+   "signals": {
+    "cicd": 1,
+    "vcs_generic": 2,
+    "testing": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Knowledge of Git, CI/CD, or other source-control and deployment practices."
+    ],
+    "vcs_generic": [
+     "Follow secure coding, version control, and application development standards.",
+     "Knowledge of Git, CI/CD, or other source-control and deployment practices."
+    ],
+    "testing": [
+     "Perform unit testing and support functional testing and UAT."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 5,
+   "DQ_training": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Read more Solutions GenAI, ML Models & AI Agents Read More App Builder Platform Try our intuitive Low-code app development platform for agile and personalized enterprise-ready applications!",
+    "Our Vision We help businesses in creating a sustainable digital ecosystem by providing Agile, Intelligent, and Personalized solutions and services to accelerate their growth through a digital transformation journey."
+   ],
+   "DQ_training": [
+    "AI SPORTS TECH PLATFORM, SPORTZIA 2/5 O ne connected sports ecosystem for data-powered athletic excellence with r eal-time tracking, advanced analytics, and intelligent coaching ."
+   ],
+   "DQ_agency": [
+    "16 Years of Experience Our Branding Kovaion – The Story of Brand Name Our Founder & Director, Nanda Kumar, is an organized and pragmatic individual who enjoys being in touch with his roots and leading a simple lifestyle."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 1
+ },
+ {
+  "name": "Serko India Private Limited",
+  "city": "Bengaluru",
+  "domain": "serko.com",
+  "website": "https://www.serko.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 35079,
+   "signals": {
+    "cicd": 1,
+    "testing": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Experience integrating shared platform services into live products and strengthening core developer infrastructure (CI/CD, test automation, dev environments) to elevate department-wide reliability and speed."
+    ],
+    "testing": [
+     "Experience integrating shared platform services into live products and strengthening core developer infrastructure (CI/CD, test automation, dev environments) to elevate department-wide reliability and speed."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "enterprise": 1,
+   "senior_roles": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We're constantly innovating to remove friction from travel, designing our platform to transform the mundane into an experience."
+   ],
+   "enterprise": [
+    "He was on the board of Anadarko Petroleum, a Fortune 500 energy company, from 2015 until its acquisition in 2019."
+   ],
+   "senior_roles": [
+    "He has held a number of executive leadership roles, including Chief Product and Technology Officer at Trade Me and VP of Engineering at Halter."
+   ],
+   "DQ_bpo": [
+    "1994 Interactive Technologies founded Bob Shaw and Darrin Grafton establish ITL to help travel agents solve thorny mid-office and back office system challenges."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 1
+ }
+]

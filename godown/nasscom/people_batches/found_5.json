@@ -1,0 +1,366 @@
+[
+  {
+    "name": "T-Systems Information and Communication Technology India Private Limited",
+    "domain": "t-systems.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Text is product/solutions marketing only; no people named",
+    "others": []
+  },
+  {
+    "name": "Testrig Technologies Private Limited",
+    "domain": "testrigtechnologies.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only client testimonials; 'Parimal' has no surname or title",
+    "others": []
+  },
+  {
+    "name": "TO THE NEW Private Limited",
+    "domain": "tothenew.com",
+    "person": "Narinder Kumar",
+    "title": "Chief Executive Officer",
+    "linkedin": "https://www.linkedin.com/in/narinderkumar",
+    "confidence": "high",
+    "evidence": "\"Narinder Kumar Chief Executive Officer\" on leadership page beside his LinkedIn",
+    "others": [
+      {
+        "person": "Saurabh Das",
+        "title": "Chief Operating Officer",
+        "linkedin": "https://www.linkedin.com/in/saudas"
+      },
+      {
+        "person": "Ankur Tripathi",
+        "title": "Business Head - M&E",
+        "linkedin": "https://www.linkedin.com/in/ankur-tripathi-380a9123"
+      },
+      {
+        "person": "Anurag Agrawal",
+        "title": "Business Head - Americas",
+        "linkedin": "https://www.linkedin.com/in/anuragagrawal15"
+      }
+    ]
+  },
+  {
+    "name": "TQuanta Technologies Private Limited",
+    "domain": "tquanta.com",
+    "person": "Yogesh Babu Rama",
+    "title": "CEO & Director",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "Leadership page: \"Yogesh Babu Rama CEO & Director With over 25 years\"",
+    "others": [
+      {
+        "person": "Suguna R",
+        "title": "Chairperson",
+        "linkedin": ""
+      },
+      {
+        "person": "Meghana V",
+        "title": "COO & Director",
+        "linkedin": ""
+      },
+      {
+        "person": "Kiran J",
+        "title": "Director, CTO H.E.S",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Trassir Sentinel Private Limited",
+    "domain": "trassir.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "About page describes company only; no individual named",
+    "others": []
+  },
+  {
+    "name": "TSL Consulting Private Limited",
+    "domain": "tslconsulting.in",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Team-page LinkedIn contexts are SVG markup; no name-title pairing",
+    "others": []
+  },
+  {
+    "name": "Uniqus India Private Limited",
+    "domain": "uniqus.com",
+    "person": "Jamil Khatri",
+    "title": "Co-Founder & CEO",
+    "linkedin": "https://www.linkedin.com/in/jamil-khatri-69a024235",
+    "confidence": "high",
+    "evidence": "\"Jamil Khatri Co-Founder & CEO\"; also \"Jamil Khatri and Sandip Khetan, our co-founders\"",
+    "others": [
+      {
+        "person": "Sandip Khetan",
+        "title": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/sandip-khetan"
+      }
+    ]
+  },
+  {
+    "name": "Vara Technology Private Limited",
+    "domain": "varatechnology.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Names appear only as untitled CMS string keys, no roles attached",
+    "others": []
+  },
+  {
+    "name": "Veryx Technologies Private Limited",
+    "domain": "veryxtech.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "\"Our Leadership Team\" heading scraped but no member names captured",
+    "others": []
+  },
+  {
+    "name": "Vinmaya Consultancy Services Private Limited",
+    "domain": "vinmaya.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "\"founded by a group of professionals\" — founders unnamed",
+    "others": []
+  },
+  {
+    "name": "Vivicta Private Limited",
+    "domain": "vivicta.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only Finland country manager and head of public sector quoted; no founder/CEO/MD",
+    "others": [
+      {
+        "person": "Tero Virtanen",
+        "title": "Country Manager, Vivicta Finland",
+        "linkedin": ""
+      },
+      {
+        "person": "Ilmari Saastamoinen",
+        "title": "Head of Public Sector Services at Vivicta Finland",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Worldline Global Services Private Limited",
+    "domain": "worldline.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Corporate history and ATM product copy only; no people named",
+    "others": []
+  },
+  {
+    "name": "Xebia IT Architects India Private Limited",
+    "domain": "xebia.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Contact page navigation text only; no people named",
+    "others": []
+  },
+  {
+    "name": "YASH Technologies Pvt Ltd",
+    "domain": "yash.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "About/company copy scraped; leadership names not present in text",
+    "others": []
+  },
+  {
+    "name": "Zediant Technologies Private Limited",
+    "domain": "zediant.com",
+    "person": "Rajeev Jaiswal",
+    "title": "Delivery Head, Founder",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "Management Team: \"Rajeev Jaiswal Delivery Head, Founder 20+ years of experience\"",
+    "others": [
+      {
+        "person": "Benay Debnath",
+        "title": "Solution Architect, Founder",
+        "linkedin": ""
+      },
+      {
+        "person": "Jayanta Chatterjee",
+        "title": "PMO Head, Founder",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Airamatrix Private Limited",
+    "domain": "airamatrix.com",
+    "person": "Chaith Kondragunta",
+    "title": "CEO",
+    "linkedin": "https://www.linkedin.com/in/chaithkondragunta",
+    "confidence": "high",
+    "evidence": "alt text \"Chaith Kondragunta, CEO of AIRA Matrix\" beside his LinkedIn",
+    "others": [
+      {
+        "person": "Dr. Uttara Joshi",
+        "title": "Head - Strategic Initiatives",
+        "linkedin": "https://www.linkedin.com/in/druttarajoshi"
+      },
+      {
+        "person": "Nitin Singhal",
+        "title": "Head - Products",
+        "linkedin": "https://www.linkedin.com/in/nitin-singhal-399a9811"
+      },
+      {
+        "person": "Kathryn Hyde",
+        "title": "Director - Marketing Head",
+        "linkedin": "https://www.linkedin.com/in/kathyhyde"
+      }
+    ]
+  },
+  {
+    "name": "AquilaClouds India Private Limited",
+    "domain": "aquilaclouds.com",
+    "person": "Suchit Kaura",
+    "title": "CEO and Co-Founder",
+    "linkedin": "https://www.linkedin.com/in/suchit-kaura-9987771",
+    "confidence": "high",
+    "evidence": "Team page: \"Suchit Kaura CEO and Co-Founder\"; LinkedIn slug matches",
+    "others": [
+      {
+        "person": "Desmond Chan",
+        "title": "CPO and Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/desmondchan"
+      },
+      {
+        "person": "Angelo Pruscino",
+        "title": "CTO",
+        "linkedin": "https://www.linkedin.com/in/angelo-pruscino-a61a4a1"
+      },
+      {
+        "person": "Puneet Kaura",
+        "title": "EVP of Sales and Operations",
+        "linkedin": "https://www.linkedin.com/in/puneet-kaura-8383a711"
+      }
+    ]
+  },
+  {
+    "name": "Bitvoice Solutions Private Limited",
+    "domain": "bitvoice.in",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "\"comprises of three founding members\" — none of them named",
+    "others": []
+  },
+  {
+    "name": "Crushaders Tech Solution LLP",
+    "domain": "crushaderstech.com",
+    "person": "Amit Prakash Nayak",
+    "title": "Co-founder & CEO",
+    "linkedin": "https://www.linkedin.com/in/amit-prakash-nayak",
+    "confidence": "high",
+    "evidence": "Team section: \"Amit Prakash Nayak Co-founder & CEO\" beside his LinkedIn",
+    "others": [
+      {
+        "person": "Bidhan Pattanayak",
+        "title": "Co-founder & COO",
+        "linkedin": "https://www.linkedin.com/in/bidhanpattanayak"
+      },
+      {
+        "person": "Pradipta Ranjan Sahu",
+        "title": "AVP",
+        "linkedin": "https://www.linkedin.com/in/pradipta-ranjan-sahu-18a6b9b0"
+      },
+      {
+        "person": "Swati Sweta Das",
+        "title": "Manager",
+        "linkedin": "https://www.linkedin.com/in/swati-sweta-das-906b8428b"
+      }
+    ]
+  },
+  {
+    "name": "Dimensions Cybertech (India) Private Limited",
+    "domain": "dimensionslive.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Product module page only; no people named",
+    "others": []
+  },
+  {
+    "name": "Eluminous Technologies Private Limited",
+    "domain": "eluminoustechnologies.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "ServiceNow service page only; no people named",
+    "others": []
+  },
+  {
+    "name": "iLeaf Solutions Private Limited",
+    "domain": "ileafsolutions.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only unattributed blog line \"I was the co-founder and VP of engineering\"",
+    "others": []
+  },
+  {
+    "name": "Infoparks, Kerala",
+    "domain": "infopark.in",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Overview of the IT park; team page text captured no names",
+    "others": []
+  },
+  {
+    "name": "Intimetec Visionsoft Pvt Ltd",
+    "domain": "intimetec.com",
+    "person": "Jeet Kumar",
+    "title": "CEO | President | Founder",
+    "linkedin": "https://www.linkedin.com/in/jeet-kumar-intimetec",
+    "confidence": "high",
+    "evidence": "Our Founders: \"Jeet Kumar CEO | President | Founder\"; LinkedIn slug names company",
+    "others": [
+      {
+        "person": "Dan Puga",
+        "title": "EVP | Co-founder",
+        "linkedin": "https://www.linkedin.com/in/danpuga"
+      },
+      {
+        "person": "Sandeep Jain",
+        "title": "Managing Dir. | Co-founder",
+        "linkedin": "https://www.linkedin.com/in/ssandeepjain"
+      },
+      {
+        "person": "Rakesh Sawan",
+        "title": "CTO | Co-founder",
+        "linkedin": "https://www.linkedin.com/in/rakesh-sawan-36a0752"
+      }
+    ]
+  }
+]

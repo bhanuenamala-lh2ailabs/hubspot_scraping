@@ -1,0 +1,906 @@
+[
+ {
+  "name": "DISH Network Technologies India Private Limited",
+  "city": "Bengaluru",
+  "domain": "careers.dish.com",
+  "website": "https://www.echostar.com/careers/locations/india",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 127960,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 2,
+   "senior_roles": 2,
+   "enterprise": 7,
+   "DQ_training": 1,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Our diverse engineering divisions support Sling TV, DISH Wireless, DISH IT, Technology and Strategy, Direct Broadcast Satellite (DBS) and DISH Hardware."
+   ],
+   "senior_roles": [
+    "<span class=\\\"font-extrabold\\\">Site Reliability Engineering</span></h3>\\r\\n<p>&nbsp;</p>\\r\\n<p>Deploy and automate streaming services, OSS/BSS systems and services using modern software engineering technologies."
+   ],
+   "enterprise": [
+    "<span class=\\\"font-extrabold\\\">Insurance and Wellbeing</span></h3>\\r\\n<p>&nbsp;</p>\\r\\n<p>Our Health and Wellbeing program prioritizes employees' health and security with comprehensive medical coverage for employees and dependents, along with flexible protection options.",
+    "Along with accident and life insurance for added peace of mind, we also provide wellness support through teleconsultations, discounted pharmacy services, mental health counseling, and annual health check-ups.",
+    "These schemes help build long-term financial security through employer-matched contributions, voluntary savings, and tax benefits, all regulated by the Government of India to ensure effective retirement planning and wealth creation.",
+    "He spent the first 10 years of his career working in corporate finance for DISH and other Fortune 500 companies."
+   ],
+   "DQ_training": [
+    "In his spare time, Paul enjoys boating, skiing, coaching youth sports and spending time with his family."
+   ],
+   "sdlc": [
+    "Depending on the role you are interviewing for, our process could include interviews with the hiring manager or a panel of team members."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "DLF Cyber City Developers Limited",
+  "city": "Gurugram",
+  "domain": "dlf.in",
+  "website": "https://www.dlf.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 114267,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2,
+   "enterprise": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "DLF’s comprehensive training and coaching programme gives our employee the chance to learn and progress, ensuring that they are fully equipped for any role they take on."
+   ],
+   "enterprise": [
+    "Since my joining in 2003, DLF has given me the opportunity to expand the Office Business in Gurgaon, Chennai, Hyderabad, Kolkata, Chandigarh & Pune and helped me develop & manage client relationships with over 650 corporate clients including 150+ fortune 500 companies.",
+    "Since my joining in 2003, DLF has given me the opportunity to expand the office business in Gurgaon, Chennai, Hyderabad, Kolkata, Chandigarh & Pune and helped me develop & manage client relationships with over 650 corporate clients including 150+ Fortune 500 companies."
+   ],
+   "cicd": [
+    "Kushal Pal Singh Chairman Emeritus, DLF Chairman Emeritus' Message After 40 years spent at the helm of DLF, I can confidently say that the key to our seven decades of success has been our unwavering commitment to duty, loyalty, and the future."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Domo Business Services India Private Limited",
+  "city": "Pune",
+  "domain": "domo.com",
+  "website": "https://www.domo.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nteractive Dashboards Embedded Analytics “Domo allows us to react and pivot on a daily basis. We can see what is happening in real time & make changes"
+  },
+  "jd": {
+   "pages_read": 15,
+   "external_job_boards": [],
+   "jd_chars": 71925,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "UnitedHealthcare creates and publishes the Machine-Readable Files on behalf of Domo.",
+    "featured PARTNERS Snowflake Amazon Web Services Databricks Google Azure Oracle Join the partner program See the partner showcase For Investors Domo was founded in 2010 and went public in 2018 (Nasdaq: DOMO)."
+   ],
+   "senior_roles": [
+    "Coding camps We host employee-run coding camps to mentor the next generation of tech leaders."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "DSM Shared Services India Private Limited",
+  "city": "Hyderabad",
+  "domain": "dsm.com",
+  "website": "https://our-company.dsm-firmenich.com/en/our-company.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1997-07-03",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 168371,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Dun & Bradstreet Information Services India Private Limited",
+  "city": "Mumbai",
+  "domain": "dnb.co.in",
+  "website": "https://www.dnb.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 4
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Discover a selection of our products … D&B.AI ™ Verified Context for Enterprise AI Ground your AI models, agents, and workflows in Dun & Bradstreet's verified business intelligence-anchored in the D-U-N-S Number.",
+    "Our products and services are delivered through hybrid mechanisms like APIs, ERP connectors, online platforms as well as off-line modes.",
+    "Sakthivel Manager – Accounts & Finance Hirotec India Private Limited \"Our products are exported worldwide, and our clients want to know various details of our company viz."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "DynPro India Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "dynproindia.com",
+  "website": "https://www.dynproindia.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2004-03-01",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 24981,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6,
+   "sdlc": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Fortune 500 Manufacturer “The impact DynPro has made is nothing less than spectacular.",
+    "Secure Development in the Salesforce Ecosystem Secure development [...] Read More Comments Off on Secure Development in the Salesforce Ecosystem Digitalization of the insurance sector with RPA Digitalization of the insurance sector with RPA By Dpadmin",
+    "Introduction Have you ever had an opportunity to talk [...] Read More Comments Off on Digitalization of the insurance sector with RPA REVOLUTIONIZING THE DATA WORLD WITH ALTERYX REVOLUTIONIZING THE DATA WORLD WITH ALTERYX By Dpadmin",
+    "For over 24 years, DynPro has supported organizations across the globe while focusing on the right people, processes and technologies, our solutions are focused on delivering the digital core for organizations ranging from Fortune 500 companies to small and mid-size companies."
+   ],
+   "sdlc": [
+    "As many businesses have learned over the past two [...] Read More Comments Off on Managing Remote Workforce Automating RPA at Scale with an Agile Approach Automating RPA at Scale with an Agile Approach By Dpadmin",
+    "The organizations must implement and drive their automation initiatives [...] Read More Comments Off on Automating RPA at Scale with an Agile Approach Loan Management Automation Using RPA Loan Management Automation Using RPA By Dpadmin",
+    "Most of the organizations stress on using Agile delivery [...] Read More Comments Off on KATA Model in RPA / IPA projects Secure Development in the Salesforce Ecosystem Secure Development in the Salesforce Ecosystem By Dpadmin"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "EAGateway Services India Private Limited",
+  "city": "Hyderabad",
+  "domain": "eagateways.net",
+  "website": "http://www.eagateways.net",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Eastman chemical India Private Limited",
+  "city": "Hyderabad",
+  "domain": "eastman.com",
+  "website": "https://www.eastman.com/en",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 51796,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ebluesoft Infotect Solutions Private Limited",
+  "city": "Kolkata",
+  "domain": "ebluesoft.in",
+  "website": "https://ebluesoft.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ke --> We MAKE So, who are we? eBluesoft is a result driven software development firm based in India. We deliver high-end web development and designin"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "All Growth Systems View Industry MSME Modernization View Industry Healthcare Operations View Industry Public Systems and Institutions Case Studies Familiar card language, but now each story is framed around business context, intervention, and measurable operating movement.",
+    "” Healthcare Operator Systems Modernization Client “ Their team brought discipline to a multi-stakeholder project that had already started drifting."
+   ],
+   "sdlc": [
+    "Start a Discussion How We Work With Leadership Teams This engagement is designed for businesses that do not only need advice, but need a more stable leadership operating system behind the advice."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Edugem Technologies Private Limited",
+  "city": "Mumbai",
+  "domain": "edugem.in",
+  "website": "https://www.edugem.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "owns_product": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "From healthcare systems to fintech platforms — we engineer scalable, reliable, and intelligent software that transforms industries.",
+    "Healthcare Finance Education Legal E-commerce Fitness Automobile 2018 Founded 80+ Team Size 265+ Projects Delivered Visit Website Enterprise Software Partner Since 2018 · Multi-industry · 80+ professionals Custom Development Tailored enterprise software built from the ground up for your unique requirements.",
+    "Multi-Industry Proven solutions across healthcare, finance, legal, education, and more."
+   ],
+   "owns_product": [
+    "Rapid Delivery Agile development cycles that bring your product to market faster."
+   ],
+   "sdlc": [
+    "Rapid Delivery Agile development cycles that bring your product to market faster."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "EisnerAmper (India) Consultants Private Limited",
+  "city": "Bengaluru",
+  "domain": "eisneramper.com",
+  "website": "https://www.eisneramper.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "DQ_support": 2,
+   "sdlc": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Download Now Client Case Studies Advancing Responsible AI Governance: A Comprehensive Model Evaluation Framework for Mount Sinai Discover how our team enabled a healthcare company to make more confident decisions on AI adoption, improve vendor negotiations, and strengthen patient safety and reliability."
+   ],
+   "DQ_support": [
+    "Our Services and Solutions Discover how EisnerAmper helps organizations strengthen their cybersecurity posture through IT audit, compliance, and data privacy, as well as managed security and outsourced IT support.",
+    "Our offices from New York to San Francisco serve a wide span of tech companies from software and services to semiconductors, hardware and more."
+   ],
+   "sdlc": [
+    "EisnerAmper project management advisors leverage years of experience and deep industry knowledge for technical and organizational strategy, software implementation support, streamlined processes and governance, refined program management, advanced PMO services, and agile transformation.",
+    "Agile project management approaches to reduce risk and speed project delivery."
+   ],
+   "owns_product": [
+    "These include VCs, private equity funds, incubators/accelerators, business associations, academic institutions, and large industry organizations."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ejyle Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "ejyle.com",
+  "website": "https://ejyle.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "t of DevOps processes. read more We do application services We build modern and high-performance applications end-to-end. We have deep technical exper"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 14252,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 8,
+   "enterprise": 8,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Embrace DevAccelerate DevAccelerate is a platform with a suite of accelerators that you can use to embed powerful AI, common data models, data processing, and cloud integration features into your product and therefore significantly reducing your GTM timeline.",
+    "Guided by a leadership team with a strong technological background, our open culture fosters collaboration and teamwork, turning requirements and ideas into reality with the help of our customer-first approach, solutioning expertise, strong engineering practices and development accelerators.",
+    "DevAccelerate Platform DevAccelerate platform is a suite of development accelerators that help our clients reduce their application development cost by up to 30% and enable them to go to market faster.",
+    "Our accelerators include IAM (identity and access management), CloudHarmony (cloud synchronization), and AIHarmony (AI wrappers)."
+   ],
+   "enterprise": [
+    "Learn More From raw data to powerful healthcare analytics We have the knowledge and experience in processing vast amounts of data and then use AI to build advanced analytics to gain valuable insights into patient trends, treatment effectiveness, and resource allocation.",
+    "Specializing in healthcare analytics, AI, software product development services, and information security solutions, we empower clients through a customer-first ethos and outcome-driven focus.",
+    "Strategic IT Services Our consulting and IT strategy teams have years of experience in navigating through complex business and domain challenges and provide strategic insights, advice and step-by-step guidance on healthcare IT, digital transformation, enterprise architecture and DevOps transformation.",
+    "Sathis Kumar Healthcare IT Head, Sutherland Global Services Many congratulations to your team members to win our first customer."
+   ],
+   "sdlc": [
+    "We are extremely passionate about our work that keeps us agile and makes us who we are."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Electrodrive Powertrain Solutions Private Limited",
+  "city": "Pune",
+  "domain": "electraev.com",
+  "website": "https://electraev.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 6,
+   "enterprise": 2,
+   "senior_roles": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Over the years, Electra EV has evolved into a full-system electric mobility and energy solutions company, integrating batteries, traction systems, controllers, embedded hardware, embedded software, battery management systems, and advanced control intelligence into scalable EV platforms.",
+    "The company operates advanced R&D, hardware, software and EV testing facilities in Pune, along with a world-class manufacturing facility in Coimbatore.",
+    "He began his career with Zurich Asset Management India/ITC Threadneedle AMC India as the Head of Fixed Income, responsible for the portfolio management, trading, fixed income research, and the monthly communications to investors.",
+    "At ElectraEV, Dr Das leads end-to-end electronic hardware and software architecture, design, and development for advanced electric powertrain systems, spanning BMS, motor controls, vehicle controllers, and system integration."
+   ],
+   "enterprise": [
+    "Ganesh Srinivasan Head- Finance Ganesh Srinivasan has over 31 years of experience in Finance and Accounts and expertise in Treasury, Banking, Product Costing, Activity Based Costing Revenue Budget, Cost Audit, Financial Reporting, SOX Audit GST and TDS filing."
+   ],
+   "senior_roles": [
+    "Priyamvad Mishra VP Engineering & Technology Priyamvad Mishra brings over 23 years of experience in automotive engineering, with deep expertise in vehicle architecture, driveline, and powertrain development across commercial vehicles, SUVs, and electric platforms."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Electronic Arts Games (India) Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "ea.com",
+  "website": "https://www.ea.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 63016,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our Products Discover Our Games → Discover Our Games Explore Our Subscriptions → Explore Our Subscriptions Learn About Our Technologies → Learn About Our Technologies Our People Creating next-level entertainment experiences that inspire players and fans requires people with a shared passion and unique perspectives."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Elegant Microweb Technologies Pvt Ltd",
+  "city": "Ahmedabad",
+  "domain": "elegantjbi.com",
+  "website": "https://www.smarten.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2004-11-17",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 153641,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "DQ_support": 6,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "The Smarten product suite is built on a flexible, scalable platform.",
+    "We have many partners who bundle our platform as a part of their solutions for analytics."
+   ],
+   "DQ_support": [
+    "What is Mobile Business Intelligence (BI), How Can it Help Your Business, and What You Should Know Before You Decide The Use and Benefits of Low-Code No-Code Development in Business Intelligence (BI) and Predictive Analytics Solutions What is Embedded BI How Can It Support Your Enterprise and Improve Business Results?"
+   ],
+   "cicd": [
+    "This accessible solution provides integrated reporting, dashboards and predictive modeling insights – all in one place, and all at your fingertips, to create data pipelines, reports and predictive models within minutes."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Elektrobit India Private Limited",
+  "city": "Bengaluru",
+  "domain": "elektrobit.com",
+  "website": "https://www.elektrobit.com/about/#locations",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 13,
+   "external_job_boards": [],
+   "jd_chars": 122345,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 8,
+   "sdlc": 1,
+   "DQ_training": 1,
+   "DQ_support": 3
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our relationships with carmakers and suppliers allow us to stay on top of new innovations and to incorporate their technology into our products early in the development phase.",
+    "Our products and engineers are open to all market-relevant operating systems and standards, like AUTOSAR, CAN, GENIVI, LIN, MOST, NDS, and OSEK.",
+    "Quality culture At Elektrobit, quality is the foundation of our company and is fully embedded in our products and services.",
+    "Elektrobit’s PSIRT policy Our Product Security Incident Response Team (PSIRT) is the central point of contact for external security researchers, partners, customers, and candidates to report security issues on Elektrobit websites, within Elektrobit products, or to raise a data protection concern."
+   ],
+   "sdlc": [
+    "Our user-centered, agile development approach gives me the freedom to form high-grade products using edge technologies in close cooperation with our customers and partners."
+   ],
+   "DQ_training": [
+    "Open Elektrobit Jobs Managers Managers Be a leader for our talents As a project or team manager, you will help us to inspire our customers by implementing smooth and successful projects and motivate our talents by coaching and developing them."
+   ],
+   "DQ_support": [
+    "Furthermore, hardware and software separation demands an independent execution of multiple environments on a single ECU opening a need for virtual machines.",
+    "These solutions provide not only highly optimized performance, but also cover a very broad range of hardware devices, such as communication-specific transceivers and communication drivers.",
+    "Elektrobit supports time-sensitive technologies such as Audio Video Bridging (AVB) and the application protocols on top of it such as Audio Video Transport Protocol (AVTP) and others."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ellucian Higher Education Systems India Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "ellucian.com",
+  "website": "https://www.ellucian.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 7157,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "cicd": 1,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Featured content carousel Content Cards ~3,000 higher education institutions served 23 Years average customer tenure $1B+ invested in SaaS R&D 80% of customers have one Ellucian SaaS product 74% HBCUs served 63% of U.S.",
+    "John&#039;s University campus Image “Business Process Automation is going to significantly increase our productivity…” Julie Gindi / Associate Director Process Improvement Students walking on college campus."
+   ],
+   "cicd": [
+    "Call to action Electronic file document management Ready-to-Use Integration Pipelines & APIs Pre-built data orchestration templates and robust APIs make it easy to connect with third-party systems without heavy development work."
+   ],
+   "DQ_template": [
+    "Call to action Electronic file document management Ready-to-Use Integration Pipelines & APIs Pre-built data orchestration templates and robust APIs make it easy to connect with third-party systems without heavy development work."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Elogix Software Private Limited",
+  "city": "Kolkata",
+  "domain": "elogixsoft.com",
+  "website": "https://www.elogixsoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 16271,
+   "signals": {
+    "testing": 1
+   },
+   "quotes": {
+    "testing": [
+     "Java (at least v1.8) Spring Boot Spring Security Spring JPA with Hibernate JUnit Node js Python Tenure:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1,
+   "prod_eng": 1,
+   "sdlc": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Our global team of experts offers a wide range of IT Solutions and services, including cloud computing, analytics, artificial intelligence, machine learning, quality engineering, and cybersecurity."
+   ],
+   "prod_eng": [
+    "Application Development & Product Engineering Our Cybersecurity practice provides tailored information security services Cybersecurity Our Learning Development and Training Solutions provide creative and engaging learning experiences L&D and Training Solutions Why Choose Elogix ?"
+   ],
+   "sdlc": [
+    "I have always been part of a great team - agile and keen to do quality work and provide the best results."
+   ],
+   "enterprise": [
+    "Sanjay Mondal, Senior Project Manager As a Lead Architect & Programmer, I've been with Elogix for more than 13yrs now, successfully leading teams in diverse open-source technologies such as Java, Angular, and React, contributing to impactful projects across finance, retail, sales, distribution, and healthcare domains."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Embassy Office Parks Management Services Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "embassyindia.com",
+  "website": "https://embassyindia.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "EmbedSense Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "embedsense.com",
+  "website": "https://www.embedsense.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "em make better data driven decisions Find out more About Us Our Products and Industry 4.0 Solutions Learn About Our Products and Solutions Clients & P"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 9504,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 4,
+   "prod_eng": 2,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Through advanced IoT technologies, customized hardware, smart monitoring systems, and predictive analytics, we help industries achieve greater operational visibility, process efficiency, equipment reliability, and business performance.",
+    "Home > Careers From Hardware to software, from edge to cloud- we build industrial IoT solutions that create real impact.",
+    "Why You'll Love Working here We Build End-to-End Industrial Solutions Embedded Firmware Engineer Bengaluru, India 1.5-2 Years Develop firmware for Industrial IoT and embedded products, working closely with hardware and software teams to build reliable, high-performance solutions.",
+    "Collaborate with hardware teams for product development and troubleshooting."
+   ],
+   "prod_eng": [
+    "❝ Our Values Innovation with Purpose Customer Success Engineering Excellence Integrity & Trust Continuous Improvement How We Work Why Industries Work With Us?",
+    "Gregory F Taylor Advisor Ponmani T ​ VP, Product Engineering Our leadership team bring together decades of experience in industrial technology, engineering and innovation Intelligent, Industrial Monitoring, Automation and Digitilization partner for smarter future."
+   ],
+   "sdlc": [
+    "❝ Our Values Innovation with Purpose Customer Success Engineering Excellence Integrity & Trust Continuous Improvement How We Work Why Industries Work With Us?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

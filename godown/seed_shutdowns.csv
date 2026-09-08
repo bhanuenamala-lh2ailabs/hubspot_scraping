@@ -1,0 +1,46 @@
+brand_name,sector,city,founded,funding_usd,investors,shutdown_date,shutdown_year,reason,source_name
+Koo,Social media,Bengaluru,2020,50000000,"Tiger Global; Accel; 3one4 Capital; Kalaari; Blume",2024-07,2024,Funding winter; failed Dailyhunt acquisition,Inc42
+Dunzo,Quick commerce,Bengaluru,2014,450000000,"Reliance Retail; Google",2025,2025,Cash burn; Reliance wrote off investment,Inc42
+Toplyne,SaaS,Bengaluru,2021,17500000,"Peak XV; Tiger Global; Together Fund",2024-10,2024,No product-market fit; returned capital,Inc42
+Kenko Health,Insurtech,Mumbai,2019,13700000,"Peak XV; BEENEXT; Orios",2024-08,2024,Out of funds; no IRDAI licence; NCLT,Inc42
+Bluelearn,Edtech,Bengaluru,2021,3950000,"Elevation Capital; Lightspeed",2024-07,2024,No venture-scale path; returned ~70% capital,Inc42
+Greenikk,Agritech,Kerala,2020,1000000,100Unicorns,2024-09,2024,Borrower loan defaults; mounting losses,Inc42
+GoldPe,Fintech,Ahmedabad,2023,85000,100X.VC,2024,2024,Flawed model; cash crunch,Inc42
+InsurStaq.ai,Insurtech,Delhi NCR,2022,,Faad Network,2024-09,2024,Scaling struggles; relaunched as GenStaq.ai,Inc42
+Investmint,Fintech,Bengaluru,2022,2000000,Nexus Venture Partners,2024-11,2024,No reliable business model,Inc42
+Muvin,Neobanking,,,4000000,WaterBridge Ventures,2024,2024,RBI PPI/UPI co-branding restrictions,Inc42
+My Tirth India,Spiritual tech,,2019,1000000,Sahara,2024-08,2024,Funding crunch after investor death,Inc42
+Nintee,Healthtech,,2022,3000000,"Peak XV; Kunal Shah",2024-04,2024,User retention and scaling failure,Inc42
+Stoa,Edtech,Bengaluru,2020,1500000,"Nithin Kamath; Kunal Shah; Raveen Sastry",2024-11,2024,Refused to move offline,Inc42
+BluSmart,EV ride-hailing,Gurugram,2019,,,2025-04,2025,Gensol governance scandal; NCLT insolvency,Inc42
+Good Glamm Group,D2C beauty,Mumbai,,,"Warburg Pincus; Prosus; Bessemer; Accel",2025,2025,Acquisition-led debt; lenders broke up brands,Inc42
+Altigreen,EV,Bengaluru,2013,40000000,"Reliance; Jupiter Capital; Sixth Sense",2025-06,2025,Cash crunch; liabilities,Inc42
+Log9 Materials,Deeptech battery,Bengaluru,2015,60000000,PETRONAS Ventures,2025-05,2025,LTO chemistry bet failed; debt,Inc42
+Niro,Fintech,Bengaluru,2021,20000000,,2025-10,2025,Regulatory tightening; capital crunch,Inc42
+Beepkart,Used two-wheelers,Bengaluru,,20000000,"Stellaris; Chiratae; InnoVen",2025-08,2025,Thin margins; high opex,Inc42
+ANS Commerce,D2C SaaS,Gurugram,2017,,Flipkart,2025-02,2025,Parent wind-down,Inc42
+Hike,Gaming Web3,Delhi,2012,,,2025,2025,Real-money gaming ban,Inc42
+CrickPe,Fantasy gaming,Delhi,2023,,Third Unicorn,2025-02,2025,28% GST on RMG; crowded field,Inc42
+Otipy,Agritech,Gurugram,2020,,,2025-05,2025,Failed Series B; unpaid dues,Inc42
+BharatAgri,Agritech,Pune,,,,2025,2025,Funding crunch,Inc42
+Blip,Quick commerce fashion,Bengaluru,2024,,,2025,2025,No capital to expand,Inc42
+subtl.ai,Enterprise AI,Hyderabad,2019,200000,angels,2025-07,2025,No follow-on; domain expired,Inc42
+CodeParrot,Dev tools,Bengaluru,2022,500000,Y Combinator,2025,2025,High burn; failed pivots,Inc42
+GenWise,Elder care,Bengaluru,2023,,Z47,2025,2025,No revenue traction,Inc42
+leap.club,Community,Delhi,2020,2300000,"Enzia; Artha; Ghazal Alagh; Alok Mittal",2025,2025,High CAC; retention,Inc42
+O'Be Cocktails,D2C alcobev,Bengaluru,2019,,Bhavish Aggarwal,2025-03,2025,Commoditised market; no buyer,Inc42
+Ohm Mobility,EV financing,Bengaluru,2020,,,2025-07,2025,No product-market fit after pivots,Inc42
+Plus Gold,Fintech,Mumbai,2022,1200000,"Venture Catalysts; Varun Dua",2025,2025,No follow-on capital,Inc42
+Zing,Food delivery,Delhi NCR,2024,,Azhar Iqubal,2025-10,2025,Overestimated demand; data breach,Inc42
+Zoplar,Healthtech,Delhi NCR,2022,3400000,,2025-02,2025,CDSCO refurbished device import ban,Inc42
+Astra,AI sales analytics,Bengaluru,2023,,Aravind Srinivas,2025-07,2025,Founder clash,Inc42
+Wherehouse.io,Supply chain,Bengaluru,2021,,"Better Capital; Titan Capital",2025-12,2025,Legal turmoil; founder detained,Inc42
+Builder.ai,AI app building,,,450000000,"QIA; Microsoft; Iconiq; Jungle Ventures",2025,2025,UK parent insolvency,Inc42
+GramFactory,B2B commerce,,,,,2024,2024,Deadpooled,Tracxn
+Zipgo,Mobility,Bengaluru,,,,2024,2024,Deadpooled,Tracxn
+Crejo.Fun,Edtech,Bengaluru,,,,2024,2024,Deadpooled,Tracxn
+FrontRow,Edtech,Bengaluru,,,,2024,2024,Deadpooled,Tracxn
+Crater.Club,Social commerce,,,,,2024,2024,Deadpooled,Tracxn
+CherryTin,D2C,,,,,2024,2024,Deadpooled,Tracxn
+FoodyBuddy,Foodtech,Bengaluru,,,,2024,2024,Deadpooled,Tracxn
+DevDham,Spiritual tech,,,,,2026,2026,Ceased operations,Entrackr

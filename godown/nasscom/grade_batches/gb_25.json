@@ -1,0 +1,853 @@
+[
+ {
+  "name": "Artihcus Global Private Limited",
+  "city": "Hyderabad",
+  "domain": "artihcus.com",
+  "website": "https://artihcus.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 4369,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "--> SAP EWM Our modern, flexible warehouse solution you can run agile operations with digitalised and accelerated ..."
+   ],
+   "enterprise": [
+    "View More Pharmaceutical Digital healthcare solutions focusing on patient care and operational efficiency."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "ASA Corporate Catalyst India Private Limited",
+  "city": "Bengaluru",
+  "domain": "asa.in",
+  "website": "https://www.bakertilly.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 12552,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ascentt AITek Private Limited",
+  "city": "Indore",
+  "domain": "ascentt.com",
+  "website": "https://www.ascentt.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 211,
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2004-08-04",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 71475,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "owns_product": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "0 + Years of delivering data and AI solutions $ 0 B + Business Value Delivered to clients 0 + Production Deployments live 0 + Enterprise Clients globally served [What We Do] How we put your manufacturing data to work?"
+   ],
+   "owns_product": [
+    "Deploy AI that inspects, predicts, and decides, directly on your production line.",
+    "Production-ready models and pre-built accelerators already battle-tested at OEMs and Tier-1 factories."
+   ],
+   "cicd": [
+    "Microservices and serverless across all clouds Kubernetes orchestration on EKS, AKS, GKE API-first and event-driven architectures Multi-cloud CI/CD pipeline automation Operate Monitor, optimize, and secure in production Monitor, optimize & secure in production."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "ASGN Apex Systems Big Data India Private Limited",
+  "city": "Chennai",
+  "domain": "avaap.com",
+  "website": "https://avaap.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 19202,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6,
+   "sdlc": 3,
+   "vcs": 4
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Headquartered in Columbus, Ohio, with consultants across the country, we bring expertise in higher education, state and local government, and healthcare industries.",
+    "With a people-first approach and deep experience across higher education, government, and healthcare, Avaap delivers technology consulting services that align with your goals and enable long-term success.",
+    "2009 Began our first Workday deployment of HCM for a Fortune 500 firm.",
+    "2010 Expands expertise across higher education, state and local government, special districts, nonprofit and healthcare, helping clients modernize technology and processes."
+   ],
+   "sdlc": [
+    "Our Values Beyond words, our values guide how we work with one another and our clients.",
+    "our process Our People-First Approach Our approach blends industry expertise with a collaborative process.",
+    "Our approach supports both traditional and agile delivery models, enabling self-managing teams to deliver high-quality, low-waste work in short, iterative cycles."
+   ],
+   "vcs": [
+    "* Bowser - a browser detector * https://github.com/ded/bowser * MIT License"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ashield Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "ashield.co",
+  "website": "https://www.ashield.co",
+  "already_in_hubspot": true,
+  "headcount_known": 45,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "prod_eng": 1,
+   "sdlc": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "From banking and finance to telecom, media, and healthcare, AShield, under Sekhar’s leadership is empowering organisations to ditch legacy authentication and embrace a future that’s passwordless by default, and secure by design.",
+    "Rakesh brings over two decades of leadership in private banking, strategic advisory, and investment management, with senior roles at Credit Suisse, Citi, and Julius Baer.",
+    "Offices Singapore Bangalore Industries Subscription Economy ⁠Online Commerce ⁠Banking and Financial Services Use Cases Zero Phishing Cyber Threats Account Takeovers Company Our Team Privacy Policy Terms & Conditions Copyright 2026 AShield Technologies"
+   ],
+   "prod_eng": [
+    "Yashraj Rao Co-founder & Head of Product Engineering Engineering the Future of Frictionless Security From circuits to code, and now to cutting-edge cybersecurity."
+   ],
+   "sdlc": [
+    "But beyond the sprint cycles and product releases, his north star is trust."
+   ],
+   "senior_roles": [
+    "Ramjee Ganti Head of Engineering Architecting Resilience."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Asista Software Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "asista.com",
+  "website": "https://www.asista.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2009-07-05",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "DQ_support": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "START AUDIT AIDI - AI Decision Intelligence AI DI Product Overview Decision Intelligence tech Workflow & Automation Workflow Product Orchestrated decision workflows Pricing Partner Blog Contact Us Blog Search Search AI Agents vs Traditional Automation in Banking: Which is better?"
+   ],
+   "DQ_support": [
+    "+ Its Use Cases in 2024 Seema P August 13, 2024 Help Desk Automation: Ultimate Guide + Top 10 Tasks To Automate Seema P August 9, 2024 Top 10 Help Desk Automation Platforms To Test in 2024 Seema P August 8, 2024 ITSM Automation: 5 Key Components + Its Use Cases in 2024.",
+    "This has helped to reach employee centricity & high level of employee delight.\" Arul Kirubaharan S Manager - IT Department, Fuji Electric India Private Limited \"We are glad to inform that ASISTA has been instrumental in enabling the IT support team to respond to employees efficiently to resolve their services issues.",
+    "We have seen a remarkable improvement in CSAT levels due to better responsiveness by the IT support team."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Assistanz Networks Pvt Ltd",
+  "city": "Coimbatore",
+  "domain": "assistanz.com",
+  "website": "http://www.assistanz.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 23595,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 24
+  },
+  "site_quotes": {
+   "cicd": [
+    "Kubernetes & DevOps Consulting Services - Assistanz +1 888 500 1070 (Toll Free)",
+    "Explore More DevOps & Software Development DevOps & Software Development Our DevOps services help organizations increase efficiency, reduce cost and speed up time to market through pipeline automation across different cloud platforms.",
+    "Certified Partners AssistanZ excels with a versatile team skilled in AWS, Kubernetes, and server management, allowing us to offer comprehensive cloud and server administration solutions.",
+    "Technology Partner Utilize AssistanZ's Expertise for IaaS, AWS, DevOps, Cloud Consulting, Google Cloud, Kubernetes and Docker."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Assurant Warranty Solutions (India) Private limited",
+  "city": "Chennai",
+  "domain": "assurant.in",
+  "website": "https://www.assurant.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2008-05-27",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Our flexible approach allows us to assess, price, and manage risk dynamically — whether for device protection, insurance products, or service contracts — helping you launch offerings with confidence.",
+    "Through comprehensive risk analysis, performance monitoring, and reinsurance strategies, we help mitigate exposure while ensuring programs are both competitive and financially sound."
+   ],
+   "DQ_training": [
+    "From smartphones and appliances to vehicles and connected devices, we offer end-to-end repair and replacement services that combine smart logistics, certified technician networks, and intuitive digital experiences."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "AstraZeneca India Private Limited",
+  "city": "Chennai",
+  "domain": "astrazeneca.com",
+  "website": "https://www.astrazeneca.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 52316,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 6,
+   "enterprise": 9,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "By cultivating an inclusive and high-performing culture where our people are prioritised, we can perform at our best and remain agile in the face of new challenges.",
+    "Learn more about our commitment to lifelong learning Our Values and behaviours Our Values determine how we work together and the behaviours that drive our success.",
+    "Our Values determine how we work together and the behaviours that drive our success.",
+    "Our strategic focus areas: Deliver a great employee experience Lead on climate, equity and resilience Enable an agile organisation Our therapy areas We are focused on therapy areas where we can transform patient outcomes through novel medicines and combinations."
+   ],
+   "enterprise": [
+    "We believe we need to continually grow, adapt and be entrepreneurial in our approach to solve the healthcare challenges of tomorrow.",
+    "By 2030, we will deliver 20 new medicines, lead in sustainable healthcare, and be an $80bn company.",
+    "She has operational experience in biopharma, plus more than 20 years of professional experience at global financial institutions and extensive knowledge of global healthcare systems.",
+    "This includes tenures at Citi Global Banking, UBS, and JP Morgan."
+   ],
+   "cicd": [
+    "Explore our capabilities We are harnessing the power of our scientific platforms to deliver one of the most productive and diverse pipelines in the industry."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Astrea IT Services Pvt Ltd",
+  "city": "Noida",
+  "domain": "astreait.com",
+  "website": "https://astreait.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 8703,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Atgeir Solutions Private Limited",
+  "city": "Pune",
+  "domain": "atgeirsolutions.com",
+  "website": "https://atgeirsolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 24735,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "cicd": [
+    "Over time, I’ve had the opportunity to build scalable data pipelines, strengthen engineering best practices, and contribute to solutions that deliver measurable value."
+   ],
+   "DQ_training": [
+    "4.7 4.7 Internship Program at Atgeir Solutions At Atgeir Solutions, we are passionate about driving talent mobility and nurturing future talent within our growing data and ai consultancy.",
+    "Our internship program offers motivated individuals the opportunity to work alongside experienced professionals, gain valuable firsthand experience, and receive focused training."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Atlas Primary India Private Limited",
+  "city": "Ahmedabad",
+  "domain": "atlasprimary.io",
+  "website": "https://atlasprimary.io",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Atlas Primary Home About About Us Our Core Values Contact Solutions Quantitative Qualitative Custom Solutions Additional Services EXPERT HEALTHCARE PRIMARY RESEARCH When it comes to healthcare market research, data quality and reach are critical to successful outcomes.",
+    "Atlas Primary provides our clients with expert healthcare data collection solutions."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "ATOA Scientific Technologies Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "atoa.com",
+  "website": "https://www.atoa.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 10021,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "No need for costly software and hardware."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Atos Global IT Solutions and Services Private Limited",
+  "city": "Navi Mumbai",
+  "domain": "atos-kliniken.com",
+  "website": "https://atos-kliniken.com/de/heidelberg/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Atria Convergence Technologies Limited",
+  "city": "Bengaluru",
+  "domain": "actcorp.in",
+  "website": "https://www.actcorp.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2014-06-03",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 52733,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Aumovio India Private Limited",
+  "city": "Bengaluru",
+  "domain": "aumovio.com",
+  "website": "https://www.aumovio.com/en.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2025-02-06",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 43653,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "owns_product": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "To achieve this goal, we develop, produce and supply technologically leading and market-oriented products, hardware, software and modern mobility solutions."
+   ],
+   "owns_product": [
+    "Learn more Solutions for two-wheelers Our products and solutions for two-wheelers are innovative, durable and of a high quality standard."
+   ],
+   "sdlc": [
+    "Acting with integrity, we deliver results and ensure future mobility through fast, efficient, and agile solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Aurionpro Solutions Limited",
+  "city": "Mumbai",
+  "domain": "aurionpro.com",
+  "website": "https://www.aurionpro.com:443/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "on Investor Contact Resource Blogs News Events Whitepaper & Case Studies Contact Us Hit enter to search or ESC to close Close Search About Us Company"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 30671,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 12,
+   "sdlc": 4,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Artificial Intelligence Capital Markets Self Service Kiosks Transaction Banking new Data Center & Hybrid Cloud Transit & Smart Mobility Lending Interact Payments Smart Governance Company Company Our foundation is built on uniting innovation, experience and capabilities to drive meaningful impact.",
+    "Advisory & Architecture Business Analysis/Expertise Project Management Murex Platform Implementation Services Managed Services & Support Services FX Connect Bridging The Gap Between FX Treasury And Core Banking.",
+    "By integrating advanced self-service kiosks, queue management systems, and interactive digital signage, we empower businesses across retail, banking, hospitality, and other sectors to deliver faster, smarter, and more interactive service environments.",
+    "Revolutionary AI-native solution, bringing generational change to global trade finance Book a Demo arrow_upward Intelligent Banking, Unified by AurionAI Built for regulated finance with secure, structured, and reliable AI."
+   ],
+   "sdlc": [
+    "Retail Services Corporate Services Products & Solutions Data Centre Services & Solutions We’re your end-to-end data center partner, delivering agile, cost-efficient solutions—from site assessment to prefab and edge infrastructure—built for scalability, sustainability, and real-world impact.",
+    "Transaction Banking new Digitizing the full corporate banking lifecycle with scalable, secure, and agile platforms."
+   ],
+   "DQ_support": [
+    "Transit & Smart Mobility Automatic Fare Collection Intelligent Transport Management System Hardware Components Software Components Ticket Vending Machines – AuroToshi Transit Gates – AuroToshi Transit Payment Solutions Airports A Global Force We’re not just global in scale—we’re global in impact."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Aurum Equity Partners LLP",
+  "city": "Gurugram",
+  "domain": "aurumequity.com",
+  "website": "https://www.aurumequity.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "He was the Director and on the Investment Committee of a USD 500 million real estate fund, is a Board Observer on the Indian Subsidiary of a Nasdaq listed MNC and is an Investor, Director and mentor in few startups.",
+    "Strategic Partners The power of relationships is synonymous with Investment Banking.",
+    "We bring the power of our relationships with key strategic partners in the investment banking ecosystem."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Avalon Labs Private Limited",
+  "city": "Delhi",
+  "domain": "acadally.ai",
+  "website": "https://acadally.ai",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "' statements, self assessment. Use of high quality videos E-portfolio School Leaders Use of data analytics for teacher training. Progress of syllabus"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 2954,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our platform was shaped through thousands of school visits, direct teacher feedback, and deep classroom observations."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Aviva Global Services (A div. Of A G S Customer Services (India) Pvt Ltd)",
+  "city": "Pune",
+  "domain": "aviva.com",
+  "website": "https://www.aviva.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1996-04-13",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 111164,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 21,
+   "cicd": 1,
+   "DQ_training": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "In General Insurance, premiums are up 18%.",
+    "First, in General Insurance there is plenty of room to grow – unlocking value from Direct Line, expanding partnerships, scaling SME in Canada, and building our Lloyd’s presence.",
+    "We have an outstanding customer franchise of more than 25 million customers globally and the UK’s most trusted insurance brand.",
+    "Strategy and performance overview Investment case and strategy Results, presentations and reports Regulatory announcements Financial calendar Acquisition of Direct Line Insurance Group plc Annual Report page Institutional investors Information and contacts for institutional investors."
+   ],
+   "cicd": [
+    "And also, if you overwhelm people with too much information, particularly if it's inaccessible."
+   ],
+   "DQ_training": [
+    "Aviva works with upReach and the Taylor Bennet Foundation to provide interns with around six weeks in paid placements in our Aviva offices."
+   ],
+   "sdlc": [
+    "Our values shape how we work and how we show up: Commitment Always delivering on our promises, taking accountability and ownership for what we do and learning as we go to be better every day."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

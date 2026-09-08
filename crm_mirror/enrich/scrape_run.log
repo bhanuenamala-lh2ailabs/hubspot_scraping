@@ -1,0 +1,21 @@
+2026-07-30T06:17:19.223663Z [info     ] source_done                    blocked=False pages=140 rows=5456 skipped=0 source=goodfirms
+2026-07-30T06:17:19.224072Z [info     ] crawl_complete                 sources=['goodfirms'] total_rows=5456
+2026-07-30T06:17:19.798221Z [info     ] exclusions_loaded              domains=4019 names=717
+2026-07-30T06:17:38.680734Z [info     ] build_complete                 excluded_known=468 gate_pass=1121 no_domain=0 raw_listings=5455 unique_companies=5369
+2026-07-30T06:17:38.700622Z [info     ] governor_built                 credits_today_budget=24831 monthly_credit_budget=50000 provider=signalhire rate_limited=True search_remaining=4000
+2026-07-30 11:47:39,878 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/searchByQuery "HTTP/1.1 200 OK"
+2026-07-30 11:47:40,420 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/search "HTTP/1.1 200 OK"
+2026-07-30 11:47:40,968 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/search "HTTP/1.1 200 OK"
+2026-07-30 11:47:42,079 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/searchByQuery "HTTP/1.1 200 OK"
+2026-07-30 11:47:43,264 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/searchByQuery "HTTP/1.1 200 OK"
+2026-07-30T06:17:43.268996Z [info     ] max_enrich_reached             cap=40
+2026-07-30T06:17:43.269310Z [info     ] enrich_complete                claude_calls=0 claude_tokens=0 credit_budget_reached=False credits_budget_month=50000 credits_daily_budget=24831 credits_used_month=340 credits_used_today=2 emails=2 enriched=40 failed=0 founders=44 phones=18 quota_reached=False signalhire_calls=5 signalhire_credits_left=579 skipped_existing=0
+2026-07-30T06:17:43.658482Z [info     ] score_complete                 amber=667 green=0 linkedin_confirmed=0 linkedin_rejected=0 overrides=0 people=803 red=136
+2026-07-30T06:17:43.720764Z [info     ] export_complete                csv=C:\Users\naani\OneDrive\Desktop\hubspot\lh2-pipeline\data\exports\targets_hyperlinked.csv linkedin_review_rows=235 review=C:\Users\naani\OneDrive\Desktop\hubspot\lh2-pipeline\data\exports\linkedin_review.csv rows=1121
+2026-07-30T06:17:43.893760Z [info     ] sheets_sync_failed             err='spreadsheet key missing — set sheets.spreadsheet_key in config.yaml or the GOOGLE_SHEETS_KEY env var'
+2026-07-30T06:17:43.893954Z [info     ] run_complete                   steps=['since', 'refresh', 'crawl', 'build', 'enrich', 'score', 'export', 'sheets']
+  crawl: {'goodfirms': {'pages': 140, 'rows': 5456, 'blocked': False, 'skipped': 0}}
+  build: {'raw_listings': 5455, 'unique_companies': 5369, 'gate_pass': 1121, 'excluded_known': 468, 'no_domain': 0}
+  enrich: {'enriched': 40, 'skipped_existing': 0, 'founders': 44, 'phones': 18, 'emails': 2, 'failed': 0, 'signalhire_calls': 5, 'claude_calls': 0, 'quota_reached': False, 'credit_budget_reached': False, 'signalhire_credits_left': 579, 'credits_used_month': 340, 'credits_used_today': 2, 'credits_daily_budget': 24831, 'credits_budget_month': 50000, 'claude_tokens': 0}
+  score: {'people': 803, 'green': 0, 'amber': 667, 'red': 136, 'linkedin_confirmed': 0, 'linkedin_rejected': 0, 'overrides': 0}
+  export: {'rows': 1121, 'csv': 'C:\\Users\\naani\\OneDrive\\Desktop\\hubspot\\lh2-pipeline\\data\\exports\\targets_hyperlinked.csv', 'linkedin_review_rows': 235, 'review': 'C:\\Users\\naani\\OneDrive\\Desktop\\hubspot\\lh2-pipeline\\data\\exports\\linkedin_review.csv'}

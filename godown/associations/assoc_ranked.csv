@@ -1,0 +1,673 @@
+rank,prelim_score,name,domain,sources,sector,city,flag
+1,12,Kireeti Soft Technologies Ltd.,kireetisoft.com,HYSEA+ITAAP,,,ok
+2,10,Cerebra IT Services Private Limited,cerebra-consulting.com,HYSEA+ITAAP,,,ok
+3,8,Assuretech Business Solutions Pvt. Ltd.,assuretech.in,GTECH,,,ok
+4,8,Cloud Vertex Technologies India Private Limited,cloudvertex.in,HYSEA,,,ok
+5,8,Digital Equity,digitalequity.in,HYSEA,,,ok
+6,8,Eram Infotech Pvt Ltd,eraminfotech.in,GTECH,,,ok
+7,8,IDEALABS FUTURETECH VENTURES,idealabsftv.in,HYSEA,,,ok
+8,8,Netisoft Consultants Pvt. Ltd.,netisoft.in,HYSEA,,,ok
+9,8,Orisys,orisys.in,GTECH,,,ok
+10,8,PACT SOFTWARE SERVICES PRIVATE LIMITED,pactsoft.in,HYSEA,,,ok
+11,8,Softland India Limited,softlandindia.co.in,GTECH,,,ok
+12,8,Techmojo Solutions Pvt. Ltd.,techmojo.in,HYSEA,,,ok
+13,8,acestech,acestech.in,ITAAP,,,ok
+14,8,byteweb,byteweb.in,GESIA,,,ok
+15,8,datamill,datamill.in,ITAAP,,,ok
+16,8,datapro,datapro.in,ITAAP,,,ok
+17,8,harmonyinfotech,harmonyinfotech.in,ITAAP,,,ok
+18,8,morntechnologies,morntechnologies.in,ITAAP,,,ok
+19,8,technosoftsolutions,technosoftsolutions.co.in,ITAAP,,,ok
+20,8,vsoft,vsoft.co.in,ITAAP,,,ok
+21,6,8FX,8fx.in,HYSEA,,,ok
+22,6,ARTCAFE PRIVATE LIMITED,artcafe.in,HYSEA,,,ok
+23,6,AV Zero Touch Pvt. Ltd,zerotouch.in,HYSEA,,,ok
+24,6,Alfa electronic services India pvt ltd IMAGE NOT AVAILABLE,alfaelectronics.in,ITAAP,,,ok
+25,6,Alokin Software Pvt. Ltd.,alokin.in,GTECH,,,ok
+26,6,Aufait Technologies,aufait.in,GTECH,,,ok
+27,6,Aurora Higher Education and Research Acdemy,aurora.edu.in,HYSEA,,,ok
+28,6,EI Dupont Services Center India Pvt. Ltd.,dupont.co.in,HYSEA,,,ok
+29,6,Ecomm India Cloud It,ecomm.in,HYSEA,,,ok
+30,6,FOCUS IT TECH SYSTEMS PRIVATE LIMITED,focusit.in,HYSEA,,,ok
+31,6,Finakon Technologies Pvt Ltd,finakon.in,HYSEA,,,ok
+32,6,Futureblox Technologies Pvt Ltd,futureblox.in,GTECH,,,ok
+33,6,Futuremug(REVELADO INNOVATIONS PVT. LTD),futuremug.co.in,GTECH,,,ok
+34,6,GoodBits Tech Pvt Ltd,goodbits.in,GTECH,,,ok
+35,6,HTCS Consultant,htcs.in,HYSEA,,,ok
+36,6,IDENTIS TECH SOLUTIONS PVT LTD,identis.in,HYSEA,,,ok
+37,6,IT4Yourbusiness Private Limited,it4yourbusiness.in,HYSEA,,,ok
+38,6,InOps IT Solutions Pvt. Ltd,inops.in,HYSEA,,,ok
+39,6,Infinite Open Source Solutions LLP,ioss.in,GTECH,,,ok
+40,6,L&T Metro Rail (Hyderabad) Limited,ltmetro.in,HYSEA,,,ok
+41,6,Learnpedia Edutech Pvt. Ltd.,learnpedia.in,HYSEA,,,ok
+42,6,Lex Nimble Solutions Ltd.,lexnimble.in,HYSEA,,,ok
+43,6,Minkan Agro Industries Private Limited,minkan.in,HYSEA,,,ok
+44,6,NEOSTRATEGY CONSULTING LLP,neostrategy.in,HYSEA,,,ok
+45,6,NSSK Corporate Advisors Pvt Ltd,nsskca.in,HYSEA,,,ok
+46,6,Neovibe Innovative Technologies (P) Ltd,neovibe.in,GTECH,,,ok
+47,6,Next Skills 360 EdTech Private Limited,nextskills360.in,HYSEA,,,ok
+48,6,ORGANO ECO HABITATS PRIVATE LIMITED,organo.co.in,HYSEA,,,ok
+49,6,PEAKIN LEARNING TECHNOLOGIES PVT LTD,peakin.in,HYSEA,,,ok
+50,6,ProLedger Consulting LLP,proledger.in,HYSEA,,,ok
+51,6,S Infinity Solutions,sinfinity.co.in,HYSEA,,,ok
+52,6,SARIGA INITIATIVES,sariga.in,HYSEA,,,ok
+53,6,SATRA Services and Solutions Private Limited,satragroup.in,HYSEA,,,ok
+54,6,STEADFAST BUSINESS CONSULTING LLP,steadfastconsultants.in,HYSEA,,,ok
+55,6,SimplyBiz Private Limited,simplybiz.in,HYSEA,,,ok
+56,6,Syntrio Technologies,syntrio.in,GTECH,,,ok
+57,6,TRIBHUJA TECHNOLOGIES PRIVATE LIMITED IMAGE NOT AVAILABLE,tribhuja.in,ITAAP,,,ok
+58,6,Velosit Info Lab Pvt Ltd,velosit.in,GTECH,,,ok
+59,6,Verity Knowledge Solutions,verity.co.in,HYSEA,,,ok
+60,6,Visual IT Solutions Private Limited,visualit.in,HYSEA,,,ok
+61,6,XRG Consulting Pvt Ltd,xrg.in,HYSEA,,,ok
+62,6,Zaggle Prepaid Ocean Services Pvt. Ltd.,zaggle.in,HYSEA,,,ok
+63,6,accuratepms,accuratepms.in,GESIA,,,ok
+64,6,charusat,charusat.ac.in,GESIA,,,ok
+65,6,drcomputer,drcomputer.in,ITAAP,,,ok
+66,6,edgystyle,edgystyle.in,ITAAP,,,ok
+67,6,elegantVie Consults and Designs,elegantvie.in,GTECH,,,ok
+68,6,fedserv,fedserv.co.in,ITAAP,,,ok
+69,6,guni,guni.ac.in,GESIA,,,ok
+70,6,hkcindia,hkcindia.in,GESIA,,,ok
+71,6,hrfirst,hrfirst.in,ITAAP,,,ok
+72,6,i-tax,i-tax.in,GESIA,,,ok
+73,6,incaplimited,incaplimited.in,ITAAP,,,ok
+74,6,indigenius,indigenius.co.in,ITAAP,,,ok
+75,6,inovantics,inovantics.in,ITAAP,,,ok
+76,6,jguni,jguni.in,GESIA,,,ok
+77,6,magnis,magnis.in,ITAAP,,,ok
+78,6,microhard,microhard.in,GESIA,,,ok
+79,6,mjomegasolution,mjomegasolution.in,GESIA,,,ok
+80,6,myvi,myvi.in,GESIA,,,ok
+81,6,nanomindz,nanomindz.in,ITAAP,,,ok
+82,6,nuv,nuv.ac.in,GESIA,,,ok
+83,6,paruluniversity,paruluniversity.ac.in,GESIA,,,ok
+84,6,pbsiddhartha,pbsiddhartha.ac.in,ITAAP,,,ok
+85,6,phytec,phytec.in,ITAAP,,,ok
+86,6,pixelrun,pixelrun.in,ITAAP,,,ok
+87,6,pixoplay,pixoplay.in,ITAAP,,,ok
+88,6,sendsafe,sendsafe.in,ITAAP,,,ok
+89,6,stio,stio.in,ITAAP,,,ok
+90,6,synectic,synectic.in,ITAAP,,,ok
+91,5,AEONX TECHNOLOGY SOLUTIONS PRIVATE LIMITED,aeonx.digital,HYSEA,,,ok
+92,5,AMNET DIGITAL PRIVATE LIMITED,amnetdigital.com,HYSEA,,,ok
+93,5,APPEN AI INDIA PRIVATE LIMITED,appen.com,HYSEA,,,ok
+94,5,Abda Digital,abdadigital.com,HYSEA,,,ok
+95,5,Acheron Software Consultancy Pvt. Ltd.,acheron-tech.com,HYSEA,,,ok
+96,5,Alpine Techq Incorporated,alpinetechq.com,HYSEA,,,ok
+97,5,Amyntor Tech Solutions Pvt Ltd,amyntortech.com,GTECH,,,ok
+98,5,Ananth Technologies Ltd,ananthtech.com,HYSEA,,,ok
+99,5,Android Porting and Customization,primesoft.net,HYSEA,,,ok
+100,5,Applexus Technologies Pvt. Ltd.,applexus.com,GTECH,,,ok
+101,5,Application Management Services,nttdata-solutions.com,HYSEA,,,ok
+102,5,Azinova Technologies Pvt. Ltd.,azinovatechnologies.com,GTECH,,,ok
+103,5,Bcdc cloud centers Pvt ltd,bharathcloud.com,HYSEA,,,ok
+104,5,Bosch Global Software Technologies Private Ltd,bosch-softwaretechnologies.com,HYSEA,,,ok
+105,5,CPZ TECH Private Limited,cpztech.com,HYSEA,,,ok
+106,5,Callaway Digital Technologies Pvt Ltd,callawaydigitech.com,HYSEA,,,ok
+107,5,Canza Technology Consultants,canzatech.com,GTECH,,,ok
+108,5,Cesta Technologies Pvt Ltd,cestasoft.co.za,HYSEA,,,ok
+109,5,Cloud4C Services Pvt. Ltd.,cloud4c.com,HYSEA,,,ok
+110,5,Codegnan IT solutions,codegnan.com,HYSEA,,,ok
+111,5,Convey Tech Labs India Private Limited,conveytechlabs.com,HYSEA,,,ok
+112,5,Cybercommand Private Limited,cybercommand.tech,HYSEA,,,ok
+113,5,Cybrosys Techno Solutions Pvt. Ltd.,cybrosys.com,GTECH,,,ok
+114,5,DST Worldwide Services India Pvt. Ltd.,dstsystems.com,HYSEA,,,ok
+115,5,Daiviksoft Technologies Private Limited.,daiviksoft.com,GTECH,,,ok
+116,5,Dinero Tech Labs Pvt Ltd,dinerotechlabs.com,GTECH,,,ok
+117,5,ECESIS BPO SERVICES PVT LTD,ecesistech.com,GTECH,,,ok
+118,5,Edify Datascience Pvt Ltd,edifydata.com,GTECH,,,ok
+119,5,Energytech Global Pvt. Ltd.,energytech-global.com,HYSEA,,,ok
+120,5,Enfin Technologies India Pvt. Ltd.,enfintechnologies.com,GTECH,,,ok
+121,5,Faith Infotech India Pvt. Ltd.,faithinfotechcorp.com,GTECH,,,ok
+122,5,Fin Infocom Pvt. Ltd.,fininfocom.com,HYSEA,,,ok
+123,5,Future Tech Information Systems Pvt. Ltd.,futuretechinfo.com,HYSEA,,,ok
+124,5,GEMINI Software Solutions Pvt. Ltd.,geminisoftware.com,GTECH,,,ok
+125,5,HYBCLOUD TECHNOLOGIES (CLOUD CONTROL),ecloudcontrol.com,GTECH,,,ok
+126,5,Helius Computech India Private Limited,helius-tech.com,HYSEA,,,ok
+127,5,Husys Consulting Limited,husys.com,HYSEA,,,ok
+128,5,INFOPEOPLE GLOBAL,infopeoplecorp.com,HYSEA,,,ok
+129,5,IPIX Tech Services Pvt Ltd,ipixtechnologies.com,GTECH,,,ok
+130,5,Infopeers Solutions Private Limited,infopeers.com,HYSEA,,,ok
+131,5,Infor (India) Private Limited,infor.com,HYSEA,,,ok
+132,5,Informatica Business Solutions Pvt. Ltd.,informatica.com,HYSEA,,,ok
+133,5,Informatics India,informaticsindia.com,HYSEA,,,ok
+134,5,Infospica Consultancy Services LLP,infospica.com,GTECH,,,ok
+135,5,Infoview Systems Incorporated,infoviewsystems.com,HYSEA,,,ok
+136,5,Jiva Internet Solutions Pvt. Ltd.,jivainfotech.com,HYSEA,,,ok
+137,5,Loginsoft Pvt. Ltd.,loginsoft.com,HYSEA,,,ok
+138,5,M2H Infotech LLP,m2hinfotech.com,GTECH,,,ok
+139,5,MERGESOFT TECHNOLOGIES PVT LTD IMAGE NOT AVAILABLE,merzesoft.com,ITAAP,,,ok
+140,5,Magnicode Solutions Pvt. Ltd.,magnificentcode.com,GTECH,,,ok
+141,5,Magpii Innovations Private Limited,magpiitech.com,GTECH,,,ok
+142,5,Maq Softawre,maqsoftware.com,HYSEA,,,ok
+143,5,Mastech Digital Private Limited,mastechdigital.com,HYSEA,,,ok
+144,5,Metasoft Solutions,metasoftsolutions.com,HYSEA,,,ok
+145,5,Millennium Infologic,millinfo.net,GTECH,,,ok
+146,5,Motivity Labs Private Limited,motivitylabs.com,HYSEA,,,ok
+147,5,N LABS AI PRIVATE LIMITED,n-labs.ai,HYSEA,,,ok
+148,5,NIIT Incessant Technologies,incessanttechnologies.com,HYSEA,,,ok
+149,5,NIMAISOFT SYSTEMS PVT LTD,nimaisoft.com,ITAAP,,,ok
+150,5,NTT Data Global Delivery Services Pvt. Ltd.,us.nttdata.com,HYSEA,,,ok
+151,5,NilaSoft Pvt Ltd,nila-soft.com,GTECH,,,ok
+152,5,Noon Technologies,noontechnologies.com,GTECH,,,ok
+153,5,OSI Digital,osidigital.com,HYSEA,,,ok
+154,5,PMR Softtech Pvt Ltd Innovative Information Technologies,innovativeinfotech.com,HYSEA,,,ok
+155,5,Parnandi Technology Solutions Pvt. Ltd.,parnanditech.com,HYSEA,,,ok
+156,5,Plural Technology Private Limited,pluraltechnology.com,HYSEA,,,ok
+157,5,Polus Software Pvt. Ltd.,polussoftware.com,GTECH,,,ok
+158,5,QMIS SYSTEMS PRIVATE LIMITED,qmissystems.com,GTECH,,,ok
+159,5,REQOLENT QUALITY LABS PVT LTD,qualitlabs.com,HYSEA,,,ok
+160,5,RamInfo Limited,raminfo.com,HYSEA,,,ok
+161,5,RanchHill Software Solutions,navasoftware.com,HYSEA,,,ok
+162,5,Revalsys Technologies India Private Limited,revalsys.com,HYSEA,,,ok
+163,5,S2Tech.Com India Pvt. Ltd.,s2tech.com,HYSEA,,,ok
+164,5,SBase Technologies,sbasetech.net,HYSEA,,,ok
+165,5,SCIENTIFIC VISION PRIVATE LIMITED,svsoftware.org,GTECH,,,ok
+166,5,Saven Nova Technologies Pvt Ltd,saventech.com,HYSEA,,,ok
+167,5,Selectsys India Pvt. Ltd.,selectsysindia.com,HYSEA,,,ok
+168,5,Silicon Labs,silabs.com,HYSEA,,,ok
+169,5,Skysmile Technologies Private Limited,skysmiletechnologies.com,GTECH,,,ok
+170,5,Smart Data Factory,smart-data-factory.de,GTECH,,,ok
+171,5,TECHGENE SOLUTIONS PVT LTD,techgene.com,HYSEA,,,ok
+172,5,TECHMAVEN IT SOLUTIONS PRIVATE LIMITED,techmavenit.com,GTECH,,,ok
+173,5,TGH Software Solutions Private Limited,techygeekhub.com,HYSEA,,,ok
+174,5,THOUGHTLINE DIGITAL PRIVATE LIMITED,thoughtlinedigital.com,GTECH,,,ok
+175,5,TOSIL Systems Private Limited,tosil-systems.com,GTECH,,,ok
+176,5,TRACERT SERVICES PRIVATE LIMITED,tracert.digital,HYSEA,,,ok
+177,5,TTEC Digital Innovation Studio,ttecdigital.com,HYSEA,,,ok
+178,5,Technaureus Info Solutions Private Limited,technaureus.com,GTECH,,,ok
+179,5,Technocuz Software Solutions Pvt. Ltd.,technocuz.com,GTECH,,,ok
+180,5,Techstas Info Solutions,techstas.com,GTECH,,,ok
+181,5,Techversant Infotech Pvt. Ltd.,techversantinfotech.com,GTECH,,,ok
+182,5,Tetrasoft India Pvt Ltd,tetrasoft.us,HYSEA,,,ok
+183,5,ThoughtLine Technologies Pvt. Ltd.,thoughtlinetech.com,GTECH,,,ok
+184,5,Tilt Labs,tiltlabs.io,GTECH,,,ok
+185,5,Tripod Software Solutions Pvt Ltd,tripodtech.net,HYSEA,,,ok
+186,5,VENDEEP TECHNOIDENTITY SOLUTIONS PRIVATE LIMIT,technoidentity.com,HYSEA,,,ok
+187,5,Vasavi Prosoft Transcription Ltd.,vasaviprosoft.com,HYSEA,,,ok
+188,5,Wings Infonet Private Limited,wingsinfo.net,HYSEA,,,ok
+189,5,Zestybeanz Technologies,zbeanztech.com,GTECH,,,ok
+190,5,amaravathisoftware,amaravathisoftware.com,ITAAP,,,ok
+191,5,appsdreamz,appsdreamz.com,ITAAP,,,ok
+192,5,appsrow,appsrow.com,GESIA,,,ok
+193,5,augmentedtechlabs,augmentedtechlabs.com,GESIA,,,ok
+194,5,bluebytetechnologies,bluebytetechnologies.com,ITAAP,,,ok
+195,5,bposystems,bposystems.com,ITAAP,,,ok
+196,5,camsysind,camsysind.com,ITAAP,,,ok
+197,5,chatrtech,chatrtech.com,ITAAP,,,ok
+198,5,cizotech,cizotech.com,GESIA,,,ok
+199,5,cloudmaaya,cloudmaaya.com,ITAAP,,,ok
+200,5,clovetech,clovetech.com,ITAAP,,,ok
+201,5,corporate website design,presentation.revalsys.com,HYSEA,,,ok
+202,5,cygnetinfotech,cygnetinfotech.com,GESIA,,,ok
+203,5,datasoftcomnet,datasoftcomnet.com,ITAAP,,,ok
+204,5,deltainfosoft,deltainfosoft.com,GESIA,,,ok
+205,5,disruptivetechsolutions,disruptivetechsolutions.com,ITAAP,,,ok
+206,5,drcsystems,drcsystems.com,GESIA,,,ok
+207,5,eLogicTech Solutions India Private Limited,elogictech.com,HYSEA,,,ok
+208,5,earthsyscom,earthsyscom.com,GESIA,,,ok
+209,5,ecsinfotech,ecsinfotech.com,GESIA,,,ok
+210,5,einfochips,einfochips.com,GESIA,,,ok
+211,5,emugtech,emugtech.com,ITAAP,,,ok
+212,5,etechgs,etechgs.com,GESIA,,,ok
+213,5,fin-soft,fin-soft.com,GESIA,,,ok
+214,5,gennext-tech,gennext-tech.com,ITAAP,,,ok
+215,5,glidemtech,glidemtech.com,GESIA,,,ok
+216,5,glssystems,glssystems.com,ITAAP,,,ok
+217,5,honeylabs,honeylabs.com,ITAAP,,,ok
+218,5,hrishitatech,hrishitatech.com,ITAAP,,,ok
+219,5,hvinfotech,hvinfotech.com,GESIA,,,ok
+220,5,innovateapps,innovateapps.com,ITAAP,,,ok
+221,5,itechops,itechops.com,GESIA,,,ok
+222,5,jkssofttech,jkssofttech.com,ITAAP,,,ok
+223,5,juranttech,juranttech.com,ITAAP,,,ok
+224,5,kalpsystems,kalpsystems.com,GESIA,,,ok
+225,5,karthikeyainfominds,karthikeyainfominds.com,ITAAP,,,ok
+226,5,kpcstech,kpcstech.com,ITAAP,,,ok
+227,5,maltechs,maltechs.com,ITAAP,,,ok
+228,5,manuhtech,manuhtech.com,ITAAP,,,ok
+229,5,maple-software,maple-software.com,ITAAP,,,ok
+230,5,marwaditechnologies,marwaditechnologies.com,GESIA,,,ok
+231,5,miraclesoft,miraclesoft.com,ITAAP,,,ok
+232,5,motadata,motadata.com,GESIA,,,ok
+233,5,multicoretechnologies,multicoretechnologies.com,GESIA,,,ok
+234,5,mylastech,mylastech.com,ITAAP,,,ok
+235,5,nicedigitals,nicedigitals.com,ITAAP,,,ok
+236,5,nsiqinfotech,nsiqinfotech.com,GESIA,,,ok
+237,5,oakstechweb,oakstechweb.com,ITAAP,,,ok
+238,5,pivotalsoft,pivotalsoft.com,ITAAP,,,ok
+239,5,prectech,prectech.online,GESIA,,,ok
+240,5,primesoftinc,primesoftinc.com,ITAAP,,,ok
+241,5,promptdairytech,promptdairytech.com,GESIA,,,ok
+242,5,prospectatech,prospectatech.com,ITAAP,,,ok
+243,5,prutechs,prutechs.com,ITAAP,,,ok
+244,5,quantsystemsindia,quantsystemsindia.com,ITAAP,,,ok
+245,5,quarkssystems,quarkssystems.com,GESIA,,,ok
+246,5,redlapdigital,redlapdigital.com,ITAAP,,,ok
+247,5,ritsinfosolutions,ritsinfosolutions.com,ITAAP,,,ok
+248,5,rudratechnocare,rudratechnocare.com,GESIA,,,ok
+249,5,sainfotechnology,sainfotechnology.com,ITAAP,,,ok
+250,5,samudrasoftware,samudrasoftware.com,ITAAP,,,ok
+251,5,schemaxtech,schemaxtech.com,ITAAP,,,ok
+252,5,seeddatasystems,seeddatasystems.com,GESIA,,,ok
+253,5,sgtechsolutions,sgtechsolutions.com,ITAAP,,,ok
+254,5,shoveltech,shoveltech.com,ITAAP,,,ok
+255,5,shridharinfosec,shridharinfosec.com,GESIA,,,ok
+256,5,siliconcomputech,siliconcomputech.com,GESIA,,,ok
+257,5,skynettechnologies,skynettechnologies.com,GESIA,,,ok
+258,5,sweyainfotech,sweyainfotech.com,ITAAP,,,ok
+259,5,symbiosystech,symbiosystech.com,ITAAP,,,ok
+260,5,tamminainfotech,tamminainfotech.com,ITAAP,,,ok
+261,5,techbium,techbium.com,ITAAP,,,ok
+262,5,techeleves,techeleves.com,ITAAP,,,ok
+263,5,techonvoy,techonvoy.com,ITAAP,,,ok
+264,5,techultrasolutions,techultrasolutions.com,GESIA,,,ok
+265,5,tideltech,tideltech.com,ITAAP,,,ok
+266,5,tmsolutech,tmsolutech.com,GESIA,,,ok
+267,5,turiyasoftech,turiyasoftech.com,ITAAP,,,ok
+268,5,varahisoft,varahisoft.com,GESIA,,,ok
+269,5,vegaprosys,vegaprosys.com,ITAAP,,,ok
+270,5,vinfocode,vinfocode.com,ITAAP,,,ok
+271,5,vsinfotech,vsinfotech.co,ITAAP,,,ok
+272,5,webbellsolutions,webbellsolutions.com,GESIA,,,ok
+273,5,weblogysphere,weblogysphere.com,GESIA,,,ok
+274,5,webskysolutions,webskysolutions.com,ITAAP,,,ok
+275,5,www,expandsoftwaresolut,ITAAP,,,ok
+276,3,21cssindia,21cssindia.com,ITAAP,,,ok
+277,3,9Commerce Technologies LLP,commerce9.io,GTECH,,,ok
+278,3,ACS Solutions,acsicorp.com,HYSEA,,,ok
+279,3,ADAPTIVE CYBER LABS (ACL),acl.ai,GTECH,,,ok
+280,3,AEP CERTIFICATION IMAGE NOT AVAILABLE,aepcrt.org,ITAAP,,,ok
+281,3,APS Property Solutions Pvt. Ltd.,aps-india.com,HYSEA,,,ok
+282,3,ARCH GLOBAL SERVICES (INDIA) PRIVATE LIMITED,archgroup.com,GTECH,,,ok
+283,3,ARS Traffic and Transport Technology (India) Pvt Ltd,ars-traffic.com,GTECH,,,ok
+284,3,Accolite Digital India Pvt. Ltd.,accolite.com,HYSEA,,,ok
+285,3,Advisory & Transformation,cigniti.com,HYSEA,,,ok
+286,3,Agora Labs India Pvt Ltd,agora.io,HYSEA,,,ok
+287,3,Ahuja Engineering Services Pvt Ltd,aespl-india.com,HYSEA,,,ok
+288,3,Aiqo,aiqo.uk,GTECH,,,ok
+289,3,Airleau private limited,atmos-water.com,HYSEA,,,ok
+290,3,Akira Software Solutions Pvt. Ltd,smartschoolerp.com,GTECH,,,ok
+291,3,Alamy Images India Pvt. Ltd.,alamy.com,GTECH,,,ok
+292,3,Algoleap Technologies Private Limited,algoleap.com,HYSEA,,,ok
+293,3,Allianz Cornhill,allianz.com,GTECH,,,ok
+294,3,Aloka Infotech Solutions Private Limited IMAGE NOT AVAILABLE,alokait.com,ITAAP,,,ok
+295,3,Amara Raja Electronics Ltd IMAGE NOT AVAILABLE,amararajaelectronics.com,ITAAP,,,ok
+296,3,Amdrodd Technologies Private Limited,amdrodd.com,GTECH,,,ok
+297,3,Anblink Solutions Pvt Ltd IMAGE NOT AVAILABLE,anblicks.com,ITAAP,,,ok
+298,3,Anion Health Care Services,anion.com,HYSEA,,,ok
+299,3,Annexacc Software Solutions India Pvt Ltd,annexacc.com,HYSEA,,,ok
+300,3,Argano Software Pvt. Ltd.,argano.com,HYSEA,,,ok
+301,3,AssetVault India Private Limited,aasaanwill.com,HYSEA,,,ok
+302,3,Auropro Soft Systems Private Limited,auropro.com,HYSEA,,,ok
+303,3,Aveva Software India Pvt. Ltd.,aveva.com,HYSEA,,,ok
+304,3,BROKEN ENTREPRENEURS PRIVATE LIMITED,brokenatom.io,HYSEA,,,ok
+305,3,BYTEXL TECHED PRIVATE LIMITED,bytexl.com,HYSEA,,,ok
+306,3,Baabte System Technologies Pvt Ltd,baabte.com,GTECH,,,ok
+307,3,Beagle Security,beaglesecurity.com,GTECH,,,ok
+308,3,Berenike & Bion Technologies Pvt Ltd,berenikebion.com,HYSEA,,,ok
+309,3,Blackbaud Solutions India Private Limited,blackbaud.com,HYSEA,,,ok
+310,3,Blaize New Computing Technologies India Private Limited,blaize.com,HYSEA,,,ok
+311,3,Bourntec Solutions Pvt Ltd,bourntec.com,HYSEA,,,ok
+312,3,BrandFell Technologies PVT LTD,brandfell.com,GTECH,,,ok
+313,3,CADVision Engineers Pvt Ltd,cadvisionengineers.com,HYSEA,,,ok
+314,3,CATALYCA,catalyca.com,GTECH,,,ok
+315,3,CDK Global (India) Pvt. Ltd.,cdkglobal.com,HYSEA,,,ok
+316,3,COGNITIVZEN TECHNOLOGIES PRIVATE LIMITED,cognitivzen.com,HYSEA,,,ok
+317,3,CONCEPTNXT TECHNOLOGIES LLP,conceptnxt.com,GTECH,,,ok
+318,3,CONVERGEONE INDIA PRIVATE LIMITED,onec1.com,HYSEA,,,ok
+319,3,Cadeploy Engineering Pvt Ltd,cadeploy.com,HYSEA,,,ok
+320,3,Careerpedia Edutech Pvt Ltd,careerpedia.co,HYSEA,,,ok
+321,3,Carestack,carestack.com,GTECH,,,ok
+322,3,Cheerio AI Technologies Pvt Ltd,cheerioai.com,HYSEA,,,ok
+323,3,Chidhagni consulting private limited,chidhagni.com,HYSEA,,,ok
+324,3,Cinch Business Solutions Pvt. Ltd.,gogch.com,GTECH,,,ok
+325,3,Coffee Table Book,heyzine.com,HYSEA,,,ok
+326,3,Cognitive Computing Services Private Limited,ccsplonline.com,GTECH,,,ok
+327,3,Cognub Decisions Solutions,cognub.com,GTECH,,,ok
+328,3,Colruyt It Consultancy India Pvt. Ltd.,in.colruytgroup.com,HYSEA,,,ok
+329,3,Computershare Business Support Service,computershare.com,HYSEA,,,ok
+330,3,CoolMinds Technologies Pvt. Ltd.,coolmindsinc.com,GTECH,,,ok
+331,3,Coretek Labs India Private Limited,coretek.io,HYSEA,,,ok
+332,3,Coursack Software Solutions Private Limited IMAGE NOT AVAILABLE,coursack.com,ITAAP,,,ok
+333,3,"Crazydes - UX UI Design, CX, Product Design",crazydes.com,GTECH,,,ok
+334,3,CrossShores Infotech,crossshores.com,GESIA,,,ok
+335,3,Cycloides,cycloides.com,GTECH,,,ok
+336,3,DCUBE AI SYSTEMS AND SERVICES PRIVATE LIMITED,dcubeai.com,GTECH,,,ok
+337,3,DEVORKS SOLUTIONS PVT LTD,devorks.com,HYSEA,,,ok
+338,3,DISPATCHTRACK INDIA PVT LTD,dispatchtrack.com,HYSEA,,,ok
+339,3,Deccan AI Automation Private Limited,deccan.ai,HYSEA,,,ok
+340,3,Deepija Telecom Pvt. Ltd.,deepijatel.com,HYSEA,,,ok
+341,3,Demandbase India Private Limited,demandbase.com,HYSEA,,,ok
+342,3,Dextara Digital Private Ltd,dextara.com,HYSEA,,,ok
+343,3,Diagnal Technologies Private Limited,diagnal.com,GTECH,,,ok
+344,3,Digitally Empowered Contact Centers,firstsource.com,HYSEA,,,ok
+345,3,Dimensions,dimensionsgroup.com,GTECH,,,ok
+346,3,Dinoct Inc,dinoct.com,GTECH,,,ok
+347,3,E-Team Informatica Pvt. Ltd.,gruppozenit.com,GTECH,,,ok
+348,3,EJGates Global Private Limited,ejgates.com,GTECH,,,ok
+349,3,EQS WEB TECHNOLOGIES PRIVATE LIMITED,eqs.com,GTECH,,,ok
+350,3,Eliscription Pvt Ltd,eliscription.com,HYSEA,,,ok
+351,3,Elsys Intelligent Devices Pvt. Ltd,rakshasafedrive.com,GTECH,,,ok
+352,3,Emblix Solutions,emblixsolutions.com,HYSEA,,,ok
+353,3,Enormous It Services Pvt. Ltd.,enormousit.com,HYSEA,,,ok
+354,3,Enterprise software development & consulting services Company,halcyontek.com,HYSEA,,,ok
+355,3,Envestnet Asset Management India Pvt Ltd,envestnet.com,GTECH,,,ok
+356,3,Exacore IT Solutions Pvt Ltd,exacoreitsolutions.com,GTECH,,,ok
+357,3,Exceed Management Pvt. Ltd.,exceedm.com,HYSEA,,,ok
+358,3,Exceloid Soft Systems Private Limited,exceloid.com,HYSEA,,,ok
+359,3,Experion Technologies India Pvt. Ltd.,experionglobal.com,GTECH,,,ok
+360,3,Externetworks India Pvt. Ltd.,externetworks.com,HYSEA,,,ok
+361,3,FAYA Innovations Pvt. Ltd.,fayausa.com,GTECH,,,ok
+362,3,FEUJI SOFTWARE SOLUTIONS PVT LTD,feuji.com,HYSEA,,,ok
+363,3,FINT SOLUTIONS PRIVATE LIMITED,fintinc.com,HYSEA,,,ok
+364,3,FIX FLYER INFORMATION TECHNOLOGIES PRIVATE LIMITED,flyerft.com,HYSEA,,,ok
+365,3,Fischer Systems India Pvt. Ltd.,fisc.com,GTECH,,,ok
+366,3,Fly txt,flytxt.com,GTECH,,,ok
+367,3,Fortuler Business Solutions Private Limited,fortuler.com,GTECH,,,ok
+368,3,Founding Minds Software Pvt. Ltd.,foundingminds.com,GTECH,,,ok
+369,3,FoxFire Technologies (India) Ltd.,foxfireindia.com,HYSEA,,,ok
+370,3,GN Audio India Pvt Ltd,gn.com,HYSEA,,,ok
+371,3,Gainsight Software Pvt. Ltd.,gainsight.com,HYSEA,,,ok
+372,3,Genpro Research Private Ltd,clapresearch.com,GTECH,,,ok
+373,3,Global Outlook Pvt. Ltd.,globaloutlook.com,HYSEA,,,ok
+374,3,Grid Engineering Services Pvt. Ltd.,gridengineeringservices.com,GTECH,,,ok
+375,3,Guidehouse India Private Limited,guidehouse.com,GTECH,,,ok
+376,3,H&R Block Global Technology Center,hrblock.com,GTECH,,,ok
+377,3,HFS Research India Private Limited,hfsresearch.com,HYSEA,,,ok
+378,3,Hackett Group (India) Ltd.,thehackettgroup.com,HYSEA,,,ok
+379,3,Harsco India Services Pvt. Ltd.,harsco.com,HYSEA,,,ok
+380,3,Hubrum Innovations Pvt Ltd,hubrum.com,GTECH,,,ok
+381,3,I-RAY IT SOLUTIONS PRIVATE LIMITED,irayitsolutions.com,HYSEA,,,ok
+382,3,IBEE Hosting,ibeehosting.com,HYSEA,,,ok
+383,3,IBIL SOLUTIONS PRIVATE LIMITED,ibilglobal.com,GTECH,,,ok
+384,3,ICE Data Services India Pvt. Ltd.,theice.com,HYSEA,,,ok
+385,3,IMPAQTIVE TECHNOLOGIES INDIA PRIVATE LIMITED,impaqtive.com,GTECH,,,ok
+386,3,IMPAXIVE SOLUTIONS PRIVATE LIMITED,impaxivesolutions.com,HYSEA,,,ok
+387,3,INMAR TECHNOLOGIES PRIVATE LIMITED,inmar.com,HYSEA,,,ok
+388,3,IdeaGCS Pvt Ltd,ideagcs.com,GTECH,,,ok
+389,3,Innominds Software Pvt. Ltd.,innominds.com,HYSEA,,,ok
+390,3,Innoneur IT Ventures Private Limited,innoneur.com,GTECH,,,ok
+391,3,Innvectra Info Solutions Pvt. Ltd.,innvectra.com,HYSEA,,,ok
+392,3,Insideview Technologies India Pvt. Ltd.,insideview.com,HYSEA,,,ok
+393,3,Intellect Design Arena,intellectdesign.com,HYSEA,,,ok
+394,3,Inteq Software LLP,inteqsolutions.com,HYSEA,,,ok
+395,3,KAB Educational Services Pvt. Ltd,kabconsultants.com,HYSEA,,,ok
+396,3,KLIVOLKS PRIVATE LIMITED,klivolks.com,GTECH,,,ok
+397,3,Kagool Data Pvt. Ltd.,kagool.com,HYSEA,,,ok
+398,3,Kennedys Kognitive Computing Private Limited,kennedysiq.com,GTECH,,,ok
+399,3,Koncepts Lab,konceptslab.com,GTECH,,,ok
+400,3,Kony India Pvt. Ltd.,kony.com,HYSEA,,,ok
+401,3,LMonk Educational and Training Solutions Pvt Ltd,lmonk.com,GTECH,,,ok
+402,3,Lera Technologies Pvt. Ltd.,lera.us,HYSEA,,,ok
+403,3,Little Carrots India Private Limited IMAGE NOT AVAILABLE,littlecarrots.com,ITAAP,,,ok
+404,3,Livares Technologies Pvt. Ltd.,livares.com,GTECH,,,ok
+405,3,LogicMatter India Private Limited,logicmatter.com,HYSEA,,,ok
+406,3,MA IT Solution Pvt. Ltd.,mait-solutions.com,HYSEA,,,ok
+407,3,MADHEES TECHNO CONSULTING PRIVATE LIMITED,madhees.com,HYSEA,,,ok
+408,3,MAGANTI IT SOLUTIONS PRIVATE LIMITED,mitresource.com,HYSEA,,,ok
+409,3,MANOMAY CONSULTANCY SERVICES INDIA PRIVATE LIMITED,manomay.biz,HYSEA,,,ok
+410,3,MAVEN FACILITY MANAGEMENT SERVICES PRIVATE LIMITED,mavenfms.com,HYSEA,,,ok
+411,3,MCDONALDS CAPABILITY CENTER (I) PVT LTD,mcdindia.com,HYSEA,,,ok
+412,3,MINDCURV TECHNOLOGY SOLUTIONS PRIVATE LIMITED,mindcurv.com,GTECH,,,ok
+413,3,MONDO FUSION,mondofusion.com,GTECH,,,ok
+414,3,ManVision Technologies Pvt Ltd,manvision.net,HYSEA,,,ok
+415,3,Mattel Global Business Services LLP,shop.mattel.com,HYSEA,,,ok
+416,3,Mcfadyen Consuting Solutions Pvt. Ltd.,mcfadyen.com,GTECH,,,ok
+417,3,Microm - Ttransforme Technologies,micromcrm.com,GTECH,,,ok
+418,3,Micron Technology Operations India LLP,in.micron.com,HYSEA,,,ok
+419,3,Millennium Technosoft Ltd.,mtslindia.com,HYSEA,,,ok
+420,3,Mirox Cyber Security & Technology Pvt. Ltd.,miroxindia.com,GTECH,,,ok
+421,3,Mobatia Technology Pvt. Ltd.,mobatia.com,GTECH,,,ok
+422,3,Mobis India Limited,mobis.com,HYSEA,,,ok
+423,3,Model N India Software Pvt. Ltd.,modeln.com,HYSEA,,,ok
+424,3,Monarch Infotech Services Private Limited,mitsind.com,HYSEA,,,ok
+425,3,Moschip Technologies Limited,moschip.com,HYSEA,,,ok
+426,3,Mozilor Technologies Pvt Ltd,mozilor.com,GTECH,,,ok
+427,3,NEOITO,neoito.com,GTECH,,,ok
+428,3,NICHEBIT SOFTECH PRIVATE LIMITED,nichebit.com,HYSEA,,,ok
+429,3,NOVULIS GLOBAL SOLUTIONS PRIVATE LIMITED,novulis.com,HYSEA,,,ok
+430,3,NetElixir Digital Marketing Solutions,netelixir.com,HYSEA,,,ok
+431,3,Nevexa Digital Pvt. Ltd.,nevexa.com,HYSEA,,,ok
+432,3,Nimmetry Technologies Pvt. Ltd.,nimmetry.com,HYSEA,,,ok
+433,3,Notaceon Technologies Private Limited,notaceon.com,HYSEA,,,ok
+434,3,ODC APTS ISO Certifications Services,odchyd.com,HYSEA,,,ok
+435,3,Oakton Global Technology Services Centre (India) Pvt. Ltd.,companies.naukri.com,HYSEA,,,ok
+436,3,Ontash India Technologies Pvt Ltd,ontash.net,GTECH,,,ok
+437,3,Oorwin Labs India PVT LTD.,oorwin.com,HYSEA,,,ok
+438,3,Oregon Technologies,ortecindia.com,GTECH,,,ok
+439,3,Ospyn Technologies Pvt. Ltd.,ospyn.com,GTECH,,,ok
+440,3,OwnBackup India Private Limited,ownbackup.com,HYSEA,,,ok
+441,3,PACEXCEL IT SOLUTIONS PRIVATE LIMITED,paxcel.ai,GTECH,,,ok
+442,3,PHOENIX INFRATECH (INDIA) PRIVATE LIMITED,phoenixindia.net,HYSEA,,,ok
+443,3,PIERIAN SERVICES PRIVATE LIMITED,pierianservices.com,HYSEA,,,ok
+444,3,PROITCON SOLUTIONS LLP,proitconsolutions.com,HYSEA,,,ok
+445,3,Pactera Technologies India Pvt. Ltd.,en.pactera.com,HYSEA,,,ok
+446,3,Palnar Transmedia Pvt. Ltd.,palnarindia.com,GTECH,,,ok
+447,3,People Prime Worldwide Private Limited,people-prime.com,HYSEA,,,ok
+448,3,Planful Software India Private Limited,planful.com,HYSEA,,,ok
+449,3,Plume Design India Private Limited,plume.com,HYSEA,,,ok
+450,3,Polaris Financial Technology Ltd.,polarisft.com,HYSEA,,,ok
+451,3,ProArch IT Solutions Pvt Ltd,proarch.com,HYSEA,,,ok
+452,3,Prokarma Softech Pvt. Ltd.,prokarma.com,HYSEA,,,ok
+453,3,Promantra Synergy Solutions Ltd.,promantra.us,HYSEA,,,ok
+454,3,QBurst Technologies Pvt. Ltd.,qburst.com,GTECH,,,ok
+455,3,QC VERIFY PRIVATE LIMITED,qcverify.com,GTECH,,,ok
+456,3,QRC ASSURANCE AND SOLUTIONS PRIVATE LIMITED,qrcsolutionz.com,HYSEA,,,ok
+457,3,Quadance Technologies,quadance.com,GTECH,,,ok
+458,3,Quantum Ubiquitous,qubi.network,HYSEA,,,ok
+459,3,Quinoid Business Solutions Private Limited,quinoid.com,GTECH,,,ok
+460,3,REON TECHNOLOGIES PRIVATE LIMITED,reontel.com,GTECH,,,ok
+461,3,REVOLUTION ENTERTAINMENT SERVICES PRIVATE LIMITED,revolutiones.com,HYSEA,,,ok
+462,3,RSGP Consulting Private Limited,rsgpconsult.com,GTECH,,,ok
+463,3,Red Team Academy,redteamacademy.com,GTECH,,,ok
+464,3,Renee Systems India Pvt Ltd,renee.ai,HYSEA,,,ok
+465,3,Revyrie Global,revyrieglobal.com,GTECH,,,ok
+466,3,Ridhira Living Private Limited,ridhira.com,HYSEA,,,ok
+467,3,Rimini Street India Operations Private Limited,riministreet.com,HYSEA,,,ok
+468,3,S P A Enterprise Info Services (India) Pvt Ltd,spaplc.com,HYSEA,,,ok
+469,3,S P Capital IQ India Pvt. Ltd.,spglobal.com,HYSEA,,,ok
+470,3,S3 Connections Pvt Ltd,s3connections.com,HYSEA,,,ok
+471,3,SAAS Softpro Leaders Private Limited,saasleaders.com,HYSEA,,,ok
+472,3,SAFA Society,safaindia.org,HYSEA,,,ok
+473,3,SEQATO Software Solutions Pvt Ltd.,seqato.com,GTECH,,,ok
+474,3,SHIPCONSOLE Private Limited,shipconsole.com,HYSEA,,,ok
+475,3,SREYO TECH WEB INNOVATIONS PRIVATE LIMITED,sreyo.com,GTECH,,,ok
+476,3,SYSTEMS ADVISERS SOFTWARE SERVICES PRIVATE,saglobal.com,HYSEA,,,ok
+477,3,Sequoia Applied Technologies,sequoiaat.com,GTECH,,,ok
+478,3,Serole Info Technologies India Private Limited,serole.com,HYSEA,,,ok
+479,3,SignitivesIT Solutions Private Limited,signitives.net,HYSEA,,,ok
+480,3,Simplogics Solutions Pvt. Ltd.,simplogics.com,GTECH,,,ok
+481,3,SiriNiti Techsource Pvt. Ltd,siriniti.net,HYSEA,,,ok
+482,3,Smart IMS India Pvt Ltd,smartims.com,HYSEA,,,ok
+483,3,Star Consulting Global,starconsultingglobal.com,HYSEA,,,ok
+484,3,State Street Corporate Services Mumbai Pvt. Ltd.,statestreet.com,HYSEA,,,ok
+485,3,SubHosting Innovations Pvt. Ltd.,subhosting.net,GTECH,,,ok
+486,3,Sweya Information Technologies Pvt Ltd,sweya.ai,HYSEA,,,ok
+487,3,TALENT JOIN CRAFTERS HR PRIVATE LIMITED,talentjoin.com,HYSEA,,,ok
+488,3,TM INPUTS AND SERVICES PRIVATE LIMITED,tminetwork.com,HYSEA,,,ok
+489,3,TRIVAND TECHNOLOGIES PRIVATE LIMITED,trivand.com,GTECH,,,ok
+490,3,Targetorate Consulting LLP,targetorate.us,HYSEA,,,ok
+491,3,Techno Kreeyaa Pvt Ltd,kreeyaa.com,HYSEA,,,ok
+492,3,Teknokraaft Info Systems Pvt. Ltd.,teknokraaft.com,GTECH,,,ok
+493,3,Tema Business Systems Pvt. Ltd.,tema-global.com,HYSEA,,,ok
+494,3,Terrific Minds,terrificminds.com,GTECH,,,ok
+495,3,The Magazine Manager,magazinemanager.com,HYSEA,,,ok
+496,3,Times World Media & Technology Solutions Pvt Ltd,timesworld.com,GTECH,,,ok
+497,3,Toonz Animation India Pvt. Ltd.,toonz.co,GTECH,,,ok
+498,3,Tradeleaves India Pvt. Ltd.,tradeleaves.com,HYSEA,,,ok
+499,3,TransGraph Consulting Private Limited,transgraph.com,HYSEA,,,ok
+500,3,Transcend Street India Private Limited,transcendstreet.com,HYSEA,,,ok
+501,3,Travancore Analytics Pvt. Ltd.,travancoreanalytics.com,GTECH,,,ok
+502,3,Tredence Inc,tredence.com,HYSEA,,,ok
+503,3,Trenser Technology Solutions (P) Ltd.,trenser.com,GTECH,,,ok
+504,3,Triassic Solutions Private Limited,triassicsolutions.com,GTECH,,,ok
+505,3,Triniti Advanced Software Labs Pvt. Ltd.,triniti.com,HYSEA,,,ok
+506,3,Tryzens India Pvt Ltd,tryzens.com,GTECH,,,ok
+507,3,US Technology International Pvt. Ltd.,ust-global.com,GTECH,,,ok
+508,3,Unisontech Services India Pvt Ltd,unisongroup.com,HYSEA,,,ok
+509,3,Valorem Pvt. Ltd.,valoremreply.com,GTECH,,,ok
+510,3,Verbat Technologies (India) Pvt. Ltd.,verbat.com,GTECH,,,ok
+511,3,Verisk Analytics India Private Limited,verisk.com,HYSEA,,,ok
+512,3,Vertafore India Pvt Ltd,vertafore.com,HYSEA,,,ok
+513,3,Vinvish Technologies Pvt. Ltd.,vinvish.com,GTECH,,,ok
+514,3,Vtrio Solutions Private Limited,vtrio.com,GTECH,,,ok
+515,3,Vuchi Media Pvt. Ltd.,mediamint.com,HYSEA,,,ok
+516,3,Wattlecorp Cybersecurity Labs,wattlecorp.com,GTECH,,,ok
+517,3,Waybeo Technology Solutions Pvt. Ltd.,waybeo.com,GTECH,,,ok
+518,3,WhistleDrive Pvt Ltd,whistledrive.com,HYSEA,,,ok
+519,3,Wise Men Consulting Service India Ltd.,wisemen.com,HYSEA,,,ok
+520,3,Xcubated Business Solutions Pvt. Ltd.,xcubated.com,GTECH,,,ok
+521,3,Yuhiro Technologies Pvt. Ltd.,yuhiro.de,GTECH,,,ok
+522,3,ZERO PIXELS TECHNOLOGIES PRIVATE LIMITED,zero-pixels.com,GTECH,,,ok
+523,3,Zennode Technologies LLP,zennode.com,GTECH,,,ok
+524,3,Zoondia Software Pvt. Ltd.,zoondia.com,GTECH,,,ok
+525,3,Zyxware Technologies Pvt. Ltd.,zyxware.com,GTECH,,,ok
+526,3,aalgorithm,aalgorithm.com,ITAAP,,,ok
+527,3,adeptude,adeptude.com,ITAAP,,,ok
+528,3,adiance,adiance.com,GESIA,,,ok
+529,3,aggregatenetsolutions,aggregatenetsolutions.com,ITAAP,,,ok
+530,3,anand-pag,anand-pag.com,ITAAP,,,ok
+531,3,anyemi,anyemi.com,ITAAP,,,ok
+532,3,atomgeo,atomgeo.com,ITAAP,,,ok
+533,3,atribiz,atribiz.com,ITAAP,,,ok
+534,3,atribusinesssolutions,atribusinesssolutions.com,ITAAP,,,ok
+535,3,avineonindia,avineonindia.com,ITAAP,,,ok
+536,3,azilen,azilen.com,GESIA,,,ok
+537,3,bitscape,bitscape.com,GESIA,,,ok
+538,3,bookandhost,bookandhost.com,ITAAP,,,ok
+539,3,c-metric,c-metric.com,GESIA,,,ok
+540,3,cardlytics,cardlytics.com,ITAAP,,,ok
+541,3,cheggindia,cheggindia.com,ITAAP,,,ok
+542,3,ciberts,ciberts.ai,HYSEA,,,ok
+543,3,claaps,claaps.com,ITAAP,,,ok
+544,3,codingsastra,codingsastra.com,ITAAP,,,ok
+545,3,cognisive,cognisive.com,ITAAP,,,ok
+546,3,compucareindia,compucareindia.com,GESIA,,,ok
+547,3,cyberaon,cyberaon.com,ITAAP,,,ok
+548,3,cybercinatics,cybercinatics.com,ITAAP,,,ok
+549,3,czargroup,czargroup.net,GESIA,,,ok
+550,3,devrabbit,devrabbit.com,ITAAP,,,ok
+551,3,dhyey,dhyey.com,GESIA,,,ok
+552,3,dilytics,dilytics.com,HYSEA,,,ok
+553,3,ease,ease.biz,GESIA,,,ok
+554,3,eccentricbusiness,eccentricbusiness.com,GESIA,,,ok
+555,3,ecorfy,ecorfy.com,ITAAP,,,ok
+556,3,edz,edz.one,ITAAP,,,ok
+557,3,enxcl Business Solutions,enxcl.com,GTECH,,,ok
+558,3,essit,essit.com,ITAAP,,,ok
+559,3,ethosindia,ethosindia.com,GESIA,,,ok
+560,3,evincedev,evincedev.com,GESIA,,,ok
+561,3,evolutyz,evolutyz.com,ITAAP,,,ok
+562,3,exafluence,exafluence.com,ITAAP,,,ok
+563,3,excelglobalsolution,excelglobalsolution.com,ITAAP,,,ok
+564,3,fractal31,fractal31.com,GESIA,,,ok
+565,3,freelancetrainings,freelancetrainings.com,GESIA,,,ok
+566,3,ganeshhousing,ganeshhousing.com,GESIA,,,ok
+567,3,garudaengineering,garudaengineering.org,ITAAP,,,ok
+568,3,gmrit,gmrit.org,ITAAP,,,ok
+569,3,grafx-itsolutions,grafx-itsolutions.com,ITAAP,,,ok
+570,3,headrun,headrun.com,ITAAP,,,ok
+571,3,heritagecyberworld,heritagecyberworld.com,GESIA,,,ok
+572,3,hiringhood,hiringhood.ai,HYSEA,,,ok
+573,3,hyranks,hyranks.com,ITAAP,,,ok
+574,3,i3konzepts,i3konzepts.com,ITAAP,,,ok
+575,3,iCore Pioneer Business Solutions,icorepioneer.com,GTECH,,,ok
+576,3,iHits Technologies Pvt. Ltd.,ihitsindia.com,GTECH,,,ok
+577,3,igiat,igiat.com,ITAAP,,,ok
+578,3,imegcorp,imegcorp.com,ITAAP,,,ok
+579,3,incufiers,incufiers.com,ITAAP,,,ok
+580,3,indianservers,indianservers.com,ITAAP,,,ok
+581,3,indiesemic,indiesemic.com,GESIA,,,ok
+582,3,infinite,infinite.com,ITAAP,,,ok
+583,3,infinityradar,infinityradar.com,GESIA,,,ok
+584,3,infistack,infistack.com,GESIA,,,ok
+585,3,intelliflo,intelliflo.com,HYSEA,,,ok
+586,3,investor,investor.vanguard.com,HYSEA,,,ok
+587,3,iobixservices,iobixservices.com,GESIA,,,ok
+588,3,iplanme,iplanme.com,GESIA,,,ok
+589,3,ipro-global,ipro-global.com,ITAAP,,,ok
+590,3,iton,iton.com,ITAAP,,,ok
+591,3,juhnu,juhnu.com,ITAAP,,,ok
+592,3,kavobits,kavobits.com,GESIA,,,ok
+593,3,kiwiqa,kiwiqa.com,GESIA,,,ok
+594,3,konze,konze.com,GESIA,,,ok
+595,3,krify,krify.co,ITAAP,,,ok
+596,3,ksvspvtltd,ksvspvtltd.com,ITAAP,,,ok
+597,3,lotuswireless,lotuswireless.com,ITAAP,,,ok
+598,3,masibus,masibus.com,GESIA,,,ok
+599,3,mastersteck,mastersteck.com,ITAAP,,,ok
+600,3,matrixcomsec,matrixcomsec.com,GESIA,,,ok
+601,3,medictfhc,medictfhc.com,ITAAP,,,ok
+602,3,medrcm360,medrcm360.com,ITAAP,,,ok
+603,3,mindquad,mindquad.com,GESIA,,,ok
+604,3,mvgrce,mvgrce.com,ITAAP,,,ok
+605,3,ncplinc,ncplinc.com,ITAAP,,,ok
+606,3,neehitservices,neehitservices.com,ITAAP,,,ok
+607,3,nordsinew,nordsinew.com,ITAAP,,,ok
+608,3,novelpatent,novelpatent.com,ITAAP,,,ok
+609,3,nyros,nyros.com,ITAAP,,,ok
+610,3,odoo,odoo.com,GESIA,,,ok
+611,3,oneclickitsolution,oneclickitsolution.com,GESIA,,,ok
+612,3,parikar,parikar.net,ITAAP,,,ok
+613,3,patraindia,patraindia.com,ITAAP,,,ok
+614,3,payroll,in.adp.com,HYSEA,,,ok
+615,3,phycaresolutionsinc,phycaresolutionsinc.godaddysites.com,ITAAP,,,ok
+616,3,pixentia,pixentia.com,ITAAP,,,ok
+617,3,pmcretail,pmcretail.com,GESIA,,,ok
+618,3,precistat,precistat.com,ITAAP,,,ok
+619,3,primusglobal,primusglobal.com,ITAAP,,,ok
+620,3,princetonits,princetonits.com,ITAAP,,,ok
+621,3,pronixinc,pronixinc.com,ITAAP,,,ok
+622,3,qxglobalgroup,qxglobalgroup.com,GESIA,,,ok
+623,3,redicinemedsol,redicinemedsol.com,GESIA,,,ok
+624,3,reveation,reveation.io,GESIA,,,ok
+625,3,sandcupstudio,sandcupstudio.com,GESIA,,,ok
+626,3,scrumfolks,scrumfolks.com,GESIA,,,ok
+627,3,seethejobs,seethejobs.com,ITAAP,,,ok
+628,3,serpentcs,serpentcs.com,GESIA,,,ok
+629,3,sesatsolutions,sesatsolutions.com,ITAAP,,,ok
+630,3,sevenhillsehealth,sevenhillsehealth.com,ITAAP,,,ok
+631,3,shreetripada,shreetripada.com,GESIA,,,ok
+632,3,silvertouch,silvertouch.com,GESIA,,,ok
+633,3,solutionit,solutionit.com,ITAAP,,,ok
+634,3,sserpsolutions,sserpsolutions.com,ITAAP,,,ok
+635,3,stridelysolutions,stridelysolutions.com,GESIA,,,ok
+636,3,sunraisesolutions,sunraisesolutions.com,ITAAP,,,ok
+637,3,sweken,sweken.com,ITAAP,,,ok
+638,3,synchrony,synchrony.com,HYSEA,,,ok
+639,3,tanbvirtualinfra,tanbvirtualinfra.com,GESIA,,,ok
+640,3,teckteams,teckteams.com,ITAAP,,,ok
+641,3,tej9,tej9.com,GESIA,,,ok
+642,3,tek7services,tek7services.com,ITAAP,,,ok
+643,3,teletextholidays,teletextholidays.co.uk,ITAAP,,,ok
+644,3,teleysia,teleysia.com,GESIA,,,ok
+645,3,thecolourmoon,thecolourmoon.com,ITAAP,,,ok
+646,3,tierraautomation,tierraautomation.com,ITAAP,,,ok
+647,3,triforce-inc,triforce-inc.com,GESIA,,,ok
+648,3,trigeo,trigeo.net,ITAAP,,,ok
+649,3,tripnetra,tripnetra.com,ITAAP,,,ok
+650,3,ttec,ttec.com,GESIA,,,ok
+651,3,tusker,tusker.ai,GESIA,,,ok
+652,3,uandu,uandu.co,ITAAP,,,ok
+653,3,valuemomentum,valuemomentum.com,HYSEA,,,ok
+654,3,vdnetworks,vdnetworks.com,GESIA,,,ok
+655,3,vectramind,vectramind.com,ITAAP,,,ok
+656,3,ventureoffshore,ventureoffshore.net,ITAAP,,,ok
+657,3,venusgeo,venusgeo.com,ITAAP,,,ok
+658,3,vinutnaa,vinutnaa.com,ITAAP,,,ok
+659,3,virtualheight,virtualheight.com,GESIA,,,ok
+660,3,visionempowertrust,visionempowertrust.org,HYSEA,,,ok
+661,3,vismayapremedia,vismayapremedia.com,ITAAP,,,ok
+662,3,vmukti,vmukti.com,GESIA,,,ok
+663,3,wns,wns.com,ITAAP,,,ok
+664,3,ww7,ww7.apexsolutionsltd.net,ITAAP,,,ok
+665,3,ww7,ww7.dhunis.com,ITAAP,,,ok
+666,3,www,savvyitsols,ITAAP,,,ok
+667,3,www,vgssecurity,ITAAP,,,ok
+668,3,xtratrust,xtratrust.com,GESIA,,,ok
+669,3,yalamanchili,yalamanchili.com.sg,ITAAP,,,ok
+670,3,zebi,zebi.io,ITAAP,,,ok
+671,3,zestard,zestard.com,GESIA,,,ok
+672,3,zraddhaa Information Systems Pvt Ltd IMAGE NOT AVAILABLE,zraddhaa.com,ITAAP,,,ok

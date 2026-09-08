@@ -1,0 +1,72 @@
+[
+ {
+  "company": "Applane",
+  "founder": "Yogesh Agarwal",
+  "role": "Founder & CEO",
+  "linkedin": "https://in.linkedin.com/in/yogesh-agarwal-b776747",
+  "confidence": "high"
+ },
+ {
+  "company": "ExpertBoard",
+  "founder": "",
+  "role": "",
+  "linkedin": "",
+  "confidence": "low"
+ },
+ {
+  "company": "BeeWorks",
+  "founder": "Jainendra Batra",
+  "role": "Co-Founder",
+  "linkedin": "https://in.linkedin.com/in/jainendra-batra",
+  "confidence": "medium"
+ },
+ {
+  "company": "VMEDO",
+  "founder": "Praveen Gowdru",
+  "role": "Co-founder & CEO",
+  "linkedin": "https://www.linkedin.com/in/praveengarera/",
+  "confidence": "high"
+ },
+ {
+  "company": "Muziris Healthcare",
+  "founder": "Sarath N S",
+  "role": "Founder & CEO",
+  "linkedin": "https://www.linkedin.com/in/sarath-n-s-19bb87255/",
+  "confidence": "high"
+ },
+ {
+  "company": "Sqoolz",
+  "founder": "Ravishankar Iyer",
+  "role": "Founder",
+  "linkedin": "https://www.linkedin.com/in/ravishankariyer/",
+  "confidence": "medium"
+ },
+ {
+  "company": "TrueScan",
+  "founder": "Ankit Tanna",
+  "role": "Co-founder & CEO",
+  "linkedin": "https://www.linkedin.com/in/ankittanna",
+  "confidence": "high"
+ },
+ {
+  "company": "ThinkQuant",
+  "founder": "",
+  "role": "",
+  "linkedin": "",
+  "confidence": "low"
+ },
+ {
+  "company": "Mailkoot",
+  "founder": "Sujith S",
+  "role": "Founder & CEO",
+  "linkedin": "https://www.linkedin.com/in/sujith-s-6844ab97",
+  "confidence": "high"
+ },
+ {
+  "company": "Cinqo",
+  "founder": "Ankush Gupta",
+  "role": "Co-founder",
+  "linkedin": "",
+  "confidence": "high"
+ }
+]

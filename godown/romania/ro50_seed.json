@@ -1,0 +1,671 @@
+[
+ {
+  "name": "ASSIST Software",
+  "domain": "assist-software.net",
+  "website": "https://assist-software.net/",
+  "final_url": "https://assist-software.net/",
+  "page_urls": {
+   "careers": "https://assist-software.net/jobs",
+   "blog": "https://assist-software.net/services/aiml-data-engineering"
+  },
+  "score": "95",
+  "band": "Priority"
+ },
+ {
+  "name": "Code Spring",
+  "domain": "codespring.ro",
+  "website": "https://www.codespring.ro/",
+  "final_url": "https://www.codespring.ro/",
+  "page_urls": {
+   "careers": "https://www.codespring.ro/jobs/ux-ui-designer",
+   "about": "https://www.codespring.ro/our-story",
+   "team": "https://www.codespring.ro/news/adventurous-vibes-in-the-2026-mentoring-program-team-building",
+   "tech-stack": "https://www.codespring.ro/software-development/technologies"
+  },
+  "score": "85",
+  "band": "Priority"
+ },
+ {
+  "name": "IsoSkills",
+  "domain": "isoskills.fi",
+  "website": "https://isoskills.fi/",
+  "final_url": "https://isoskills.fi/",
+  "page_urls": {
+   "careers": "https://isoskills.fi/careers/",
+   "blog": "https://isoskills.fi/insights/",
+   "about": "https://isoskills.fi/about-us/",
+   "team": "https://isoskills.fi/portfolio/waste-management-software-solutions-provider-from-sweden/",
+   "tech-stack": "https://isoskills.fi/portfolio/clinical-trial-technology-leader-from-us/"
+  },
+  "score": "85",
+  "band": "Priority"
+ },
+ {
+  "name": "SC AEGIS CORE TECH SRL",
+  "domain": "aegiscoretech.com",
+  "website": "https://aegiscoretech.com/",
+  "final_url": "https://aegiscoretech.com/",
+  "page_urls": {
+   "careers": "https://aegiscoretech.com/careers",
+   "about": "https://aegiscoretech.com/about"
+  },
+  "score": "85",
+  "band": "Priority"
+ },
+ {
+  "name": "Global Mediator",
+  "domain": "global-mediator.com",
+  "website": "https://global-mediator.com/",
+  "final_url": "https://global-mediator.com/",
+  "page_urls": {
+   "careers": "https://global-mediator.com/career/open-positions",
+   "blog": "https://global-mediator.com/2024-results-blog-post",
+   "about": "https://global-mediator.com/about-us",
+   "team": "https://global-mediator.com/career/meet-our-team"
+  },
+  "score": "83",
+  "band": "Priority"
+ },
+ {
+  "name": "Linnify",
+  "domain": "linnify.com",
+  "website": "https://www.linnify.com/",
+  "final_url": "https://www.linnify.com/",
+  "page_urls": {
+   "careers": "https://www.linnify.com/company/careers",
+   "blog": "https://www.linnify.com/resources",
+   "about": "https://www.linnify.com/company/about",
+   "team": "https://www.linnify.com/capabilities/team-augmentation",
+   "tech-stack": "https://www.linnify.com/capabilities/cloud-services"
+  },
+  "score": "80",
+  "band": "Priority"
+ },
+ {
+  "name": "TechQuarter",
+  "domain": "techquarter.io",
+  "website": "https://techquarter.io/",
+  "final_url": "https://techquarter.io/",
+  "page_urls": {
+   "careers": "https://techquarter.io/careers/",
+   "blog": "https://techquarter.io/our-industries/automotive-software-engineering/",
+   "about": "https://techquarter.io/about-us/",
+   "team": "https://techquarter.io/dedicated-development-team-services/"
+  },
+  "score": "80",
+  "band": "Priority"
+ },
+ {
+  "name": "BrainTrust",
+  "domain": "braintrust.ro",
+  "website": "https://www.braintrust.ro/",
+  "final_url": "https://www.braintrust.ro/",
+  "page_urls": {
+   "careers": "https://www.braintrust.ro/careers",
+   "blog": "https://www.braintrust.ro/blog"
+  },
+  "score": "75",
+  "band": "Priority"
+ },
+ {
+  "name": "FXBITS",
+  "domain": "fxbits.io",
+  "website": "https://fxbits.io/",
+  "final_url": "https://fxbits.io/",
+  "page_urls": {
+   "careers": "https://fxbits.io/careers",
+   "blog": "https://fxbits.io/blog",
+   "about": "https://fxbits.io/about"
+  },
+  "score": "75",
+  "band": "Priority"
+ },
+ {
+  "name": "Wolfpack Digital",
+  "domain": "wolfpack-digital.com",
+  "website": "https://www.wolfpack-digital.com/?utm_source=goodfirms",
+  "final_url": "https://www.wolfpack-digital.com/?utm_source=goodfirms",
+  "page_urls": {
+   "careers": "https://www.wolfpack-digital.com/jobs",
+   "blog": "https://www.wolfpack-digital.com/blogposts",
+   "about": "https://www.wolfpack-digital.com/about",
+   "team": "https://www.wolfpack-digital.com/team",
+   "tech-stack": "https://www.wolfpack-digital.com/technologies"
+  },
+  "score": "75",
+  "band": "Priority"
+ },
+ {
+  "name": "Ketek",
+  "domain": "ketek.ro",
+  "website": "https://www.ketek.ro/",
+  "final_url": "https://www.ketek.ro/",
+  "page_urls": {
+   "careers": "https://www.ketek.ro/careers/",
+   "blog": "https://www.ketek.ro/blog/",
+   "about": "https://www.ketek.ro/about/",
+   "tech-stack": "https://www.ketek.ro/industries/document-processing/"
+  },
+  "score": "70",
+  "band": "Priority"
+ },
+ {
+  "name": "OceanoBe Technology",
+  "domain": "oceanobe.com",
+  "website": "https://oceanobe.com/",
+  "final_url": "https://oceanobe.com/",
+  "page_urls": {
+   "about": "https://oceanobe.com/our-company",
+   "team": "https://oceanobe.com/join-our-team",
+   "tech-stack": "https://oceanobe.com/expertise"
+  },
+  "score": "70",
+  "band": "Priority"
+ },
+ {
+  "name": "Sensidev",
+  "domain": "sensidev.com",
+  "website": "https://sensidev.com/",
+  "final_url": "https://sensidev.com/",
+  "page_urls": {
+   "careers": "https://sensidev.com/careers/",
+   "blog": "https://sensidev.com/blog/",
+   "about": "https://sensidev.com/about-us/"
+  },
+  "score": "70",
+  "band": "Priority"
+ },
+ {
+  "name": "SOFTECH",
+  "domain": "softech.ro",
+  "website": "https://softech.ro/",
+  "final_url": "https://softech.ro/",
+  "page_urls": {
+   "careers": "https://softech.ro/careers/",
+   "blog": "https://softech.ro/meet-softech-engineering-team-at-the-swiss-it-forums-2026/",
+   "about": "https://softech.ro/software-development-cluj/softech-company-history/",
+   "team": "https://softech.ro/software-development-cluj/hire-dedicated-team/",
+   "tech-stack": "https://softech.ro/custom-software-development-services/technologies/"
+  },
+  "score": "70",
+  "band": "Priority"
+ },
+ {
+  "name": "Zitec",
+  "domain": "zitec.com",
+  "website": "https://zitec.com/",
+  "final_url": "https://zitec.com/",
+  "page_urls": {
+   "careers": "https://zitec.com/about/",
+   "blog": "https://zitec.com/services/ai-engineering/",
+   "about": "https://zitec.com/about/",
+   "team": "https://zitec.com/services/app-management-maintenance/",
+   "tech-stack": "https://zitec.com/services/"
+  },
+  "score": "70",
+  "band": "Priority"
+ },
+ {
+  "name": "Ascendro",
+  "domain": "ascendro.de",
+  "website": "https://www.ascendro.de/",
+  "final_url": "https://www.ascendro.de/",
+  "page_urls": {
+   "blog": "https://www.ascendro.de/tech-insights/",
+   "about": "https://www.ascendro.de/about-us/",
+   "team": "https://www.ascendro.de/outsourced-operations-management/",
+   "tech-stack": "https://www.ascendro.de/custom-software-process-optimization/"
+  },
+  "score": "65",
+  "band": "Secondary"
+ },
+ {
+  "name": "InnovatorSpark SRL",
+  "domain": "innovatorspark.com",
+  "website": "https://innovatorspark.com/",
+  "final_url": "https://innovatorspark.com/",
+  "page_urls": {
+   "careers": "https://innovatorspark.com/careers/",
+   "blog": "https://innovatorspark.com/wp-content/plugins/gp-premium/blog/functions/css/columns.min.css?ver=2.5.5",
+   "about": "https://innovatorspark.com/about-us/",
+   "team": "https://innovatorspark.com/nl/innovatorspark-softwareontwikkeling-teamuitbreiding/"
+  },
+  "score": "63",
+  "band": "Secondary"
+ },
+ {
+  "name": "mindit.io",
+  "domain": "mindit.io",
+  "website": "https://mindit.io/",
+  "final_url": "https://mindit.io/",
+  "page_urls": {
+   "careers": "https://mindit.io/careers/",
+   "blog": "https://mindit.io/product-engineering/",
+   "about": "https://mindit.io/about/",
+   "team": "https://mindit.io/customer-success/streamlining-product-management-with-a-secure-centralized-masterdata-portal/",
+   "tech-stack": "https://mindit.io/customer-success/boosted-operational-efficiency-through-digital-process-optimization/"
+  },
+  "score": "63",
+  "band": "Secondary"
+ },
+ {
+  "name": "7code",
+  "domain": "7code.ro",
+  "website": "https://www.7code.tech/",
+  "final_url": "https://www.7code.tech/",
+  "page_urls": {
+   "blog": "https://www.7code.tech/service/ai-product-engineering",
+   "about": "https://www.7code.tech/about",
+   "team": "https://www.7code.tech/resources/staff-augmentation-vs-dedicated-team",
+   "tech-stack": "https://www.7code.tech/process"
+  },
+  "score": "60",
+  "band": "Secondary"
+ },
+ {
+  "name": "Areus Development",
+  "domain": "areusdev.com",
+  "website": "https://areusdev.com/",
+  "final_url": "https://areusdev.com/",
+  "page_urls": {
+   "careers": "https://areusdev.com/careers/",
+   "blog": "https://areusdev.com/services/ai-automation-engineering/",
+   "about": "https://areusdev.com/about-us/",
+   "team": "https://areusdev.com/portfolio/protected-areas-management/",
+   "tech-stack": "https://areusdev.com/services/healthcare-technology/"
+  },
+  "score": "60",
+  "band": "Secondary"
+ },
+ {
+  "name": "Arnia Software",
+  "domain": "arnia.com",
+  "website": "https://www.arnia.com/",
+  "final_url": "https://www.arnia.com/",
+  "page_urls": {
+   "careers": "https://www.arnia.com/jobs/",
+   "blog": "https://www.arnia.com/news-articles/",
+   "about": "https://www.arnia.com/about-us/",
+   "team": "https://www.arnia.com/project-management/"
+  },
+  "score": "60",
+  "band": "Secondary"
+ },
+ {
+  "name": "BitStone SRL",
+  "domain": "bitstone.com",
+  "website": "https://bitstone.com/",
+  "final_url": "https://bitstone.com/",
+  "page_urls": {
+   "careers": "https://bitstone.com/join-us/",
+   "blog": "https://bitstone.com/case-studies/empowering-artists-with-a-music-royalties-platform-and-ai-insights/",
+   "about": "https://bitstone.com/about-us/",
+   "team": "https://bitstone.com/case-studies/retail-product-information-management/"
+  },
+  "score": "60",
+  "band": "Secondary"
+ },
+ {
+  "name": "ConturSoft",
+  "domain": "contursoft.com",
+  "website": "https://contursoft.com/",
+  "final_url": "https://contursoft.com/",
+  "page_urls": {
+   "careers": "https://contursoft.com/careers/",
+   "blog": "https://contursoft.com/blog/",
+   "team": "https://contursoft.com/category/software-project-management/",
+   "tech-stack": "https://contursoft.com/category/agile-scrum-methodology/"
+  },
+  "score": "60",
+  "band": "Secondary"
+ },
+ {
+  "name": "rinf.tech",
+  "domain": "rinf.tech",
+  "website": "https://www.rinf.tech/",
+  "final_url": "https://www.rinf.tech/",
+  "page_urls": {
+   "careers": "https://www.rinf.tech/careers/",
+   "blog": "https://www.rinf.tech/what/r-d-embedded/embedded-software-engineering/",
+   "team": "https://www.rinf.tech/securing-aiot-ecosystem-semiconductor-device-management/",
+   "tech-stack": "https://www.rinf.tech/what/digital-products-and-platforms/technology-modernization/"
+  },
+  "score": "60",
+  "band": "Secondary"
+ },
+ {
+  "name": "Thinslices",
+  "domain": "thinslices.com",
+  "website": "https://www.thinslices.com/",
+  "final_url": "https://www.thinslices.com/",
+  "page_urls": {
+   "careers": "https://www.thinslices.com/join-us",
+   "blog": "https://www.thinslices.com/insights",
+   "about": "https://www.thinslices.com/about-us",
+   "team": "https://www.thinslices.com/team-as-a-service",
+   "tech-stack": "https://www.thinslices.com/insights/tag/technology"
+  },
+  "score": "60",
+  "band": "Secondary"
+ },
+ {
+  "name": "UPDIVISION",
+  "domain": "updivision.com",
+  "website": "https://updivision.com/",
+  "final_url": "https://updivision.com/",
+  "page_urls": {
+   "careers": "https://updivision.com/careers",
+   "blog": "https://updivision.com/blog",
+   "team": "https://updivision.com/team",
+   "tech-stack": "https://updivision.com/technology"
+  },
+  "score": "58",
+  "band": "Secondary"
+ },
+ {
+  "name": "Around25",
+  "domain": "around25.com",
+  "website": "https://www.around25.com/",
+  "final_url": "https://www.around25.com/",
+  "page_urls": {
+   "careers": "https://www.around25.com/careers",
+   "blog": "https://www.around25.com/blog",
+   "team": "https://www.around25.com/services/team-extension"
+  },
+  "score": "55",
+  "band": "Secondary"
+ },
+ {
+  "name": "Floating Dots",
+  "domain": "floatingdots.co",
+  "website": "https://floatingdots.co/",
+  "final_url": "https://floatingdots.co/",
+  "page_urls": {
+   "careers": "https://floatingdots.co/careers/",
+   "blog": "https://floatingdots.co/blog/",
+   "about": "https://floatingdots.co/about/",
+   "team": "https://floatingdots.co/services/team-augmentation/",
+   "tech-stack": "https://floatingdots.co/"
+  },
+  "score": "55",
+  "band": "Secondary"
+ },
+ {
+  "name": "Qualysoft",
+  "domain": "qualysoft.com",
+  "website": "https://qualysoft.com/",
+  "final_url": "https://qualysoft.com/",
+  "page_urls": {
+   "careers": "https://qualysoft.com/career",
+   "about": "https://qualysoft.com/about",
+   "team": "https://qualysoft.com/about/leadership",
+   "tech-stack": "https://qualysoft.com/services/business-technology-solutions-bts"
+  },
+  "score": "55",
+  "band": "Secondary"
+ },
+ {
+  "name": "SPD Technology",
+  "domain": "spd.tech",
+  "website": "https://spd.tech/?utm_source=Goodfirms&utm_medium=referral",
+  "final_url": "https://spd.tech/?utm_source=Goodfirms&utm_medium=referral",
+  "page_urls": {
+   "careers": "https://spd.tech/wp-content/plugins/wp-job-manager/assets/dist/css/job-listings.css",
+   "blog": "https://spd.tech/data-engineering-services/",
+   "about": "https://spd.tech/fraud-detection-software-development-company/",
+   "team": "https://spd.tech/dedicated-software-development-team/"
+  },
+  "score": "55",
+  "band": "Secondary"
+ },
+ {
+  "name": "UP2DATE",
+  "domain": "up2date.ro",
+  "website": "https://up2date.ro/",
+  "final_url": "https://up2date.ro/",
+  "page_urls": {
+   "careers": "https://up2date.ro/about/who-we-are",
+   "blog": "https://up2date.ro/blog",
+   "about": "https://up2date.ro/about/products",
+   "team": "https://up2date.ro/services/dedicated-development-teams"
+  },
+  "score": "55",
+  "band": "Secondary"
+ },
+ {
+  "name": "Codemart",
+  "domain": "codemart.ro",
+  "website": "https://codemart.ro/codemart/zwei/",
+  "final_url": "https://codemart.ro/codemart/zwei/",
+  "page_urls": {
+   "careers": "https://codemart.ro/codemart/zwei/chronicle/single/6114-summer-2026-join-us-for-7-weeks-of-paid-internship-",
+   "about": "https://codemart.ro/codemart/zwei/company"
+  },
+  "score": "53",
+  "band": "Secondary"
+ },
+ {
+  "name": "Custom Code Factory",
+  "domain": "customcodefactory.com",
+  "website": "https://customcodefactory.com/",
+  "final_url": "https://customcodefactory.com/",
+  "page_urls": {
+   "about": "https://customcodefactory.com/about/",
+   "team": "https://customcodefactory.com/internal-management-for-local-police/",
+   "tech-stack": "https://customcodefactory.com/expertise/"
+  },
+  "score": "53",
+  "band": "Secondary"
+ },
+ {
+  "name": "Enlivy",
+  "domain": "enlivy.dev",
+  "website": "https://enlivy.dev/",
+  "final_url": "https://enlivy.dev/",
+  "page_urls": {
+   "blog": "https://enlivy.dev/blog/",
+   "about": "https://enlivy.dev/about-us/"
+  },
+  "score": "53",
+  "band": "Secondary"
+ },
+ {
+  "name": "Nerds Computing",
+  "domain": "nerds.sh",
+  "website": "https://nerds.sh/",
+  "final_url": "https://nerds.sh/",
+  "page_urls": {
+   "careers": "https://nerds.sh/careers",
+   "blog": "https://nerds.sh/services/video-platform-engineering",
+   "about": "https://nerds.sh/about",
+   "team": "https://nerds.sh/services/renewable-energy-management"
+  },
+  "score": "53",
+  "band": "Secondary"
+ },
+ {
+  "name": "Kavita Systems",
+  "domain": "kavitasystems.com",
+  "website": "https://kavitasystems.com/",
+  "final_url": "https://kavitasystems.com/",
+  "page_urls": {
+   "team": "https://kavitasystems.com/team",
+   "tech-stack": "https://kavitasystems.com/process"
+  },
+  "score": "50",
+  "band": "Secondary"
+ },
+ {
+  "name": "MCRO",
+  "domain": "mcro.tech",
+  "website": "https://mcro.tech/",
+  "final_url": "https://mcro.tech/",
+  "page_urls": {
+   "careers": "https://mcro.tech/careers/",
+   "blog": "https://mcro.tech/blog/",
+   "about": "https://mcro.tech/about-us/",
+   "team": "https://mcro.tech/team",
+   "tech-stack": "https://mcro.tech/technologies"
+  },
+  "score": "50",
+  "band": "Secondary"
+ },
+ {
+  "name": "Primal Skill",
+  "domain": "primalskill.com",
+  "website": "https://primalskill.com/",
+  "final_url": "https://primalskill.com/",
+  "page_urls": {
+   "careers": "https://primalskill.com/careers",
+   "blog": "https://primalskill.com/blog",
+   "about": "https://primalskill.com/about",
+   "team": "https://primalskill.com/team",
+   "tech-stack": "https://primalskill.com/technologies"
+  },
+  "score": "50",
+  "band": "Secondary"
+ },
+ {
+  "name": "FYB Romania",
+  "domain": "fyb.ro",
+  "website": "https://fyb.ro/",
+  "final_url": "https://fyb.ro/",
+  "page_urls": {
+   "careers": "https://fyb.ro/jobs/",
+   "about": "https://fyb.ro/who-we-are/"
+  },
+  "score": "45",
+  "band": "Skip"
+ },
+ {
+  "name": "Momentum Software",
+  "domain": "momentum-software.ro",
+  "website": "https://momentum-software.ro/wp/",
+  "final_url": "https://momentum-software.ro/wp/",
+  "page_urls": {
+   "team": "https://momentum-software.ro/wp/our-team/marius-oancea/",
+   "tech-stack": "https://momentum-software.ro/wp/services-overview/business-process-consulting/"
+  },
+  "score": "45",
+  "band": "Skip"
+ },
+ {
+  "name": "Qwertee Technology",
+  "domain": "qwertee.io",
+  "website": "https://www.qwertee.io/",
+  "final_url": "https://www.qwertee.io/",
+  "page_urls": {
+   "careers": "https://www.qwertee.io/",
+   "blog": "https://www.qwertee.io/mlops-engineering",
+   "about": "https://www.qwertee.io/about",
+   "team": "https://www.qwertee.io/",
+   "tech-stack": "https://www.qwertee.io/blog/consumer-driven-technologies-for-retail-disruption/"
+  },
+  "score": "45",
+  "band": "Skip"
+ },
+ {
+  "name": "Digital Artflow",
+  "domain": "digitalartflow.com",
+  "website": "https://www.digitalartflow.com/",
+  "final_url": "https://www.digitalartflow.com/",
+  "page_urls": {
+   "about": "https://www.digitalartflow.com/about/",
+   "tech-stack": "https://www.digitalartflow.com/how-we-work/"
+  },
+  "score": "40",
+  "band": "Skip"
+ },
+ {
+  "name": "Tooktech",
+  "domain": "tooktech.com",
+  "website": "https://tooktech.com/",
+  "final_url": "https://tooktech.com/",
+  "page_urls": {},
+  "score": "40",
+  "band": "Skip"
+ },
+ {
+  "name": "XCODES DEVELOPMENT",
+  "domain": "xcodesdevelopment.com",
+  "website": "https://xcodes.com/",
+  "final_url": "https://xcodes.com/",
+  "page_urls": {
+   "about": "https://xcodes.com/about"
+  },
+  "score": "40",
+  "band": "Skip"
+ },
+ {
+  "name": "Adonis Software",
+  "domain": "adonissoft.com",
+  "website": "https://adonissoft.com/",
+  "final_url": "https://adonissoft.com/",
+  "page_urls": {
+   "careers": "https://adonissoft.com/careers/",
+   "blog": "https://adonissoft.com/blog/"
+  },
+  "score": "35",
+  "band": "Skip"
+ },
+ {
+  "name": "AFI OPS TECHNOLOGIES",
+  "domain": "afiops.com",
+  "website": "https://afiops.com/",
+  "final_url": "https://afiops.com/",
+  "page_urls": {
+   "about": "https://afiops.com/about",
+   "team": "https://afiops.com/dedicated-team",
+   "tech-stack": "https://afiops.com/technologies"
+  },
+  "score": "35",
+  "band": "Skip"
+ },
+ {
+  "name": "BlueSpark Technologies",
+  "domain": "bluespark.ro",
+  "website": "https://bluespark.ro/",
+  "final_url": "https://bluespark.ro/",
+  "page_urls": {},
+  "score": "35",
+  "band": "Skip"
+ },
+ {
+  "name": "Concept24",
+  "domain": "concept24online.com",
+  "website": "https://www.concept24online.com/",
+  "final_url": "https://www.concept24online.com/",
+  "page_urls": {
+   "about": "https://www.concept24online.com/about-us/methodology",
+   "tech-stack": "https://www.concept24online.com/about-us/methodology"
+  },
+  "score": "35",
+  "band": "Skip"
+ },
+ {
+  "name": "Freshbyte",
+  "domain": "freshbyteinc.com",
+  "website": "https://freshbyteinc.com/",
+  "final_url": "https://freshbyteinc.com/",
+  "page_urls": {
+   "careers": "https://freshbyteinc.com/careers",
+   "blog": "https://freshbyteinc.com/blog",
+   "about": "https://freshbyteinc.com/about/company",
+   "team": "https://freshbyteinc.com/services/dedicated-team",
+   "tech-stack": "https://freshbyteinc.com/services/it-consulting-technical-expertise"
+  },
+  "score": "35",
+  "band": "Skip"
+ },
+ {
+  "name": "Kheprix",
+  "domain": "kheprix.com",
+  "website": "https://www.kheprix.com/",
+  "final_url": "https://www.kheprix.com/",
+  "page_urls": {
+   "about": "https://www.kheprix.com/wp-content/plugins/powerkit/modules/widget-about/public/css/public-powerkit-widget-about.css?ver=2.9.6"
+  },
+  "score": "35",
+  "band": "Skip"
+ }
+]

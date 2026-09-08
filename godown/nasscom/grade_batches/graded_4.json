@@ -1,0 +1,422 @@
+[
+ {
+  "name": "Sparx IT Solutions Pvt Ltd",
+  "domain": "sparxitsolutions.com",
+  "score": 100,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 40,
+  "tier_b_points": 25,
+  "tier_c_points": 20,
+  "raw_before_caps": 110,
+  "caps_applied": ["Cap total at 100"],
+  "pre2024_basis": "PROVEN - 2023-06 wayback advertises app/web development, 500+ customers",
+  "evidence": [
+   "JD: 'git and/or git-flow, Bitbucket, JIRA, Confluence' - host plus branching",
+   "Wayback 2023-06: 'Leading App And Web Development Company', 500+ customers",
+   "Site: 'CI/CD Development... automated testing and deployment'; DevOps Automation line",
+   "JD: 'unit tests, preferably TDD and BDD'; site names quality-engineering team"
+  ],
+  "why_this_rank": "Two overrides. jd.meets_tier_a is false, but the Bitbucket quote also names git-flow, which the rubric lists as a review gate, so I awarded the full +40 rather than +25. And the DQ_agency hits are all from Sparx's own Digital Marketing Head vacancy, not a service they sell clients, so I did not apply the cap-at-30; their published service menu is engineering only. HIPAA was dropped from Tier B because it describes client apps, not their own change control."
+ },
+ {
+  "name": "NuCore Software Solutions Pvt Ltd",
+  "domain": "nucore.in",
+  "score": 78,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 10,
+  "tier_c_points": 18,
+  "raw_before_caps": 78,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2022-06 wayback snapshot of Nucore Software Solutions",
+  "evidence": [
+   "JD: 'Perform unit testing and actively participate in peer code reviews'",
+   "Wayback 2022-06: 'Nucore Software Solutions - Technology for Growth'",
+   "Site: TRAACS flagship accounting product for travel agents, since 2005",
+   "JD: 'Test automation and CI/CD pipelines'"
+  ],
+  "why_this_rank": "The DQ_bpo hits are a false positive: 'back office software solutions' and 'back office accounting system' describe what TRAACS does for travel agents, not a BPO business, so I did not cap at 20. Site compliance hits are GDPR cookie-banner boilerplate and were scored zero, and the Polish-language text on their QA page suggests part of the site is spam-injected."
+ },
+ {
+  "name": "Qubiqon Consulting India Private Limited",
+  "domain": "qubiqon.io",
+  "score": 60,
+  "band": "Secondary",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 15,
+  "tier_c_points": 10,
+  "raw_before_caps": 60,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 2023-06, snapshot lacked software wording",
+  "evidence": [
+   "Careers: 'CI/CD pipelines by default. Trunk-based development. Blameless post-mortems'",
+   "Site: 'Terraform, Kubernetes, and automated deployment frameworks'",
+   "Site: 'Standardized deployment pipelines and version control practices'",
+   "Gold: archived 2023-06 but that snapshot never mentions software"
+  ],
+  "why_this_rank": "The engineering culture reads Priority-grade - trunk-based development and CI/CD-by-default are stated as daily practice, not marketing - but the pre-2024 snapshot never says they built software, so Gold pays +10 instead of +25 and that 15-point gap is the whole difference between Secondary and Priority. 79 people, right size band. Worth a manual pre-2024 check before dismissing."
+ },
+ {
+  "name": "Airamatrix Private Limited",
+  "domain": "airamatrix.com",
+  "score": 93,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 25,
+  "tier_c_points": 18,
+  "raw_before_caps": 93,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2022-06 wayback shows shipped automation product and awards",
+  "evidence": [
+   "JD: 'Perform code reviews and ensure code quality is maintained'",
+   "JD: 'Experience in CICD, Jenkins, SonarQube, GITLAB, JIRA, and JUnit'",
+   "Wayback 2022-06: automation product, Nature Scientific Reports publication, Aegis award",
+   "Site: healthcare diagnostic and prognostic tool portfolio, life-sciences clients"
+  ],
+  "why_this_rank": "Tier A is +25 not +40 because the JD says only 'GITLAB' - the rubric requires self-hosted GitLab, and a bare mention does not prove it, so no private-repo host was counted. The SonarQube/Jenkins line is phrased as 'an added advantage', so I took the quality gate and CI/CD points but withheld the dedicated-QA +10; the code-review requirement itself appears twice as a hard responsibility."
+ },
+ {
+  "name": "Incedo Technology Solutions Limited",
+  "domain": "incedoinc.com",
+  "score": 95,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 25,
+  "tier_c_points": 20,
+  "raw_before_caps": 95,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2020-06 wayback lists product engineering and case studies",
+  "evidence": [
+   "JD: 'Git, Jira, Bitbucket, Jenkins, and OCP' names a private host",
+   "JD: 'Using CI/CD pipelines, source control, and build tools (Jenkins, Maven/Gradle)'",
+   "Wayback 2020-06: telecom product engineering and case studies already advertised",
+   "Site: owns DataXel, Lighthouse, Kratos, CloudXpert platforms"
+  ],
+  "why_this_rank": "headcount_known says 14, which is scraped junk - their own site says 'over 4,000 people' and Fortune 500 clients. That is under the 5,000 giant threshold so I did not exclude, but it sits at the top of the size range and is US-headquartered PE-backed, so treat the Priority band as 'engineering signals are real' rather than 'acquirable'."
+ },
+ {
+  "name": "Mirabel Technologies India Private Limited",
+  "domain": "mirabeltechnologies.com",
+  "score": 58,
+  "band": "Skip",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 10,
+  "tier_c_points": 13,
+  "raw_before_caps": 58,
+  "caps_applied": ["Rejected: foreign-parent captive development centre"],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 2023-06, snapshot lacked software wording",
+  "evidence": [
+   "Naukri JDs: 'GitHub, Bitbucket' named as stack across Hyderabad roles",
+   "Site: 'our QA team... executing robust automation solutions' with Playwright",
+   "Site: 'our product list and team keeps on growing' - own products",
+   "Entity is the Hyderabad arm of US product vendor Mirabel Technologies"
+  ],
+  "why_this_rank": "Skipped on the captive rule, not on score. The Hyderabad entity is the offshore development centre of a US product company (Mirabel Technologies Inc), building the parent's own products - the codebase belongs to the foreign parent and is not separately acquirable, same logic as the GCC exclusions. Its 58 would otherwise have been Secondary."
+ },
+ {
+  "name": "Neurealm Private Limited",
+  "domain": "neurealm.com",
+  "score": 80,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 25,
+  "tier_c_points": 20,
+  "raw_before_caps": 80,
+  "caps_applied": [],
+  "pre2024_basis": "DOMAIN_ONLY - domain registered 2023-12-16, no snapshot",
+  "evidence": [
+   "JD: 'Participate in code reviews and follow engineering best practices'",
+   "JD: 'CI/CD tools such as GitHub Actions, Jenkins, or GitLab CI'",
+   "Site: owns ZIF AIOps platform, 3rdi, AI-SDLC Pulse accelerators",
+   "Gold: only an RDAP record dated 2023-12-16; no archived snapshot"
+  ],
+  "why_this_rank": "Reaches Priority on JD and product evidence, but the pre-2024 basis is thin in a way the number hides: the domain was registered 16 December 2023, two weeks inside the cutoff, and there is no snapshot at all. The site also markets 'AI-assisted coding' and an 'AI-powered SDLC' as its core differentiator, which is the exact profile the Gold gate exists to screen out. Verify the entity's real build history (the ZIF platform predates this domain) before contacting."
+ },
+ {
+  "name": "Prorigo Software Pvt Ltd",
+  "domain": "prorigosoftware.com",
+  "score": 83,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 15,
+  "tier_c_points": 18,
+  "raw_before_caps": 83,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06 wayback lists Application Development and PLM/CAD",
+  "evidence": [
+   "JD: 'Conduct code reviews and enforce coding standards'",
+   "JD: 'Promote DevOps, CI/CD best practices... for PLM deployments'",
+   "Wayback 2023-06: Application Development, PLM/CAD, Aras Innovator offerings",
+   "Site: owns Protrak Quality Management product line"
+  ],
+  "why_this_rank": "Almost all the score comes from the JD - the crawl reached only three pages and returned two site quotes total, so Tier B/C are thinner than the numbers suggest. I allowed the CI/CD +15 on two separate practice statements even though no pipeline tool is named, which is the softest call in this row."
+ },
+ {
+  "name": "Sparity Soft Technologies Private Limited",
+  "domain": "sparity.com",
+  "score": 85,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 15,
+  "tier_c_points": 20,
+  "raw_before_caps": 85,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06 wayback: 'Top Software Development Company In USA'",
+  "evidence": [
+   "JD: 'perform code reviews to change, correct errors'",
+   "JD stack: 'AWS Cloud, Jenkins, Git-Lab, Spring Boot' for web applications",
+   "Wayback 2023-06: 'Top Software Development Company In USA'",
+   "Site: 'agile methodologies... integrated DevOps practices'; Fortune 500 clients"
+  ],
+  "why_this_rank": ""
+ },
+ {
+  "name": "Ranosys Technologies Private Limited",
+  "domain": "ranosys.com",
+  "score": 100,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 45,
+  "tier_c_points": 15,
+  "raw_before_caps": 110,
+  "caps_applied": ["Cap total at 100"],
+  "pre2024_basis": "PROVEN - 2023-06 wayback shows eCommerce and Product Engineering pages",
+  "evidence": [
+   "JD: 'Copado, GitHub Actions, Bitbucket Pipelines, Jenkins' for Salesforce CI/CD",
+   "JD: 'Apex unit tests with required code coverage' - enforced coverage gate",
+   "Site: 'ISO 27001 standards, strong governance frameworks'",
+   "Wayback 2023-06: eCommerce Marketplace and Product Engineering service pages"
+  ],
+  "why_this_rank": "I chose not to apply the generalist-agency cap-at-30. There is one digital-marketing service line and one 'managed IT Services' phrase, but the positioning is overwhelmingly eCommerce, digital transformation and product engineering (9 prod_eng and 12 enterprise hits), so the marketing offer reads as an adjunct rather than the generalist bundle the cap targets. If you disagree with that read, this drops to 30 and becomes a Skip - it is the single most consequential judgement call in the batch. 299 people, ideal size."
+ },
+ {
+  "name": "Everligntek Solutions Private Limited",
+  "domain": "everligntek.com",
+  "score": 48,
+  "band": "Skip",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 0,
+  "tier_c_points": 13,
+  "raw_before_caps": 48,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 2020-06, snapshot lacked software wording",
+  "evidence": [
+   "JD: 'Familiarity with version control using Git and Azure DevOps'",
+   "Site: 'AI-assisted code generation for pipelines, APIs, and UI'",
+   "Site: owns GovOS, Pipeline Studio, Compliance Copilot accelerators",
+   "Gold: archived 2020-06 but that snapshot lacked software wording"
+  ],
+  "why_this_rank": "Two points below Secondary, on a deliberate call. Azure DevOps is real private-repo evidence and earned Tier A +25, but I refused to also bank it as substantive CI/CD - the JD frames it as version control, and every 'pipeline' on the site is ETL/Snowflake, not delivery. Their own copy sells AI-generated code and AI-generated ETL, which cuts against the pre-2024 human-authored thesis. Re-rank if a real engineering JD surfaces."
+ },
+ {
+  "name": "Zelar Soft Private Limited",
+  "domain": "zelarsoft.com",
+  "score": 70,
+  "band": "Priority",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 25,
+  "tier_c_points": 20,
+  "raw_before_caps": 70,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06 wayback shows product engineering, OPA, cloud-native work",
+  "evidence": [
+   "JD 'Bitbucket/Jenkins/Git' hits are FontAwesome CSS classes, not text",
+   "Site: 'GitOps... continuous everything for cloud native applications on Kubernetes'",
+   "Site: 'Zelar is now ISO 27001:2013 Certified'; owns Klusternetes platform",
+   "Wayback 2023-06: product engineering, Open Policy Agent, cloud-native consulting"
+  ],
+  "why_this_rank": "Tier A scored zero because the private_repo_host and cicd quotes are literally FontAwesome icon declarations ('.fa-bitbucket:before { content:'), not job text - the crawler swept a stylesheet. The careers page was never reached either. So this is missing evidence, not absent practice: a 234-person Kubernetes/GitOps/OPA shop almost certainly runs reviewed private repos. Re-crawl the careers page before treating Inferred as a ceiling."
+ },
+ {
+  "name": "Vortex Infosolutions LLP",
+  "domain": "vortexglobalservices.com",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 35,
+  "caps_applied": ["Generalist-agency signature (SEM/ad management bundled with dev) - cap 30"],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 2023-06, snapshot lacked software wording",
+  "evidence": [
+   "JD: 'code quality... through testing, code reviews, and continuous integration'",
+   "Site: 'Search Engine Marketing, Ad Management', '2.5x Return on Ad Spend'",
+   "Site: 'Complete rebranding & design overhaul' is the flagship case study",
+   "Gold: archived 2023-06 but that snapshot lacked software wording"
+  ],
+  "why_this_rank": "The agency cap did the work. There is a genuine code-review-plus-CI sentence in the JD (Tier A +25), but the site's headline case study is rebranding, SEM and ad management with ROAS metrics - the textbook generalist-agency signature - so the cap-at-30 overrides the engineering signal. Tier C could not fire without corroborated positioning."
+ },
+ {
+  "name": "Entiovi Technologies Private Limited",
+  "domain": "entiovi.com",
+  "score": 65,
+  "band": "Secondary",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 10,
+  "tier_c_points": 20,
+  "raw_before_caps": 65,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 2023-06, snapshot lacked software wording",
+  "evidence": [
+   "Careers: 'team environment built around peer review... constructive feedback'",
+   "Site: owns EnHeal healthcare platform and En Gauge data product",
+   "Site: clinical AI, LIMS, risk and fraud decisioning for regulated industries",
+   "Gold: archived 2023-06 but that snapshot lacked software wording"
+  ],
+  "why_this_rank": "Held out of Priority by two soft calls. The only review-gate evidence is careers-page culture copy ('built around peer review') rather than a described engineering gate, so Tier A is defensible but not solid; and the pre-2024 snapshot lacks software wording, costing 15 Gold points. The product and regulated-industry story is strong, so a real JD pull could move this up."
+ },
+ {
+  "name": "Momentum Services Private Limited",
+  "domain": "momentummetropolitanservices.co.in",
+  "score": 40,
+  "band": "Skip",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 20,
+  "tier_c_points": 0,
+  "raw_before_caps": 55,
+  "caps_applied": ["Rejected: multinational captive/GCC arm", "No careers, blog or team page - cap 40"],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 2022-06, snapshot lacked software wording",
+  "evidence": [
+   "JD: 'Contributing to peer code reviews'; 'Actively using SonarQube'",
+   "Domain momentummetropolitanservices.co.in - Momentum Metropolitan captive",
+   "Crawl: only the homepage reached, no careers, blog or team page",
+   "Gold: archived 2022-06 but that snapshot lacked software wording"
+  ],
+  "why_this_rank": "Skipped on the captive rule first, cap second. This is the Navi Mumbai GCC of Momentum Metropolitan, the South African insurance group - a NASSCOM member but not acquirable. Ironically it has some of the batch's better process evidence (peer code reviews, SonarQube, automated unit test frameworks); it is still out."
+ },
+ {
+  "name": "PurpleTalk India Pvt Ltd",
+  "domain": "purpletalk.com",
+  "score": 75,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 15,
+  "tier_c_points": 10,
+  "raw_before_caps": 75,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06 wayback lists Android and Java developer openings",
+  "evidence": [
+   "JD: 'Write clean, tested, well-documented code and take part in code reviews'",
+   "JD: 'Terraform/CloudFormation automation' on AWS or Azure",
+   "Wayback 2023-06: Android, Java and BA openings listed in Hyderabad",
+   "Site: aviation safety, 6M-farmer supply, healthcare consultation platforms"
+  ],
+  "why_this_rank": ""
+ },
+ {
+  "name": "Qt India Technology Private Limited",
+  "domain": "qt.io",
+  "score": 63,
+  "band": "Skip",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 0,
+  "tier_c_points": 13,
+  "raw_before_caps": 63,
+  "caps_applied": ["Rejected: multinational captive R&D arm"],
+  "pre2024_basis": "PROVEN - 2023-06 wayback: 'Tools for Each Stage of Software Development Lifecycle'",
+  "evidence": [
+   "Site: 'Qt Group (Nasdaq Helsinki: QTCOM)... global software company'",
+   "Careers: 'shared thoughts in code reviews or architecture meetings'",
+   "Wayback 2023-06: 'Tools for Each Stage of Software Development Lifecycle'",
+   "Owns the Qt Framework; Bengaluru entity is the Finnish parent's R&D arm"
+  ],
+  "why_this_rank": "Skipped on the captive rule, not the score. Qt India is the Bengaluru R&D arm of Qt Group Plc, a Nasdaq Helsinki-listed product company serving 1.5 million developers - a multinational subsidiary, same category as the named GCC exclusions, and its codebase is the parent's. Also note it is a product vendor, not an Indian firm building and selling software for clients."
+ },
+ {
+  "name": "Samyak Infotech Pvt Ltd",
+  "domain": "samyak.com",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 25,
+  "tier_c_points": 15,
+  "raw_before_caps": 75,
+  "caps_applied": ["Generalist-agency signature (dev bundled with digital marketing and IT support) - cap 30"],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 2023-06, snapshot lacked software wording",
+  "evidence": [
+   "JD: 'Integrate TFS Source control in Visual Studio Code' - private host",
+   "Site: 'Software Development... Digital Marketing... IT Support and Maintenance' bundle",
+   "Site: 'DevOps Solutions... CI/CD pipelines and process automation'; Azure DevOps",
+   "Site: 'Regular code reviews and testing' in their stated QA process"
+  ],
+  "why_this_rank": "A cap overrode real merit here. TFS in the JD is unambiguous private-repo evidence and the Azure DevOps/CI-CD story is substantive - raw 75 - but their own outsourcing menu bundles Software Development with Digital Marketing and IT Support and Maintenance, which is exactly the generalist-agency signature, so cap-at-30 applies. Tier A stayed at 25 rather than 40 because the code-review sentence lives in site marketing copy, not the JD."
+ },
+ {
+  "name": "Signicent Information Solutions LLP",
+  "domain": "signicent.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": ["KPO/research core business - cap 20 (not binding)"],
+  "pre2024_basis": "DOMAIN_ONLY - domain registered 2012-12-19, nothing more",
+  "evidence": [
+   "JD 'peer reviewed' means journals: 'Author of article in peer reviewed Journal'",
+   "Site: 'Best KPO Company 2017 & Award for Excellence in IP Research'",
+   "Site products page reads 'Lorem Ipsum is simply dummy text'",
+   "Gold: RDAP domain 2012-12-19 only, no software snapshot"
+  ],
+  "why_this_rank": "All six review_gate hits are the same sentence about publishing in peer-reviewed journals - academic peer review, not code review - so Tier A is zero despite the raw signal count looking healthy. The business is patent and market research (self-described KPO), the products page is still Lorem Ipsum placeholder, and a 2012 domain proves only that someone owned the name."
+ },
+ {
+  "name": "Indigrators Solutions Private Limited",
+  "domain": "indigrators.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": ["Managed IT-support / run-your-operations core - cap 20"],
+  "pre2024_basis": "PROVEN - 2022-06 wayback shows enterprise solutions and support model",
+  "evidence": [
+   "JD 'Bitbucket/Jenkins/Git' hits are FontAwesome CSS declarations, not job text",
+   "Site: 'digital transformation through comprehensive IT support and consulting'",
+   "Wayback 2022-06: 'Global Customer Support... We Build Your Team, We Run Your Operations'",
+   "Crawl: careers page never reached; no real engineering JD collected"
+  ],
+  "why_this_rank": "The 196k characters of 'JD' are almost entirely a FontAwesome stylesheet - every VCS signal is an icon class name - and the careers page was never reached, so the engineering evidence is missing rather than absent. What the crawl did capture is a build-your-team / run-your-operations offshore staffing and support model with global customer support, which triggers the managed-support cap at 20. Re-crawl if you want a fair read."
+ }
+]

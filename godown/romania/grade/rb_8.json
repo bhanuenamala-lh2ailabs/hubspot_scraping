@@ -1,0 +1,858 @@
+[
+ {
+  "name": "Fortune Soft",
+  "domain": "fortunesoft.ro",
+  "website": "http://www.fortunesoft.ro/",
+  "seed_lead_score": "6",
+  "seed_reason": "Web & software development company building VOD systems, news portals, monitoring apps and mobile apps, though also offering marketing and creative services.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Home About Us Work Contact Us Home About Us Work Contact Us CASE STUDY PROJECT OUR SERVICES Our Company has developed and delivered several solutions"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "The applications we focused on include VOD Systems, News Portals, Ecommerce Solutions, Hardware, Software and Network Monitoring Applications, Smart Phone Applications, VOD Smart TV Apps."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 12
+ },
+ {
+  "name": "Inventiff.",
+  "domain": "inventiff.io",
+  "website": "https://inventiff.io/",
+  "seed_lead_score": "6",
+  "seed_reason": "Unreachable at fetch time; blurb describes a team of digital strategists, developers and technologists creating custom digital solutions.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "and in the UK, where we have our main headquarters. For us, software development is not just about writing code, but we also think of the person who’s"
+  },
+  "jd": {
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 12
+ },
+ {
+  "name": "InteliStat Solutions",
+  "domain": "intelistat.ro",
+  "website": "https://www.intelistat.ro/",
+  "seed_lead_score": "6",
+  "seed_reason": "Develops dedicated custom software and CRM/ERP and cloud solutions for operational workflows, though also offering presentation sites, online shops and maintena",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 12
+ },
+ {
+  "name": "ZANEFFI SRL",
+  "domain": "zaneffi.com",
+  "website": "https://zaneffi.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Builds sovereign AI and data solutions (knowledge management, AI agents, intelligent automation) with real enterprise deployments (Stellantis, industrial).",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_bpo": 3,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "Learn more Intelligent Automation Automate the repetitive work across finance, HR, and operations: document processing, data entry, approvals, and dispatch.",
+    "Across every department Finance & Admin Invoice and document processing, data entry, and reconciliation, handled automatically with a full audit trail.",
+    "The right procedure reaches the person doing the work, without escalating to the back office."
+   ],
+   "cicd": [
+    "Compliance by default Following the highest industry standard Sovereignty & Governance End-to-End Encryption Continuous Integration & Deployment ISO/IEC 27001:2022 OWASP Top 10 Achieve results in weeks not years Exec."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 11
+ },
+ {
+  "name": "99 Code Lines",
+  "domain": "99codelines.com",
+  "website": "https://99codelines.com/",
+  "seed_lead_score": "6",
+  "seed_reason": "Long-standing software & app developer building iOS/Android/web apps (.NET/React) and mini ERP/CRM products, though also offering SEO and website work.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "bug ain't one Home About Our Company Technologies Services iOS Development Android Development Web Development Search Engine Optimization Contact Hom"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "sdlc": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "To top it all off, JIRA and Agile work methods help keep us on-point, our work rate optimized, and our productivity at a consistent high."
+   ],
+   "sdlc": [
+    "To top it all off, JIRA and Agile work methods help keep us on-point, our work rate optimized, and our productivity at a consistent high."
+   ],
+   "DQ_agency": [
+    "Next.js A framework consisting of a set of tools and features that enable the creation of fast, scalable, and SEO-friendly React-based web applications."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 11
+ },
+ {
+  "name": "Roti's Web",
+  "domain": "rotisweb.ro",
+  "website": "https://rotisweb.ro/ro",
+  "seed_lead_score": "5",
+  "seed_reason": "A young web developer's studio delivering modern, secure end-to-end web development and web audits, but essentially a solo web-focused agency.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "cicd": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Și multe altele în funcție de nevoile proiectului tău AWS Firebase Supabase Docker PostgreSQL Nuxt.js Vue Express.js Prisma Cloudinary Redis Nginx Proiecte Recente Câteva dintre proiectele pe care le-am realizat pentru clienții parteneri."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [
+   "https://github.com/Rotis-Web"
+  ],
+  "_prio": 11
+ },
+ {
+  "name": "Splashdev",
+  "domain": "splashdev.at",
+  "website": "https://splashdev.at/",
+  "seed_lead_score": "7",
+  "seed_reason": "Microsoft Dynamics 365 partner providing consulting and software development plus custom D365 solutions (debt collection, insurance, risk management).",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "crosoft Dynamics 365 Support BLOCKCHAIN Development Company Custom Software Development Services Web Design Services Solutions Microsoft Dynamics 365"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "enterprise": 6,
+   "DQ_agency": 1,
+   "DQ_bpo": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Our solutions for Debt Collection, Leasing, Insurance and Risk Management are marketing leading and availavle for Cloud and on Premise.",
+    "Read Further About SplashRisk For Insurance Brokers SplashInsurance is a comprehensive software solution tailored for the insurance industry .",
+    "It is designed to help insurance agencies and professionals enhance their operational efficiency , improve customer satisfaction, and stay competitive.",
+    "The software offers a suite of features that streamline various aspects of insurance management , from policy administration to claims processing."
+   ],
+   "DQ_agency": [
+    "Brand Credibility : Custom branding of the software elevates your business’s reputation as an industry leader."
+   ],
+   "DQ_bpo": [
+    "This add-on simplifies the document management process by automating every step, from data entry to archiving, and includes a full approval workflow."
+   ],
+   "sdlc": [
+    "Dynamics 365 helps businesses become more agile, enhance operational efficiency, and deliver exceptional customer experiences by leveraging AI-driven insights and predictive analytics."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 10
+ },
+ {
+  "name": "ICD Web",
+  "domain": "icdweb.eu",
+  "website": "https://icdweb.eu/",
+  "seed_lead_score": "7",
+  "seed_reason": "Sibiu development center (since 2009) covering 60+ technologies for custom web solutions, native/cross-platform mobile apps and e-commerce.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "owns_product": 2,
+   "DQ_agency": 3
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Scrum & Kanban Agile development methodologies Fast, reliable and highly adaptable software development delivered through thoroughly planned sprints and reviewing processes."
+   ],
+   "owns_product": [
+    "Together, we can identify the core functionalities of your concept and put together a roadmap that can deliver your product to your first users as soon as possible.",
+    "Ideal for small businesses 125 $ Per month billed annually or $137 month to month eShop E-comm Pro Sell your products online and convert your users into customers with an integrated e-commerce solution."
+   ],
+   "DQ_agency": [
+    "Mobile-Optimized Standard SEO Content upload Hosting services Domain registration E-mail configuration Social Media links Google Analytics Proactive maintenance Security updates 24/7 Support Let's get started!",
+    "Ideal for web stores 997 $ Per month billed annually or $1245 month to month Online marketing Digital mastery Complete digital marketing pack for unlocking the full potential of your online business through an inbound marketing approach for high conversion rates and lead generation.",
+    "Inbound strategy Inbound set-up Custom landing pages Premium SEO Social Media pages Social Media integration Social Media Ads Google Ads Content management Newsletter campaign Metrics & KPIs tracking Google Analytics 24/7 Support Let's get started!"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 10
+ },
+ {
+  "name": "Artep Development",
+  "domain": "artep.eu",
+  "website": "https://www.artep.eu/",
+  "seed_lead_score": "6",
+  "seed_reason": "Digital product development agency building native and cross-platform mobile applications and web applications with modern technologies, though creative-agency ",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Best Features Our Clients Our area of practice is quite wide: design, graphics, branding, development."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 10
+ },
+ {
+  "name": "Hipwerk",
+  "domain": "hipwerk.com",
+  "website": "https://www.hipwerk.com/",
+  "seed_lead_score": "5",
+  "seed_reason": "Thin site; blurb describes a tech laboratory developing bespoke web solutions with pride in shipped products, so tentatively relevant.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "vices work team contact blog Home of Lickable* Products see our work We offer Full-stack geeks for hire Looking to turn your idea into a successful pr"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 10
+ },
+ {
+  "name": "Neurony Solutions",
+  "domain": "neurony.ro",
+  "website": "https://neurony.ro/",
+  "seed_lead_score": "7",
+  "seed_reason": "Award-recognized web/software/PHP development firm and AI integration partner building AI products and value-driven custom development.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Building Impactful Software Solutions to Accelerate Growth - Neurony Solutions Insights Work About Contact Pr"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_training": 1,
+   "DQ_agency": 4,
+   "sdlc": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Adopt AI the right way - Neurony Products Solutions Work AI Insights About Contact Your AI learning assistant Increase your sales team's knowledge retention by 15x: continuous learning platform through personalized daily coaching on the platforms they already use."
+   ],
+   "DQ_agency": [
+    "Digital Diagnosis and Auditing Ideal for businesses that are going through a rebranding, product overhaul, or simply want to discover hidden opportunities."
+   ],
+   "sdlc": [
+    "HOW IT WORKS Our process We specialize in integrating advanced AI solutions into complex workflows, transforming business challenges into growth opportunities."
+   ],
+   "qa": [
+    "Upon request, a dedicated PM or QA specialist can be assigned to the project as well."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/neurony"
+  ],
+  "_prio": 8
+ },
+ {
+  "name": "Cramba App Studio",
+  "domain": "cramba.ro",
+  "website": "https://cramba.ro/en",
+  "seed_lead_score": "6",
+  "seed_reason": "One-person app studio building booking/ordering apps, mini-CRMs, automations and MVPs (500k+ users on its FastOrder/Beez products) — real dev but solo.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_template": 2
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "I already have a prototype, mockup or template — can you turn it into a real app?",
+    "If you have a Figma design, a website template or a prototype built in Lovable, v0, Bolt or with ChatGPT (tools you can sketch an app with), I take it over and ship it to production: real code, hosting, accounts, payments."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 8
+ },
+ {
+  "name": "GIB Media",
+  "domain": "gibmedia.ro",
+  "website": "https://gibmedia.ro/",
+  "seed_lead_score": "5",
+  "seed_reason": "Builds web apps, CRM and mobile apps, but positioned as a web design agency centered on turnkey websites and online shops (since 2010).",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "c si platforme de comert electronic orientate spre vanzari. Web Development Realizam aplicatii veb personalizate si modificari pentru website-ul sau a"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Design Grafic Realizam materiale grafice si elemente de branding personalizate pentru afacerea dumneavoastra."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 8
+ },
+ {
+  "name": "DevX Digital",
+  "domain": "devx.digital",
+  "website": "https://devx.digital/",
+  "seed_lead_score": "5",
+  "seed_reason": "WordPress/WooCommerce engineering partner doing performance rescue, business-system integrations, headless WordPress and AI operations — above generic, but whol",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "echnology implementation company. Our Services How we do it Case Studies Meet Us Contact Us Start your project Our Services How we do it Case Studies"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 6,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "WooCommerce rebuild Rebuilding a legacy ecommerce store without losing the customer experience DevX replaced a fragile WooCommerce foundation with a leaner, supportable implementation while preserving the store’s familiar visual direction and critical sales flows.",
+    "Discuss a partner engagement → How we work A controlled path from diagnosis to handover Each engagement moves from evidence to a prioritized plan, controlled implementation, verification, and a documented handover.",
+    "See how we work → Request an engineering review AI as an operational extension AI that works inside your operations We connect WordPress, WooCommerce, CRM, support, analytics, and internal knowledge into controlled workflows that research, draft, report, and recommend.",
+    "Map an AI workflow → WordPress engineering for sites that are too important to be slow, fragile, or disconnected."
+   ],
+   "DQ_agency": [
+    "Read the case study → Agency engineering partnership White-label technical SEO delivery across a live WordPress and WooCommerce portfolio ClickBrainiacs owns audit and SEO strategy."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 8
+ },
+ {
+  "name": "Selectsoft",
+  "domain": "selectsoft.ro",
+  "website": "https://selectsoft.ro/",
+  "seed_lead_score": "6",
+  "seed_reason": "Romanian business-management software vendor (inventory, retail, e-Factura, SAF-T) also offering custom software development, configuration and integration.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "DQ_agency": 3
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Am primit support rapid si profesionist."
+   ],
+   "DQ_agency": [
+    "Branding & Development by INOVEO This site is protected by reCAPTCHA."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 6
+ },
+ {
+  "name": "Docodex",
+  "domain": "docodex.com",
+  "website": "https://docodex.com/en/",
+  "seed_lead_score": "6",
+  "seed_reason": "Romanian software developer building custom web/mobile apps, SaaS products, e-commerce and white-label software, though also offering SEO and paid-ads marketing",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Calculator Preț DO CODEX Servicii complete de web design & web development Solicită Ofertă Vezi Toate Serviciile Creare Site Prezentare O prezență on"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 4,
+   "DQ_agency": 16,
+   "sdlc": 3,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "from €2,990 + VAT See the service → 05 SaaS platforms MVP Multi-tenant Billing SaaS products and MVPs with onboarding, organizations, subscriptions and continuous operation.",
+    "We develop websites, stores and e-commerce platforms, web and mobile applications, SaaS products, APIs, automation and digitization solutions.",
+    "02 Applications and custom software Web applications, SaaS products, mobile and white-label development.",
+    "Next step Are you looking for a team that can build and continue your product after launch?"
+   ],
+   "DQ_agency": [
+    "from €40 + VAT / hour See the service → 08 Technical SEO Indexing Performance Audit Audit and implementation for SEO crawl, indexing, performance and migration.",
+    "from €490 + VAT See the service → 09 Google Ads Search Performance Max GA4 Configuration, tracking and management of Google Ads connected to commercial objectives.",
+    "We can continue with technical SEO, campaigns, maintenance and development.",
+    "Privacy Policy / Terms and Conditions / Delivery and service / Cancellation and refund / Cookies Blog about websites, software and digital marketing"
+   ],
+   "sdlc": [
+    "from €149 + VAT / month See the service → 14 Continuous development Backlog Sprint Roadmap Monthly capacity for features, integrations and technical roadmap.",
+    "See our projects How we work We clarify the problem before recommending the service or technology.",
+    "Selected portfolio Projects that show how we work We only show public portfolio projects, no dummy examples or unverified results."
+   ],
+   "cicd": [
+    "Find out the most common causes, what to check and how to turn your website into a real pipeline of leads."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 5
+ },
+ {
+  "name": "Neobyte Solutions",
+  "domain": "neobytesolutions.com",
+  "website": "https://www.neobytesolutions.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Web & mobile development agency (since 2001) doing custom development, startup development and its own products (custom ERP/OHS software).",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 7316,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "DQ_agency": 6,
+   "qa": 1,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "--> Custom Software Development Company - Neobyte Solutions Toggle navigation Eligibility Services Branding Custom Development Startup Development Our Own Products About Careers Social Blog Podcasts Contact Us Home Elena Coman March 7, 2025 August 13, 2026 We build products that help you scale your business.",
+    "View Case Study We do amazing Branding The marketing practice of creating a name, symbol or design that identifies and differentiates a product from other products.",
+    "| Privacy Policy --> Careers - Neobyte Solutions Toggle navigation Eligibility Services Branding Custom Development Startup Development Our Own Products About Careers Social Blog Podcasts Contact Us Careers Elena Coman April 5, 2022 April 1, 2025 Ready to build your career?",
+    "| Privacy Policy --> Blog Archives - Neobyte Solutions Toggle navigation Eligibility Services Branding Custom Development Startup Development Our Own Products About Careers Social Blog Podcasts Contact Us Posted by Elena Coman"
+   ],
+   "qa": [
+    "PHP Developer Click for Job Details UI/UX Designer Click for Job Details Project Manager Click for Job Details WordPress Developer Click for Job Details QA Engineer Click for Job Details JavaScript Developer Click for Job Details Ready to join our team?"
+   ],
+   "DQ_training": [
+    "September 4, 2025 July 22, 2026 Why Vibe Coding Isn’t Pointless Vibe coding is not a replacement for professional software development, but it can help people clarify ideas, create early prototypes, validate concepts, and communicate more effectively with developers.",
+    "With a career of 20 years in IT I can proudly say that I combine IT with Life & Leadership coaching so that our business and own projects can thrive."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 4
+ },
+ {
+  "name": "CodinBit",
+  "domain": "codinbit.com",
+  "website": "https://www.codinbit.com/",
+  "seed_lead_score": "6",
+  "seed_reason": "Web and software development company with a define/design/develop process, though it also positions around branding and design services.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Web Development - Web Design Company | CodinBit Services Video Review Clients About us Con"
+  },
+  "jd": {
+   "jd_chars": 3573,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "DQ_agency": 5,
+   "sdlc": 2,
+   "owns_product": 1,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "We are a full-service web development, software development, web design, and branding agency, catering to your web and software development needs.",
+    "GET IN TOUCH Capabilities Development Design Branding Support and hosting Digital strategy Audits & consulting VIEW MORE We excel at Delivering Agile & Personalized Services .",
+    "Features Web Development Web Design Cloud Services Branding Challenge .",
+    "We understood that in order to successfully reach and convert this audience, the website required a unique design, an easy-to-follow structure of content, and SEO tools."
+   ],
+   "sdlc": [
+    "GET IN TOUCH Capabilities Development Design Branding Support and hosting Digital strategy Audits & consulting VIEW MORE We excel at Delivering Agile & Personalized Services .",
+    "Our agile business model allows us to offer customized services that are meant to address and solve your every pain point, no matter how small."
+   ],
+   "owns_product": [
+    "Abude's team helped us restructure our platform to optimize our go to production flow."
+   ],
+   "DQ_training": [
+    "It focuses in particular on young people with no prior job experience by offering them online coaching sessions.",
+    "CodinBit was tasked with developing a system that would not only create a seamless experience to the youth - GetJobReady’s target audience - but would integrate parents in the equation when it came to booking coaching sessions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 3
+ },
+ {
+  "name": "Enlivy",
+  "domain": "enlivy.dev",
+  "website": "https://enlivy.dev/",
+  "seed_lead_score": "6",
+  "seed_reason": "Full-service development company building eLearning platforms, custom CRMs, mobile apps, APIs and AI features, though positioned as a WordPress/web agency with ",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": ", that will expand over the years. At the Core, Enlivy is a software development company, that is expanding to Software as a Service to scale the busi"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "DQ_agency": 5,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "It doesn't include servers, CI/CD, or the development tooling behind the scenes."
+   ],
+   "DQ_agency": [
+    "Overall Review Rating 5.0 Quality 5.0 Schedule 5.0 Cost 4.9 Willing to Refer 5.0 View Video Review Web Dev & SEO for Publishing & Media Company Thanks to S.C.",
+    "Search articles Topics All articles 50 Awards 3 Business 22 Web Development 29 Performance 13 SEO 6 Hosting 6 eLearning 3 AI 4 Start a project Ready to build something that lasts?",
+    "Andrei Business Support Keeps projects on track and communication clear, from scoping and offers to branding, content, and daily problem-solving.",
+    "Mihaela Content Marketing 10+ years in eLearning, from training modules to complex operational ecosystems."
+   ],
+   "sdlc": [
+    "How we work Whether you know exactly what you need or not, we bring clarity to the build."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/robertuniqid",
+   "https://github.com/KadarClaudiu"
+  ],
+  "_prio": 3
+ },
+ {
+  "name": "Altasoft Software Solutions SRL",
+  "domain": "altasoft-solutions.com",
+  "website": "https://altasoft-solutions.com/",
+  "seed_lead_score": "6",
+  "seed_reason": "Offers software development, Microsoft Dynamics 365 (Business Central/CRM), IT staff augmentation and cloud/AI, though bundled with web design, SEO and hosting.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "AltaSoft - Your IT Team Augmentation Partner - AltaSoft Software Solutions Skip to content Phone: +40 757 022 541 Email: info@altasoft-solutions.c"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_agency": 7,
+   "owns_product": 3,
+   "sdlc": 3
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Accelerate Innovation with Staff Augmentation Home Services IT Staff Augmentation For Global Solutions Microsoft Dynamics 365 – Business Central and CRM Webdesign Services Marketing & SEO Services That Impress Work for Altasoft Contact Us About Us X Quality, Reliable, Professional Your IT Staff Augmentation Specialist!",
+    "AltaSoft is a Romanian company that offers industry-leading software development , Microsoft Dynamics CRM and Business Central support , outsourcing , website development, SEO and IT staff augmentation services .",
+    "Read More… Marketing & SEO Having a stunning website with amazing graphics is a great way to s howcase your brand and products , but it won't guarantee that you'll get a lot of visitors.",
+    "We offer professional and affordable Marketing and SEO services that can boost your online presence and visibility."
+   ],
+   "owns_product": [
+    "A website that showcases your products or services in an appealing way?",
+    "Create a launch strategy that emphasizes the value of your product.",
+    "Offer analytical dashboards to demonstrate how customers interact with your product."
+   ],
+   "sdlc": [
+    "Click Here And Let's Discuss Your Project How we work The AltaSoft Process Invent We invent through imagination, exploration, and relentless innovation.",
+    "Using our agile process to build your solution.",
+    "Look into outsourcing countries Select your future software outsourcer Sign a contract and get the development process started Let's Talk Today and Discuss How We Can Complete Your Project On Time and within Budget How We Work Why AltaSoft?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 3
+ }
+]

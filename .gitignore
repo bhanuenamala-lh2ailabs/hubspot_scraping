@@ -1,0 +1,59 @@
+# =====================================================================
+# Secrets / credentials — NEVER commit
+# =====================================================================
+.env
+.env.local
+*.env
+client_secret_*.json
+gmail_oauth_client.json
+gmail_token.json
+sheets_token.json
+lh2-pipeline-*.json
+google_service_account.json
+*service_account*.json
+credentials*.json
+*.json.bak
+
+# =====================================================================
+# lh2-pipeline's own former standalone repo — kept locally, not tracked here
+# =====================================================================
+lh2-pipeline/.git-standalone-repo-backup/
+lh2-pipeline/.venv/
+lh2-pipeline/.pytest_cache/
+
+# =====================================================================
+# Python cruft
+# =====================================================================
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# =====================================================================
+# Regenerable HubSpot mirror + databases
+# =====================================================================
+crm_mirror/data/*.json
+crm_mirror/data/index/
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+
+# =====================================================================
+# Large / regenerable raw scrape outputs inside godown/ — the scripts
+# that produce them stay tracked, the multi-MB intermediate JSON doesn't
+# =====================================================================
+godown/**/*_raw*.json
+godown/**/*_raw*.json
+godown/**/*profiles*.json
+godown/**/*search_result*.json
+godown/**/*.pdf
+
+# =====================================================================
+# Loose CSV/XLSX at repo root only — sorted into _archive/ or reserve/
+# instead of living loose (does not apply to files inside subfolders)
+# =====================================================================
+/*.csv
+/*.xlsx
+
+# macOS
+.DS_Store

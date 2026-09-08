@@ -1,0 +1,1207 @@
+[
+ {
+  "name": "Skillmine Technology Consulting Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "skill-mine.com",
+  "website": "https://skill-mine.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 98339,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "prod_eng": 6,
+   "compliance": 2,
+   "DQ_support": 4,
+   "DQ_training": 4,
+   "senior_roles": 4,
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Agile Engineering App Development Application Maintenance & Support DevOps(OnPrem & Cloud) Robotic Process & Automation Data Analytics & Data Science Cyber Security Integrated security services combining monitoring, compliance, and proactive defense.",
+    "Flexibility Adapting to your unique needs with agile solutions."
+   ],
+   "prod_eng": [
+    "Generative & Agentic AI Custom AI/ML models AI Product Engineering Digital Twins Predictive Analytics Data Strategy, Implementation & Governance Cloud Engineering Accelerate cloud adoption through cloud engineering solutions.",
+    "Vishwa Kiran Chief Digital & Technology Officer Vishwa Kiran, Executive Vice-President is an engineer by education who holds extensive experience in product Engineering, Enterprise and large-scale solution architecture, full-cycle software development, and building innovation teams.",
+    "Talk to our Experts → 24/7 Tech Support 99.9% SLA Uptime 500+ Services Delivered Transformation Platform Engineering Security & Governance Operations FinOps Managed At Skillmine, we don’t just move you to the cloud, we empower you to rise above it."
+   ],
+   "compliance": [
+    "An enterprise compliance automation platform enabling policy workflows, evidence management and continuous audit readiness across ISO 27001, DPDP, HIPAA and GDPR frameworks.",
+    "It accelerates onboarding while standardizing business operations and eliminates manual bottlenecks in B2B orientation processes Business We Add Value To, Globally We sincerely thank Skillmine for their outstanding support in helping Mobily Digital Channels achieve the PCI DSS V4.0.1 certification."
+   ],
+   "DQ_support": [
+    "He has a broad and up-to-date knowledge of software applications, programming languages, and hardware as well as a good understanding of quality standards, legislation, and the best practices in the IT industry."
+   ],
+   "DQ_training": [
+    "He carries immense experience in planning, monitoring, and appraising job results; coaching, counselling, and disciplining employees."
+   ],
+   "senior_roles": [
+    "Vishwa Kiran Chief Digital & Technology Officer Vishwa Kiran, Executive Vice-President is an engineer by education who holds extensive experience in product Engineering, Enterprise and large-scale solution architecture, full-cycle software development, and building innovation teams."
+   ],
+   "enterprise": [
+    "He also has rich experience in establishing and managing complex commercial contracts.Anant has built his career over the last 28 years in various roles across Financial Services, Capital Markets, Insurance, and Retail sectors."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Softobiz Technologies Private Limited",
+  "city": "Mohali",
+  "domain": "softobiz.com",
+  "website": "https://softobiz.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "Custom Web and Mobile App Development | Softobiz Technologies India We're here to help your business duri"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 9465,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "sdlc": 3,
+   "cicd": 1,
+   "prod_eng": 1,
+   "pr_practice": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Explore Industries QSR Retail Technology Marketing FinTech Healthcare Automotive eCommerce The 7 Phases of the AI-Powered SDLC Software that doesn’t just launch — it learns."
+   ],
+   "sdlc": [
+    "Explore Industries QSR Retail Technology Marketing FinTech Healthcare Automotive eCommerce The 7 Phases of the AI-Powered SDLC Software that doesn’t just launch — it learns.",
+    "Collaboration Model Agile practices balanced with governance frameworks for controlled innovation.",
+    "Teams that get stronger and faster with every sprint."
+   ],
+   "cicd": [
+    "6 Deployment: Continuous, Intelligent Delivery Automate release pipelines with AI-driven scaling, rollback, and monitoring."
+   ],
+   "prod_eng": [
+    "Why Intelligent Platform Engineering Matters Not Just Need Integration, Intelligence Needs to Be Built In Traditional platforms often become monoliths — rigid, siloed, and expensive to change."
+   ],
+   "pr_practice": [
+    "Deploy with Governance & Observability We implement monitoring, version control, and security protocols so your platform stays resilient."
+   ],
+   "owns_product": [
+    "Deploy with Governance & Observability We implement monitoring, version control, and security protocols so your platform stays resilient."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "SRR CloudExpertsGuru India Private Limited",
+  "city": "Hyderabad",
+  "domain": "cloudexpertsguru.com",
+  "website": "https://cloudexpertsguru.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "exercise due diligence and recommend the best Cloud Native Software Development Strategy for our customers. We also have a dedicated delivery team sk"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1032,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 4,
+   "senior_roles": 1,
+   "compliance": 2,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Lift & Shift / Re-hosting Database Migration Hybrid Cloud Setup Legacy Modernization DevOps & CI/CD Accelerate delivery with automated pipelines and infrastructure as code.",
+    "Automated CI/CD Pipelines Containerization (Docker/K8s) Infrastructure as Code (Terraform) Site Reliability Engineering (SRE) Cyber Security & Compliance Robust frameworks to protect data and ensure industry compliance.",
+    "Data Warehousing / Data Lakes ETL & Data Pipeline Design Big Data Processing Business Intelligence (BI) Governance & FinOps Optimize costs and enforce policy guardrails across your cloud estate.",
+    "AWS Azure GCP Docker Kubernetes Terraform Python Linux Our Process From concept to deployment, we follow a rigorous methodology."
+   ],
+   "senior_roles": [
+    "Automated CI/CD Pipelines Containerization (Docker/K8s) Infrastructure as Code (Terraform) Site Reliability Engineering (SRE) Cyber Security & Compliance Robust frameworks to protect data and ensure industry compliance."
+   ],
+   "compliance": [
+    "Threat Detection & Response Identity & Access Mgmt (IAM) Compliance Audits (SOC2, HIPAA) Penetration Testing Data & Analytics Unlock insights with scalable data platforms and advanced analytics.",
+    "The predictive insights are game-changing.\" MD Madhu Director, US \"Implementing their Zero Trust security framework helped us achieve ISO 27001 compliance in record time."
+   ],
+   "sdlc": [
+    "AWS Azure GCP Docker Kubernetes Terraform Python Linux Our Process From concept to deployment, we follow a rigorous methodology."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "TCZ Digital Private Limited",
+  "city": "New Delhi",
+  "domain": "techchefz.com",
+  "website": "https://www.techchefz.digital/",
+  "already_in_hubspot": true,
+  "headcount_known": 201,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "About Us Digital Transformation Technologies Dx Suite Blogs Case Study Contact Us Career Press Enter to start Copyright by TechChefz back-arrow Scroll"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 19704,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 6,
+   "enterprise": 5,
+   "pr_practice": 1,
+   "cicd": 2,
+   "owns_product": 6,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "With roots dating back to 2017, we started as a pocket size team of enthusiasts with a goal of helping traditional businesses transform and create dynamic, digital cultures through disruptive strategies and agile deployment of innovative solutions.",
+    "But only if you align architecture, workflows, and teams correctly.\\\\nThis blog explains how to use AEM content velocity, agile workflows AEM, and AEM automation workflows to accelerate your campaigns.",
+    "Next 2017 2018 2019 2020 2021 2022 2023 2024 2025 What we do Crafting Solutions, Shaping Futures: Our Services & Engagement Models Previous Digital Strategy Digital Strategy Digital frameworks that transform the enterprise and produce a return on investment.",
+    "Platform Builds Platform Builds Designing, building and deploying scalable, agile platforms with multi-platform integrations."
+   ],
+   "enterprise": [
+    "In industries like automotive, banking, healthcare, and public services, this is not just inconvenient — it is risky.",
+    "This shift is especially powerful for industries with long, complex customer relationships — mobility, BFSI, telecom, and high-value service ecosystems.",
+    "Experiences that convert in the moment.\\u003c/li\\u003e\\\\n\\\\n\\\\n\\u003cli\\u003eAI-Augmented Content in BFSI\\\\n Customer queries in BFSI no longer follow static FAQ paths.",
+    "Case Study Explore More of Our Success Stories Introducing the world of Housing Finance & Banking Firm."
+   ],
+   "pr_practice": [
+    "Governance and Safety Built into the Data Fabric A strong data foundation also enables: audit trails traceability version control data lineage compliance guardrails This makes AI not just smarter, but accountable."
+   ],
+   "cicd": [
+    "Instead, it often amplifies fragmentation.\\\\n\\u003cbr\\u003e\\u003cbr\\u003e\\\\n You can have marketing automation firing off personalized emails, while your data pipeline still delivers last week’s metrics.\\\\nThe result?",
+    "It embeds velocity best practices, modular pipelines, and workflow templates to get you live faster with reduced risk.\\\\n\\u003cbr\\u003e\\u003cbr\\u003e\\\\nWant to learn how we’ve helped clients slash campaign time by 50–70%?"
+   ],
+   "owns_product": [
+    "Imagine a customer landing on your platform for the first time.",
+    "Every marketer wants agility; real velocity comes when marketing, creative, and engineering move in sync.\\\\n\\u003cbr\\u003e\\u003cbr\\u003e\\\\nIf your team wants to boost AEM campaign management, automation workflows, and AEM time-to-market — consider TechChefz Digital’s AEM Accelerator.",
+    "Pause Our History Our Journey of Innovation & Growth Previous Inception: Pioneering the Digital Frontier With an intense focus on digital transformation, Techchefz began its journey into the worldwide market of Europe, Australia, and Africa with an advanced car accelerator app.",
+    "Accelerating the Next Wave of Digital Transformation In 2025, TechChefz Digital launches its next-gen AEM Accelerator: designed to simplify, speed up, and scale enterprise experience delivery."
+   ],
+   "DQ_template": [
+    "It embeds velocity best practices, modular pipelines, and workflow templates to get you live faster with reduced risk.\\\\n\\u003cbr\\u003e\\u003cbr\\u003e\\\\nWant to learn how we’ve helped clients slash campaign time by 50–70%?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "TestVagrant Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "testvagrant.com",
+  "website": "https://testvagrant.com",
+  "already_in_hubspot": true,
+  "headcount_known": 114,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [
+    "https://testvagrant.zohorecruit.com/jobs/Careers"
+   ],
+   "jd_chars": 890881,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 14,
+   "pr_practice": 1,
+   "prod_eng": 3,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "qa": [
+    "Unified & low-code test automation solutions.",
+    "Read Article Product test engineering QA solutions for Digital Transformation, BI & Analytics QA, Integration Testing across Cloud and Platform, Accelerated Time to Production.",
+    "They delivered exceptional results by creating an integration test automation framework for our Flutter mobile app from the ground up.",
+    "Furthermore, it can perform refactoring to streamline complexity and generate unit tests automatically."
+   ],
+   "pr_practice": [
+    "They enable real-time code sharing, version control, and integrated communication, fostering effective teamwork and knowledge sharing."
+   ],
+   "prod_eng": [
+    "We stand as a high-performing test engineering company that thrives on three solid foundational pillars: Technology Proficiency, Engineering Excellence, and Thought Leadership.",
+    "Engineering Excellence Engineering Excellence is the second pillar, focused on delivering projects with maximum efficiency and effectiveness.",
+    "Our Identity Our commitment to the foundational pillars of Technology Proficiency, Engineering Excellence, and Thought Leadership sets us apart as a trailblazer in the field of software testing."
+   ],
+   "sdlc": [
+    "To achieve this, we define and drive QA practices, set ambitious goals, and embody the agile mindset to eliminate waste.",
+    "Our metric and data-driven approach ensures that our processes are optimized for maximum efficiency."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Think Future Technologies Private Limited",
+  "city": "Gurugram",
+  "domain": "tftus.com",
+  "website": "https://www.tftus.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 7795,
+   "signals": {
+    "testing": 2
+   },
+   "quotes": {
+    "testing": [
+     "PlayWright (Good to have) Apply Now DevOps Engineer Location:",
+     "PlayWright (Good to have) Apply Now DevOps Engineer Location:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 10,
+   "prod_eng": 2,
+   "pr_practice": 1,
+   "vcs": 1,
+   "enterprise": 2,
+   "sdlc": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Custom Software, QA & AI Engineering",
+    "Solutions We Offer Productivity AutomationTwin - RPA QA Machine Learning Visit website SimplifyPath Empowering Your Digital Workforce for Effortless Efficiency SimplifyPath is a revolutionary enterprise solution that streamlines your workforce’s daily tasks.",
+    "Client Testimonials Josef We use TFT in India primarily as a partner of our about QA, Testing & Development.",
+    "Deep Learning Apply Now QA Automation Engineer Location: Remote Experience: 2+ Years Skills Required: Automation"
+   ],
+   "prod_eng": [
+    "We offer a wide range of services, from top engineering talent to end-to-end product engineering.",
+    "Product Companies Our expertise spans product engineering, design, development, and testing, ensuring the delivery of high-quality, scalable, and user-centric products."
+   ],
+   "pr_practice": [
+    "Git Streamline workflow with efficient, reliable version control using Git."
+   ],
+   "vcs": [
+    "Git Streamline workflow with efficient, reliable version control using Git."
+   ],
+   "enterprise": [
+    "Who We've Served Streamlining Digital Transformation Across Industries and Businesses Industries TFT’s industry expertise spans a diverse range, including healthcare, pharmaceuticals, finance, manufacturing and many more.",
+    "OTT Automobile Pharmaceutical Utility Manufacturing Telecommunication Healthcare Defense Entertainment Fintech Logistics & Supply Chain Ad-Tech Startups Our tailored technology solutions provide the foundation for rapid growth and scalability, enabling startups to compete effectively in today's dynamic market."
+   ],
+   "sdlc": [
+    "Our Mission Our Core Values Our Process 1 Understanding Your Challenges: We delve deep into your business problems to develop tailored solutions."
+   ],
+   "senior_roles": [
+    "2 Crafting the Right Framework: Our experts design the optimal solution architecture for your specific needs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Tudip Technologies Private Limited",
+  "city": "Pune",
+  "domain": "tudip.com",
+  "website": "https://tudip.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nsformation Data Analytics IoT & Wearables Mobile & Devices Product Engineering Quality Assurance & RPA Supply Chain and Logistics Support and Mainten"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 8418,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "qa": 8,
+   "compliance": 2,
+   "sdlc": 4,
+   "cicd": 3,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Transforming Healthcare with AI-Driven Innovation Healthcare is entering a new era with AI at its core.",
+    "Learn More Industries Healthcare Tudip's AI solutions streamline patient management and appointment scheduling by automating key administrative tasks.",
+    "We also enhance billing and data security, delivering a more efficient, precise, and secure healthcare experience.",
+    "Read More AI in Healthcare: Responsible Implementation for a Better Tomorrow Like other industries, healthcare is also witnessing a surge in AI adoption."
+   ],
+   "qa": [
+    "We leverage both long term and short term engagements ...” Lucia DaCosta Cleerly “I highly recommend Tudip for their exceptional QA services.",
+    "However, navigating today’s noisy quality assurance (QA) stack often creates unexpected bottlenecks.",
+    "Therefore, we invite QA leaders, automation specialists, and engineering practitioners to join us for the Testily Virtual Lunch and Learn (powered by Tudip Digital).",
+    "Whether you have been leading QA strategies for 16 years or work as a hands on engineer looking to streamline your daily workflow, this session will deliver immediate value."
+   ],
+   "compliance": [
+    "Read More Tudip Digital Successfully Renews CMMI Maturity Level 5 Appraisal Tudip Technologies has successfully renewed its CMMI Level 5 appraisal, reaffirming its commitment to process excellence, continuous improvement, and consistent delivery quality across global operations.",
+    "Jun 05, 2026 Tudip Digital Successfully Renews CMMI Maturity Level 5 Appraisal Tudip Technologies has successfully renewed its CMMI Level 5 appraisal, reaffirming its commitment to process excellence, continuous improvement, and consistent delivery quality across global operations."
+   ],
+   "sdlc": [
+    "Improved Operational Efficiency: Identifying bottlenecks and inefficiencies in your processes and optimizing them for better performance.",
+    "Serenity Customers’ digital strategies with Tudip will always be agile and forward-looking.",
+    "What the day produced most reliably was the kind of cross-team thinking that doesn’t usually happen during a normal sprint."
+   ],
+   "cicd": [
+    "Data Engineering & Pipeline Development: Building robust and scalable data pipelines to collect, clean, transform, and prepare data for analysis.",
+    "People and Team Dynamics Learn best practices for cross functional collaboration to build smoother, stress free delivery pipelines."
+   ],
+   "DQ_training": [
+    "One team tackled testing complexity on LEIP, Tudip’s platform for assessments, learning journeys, coaching programs, and leadership insights."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "VM EDUlife Private Limited",
+  "city": "Pune",
+  "domain": "vmedulife.com",
+  "website": "https://vmedulife.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nagement Noticeboard Resources Blogs Implementation Success Case Studies Customer Success Learning & Support About About Company Our Journey Our Prese"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 5,
+   "owns_product": 1,
+   "pr_practice": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Institutions Lose Efficiency When They Depend on Too Many Separate Tools With vmedulife’s full suite of 30+ integrated modules—including Transport, Hostel, Library, Timetable, Examination, Inventory, Placement, Alumni, Communication Portal, and more—campuses get a complete digital ecosystem.",
+    "Schools, colleges, universities, and training institutes of all sizes can easily use vmedulife.",
+    "We are dedicated to transforming the way universities, colleges, schools, and training institutes manage their academic and administrative operations through a unified digital ecosystem.",
+    "Today, vmedulife empowers universities, colleges, schools, and training institutes with an integrated platform that enhances efficiency, improves decision-making, and accelerates digital transformation."
+   ],
+   "owns_product": [
+    "Evolution To continuously enhance our platform with the latest advancements in educational technology, ensuring learners and educators connect, learn, and grow in an environment."
+   ],
+   "pr_practice": [
+    "Complex Academic Regulations and Ordinances Academic Policy Management Digitized regulations with batch-wise version control and long-term policy continuity."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Xeedo Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "xeedo.in",
+  "website": "https://xeedo.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Model Services Offering Our Services Embedded Software VLSI Our Product Semiconductor Design Embedded Software Software Engineering Career Client-Base"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 7910,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "owns_product": 3,
+   "compliance": 2,
+   "qa": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Agile Methodology Lightning-fast, iterative development approach ensuring rapid delivery and continuous improvement cycles.",
+    "Testing & Quality Comprehensive QA solutions including automation frameworks, performance testing, and SDLC quality integration."
+   ],
+   "owns_product": [
+    "Quick Links About Us Our Products Why Xeedo Services Offering Business Model Useful Links Career Software Engineering Embedded Systems Semiconductor IoT Products XMC Quick Connect 📍 43, 4th Floor, SGR Plaza, Marathahalli, Bengaluru, Karnataka-560037, India ✉️ Info@xeedo.in Follow Us © 2026 Xeedo."
+   ],
+   "compliance": [
+    "CMMI Level-3 Appraisee Our commitment to quality is affirmed by our CMMI Level-3 appraisal, ensuring process improvement and customer satisfaction.",
+    "2024 Major Accreditations & Expansion Achieved NASSCOM Membership, CMMI Level 3 Appraisal, and opened a new branch in Mumbai."
+   ],
+   "qa": [
+    "Testing & Quality Comprehensive QA solutions including automation frameworks, performance testing, and SDLC quality integration."
+   ],
+   "DQ_support": [
+    "Manufacturing Support Hardware and software test jig design, device compatibility testing, and manufacturing process optimization."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Zehntech Technologies Private Limited",
+  "city": "Indore",
+  "domain": "zehntech.com",
+  "website": "https://www.zehntech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "Robotic Process Automation Telemedicine Solutions Services Web Development WordPress Development Magento Development Drupal Development Mobile Develo"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 24473,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 7,
+   "sdlc": 17,
+   "enterprise": 4,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Get Started About Us Company How We Work Partners Career Technologies Our Products Industries Step Into The Future We aim to empower enterprises by seizing technological opportunities to drive business value & outthink competitors.",
+    "Apart from our products, we started offering software development services to our clients."
+   ],
+   "sdlc": [
+    "Get Started About Us Company How We Work Partners Career Technologies Our Products Industries Step Into The Future We aim to empower enterprises by seizing technological opportunities to drive business value & outthink competitors.",
+    "We take the agile approach to development for smoother & faster deployment of projects.",
+    "Zehntech Insider Stories Get a sneak peek into how we work, learn, & have fun together at Zehntech.",
+    "Zehntech’s well-defined agile methodology of operating aims at turning your vision into reality efficaciously."
+   ],
+   "enterprise": [
+    "We assist companies from mostly all industries and industries to thrive, including: Healthcare Ed-Tech Event-tech Fintech Wine Hospitality E-Commerce Ed-Tech Gaming Real Estate Fitness IT Build your career with Zehntech At Zehntech, we believe people who work with us are not employees but associates.",
+    "Duration 15 Days Release date May 2024 Working Hours 80 Hours Business Challenge The healthcare provider faced significant challenges managing fragmented data across various systems, leading to inefficiencies and suboptimal patient care.",
+    "Business Solution In collaboration with the healthcare network, we developed a robust HMS leveraging Salesforce Health Cloud.",
+    "Applied Technologies Our Role in Client Success By leveraging the power of Salesforce Health Cloud, this project transformed the healthcare network’s operations."
+   ],
+   "compliance": [
+    "HIPAA-Compliant Security: The platform prioritizes data security.",
+    "HIPAA compliance ensures patient information is protected with the highest industry standards."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Cubet Techno Labs Private Limited",
+  "city": "Kochi",
+  "domain": "cubettech.com",
+  "website": "https://cubettech.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 1,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Custom Software Development Services - Cubet --> --> --> Services Application Development"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 8233,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 11,
+   "enterprise": 12,
+   "DQ_training": 1,
+   "sdlc": 3,
+   "DQ_agency": 1,
+   "cicd": 13,
+   "compliance": 3,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Digital Transformation What we do Data & AI Modernization & Integration Digital Product Engineering Engineering Partnerships Cloud Enablement Overview Solutions for companies worldwide by blending of AI & ML to drive.",
+    "Cubet is an AI innovations, digital product engineering, and consulting company that allows businesses to scale through AI, Data, DevSecOps, and Design Thinking across industries.",
+    "Cubet’s AI³ approach is the foundation of our engineering practice—bringing together Intelligence, Innovation, and Impact to apply AI across the entire product engineering lifecycle, from ideation to scale.",
+    "Cubet What we do Data & AI Modernization & Integration Digital Product Engineering Engineering Partnerships Cloud Enablement Overview Solutions for companies worldwide by blending of AI & ML to drive."
+   ],
+   "enterprise": [
+    "BFSI Next-gen financial platforms ensuring security, scalability, and customer trust.",
+    "Healthcare BFSI Edtech / eLearning Enterprise Products and SaaS Retail Hospitality Healthcare We aim to make healthcare more accessible and digitally advanced, with a clear focus on better patient outcomes.",
+    "From custom software and EMR systems to AI-integrated approaches, we support healthcare providers with smart, scalable solutions.",
+    "It shows how conversational intelligence can move beyond pilots to become a dependable part of daily operations in healthcare and elderly care environments."
+   ],
+   "DQ_training": [
+    "Let's Connect https://cubet-website-storage-live.s3.us-west-2.amazonaws.com/406x265_v2_d79d0c7760.jpg ok The Industry Is Overstating AI as a Replacement for People A candid conversation with Lovegin John on #CubetRedefined."
+   ],
+   "sdlc": [
+    "Testimonials & Success Stories Agile, Insightful, Cost-Conscious Cubet is our trusted partner, providing fast agile development and ongoing support for our BMJ platforms.",
+    "Tommy Jonsson , CTO, ByteMotion Testimonials & Success Stories Agile, Insightful, Cost-Conscious Cubet is our trusted partner, providing fast agile development and ongoing support for our BMJ platforms.",
+    "Talk to our team How We Work?"
+   ],
+   "DQ_agency": [
+    "Nidhin , SEO Analyst 15 unforgettable years at Cubet – a journey that touched my heart and soul."
+   ],
+   "cicd": [
+    "ETL and ELT Pipeline Development Build strong, fault-tolerant data pipelines to ingest, transform, and deliver structured & unstructured data across applications & services.",
+    "We build with proven frameworks to deliver secure, fast, and future-ready solutions FRONTEND Responsive, data-ready frontends enabling seamless interaction with complex pipelines, analytics, and insights systems.",
+    "How do you ensure pipeline reliability and scalability?",
+    "We design pipelines with monitoring, retries, and fault-tolerance built in."
+   ],
+   "compliance": [
+    "Secure Data Access and Governance Establish secure, role-based access controls and implement governance policies to ensure compliance with standards such as GDPR, HIPAA, and SOC 2.",
+    "Compliance evidence gaps: Frameworks such as ISO 27001 require organisations to demonstrate a current, attributed, and criticality-scored asset inventory.",
+    "Audit-ready records without rework: Because required fields, ownership attribution, and criticality ratings are embedded in the creation workflow, organisations facing ISO 27001 assessments or Cyber Essentials certifications can produce evidence directly from the system."
+   ],
+   "senior_roles": [
+    "“Choosing Cubet was the turning point in our project.” Tech lead, Jendamark \"Working with Cubet felt like adding an extension to our core team.\" CTO, SNO \"They understood our goals better than we did.\" CEO, Trust Cyprus Hear from our clients about their experience!"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Data Xgen Technologies Private Limited",
+  "city": "Jaipur",
+  "domain": "xgenplus.com",
+  "website": "https://www.xgenplus.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ata Migration, User Training, System Integration and Custom Application Development. Security and Compliance Last updated on February 9th, 2016 at 07:"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 34764,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "vcs": 1,
+   "enterprise": 3,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "vcs": [
+    "Video is server-managed at /videos/ (not in git/dist, like the installer); poster is in the repo."
+   ],
+   "enterprise": [
+    "AI Compose & smart replies Priority inbox & auto-tagging Security built for regulators The email backbone trusted by BFSI, government and healthcare — because compliance was never optional for them.",
+    "A Control-by-Control Reality Check Email is the top attack vector for Indian BFSI — and RBI, CERT-In and the DPDP Act all expect controls around it.",
+    "5 Questions a Regulated Indian Bank Should Ask First For a regulated Indian bank, the email decision isn’t about features — it’s data residency, jurisdiction and control."
+   ],
+   "compliance": [
+    "Enterprise-Grade Security & Compliance Encrypted email with DLP and HIPAA-aligned controls (BAA available on request)."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Dayforce India Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "ceridian.com",
+  "website": "https://www.dayforce.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "ID-19 Central for the latest updates. Right now, preparing your workforce is the smartest decision you’ll make The world has changed, and it's going t"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 9521,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 6,
+   "owns_product": 3,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "It completely challenges the notion that in a two-week payroll cycle you have to spend eleven days gathering inputs and three days sprinting to completion.",
+    "What used to take hours, maybe even days, now takes minutes and seconds.” Vinny Johar Global Head of Reward Operations What We Offer Unlock agile workforce management Cut down your operating costs and make more efficient labor decisions.",
+    "Stay agile with the tools you need to adapt to change.",
+    "Agile to the core No more custom programming."
+   ],
+   "owns_product": [
+    "With AI-powered innovation and a seamless end-to-end experience, our platform helps organizations around the globe manage millions of employees every day, from recruiting and onboarding to payroll to career development and beyond.",
+    "See Absence Management Pave the path to a more productive workforce Pave the path to a more productive workforce Don’t let your productivity be compromised when unforeseen challenges arise.",
+    "Privacy by design We embed privacy-by-design principles into our product lifecycle and are committed to handling our clients’ data responsibly and in accordance with GDPR and CCPA requirements."
+   ],
+   "compliance": [
+    "Privacy by design We embed privacy-by-design principles into our product lifecycle and are committed to handling our clients’ data responsibly and in accordance with GDPR and CCPA requirements.",
+    "Enterprise-grade governance We comply with industry-standard frameworks, including SSAE18 Type II SOC1, SOC2, and ISO standards for security, privacy, vendor management, and more."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "iPrime Services Private Limited",
+  "city": "Ludhiana",
+  "domain": "iprimeserv.com",
+  "website": "https://iprimeserv.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ery News & Events Services School Administration Enterprise Application Development Web App Development Mobile App Development Cloud Strategy and Deve"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 68963,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "owns_product": 4,
+   "compliance": 2,
+   "qa": 1,
+   "sdlc": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Read More Read More Banks & Insurance Cyber Attacks have become almost inescapable as new incidents are reported Read More Read More Education By simplifying cross-campus collaboration, making every system resilient, and ....",
+    "Read More Read More Aviation Enterprise Banks & Insurance Education Digital Solutions for Aviation Compliance and Crisis Management We provide aviation-specific technologies that automate inspection operations, assist crisis exercises, and simplify ICAO and FAA compliance.",
+    "Crisis-Ready Solutions for Financial Services We offer comprehensive platforms for cybersecurity management, incident response, and emergency communication to banks and insurance providers.",
+    "Banks and Insurace Crisis-Ready Solutions for Financial Services We offer comprehensive platforms for cybersecurity management, incident response, and emergency communication to banks and insurance providers."
+   ],
+   "owns_product": [
+    "Our platform guarantees that airports adhere to stringent regulatory standards while being completely equipped to handle operational emergencies.",
+    "Our platform facilitates efficient campus collaboration by bringing teams together and breaking down organizational silos."
+   ],
+   "compliance": [
+    "Cyber response management with CERT compliance and ISO 27001 mapping."
+   ],
+   "qa": [
+    "As iPrime’s Managing Director, he has assembled a team with expertise in mobile app development, QA engineering, no-code platforms, and agile product delivery."
+   ],
+   "sdlc": [
+    "As iPrime’s Managing Director, he has assembled a team with expertise in mobile app development, QA engineering, no-code platforms, and agile product delivery.",
+    "This new digital business integrated command centre would conceive and launch disruptive products that will redefine the organisation across the full ecosystem , adopting agile practices and new technology to build a new generation of mission critical business applications.",
+    "The risk assessment programs needed to be flexible, agile, and rapidly deployable at scale."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Litmus7 Systems Consulting Private Limited",
+  "city": "Ernakulam",
+  "domain": "litmus7.com",
+  "website": "https://www.litmus7.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 1201,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "pr_practice": 1,
+   "enterprise": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "pr_practice": [
+    "Even holding a phone by themselves, they're operating inside a thick web of influence: algorithmic feeds, family group chats, creator recommendations, peer reviews, community wisdom, AI assistants."
+   ],
+   "enterprise": [
+    "She needs a paediatrician, a daycare, a savings plan, a stroller, an insurance policy, a community of other new parents, a meal-planning service, and a pharmacy that understands what babies actually get sick from."
+   ],
+   "owns_product": [
+    "Do our products and services listen and respond, or do they sit and wait to be found?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Press Ganey Associates India Private Limited",
+  "city": "Thiruvananthapuram",
+  "domain": "binaryfountain.com",
+  "website": "https://www.pressganey.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 294,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "rs Leadership Resources COVID-19 Resources Webinars E-books Case Studies Blog News Coverage Schedule a Demo Platform Overview Deep Analytics Review Ma"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 17417,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 48,
+   "sdlc": 1,
+   "owns_product": 1,
+   "pr_practice": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Transform Your Healthcare Experience",
+    "Built on the deepest healthcare data & expertise.",
+    "Experts who know your world Our unparalleled healthcare expertise gives you unmatched data, technology, and guidance to know what’s happening now, what could happen next, and what to do about it.",
+    "Our healthcare experts work with our engineers to build AI-powered solutions that put data, insights, and action plans in everyone’s hands."
+   ],
+   "sdlc": [
+    "Our values How we work and show up for each other, every day."
+   ],
+   "owns_product": [
+    "Prior to joining Press Ganey, Darren served as Chief Information Officer at Cedars-Sinai Health System, where he also led Cedars-Sinai Health Ventures and founded the Cedars-Sinai Accelerator."
+   ],
+   "pr_practice": [
+    "He helps clients run peer reviews and get to the bottom of why things go wrong when they do."
+   ],
+   "senior_roles": [
+    "Get started Partners at the ready Meet our team of industry experts and tech leaders."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Safe Software and Integrated Solutions Private Limited",
+  "city": "Palakkad",
+  "domain": "safenetin.net",
+  "website": "https://safenetin.net/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ocess Automation Business Intelligence Website Developement iOS/Mobile App Developement Cloud System (AWS & Azure) IT Auditing & ISO Auditing IT Infra"
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 112959,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 26,
+   "compliance": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Offering Seemless Banking Experience SAFE'ly chained with BLOCKCHAIN Explore our digitally secured products and services with BLOCKCHAIN TECH Read more TO THE METAVERSE.",
+    "Read more About Us Safe Software And Integrated Solutions Pvt Ltd made its initial presence 2 decades ago, when computerized banking support system was just a pipedream.",
+    "Grown into an ISO 9001:2015, ISO 27001 certified company, we have been instrumental in supporting more than 850 enterprise clients around the globe.",
+    "“We are happy to inform you that Safe Software and Integrated Solutions Pvt Ltd India has successfully implemented their core banking and delivery channel systems in our Bank."
+   ],
+   "compliance": [
+    "Grown into an ISO 9001:2015, ISO 27001 certified company, we have been instrumental in supporting more than 850 enterprise clients around the globe."
+   ],
+   "owns_product": [
+    "We Offer Our product line consists of banking and non-banking products."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Secuodsoft Technologies Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "secuodsoft.com",
+  "website": "https://www.secuodsoft.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Computing Big Data Analytics Robotic Process Automation --> Case Study Video Conferencing Platform E-Commerce Platform Employee Management E-Learning"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "sdlc": 3,
+   "compliance": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Custom Software Development Scalable & secure solutions Tailored for your business Optimized performance Cloud Integration AWS & Azure ready Seamless migration Secure architecture Know More Our Products Transforming Ideas into Scalable Solutions.",
+    "Our platform simplifies the way you create, manage, and send bulk emails, all through a clean, user-friendly interface."
+   ],
+   "sdlc": [
+    "03 --> Web App Development Robust, scalable, and user-centric web solutions tailored to your business goals using modern frameworks and agile methodologies.",
+    "Agile & Scalable Architecture We build with flexibility in mind — allowing your applications to grow and evolve with your business.",
+    "Our process follows agile and secure development methodologies — from requirement gathering and UI/UX design to development, testing, deployment, and ongoing support."
+   ],
+   "compliance": [
+    "Yes, Secuodsoft is a CMMI Level 3 certified company, demonstrating our commitment to quality processes, continuous improvement, and delivering reliable, secure IT services.",
+    "About Secuodsoft, a CMMI Level 3 Appraised IT services company, delivers secure, scalable, and innovative solutions in software development, AI, cloud, blockchain, and enterprise IT to drive digital transformation worldwide."
+   ],
+   "enterprise": [
+    "We serve a wide range of industries including healthcare, education, e-commerce, government, fintech, and logistic, delivering tailored digital solutions for each sector."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 4
+ },
+ {
+  "name": "Spherical-Lab Innovation Private Limited",
+  "city": "Rourkela",
+  "domain": "sphericallab.com",
+  "website": "https://sphericallab.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2025-02-07",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "vcs": 2,
+   "cicd": 3,
+   "enterprise": 2,
+   "prod_eng": 1,
+   "sdlc": 1,
+   "pr_practice": 1
+  },
+  "site_quotes": {
+   "vcs": [
+    "React Next.js TypeScript Node.js Django Python MongoDB PostgreSQL AI / ML React Native Figma VS Code Docker GitHub Actions Jira Linux AWS Google Cloud Elastic Keycloak Spherical Lab Experience AI in Action Engage directly with our cognitive technologies through interactive demonstrations.",
+    "Github Code hosting for version control and collaboration."
+   ],
+   "cicd": [
+    "React Next.js TypeScript Node.js Django Python MongoDB PostgreSQL AI / ML React Native Figma VS Code Docker GitHub Actions Jira Linux AWS Google Cloud Elastic Keycloak Spherical Lab Experience AI in Action Engage directly with our cognitive technologies through interactive demonstrations.",
+    "Jenkins Automated CI/CD pipelines for DevOps.",
+    "Docker Containerization platform for building apps."
+   ],
+   "enterprise": [
+    "Industry Expertise Innovating Healthcare with Advanced Technology Leverage our innovative services to enhance patient care and streamline operations.",
+    "He has contributed to complex, high-stakes transformation programmes for leading Fortune 500 organisations, including Wells Fargo, Comcast, Expedia, Duke Energy, eBay, and Johnson & Johnson ."
+   ],
+   "prod_eng": [
+    "About Spherical Lab Intelligence Engineered for Meaningful Transformation Spherical Lab is an AI research and product engineering company building intelligent, scalable, and future-ready digital ecosystems."
+   ],
+   "sdlc": [
+    "Jira Agile project management & issue tracking."
+   ],
+   "pr_practice": [
+    "Github Code hosting for version control and collaboration."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 4
+ },
+ {
+  "name": "Taction Software Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "tactionsoftware.com",
+  "website": "https://tactionsoftware.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Taction: Enterprise Software Solutions Simplified Taction Software +91-7827150289 +1 302-219-0001 info@taction"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 20646,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 10,
+   "sdlc": 8,
+   "owns_product": 5,
+   "DQ_template": 1,
+   "cicd": 2,
+   "qa": 1,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Custom Software Development, CRM & Healthcare IT Solutions -- End of the comment --> Skip to content info@tactionsoftware.com +91-7827150289 Facebook Instagram X-twitter Linkedin About Taction Engagement Models Services Project in Mind?",
+    "Custom Software Development Innovative, Scalable & Secure Custom Software Solutions for Every Business Need…… Healthcare Software Solutions Healthcare IT is one of Taction Software’s deepest and most specialized domains.",
+    "With deep expertise in custom software development, mobile and web applications, and healthcare technology , we deliver secure, high-performance solutions tailored to your business needs.",
+    "Healthcare Retail Manufacturing Education Travel Telecom Finance Real Estate Entertainment IT Business View All How we work How We Deliver Innovation and Excellence 01 Requirement Analysis We begin by understanding your business objectives, challenges, and technical needs."
+   ],
+   "sdlc": [
+    "Custom Software Development, CRM & Healthcare IT Solutions -- End of the comment --> Skip to content info@tactionsoftware.com +91-7827150289 Facebook Instagram X-twitter Linkedin About Taction Engagement Models Services Project in Mind?",
+    "Healthcare Retail Manufacturing Education Travel Telecom Finance Real Estate Entertainment IT Business View All How we work How We Deliver Innovation and Excellence 01 Requirement Analysis We begin by understanding your business objectives, challenges, and technical needs.",
+    "Join Taction Software -- End of the comment --> Skip to content info@tactionsoftware.com +91-7827150289 Facebook Instagram X-twitter Linkedin About Taction Engagement Models Services Project in Mind?",
+    "Taction Software -- End of the comment --> Skip to content info@tactionsoftware.com +91-7827150289 Facebook Instagram X-twitter Linkedin About Taction Engagement Models Services Project in Mind?"
+   ],
+   "owns_product": [
+    "03 UI/UX Design We design intuitive and user-friendly interfaces that enhance user experience, ensuring your product is visually appealing, easy to use, and aligned with your brand.",
+    "Maintainable Code Clean architecture, documented code, and modular design that evolves with your product.",
+    "01 Performance & Scalability Requirements We evaluate your expected user load, concurrency requirements, real-time data needs, and growth projections — then select technologies that can handle your current scale and grow cost-effectively as your product succeeds.",
+    "Every technology in our stack has been delivered successfully in multiple production projects, ensuring your product benefits from real-world engineering experience, not learning-on-the-job risk."
+   ],
+   "DQ_template": [
+    "Read More April 18, 2026 Mobile App Custom App Development vs Ready-Made Solutions: Which Is Better?"
+   ],
+   "cicd": [
+    "It could be a specific software solution or documentation related to a particular company… Read More September 21, 2023 Blog What a Sales Pipeline is and How to Build One?",
+    "– Definition A sales pipeline is a structured and visual representation of a sales prospect stages before purchasing."
+   ],
+   "qa": [
+    "However, to flourish and thrive in a business, you… Read More June 17, 2019 Blog Unit Testing With PHPUnit Testing Even a small project on development may have complex logic."
+   ],
+   "compliance": [
+    "Healthcare Information System HIPAA-compliant software with seamless EHR/EMR, HL7, and FHIR integration.",
+    "04 Security & Compliance Suitability 05 For regulated industries — healthcare (HIPAA), finance (PCI DSS), government — we evaluate each technology’s security posture, compliance tooling, and audit trail capabilities before recommending it."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ }
+]

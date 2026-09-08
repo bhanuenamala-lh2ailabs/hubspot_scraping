@@ -1,0 +1,68 @@
+[
+ {
+  "name": "Nerve Cells AI Private Limited",
+  "domain": "nervecells.ai",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [],
+  "pre2024_basis": "Wayback 2023-06-01 advertises Solidity/Angular/Node/React blockchain build work; site blog byline dated 18 May 2023 corroborates. Full +25.",
+  "evidence": [
+   "Wayback 2023-06: Solidity, Angular, Node, React stack advertised (tier_gold_evidence)",
+   "Site blog post dated 18 May 2023 on ES6 (site_quotes)",
+   "Sole CI/CD hit is blockchain-audit marketing blob naming Jenkins (jd.quotes)",
+   "Careers openings: Business Development Executive, Digital Marketing Intern (site_quotes)"
+  ],
+  "why_this_rank": "Pre-2024 software work is solid, but no engineering JD exists: the careers page advertises only sales and marketing roles, and the single CI/CD hit is a garbled blockchain-audit sales blob (CertiK, Hacken, Jenkins), not a description of how their engineers work. Withheld Tier B on that quote. Their GitHub mention scores zero by design. Tier C withheld for want of Tier A/B corroboration despite real owned products (RC Remote V1) and a product-engineering line. DQ_support and DQ_template flags are classifier false positives (embedded/firmware copy, a blog post) and were not treated as caps.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Sinnonteq IT Consulting LLP",
+  "domain": "sinnonteq.com",
+  "score": 60,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 35,
+  "tier_c_points": 0,
+  "raw_before_caps": 60,
+  "caps_applied": [],
+  "pre2024_basis": "Wayback 2022-06-01 already sells mobile app, website and e-commerce development. Genuine software-work wording, not course/BPO copy. Full +25.",
+  "evidence": [
+   "JD: 'Exposure to CI/CD pipelines and version control (Git)' (jd.quotes)",
+   "JD: QA tools Selenium, Playwright, Cypress, TestRail, Postman (jd.quotes)",
+   "Wayback 2022-06: mobile app, website, e-commerce development (tier_gold_evidence)",
+   "Site bundles DevOps with digital marketing in one service list (site_quotes)"
+  ],
+  "why_this_rank": "Tier B only: the JD names Git and CI/CD but no private-repo host and no review gate, so Tier A stays at zero and confidence cannot be Verified. The QA +10 rests on separate JD evidence (automation tooling), not on the same sentence. Considered and withheld the cap-at-30 generalist-agency signature: 'digital marketing' appears once at the tail of a list where six of seven lines are engineering (AI, custom apps, data, cloud, DevOps, cybersecurity), with no SEO/PPC service page in the bundle. Applying it would have forced 60 to 30.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Indigrators Solutions Private Limited",
+  "domain": "indigrators.com",
+  "score": 55,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 35,
+  "tier_c_points": 10,
+  "raw_before_caps": 55,
+  "caps_applied": [],
+  "pre2024_basis": "Classifier said PROVEN but the 2022-06-01 quote is support/operations nav ('Global Customer Support', 'We Run Your Operations'), not software wording. Downgraded to +10; firm plainly existed pre-2024 ('since 2006'), so no cap-45.",
+  "evidence": [
+   "JD: 'Strong experience with Git, CI/CD, and TDD/BDD practices' (jd.quotes)",
+   "JD: 'Solid knowledge of CI/CD tools such as Git, CircleCI' (jd.quotes)",
+   "Wayback 2022-06 quote is support nav, not software work (tier_gold_evidence)",
+   "About: 'comprehensive IT support and consulting' since 2006 (site_quotes)"
+  ],
+  "why_this_rank": "Downgraded Tier GOLD from PROVEN to +10 because the pre-2024 snapshot quote is support and operations nav copy. The 196k-char JD corpus is the real asset, but the cicd and vcs_generic hits are the same sentences, so I paid the +25 careers line once and withheld the +15 substantive-DevOps line rather than count one quote twice; no review gate or private-repo host is quoted anywhere, so Tier A is zero. Considered and withheld the cap-at-20 BPO/managed-support disqualifier: support and 'We Run Your Operations' are a stated line, but the volume of genuine engineering hiring (React, Git, TDD/BDD, DevOps, QA automation) says software is not incidental. Treat that cap as the main downside risk. Not a captive/GCC arm: it builds offshore teams for others rather than being one. Owned-product signals refer to the client's product and were not credited.",
+  "graded_by": "agent"
+ }
+]

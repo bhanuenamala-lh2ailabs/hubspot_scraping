@@ -1,0 +1,4874 @@
+[
+ {
+  "company": "Being",
+  "deal_id": "339972543177",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "being.app",
+  "deal_linkedin": "https://www.linkedin.com/in/gandhivarun",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Being",
+    "createdate": "2026-08-03T10:20:48.764Z",
+    "email": "varun@1thing.design",
+    "firstname": "Varun",
+    "hs_object_id": "530319837931",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T17:46:12.986Z",
+    "lastname": "Gandhi",
+    "linkedin_url": "https://www.linkedin.com/in/gandhivarun",
+    "mobilephone": "+919811755272",
+    "phone": "+919811755272",
+    "contact_id": "530319837931"
+   }
+  ]
+ },
+ {
+  "company": "InstaSolv",
+  "deal_id": "340112187104",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "instasolv.com",
+  "deal_linkedin": "https://www.linkedin.com/in/nishant-sinha-011b863",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "InstaSolv",
+    "createdate": "2026-08-03T10:20:58.706Z",
+    "email": "nishant.sinha@askiitians.com",
+    "firstname": "Nishant",
+    "hs_object_id": "530385695447",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T18:49:20.404Z",
+    "lastname": "Sinha",
+    "linkedin_url": "https://www.linkedin.com/in/nishant-sinha-011b863",
+    "mobilephone": "+919810263006",
+    "phone": "+919810263006",
+    "contact_id": "530385695447"
+   }
+  ]
+ },
+ {
+  "company": "Logipe",
+  "deal_id": "340188269294",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "logipe.com",
+  "deal_linkedin": "https://www.linkedin.com/in/mrutyunjay-hiremath-294a6836",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:48.459Z",
+    "email": "m.hiremath@tmu.in.ua",
+    "firstname": "Mrutyunjay",
+    "hs_object_id": "522283068117",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:09:24.124Z",
+    "lastname": "Hiremath",
+    "linkedin_url": "https://www.linkedin.com/in/mrutyunjay-hiremath-294a6836",
+    "mobilephone": "+919999895179",
+    "phone": "+919999895179",
+    "contact_id": "522283068117"
+   }
+  ]
+ },
+ {
+  "company": "Rulezero",
+  "deal_id": "340136734432",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "rulezero.com",
+  "deal_linkedin": "https://www.linkedin.com/in/satish-mugulavalli-1834b12",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-17T07:28:18.210Z",
+    "email": "satish.mugulavalli@rulezero.com",
+    "firstname": "Satish",
+    "hs_object_id": "520830684864",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:18:48.090Z",
+    "lastname": "Mugulavalli",
+    "linkedin_url": "https://www.linkedin.com/in/satish-mugulavalli-1834b12",
+    "mobilephone": "+919845070241",
+    "phone": "+919845070241",
+    "contact_id": "520830684864"
+   }
+  ]
+ },
+ {
+  "company": "MEDdelivery",
+  "deal_id": "340168563414",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "meddelivery.in",
+  "deal_linkedin": "https://linkedin.com/in/aasthadusad",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:51.915Z",
+    "email": "rahul@meddelivery.in",
+    "firstname": "Aastha",
+    "hs_object_id": "522183573222",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:18:55.175Z",
+    "lastname": "Dusad; Co-Founder; SS Jain Subodh PG College Jaipur 2014 & 2017\n Rohit Bafna; Founder and CFO; Meddelivery, ex-Sanwariya Buildcon, The Institute of Chartered Accountants of India\n Rahul Gautam; Co-Founder; rahul@meddelivery.in; Ex-Cognistx, Metacube Software, STIR UP, Codescape Consultants. University Maharaja's College Jaipur 2008",
+    "linkedin_url": "https://linkedin.com/in/aasthadusad,\n https://linkedin.com/in/rohit-bafna,\n https://linkedin.com/in/rahulgautam4u",
+    "mobilephone": "+919772599597",
+    "phone": "+919772599597",
+    "contact_id": "522183573222"
+   }
+  ]
+ },
+ {
+  "company": "YNOS",
+  "deal_id": "340168680141",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "ynos.in",
+  "deal_linkedin": "https://www.linkedin.com/in/thillai-rajan-37547b/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:00.941Z",
+    "email": "thillai@ynos.in",
+    "firstname": "Thillai",
+    "hs_object_id": "522307019488",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:41:11.317Z",
+    "lastname": "Rajan; Co-Founder & Chairman; thillai@ynos.in; University Of The Fraser Valley, ex-Doordarshan Kendra, ex-Centre For Research On Start Ups And Risk Financing, Nanyang Technological University, 2019\n Chaitanya Chinni; Co-Founder & CTO; chaitanya@ynos.in; Ex-CREST, FoodStreet.in, Computational Imaging Lab. Indian Institute of Technology, Madras Dual Degree (DD) Programme (B.Tech and M.Tech), Electrical Engineering 2018\n Ramesh Kuruva; Co-Founder; ramesh@ynos.in; Ex-Lions Club International. Rayalaseema University BCom 2012, Andhra University MCom 2014, IIT Madras PhD 2023\n Pradeep Kumar Venkataramu; Co-Founder & Exec Vice President; pradeep@ynos.in; Ex-Hewlett Packard Enterprise, HP Global e-Business Services, Fidelity Business Services India, GENPACT. UVCE BE 1989, Central College, Bangalore MBA 1995, IIM Bangalore 2003\n Sangeetha Viswanathan; Co-Founder; Co-Founder-YNOS,Acron Aviation | Ex-Microsoft,L3Harris Technologies,alfaTKG | Anna University Chennai BTech 1999\n Muthuraman .; Co-Founder; Co-Founder-YNOS",
+    "linkedin_url": "https://www.linkedin.com/in/thillai-rajan-37547b/,\n https://www.linkedin.com/in/chinnichaitanya/,\n https://linkedin.com/in/ramesh-kuruva-doms-iitmadras,\n https://linkedin.com/in/pradeepkv,\n https://www.linkedin.com/in/sangeetha-viswanathan/",
+    "mobilephone": "+919444926442",
+    "phone": "+919444926442",
+    "contact_id": "522307019488"
+   }
+  ]
+ },
+ {
+  "company": "Voxelgrids",
+  "deal_id": "339991874277",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "voxelgrids.com",
+  "deal_linkedin": "https://linkedin.com/in/arjun-arunachalam-6524029",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:02.567Z",
+    "email": "arjun@voxelgrids.com",
+    "firstname": "Arjun",
+    "hs_object_id": "522163546854",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:19:26.037Z",
+    "lastname": "Arunachalam; Founder & CEO; arjun@voxelgrids.com; Founder & CEO-Voxelgrids Innovations | University of Wisconsin-Madison PhD 2006",
+    "linkedin_url": "https://linkedin.com/in/arjun-arunachalam-6524029",
+    "mobilephone": "+918029517405",
+    "phone": "+918029517405",
+    "contact_id": "522163546854"
+   }
+  ]
+ },
+ {
+  "company": "Skilancer Solar",
+  "deal_id": "340168595155",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "skilancersolar.com",
+  "deal_linkedin": "https://linkedin.com/in/neerajk1001",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:04.457Z",
+    "email": "contact@skilancer.com",
+    "firstname": "Neeraj",
+    "hs_object_id": "522307734209",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:41:16.794Z",
+    "lastname": "Kumar; Co-Founder ; Ex-Falcon Cleantech, Voylla Fashions. Indian Institute of Technology Jodhpur 2015\n Manish Das; Co-Founder ; Ex-Snapdeal, Hilti, Godrej & Boyce. West Bengal University of Technology Kolkata BTech 2009\n Vijay Kumar Sappatti; CEO; Ex-Falcon Cleantec, Technology Frontiers, MIC Electronics, MSA. Nagpur University MBA",
+    "linkedin_url": "https://linkedin.com/in/neerajk1001,\n https://linkedin.com/in/maneish-208363126,\n https://linkedin.com/in/vijay-kumar-sappatti-a5446a6",
+    "mobilephone": "+919971045274",
+    "phone": "+919971045274",
+    "contact_id": "522307734209"
+   }
+  ]
+ },
+ {
+  "company": "Tranzmeo",
+  "deal_id": "340112224983",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "tranzmeo.com",
+  "deal_linkedin": "https://linkedin.com/in/safilsunny",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:28:03.787Z",
+    "email": "safil@tranzmeo.com",
+    "firstname": "Safil",
+    "hs_object_id": "522209744610",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:41:21.089Z",
+    "lastname": "Sunny; Founder & CEO; safil@tranzmeo.com; Ex-Microsoft, Bridge Global, WalkingAnts Technologies, IndiaOptions Softwares. Matha College of Technology BTech 2010",
+    "linkedin_url": "https://linkedin.com/in/safilsunny",
+    "mobilephone": "+919995553744",
+    "phone": "+919995553744",
+    "contact_id": "522209744610"
+   }
+  ]
+ },
+ {
+  "company": "ORAI",
+  "deal_id": "339984642760",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "orai-robotics.com",
+  "deal_linkedin": "https://linkedin.com/in/swapnil-jain-",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:10.590Z",
+    "email": "swapnil@scanova.io",
+    "firstname": "Swapnil",
+    "hs_object_id": "522225813192",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:41:25.573Z",
+    "lastname": "Jain; Co-Founder & CEO; swapnil@scanova.io; Ex-Co-Founder e2e Projects, GIES India. Devi Ahilya Vishwavidyalaya Indore MCM 2003",
+    "linkedin_url": "https://linkedin.com/in/swapnil-jain-",
+    "mobilephone": "+919739011262",
+    "phone": "+919739011262",
+    "contact_id": "522225813192"
+   }
+  ]
+ },
+ {
+  "company": "BlockSurvey",
+  "deal_id": "340188280506",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "blocksurvey.io",
+  "deal_linkedin": "https://www.linkedin.com/in/raja-ilayaperumal/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:12.410Z",
+    "email": "raja@blocksurvey.io",
+    "firstname": "Raja",
+    "hs_object_id": "522307806933",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:41:30.862Z",
+    "lastname": "Ilayaperumal; Co-Founder; raja@blocksurvey.io; Ex-Fidelity Investments, Cognizant, Bluechip Solution Pplus. Kalasalingam University BTech 2011",
+    "linkedin_url": "https://www.linkedin.com/in/raja-ilayaperumal/",
+    "mobilephone": "+919620146201",
+    "phone": "+919620146201",
+    "contact_id": "522307806933"
+   }
+  ]
+ },
+ {
+  "company": "PDRL",
+  "deal_id": "339991874296",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "pdrl.in",
+  "deal_linkedin": "https://www.linkedin.com/in/anil-chandaliya-24716a48/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:21.072Z",
+    "email": "anil.chandaliya@pdrl.in",
+    "firstname": "Anil",
+    "hs_object_id": "522301973188",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:41:35.384Z",
+    "lastname": "Chandaliya; Founder & CEO; anil.chandaliya@pdrl.in; Founder & CEO-PDRL | Ex-ESDS Software Solution,Persistent Systems",
+    "linkedin_url": "https://www.linkedin.com/in/anil-chandaliya-24716a48/",
+    "mobilephone": "+918129861885",
+    "phone": "+918129861885",
+    "contact_id": "522301973188"
+   }
+  ]
+ },
+ {
+  "company": "Arficus",
+  "deal_id": "340104716014",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "arficus.com",
+  "deal_linkedin": "https://linkedin.com/in/sinhasandy",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:04.456Z",
+    "email": "admin@arficus.com",
+    "firstname": "Sandeep",
+    "hs_object_id": "522307732209",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:41:41.985Z",
+    "lastname": "Sinha; Co-Founder",
+    "linkedin_url": "https://linkedin.com/in/sinhasandy",
+    "mobilephone": "+917828168199",
+    "phone": "+917828168199",
+    "contact_id": "522307732209"
+   }
+  ]
+ },
+ {
+  "company": "5C Network",
+  "deal_id": "340168666811",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "5cnetwork.com",
+  "deal_linkedin": "https://linkedin.com/in/syed-s-ahmed-06553114",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:06.084Z",
+    "email": "kalyan@5cnetwork.com",
+    "firstname": "Kalyan",
+    "hs_object_id": "522298660578",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:41:45.623Z",
+    "lastname": "Sivasailam; Co Founder & CEO; Co-Founder & CEO-5C Network | Ex-Healthizen Initiative | National Institute of Technology Karnataka BTech 2014,National Law School of India University PG\n Syed Ahmed; Co Founder & Managing Director; 5c Network, ex-Value Point Systems, ex-Mindlance India Pvt Ltd National Manager Pre Sales And Technology, Indian Institute of Science\n Kalyan Sivasailam; Co-Founder & CEO; kalyan@5cnetwork.com; Ex-Co-Founder Healthizen Initiative. NIT Karnataka BTech 2014\n Kirthiraj Yuvaraj; CTO; CTO-5C Network | Ex-Krayen,FireCompass,DIGINOC TECHNOLOGIES | Dr NGP Institute Of Technology BE 2013",
+    "linkedin_url": "https://linkedin.com/in/syed-s-ahmed-06553114,\n https://linkedin.com/in/kalyan-sivasailam-3925074a",
+    "mobilephone": "+919739911733",
+    "phone": "+919739911733",
+    "contact_id": "522298660578"
+   }
+  ]
+ },
+ {
+  "company": "NoPaperForms",
+  "deal_id": "340186445509",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "nopaperforms.com",
+  "deal_linkedin": "https://www.linkedin.com/in/suraj-sapra/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:10.590Z",
+    "email": "suraj.sapra@nopaperforms.com",
+    "firstname": "Suraj",
+    "hs_object_id": "522225812213",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:41:49.877Z",
+    "lastname": "Sapra; Co-Founder & Chief Strategy Officer; suraj.sapra@nopaperforms.com; Ex- Info Edge India, vCustomer. DAV Institute of Management Studies BCA, Indian Institute of Planning and Management PGDM",
+    "linkedin_url": "https://www.linkedin.com/in/suraj-sapra/",
+    "mobilephone": "+918717941534",
+    "phone": "+918717941534",
+    "contact_id": "522225812213"
+   }
+  ]
+ },
+ {
+  "company": "Zeliot",
+  "deal_id": "340116063974",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "zeliot.in",
+  "deal_linkedin": "https://linkedin.com/in/sugam-sharma-b484b3144",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:10.590Z",
+    "email": "sugam@zeliot.in",
+    "firstname": "Sugam",
+    "hs_object_id": "522225813194",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:41:51.914Z",
+    "lastname": "Sharma; Co-Founder & CIO; sugam@zeliot.in; Co-Founder-Zeliot | B V B College of Engg. & Technology, HUBLI BE 2017\n Anup Naik; Co-Founder & CEO; anup@zeliot.in; Co-Founder & CEO-Zeliot | Ex-Kooki,Akamai Technologies | B V B College of Engg. & Technology BE 2013\n Sudeep Nayak; Co-Founder & COO; sudeep@zeliot.in; Co-Founder & COO-Zeliot | B V B College of Engg. & Technology, HUBLI BE 2017",
+    "linkedin_url": "https://linkedin.com/in/sugam-sharma-b484b3144,\n https://linkedin.com/in/anuprnaik,\n https://linkedin.com/in/sudeep-nayak-64a519146",
+    "mobilephone": "+919738415706",
+    "phone": "+919738415706",
+    "contact_id": "522225813194"
+   }
+  ]
+ },
+ {
+  "company": "Fleetx",
+  "deal_id": "340188280523",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "fleetx.io",
+  "deal_linkedin": "https://linkedin.com/in/parveen-kataria-645a8315",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:10.591Z",
+    "email": "parveen.kataria@fleetx.io",
+    "firstname": "Parveen",
+    "hs_object_id": "522225814206",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:21:11.277Z",
+    "lastname": "Kumar Kataria; Co-Founder; parveen.kataria@fleetx.io; Ex-Ixigo, Perot Systems TSI India, Pyramid IT Consulting. Delhi University BCom 2002, Symbiosis College of Arts & Commerce MBA 2011\n Vishal Misra; Co-Founder; Fleetx, ex-Ixigo Com, Sikkim MAnipal University, 2010\n Abhay Jeet Gupta; Co-Founder; abhay@fleetx.io; Ex-Ixigo, Oracle, Huawei. NIT Durgapur BTech 2008",
+    "linkedin_url": "https://linkedin.com/in/parveen-kataria-645a8315,\n https://linkedin.com/in/vishal-misra-0b781548,\n https://linkedin.com/in/abhay-jeet-gupta-89aab316",
+    "mobilephone": "+919266683222",
+    "phone": "+919266683222",
+    "contact_id": "522225814206"
+   }
+  ]
+ },
+ {
+  "company": "Map My Crop",
+  "deal_id": "340168628953",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "mapmycrop.com",
+  "deal_linkedin": "https://linkedin.com/in/swapnil-neil-jadhav",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:24.528Z",
+    "email": "swapnil@mapmycrop.com",
+    "firstname": "Swapnil",
+    "hs_object_id": "522298535617",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:41:55.662Z",
+    "lastname": "Jadhav; Founder & CEO; swapnil@mapmycrop.com; Ex-Founder & CEO Hardcastle GIS. Maharashtra Institute of Technology BCA 2009, Symbiosis International University MSc 2011",
+    "linkedin_url": "https://linkedin.com/in/swapnil-neil-jadhav",
+    "mobilephone": "+918308842933",
+    "phone": "+918308842933",
+    "contact_id": "522298535617"
+   }
+  ]
+ },
+ {
+  "company": "CredAble",
+  "deal_id": "340168563443",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "credable.in",
+  "deal_linkedin": "https://linkedin.com/in/ram-kewalramani-87b6508",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:24.528Z",
+    "email": "ram@credable.in",
+    "firstname": "Ram",
+    "hs_object_id": "522298535628",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:41:57.989Z",
+    "lastname": "Kewalramani; Co-Founder & MD; ram@credable.in; Ex-Premier People Logistic Solutions, Centrum Capital.\n Rajiv Ramnarayan; Co-Founder; rajiv@credable.in; Co-Founder & CEO Equentia Natural Resources, ex-Doehle Danautic Logistics, Laing ORourke. Sheffield Hallam University BEng 2004\n Nirav Choksi; Co-Founder and Chief Executive Officer; nirav@credable.in; Co-Founder & CEO-Credable.in,HHC Holdings | University of Michigan BS 2000\n Satyam Agrawal; Managing Director; Ex-GlobalLinker, HSBC, Standard Chartered Bank, Mashreq Bank.",
+    "linkedin_url": "https://linkedin.com/in/ram-kewalramani-87b6508,\n https://linkedin.com/in/rajivramnarayan,\n https://linkedin.com/in/niravchoksi,\n https://www.linkedin.com/in/satyamhere/",
+    "mobilephone": "+917930082529",
+    "phone": "+917930082529",
+    "contact_id": "522298535628"
+   }
+  ]
+ },
+ {
+  "company": "Enlite Research",
+  "deal_id": "340188274387",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "enliteresearch.com",
+  "deal_linkedin": "https://linkedin.com/in/garimabharadwaj",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:26.145Z",
+    "email": "garima@enliteresearch.com",
+    "firstname": "Garima",
+    "hs_object_id": "522298281674",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:41:59.955Z",
+    "lastname": "Bharadwaj; Co-Founder & CTO; garima@enliteresearch.com; Co-Founder & CTO-Enlite | Ex-The Moms,OYO Rooms | Great Lakes Institute of Management MBA 2014\n Gaurav Bali; Co-Founder & CEO; gb@enliteresearch.com; Co-Founder & CEO-Enlite | Ex-EOS,United Breweries,Aircel",
+    "linkedin_url": "https://linkedin.com/in/garimabharadwaj,\n https://linkedin.com/in/gaurav-bali-9498b367",
+    "mobilephone": "+919176621886",
+    "phone": "+919176621886",
+    "contact_id": "522298281674"
+   }
+  ]
+ },
+ {
+  "company": "Castler",
+  "deal_id": "340168628963",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "castler.com",
+  "deal_linkedin": "https://www.linkedin.com/in/ritesh-t-47242647/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:29.765Z",
+    "email": "rt@castler.com",
+    "firstname": "Ritesh",
+    "hs_object_id": "522298609364",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:02.066Z",
+    "lastname": "Tiwari; Co-Founder & Chief Product Officer; rt@castler.com; Ex- Barclays, Visa,ParentPay. Harvard Business School Business Strategy 2019. Indian Institute of Management Raipur MBA 2024\n Kumar Amit Sinha; Co-Founder & COO; amit@castler.com; Ex-Co-Founder GIFLIF, White Walls Media, Razorpay, MobiKwik. University of Delhi BA 2003\n Dinesh Kumar; Co-Founder; Castler, ex-Magicbricks Com, ex-Treebo Hotels, Bharati Vidyapeeth, 1998\n Vineet Kumar Singh; Co-Founder & CEO; vks@castler.com; Ex-Co-Founder Buildzar.com, MobiKwik, 99acres, Xerox India. Ramjas College, Delhi University BA 1993, IPM India PGDBA 1995\n Vineet Singh; CEO; vks@castler.com; Ex-Co-Founder Buildzar.com, MobiKwik, 99acres, Xerox India. Ramjas College, Delhi University BA 1993, IPM India PGDBA 1995",
+    "linkedin_url": "https://www.linkedin.com/in/ritesh-t-47242647/,\n https://www.linkedin.com/in/kumar-amit-b5a8691a/,\n https://linkedin.com/in/indin,\n https://linkedin.com/in/vksingh,\n https://linkedin.com/in/vksingh",
+    "mobilephone": "+919167969755",
+    "phone": "+919167969755",
+    "contact_id": "522298609364"
+   }
+  ]
+ },
+ {
+  "company": "Shubu.ai",
+  "deal_id": "340116063988",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "shubu.ai",
+  "deal_linkedin": "https://linkedin.com/in/anujmokashi",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:46.663Z",
+    "email": "krishan@addinnovations.in",
+    "firstname": "Ajay",
+    "hs_object_id": "522285938420",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:21:40.453Z",
+    "lastname": "Kumar Dani; founder; krishan@addinnovations.in\n Anuj Mokashi Mokashi; Co-Founder & COO\n Vinay Vivek Phadnis; Co-Founder & CTO",
+    "linkedin_url": "https://linkedin.com/in/anujmokashi,\n https://linkedin.com/in/vinayphadnis",
+    "mobilephone": "+919830134316",
+    "phone": "+919830134316",
+    "contact_id": "522285938420"
+   }
+  ]
+ },
+ {
+  "company": "Mojocare",
+  "deal_id": "340186445521",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "mojocare.com",
+  "deal_linkedin": "https://www.linkedin.com/in/ashwinswaminathan/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-17T07:28:18.210Z",
+    "email": "care@mojocare.com",
+    "firstname": "Rajat",
+    "hs_object_id": "520830683871",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:06.350Z",
+    "lastname": "Gupta; Co-Founder\n Ashwin Swaminathan; Co-Founder; Mojocare, ex-Pixis, ex-Railofy, Indian Institute of Technology (Banaras Hindu University), Varanasi, 2016",
+    "linkedin_url": "https://www.linkedin.com/in/ashwinswaminathan/",
+    "mobilephone": "+918765846877",
+    "phone": "+918765846877",
+    "contact_id": "520830683871"
+   }
+  ]
+ },
+ {
+  "company": "Logibricks",
+  "deal_id": "340095196861",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "logibricks.com",
+  "deal_linkedin": "https://www.linkedin.com/in/shereef-mohammed-673377116/?originalSubdomain=in",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:51.915Z",
+    "email": "sales@logibricks.in",
+    "firstname": "Shereef",
+    "hs_object_id": "522183572212",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:21:51.697Z",
+    "lastname": "Mohammed; Co-Founder; Ex-FarmLink, Norfishco, Innoterra. University of Nottingham BS 2015, SP Jain School of Global Management MS 2016\n Ameya Shah; Co-Founder; Ankekshan Consulting, ex-Asian Paints, Reliance, B K Khare. Brihan Maharashtra College of Commerce 2008, ICAI CA 2010\n Chandni Priya; Co-Founder; Co-Founder Reflexion AI, Sciffer Analytics, Yes Bank.\n Karan Kabra; Co-Founder; Co-Founder Reflexion AI, ex-Co-Founder Sciffer Analytics, RSG Media Systems, Syngenta. Institute Of Chemical Technology BTech 2007, IIM Ahmedabad MBA 2012",
+    "linkedin_url": "https://www.linkedin.com/in/shereef-mohammed-673377116/?originalSubdomain=in,\n http://linkedin.com/in/ameya-shah-28491220,\n https://linkedin.com/in/chandni-priya-8143772a,\n https://linkedin.com/in/karankabra",
+    "mobilephone": "+917888117803",
+    "phone": "+917888117803",
+    "contact_id": "522183572212"
+   }
+  ]
+ },
+ {
+  "company": "LoanSimple",
+  "deal_id": "340112225984",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "loansimple.in",
+  "deal_linkedin": "https://www.linkedin.com/in/sannychaudhary/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:51.915Z",
+    "email": "sanny@loansimple.in",
+    "firstname": "Sanny",
+    "hs_object_id": "522183573237",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:22:00.742Z",
+    "lastname": "Chaudhary; Co-Founder; sanny@loansimple.in; Co-Founder LoanSimple, ex-Co-Founder Cook Gourmet, Knowlarity Communications, Bank of America Continuum India. IIT Delhi BTech 2008",
+    "linkedin_url": "https://www.linkedin.com/in/sannychaudhary/",
+    "mobilephone": "+919871713175",
+    "phone": "+919871713175",
+    "contact_id": "522183573237"
+   }
+  ]
+ },
+ {
+  "company": "Intoglo",
+  "deal_id": "340188274392",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "intoglo.com",
+  "deal_linkedin": "https://linkedin.com/in/ankuragarwal2k",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:55.322Z",
+    "email": "ankur@intoglo.com",
+    "firstname": "Ankur",
+    "hs_object_id": "522307132103",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:10.606Z",
+    "lastname": "Agarwal; Co-Founder & CEO; ankur@intoglo.com; Co-Founder & CEO-Intoglo | Ex-Hero Lectro E-Cycles,InsuranceDekho,GirnarSoft | RV College Of Engineering BE 2004,Indian School of Business MBA 2008\n Mrigank Singh; Co-Founder & COO; mrigank@intoglo.com; Co-Founder & COO-Intoglo | Ex-AIC ISB ASSOCIATION,SenseBird,5i Technology | Thapar Institute of Engineering & Technology BE 2009,Indian School of Business MBA 2019\n Sufal Roongta; Co-Founder & CBO; sufal@intoglo.com; Co-Founder & CBO-Intoglo | Ex-CEO Whistle,Clove Dental,CarDekho | International institute of Information Technology Hyderabad BTech 2010",
+    "linkedin_url": "https://linkedin.com/in/ankuragarwal2k,\n https://www.linkedin.com/in/mrigank-singh-mg-a9176a29/,\n https://linkedin.com/in/mrigank-singh-a9176a29,\n https://linkedin.com/in/sufal-roongta-17686917",
+    "mobilephone": "+919868738804",
+    "phone": "+919868738804",
+    "contact_id": "522307132103"
+   }
+  ]
+ },
+ {
+  "company": "BLADE India",
+  "deal_id": "339984642789",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "flyblade.in",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:55.322Z",
+    "email": "customerservice@flyblade.in",
+    "firstname": null,
+    "hs_object_id": "522307132114",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:22:11.253Z",
+    "lastname": null,
+    "linkedin_url": "https://linkedin.com/company/blade-india",
+    "mobilephone": "+918001025232",
+    "phone": "+918001025232",
+    "contact_id": "522307132114"
+   }
+  ]
+ },
+ {
+  "company": "Intents Mobi",
+  "deal_id": "340188280533",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "intents.mobi",
+  "deal_linkedin": "https://linkedin.com/in/balasubramaniamintents",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:55.322Z",
+    "email": "tabrez@intents.mobi",
+    "firstname": "Balasubramaniam",
+    "hs_object_id": "522307132132",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:13.906Z",
+    "lastname": "Rangaswamy; Co-Founder; Ex-Cox and Kings India, Pluggdd Mobile OPC, CG-VAK Software & Exports. S.N.S College of Technology BE 2011\n Tabrez Alam; Co-Founder; tabrez@intents.mobi; Ex-Founder Pluggdd Mobile OPC, CPA Global, Evalueserve, Sify.",
+    "linkedin_url": "https://linkedin.com/in/balasubramaniamintents,\n http://linkedin.com/in/tabrezalam",
+    "mobilephone": "+919990011963",
+    "phone": "+919990011963",
+    "contact_id": "522307132132"
+   }
+  ]
+ },
+ {
+  "company": "Switch Mobility",
+  "deal_id": "340122888911",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "switchmobility.in",
+  "deal_linkedin": "https://www.linkedin.com/in/shravan-aiyappa-kadiamada-b8958ab9/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:57.569Z",
+    "email": "shravan@switchmobility.in",
+    "firstname": "Shravan",
+    "hs_object_id": "522298810102",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:22:22.742Z",
+    "lastname": "Aiyappa kadiamada; Co-Founder & Director; shravan@switchmobility.in; Ex - Candore Technology solutions. Sir M Visvesvaraya Institute Of Technology 2017\n Vinay Sharma; Co-Founder; sharma@switchmobility.in\n Ranjit C; Co-Founder and Director; Switch Mobility, CMR Institute Of Technology, 2018\n Dheeraj Hinduja; Chairman",
+    "linkedin_url": "https://www.linkedin.com/in/shravan-aiyappa-kadiamada-b8958ab9/,\n https://linkedin.com/in/vinay-sharma-0563a816a,\n https://linkedin.com/in/ranjit-b-c-a3981215a",
+    "mobilephone": "+919731194466",
+    "phone": "+919731194466",
+    "contact_id": "522298810102"
+   }
+  ]
+ },
+ {
+  "company": "Coreyo",
+  "deal_id": "340136735427",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "coreyo.com",
+  "deal_linkedin": "https://linkedin.com/in/vincemjose",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:57.569Z",
+    "email": "support@coreyo.com",
+    "firstname": "Vince",
+    "hs_object_id": "522298811084",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:22:29.287Z",
+    "lastname": "Madnkkakuzhy Jose; Founder; Ex-First Flight Couriers, Plus Business Machines. University of Calicut BCom 1989",
+    "linkedin_url": "https://linkedin.com/in/vincemjose",
+    "mobilephone": "+918069098909",
+    "phone": "+918069098909",
+    "contact_id": "522298811084"
+   }
+  ]
+ },
+ {
+  "company": "Udbhata",
+  "deal_id": "340168656603",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "udbhata.com",
+  "deal_linkedin": "https://linkedin.com/in/anandsampath",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:57.569Z",
+    "email": "anand.sampath@udbhata.com",
+    "firstname": "Anand",
+    "hs_object_id": "522298811101",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:18.995Z",
+    "lastname": "Sampath; Founder and Chief Executive Officer; anand.sampath@udbhata.com; Udbhata Technologies, ex-Business Continuity Institute, ex-Dr Reddys Laboratories, The Chartered Institute of Management Accountants, 2006",
+    "linkedin_url": "https://linkedin.com/in/anandsampath",
+    "mobilephone": "+919741552552",
+    "phone": "+919741552552",
+    "contact_id": "522298811101"
+   }
+  ]
+ },
+ {
+  "company": "Localwell",
+  "deal_id": "340188274397",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "localwell.in",
+  "deal_linkedin": "https://www.linkedin.com/in/anutosh-chaudhuri/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:57.569Z",
+    "email": "chirag@localwell.in",
+    "firstname": "Anutosh",
+    "hs_object_id": "522298811117",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:21.236Z",
+    "lastname": "Chaudhuri; Co-Founder; Localwell, ex-Zs, ex-Swing Httpsgetswing, IIT - Kharagpur, 2016\n Chirag Agarwal; Founder & CEO; chirag@localwell.in",
+    "linkedin_url": "https://www.linkedin.com/in/anutosh-chaudhuri/",
+    "mobilephone": "+918806213966",
+    "phone": "+918806213966",
+    "contact_id": "522298811117"
+   }
+  ]
+ },
+ {
+  "company": "90+ My Tuition App",
+  "deal_id": "340168644314",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "mytuitionapp.com",
+  "deal_linkedin": "https://linkedin.com/in/vingish-k-vijyan-55596429",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:59.263Z",
+    "email": "vijaypowerdelhi@gmail.com",
+    "firstname": "Vingish",
+    "hs_object_id": "522207852262",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:23.272Z",
+    "lastname": "Vijay; Co-Founder; vijaypowerdelhi@gmail.com; Ex- swad food products, Professional Acrylic Middle East Glass & Plastic Engraving. ICFAI University MBA 2008,ESA BUSINESS SCHOOL MBA 2011",
+    "linkedin_url": "https://linkedin.com/in/vingish-k-vijyan-55596429",
+    "mobilephone": "+918157856138",
+    "phone": "+918157856138",
+    "contact_id": "522207852262"
+   }
+  ]
+ },
+ {
+  "company": "Alphaniti",
+  "deal_id": "340168682174",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "alphaniti.com",
+  "deal_linkedin": "https://linkedin.com/in/nanda-s-8b45551a6",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:02.567Z",
+    "email": "customercare@alphaniti.com",
+    "firstname": "Nanda",
+    "hs_object_id": "522163547841",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:25.349Z",
+    "lastname": "Srinivasa; Co-Founder & Director; Founder Pinetree Capital, ex-Tata AIG Life Insurance, ICICI Bank.\n Ullal Ravindra Bhat; Co-Founder & Director; Yasho Industries, Speciality Restaurants, Repro India. St Aloysius College BSc 1970, IIT Kanpur MSc 1972",
+    "linkedin_url": "https://linkedin.com/in/nanda-s-8b45551a6,\n https://linkedin.com/in/u-r-bhat-6238b44a",
+    "mobilephone": "+919156634508",
+    "phone": "+919156634508",
+    "contact_id": "522163547841"
+   }
+  ]
+ },
+ {
+  "company": "Health Basix",
+  "deal_id": "340119839426",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "healthbasix.com",
+  "deal_linkedin": "https://linkedin.com/in/dvishnu",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:02.567Z",
+    "email": "vishnu@healthbasix.com",
+    "firstname": "Vishnu",
+    "hs_object_id": "522163547849",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:27.775Z",
+    "lastname": "Prasath Devarajan; Co-Founder; vishnu@healthbasix.com; Founder SuperCluster Pi, ex-Founder & CEO Bright Bridge InfoTech, Pulse Pharmacy, Softcom.\n Ramesh Krishnan; Co-Founder; ramesh@healthbasix.com; Founder & CEO Medagg Healthcare, Medagg Ventures, ex-Everstone Group, Parkway Pantai, Fortis Healthcare, Fortis Healthcare. Annamalai University BE 1993, Indian Institute of Foreign Trade 2002, Harvard Business School 2018\n Swathy Rohit; Founder CEO; Health Basix, ex-School Basix, ex-Sri Ramakrishna Hospital, University of Virginia, 2000",
+    "linkedin_url": "https://linkedin.com/in/dvishnu,\n https://linkedin.com/in/ramesh-krishnan-522b477,\n https://linkedin.com/in/swathyrohit",
+    "mobilephone": "+919245115339",
+    "phone": "+919245115339",
+    "contact_id": "522163547849"
+   }
+  ]
+ },
+ {
+  "company": "MicroGO",
+  "deal_id": "340188274405",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "microgo.in",
+  "deal_linkedin": "http://linkedin.com/in/rachnadave",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:02.567Z",
+    "email": "rhinovirus@microgo.in",
+    "firstname": "Rachna",
+    "hs_object_id": "522163547886",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:30.108Z",
+    "lastname": "Dave; Founder; Ex-Bhabha Atomic Research Centre. Department of Biosciences, Sardar Patel University PhD 2006",
+    "linkedin_url": "http://linkedin.com/in/rachnadave",
+    "mobilephone": "+917010053867",
+    "phone": "+917010053867",
+    "contact_id": "522163547886"
+   }
+  ]
+ },
+ {
+  "company": "LoanFront",
+  "deal_id": "340119839428",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "loanfront.in",
+  "deal_linkedin": "https://linkedin.com/in/capfront-ceo",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:04.456Z",
+    "email": "gowrinath@loanfront.in",
+    "firstname": "Gowrinath",
+    "hs_object_id": "522307733178",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:32.572Z",
+    "lastname": "Raghava; Founder & CEO; gowrinath@loanfront.in; CapFront Technologies, ex-Huawei Technologies. Sri Venkateswara University MCS 2000",
+    "linkedin_url": "https://linkedin.com/in/capfront-ceo",
+    "mobilephone": "+919886675097",
+    "phone": "+919886675097",
+    "contact_id": "522307733178"
+   }
+  ]
+ },
+ {
+  "company": "Artfine",
+  "deal_id": "340068413171",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "artfine.in",
+  "deal_linkedin": "https://linkedin.com/in/shantanu-bairagi-85179b",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:04.456Z",
+    "email": "shantanu.bairagi@artfine.in",
+    "firstname": "Shantanu",
+    "hs_object_id": "522307733218",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:34.701Z",
+    "lastname": "Bairagi; Co-Founder; shantanu.bairagi@artfine.in; Ex-Abu Dhabi Commercial Bank, Kotak Mahindra Bank, ICICI Bank, NIIT. IIT Madras BTech, IIM Calcutta MBA\n Arvind Rangarajan; Co-Founder; Ex-Deutsche Bank, Barclay, Standard Chartered Bank, Indbank Merchant Banking services. University of Roorkee BE 1989, IIM Calcutta 1991\n Saini Rajgopal; Co-Founder; saini.rajgopal@artfine.in; Ex- Deutsche Bank, Citibank. R A Podar College of Commerce & Economics Matunga Mumbai 1999",
+    "linkedin_url": "https://linkedin.com/in/shantanu-bairagi-85179b,\n https://linkedin.com/in/arvind-tca-42b874159,\n https://linkedin.com/in/saini-rajgopal-0a746a13a",
+    "mobilephone": "+919833773976",
+    "phone": "+919833773976",
+    "contact_id": "522307733218"
+   }
+  ]
+ },
+ {
+  "company": "NeoDocs",
+  "deal_id": "339991875287",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "neodocs.in",
+  "deal_linkedin": "https://linkedin.com/in/pratiklodha",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:28:03.787Z",
+    "email": "pratik@neodocs.in",
+    "firstname": "Pratik",
+    "hs_object_id": "522209744571",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:36.696Z",
+    "lastname": "Lodha; Co-Founder & CTO; pratik@neodocs.in; Ex- SoundSurround, Mood Indigo, Larsen & Toubro, Runner Up. IIT Bombay BTech 2017\n Nikunj Malpani; Co-Founder & CEO; nikunj@neodocs.in; Ex- E-Cell, Future Group India. IIT Bombay BTech 2017\n Anurag Meena; Co-Founder; anurag@neodocs.in; Ex-Dynasense Technologies, Co-Founder CareMother, Trestor Infotech, NanoBios Lab, Innovation Cell. IIT Bombay 2015",
+    "linkedin_url": "https://linkedin.com/in/pratiklodha,\n https://linkedin.com/in/nikunjmalpani,\n https://linkedin.com/in/anurag-meena",
+    "mobilephone": "+919619369767",
+    "phone": "+919619369767",
+    "contact_id": "522209744571"
+   }
+  ]
+ },
+ {
+  "company": "Terra.do",
+  "deal_id": "340168682181",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "terra.do",
+  "deal_linkedin": "https://www.linkedin.com/in/mayankrjain/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:28:07.164Z",
+    "email": "anshuman.bapna@terra.do",
+    "firstname": "Mayank",
+    "hs_object_id": "522307697339",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:40.399Z",
+    "lastname": "Jain; Co-Founder & CTO; Co-Founder-Terra.do,DiaDNA AI Labs | Ex-ATISHAE WEB | IIT Bombay BTech 2000\n Anshuman Bapna; Co-Founder & CEO; anshuman.bapna@terra.do; Ex-Google. Stanford GSB, IIT Bombay",
+    "linkedin_url": "https://www.linkedin.com/in/mayankrjain/,\n http://linkedin.com/in/bapnaa",
+    "mobilephone": "+919925037646",
+    "phone": "+919925037646",
+    "contact_id": "522307697339"
+   }
+  ]
+ },
+ {
+  "company": "AggrePay",
+  "deal_id": "340134942414",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "aggrepay.in",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:28:07.165Z",
+    "email": "pgsales@aggrepay.in",
+    "firstname": null,
+    "hs_object_id": "522307698372",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:23:34.698Z",
+    "lastname": null,
+    "linkedin_url": "https://linkedin.com/company/aggrepay-payments-solutions-pvt-ltd",
+    "mobilephone": "+919819202390",
+    "phone": "+919819202390",
+    "contact_id": "522307698372"
+   }
+  ]
+ },
+ {
+  "company": "Focus Prism",
+  "deal_id": "340116064970",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "focusprism.com",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:10.591Z",
+    "email": "vinod@focusprism.com",
+    "firstname": "Vinod",
+    "hs_object_id": "522225813227",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:43.641Z",
+    "lastname": "Doraiswamy; Co-Founder & CEO; vinod@focusprism.com; Ex-Amdocs. Bangalore University 1996\n Suryanarayanan Subramanian; Managing Director; Managing Director-Focus Prism",
+    "linkedin_url": "https://linkedin.com/company/focus-prism-private-limited",
+    "mobilephone": "+917798980924",
+    "phone": "+917798980924",
+    "contact_id": "522225813227"
+   }
+  ]
+ },
+ {
+  "company": "White Oak",
+  "deal_id": "340166750937",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "whiteoakindia.com",
+  "deal_linkedin": "https://linkedin.com/in/prashant-khemka-3046b138",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:13.995Z",
+    "email": "contact@whiteoakindia.com",
+    "firstname": "Prashant",
+    "hs_object_id": "522306944700",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:45.694Z",
+    "lastname": "Khemka; Founder; Founder - White Oak Capital Partners. Vanderbilt University Master of Business Administration 1998\n Aashish P Somaiyaa; CEO; Ex-White Oak Capital Management, Motilal Oswal Asset Management, ICICI Prudential AMC. Maharashtra Institute of Technology BEng 1997, SVKM's Narsee Monjee Institute of Management Studies (NMIMS) MMS 2000",
+    "linkedin_url": "https://linkedin.com/in/prashant-khemka-3046b138,\n https://linkedin.com/in/aashishpsomaiyaa",
+    "mobilephone": "+916591704773",
+    "phone": "+916591704773",
+    "contact_id": "522306944700"
+   }
+  ]
+ },
+ {
+  "company": "FanPlay IoT",
+  "deal_id": "340166750941",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "fanplayiot.com",
+  "deal_linkedin": "https://linkedin.com/in/mohankumarr",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:19.372Z",
+    "email": "mohan@fanplayiot.com",
+    "firstname": "Mohan",
+    "hs_object_id": "522307134179",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:49.795Z",
+    "lastname": "Kumar R; Co-Founder & CEO; mohan@fanplayiot.com; Wearable Technologies AG, ex-MegaChips Corporation. BITS Pilani BE, MSc 1993, ME 1996, Imperial College London PhD 2012\n Vinay Jagtap; Co-Founder & CTO; Fanplay Iot, ex-Aptean, ex-Adobe, Birla Institute of Technology and Science, Pilani",
+    "linkedin_url": "https://linkedin.com/in/mohankumarr,\n https://linkedin.com/in/vinayjagtap",
+    "mobilephone": "+919916480232",
+    "phone": "+919916480232",
+    "contact_id": "522307134179"
+   }
+  ]
+ },
+ {
+  "company": "ShowroomB2B",
+  "deal_id": "340116064979",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "showroomb2b.com",
+  "deal_linkedin": "https://linkedin.com/in/abhishekdua1",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:24.528Z",
+    "email": "abhishek@showroomb2b.com",
+    "firstname": "Abhishek",
+    "hs_object_id": "522298533617",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:51.995Z",
+    "lastname": "Dua; Co-Founder & CEO; abhishek@showroomb2b.com; Co-Founder & CEO-Showroom B2B,Flavicon Eco Boards | Ex-Colgate Palmolive,GAIL | Thapar Institute of Engineering & Technology BE 2010,IIM Lucknow MBA 2014",
+    "linkedin_url": "https://linkedin.com/in/abhishekdua1",
+    "mobilephone": "+919140474624",
+    "phone": "+919140474624",
+    "contact_id": "522298533617"
+   }
+  ]
+ },
+ {
+  "company": "82VOLT",
+  "deal_id": "340188274413",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "82volt.com",
+  "deal_linkedin": "https://www.linkedin.com/in/balram-nair-b7ba9b2a",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-17T07:28:18.210Z",
+    "email": "balram.nair@earlyhustle.vc",
+    "firstname": "Balram",
+    "hs_object_id": "520830683888",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:24:05.646Z",
+    "lastname": "Nair",
+    "linkedin_url": "https://www.linkedin.com/in/balram-nair-b7ba9b2a",
+    "mobilephone": "+919884813292",
+    "phone": "+919884813292",
+    "contact_id": "520830683888"
+   }
+  ]
+ },
+ {
+  "company": "Density",
+  "deal_id": "340188282580",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "density.exchange",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:48.459Z",
+    "email": "support@density.exchange",
+    "firstname": null,
+    "hs_object_id": "522283068113",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:24:10.314Z",
+    "lastname": null,
+    "linkedin_url": "https://linkedin.com/company/densityexchange/about",
+    "mobilephone": "+919741067009",
+    "phone": "+919741067009",
+    "contact_id": "522283068113"
+   }
+  ]
+ },
+ {
+  "company": "WhizHack",
+  "deal_id": "340168668863",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "whizhack.com",
+  "deal_linkedin": "https://www.linkedin.com/in/kallol-sil-3166381b",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:48.459Z",
+    "email": "kallol.sil@whizhack.com",
+    "firstname": "Kallol",
+    "hs_object_id": "522283068135",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:24:16.205Z",
+    "lastname": "Sil",
+    "linkedin_url": "https://www.linkedin.com/in/kallol-sil-3166381b",
+    "mobilephone": "+919899277762",
+    "phone": "+919899277762",
+    "contact_id": "522283068135"
+   }
+  ]
+ },
+ {
+  "company": "Zorp",
+  "deal_id": "340104717014",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "zorp.one",
+  "deal_linkedin": "https://linkedin.com/in/subramanyasomayaji",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:50.178Z",
+    "email": "bala@zorp.one",
+    "firstname": "Subramanya",
+    "hs_object_id": "522207852232",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:42:59.258Z",
+    "lastname": "Somyaji; Co-Founder; Ex-Bounce, Oracle, Aris Global, Barracuda Networks. Malnad College Of Engineering BE 2002, IIM Indore MBA 2022",
+    "linkedin_url": "https://linkedin.com/in/subramanyasomayaji",
+    "mobilephone": "+919845125026",
+    "phone": "+919845125026",
+    "contact_id": "522207852232"
+   }
+  ]
+ },
+ {
+  "company": "NAKAD",
+  "deal_id": "340134942427",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "nakad.co",
+  "deal_linkedin": "https://www.linkedin.com/in/avinash-uttav-a2619647/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:53.672Z",
+    "email": "avinash@nakad.co",
+    "firstname": "Avinash",
+    "hs_object_id": "522187240135",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:01.350Z",
+    "lastname": "Uttav; Co-Founder & CTO; avinash@nakad.co; Co-Founder & CTO-NAKAD | Ex-Oracle,SAMSUNG R&D INSTITUTE INDIA | Indian Institute of Technology, Guwahati BTech 2014\n Sambhav Jain; Co-Founder & COO; Investments Team - Blume Venture | Indian Institute of Technology, Bombay | DElhi Public School, Jodhpur",
+    "linkedin_url": "https://www.linkedin.com/in/avinash-uttav-a2619647/,\n https://linkedin.com/in/sabsambhavhain,\n https://www.linkedin.com/in/sabsambhavhain/",
+    "mobilephone": "+919980411516",
+    "phone": "+919980411516",
+    "contact_id": "522187240135"
+   }
+  ]
+ },
+ {
+  "company": "Instasell",
+  "deal_id": "340168668866",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "instasell.io",
+  "deal_linkedin": "https://linkedin.com/in/abhishek-sebin",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:53.672Z",
+    "email": "info@instasell.io",
+    "firstname": "Abhishek",
+    "hs_object_id": "522187240168",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:03.633Z",
+    "lastname": "Sebin; Co-Founder; Ex-Zorbet Pro. BITS Pilani BE 2019\n Supriya Aggarwal; Co-Founder; Ex-Amazon, Apple. BITS Pilani BCS 2018",
+    "linkedin_url": "https://linkedin.com/in/abhishek-sebin,\n https://www.linkedin.com/in/supriya-aggarwal/?originalSubdomain=in",
+    "mobilephone": "+918369730293",
+    "phone": "+918369730293",
+    "contact_id": "522187240168"
+   }
+  ]
+ },
+ {
+  "company": "Hubble Money",
+  "deal_id": "340117862130",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "myhubble.money",
+  "deal_linkedin": "https://linkedin.com/in/mayankbish",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:57.569Z",
+    "email": "mayank@myhubble.money",
+    "firstname": "Mayank",
+    "hs_object_id": "522298810097",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:05.888Z",
+    "lastname": "Bishnoi; Co-Founder; mayank@myhubble.money; Ex-Mastercard Advisors, McKinsey & Company, Bank of America, Deutsche Bank. IIT Roorkee BTech 2008, ISB 2014\n Neeraj Tulsyan; Co-Founder; neeraj@myhubble.money; Ex-Clear, Ola, HSBC. IIT Kharagpur BTech 2010, Indian School of Business MBA 2014",
+    "linkedin_url": "https://linkedin.com/in/mayankbish,\n https://linkedin.com/in/neeraj-tulsyan-04421918",
+    "mobilephone": "+919167762759",
+    "phone": "+919167762759",
+    "contact_id": "522298810097"
+   }
+  ]
+ },
+ {
+  "company": "Davinta",
+  "deal_id": "340168682200",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "davintafinserv.com",
+  "deal_linkedin": "https://linkedin.com/in/raj-vattikuti-071993122",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:57.569Z",
+    "email": "raj@davintafinserv.com",
+    "firstname": "Raj",
+    "hs_object_id": "522298811072",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:24:49.639Z",
+    "lastname": "Vattikuti; Co-Founder; raj@davintafinserv.com; CEO Altimetrik, ex- Covansys, Vattikuti Foundation, Synova. College of Engineering, Guindy, Wayne State University MS\n Chandrashekhar Iyer; Chief Executive Officer; Davinta, ex-Google, ex-Chandranya Ventures, Asian Institute of Management, 2001",
+    "linkedin_url": "https://linkedin.com/in/raj-vattikuti-071993122,\n https://linkedin.com/in/chandrashekhar-iyer-3ba0715",
+    "mobilephone": "+919972624909",
+    "phone": "+919972624909",
+    "contact_id": "522298811072"
+   }
+  ]
+ },
+ {
+  "company": "TaxBuddy",
+  "deal_id": "339984643776",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "taxbuddy.com",
+  "deal_linkedin": "https://linkedin.com/in/brijmohanlavaniya",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:59.263Z",
+    "email": "brij@taxbuddy.com",
+    "firstname": "Brijmohan",
+    "hs_object_id": "522207853248",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:08.894Z",
+    "lastname": "Lavaniya; Co-Founder; brij@taxbuddy.com; Co-Founder-Taxbuddy.com | Mumbai University BCom 2016\n Samir Jayaswal; Co-Founder & CEO; samir@taxbuddy.com; Ex-Wipro Technologies, Financial Technologies, ICICI Group, Religare Group.\n Srinivas Reddy; Co-Founder & CTO; srinivas@taxbuddy.com; Ex-ISI Emerging Markets,",
+    "linkedin_url": "https://linkedin.com/in/brijmohanlavaniya,\n https://linkedin.com/in/samir-jayaswal-bb79693,\n http://linkedin.com/in/srinivasventure",
+    "mobilephone": "+918879882025",
+    "phone": "+918879882025",
+    "contact_id": "522207853248"
+   }
+  ]
+ },
+ {
+  "company": "Zimyo",
+  "deal_id": "340080251631",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "zimyo.com",
+  "deal_linkedin": "https://linkedin.com/in/kumar-mayank-b7683b50",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:00.941Z",
+    "email": "kumar.mayank@zimyo.com",
+    "firstname": "Mayank",
+    "hs_object_id": "522307019513",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:11.652Z",
+    "lastname": "Kumar; Co-Founder & CEO; kumar.mayank@zimyo.com; Ex-AuthBridge Research Services, ING Vysya Bank. Delhi University BA 2010, Indian Institute of Management, Lucknow PGDM 2013",
+    "linkedin_url": "https://linkedin.com/in/kumar-mayank-b7683b50",
+    "mobilephone": "+919005656220",
+    "phone": "+919005656220",
+    "contact_id": "522307019513"
+   }
+  ]
+ },
+ {
+  "company": "Karbon",
+  "deal_id": "340188274422",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "karboncard.com",
+  "deal_linkedin": "https://www.linkedin.com/in/pei-fu-hsieh-a214b24/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:02.567Z",
+    "email": "jack@karboncard.com",
+    "firstname": "Pei-Fu",
+    "hs_object_id": "522163547836",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:25:07.840Z",
+    "lastname": "Hsieh; Co-Founder and CEO; Karbon Business, ex-01vc, ex-Mamilove, University of California at Berkeley Haas School of Business, 2012\n Jianwei Jack Chen; Co-Founder & CTO; jack@karboncard.com; Ex-Beijing Micai. Shanghai Jiao Tong University 2005\n Kartik Jain; Co-Founder; kartik@karboncard.com; Ex- GoRupee, Dell, LimeTray, Schneider Electric. Manipal Institute of Technology BE 2011, National University of Singapore MBA 2018\n Bo Li; Co-Founder - Head of Forex Product; Karbon Business, ex-Tencent, ex-Marchex, Northwestern University\n Pei Fu Hsieh; Co-Founder & CEO; Ex-Mamilove, Groupon, Zalora, Kleiner Perkins Caufield & Byers, NJF Plastic & Lisong Garment, Lombard Investments. Chulalongkorn University BBA 2002, University of California at Berkeley Haas School of Business MBA 2012",
+    "linkedin_url": "https://www.linkedin.com/in/pei-fu-hsieh-a214b24/,\n https://linkedin.com/in/jianwei-chen-082b80109/details/experience,\n https://linkedin.com/in/kartik-jain90,\n https://linkedin.com/in/boli1285,\n https://www.linkedin.com/in/peifuhsieh/?originalSubdomain=in",
+    "mobilephone": "+918003098379",
+    "phone": "+918003098379",
+    "contact_id": "522163547836"
+   }
+  ]
+ },
+ {
+  "company": "Biva",
+  "deal_id": "340104717019",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "biva.ai",
+  "deal_linkedin": "https://linkedin.com/in/akhila-ganti-264b1116",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:28:03.788Z",
+    "email": "akhila@biva.ai",
+    "firstname": "Akhila",
+    "hs_object_id": "522209744630",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:16.314Z",
+    "lastname": "Ganti; Co-Founder; akhila@biva.ai; BITS Pilani BE 2009\n Abhiram Kolli; Co-Founder; abhiram@biva.ai; Ex-Co-Founder Saras Analytics. Osmania University BE 2009",
+    "linkedin_url": "https://linkedin.com/in/akhila-ganti-264b1116,\n https://linkedin.com/in/abhiramkolli",
+    "mobilephone": "+919538245166",
+    "phone": "+919538245166",
+    "contact_id": "522209744630"
+   }
+  ]
+ },
+ {
+  "company": "Algorithmic Biologics",
+  "deal_id": "340168657599",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "algorithmicbiologics.com",
+  "deal_linkedin": "https://linkedin.com/in/moleculewhisperer",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:08.400Z",
+    "email": "manoj@algorithmicbiologics.com",
+    "firstname": "Manoj",
+    "hs_object_id": "522298531575",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:19.315Z",
+    "lastname": "Gopalkrishnan; Founder & CEO; manoj@algorithmicbiologics.com; IIT Kharagpur BTech 2003, University of Southern California Viterbi School of Engineering PhD 2008",
+    "linkedin_url": "https://linkedin.com/in/moleculewhisperer",
+    "mobilephone": "+919004085075",
+    "phone": "+919004085075",
+    "contact_id": "522298531575"
+   }
+  ]
+ },
+ {
+  "company": "MatchLog",
+  "deal_id": "340119839470",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "matchlog.delivery",
+  "deal_linkedin": "https://linkedin.com/in/hvg14",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:08.400Z",
+    "email": "karan@matchlog.delivery",
+    "firstname": "Karan",
+    "hs_object_id": "522298533571",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:21.633Z",
+    "lastname": "Khosla; Co-Founder; karan@matchlog.delivery; Co-Founder-MatchLog\n Harsh Vardhan Gupta; Co-Founder; Matchlog Solutions, ex-Grab, ex-Stay At Vedanta, Shaheed Sukhdev College of business studies, 2012\n Laxminarayan Mohanlal Gurjar; Co-Founder; laxminarayan@matchlog.delivery; Co-Founder-MatchLog\n Abhishek Baheti; Co-Founder & CBO; abhishek@matchlog.delivery; Co-Founder-MatchLog | Ex-Founder-Ambily Technologies,Microsoft,Emerson Network Power,BPCL | IBS Hyderabad MBA 2006\n Dhruv Taneja; Co-Founder & CEO; dhruv@matchlog.delivery; Co-Founder-MatchLog,Empezar Global Marine Services | Ex-Empezar Logistics,BNP Paribas Wealth Management | University of Mumbai BCom 2002, MCom 2004, Thunderbird School of Global Management MBA 2006\n Manish Singh; Co-Founder & CPTO; manish@matchlog.delivery; Co-Founder-MatchLog | Ex-Founder-Wonderpoint,Shiplyst Systems,Co-Founder-Kudos Infomedia,Amdocs | Vivekanand Education Society's Institute Of Technology 2005",
+    "linkedin_url": "https://linkedin.com/in/hvg14,\n https://linkedin.com/in/dhruv-taneja,\n https://linkedin.com/in/manishdsingh",
+    "mobilephone": "+919212039040",
+    "phone": "+919212039040",
+    "contact_id": "522298533571"
+   }
+  ]
+ },
+ {
+  "company": "Rupyz",
+  "deal_id": "340122889926",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "rupyz.com",
+  "deal_linkedin": "https://linkedin.com/in/alok-102-singh",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:08.400Z",
+    "email": "alok@rupyz.com",
+    "firstname": "Alok",
+    "hs_object_id": "522298533579",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:24.273Z",
+    "lastname": "Kumar Singh; CTO; alok@rupyz.com; Ex-XaasTag, FDCPL, tagBin, VVDN Technologies. Punjab Technical University BTech 2012\n Pawan Kumar Jangra; Chief Engineer Frontend; pawan.kumar@rupyz.com; Ex-XaasTag, Abeer Media, Zenga Media, Simplex eSolution.\n Gourav Gupta; Co-Founder & COO; gourav@rupyz.com; Ex-Co-Founder Equialpha Wealth Advisers, Religare, Gyankriti, Mahesh C Solanki. Devi Ahilya Vishwavidyalaya BCom 2011, ICAI CA 2014\n Palash Lunia; CFO; palash.lunia@rupyz.com; Ex-ICICI Bank. ICAI CA 2015\n Akshay Gupta; Co-Founder & CBO; akshay.gupta@rupyz.com; Ex-Co-Founder Gyankriti. IIT Bombay BTech 2012\n Dhaval Radia; Founder - Rupyz.com; dhaval@rupyz.com; Rupyz, ex-Ofcredit Com, ex-Religare Finvest, ICAI, 2004",
+    "linkedin_url": "https://linkedin.com/in/alok-102-singh,\n https://linkedin.com/in/pawan-jangra-a006453a,\n https://linkedin.com/in/gourav-gupta-9075b238,\n https://linkedin.com/in/palash-lunia-12580539,\n https://linkedin.com/in/akshay-gupta-29843713,\n https://linkedin.com/in/dhavalradia",
+    "mobilephone": "+919555334105",
+    "phone": "+919555334105",
+    "contact_id": "522298533579"
+   }
+  ]
+ },
+ {
+  "company": "IppoPay",
+  "deal_id": "340122889928",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "ippopay.com",
+  "deal_linkedin": "https://linkedin.com/in/itmohans",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:28:07.164Z",
+    "email": "mohan@ippopay.com",
+    "firstname": "Mohan",
+    "hs_object_id": "522307697346",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:26.707Z",
+    "lastname": "Karuppaiah; Co-Founder & CEO; mohan@ippopay.com; Co-Founder Foloosi, ex-Founder Roamsoft Technologies. Government High School MBA.\n Jai Kumar; Co-Founder; Ex-TCS, Contus, Ethics Technologies. Bhajarang Engineering College BE 2012.",
+    "linkedin_url": "https://linkedin.com/in/itmohans,\n https://linkedin.com/in/jaikumaraxn",
+    "mobilephone": "+919500045007",
+    "phone": "+919500045007",
+    "contact_id": "522307697346"
+   }
+  ]
+ },
+ {
+  "company": "Optimized Electrotech",
+  "deal_id": "340186390218",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "optimizedelectrotech.com",
+  "deal_linkedin": "https://www.linkedin.com/in/dharin-shah-9836558/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:12.410Z",
+    "email": "dharin.shah@optimizedelectrotech.com",
+    "firstname": "Dharin",
+    "hs_object_id": "522307806928",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:29.260Z",
+    "lastname": "Shah; Co-Founder & Executive Director; dharin.shah@optimizedelectrotech.com; Co-Founder-Optimized Electrotech | Ex-MediaTek,Immensa Semiconductors | Indian Institute of Science (IISc) MTech\n Kuldeep Kumar Saxena; Co-Founder & COO; kuldeep@optimizedelectrotech.com; Co-founder & COO-Optimized Electrotech,C-INFINITE | Ex-KLA-Tencor Singapore,Liteon | IIT Delhi ME 1983\n Sandeep Shah; Co-Founder & MD; sandeep@optimizedelectrotech.com; Co-Founder & MD-Optimized Electrotech | Ex-One Click Innovations | Gujarat University BE 2001,IIM Calcutta 2004",
+    "linkedin_url": "https://www.linkedin.com/in/dharin-shah-9836558/,\n https://linkedin.com/in/kuldeepsaxena1,\n https://www.linkedin.com/in/sandeepgshah/",
+    "mobilephone": "+917929797008",
+    "phone": "+917929797008",
+    "contact_id": "522307806928"
+   }
+  ]
+ },
+ {
+  "company": "YantraLive",
+  "deal_id": "340188292824",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "yantralive.com",
+  "deal_linkedin": "https://linkedin.com/in/avinashsangurmath",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:13.995Z",
+    "email": "avinash@yantralive.com",
+    "firstname": "Avinash",
+    "hs_object_id": "522306943702",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:31.577Z",
+    "lastname": "Sangurmath; Co-Founder; avinash@yantralive.com; Dunlop Tyres, ex-JPMorgan Chase, HCL, Mindtree. University Visvesvaraya College Of Engineering BE 2000\n Vikram Joshi; Co-Founder; vikram@yantralive.com; Ex-Soroco, Accenture, iGATE Global Solutions. NIT Tiruchirappalli BE 1996\n Ajay Anand; Co-Founder & CBO; ajay@yantralive.com; Ex-DXC Technology, Infosys, EdgeVerve.\n Sumit Bhosale; Co-Founder; sumit@yantralive.com; Ex-Mygubbi, Puravankara Projects, Persistent Systems. IIM Kozhikode 2013, PICT Pune BE 2009\n Ravi Rao; Co-Founder & CEO; ravi@yantralive.com; Ex- Accenture, Smart Retail, Infosys, iGATE Global Solutions. NIT Karnataka BE 1991, IIM Bangalore 2015\n Umesh Sangurmath; Co-Founder; umesh.sangurmath@yantralive.com; Co-Founder Capstone Life, Imaginest.com, ex-Co-Founder Smart Retail, Future Lifestyle Fashions. National Institute of Technology Karnataka BE 1991",
+    "linkedin_url": "https://linkedin.com/in/avinashsangurmath,\n https://linkedin.com/in/vikram-joshi-a508aa7,\n https://linkedin.com/in/ajayanand71,\n https://linkedin.com/in/sumit-bhosale-39a82018,\n https://www.linkedin.com/in/ravianandrao/,\n https://www.linkedin.com/in/umeshsangurmath/",
+    "mobilephone": "+919880646660",
+    "phone": "+919880646660",
+    "contact_id": "522306943702"
+   }
+  ]
+ },
+ {
+  "company": "SimpliContract",
+  "deal_id": "340166751979",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "simplicontract.com",
+  "deal_linkedin": "https://linkedin.com/in/jinaraj-p-g-9234a4",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:13.995Z",
+    "email": "jinaraj@simplicontract.com",
+    "firstname": "Jinaraj",
+    "hs_object_id": "522306944714",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:34.185Z",
+    "lastname": "Patinjakkara Gopalan; Co-Founder & CTO; jinaraj@simplicontract.com; AVP, Engineering - Coforge\n Guru Venkatesan; Co-Founder & CEO; guruv@simplicontract.com; Ex- Amazon Web Services, Microsoft, Power Centre, Binary Semantics. Loyola College 1995\n Makesh Kumar; Co-Founder & CPO; makesh@simplicontract.com; Ex- Microsoft India, Cognizant Technology Solutions. Anna University BE 2010",
+    "linkedin_url": "https://linkedin.com/in/jinaraj-p-g-9234a4,\n https://linkedin.com/in/guruvenkatesan,\n https://linkedin.com/in/makeshkumarm",
+    "mobilephone": "+919342241605",
+    "phone": "+919342241605",
+    "contact_id": "522306944714"
+   }
+  ]
+ },
+ {
+  "company": "Aeroarc",
+  "deal_id": "340168623816",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "aeroarc.in",
+  "deal_linkedin": "https://linkedin.com/in/arjun-aggarwal-2105201a1",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:13.995Z",
+    "email": "arjun@aeroarc.in",
+    "firstname": "Arjun",
+    "hs_object_id": "522306944734",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:36.521Z",
+    "lastname": "Aggarwal; Founder & Managing Director; arjun@aeroarc.in; Indorama, Geek Pictures, Symphony Environmental India.",
+    "linkedin_url": "https://linkedin.com/in/arjun-aggarwal-2105201a1",
+    "mobilephone": "+919810001346",
+    "phone": "+919810001346",
+    "contact_id": "522306944734"
+   }
+  ]
+ },
+ {
+  "company": "EaseMyAI",
+  "deal_id": "340080252625",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "easemyai.com",
+  "deal_linkedin": "http://linkedin.com/in/yaman-bhardwaj-49b5609b",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:15.659Z",
+    "email": "info@easemyai.com",
+    "firstname": "Yaman",
+    "hs_object_id": "522307876554",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:40.598Z",
+    "lastname": "Bhardwaj; Co-Founder; Ease My Ai, ex-Diycam, ex-Consult I Craft, Landmark\n Gagandeeip Singh Randhawa; Co-Founder and CEO; Ex-CEO Diycam, H2C Web Services, Tulip Telecom. Nagpur University BE 2006, Balaji Institute of International Business MBA 2008",
+    "linkedin_url": "http://linkedin.com/in/yaman-bhardwaj-49b5609b,\n https://linkedin.com/in/gagandeeip-singh-randhawa-951aa44",
+    "mobilephone": "+919560583262",
+    "phone": "+919560583262",
+    "contact_id": "522307876554"
+   }
+  ]
+ },
+ {
+  "company": "Finarkein Analytics",
+  "deal_id": "340168629970",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "finarkein.com",
+  "deal_linkedin": "https://linkedin.com/in/dheerajkhardwal",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:21.072Z",
+    "email": "dheeraj@finarkein.com",
+    "firstname": "Dheeraj",
+    "hs_object_id": "522301973183",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:42.709Z",
+    "lastname": "Kumar; Co-Founder & CTO; dheeraj@finarkein.com; Ex- eQ Technologic. Savitribai Phule Pune University BE 2013\n Aakash Narendra Agrawal; Co-Founder; aakash@finarkein.com; Ex-Barclays, eQ Technologic. Vishwakarma Institute Of Technology BSc 2013, IIM Lucknow PGDM 2019\n Nikhil Shrirang Kurhe; Co-Founder & CEO; nikhil@finarkein.com; Ex- eQ Technologic. Pune Institute of Computer Technology BE 2016\n Pradip Machindra Waghmare; Co-Founder; pradip@finarkein.com; Ex-eQ Technologic. Savitribai Phule Pune University BE 2006",
+    "linkedin_url": "https://linkedin.com/in/dheerajkhardwal,\n https://linkedin.com/in/aakashnagrawal,\n https://linkedin.com/in/nikhilkurhe,\n https://linkedin.com/in/pradipwaghmare",
+    "mobilephone": "+919049487053",
+    "phone": "+919049487053",
+    "contact_id": "522301973183"
+   }
+  ]
+ },
+ {
+  "company": "HaystackAnalytics",
+  "deal_id": "340136736443",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "haystackanalytics.in",
+  "deal_linkedin": "https://linkedin.com/in/kiran-kondabagil-1a118637",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:22.780Z",
+    "email": "kiran@haystackanalytics.in",
+    "firstname": "Kiran",
+    "hs_object_id": "522301644507",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:44.752Z",
+    "lastname": "Kondabagil; Co-Founder; kiran@haystackanalytics.in; Co-Founder-HaystackAnalytics\n Anirvan Chatterjee; Co-Founder & CEO; anirvan@haystackanalytics.in; Co-Founde r& CEO-HaystackAnalytics | University of Mumbai PhD 2013\n Gaurav Jee Srivastava; Co-Founder & COO; gaurav@haystackanalytics.in; Co-Founder & COO-HaystackAnalytics | Ex-Ola Foods,Scrollback | IIT Kharagpur BTech 2005",
+    "linkedin_url": "https://linkedin.com/in/kiran-kondabagil-1a118637,\n https://linkedin.com/in/anirvan-chatterjee-56993817,\n https://www.linkedin.com/in/anirvan-chatterjee-56993817/,\n https://linkedin.com/in/gaurav-srivastav,\n https://www.linkedin.com/in/gaurav-srivastav/",
+    "mobilephone": "+919619739630",
+    "phone": "+919619739630",
+    "contact_id": "522301644507"
+   }
+  ]
+ },
+ {
+  "company": "Probus",
+  "deal_id": "339984644832",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "probus.io",
+  "deal_linkedin": "https://linkedin.com/in/sunny-kumar-jadoon-20a02028",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:22.780Z",
+    "email": "anand@probus.io",
+    "firstname": "Sunny",
+    "hs_object_id": "522301645535",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:26:18.710Z",
+    "lastname": "Kumar Jadoon; Co-Founder & Chief Production Officer; Co-Founder & Chief Production Officer Probus Smart Things | Ex-Sunny Corporation | IMSEC ENG. College 2011\n Ankit Vaish; Co-Founder & CFO; Co-Founder & CFO Probus,Sunny Corporation,Namami Agro Industries,Sumod Flour Mills | Delhi University BCom 2010\n Anand Singh; Co-Founder & CEO; anand@probus.io; Co-Founder & CEO-Probus Sense | Ex-3M India,KEI INDUSTIRES | IMS Engineering College BTech 2011",
+    "linkedin_url": "https://linkedin.com/in/sunny-kumar-jadoon-20a02028,\n https://www.linkedin.com/in/sunny-kumar-jadoon-20a02028/,\n https://linkedin.com/in/ankit-vaish-56289162,\n https://www.linkedin.com/in/ankit-vaish-56289162/,\n https://www.linkedin.com/in/anand-singh-9906bb3b/",
+    "mobilephone": "+919990465974",
+    "phone": "+919990465974",
+    "contact_id": "522301645535"
+   }
+  ]
+ },
+ {
+  "company": "Decentro",
+  "deal_id": "340188308195",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "decentro.tech",
+  "deal_linkedin": "https://linkedin.com/in/pratikdaudkhane",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:24.528Z",
+    "email": "pratik@decentro.tech",
+    "firstname": "Pratik",
+    "hs_object_id": "522298534638",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:47.641Z",
+    "lastname": "Daudkhane; Co-Founder; pratik@decentro.tech; Ex-Guild Capital, Tresvista. Sardar Patel College of Engineering (SPCE),Mumbai BE 2013\n Rohit Taneja; Co-Founder & CEO; Ex-Co-Foudner Mypoolin, First Cheque, Wibmo, Sony. Indian Institute of Technology, Delhi BTech 2012\n Seep Miglani; Director HR - People & Culture; seep.miglani@decentro.tech; Director HR - People & Culture - Decentro, Ex-Ex-Outline Systems India | Panjab University (2012)\n Rohit Melwin; Director Customer Success; rohit@decentro.tech; Ex-taSki Technologies, LaundryAnna, Tesco Bengaluru, Unilever. St Josephs college bangalore BCom 2009",
+    "linkedin_url": "https://linkedin.com/in/pratikdaudkhane,\n https://www.linkedin.com/in/pratikdaudkhane/,\n https://linkedin.com/pub/rohit-taneja/13/30b/69b,\n https://www.linkedin.com/in/rohit-taneja-69b30b13/,\n https://www.linkedin.com/in/seepmiglani/,\n https://www.linkedin.com/in/rohit-melwin-6bbbb837/",
+    "mobilephone": "+919969634150",
+    "phone": "+919969634150",
+    "contact_id": "522298534638"
+   }
+  ]
+ },
+ {
+  "company": "GrowthPal",
+  "deal_id": "340188283609",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "growthpal.com",
+  "deal_linkedin": "https://linkedin.com/in/smitruka",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:26.145Z",
+    "email": "nikhar@growthpal.com",
+    "firstname": "Shalu",
+    "hs_object_id": "522298281704",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:49.752Z",
+    "lastname": "Mitruka; Chief Business Officer and Co-Founder; Growthpal Com, ex-Villgro Innovations Foundation, ex-Various Startups, Indian Institute of Management, Lucknow, 2016\n Maneesh Bhandari; Co-Founder & CEO; Ex-Founder & CEO SENA Systems, Propeluss, Persistent Systems, Kalyan Business Services. IIT Kharagpur BTech 1991, NYU Stern School of Business MBA 2003\n Amaresh Shirsat; Co-Founder and CTO; Growthpal, ex-Tenable, ex-Accurics, Shivaji University, 1993\n Shalini Sardana; M&A Strategic Partner; Limited Partner - How Women Invest. California College of the Arts Master of Fine Arts\n Sunil Nikhar; Director & Investor; nikhar@growthpal.com; Ex-CEO Super Galaxy Sports, Blackhat Syndicus, Eumsig Foodworks, Co-Founder Manah Wellness, Pyxis Systems, Ascent Computing Group. IIT Bombay BTech 1985 & MTech 1986, IIM Ahmedabad PGDM 1989\n Naganand Doraswamy; Board Member; ndoraswamy@growthpal.com; Ex-Co-Founder SPAN Systems, TiE, PhotonEx, Digital Equipment, PSI Data Systems. UVCE BE 1987, Virginia Tech MS 1991",
+    "linkedin_url": "https://linkedin.com/in/smitruka,\n https://linkedin.com/in/mbh91,\n https://linkedin.com/in/amarshirsat,\n https://linkedin.com/in/shalinisardana,\n https://www.linkedin.com/in/shalinisardana/,\n https://linkedin.com/in/sunilnikhar,\n https://linkedin.com/in/naganand-doraswamy-1141b01",
+    "mobilephone": "+918447826281",
+    "phone": "+918447826281",
+    "contact_id": "522298281704"
+   }
+  ]
+ },
+ {
+  "company": "ShopDeck",
+  "deal_id": "340188308198",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "shopdeck.com",
+  "deal_linkedin": "https://linkedin.com/in/rishabhv07",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:21.071Z",
+    "email": "admin@blitzscale.co",
+    "firstname": "Rishabh",
+    "hs_object_id": "522301972177",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:26:35.100Z",
+    "lastname": "Verma; Co-Founder; Founder ShopDeck, ex-Founder WMall, Sequoia Capital, ClearTax India. IIT Bombay BE 2013, ME 2014\n Harmin Shah; Co-Founder; Founder ShopDeck, ex-Founder WMall, HandyHome. IIT Bombay BTech 2014",
+    "linkedin_url": "https://linkedin.com/company/shopdeck/about",
+    "mobilephone": "+919869156273",
+    "phone": "+919869156273",
+    "contact_id": "522301972177"
+   }
+  ]
+ },
+ {
+  "company": "StepChange",
+  "deal_id": "340134943451",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "stepchange.earth",
+  "deal_linkedin": "https://linkedin.com/in/jaineeankit",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:31.374Z",
+    "email": "ankit@stepchange.earth",
+    "firstname": "Ankit",
+    "hs_object_id": "522301916892",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:53.983Z",
+    "lastname": "Jain; Co-Founder & CEO; ankit@stepchange.earth; Ex-Ola, McKinsey. IIT Bombay BTech 2007, MIT Sloan School of Management MBA 2012\n Sidhant Pai; Co-Founder; sidhant@stepchange.earth; Ex-Co-Founder Social Seva Initiatives, Co-Founder The Protoprint Project. MIT Phd 2022",
+    "linkedin_url": "https://linkedin.com/in/jaineeankit,\n https://linkedin.com/pub/sidhant-pai/50/557/22b,\n https://www.linkedin.com/in/sidhant-pai-22b55750",
+    "mobilephone": "+919830414255",
+    "phone": "+919830414255",
+    "contact_id": "522301916892"
+   }
+  ]
+ },
+ {
+  "company": "Amperehour Solar Technology",
+  "deal_id": "340166752967",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "amperehourenergy.com",
+  "deal_linkedin": "https://linkedin.com/in/ayush-misra-9009017a",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:31.374Z",
+    "email": "ayush_misra@amperehourenergy.com",
+    "firstname": "Ayush",
+    "hs_object_id": "522301916915",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:53:37.885Z",
+    "lastname": "Misra; Co-Founder & CEO; ayush_misra@amperehourenergy.com; Co-Founder & CEO-Amperehour Energy | Ex-Clean Max Enviro Energy Solutions | IIT- Bombay BTech 2014\n Harshal Thakur; Co-Founder & COO; Co-Founder-Amperehour Energy | Ex-Clean Max Enviro Energy Solutions | Savitribai Phule Pune University BE 2011,Vellore Institute of Technology MTech 2014\n Rahul Shelke; Co-Founder & Managing Director; Co-Founder & Managing Director-Amperehour Energy | Ex-CleanMax Solar,ENGIE India,Lanco | Amravati University BE 2004\n Neehar Jathar; Co-Founder; neehar_jathar@amperehourenergy.com; Co-Founder-Amperehour Energy,Secugen India | Ex-WestBridge Capital India Advisors,The Boston Consulting Group | Indian Institute of Technology, Bombay BE 2014",
+    "linkedin_url": "https://linkedin.com/in/ayush-misra-9009017a,\n https://linkedin.com/in/harshal-thakur-51683652,\n https://linkedin.com/in/rahul-shelke-693aa525,\n https://linkedin.com/in/neehar-jathar-1bab32a1",
+    "mobilephone": "+918097347487",
+    "phone": "+918097347487",
+    "contact_id": "522301916915"
+   }
+  ]
+ },
+ {
+  "company": "Human Edge",
+  "deal_id": "340168623827",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "humanedge.co",
+  "deal_linkedin": "https://linkedin.com/in/docmranney",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:31.374Z",
+    "email": "contact@humanedge.co",
+    "firstname": "Marcus",
+    "hs_object_id": "522301917882",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:57.298Z",
+    "lastname": "Ranney; Founder, CEO and Chief Medical Director; Geneva College Of Longevity Science, ex-Ucl, ex-Meds For More, University College London, U. of London, 2008",
+    "linkedin_url": "https://linkedin.com/in/docmranney",
+    "mobilephone": "+919820416787",
+    "phone": "+919820416787",
+    "contact_id": "522301917882"
+   }
+  ]
+ },
+ {
+  "company": "Big Bang Boom Solutions",
+  "deal_id": "340136736455",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "bigbangboom.com",
+  "deal_linkedin": "https://www.linkedin.com/in/praveen-dwarakanath/?originalSubdomain=in",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:31.374Z",
+    "email": "praveen@bigbangboom.com",
+    "firstname": "Praveen",
+    "hs_object_id": "522301917904",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:43:59.535Z",
+    "lastname": "Dwarakanath; Co-Founder & CEO & Director; praveen@bigbangboom.com; Whitespace Alpha, ex-Accendere Knowledge Management Services, Hindustan Unilever. Indian Institute of Management, Lucknow Master of Business Administration (MBA) 2009, SRM IST Chennai Bachelor of Technology B.Tech 2007\n Krishna Milan Rao; Co-Founder; milan@bigbangboom.com; Whitespace Alpha, ex-Founder & CEO Empower Labs. Purdue University BE 2014\n Ramaswamy Shivaraman; Co-Founder & CTO & Director; Whitespace Alpha, ex-Accendere Knowledge Management Services, Hindustan Unilever, Reckitt Benckiser. SRM University BTech 2007, IIM Lucknow MBA 2009",
+    "linkedin_url": "https://www.linkedin.com/in/praveen-dwarakanath/?originalSubdomain=in,\n https://linkedin.com/in/krishnamilanrao,\n https://www.linkedin.com/in/rudranano/?originalSubdomain=in",
+    "mobilephone": "+919573674668",
+    "phone": "+919573674668",
+    "contact_id": "522301917904"
+   }
+  ]
+ },
+ {
+  "company": "Traqo",
+  "deal_id": "340188283619",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "traqo.io",
+  "deal_linkedin": "https://www.linkedin.com/in/gagan-chaturvedi-11b36512/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:33.187Z",
+    "email": "gagan.chaturvedi@traqo.in",
+    "firstname": "Gagan",
+    "hs_object_id": "522298873584",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:44:01.740Z",
+    "lastname": "Chaturvedi; Co-Founder; gagan.chaturvedi@traqo.in; Ex - Director G-Trans Logistics India, CCI Logistics. Delhi University B.Com\n Vaibhav Kumar; Co-Founder; vaibhav.kumar@traqo.io; IIT BHU Varanasi BE 2021\n Mukesh Deogune; Co-Founder & CEO; mukesh@traqo.in; Co-Founder Signo, ex-Co-Founder RYD, Robotics club IIT BHU Varanasi, InoTracks, Kashiyatra. IIT Varanasi BTech",
+    "linkedin_url": "https://www.linkedin.com/in/gagan-chaturvedi-11b36512/,\n https://www.linkedin.com/in/vaibhav-kumar-0a6794176/,\n https://linkedin.com/in/mukesh-deogune",
+    "mobilephone": "+919322215480",
+    "phone": "+919322215480",
+    "contact_id": "522298873584"
+   }
+  ]
+ },
+ {
+  "company": "Neural City",
+  "deal_id": "340119840454",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "neuralcity.in",
+  "deal_linkedin": "https://linkedin.com/in/akshaykanchan",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:33.187Z",
+    "email": "info@neuralcity.in",
+    "firstname": "Akshay",
+    "hs_object_id": "522298873588",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:44:03.807Z",
+    "lastname": "Kanchan; Co-Founder; Beam Ai, ex-Evanssion, ex-Office Of Member Of Parliament Rajya Sabha Sh Sanjay Singh, Indian Institute of Management, Kozhikode, 2020\n Shubhojeet Chakraborty; Co-Founder; Co-Founder-Neural City | BIT Mesra, Samsung\n Pritesh Dwivedi; Co-Founder; Co-Founder-Neural City, IISc Bengaluru",
+    "linkedin_url": "https://linkedin.com/in/akshaykanchan",
+    "mobilephone": "+919559107589",
+    "phone": "+919559107589",
+    "contact_id": "522298873588"
+   }
+  ]
+ },
+ {
+  "company": "Mockey",
+  "deal_id": "340119840455",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "mockey.ai",
+  "deal_linkedin": "https://linkedin.com/in/py-ag",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:34.921Z",
+    "email": "pranay.agarwal@mockey.ai",
+    "firstname": "Pranay",
+    "hs_object_id": "522189052650",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:44:06.055Z",
+    "lastname": "Agarwal; Co-Founder; pranay.agarwal@mockey.ai; Indian Institute of Information Technology Vadodara BTech 2021\n Mofid Ansari; Co-Founder; mofid.ansari@mockey.ai; Blinkstore, FOMO, Letterflix, XYZ Studio, ex- Hapramp Studio. Indian Institute of Information Technology Vadodara BTech 2018",
+    "linkedin_url": "https://linkedin.com/in/py-ag,\n http://linkedin.com/in/ansarimofid",
+    "mobilephone": "+917248131247",
+    "phone": "+917248131247",
+    "contact_id": "522189052650"
+   }
+  ]
+ },
+ {
+  "company": "Jananom",
+  "deal_id": "340080252644",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "jananom.com",
+  "deal_linkedin": "https://www.linkedin.com/in/chitra-murali-b8335464/?originalSubdomain=in",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:34.921Z",
+    "email": "chitramurali@jananom.com",
+    "firstname": "Chitra",
+    "hs_object_id": "522189053680",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:27:17.405Z",
+    "lastname": "Murali; Co-Founder; chitramurali@jananom.com; Co-Founder EliveBio. Avinashilingam Institute for Home Science and Higher Education for Women MS 1985\n Murali Panchapagesa; Co-Founder; pmmurali@jananom.com; Founder EliveBio, Golden Jubilee Biotechpark for Women, ex-ABLE, Evolva Biotech. PSG College of Arts and Science BS 1982, MS 1984, Bharathiar University DSc 2013, Madurai Kamaraj University PhD 1989",
+    "linkedin_url": "https://www.linkedin.com/in/chitra-murali-b8335464/?originalSubdomain=in,\n https://linkedin.com/in/pmm2008",
+    "mobilephone": "+919894093025",
+    "phone": "+919894093025",
+    "contact_id": "522189053680"
+   }
+  ]
+ },
+ {
+  "company": "Machint",
+  "deal_id": "340188283624",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "machint.com",
+  "deal_linkedin": "https://linkedin.com/in/kalyan-s-51a72b184",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:36.509Z",
+    "email": "kalyan@machint.com",
+    "firstname": "Kalyan",
+    "hs_object_id": "522307690196",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:44:09.439Z",
+    "lastname": "Sanakkayala; Co-Founder & COO; kalyan@machint.com; Chief Operating Officer - Machint Solutions, Ex-Co-Founder & CEO\n Rajesh Sanakkayala; Co-Founder & CEO; Co-Founder-Machint Solutions",
+    "linkedin_url": "https://linkedin.com/in/kalyan-s-51a72b184,\n https://linkedin.com/in/rajesh-sanakkayala-3214a513",
+    "mobilephone": "+919573155313",
+    "phone": "+919573155313",
+    "contact_id": "522307690196"
+   }
+  ]
+ },
+ {
+  "company": "Gigin",
+  "deal_id": "340168683207",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "gigin.ai",
+  "deal_linkedin": "https://www.linkedin.com/in/gursharan-singh-88b5ba5/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:19.372Z",
+    "email": "gs@gigin.ai",
+    "firstname": "Gursharan",
+    "hs_object_id": "522307134158",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:44:11.587Z",
+    "lastname": "Singh; Co-Founder; gs@gigin.ai; Co-Founder-Gigin.ai,AA2IT | Ex-Marlabs,In2IT Technologies | IIM Calcutta MBA 2000\n Majed Al Tassan; Co-Founder; majed.altassan@gigin.ai; Co-Founder-Gigin| Ex-Ezdihar,Saudi Kuwaiti Finance House | Prince Sultan University BBA 2010\n Surinder Bhagat; Co-Founder & CEO; Co-Founder & CEO-Gigin | Ex-Sabre,Western Digital | Dr B R Ambedkar National Institute of Technology, Jalandhar BTech 1995,University Business School, Panjab University MBA 1998\n Mahesh Kumar; Co-Founder; mahesh.kumar@gigin.ai; Co-Founder-Gigin.ai | Ex-Flipkart,Nok Nok Labs | BITS Pilani MS 2003",
+    "linkedin_url": "https://www.linkedin.com/in/gursharan-singh-88b5ba5/,\n https://www.linkedin.com/in/majed-al-tassan/,\n https://linkedin.com/in/surinder-bhagat,\n https://linkedin.com/in/maheshbg",
+    "mobilephone": "+919811205119",
+    "phone": "+919811205119",
+    "contact_id": "522307134158"
+   }
+  ]
+ },
+ {
+  "company": "Phocket",
+  "deal_id": "340166752976",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "phocket.in",
+  "deal_linkedin": "https://linkedin.com/in/piyush-jain-23a22a51",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:48.459Z",
+    "email": "piyush.jain@phocket.in",
+    "firstname": "Piyush",
+    "hs_object_id": "522283068091",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:44:13.632Z",
+    "lastname": "Jain; Co-Founder & COO; piyush.jain@phocket.in; FinVaidhyas Advisors, DRP Financial Services, ex-Flipkart. Hans Raj College Bcom 2010, ICAI CA 2011, IIFT Delhi MBA 2014",
+    "linkedin_url": "https://linkedin.com/in/piyush-jain-23a22a51",
+    "mobilephone": "+917760411621",
+    "phone": "+917760411621",
+    "contact_id": "522283068091"
+   }
+  ]
+ },
+ {
+  "company": "WealthBucket",
+  "deal_id": "340068416226",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "wealthbucket.in",
+  "deal_linkedin": "https://linkedin.com/in/himanshu-jain-0933127",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:48.459Z",
+    "email": "himanshu@wealthbucket.in",
+    "firstname": "Sunita",
+    "hs_object_id": "522283068120",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:44:15.812Z",
+    "lastname": "Jain; Founder\n Himanshu Jain; Co-Founder; himanshu@wealthbucket.in; Ex-Founder Finbucket, LegalRaasta Technologies, McKinsey, PTC Technocrafts. Shri Ram College of Commerce BCom, Indian School of Business MBA\n Varsha Jain; Founder",
+    "linkedin_url": "https://linkedin.com/in/himanshu-jain-0933127",
+    "mobilephone": "+919196192000",
+    "phone": "+919196192000",
+    "contact_id": "522283068120"
+   }
+  ]
+ },
+ {
+  "company": "Findeed",
+  "deal_id": "340095199933",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "findeed.in",
+  "deal_linkedin": "https://www.linkedin.com/in/srividhya-ramarathnam-7770042",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:48.459Z",
+    "email": "vidhyabhaskar@yahoo.com",
+    "firstname": "Srividhya",
+    "hs_object_id": "522283068128",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:27:44.566Z",
+    "lastname": "Ramarathnam",
+    "linkedin_url": "https://www.linkedin.com/in/srividhya-ramarathnam-7770042",
+    "mobilephone": "+919916242276",
+    "phone": "+919916242276",
+    "contact_id": "522283068128"
+   }
+  ]
+ },
+ {
+  "company": "KHEL GULLY",
+  "deal_id": "340116068052",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "khelgully.com",
+  "deal_linkedin": "https://www.linkedin.com/in/rajat-goyal-06852069/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:50.178Z",
+    "email": "dheeraj@khelgully.com",
+    "firstname": "Rajat",
+    "hs_object_id": "522207851255",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:44:18.729Z",
+    "lastname": "Goyal; Co-Founder; Khelgully Gaming, ex-Blackbuck, ex-Ministry Of External Affairs, IIT - Kharagpur, 2013\n Dheeraj Kumar Gaur; Co-Founder; dheeraj@khelgully.com; Ex-Hindustan Petroleum, Wiwigo, GMR Airports. IIT Kharagpur BE, IIM Tiruchirapalli MBA",
+    "linkedin_url": "https://www.linkedin.com/in/rajat-goyal-06852069/,\n https://linkedin.com/in/dheerajkumargaur",
+    "mobilephone": "+917503291508",
+    "phone": "+917503291508",
+    "contact_id": "522207851255"
+   }
+  ]
+ },
+ {
+  "company": "TimelyAI",
+  "deal_id": "340166752978",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "timelyai.com",
+  "deal_linkedin": "http://www.linkedin.com/in/ashley-griffiths-803b4368",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:57.569Z",
+    "email": "ashish@timelyai.com",
+    "firstname": "Alayzain",
+    "hs_object_id": "522298811092",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:27:54.025Z",
+    "lastname": "Rizavi; Co-Founder & CEO; Co-Founder & CEO-Stealth,Co-Founder-Cloudflare Angels Network | Ex-Ridge Ventures,Pelion Venture Partners,Cloudflare | University of Utah BS\n Ashley Griffiths; Co-Founder; Co-Founder-TimelyAI\n Ashish Verma; Co-Founder & CEO; ashish@timelyai.com; Ex-Able Jobs, WedMeGood, Burffee, Innov8 Coworking. IIT Kharagpur 2019\n Robin Chauhan; Co-Founder; robin@timelyai.com; Ex-instiinfo. IIT,Kharagpur BTech 2019",
+    "linkedin_url": "http://www.linkedin.com/in/ashley-griffiths-803b4368,\n https://linkedin.com/in/ashish-verma-8153b4b6,\n https://linkedin.com/in/robin-chauhan-2303",
+    "mobilephone": "+917379307353",
+    "phone": "+917379307353",
+    "contact_id": "522298811092"
+   }
+  ]
+ },
+ {
+  "company": "Streak Card",
+  "deal_id": "340188276433",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "streakcard.com",
+  "deal_linkedin": "https://linkedin.com/in/shivbidani",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:59.263Z",
+    "email": "shivbidani@streakcard.com",
+    "firstname": "Shiv",
+    "hs_object_id": "522207853274",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:44:22.145Z",
+    "lastname": "Bidani; Co-Founder; shivbidani@streakcard.com; Ex-PwC India, Alfa Infinity, Udacity. Vellore Institute of Technology 2018\n Mitul Mehta; Co-Founder; mitul.mehta@streakcard.com; Ex-CRED, Rapido, Box My Look. Vellore Institute of Technology 2018\n Balaji R; Co-Founder; balaji@streakcard.com; Ex-Dgraph Labs. Vellore Institute of Technology 2019",
+    "linkedin_url": "https://linkedin.com/in/shivbidani,\n http://www.linkedin.com/in/mitul-mehta-37969a141,\n https://linkedin.com/in/balaji-r-1253a395",
+    "mobilephone": "+917708150636",
+    "phone": "+917708150636",
+    "contact_id": "522207853274"
+   }
+  ]
+ },
+ {
+  "company": "InsurePays",
+  "deal_id": "340116068053",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "insurepays.com",
+  "deal_linkedin": "https://www.linkedin.com/in/ca-neha-jain-42157212b/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:00.941Z",
+    "email": "keerthi@cognitivescore.ai",
+    "firstname": "Neha",
+    "hs_object_id": "522307020494",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:44:24.195Z",
+    "lastname": "Jain; Co-Founder; Co-Founder AnyTimeLoan,ex-Daga & Co,Bashetty & Joshi.\n Keerthi Kumar Jain; Co-Founder & CEO; keerthi@cognitivescore.ai; Founder AnytimeLoan,ex-CEO Storm Overseas Education,Nagarjuna Construction Company. University of Pune BE 2000, Indian Institute of Management, Kozhikode PGCPM 2003",
+    "linkedin_url": "https://www.linkedin.com/in/ca-neha-jain-42157212b/,\n http://linkedin.com/in/jainkk",
+    "mobilephone": "+917207867645",
+    "phone": "+917207867645",
+    "contact_id": "522307020494"
+   }
+  ]
+ },
+ {
+  "company": "FreshUp",
+  "deal_id": "340119840462",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "freshup.space",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:28:07.164Z",
+    "email": "support@freshup.space",
+    "firstname": null,
+    "hs_object_id": "522307697379",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:28:10.742Z",
+    "lastname": null,
+    "linkedin_url": "https://linkedin.com/company/freshupstay",
+    "mobilephone": "+919885584484",
+    "phone": "+919885584484",
+    "contact_id": "522307697379"
+   }
+  ]
+ },
+ {
+  "company": "Homversity",
+  "deal_id": "340116068054",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "homversity.com",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:29.765Z",
+    "email": "support@homversity.com",
+    "firstname": null,
+    "hs_object_id": "522298609356",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:28:15.014Z",
+    "lastname": null,
+    "linkedin_url": "https://linkedin.com/company/homversity",
+    "mobilephone": "+916352896050",
+    "phone": "+916352896050",
+    "contact_id": "522298609356"
+   }
+  ]
+ },
+ {
+  "company": "Hirect",
+  "deal_id": "340116068056",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "hirect.in",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:46.663Z",
+    "email": "support@hirect.in",
+    "firstname": null,
+    "hs_object_id": "522285938413",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:28:20.889Z",
+    "lastname": null,
+    "linkedin_url": "https://linkedin.com/company/hirectindia/about",
+    "mobilephone": "+918446164829",
+    "phone": "+918446164829",
+    "contact_id": "522285938413"
+   }
+  ]
+ },
+ {
+  "company": "Bima Garage",
+  "deal_id": "340095199939",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "bimagarage.com",
+  "deal_linkedin": "https://linkedin.com/in/hemant-tiwari-42641a101",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-17T07:28:18.210Z",
+    "email": "sonal@bimagarage.com",
+    "firstname": "Hemant",
+    "hs_object_id": "520830684867",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:28:27.330Z",
+    "lastname": "Tiwari; Co-Founder & CDO; Design Solutions India.\n Sonal Sandesh Mishra; Co-Founder; sonal@bimagarage.com\n Vaibhavi Devang Parmar; Co-Founder; vaibhavi@bimagarage.com\n Sandesh Mishra; Co-Founder & CEO; Bima Garage, ex-Apollo Munich Health Insurance, University of Allahabad, Allahabad, 2003",
+    "linkedin_url": "https://linkedin.com/in/hemant-tiwari-42641a101,\n https://www.linkedin.com/in/sandesh-mishra-b78323113/",
+    "mobilephone": "+919824111875",
+    "phone": "+919824111875",
+    "contact_id": "520830684867"
+   }
+  ]
+ },
+ {
+  "company": "Language Curry",
+  "deal_id": "340188276435",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "languagecurry.com",
+  "deal_linkedin": "https://www.linkedin.com/in/vatsalasharma",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Language Curry",
+    "createdate": "2026-08-03T12:28:28.668Z",
+    "email": "vatsala@languagecurry.com",
+    "firstname": "Vatsala",
+    "hs_object_id": "530430368456",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T19:52:20.413Z",
+    "lastname": "Sharma",
+    "linkedin_url": "https://www.linkedin.com/in/vatsalasharma",
+    "mobilephone": "+919810055815",
+    "phone": "+919810055815",
+    "contact_id": "530430368456"
+   }
+  ]
+ },
+ {
+  "company": "56 Secure",
+  "deal_id": "340117863125",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "56secure.com",
+  "deal_linkedin": "https://www.linkedin.com/in/rajiv-subramanian-2a115130",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "56 Secure",
+    "createdate": "2026-08-03T12:28:34.977Z",
+    "email": "info@56secure.com",
+    "firstname": "Rajiv",
+    "hs_object_id": "530430442196",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:22:59.108Z",
+    "lastname": "Subramanian",
+    "linkedin_url": "https://www.linkedin.com/in/rajiv-subramanian-2a115130",
+    "mobilephone": "+919900749600",
+    "phone": "+919900749600",
+    "contact_id": "530430442196"
+   }
+  ]
+ },
+ {
+  "company": "SuperShare",
+  "deal_id": "340095199953",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "ssup.co",
+  "deal_linkedin": "https://www.linkedin.com/in/sagar-modi-06367451",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "SuperShare",
+    "createdate": "2026-08-03T12:28:40.964Z",
+    "email": "sagar@quiph.com",
+    "firstname": "Sagar",
+    "hs_object_id": "530430539511",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T19:43:57.458Z",
+    "lastname": "Modi",
+    "linkedin_url": "https://www.linkedin.com/in/sagar-modi-06367451",
+    "mobilephone": "+919820733779",
+    "phone": "+919820733779",
+    "contact_id": "530430539511"
+   }
+  ]
+ },
+ {
+  "company": "Digital Aristotle",
+  "deal_id": "340168657628",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "digitalaristotle.ai",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Digital Aristotle",
+    "createdate": "2026-08-03T12:28:46.941Z",
+    "email": "info@digitalaristotle.ai",
+    "firstname": "Digital Aristotle",
+    "hs_object_id": "530430139103",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:05:23.295Z",
+    "lastname": null,
+    "linkedin_url": null,
+    "mobilephone": "+918040579809",
+    "phone": "+918040579809",
+    "contact_id": "530430139103"
+   }
+  ]
+ },
+ {
+  "company": "AntWalk",
+  "deal_id": "340168694501",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "antwalk.com",
+  "deal_linkedin": "https://linkedin.com/in/sudhanshu-shekhar-antwalk",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "AntWalk",
+    "createdate": "2026-08-03T12:28:54.209Z",
+    "email": "sudhanshu@antwalk.com",
+    "firstname": "Sudhanshu",
+    "hs_object_id": "530393562846",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:55:55.608Z",
+    "lastname": "Shekhar",
+    "linkedin_url": "https://linkedin.com/in/sudhanshu-shekhar-antwalk",
+    "mobilephone": "+918582804665",
+    "phone": "+918582804665",
+    "contact_id": "530393562846"
+   }
+  ]
+ },
+ {
+  "company": "Pep live",
+  "deal_id": "340168694502",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "pep.live",
+  "deal_linkedin": "https://linkedin.com/in/swapnil-upadhyay-b5a35136",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Pep live",
+    "createdate": "2026-08-03T12:29:01.219Z",
+    "email": "nav@pep.live",
+    "firstname": "Swapnil",
+    "hs_object_id": "530380550857",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T19:56:40.490Z",
+    "lastname": "Upadhyay",
+    "linkedin_url": "https://linkedin.com/in/swapnil-upadhyay-b5a35136",
+    "mobilephone": "+917417279731",
+    "phone": "+917417279731",
+    "contact_id": "530380550857"
+   }
+  ]
+ },
+ {
+  "company": "Paavan",
+  "deal_id": "340168657635",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "paavan.app",
+  "deal_linkedin": "https://linkedin.com/in/sankalp-jain-b30ab7a2",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Paavan",
+    "createdate": "2026-08-03T12:29:08.073Z",
+    "email": "contact@paavan.app",
+    "firstname": "Sankalp",
+    "hs_object_id": "530401040095",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:15:16.564Z",
+    "lastname": "Jain",
+    "linkedin_url": "https://linkedin.com/in/sankalp-jain-b30ab7a2",
+    "mobilephone": "+919871629491",
+    "phone": "+919871629491",
+    "contact_id": "530401040095"
+   }
+  ]
+ },
+ {
+  "company": "Rage Fan",
+  "deal_id": "340166752987",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "rage.fan",
+  "deal_linkedin": "https://linkedin.com/in/satheesh-ananthasubramanian-7887737",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Rage Fan",
+    "createdate": "2026-08-03T12:29:15.184Z",
+    "email": "support@rage.fan",
+    "firstname": "Satheesh",
+    "hs_object_id": "530258986708",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:24:51.438Z",
+    "lastname": "Ananthasubramanian",
+    "linkedin_url": "https://linkedin.com/in/satheesh-ananthasubramanian-7887737",
+    "mobilephone": "+919340150000",
+    "phone": "+919340150000",
+    "contact_id": "530258986708"
+   }
+  ]
+ },
+ {
+  "company": "Soptle",
+  "deal_id": "340168670914",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "soptle.com",
+  "deal_linkedin": "https://linkedin.com/in/pravas-chandragiri-67b1971ab",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Soptle",
+    "createdate": "2026-08-03T12:29:22.436Z",
+    "email": "pcgiriofficials@gmail.com",
+    "firstname": "Pravas",
+    "hs_object_id": "530275058379",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:17:18.315Z",
+    "lastname": "Chandragiri",
+    "linkedin_url": "https://linkedin.com/in/pravas-chandragiri-67b1971ab",
+    "mobilephone": "+917751081477",
+    "phone": "+917751081477",
+    "contact_id": "530275058379"
+   }
+  ]
+ },
+ {
+  "company": "GenWise",
+  "deal_id": "340104720058",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "genwise.club",
+  "deal_linkedin": "https://linkedin.com/in/nehulmalhotra",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "GenWise",
+    "createdate": "2026-08-03T12:29:28.476Z",
+    "email": "contact@genwise.club",
+    "firstname": "Nehul",
+    "hs_object_id": "530255814375",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:04:25.458Z",
+    "lastname": "Malhotra",
+    "linkedin_url": "https://linkedin.com/in/nehulmalhotra",
+    "mobilephone": "+918373915078",
+    "phone": "+918373915078",
+    "contact_id": "530255814375"
+   }
+  ]
+ },
+ {
+  "company": "Foodtech Ventures",
+  "deal_id": "340186391227",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "foodtechventures.in",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:50.177Z",
+    "email": "hi@foodtechventures.in",
+    "firstname": null,
+    "hs_object_id": "522207851224",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:29:39.366Z",
+    "lastname": null,
+    "linkedin_url": "https://linkedin.com/company/food-tech-ventures",
+    "mobilephone": "+919971922908",
+    "phone": "+919971922908",
+    "contact_id": "522207851224"
+   }
+  ]
+ },
+ {
+  "company": "Pepper Farms",
+  "deal_id": "340112228041",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "pepperfarms.in",
+  "deal_linkedin": "https://linkedin.com/in/shalini-aggarwal-5575543",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Pepper Farms",
+    "createdate": "2026-08-03T12:29:42.320Z",
+    "email": "shalini.maskara@gmail.com",
+    "firstname": "Shalini",
+    "hs_object_id": "530255815372",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:06:51.343Z",
+    "lastname": "Aggarwal",
+    "linkedin_url": "https://linkedin.com/in/shalini-aggarwal-5575543",
+    "mobilephone": "+919899702010",
+    "phone": "+919899702010",
+    "contact_id": "530255815372"
+   }
+  ]
+ },
+ {
+  "company": "Working Naari",
+  "deal_id": "339991878337",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "workingnaari.in",
+  "deal_linkedin": "https://linkedin.com/in/nehabagariaherkey",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Working Naari",
+    "createdate": "2026-08-03T12:29:49.025Z",
+    "email": "nehabagaria@gmail.com",
+    "firstname": "Neha",
+    "hs_object_id": "530401318616",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:00:17.506Z",
+    "lastname": "Bagaria",
+    "linkedin_url": "https://linkedin.com/in/nehabagariaherkey",
+    "mobilephone": "+918041664331",
+    "phone": "+918041664331",
+    "contact_id": "530401318616"
+   }
+  ]
+ },
+ {
+  "company": "MiClient",
+  "deal_id": "340068417228",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "miclient.ai",
+  "deal_linkedin": "https://linkedin.com/in/chandan-k-ghosh",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "MiClient",
+    "createdate": "2026-08-03T13:25:13.186Z",
+    "email": null,
+    "firstname": "MiClient",
+    "hs_object_id": "530407024350",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:57:31.157Z",
+    "lastname": "Founder",
+    "linkedin_url": null,
+    "mobilephone": "+919717484440",
+    "phone": "+919717484440",
+    "contact_id": "530407024350"
+   }
+  ]
+ },
+ {
+  "company": "Bullieverse",
+  "deal_id": "340168657644",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "bullieverse.com",
+  "deal_linkedin": "https://linkedin.com/in/srinianala",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Bullieverse",
+    "createdate": "2026-08-03T12:30:01.374Z",
+    "email": "srini.anala@bullieverse.com",
+    "firstname": "Srini",
+    "hs_object_id": "530430556884",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T19:54:47.468Z",
+    "lastname": "Anala",
+    "linkedin_url": "https://linkedin.com/in/srinianala",
+    "mobilephone": "+919886039385",
+    "phone": "+919886039385",
+    "contact_id": "530430556884"
+   }
+  ]
+ },
+ {
+  "company": "Ajna",
+  "deal_id": "340117863140",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "theajna.io",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Ajna",
+    "createdate": "2026-08-03T12:30:09.045Z",
+    "email": "info@theajna.io",
+    "firstname": "Sanjeev",
+    "hs_object_id": "530401047260",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:13:42.849Z",
+    "lastname": "Singh Karki",
+    "linkedin_url": null,
+    "mobilephone": "+919818729970",
+    "phone": "+919818729970",
+    "contact_id": "530401047260"
+   }
+  ]
+ },
+ {
+  "company": "Bold Finance",
+  "deal_id": "340168657646",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "boldfinance.in",
+  "deal_linkedin": "https://linkedin.com/in/durgesh-suthar",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Bold Finance",
+    "createdate": "2026-08-03T12:30:15.039Z",
+    "email": "durgesh@boldfinance.in",
+    "firstname": "Durgesh",
+    "hs_object_id": "530257332979",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T19:50:33.690Z",
+    "lastname": "Suthar",
+    "linkedin_url": "https://linkedin.com/in/durgesh-suthar",
+    "mobilephone": "+917417514276",
+    "phone": "+917417514276",
+    "contact_id": "530257332979"
+   }
+  ]
+ },
+ {
+  "company": "Samhitha Crop Care Clinics",
+  "deal_id": "340168683250",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "samhitha.ag",
+  "deal_linkedin": "https://linkedin.com/in/dr-g-syamasundar-reddy-585b5b16",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Samhitha Crop Care Clinics",
+    "createdate": "2026-08-03T12:30:21.493Z",
+    "email": "info@samhitha.ag",
+    "firstname": "Syamasundar",
+    "hs_object_id": "530430567135",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:47:49.175Z",
+    "lastname": "Reddy",
+    "linkedin_url": "https://linkedin.com/in/dr-g-syamasundar-reddy-585b5b16",
+    "mobilephone": "+919908224649",
+    "phone": "+919908224649",
+    "contact_id": "530430567135"
+   }
+  ]
+ },
+ {
+  "company": "Innvent Labs",
+  "deal_id": "340168670928",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "innventlabs.com",
+  "deal_linkedin": "https://linkedin.com/in/adityanayak",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Innvent Labs",
+    "createdate": "2026-08-03T12:30:28.905Z",
+    "email": "info@innventlabs.com",
+    "firstname": "Aditya",
+    "hs_object_id": "530430154482",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:05:51.945Z",
+    "lastname": "Nayak",
+    "linkedin_url": "https://linkedin.com/in/adityanayak",
+    "mobilephone": "+919871448741",
+    "phone": "+919871448741",
+    "contact_id": "530430154482"
+   }
+  ]
+ },
+ {
+  "company": "Aspire",
+  "deal_id": "340136738508",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "letsaspire.in",
+  "deal_linkedin": "https://linkedin.com/in/manoj-rathi-5041b24",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Aspire",
+    "createdate": "2026-08-03T12:30:35.837Z",
+    "email": "manoj@letsaspire.in",
+    "firstname": "Manoj",
+    "hs_object_id": "530401891048",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:01:05.846Z",
+    "lastname": "Rathi",
+    "linkedin_url": "https://linkedin.com/in/manoj-rathi-5041b24",
+    "mobilephone": "+919341893983",
+    "phone": "+919341893983",
+    "contact_id": "530401891048"
+   }
+  ]
+ },
+ {
+  "company": "Hapramp Studio",
+  "deal_id": "340134945517",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "hapramp.com",
+  "deal_linkedin": "https://linkedin.com/in/singh-pratyush",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Hapramp Studio",
+    "createdate": "2026-08-03T12:30:43.979Z",
+    "email": "hi@hapramp.com",
+    "firstname": "Pratyush",
+    "hs_object_id": "530242685645",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:08:58.354Z",
+    "lastname": "Singh",
+    "linkedin_url": "https://linkedin.com/in/singh-pratyush",
+    "mobilephone": "+919415126997",
+    "phone": "+919415126997",
+    "contact_id": "530242685645"
+   }
+  ]
+ },
+ {
+  "company": "Arthan Finance",
+  "deal_id": "340117863152",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "arthan.finance",
+  "deal_linkedin": "https://www.linkedin.com/in/rupeshkalokhe/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Arthan Finance",
+    "createdate": "2026-08-03T12:30:51.536Z",
+    "email": "hello@arthan.finance",
+    "firstname": "Rupesh",
+    "hs_object_id": "530401690300",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T19:49:36.985Z",
+    "lastname": "Kalokhe",
+    "linkedin_url": "https://www.linkedin.com/in/rupeshkalokhe/",
+    "mobilephone": "+919820544040",
+    "phone": "+919820544040",
+    "contact_id": "530401690300"
+   }
+  ]
+ },
+ {
+  "company": "Checko",
+  "deal_id": "340119844583",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "checko.ai",
+  "deal_linkedin": "https://linkedin.com/in/satish-chandra-22a28292",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Checko",
+    "createdate": "2026-08-03T12:30:57.734Z",
+    "email": "rakesh.singhania@gloplax.com",
+    "firstname": "Deepak",
+    "hs_object_id": "530257337078",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:18:07.981Z",
+    "lastname": "Gupta",
+    "linkedin_url": "https://linkedin.com/in/satish-chandra-22a28292",
+    "mobilephone": "+917607429780",
+    "phone": "+917607429780",
+    "contact_id": "530257337078"
+   }
+  ]
+ },
+ {
+  "company": "Neufin",
+  "deal_id": "340186391273",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "neufin.co",
+  "deal_linkedin": "https://linkedin.com/in/rahoolgadkari",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Neufin",
+    "createdate": "2026-08-03T12:31:04.714Z",
+    "email": "rahool@neufin.co",
+    "firstname": "Rahool",
+    "hs_object_id": "530401690305",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:24:55.325Z",
+    "lastname": "Gadkari",
+    "linkedin_url": "https://linkedin.com/in/rahoolgadkari",
+    "mobilephone": "+918552860248",
+    "phone": "+918552860248",
+    "contact_id": "530401690305"
+   }
+  ]
+ },
+ {
+  "company": "INDRA",
+  "deal_id": "339991878347",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "indrawater.com",
+  "deal_linkedin": "https://linkedin.com/in/krunalnpatel",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "INDRA",
+    "createdate": "2026-08-03T12:31:12.491Z",
+    "email": "amrit@indrawater.com",
+    "firstname": "Krunal",
+    "hs_object_id": "530430571223",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:16:34.535Z",
+    "lastname": "Nitin Patel",
+    "linkedin_url": "https://linkedin.com/in/krunalnpatel",
+    "mobilephone": "+919004357646",
+    "phone": "+919004357646",
+    "contact_id": "530430571223"
+   }
+  ]
+ },
+ {
+  "company": "Integrow Asset Ma gement",
+  "deal_id": "340116069058",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "integrowamc.com",
+  "deal_linkedin": "https://www.linkedin.com/in/ramashrya-yadav-a8766921/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Integrow Asset Ma gement",
+    "createdate": "2026-08-03T12:31:20.590Z",
+    "email": "ryhomeoffice@gmail.com",
+    "firstname": "Ramashrya",
+    "hs_object_id": "530228573917",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T19:45:24.390Z",
+    "lastname": "Yadav",
+    "linkedin_url": "https://www.linkedin.com/in/ramashrya-yadav-a8766921/",
+    "mobilephone": "+919867171633",
+    "phone": "+919867171633",
+    "contact_id": "530228573917"
+   }
+  ]
+ },
+ {
+  "company": "Nova Benefits",
+  "deal_id": "339984645852",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "novabenefits.com",
+  "deal_linkedin": "https://linkedin.com/in/yashg2",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Nova Benefits",
+    "createdate": "2026-08-03T12:31:26.531Z",
+    "email": "yash.gupta@iofold.com",
+    "firstname": "Yash",
+    "hs_object_id": "530405739219",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T19:46:32.223Z",
+    "lastname": "Gupta",
+    "linkedin_url": "https://linkedin.com/in/yashg2",
+    "mobilephone": "+918588824291",
+    "phone": "+918588824291",
+    "contact_id": "530405739219"
+   }
+  ]
+ },
+ {
+  "company": "Masai",
+  "deal_id": "340116069083",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "masaischool.com",
+  "deal_linkedin": "https://www.linkedin.com/in/ankitprepleaf/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Masai",
+    "createdate": "2026-08-03T12:31:33.288Z",
+    "email": "ankit.agrawal@masaischool.com",
+    "firstname": "Ankit",
+    "hs_object_id": "530393589440",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:59:35.760Z",
+    "lastname": "Agrawal",
+    "linkedin_url": "https://www.linkedin.com/in/ankitprepleaf/",
+    "mobilephone": "+917014157244",
+    "phone": "+917014157244",
+    "contact_id": "530393589440"
+   }
+  ]
+ },
+ {
+  "company": "DocTutorials",
+  "deal_id": "340117864141",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "doctutorials.com",
+  "deal_linkedin": "https://linkedin.com/in/karteek-routh-2a957623b",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "DocTutorials",
+    "createdate": "2026-08-03T12:31:38.891Z",
+    "email": "karteek@doctutorials.com",
+    "firstname": "Karteek",
+    "hs_object_id": "530430256881",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T19:45:21.691Z",
+    "lastname": "Routh",
+    "linkedin_url": "https://linkedin.com/in/karteek-routh-2a957623b",
+    "mobilephone": "+917097434476",
+    "phone": "+917097434476",
+    "contact_id": "530430256881"
+   }
+  ]
+ },
+ {
+  "company": "Smiles.ai",
+  "deal_id": "340188309232",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "smiles.ai",
+  "deal_linkedin": "https://linkedin.com/in/jatin-kakrani-b8849b124",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Smiles.ai",
+    "createdate": "2026-08-03T12:31:45.186Z",
+    "email": "admin@smiles.ai.in",
+    "firstname": "Jatin",
+    "hs_object_id": "530242686684",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:15:28.969Z",
+    "lastname": "Kakrani",
+    "linkedin_url": "https://linkedin.com/in/jatin-kakrani-b8849b124",
+    "mobilephone": "+917618792349",
+    "phone": "+917618792349",
+    "contact_id": "530242686684"
+   }
+  ]
+ },
+ {
+  "company": "FALCA",
+  "deal_id": "340116069106",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "falcasolutions.com",
+  "deal_linkedin": "https://linkedin.com/in/suganthan-s-83b3a8b5",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "FALCA",
+    "createdate": "2026-08-03T12:31:52.468Z",
+    "email": "somasundaram@falcasolutions.com",
+    "firstname": "Somasundaram",
+    "hs_object_id": "530430257860",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T19:53:38.091Z",
+    "lastname": "Suganthan",
+    "linkedin_url": "https://linkedin.com/in/suganthan-s-83b3a8b5",
+    "mobilephone": "+918042131032",
+    "phone": "+918042131032",
+    "contact_id": "530430257860"
+   }
+  ]
+ },
+ {
+  "company": "Mahagram",
+  "deal_id": "340134946511",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "mahagram.in",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Mahagram",
+    "createdate": "2026-08-03T12:31:59.388Z",
+    "email": "hello@mahagram.in",
+    "firstname": "Mahagram",
+    "hs_object_id": "530255834847",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:16:38.475Z",
+    "lastname": null,
+    "linkedin_url": null,
+    "mobilephone": "+918888621515",
+    "phone": "+918888621515",
+    "contact_id": "530255834847"
+   }
+  ]
+ },
+ {
+  "company": "SpareIt",
+  "deal_id": "340168684241",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "spareit.co.in",
+  "deal_linkedin": "https://www.linkedin.com/in/romichugh/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "SpareIt",
+    "createdate": "2026-08-03T12:32:07.098Z",
+    "email": "reachus@spareit.co.in",
+    "firstname": "Romi",
+    "hs_object_id": "530430390979",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:58:08.900Z",
+    "lastname": "Chugh",
+    "linkedin_url": "https://www.linkedin.com/in/romichugh/",
+    "mobilephone": "+919663371703",
+    "phone": "+919663371703",
+    "contact_id": "530430390979"
+   }
+  ]
+ },
+ {
+  "company": "Finsire",
+  "deal_id": "340188294842",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "finsire.com",
+  "deal_linkedin": "https://linkedin.com/in/shreyans-nahar",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:55.322Z",
+    "email": "shreyans@finsire.com",
+    "firstname": "Shreyans",
+    "hs_object_id": "522307132129",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:32:25.534Z",
+    "lastname": "Nahar; Co-Founder & CEO; shreyans@finsire.com; Co-Founder & CEO-Finsire | Ex-DMG Investments | Vellore Institute of Technology BE,Columbia University MS 2020\n Mridul Manhas; Co-Founder; mridul@finsire.com; Co-Founder-Finsire | Ex-WETFF Solutions | Vellore Institute of Technology BTech 2017,University of Westminster MS 2019",
+    "linkedin_url": "https://linkedin.com/in/shreyans-nahar,\n https://linkedin.com/in/mridul-manhas-7989b8139",
+    "mobilephone": "+919962491523",
+    "phone": "+919962491523",
+    "contact_id": "522307132129"
+   }
+  ]
+ },
+ {
+  "company": "BLACKBUCK",
+  "deal_id": "340188326625",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "blackbuckev.com",
+  "deal_linkedin": "https://linkedin.com/in/rama-chintalapati-b4aa33306",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:55.322Z",
+    "email": "info@blackbukev.com",
+    "firstname": "Rama",
+    "hs_object_id": "522307133123",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:32:32.545Z",
+    "lastname": "Chintalapati; Co-Founder\n Ramakrishnam Raju Chintalapati; Co-Founder & CEO; Ex-Nobel Automotive, Dura Automotive Systems, Satyam Venture Engineering",
+    "linkedin_url": "https://linkedin.com/in/rama-chintalapati-b4aa33306,\n https://linkedin.com/in/ramakrishnam-raju-chintalapati-a2252328",
+    "mobilephone": "+919696343445",
+    "phone": "+919696343445",
+    "contact_id": "522307133123"
+   }
+  ]
+ },
+ {
+  "company": "FloBiz",
+  "deal_id": "340168695525",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "flobiz.in",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:57.569Z",
+    "email": "rakesh@flobiz.in",
+    "firstname": "Rakesh",
+    "hs_object_id": "522298811087",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:32:36.531Z",
+    "lastname": "Yadav; Co-Founder & CEO; rakesh@flobiz.in; Ex-Co-Founder Koinex. IIT Delhi BTech 2016",
+    "linkedin_url": "https://linkedin.com/company/flobiz",
+    "mobilephone": "+917400417309",
+    "phone": "+917400417309",
+    "contact_id": "522298811087"
+   }
+  ]
+ },
+ {
+  "company": "Aksum Trademart",
+  "deal_id": "340068420286",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "aksum.co.in",
+  "deal_linkedin": "https://linkedin.com/in/ankit-jain-468b7610",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Aksum Trademart",
+    "createdate": "2026-08-03T12:32:38.073Z",
+    "email": "hello@aksum.co.in",
+    "firstname": "Ankit",
+    "hs_object_id": "530257340113",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T19:47:20.300Z",
+    "lastname": "Jain",
+    "linkedin_url": "https://linkedin.com/in/ankit-jain-468b7610",
+    "mobilephone": "+919560397197",
+    "phone": "+919560397197",
+    "contact_id": "530257340113"
+   }
+  ]
+ },
+ {
+  "company": "MedCords",
+  "deal_id": "340080254669",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "medcords.com",
+  "deal_linkedin": "https://linkedin.com/in/saida-dhanavath-624b5323",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "MedCords",
+    "createdate": "2026-08-03T12:32:44.415Z",
+    "email": "pm@medcords.com",
+    "firstname": "Pranav",
+    "hs_object_id": "530397423305",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:32:21.687Z",
+    "lastname": "Mehta",
+    "linkedin_url": "https://linkedin.com/in/saida-dhanavath-624b5323",
+    "mobilephone": "+918108070248",
+    "phone": "+918108070248",
+    "contact_id": "530397423305"
+   }
+  ]
+ },
+ {
+  "company": "Fello",
+  "deal_id": "340168695528",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "fello.in",
+  "deal_linkedin": "https://www.linkedin.com/in/jatinmalwal/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Fello",
+    "createdate": "2026-08-03T12:32:51.165Z",
+    "email": "hello@fello.in",
+    "firstname": "Jatin",
+    "hs_object_id": "530430889699",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:16:38.752Z",
+    "lastname": "Malwal",
+    "linkedin_url": "https://www.linkedin.com/in/jatinmalwal/",
+    "mobilephone": "+917503670267",
+    "phone": "+917503670267",
+    "contact_id": "530430889699"
+   }
+  ]
+ },
+ {
+  "company": "22 KYMCO",
+  "deal_id": "340166756049",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "22kymco.in",
+  "deal_linkedin": "https://linkedin.com/in/vijay-chandrawat-iitd",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "22 KYMCO",
+    "createdate": "2026-08-03T12:32:58.437Z",
+    "email": "care@22motors.in",
+    "firstname": "Vijay",
+    "hs_object_id": "530275083979",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:09:37.916Z",
+    "lastname": "Chandrawat",
+    "linkedin_url": "https://linkedin.com/in/vijay-chandrawat-iitd",
+    "mobilephone": "+917042673035",
+    "phone": "+917042673035",
+    "contact_id": "530275083979"
+   }
+  ]
+ },
+ {
+  "company": "Vahak",
+  "deal_id": "340188310213",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "vahak.in",
+  "deal_linkedin": "https://linkedin.com/in/vikas-chandrawat-10915492",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Vahak",
+    "createdate": "2026-08-03T12:33:04.706Z",
+    "email": "shahak@vahak.in",
+    "firstname": "Vikas",
+    "hs_object_id": "530430890685",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:21:36.607Z",
+    "lastname": "Chandrawat",
+    "linkedin_url": "https://linkedin.com/in/vikas-chandrawat-10915492",
+    "mobilephone": "+919981990701",
+    "phone": "+919981990701",
+    "contact_id": "530430890685"
+   }
+  ]
+ },
+ {
+  "company": "WheelsEye",
+  "deal_id": "339984646844",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "wheelseye.com",
+  "deal_linkedin": "https://linkedin.com/in/anshulmimani",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "WheelsEye",
+    "createdate": "2026-08-03T12:33:12.167Z",
+    "email": "anshul.mimani@wheelseye.com",
+    "firstname": "Anshul",
+    "hs_object_id": "530259003099",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:16:58.474Z",
+    "lastname": "Mimani",
+    "linkedin_url": "https://linkedin.com/in/anshulmimani",
+    "mobilephone": "+919547891647",
+    "phone": "+919547891647",
+    "contact_id": "530259003099"
+   }
+  ]
+ },
+ {
+  "company": "Ohm Mobility",
+  "deal_id": "339991879364",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "ohmmobility.com",
+  "deal_linkedin": "https://linkedin.com/in/nikhil-nair-b659a724",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:57.569Z",
+    "email": "contact@ohmmobility.com",
+    "firstname": "Nikhil",
+    "hs_object_id": "522298811124",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:33:21.991Z",
+    "lastname": "Nair; Co-Founder & CEO; Ex-M-KOPA Solar, Capricorn Investment Group, Selco India, Microsol International. Christ University, Bangalore BBM, Said Business School, University of Oxford MBA 2015\n Nikhil Saigal; Co-Founder & CBO; Ex-Founder Home Safe, Onfido, Flyp, Technopak Advisors. Delhi University BA 2008, Said Business School, University of Oxford MBA 2016",
+    "linkedin_url": "https://linkedin.com/in/nikhil-nair-b659a724,\n https://linkedin.com/in/nikhil71",
+    "mobilephone": "+918867037721",
+    "phone": "+918867037721",
+    "contact_id": "522298811124"
+   }
+  ]
+ },
+ {
+  "company": "indiagold",
+  "deal_id": "340168634050",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "indiagold.co",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:57.569Z",
+    "email": "nitin@indiagold.co",
+    "firstname": "Nitin",
+    "hs_object_id": "522298812090",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:45:30.319Z",
+    "lastname": "Misra; Co-Founder; nitin@indiagold.co; Co-Founder-indiagold | Ex-Paytm,Samsung Electronics,Nuance Communications\n Deepak Abbot; Co-Founder; da@indiagold.co; Co-Founder-indiagold | Ex-Paytm,getsmartapp.com,Zapak Digital Entertainment",
+    "linkedin_url": "https://linkedin.com/company/flat-white-capital-pvt-ltd",
+    "mobilephone": "+919818094158",
+    "phone": "+919818094158",
+    "contact_id": "522298812090"
+   }
+  ]
+ },
+ {
+  "company": "HRInnova",
+  "deal_id": "340119845612",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "hrinnova.com",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "HRInnova",
+    "createdate": "2026-08-03T12:33:30.091Z",
+    "email": "hello@hrinnova.com",
+    "firstname": "HRInnova",
+    "hs_object_id": "530430259934",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:44:34.941Z",
+    "lastname": null,
+    "linkedin_url": null,
+    "mobilephone": "+917967123909",
+    "phone": "+917967123909",
+    "contact_id": "530430259934"
+   }
+  ]
+ },
+ {
+  "company": "Eyva",
+  "deal_id": "340168695539",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "eyva.io",
+  "deal_linkedin": "https://linkedin.com/in/sunilmaddikatla",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Eyva",
+    "createdate": "2026-08-03T13:25:10.406Z",
+    "email": null,
+    "firstname": "Eyva",
+    "hs_object_id": "530433755877",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T22:08:27.630Z",
+    "lastname": "Founder",
+    "linkedin_url": null,
+    "mobilephone": "+919490905965",
+    "phone": "+919490905965",
+    "contact_id": "530433755877"
+   }
+  ]
+ },
+ {
+  "company": "myPaisaa",
+  "deal_id": "340134946545",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "mypaisaa.com",
+  "deal_linkedin": "https://linkedin.com/in/mounika-lingayagari-7b865265",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:59.263Z",
+    "email": "mounika@mypaisaa.com",
+    "firstname": "Mounika",
+    "hs_object_id": "522207852260",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:33:44.864Z",
+    "lastname": "Lingayagari; Co-Founder, Head- Credit & Customer experience; mounika@mypaisaa.com; Ex-Intel. JNTU Hyderabad BTech 2012, Arizona State University 2014\n Ravindranath Kamma; Co-Founder & CEO; Ex-Mahindra Greenyard, Heritage Fresh, ITC, Zuari Seeds. College of Agriculture BSc 2000\n Veera Praveen Reddy; Co-Founder; Ex-ChitMonks, Kotak Life Insurance, Kotak Securities. IIT Ahmedabad MBA 2005",
+    "linkedin_url": "https://linkedin.com/in/mounika-lingayagari-7b865265,\n https://linkedin.com/in/ravindranathkamma,\n https://linkedin.com/in/veera-praveen-813aa816",
+    "mobilephone": "+917795665063",
+    "phone": "+917795665063",
+    "contact_id": "522207852260"
+   }
+  ]
+ },
+ {
+  "company": "AlmaBetter",
+  "deal_id": "340168703720",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "almabetter.com",
+  "deal_linkedin": "https://linkedin.com/in/arshyanahsan",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "AlmaBetter",
+    "createdate": "2026-08-03T12:53:54.162Z",
+    "email": "arshyan.asd@gmail.com",
+    "firstname": "Arshyan",
+    "hs_object_id": "530405587683",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:40:18.931Z",
+    "lastname": "Ahsan",
+    "linkedin_url": "https://linkedin.com/in/arshyanahsan",
+    "mobilephone": "+917407329692",
+    "phone": "+917407329692",
+    "contact_id": "530405587683"
+   }
+  ]
+ },
+ {
+  "company": "Finequs",
+  "deal_id": "339991883499",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "finequs.com",
+  "deal_linkedin": "https://linkedin.com/in/krishnanvaidyanathan",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Finequs",
+    "createdate": "2026-08-03T12:54:03.246Z",
+    "email": "digital@finequs.com",
+    "firstname": "Krishnan",
+    "hs_object_id": "530431163097",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:50:18.505Z",
+    "lastname": "Vaidyanathan",
+    "linkedin_url": "https://linkedin.com/in/krishnanvaidyanathan",
+    "mobilephone": "+919833096804",
+    "phone": "+919833096804",
+    "contact_id": "530431163097"
+   }
+  ]
+ },
+ {
+  "company": "Pazcare",
+  "deal_id": "340104727236",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "pazcare.com",
+  "deal_linkedin": "http://linkedin.com/in/manish-mishra-b4b84818",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:23:59.263Z",
+    "email": "sanchit@pazcare.com",
+    "firstname": "Manish",
+    "hs_object_id": "522207853263",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:54:14.474Z",
+    "lastname": "Mishra; Co-Founder; Pazcare, ex-Cleartax, ex-Mindtickle, National Institute of Technology Warangal, 2008\n Sanchit Mathur; Co-Founder & CEO; sanchit@pazcare.com; Ex-Co-Founder Townscript. Maharashtra Institute of Technology BE 2013",
+    "linkedin_url": "http://linkedin.com/in/manish-mishra-b4b84818,\n http://linkedin.com/in/sanchitmalik,\n linkedin.com/in/sanchitmalik,\n linkedin.com/in/sanchitmalik",
+    "mobilephone": "+918551981613",
+    "phone": "+918551981613",
+    "contact_id": "522207853263"
+   }
+  ]
+ },
+ {
+  "company": "DGV",
+  "deal_id": "340188288747",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "dgv.in",
+  "deal_linkedin": "https://linkedin.com/in/ragavan-venkatesan-296a6a13",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "DGV",
+    "createdate": "2026-08-03T12:54:18.082Z",
+    "email": "ragavan@dgv.in",
+    "firstname": "Ragavan",
+    "hs_object_id": "530242730725",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:06:33.581Z",
+    "lastname": "Venkatesan",
+    "linkedin_url": "https://linkedin.com/in/ragavan-venkatesan-296a6a13",
+    "mobilephone": "+918108108617",
+    "phone": "+918108108617",
+    "contact_id": "530242730725"
+   }
+  ]
+ },
+ {
+  "company": "Infinyte Club",
+  "deal_id": "340095206135",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "infinyte.club",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Infinyte Club",
+    "createdate": "2026-08-03T12:54:46.308Z",
+    "email": "j@infinyte.club",
+    "firstname": "Ankita",
+    "hs_object_id": "530228651757",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:33:27.036Z",
+    "lastname": "Tandon",
+    "linkedin_url": null,
+    "mobilephone": "+919967187860",
+    "phone": "+919967187860",
+    "contact_id": "530228651757"
+   }
+  ]
+ },
+ {
+  "company": "Numen",
+  "deal_id": "340119856828",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "numenhealth.com",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:00.941Z",
+    "email": "prateek.raj@numen.fr",
+    "firstname": "Pallav",
+    "hs_object_id": "522307019499",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:54:55.835Z",
+    "lastname": "Singh; Co-Founder & CEO\n Prateek Raj; Co-Founder; prateek.raj@numen.fr; Ex-Founder nxtbit.ai, Speed{IT} Consulting, Ample, Fynd. IIT Bombay BTech, MTech 2010\n Pallav Singh; Co-Founder & CEO; pallav@numenhealth.com; Ex-CEO TaxiForSure.com, Ola, Essex Lake Group, Techfest. IIT Bombay BTech, MTech 2010",
+    "linkedin_url": "linkedin.com/in/singhpallav,\n linkedin.com/in/singhpallav,\n https://linkedin.com/in/singhpallav,\n https://www.linkedin.com/in/prateekraj/,\n http://linkedin.com/in/singhpallav",
+    "mobilephone": "+919819984181",
+    "phone": "+919819984181",
+    "contact_id": "522307019499"
+   }
+  ]
+ },
+ {
+  "company": "Healthysure",
+  "deal_id": "340168692467",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "healthysure.in",
+  "deal_linkedin": "https://linkedin.com/in/anuj-parekh-29479237",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:08.400Z",
+    "email": "anuj@healthysure.in",
+    "firstname": "Anuj",
+    "hs_object_id": "522298532539",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:56:34.165Z",
+    "lastname": "Parekh; Co-Founder & CEO; anuj@healthysure.in; Co-Founder Bharatsure, Assurety, ex-Auctus Advisors, SmartShift. Narsee Monjee College of Commerce and Economics BCom\n Sanil Basutkar; Co-Founder & Product Head; sanil@healthysure.in; Co-Founder Bharatsure, ex-Founder Saransh Media. Narsee Monjee College of Commerce and Economics 2012, Indian School of Business MBA 2020",
+    "linkedin_url": "https://linkedin.com/in/anuj-parekh-29479237,\n https://linkedin.com/in/sanilbasutkar",
+    "mobilephone": "+919920247419",
+    "phone": "+919920247419",
+    "contact_id": "522298532539"
+   }
+  ]
+ },
+ {
+  "company": "NxtWave",
+  "deal_id": "340168707800",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "ccbp.in",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:12.410Z",
+    "email": "rahul@nxtwave.tech",
+    "firstname": "Rahul",
+    "hs_object_id": "522307805926",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:56:50.309Z",
+    "lastname": "Attuluri; Co-Founder & CEO; rahul@nxtwave.tech; Co-Founder & CEO-NxtWave,topin.tech | Ex-CyberEye,Amazon | IIITH BTech 2012\n Sashank Gujjula; Co-Founder; sashank@nxtwave.tech; Co-Founder-NxtWave,topin.tech | IIT Bombay BTech 2017",
+    "linkedin_url": "https://linkedin.com/company/nxtwavetech/about",
+    "mobilephone": "+918008600644",
+    "phone": "+918008600644",
+    "contact_id": "522307805926"
+   }
+  ]
+ },
+ {
+  "company": "Hudle",
+  "deal_id": "340068424410",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "hudle.in",
+  "deal_linkedin": "https://linkedin.com/in/sonam-taneja-6a661b18",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:13.995Z",
+    "email": "arjun@hudle.in",
+    "firstname": "Sonam",
+    "hs_object_id": "522306943708",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:56:56.650Z",
+    "lastname": "Taneja; Co-Founder & Head Business Development; Co-Founder & Head, Business Development-Hudle | Ex-Centre For Science And Environment New Delhi | ILS Law College, Pune BS 2010\n Arjun Singh Verma; Co-Founder & COO; arjun@hudle.in; Hudle, ex-Kpmg, ex-Stem Networks, Shaheed bhagat singh college, 2014\n Suhail Narain; Co-Founder & CEO; suhail@hudle.in; Ex-Geometry Encompass, Goals for Souls. Delhi University BA 2009, University of Michigan MA 2012",
+    "linkedin_url": "https://linkedin.com/in/sonam-taneja-6a661b18,\n https://linkedin.com/in/arjun-singh-verma-0919a6a5,\n https://linkedin.com/in/suhail-narain-62152748",
+    "mobilephone": "+919818731968",
+    "phone": "+919818731968",
+    "contact_id": "522306943708"
+   }
+  ]
+ },
+ {
+  "company": "HexaHealth",
+  "deal_id": "340068424416",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "hexahealth.com",
+  "deal_linkedin": "https://linkedin.com/in/ankur-gigras-70056412",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:17.419Z",
+    "email": "ankur@hexahealth.com",
+    "firstname": "Ankur",
+    "hs_object_id": "522298715870",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:57:12.409Z",
+    "lastname": "Gigras; Co-Founder & CEO; ankur@hexahealth.com; Ex-1mg, McKinsey. IIT Madras 2007, Stanford University Graduate School of Business MBA 2012\n Aman Priya Khanna; Co-Founder; aman@hexahealth.com; Bharati Vidyapeeth 2011, BITS Pilani MBA 2020\n Vikas Chauhan; Co-Founder & COO; vikas@hexahealth.com; Co-Founder-HexaHealth | Ex-Founder-1mg,PRAVIS RETAIL | Government Engineering College Ajmer BE 2004,K J Somaiya Institute of Management MBA 2010",
+    "linkedin_url": "https://linkedin.com/in/ankur-gigras-70056412,\n https://linkedin.com/in/dr-aman-priya-khanna-07b59816,\n https://linkedin.com/in/vikas-chauhan-6b397913",
+    "mobilephone": "+919930134478",
+    "phone": "+919930134478",
+    "contact_id": "522298715870"
+   }
+  ]
+ },
+ {
+  "company": "Ossus",
+  "deal_id": "340168707804",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "ossusbio.com",
+  "deal_linkedin": "https://linkedin.com/in/shanta-rao-59974433",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:19.372Z",
+    "email": "suruchisrao@ossusbio.com",
+    "firstname": "Shanta",
+    "hs_object_id": "522307133174",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:57:20.877Z",
+    "lastname": "Rao; Co-Founder; Co-Founder-Ossus Biorenewables | Ex-Everest Developers/Terraform Group of Companies | K C Law College, Mumbai LLB 1983\n Kamar Suhail Basha; Co-Founder & CTO; One Young World, ex-Ossus Biorenewables, ex-Navigasun, PESIT, 2017\n Suruchi Rao; Co-Founder & CEO; suruchisrao@ossusbio.com; Macquarie University MS 2009, Institute Of Chemical Technology PhD 2017",
+    "linkedin_url": "https://linkedin.com/in/shanta-rao-59974433,\n https://www.linkedin.com/in/shanta-rao-59974433/,\n https://linkedin.com/in/kamarsuhail,\n https://linkedin.com/in/suruchirao",
+    "mobilephone": "+919920563943",
+    "phone": "+919920563943",
+    "contact_id": "522307133174"
+   }
+  ]
+ },
+ {
+  "company": "Marut Drones",
+  "deal_id": "340114045641",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "marutdrones.com",
+  "deal_linkedin": "https://linkedin.com/in/premkumarvislawath",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:19.372Z",
+    "email": "suraj@marutdrones.com",
+    "firstname": "Sai",
+    "hs_object_id": "522307134194",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:57:33.569Z",
+    "lastname": "Kumar; Co-Founder & CMO; Founder-Marut Drones,Founder-Raasta Films,Raasta Studios | Ex-Samsung Electronics | IIT Guwahati BE 2012\n Prem Kumar Vislawath; Co-Founder & CEO; Founder-Marut Drones,Founder-Raasta Films,Founder-Raasta Studios | Ex-Co-Founder-Drogo Drones,Amplify | Indian Institute of Technology Guwahati BTech\n Suraj Peddi; Co-Founder & CTO; suraj@marutdrones.com; Founder-Marut Drones | Ex-Forbes,Qualcomm | IIT Guwahati BTech 2012",
+    "linkedin_url": "https://linkedin.com/in/premkumarvislawath,\n https://linkedin.com/in/surajpeddi",
+    "mobilephone": "+919000103541",
+    "phone": "+919000103541",
+    "contact_id": "522307134194"
+   }
+  ]
+ },
+ {
+  "company": "Metashot",
+  "deal_id": "340168693451",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "metashot.in",
+  "deal_linkedin": "https://linkedin.com/in/ranjit-behera-6104843",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:21.071Z",
+    "email": "ranjit@metashot.in",
+    "firstname": "Ranjit",
+    "hs_object_id": "522301972212",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:57:40.598Z",
+    "lastname": "Behera; Co-Founder & COO; ranjit@metashot.in; Ex-MyGate, BankBazaar, Aditya Birla Online Fashion, iQuanti. NIT Rourkela BTech 2003, IIM Bangalore MBA 2008\n Prince Thomas; Co-Founder & CEO; prince@metashot.in; Ex-BankBazaar India, ex-Co-Founder Treetins Internet. Savitribai Phule Pune University BE 2007, Christ University, Bangalore MBA\n Ajith Sunny; Co-Founder & CFO; ajith@metashot.in; Craste, Founder Gr8 Sports, MD Ivy hotels and resorts. st. Alberts BCom 2007, Christ University MBA 2010",
+    "linkedin_url": "https://linkedin.com/in/ranjit-behera-6104843,\n https://linkedin.com/in/princejt,\n https://linkedin.com/in/ajith-sunny-39b12456",
+    "mobilephone": "+919886604448",
+    "phone": "+919886604448",
+    "contact_id": "522301972212"
+   }
+  ]
+ },
+ {
+  "company": "AugSenseLab",
+  "deal_id": "339972603596",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "augsenselab.com",
+  "deal_linkedin": "https://www.linkedin.com/in/jinu-s/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:22.780Z",
+    "email": "jinu@augsenselab.com",
+    "firstname": "Jinu",
+    "hs_object_id": "522301644530",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:57:53.969Z",
+    "lastname": "Sukumaran; Co-Founder & Director; jinu@augsenselab.com; Augsenselab | Ex-Oracle,Finastra,QuEST Global | College of Engineering Trivandrum BTech\n Hari N.; Co-Founder; Augsenselab | Ex-L And T Technology Services,Nest Technologies | University of California, Berkeley, 2007\n Sudheer Krishnankutty Nair; Co-Founder & COO; sudheer@augsenselab.com; Augsenselab | Ex-Quest Global,Tata Elxsi, Siemens Information System,Network System Technologies | Govt College of Engineering Kannur BTech 1991,College of Engineering Trivandrum MTech 1994\n Naveen Chittilapilly; Chief Technology Officer and Co-Founder; Locationmind, ex-Acsl Autonomous Control Systems Laboratory, ex-Quest Global, Visvesvaraya Technological University, 2008",
+    "linkedin_url": "https://www.linkedin.com/in/jinu-s/,\n https://linkedin.com/in/hari-n-b3a4804,\n https://linkedin.com/in/sudheer-krishnan-67b23913,\n https://linkedin.com/in/naveen-chittilapilly-0178b616",
+    "mobilephone": "+919446328078",
+    "phone": "+919446328078",
+    "contact_id": "522301644530"
+   }
+  ]
+ },
+ {
+  "company": "ANSCER",
+  "deal_id": "339991884521",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "anscer.com",
+  "deal_linkedin": "https://linkedin.com/in/rajmohan747",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:22.780Z",
+    "email": "raj@anscer.com",
+    "firstname": "Raj",
+    "hs_object_id": "522301645498",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:58:01.293Z",
+    "lastname": "Mohan; Co-Founder & CTO; raj@anscer.com; Ex-Addverb, ILP Innovations Lab, TCS. GEC Thrissur BE 2014, Amrita Vishwa Vidyapeetham 2017\n Ribin Mathew; Co-Founder & CEO; ribin@anscer.com; Ex-Addverb, Just Robotics. Nehru College of Engineering & Research Centre Pampady BTech 2018\n Ebin Sunny; Co-Founder & COO; ebin@anscer.com; Ex-Just Robotics. Nehru College of Engineering & Research Centre Pampady BTech 2017",
+    "linkedin_url": "https://linkedin.com/in/rajmohan747,\n https://linkedin.com/in/ribin-mathew-a4133ab5,\n https://linkedin.com/in/ebin-sunny",
+    "mobilephone": "+918075581971",
+    "phone": "+918075581971",
+    "contact_id": "522301645498"
+   }
+  ]
+ },
+ {
+  "company": "Gabit",
+  "deal_id": "339972603601",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "gabit.com",
+  "deal_linkedin": "https://linkedin.com/in/gaurav-gupta-gg",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:28.028Z",
+    "email": "arpana@gabit.com",
+    "firstname": "Arpana",
+    "hs_object_id": "522287127268",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:58:13.281Z",
+    "lastname": "Shahi; Co-Founder; arpana@gabit.com; Ex-Founder & CEO Spark, SkillTap, McKinsey. IIT Kharagpur BTech 2003, IIM Calcutta MBA 2005\n Gaurav Gupta; Co-Founder & CEO; gaurav@gabit.com; Ex-Founder Zomato, AT Kearney. IIT Delhi 2003, IIM Calcutta MBA 2005",
+    "linkedin_url": "https://linkedin.com/in/gaurav-gupta-gg",
+    "mobilephone": "+919654861517",
+    "phone": "+919654861517",
+    "contact_id": "522287127268"
+   }
+  ]
+ },
+ {
+  "company": "Metalbook",
+  "deal_id": "340104731335",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "metalbook.com",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:29.765Z",
+    "email": "pulkit@metalbook.com",
+    "firstname": "Pulkit",
+    "hs_object_id": "522298609359",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:58:19.801Z",
+    "lastname": "Baldev; Co-Founder; pulkit@metalbook.com; Ex-Tata Steel. Delhi College of Engineering 2015\n Aman Tibrewal; Co-Founder; aman@metalbook.com; Ex-JK Tyre & Industries. Delhi College of Engineering BE 2013\n Raghavendra Pratap Singh; Co-Founder; Ex-LocoNav. Delhi College of Engineering 2014",
+    "linkedin_url": "https://linkedin.com/company/metalbook-app",
+    "mobilephone": "+919555110226",
+    "phone": "+919555110226",
+    "contact_id": "522298609359"
+   }
+  ]
+ },
+ {
+  "company": "HiWiPay",
+  "deal_id": "339972603606",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "hiwipay.com",
+  "deal_linkedin": "",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:29.766Z",
+    "email": "dewang@hiwipay.com",
+    "firstname": "Dewang",
+    "hs_object_id": "522298610365",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:58:25.932Z",
+    "lastname": "Neralla; Co-Founder & CEO; dewang@hiwipay.com; Founder Grameen Pragati Foundation, ex-NTT DATA Payment Services India, Co-Founder Financial Technologies India. Bharati Vidyapeeth BE 1990\n Geeta Chauhan; Co-Founder; Hiwipay, ex-Ntt Data Payment Services, ex-Atom Technologies, UCLA Anderson School of Management, 2022\n Ujwal Tamminedi; Co-founder and Chief Technology Officer; Hiwi Forex Transaction Services, ex-Zokudo, ex-The Mobile Wallet, EDHEC Business School, 2017",
+    "linkedin_url": "linkedin.com/in/dewangneralla,\n linkedin.com/in/dewangneralla,\n https://linkedin.com/in/geetachauhan31,\n https://linkedin.com/in/ujwaltamminedi",
+    "mobilephone": "+919930268050",
+    "phone": "+919930268050",
+    "contact_id": "522298610365"
+   }
+  ]
+ },
+ {
+  "company": "NeoGeo",
+  "deal_id": "340188365554",
+  "owner": "Lamiya Saleem",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "neogeoinfo.com",
+  "deal_linkedin": "https://linkedin.com/in/sreeramam-g-v-36a88b39",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:33.188Z",
+    "email": "info@neogeoinfo.com",
+    "firstname": "Sreeramam",
+    "hs_object_id": "522298874613",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:58:32.401Z",
+    "lastname": "G V; Chief Executive Officer; Neogeoinfo Technologies, ex-Geoinfosys Technologies, Birla Institute of Technology and Science, Pilani, 1994",
+    "linkedin_url": "https://linkedin.com/in/sreeramam-g-v-36a88b39",
+    "mobilephone": "+919313359531",
+    "phone": "+919313359531",
+    "contact_id": "522298874613"
+   }
+  ]
+ },
+ {
+  "company": "Buildd",
+  "deal_id": "340188302042",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "buildd.co",
+  "deal_linkedin": "https://linkedin.com/in/suvansh-bansal",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Buildd",
+    "createdate": "2026-08-03T12:58:42.747Z",
+    "email": "hrishikesh@buildd.co",
+    "firstname": "Suvansh",
+    "hs_object_id": "530405804793",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:38:45.438Z",
+    "lastname": "Bansal",
+    "linkedin_url": "https://linkedin.com/in/suvansh-bansal",
+    "mobilephone": "+918511194400",
+    "phone": "+918511194400",
+    "contact_id": "530405804793"
+   }
+  ]
+ },
+ {
+  "company": "EximPe",
+  "deal_id": "340119858894",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "eximpe.com",
+  "deal_linkedin": "https://linkedin.com/in/arjunabrahamzacharia",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "EximPe",
+    "createdate": "2026-08-03T12:58:51.035Z",
+    "email": "arjun@eximpe.com",
+    "firstname": "Arjun",
+    "hs_object_id": "530242740948",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:25:24.903Z",
+    "lastname": "Abraham Zacharia",
+    "linkedin_url": "https://linkedin.com/in/arjunabrahamzacharia",
+    "mobilephone": "+919845232406",
+    "phone": "+919845232406",
+    "contact_id": "530242740948"
+   }
+  ]
+ },
+ {
+  "company": "Saarathi",
+  "deal_id": "340117873398",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "saarathi.ai",
+  "deal_linkedin": "https://linkedin.com/in/mehtalalit",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Saarathi",
+    "createdate": "2026-08-03T12:59:03.964Z",
+    "email": "care@saarathi.ai",
+    "firstname": "Lalit",
+    "hs_object_id": "530430529214",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T20:22:47.372Z",
+    "lastname": "Mehta",
+    "linkedin_url": "https://linkedin.com/in/mehtalalit",
+    "mobilephone": "+919216493338",
+    "phone": "+919216493338",
+    "contact_id": "530430529214"
+   }
+  ]
+ },
+ {
+  "company": "Floworks",
+  "deal_id": "340188343021",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "floworks.ai",
+  "deal_linkedin": "https://linkedin.com/in/sarthak-shrivastava",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": "Floworks",
+    "createdate": "2026-08-03T12:59:18.323Z",
+    "email": "sudipta@floworks.ai",
+    "firstname": "Sarthak",
+    "hs_object_id": "530397479645",
+    "jobtitle": "Founder",
+    "lastmodifieddate": "2026-08-03T21:33:41.910Z",
+    "lastname": "Shrivastava",
+    "linkedin_url": "https://linkedin.com/in/sarthak-shrivastava",
+    "mobilephone": "+919353469949",
+    "phone": "+919353469949",
+    "contact_id": "530397479645"
+   }
+  ]
+ },
+ {
+  "company": "Blitz",
+  "deal_id": "340168742618",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "blitznow.in",
+  "deal_linkedin": "https://linkedin.com/in/mayank-varshney-657632126",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:08.400Z",
+    "email": "mayank@blitznow.in",
+    "firstname": "Mayank",
+    "hs_object_id": "522298532549",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:59:35.249Z",
+    "lastname": "Varshney; Co-Founder; mayank@blitznow.in; Ex-Shop101. IIT Kanpur BTech 2018\n Gaurav Piyush; Co-Founder; gaurav@blitznow.in; Ex-Jio. IIT Kanpur BTech 2019\n Yash Sharma; Co-Founder; yash@blitznow.in; Ex-ShareChat, PwC India. IIT Kanpur BE 2018",
+    "linkedin_url": "https://linkedin.com/in/mayank-varshney-657632126,\n https://linkedin.com/in/gaurav-piyush-bb246616b,\n https://linkedin.com/in/yash-sharma-805b78a4",
+    "mobilephone": "+919455500191",
+    "phone": "+919455500191",
+    "contact_id": "522298532549"
+   }
+  ]
+ },
+ {
+  "company": "Liquide Solutions",
+  "deal_id": "340166765263",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "liquide.life",
+  "deal_linkedin": "https://linkedin.com/in/paritoshgn",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:12.411Z",
+    "email": "paritosh@liquide.life",
+    "firstname": "Paritosh",
+    "hs_object_id": "522307807938",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:59:47.371Z",
+    "lastname": "Kumar Gunjan; Co-Founder; paritosh@liquide.life; Ex-McKinsey, Flygrades, Crayon Data, Samsung Electronics, Wipro. University of Delhi BSc 2005, BITS Pilani MSc 2009\n Anuj Bajpai; Co-Founder & CEO; anuj@liquide.life; Ex-McKinsey, ZS Associates, Sun Microsystems. Indian Institute Of Information Technology Allahabad BTech 2009, IIM Lucknow MBA 2014\n Kunal Ambasta; Co-Founder - COO & CIO; Liquide, ex-Castlight Health, ex-Atos Syntel, Birla Institute of Technology and Science, Pilani, 2009\n Aniket Dilip Shirke; Co-Founder & CDAO; aniket@liquide.life; Ex-McKinsey, PwC, Inductis, HSBC. IIT Bombay BTech 2006, IIM Lucknow MBA 2010",
+    "linkedin_url": "https://linkedin.com/in/paritoshgn,\n https://linkedin.com/in/bajpaianuj,\n https://linkedin.com/in/kunalambasta,\n https://linkedin.com/in/aniketdshirke",
+    "mobilephone": "+919599588124",
+    "phone": "+919599588124",
+    "contact_id": "522307807938"
+   }
+  ]
+ },
+ {
+  "company": "Oorjaa",
+  "deal_id": "340080265931",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "oorjaa.tech",
+  "deal_linkedin": "https://linkedin.com/in/sandeep-patil-18a3a16",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:19.372Z",
+    "email": "sandeep.patil@oorjaa.tech",
+    "firstname": "Sandeep",
+    "hs_object_id": "522307134162",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T12:59:53.462Z",
+    "lastname": "Patil; Co-Founder & CEO; sandeep.patil@oorjaa.tech; Ex-Essel Infraprojects, IL&FS Financial Services, Morgan Stanley Advantage Services, Raymonds. Veermata Jijabai Technological Institute BTech 2001, JBIMS, Mumbai MBA 2005\n Yogesh Parab; Co-Founder & CTO; yogesh.parab@oorjaa.tech; Ex-Tavisca Solutions, Tieto, Cognizant Technology Solutions, Indigo Architects. Savitribai Phule Pune University BE\n Prashant Mohite; Co-Founder & COO; Oorjaa, ex-Supreme Transconcepts, ex-Aarya Trans Solutions",
+    "linkedin_url": "https://linkedin.com/in/sandeep-patil-18a3a16,\n https://linkedin.com/in/yogesh-p-57839424,\n https://linkedin.com/in/prashant-mohite-3a188827",
+    "mobilephone": "+919833550953",
+    "phone": "+919833550953",
+    "contact_id": "522307134162"
+   }
+  ]
+ },
+ {
+  "company": "Jidoka",
+  "deal_id": "340168717020",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "jidoka-tech.ai",
+  "deal_linkedin": "https://linkedin.com/in/vinodhjidoka",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:24.528Z",
+    "email": "sales@jidoka-tech.com",
+    "firstname": "Vinodh",
+    "hs_object_id": "522298534631",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T13:00:00.578Z",
+    "lastname": "Venkatesan; Co-Founder & CRO; Co-Founder-JIDOKA Technologies | Ex-Endotech Solar,Endotherm Fluids,L&T Infotech | Anna University BE 2011\n Krishna Iyengar; Co-Founder & CTO; Ex-Techmech Engineers, IBM. IIT Madras BTech MTech 2006, Cornell University PhD 2011\n Sekar Udayamurthy; Co-Founder & CEO; Ex-Cognizant, Thomson Reuters, Conformia Software Labs, Ionidea. University of Maryland Baltimore County MS 2004, Birla Institute of Technology and Science, Pilani BS 1996, Massachusetts Institute of Technology 2016",
+    "linkedin_url": "https://linkedin.com/in/vinodhjidoka,\n https://www.linkedin.com/in/vinodhjidoka/,\n https://linkedin.com/in/iyengark,\n https://linkedin.com/in/sekarudayamurthy",
+    "mobilephone": "+919962279984",
+    "phone": "+919962279984",
+    "contact_id": "522298534631"
+   }
+  ]
+ },
+ {
+  "company": "FatakPay",
+  "deal_id": "340166765268",
+  "owner": "Yuktha Anand",
+  "stage": "Cold Call",
+  "pipeline": "default",
+  "domain": "fatakpay.com",
+  "deal_linkedin": "https://www.linkedin.com/in/amit-goyal-3a8b295/",
+  "created": "2026-08-03",
+  "source": "Tracxn ranked sheet",
+  "scraped_type": "Distressed startups",
+  "contacts": [
+   {
+    "city": null,
+    "company": null,
+    "createdate": "2026-07-20T11:24:31.374Z",
+    "email": "amit.goyal@fatakpay.com",
+    "firstname": "Amit",
+    "hs_object_id": "522301917890",
+    "jobtitle": null,
+    "lastmodifieddate": "2026-08-03T13:00:10.392Z",
+    "lastname": "Goyal; Co-Founder & MD; amit.goyal@fatakpay.com; Ex-Ethos Capital Advisors, Kotak Investment Banking, Graven Packaging, PwC.\n Amit Kumar Lodha; Co Founder & CEO; Fatakpay, ex-Hdfc Bank, ex-Kkr, PGDMS, 2002\n Abhishek Mahendra Gandhi; Co-Founder & CBO; abhishek@fatakpay.com; Abki Solutions, Rajhans Group, ex-Co-Founder RupeeCircle. Bharati Vidyapeeth BE 2004, Erasmus University Rotterdam MSc 2008\n Ajit Kumar; Co-Founder & COO; ajit@fatakpay.com; Ex-Founder & CEO RupeeCircle, Axis Bank, Citigroup, Modelytics. IIT Bombay BTech, MTech 2005",
+    "linkedin_url": "https://www.linkedin.com/in/amit-goyal-3a8b295/,\n https://linkedin.com/in/aklodha,\n https://linkedin.com/in/abhishek-gandhi-1037233,\n https://linkedin.com/in/ajit-kumar-0216454",
+    "mobilephone": "+919820232276",
+    "phone": "+919820232276",
+    "contact_id": "522301917890"
+   }
+  ]
+ }
+]

@@ -1,0 +1,6971 @@
+[
+ {
+  "deal_id": "335922425584",
+  "name": "3ELIXIR SOLUTIONS",
+  "stage": "Call Attempted",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "3elixir.com",
+  "city_hs": "Surat, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "luhar ramilla- did not pick up the callsuthar sachin- incoming calls blocked right now, he is was invovled in tech in the companyluhar is Founder and Suthar is CTO at their joint new venture"
+   }
+  ]
+ },
+ {
+  "deal_id": "335922425585",
+  "name": "1Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "1solutions.biz",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "company still functioning, and their linkedin desc/timeline of company do not match"
+   }
+  ]
+ },
+ {
+  "deal_id": "335922425586",
+  "name": "1985",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": null,
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "1985.co.in",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954041590",
+  "name": "ACSESTECH Consulting Services Pvt Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": null,
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "acsestech.com",
+  "city_hs": "Hyderabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "wrong services"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954041591",
+  "name": "Alliedge Technologies Pvt Ltd",
+  "stage": "Call Attempted",
+  "owner": null,
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "alliedge.in",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "did not connect, it's a IT service firm started in 2022, low chances of projects without vibe coding"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954041592",
+  "name": "Aktiv Software",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "aktivsoftware.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954041593",
+  "name": "Alpine Software",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "alpinesoftsolution.com",
+  "city_hs": "Jaipur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "2 poeple company"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042555",
+  "name": "Aculance IT Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "aculance.com",
+  "city_hs": "Indore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "15 people in company"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042556",
+  "name": "Adequate Infosoft Pvt. Ltd",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "adequateinfosoft.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042558",
+  "name": "Ace Infoway",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "aceinfoway.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "sent a whatsapp message"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "called again no repsonse"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042559",
+  "name": "ALEAIT SOLUTIONS PVT. LTD.",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "aleaitsolutions.com",
+  "city_hs": "Jaipur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "megha busy Ashutosh wrong number"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042561",
+  "name": "AGT India",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "agtindia.com",
+  "city_hs": "Coimbatore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "eshoppify etc type of service company"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042562",
+  "name": "Analogue IT Solutions",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "analogueitsolutions.com",
+  "city_hs": "Hyderabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "looked interested , sent a mail and whatsapp"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "called no repsonse"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042563",
+  "name": "Actiknow Consulting Pvt Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "actiknow.com",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "13 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042564",
+  "name": "Tech Active",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "active.agency",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "foreign company"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042565",
+  "name": "Ancrew Global Services",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "ancrewglobal.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "company started in 2025"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042567",
+  "name": "Act T Connect",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "acttconnect.com",
+  "city_hs": "Bhopal, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "will call me back"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "call done will call me back later"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042568",
+  "name": "Ailoitte",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "ailoitte.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "he was driving so asked drop. a mail ."
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042569",
+  "name": "Aavatto",
+  "stage": "Call Attempted",
+  "owner": null,
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "aavatto.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "need to call himback  in 1 hourcalled he didint pick up"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042570",
+  "name": "Ample Websol",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": null,
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "amplewebsol.com",
+  "city_hs": "Vadodara, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "13 employee company"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042571",
+  "name": "Airo Global Software",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "airoglobal.com",
+  "city_hs": "Kochi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042572",
+  "name": "AirOxa Innovative Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "airoxa.in",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "10 employees"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042573",
+  "name": "Ambab Infotech Pvt. Ltd.",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "ambab.com",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "9769766964  need to call bhavikas cimpany s closed called no response"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042576",
+  "name": "AlphaKlick Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": null,
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "alphaklick.com",
+  "city_hs": "Jaipur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "3 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042577",
+  "name": "AiderPro Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": null,
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "aiderpro.com",
+  "city_hs": "Kochi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "9 people comopany"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042578",
+  "name": "ALT-D Technologies LLP",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "altd.in",
+  "city_hs": "Kochi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "less then 13 people in company"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042579",
+  "name": "Aalpha Information Systems India Pvt. Ltd.",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "aalpha.net",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042580",
+  "name": "Accurate Info Soft pvt ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": null,
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "acsonnet.com",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "20 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042581",
+  "name": "7Span",
+  "stage": "Call Attempted",
+  "owner": null,
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "7span.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042583",
+  "name": "ANNEXCODE",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "annexcode.com",
+  "city_hs": "Mohali, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "3 people in the company"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042584",
+  "name": "Adsum Originator LLP",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "adsumoriginator.com",
+  "city_hs": "Surat, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "called both no response also its a gambling gaming site"
+   },
+   {
+    "ts": "2026-07-21",
+    "body": "sent both WA and mail is interested"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "will call me later"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042586",
+  "name": "Anviam Solutions",
+  "stage": "Interested",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-15",
+  "modified": "2026-07-30",
+  "domain": "anviam.com",
+  "city_hs": "Mohali, India",
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "aman@anviam.com mail sent to and wa"
+   },
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Initial Talk\nCategory: Private Code Base\nPriority: High\nRemarks: On VC, founder didn't joined and sent a developer who wasn't the right authority\nLast update: 22-Jul-2026 | Next follow-up: 27-Jul-2026"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042590",
+  "name": "Aaryavarta Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "aaryavarta.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "need to call from the number on linkedin"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042594",
+  "name": "Aartek Software Solutions Pvt. Ltd",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "aartek.co.in",
+  "city_hs": "Indore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "wrong no. need to find his linkedin no"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042595",
+  "name": "AdaptNXT Technology Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "adaptnxt.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "only 20 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042596",
+  "name": "AIVEDA",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "aiveda.io",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042597",
+  "name": "Airovo Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "airovo.tech",
+  "city_hs": "Kolkata, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042598",
+  "name": "Aglowid It Solutions",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "aglowiditsolutions.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "very interested. needs to talk with his partner,sent message in WA"
+   },
+   {
+    "ts": "2026-07-27",
+    "body": "called again no response"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042601",
+  "name": "AgileCube Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "agilecube.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "just 10 members in the company."
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042602",
+  "name": "4w Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "4wtech.com",
+  "city_hs": "Chennai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042606",
+  "name": "9series Inc",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "9series.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "tey dont have such dormant codebase right now but will let me know .for now sent wahatsapp and email"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042609",
+  "name": "Adhoc Softwares INC",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "adhocsoftwares.com",
+  "city_hs": "Coimbatore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "not associated with Adhoc anymore"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042610",
+  "name": "AGENCY09",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "agency09.in",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "was asked to send a mail to this ditin@agency09.in sent the mail"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "call done no response"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042611",
+  "name": "Aican Private Limited",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "aicanservices.com",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042613",
+  "name": "A3Logics",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "a3logics.com",
+  "city_hs": "Jaipur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "+91 99280 35102 from linkedin, called ceo"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042614",
+  "name": "Accucia",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "accucia.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "interested send WA message"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042616",
+  "name": "Accusol",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "accusol.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043579",
+  "name": "Allianze Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "allianzetechnologies.com",
+  "city_hs": "Coimbatore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043580",
+  "name": "Aapna Infotech",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "aapnainfotech.com",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "kindof interested , sent a whatsapp message"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043581",
+  "name": "Aimbeat",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "aimbeat.com",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043582",
+  "name": "ADVMEDIA",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "advmedia.in",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "WA message sent"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "call done no repsonse"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043584",
+  "name": "Ancile Technologies Pvt Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "anciletech.com",
+  "city_hs": "Kolkata, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "not revenlant"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043586",
+  "name": "Akili Systems",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "akilisystems.in",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043587",
+  "name": "AES Technologies India Private Limited",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "advanceecomsolutions.com",
+  "city_hs": "Coimbatore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043590",
+  "name": "Alcax Solutions",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "alcax.com",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043591",
+  "name": "99Graphics Design",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "99graphicsdesign.com",
+  "city_hs": "Kolkata, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043592",
+  "name": "Aimbeat Technology Pvt Ltd",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "aimbeattechnology.com",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043593",
+  "name": "Antsglobe Technologies",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "antsglobe.com",
+  "city_hs": "Nagpur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "asked to send a mail to admin@anstglobe.com"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "call done no response"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043595",
+  "name": "Abhiwan Technology",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "abhiwan.com",
+  "city_hs": "Noida, India",
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "interested but need to talk to his team ragading this for now sent a WA message and will follow up on it"
+   },
+   {
+    "ts": "2026-07-27",
+    "body": "called again , asked to call later"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043597",
+  "name": "AdventSys Technologies Private Limited",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "adventsys.in",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "he will call back"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "call done no response"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043601",
+  "name": "Absolute App Labs",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "absoluteapplabs.com",
+  "city_hs": "Chennai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043603",
+  "name": "AlterSquare",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "altersquare.io",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043604",
+  "name": "Ambiguous Solutions",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "ambiguous.in",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "+91 79274 30343 fromlinkedin"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043605",
+  "name": "Alphre",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "alphre.com",
+  "city_hs": "Chennai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954041587",
+  "name": "APSTIA PRIVATE LIMITED",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "apstia.com",
+  "city_hs": "Jaipur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954041588",
+  "name": "ARD Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "ardtechs.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954041589",
+  "name": "Ascent24 Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "ascent24.io",
+  "city_hs": "Coimbatore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042554",
+  "name": "Appco Software",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": null,
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "appcosoftware.com",
+  "city_hs": "Jaipur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042557",
+  "name": "Ascent iQ",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "ascentiqservices.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042560",
+  "name": "Apagen Solutions Pvt. Ltd.",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "apagen.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042566",
+  "name": "Arth Technology",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "arthtechnology.com",
+  "city_hs": "Vadodara, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "early stage company"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042574",
+  "name": "APPiLY Technologies",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "appilytech.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "snet WA message"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "call done no response"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042575",
+  "name": "Ascomp Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "ascomp.in",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042582",
+  "name": "App India",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "appindia.co.in",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042585",
+  "name": "Aquadsoft",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "aquadsoft.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042587",
+  "name": "Arokee Online Solutions Pvt. Ltd",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "arokee.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042588",
+  "name": "Arramton Infotech Pvt Ltd",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "arramton.com",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "asked to call tomorrow 21st julydidit he call back didnt pick up"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042589",
+  "name": "Appfinz Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "appfinz.com",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042591",
+  "name": "Appsvolt",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": null,
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "appsvolt.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042592",
+  "name": "Argenius",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "argenius.in",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042599",
+  "name": "Apparrant Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "apparrant.com",
+  "city_hs": "Noida, India",
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "asked to send a mail to info@apparrant.comalso sent a WA message"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042600",
+  "name": "Arkatiss",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "arkatiss.com",
+  "city_hs": "Hyderabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042603",
+  "name": "Appsinvo Pvt. Ltd.",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "appsinvo.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042604",
+  "name": "Appstean",
+  "stage": "Call Attempted",
+  "owner": null,
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "appstean.com",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "anila jain wrong noatul need to call again"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042605",
+  "name": "Appsimity Solutions",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "appsimity.com",
+  "city_hs": "Mohali, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "need to call back tomorrow"
+   },
+   {
+    "ts": "2026-07-21",
+    "body": "called today , messaged to will call back later"
+   },
+   {
+    "ts": "2026-07-21",
+    "body": "called again no response"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042608",
+  "name": "Apptians",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "apptians.com",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "+91 96104 26447 his no from linkedin"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042612",
+  "name": "Arohatech",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "arohatech.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "call failed"
+   },
+   {
+    "ts": "2026-07-23",
+    "body": "wrong no."
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042615",
+  "name": "ascent",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "ascentfuturetech.com",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954042617",
+  "name": "Appface Technologies Pvt Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "appface.in",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "wrong number"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043578",
+  "name": "Aron Web Solutions",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "aronwebsolutions.com",
+  "city_hs": "Mohali, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043583",
+  "name": "Artoon Solutions",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "artoonsolutions.com",
+  "city_hs": "Surat, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043585",
+  "name": "ARKA Softwares",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "arkasoftwares.com",
+  "city_hs": "Jaipur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043588",
+  "name": "Apptware",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "apptware.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043589",
+  "name": "Appscomp Widgets Pvt Ltd.,",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "appscomp.com",
+  "city_hs": "Coimbatore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043594",
+  "name": "Appther Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "appther.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "automated call inbox"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043596",
+  "name": "Appic Softwares",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "appicsoftwares.com",
+  "city_hs": "Jaipur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "call shubham as i called the other person and asked me to call him"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043599",
+  "name": "Aripra Infotech",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "aripratech.com",
+  "city_hs": "Indore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "sent an email"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "call done no repsonse"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043600",
+  "name": "Arham Web Works",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "arhamwebworks.com",
+  "city_hs": "Surat, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "will cal back me later"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "snwt mail and WA"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "replied back in WA that he doesn't have such codebase"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043602",
+  "name": "Aryavrat Infotech Inc.",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "aryausa.com",
+  "city_hs": "Jaipur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335954043606",
+  "name": "Appcrunk Technologies Private Limited",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "appcrunk.com",
+  "city_hs": "Mohali, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "not interested"
+   }
+  ]
+ },
+ {
+  "deal_id": "335929619178",
+  "name": "Athmin Technologies",
+  "stage": "Script Shared",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "athmin.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "sent message in whatsapp , he is interested but can have a google meet on friday"
+   },
+   {
+    "ts": "2026-07-27",
+    "body": "First VC done, WA group created and Script shared, output will be received by 28/08"
+   }
+  ]
+ },
+ {
+  "deal_id": "335929619179",
+  "name": "Assystant",
+  "stage": "GMeet Fixed",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "assystant.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "call disturbance"
+   }
+  ]
+ },
+ {
+  "deal_id": "335929619180",
+  "name": "Atomic North",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "atomicnorth.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-21",
+    "body": "foreign company and  number , just keeping it here until there is a status for foreign company and numbers"
+   }
+  ]
+ },
+ {
+  "deal_id": "335929619181",
+  "name": "Askgalore Digital",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-08-01",
+  "domain": "askgalore.com",
+  "city_hs": "Bhopal, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "335929619182",
+  "name": "Asparrow Tech",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-29",
+  "domain": "asparrowtech.com",
+  "city_hs": "Indore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "hangup the call"
+   }
+  ]
+ },
+ {
+  "deal_id": "335929619183",
+  "name": "Askme Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-15",
+  "modified": "2026-07-28",
+  "domain": "askmetechnologies.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-20",
+    "body": "not interested"
+   }
+  ]
+ },
+ {
+  "deal_id": "337060454074",
+  "name": "IT - Reckonsys",
+  "stage": "Dead/Negotiation/Pricing",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-21",
+  "modified": "2026-07-29",
+  "domain": "",
+  "city_hs": null,
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Codebase\nPriority: High\nRemarks: Team not able to understand how to run the script even after the demo\nMetadata: https://drive.google.com/drive/folders/1vit5kLklJ93lEOMDKdDU08LfTgpWdNZ4?usp=drive_link\nLast update: 27-Jul-2026 | Next follow-up: 28-Jul"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "Fishing, says they are getting $2.6k for a 130K LOC project from hud.ai; we'll wait for them to come back"
+   }
+  ]
+ },
+ {
+  "deal_id": "337060454081",
+  "name": "IT- Antino",
+  "stage": "Dead/Negotiation/Pricing",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-21",
+  "modified": "2026-07-28",
+  "domain": "",
+  "city_hs": null,
+  "priority": "low",
+  "value_range": "our offer is $40k for 55 qualified projects with >50k LOC and > 50 PR · he wants 3cr for 55 projects",
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: On Hold · ON HOLD\nCategory: Private Codebase\nPriority: Low\nRemarks: our offer is $40k for 55 qualified projects with >50k LOC and > 50 PR, he wants 3cr for 55 projects, currently he was not interested\nLast update: 20-Jul-2026 | Next follow-up: 1-Sep"
+   }
+  ]
+ },
+ {
+  "deal_id": "337063295719",
+  "name": "Serpent Consulting 1",
+  "stage": "Deal Contract Signed",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-21",
+  "modified": "2026-08-01",
+  "domain": "",
+  "city_hs": null,
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Agreement Shared\nCategory: Private Codebase\nPriority: High\nRemarks: Contract signed, data migration in progress\nMetadata: https://drive.google.com/drive/folders/13XGapJCKwKB61nrydPod0DI1EREEb77H?usp=drive_link\nLast update: 22-Jul-2026 | Next follow-up: 27-Jul"
+   },
+   {
+    "ts": "2026-07-30",
+    "body": "We'll check data at Repo level and give them our offer"
+   }
+  ]
+ },
+ {
+  "deal_id": "337062580938",
+  "name": "NMG",
+  "stage": "Script Shared",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-21",
+  "modified": "2026-07-31",
+  "domain": "",
+  "city_hs": null,
+  "priority": "low",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Codebase\nPriority: Low\nRemarks: NMG to run new projects on our script, will followup for output\nLast update: 23-Jul-2026 | Next follow-up: 30-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "337061895900",
+  "name": "Nickelfox",
+  "stage": "Commercial Negotiation",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-21",
+  "modified": "2026-07-31",
+  "domain": "",
+  "city_hs": null,
+  "priority": "medium",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Output Received\nCategory: Private Codebase\nPriority: Medium\nRemarks: 8-10 projects; previously shared only 1 project but asked them to share data for more projects, awaiting script output for 10 projects\nMetadata: https://drive.google.com/drive/u/0/folders/19GmciBGeB5YbtK3b7KYD8Dy9O3QUgr4I\nLast update: 23-Jul-2026 | Next follow-up: 27-Jul"
+   },
+   {
+    "ts": "2026-07-30",
+    "body": "Was told they'll get $5k per project when they were first contacted, total LOC is not much ~1M, i have offered $1.5k as PR is good, have asked them to think again and also share larger LOC projects"
+   }
+  ]
+ },
+ {
+  "deal_id": "337067686646",
+  "name": "Ultrafly Solutions",
+  "stage": "Script Shared",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-21",
+  "modified": "2026-07-31",
+  "domain": "",
+  "city_hs": null,
+  "priority": "medium",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: On Hold · ON HOLD\nCategory: Private Codebase\nPriority: Medium\nRemarks: Delayed in running the script; Not picking up phone call\nLast update: 21-Jul-2026 | Next follow-up: 27-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "337065518809",
+  "name": "Kylient Software Solutions",
+  "stage": "Interested",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-21",
+  "modified": "2026-07-31",
+  "domain": "",
+  "city_hs": null,
+  "priority": "medium",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Initial Talk\nCategory: Private Codebase\nPriority: Medium\nRemarks: Dodging calls, un responsive, called 27/07\nLast update: 27-Jul-2026 | Next follow-up: 28-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "337281021633",
+  "name": "Cloudberry",
+  "stage": "Script Shared",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-21",
+  "modified": "2026-07-31",
+  "domain": "cloudberry.io",
+  "city_hs": null,
+  "priority": "medium",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Codebase\nPriority: Medium\nRemarks: Cloudberry Founder has another company with 4 code bases. He will share those only after we finalise on Cloudberry Codebases. Cloudberry has 2 with a bad PR:LoC ratio, (pre training)\nDid not pick up the call/message on 27/07\nLast update: 27-Jul-2026 | Next follow-up: 29-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "337065518822",
+  "name": "Cruzata",
+  "stage": "Dead/ResultsReceived/WrongFit-Rejected",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-21",
+  "modified": "2026-07-31",
+  "domain": "cruzata.com",
+  "city_hs": null,
+  "priority": "low",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Dropped\nCategory: Private Codebase\nPriority: Low\nRemarks: Codebase was subpar and also it was saved as personal projects on github, we will need custom scripts to get. Initial script results were dissappointing, not worth pursuing\nLast update: 22-Jul-2026 | Next follow-up: NA"
+   }
+  ]
+ },
+ {
+  "deal_id": "337063328497",
+  "name": "Backspacce Technologies",
+  "stage": "Closed/Won",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-21",
+  "modified": "2026-07-30",
+  "domain": "backspacce.com",
+  "city_hs": null,
+  "priority": "low",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Deal Closed\nCategory: Private Codebase\nPriority: Low\nRemarks: Contract, Data Migration and Payment Done from Sales side\nMetadata: https://drive.google.com/drive/folders/1En79qPzZkPX40rr54Kf8FW9w9RpN3lAE?usp=drive_link\nLast update: 21-Jul-2026 | Next follow-up: NA"
+   }
+  ]
+ },
+ {
+  "deal_id": "337064724197",
+  "name": " A360PL",
+  "stage": "Script Shared",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-21",
+  "modified": "2026-07-31",
+  "domain": "a360pl.com",
+  "city_hs": null,
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Code Base\nPriority: High\nRemarks: script shared, developer OOO, will share reults by 30th\nLast update: 27-Jul-2026 | Next follow-up: 30-Jul"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "Share the script output on 30/07, their teach person was OOO."
+   }
+  ]
+ },
+ {
+  "deal_id": "337281021677",
+  "name": "Zensar",
+  "stage": "Interested",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-21",
+  "modified": "2026-07-31",
+  "domain": "",
+  "city_hs": null,
+  "priority": "medium",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Initial Talk\nCategory: Private Codebase\nPriority: Medium\nRemarks: Asked ashish reachout once, will reachout again on 29/07\nStatus (23 Jul): tried calling, no response, he is intouch with Ashish on WA\nLast update: 27-Jul-2026 | Next follow-up: 29-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "337064050377",
+  "name": "iPixxel Tech Private Limited",
+  "stage": "Script Shared",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-21",
+  "modified": "2026-07-31",
+  "domain": "",
+  "city_hs": null,
+  "priority": "medium",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Initial Talk\nCategory: Private Codebase\nPriority: Medium\nRemarks: run the script on 28/07\nStatus (23 Jul): touchbase 28/07\nLast update: 27-Jul-2026 | Next follow-up: 28-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "337064725200",
+  "name": "CAZ BRAIN",
+  "stage": "Script Shared",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-21",
+  "modified": "2026-07-31",
+  "domain": "cazbrain.com",
+  "city_hs": null,
+  "priority": "medium",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Initial Talk\nCategory: Private Codebase\nPriority: Medium\nRemarks: run the script on 28/07\nStatus (23 Jul): touchbase 28/07\nLast update: 27-Jul-2026 | Next follow-up: 28-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "337061205715",
+  "name": "Unicode Systems",
+  "stage": "Script Shared",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-21",
+  "modified": "2026-07-31",
+  "domain": "",
+  "city_hs": null,
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Codebase\nPriority: High\nRemarks: Founder flying out of India, asked to connect next week on 23 or 24; not reachable since we dropped a text also\nStatus (23 Jul): unreachable, dropped a WA text\nLast update: 27-Jul-2026 | Next follow-up: 29-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "337491828432",
+  "name": "91social",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "91social.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "call didnt go through to sunil, call back again."
+   }
+  ]
+ },
+ {
+  "deal_id": "337476426466",
+  "name": "Advanced Millennium Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "amt.in",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337497325297",
+  "name": "AISCOR Private Limited",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "aiscor.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337539255995",
+  "name": "Alphalogic Techsys Limited",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "alphalogicinc.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "11 people company"
+   },
+   {
+    "ts": "2026-07-27",
+    "body": "11 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337570133717",
+  "name": "AnAr Solutions Pvt Ltd",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-08-01",
+  "domain": "anarsolutions.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337561116383",
+  "name": "Aneka Labs Private Limited",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "anekalabs.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "19 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337557537472",
+  "name": "Angular Minds",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-08-01",
+  "domain": "angularminds.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "call abhijit again"
+   },
+   {
+    "ts": "2026-07-22",
+    "body": "sent an email and whatsapp to him."
+   }
+  ]
+ },
+ {
+  "deal_id": "337562917578",
+  "name": "Appzia Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "appziatech.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337580198589",
+  "name": "Arieotech",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "arieotech.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "Had call with Vasant, he mentioned that all IPs are owned by clients and they donot have codebases of any benched projects. Not interested in pursuing this."
+   }
+  ]
+ },
+ {
+  "deal_id": "337532053182",
+  "name": "Ariston IT Services",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "aristonitservices.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337635637994",
+  "name": "Associative",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "associative.in",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "wrong fit 1 employee"
+   },
+   {
+    "ts": "2026-07-27",
+    "body": "1 person company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337506221754",
+  "name": "Azympto",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "azympto.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337559331517",
+  "name": "Banao Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "banao.tech",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337561116398",
+  "name": "Biz4Solutions LLC",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "biz4solutions.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337561116400",
+  "name": "Boston Technology Corporation",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "boston-technology.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337633848034",
+  "name": "Bpointer Technologies",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-08-01",
+  "domain": "bpointer.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "call didnt go through to Ketki, call back"
+   }
+  ]
+ },
+ {
+  "deal_id": "337559331523",
+  "name": "Brainmine Web Solutions",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "brainminetech.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337504515786",
+  "name": "BugendaiTech",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "bugendaitech.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337497326279",
+  "name": "Business Marketing Solution",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "bmmarketingsolution.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "spoc and comapny dont match"
+   }
+  ]
+ },
+ {
+  "deal_id": "337635638002",
+  "name": "Canarys",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "ecanarys.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "Raghu sent me his technical member to callSudheer - 9066053335sudheer.chandra@ecanarys.com"
+   },
+   {
+    "ts": "2026-07-23",
+    "body": "Sudheer - 9066053335sudheer.chandra@ecanarys.com sent message and mail"
+   }
+  ]
+ },
+ {
+  "deal_id": "337562917610",
+  "name": "Celestiq Datatech Pvt. Ltd",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "celestiq.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "Spoke with Vikas, not interested, their codes are owned by BFSI clients."
+   }
+  ]
+ },
+ {
+  "deal_id": "337524844277",
+  "name": "cloudmantra",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "cloudmantra.net",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "16 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337635638975",
+  "name": "Cloute Technologies Pvt Ltd",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "cloute.co.in",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "number switched off, reattempt calling"
+   }
+  ]
+ },
+ {
+  "deal_id": "337506221804",
+  "name": "CodeGama",
+  "stage": "Interested",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-08-01",
+  "domain": "codegama.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "Reached out to Vithya, she has asked me to follow up tomorrow, and send an email in the meantime. Email sent."
+   }
+  ]
+ },
+ {
+  "deal_id": "337562918594",
+  "name": "Codetentacles Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "codetentaclestechnologies.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "not enough details"
+   }
+  ]
+ },
+ {
+  "deal_id": "337524844278",
+  "name": "Codingmart Technologies Private Limited",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "codingmart.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "call didnt go through, call again on Monday"
+   }
+  ]
+ },
+ {
+  "deal_id": "337559331563",
+  "name": "CognitiveClouds",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-31",
+  "domain": "cognitiveclouds.app",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "."
+   },
+   {
+    "ts": "2026-07-22",
+    "body": "client clled back interested , sent mail and whatsapp"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "calll done no response"
+   }
+  ]
+ },
+ {
+  "deal_id": "337497326322",
+  "name": "Creant Technologies Private Limited",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-31",
+  "domain": "creanttechnologies.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "interested , but they work with PSU so worried about legalityasked to follow up on tuesday 28th July"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "asked to drop a mail as they are still figuring legal issues.he will revert back when it is possible"
+   }
+  ]
+ },
+ {
+  "deal_id": "337562919659",
+  "name": "Creware Technologies Pvt",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "creware.asia",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "call attempted to GR Soni, didnt go through"
+   }
+  ]
+ },
+ {
+  "deal_id": "337476427487",
+  "name": "Custom-Soft",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "custom-soft.biz",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337614161604",
+  "name": "Cybersapient",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "cybersapient.io",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "Spoke with Nijin, he has asked for company credentials. Have sent email and whatsapp."
+   }
+  ]
+ },
+ {
+  "deal_id": "337557539548",
+  "name": "DATAMATO",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "datamato.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "sudeep no. out of service other foreign no"
+   }
+  ]
+ },
+ {
+  "deal_id": "337506222779",
+  "name": "Day One Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "day1tech.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337571931865",
+  "name": "Deqode",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "deqode.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337524845249",
+  "name": "Digiapt Software Technologies Pvt Ltd",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "digiapt.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "call didnt go through, dropped an email - call again on Monday."
+   }
+  ]
+ },
+ {
+  "deal_id": "337571931867",
+  "name": "DigiQAL Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "digiqal.in",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "1 employee"
+   }
+  ]
+ },
+ {
+  "deal_id": "337508033226",
+  "name": "DTC Infotech",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "dtcinfotech.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337612379850",
+  "name": "Easenext",
+  "stage": "Script Shared",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-29",
+  "domain": "easenext.com",
+  "city_hs": "Pune, India",
+  "priority": "low",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "He is interested, busy till 28th, will call him up and set up a meet on Tuesday."
+   },
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Code Base\nPriority: Low\nRemarks: Was delaying in running the script\nLast update: 27-Jul-2026 | Next follow-up: 28-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "337474609895",
+  "name": "EC Infosolutions",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "ecinfosolutions.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337532054212",
+  "name": "Ecotech IT Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "ecotechservices.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337568344805",
+  "name": "EdgeVerve",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "edgeverve.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337589163710",
+  "name": "Edhaas digisoft",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "edhaasvisuals.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "6 employee"
+   }
+  ]
+ },
+ {
+  "deal_id": "337580202684",
+  "name": "Ekfrazo Technologies Private Limited",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "ekfrazo.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "Nitesh - wrong no sree foreign no"
+   }
+  ]
+ },
+ {
+  "deal_id": "337637430987",
+  "name": "Emsphere Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "emsphere.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337446316753",
+  "name": "eORB Solutions Inc.",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "eorbsolutions.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337476431557",
+  "name": "Eternal HighTech",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "eternalhightech.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "13 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337508034297",
+  "name": "Euphoric Thought Technologies",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "euphoricthought.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "call didnt go through"
+   },
+   {
+    "ts": "2026-07-23",
+    "body": "called twice, didnt go through. Sentwhatsapp text and cold email"
+   },
+   {
+    "ts": "2026-07-23",
+    "body": "called twice, didnt pick up, sent whatsapp and cold email."
+   }
+  ]
+ },
+ {
+  "deal_id": "337612384967",
+  "name": "Evenion Technologies",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-29",
+  "domain": "eveniontechnologies.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-29",
+    "body": "called no response"
+   }
+  ]
+ },
+ {
+  "deal_id": "337561117431",
+  "name": "Exaltare Technologies Pvt Ltd",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "exaltaretech.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "He was not sure if he can use codebases from client work, to check and get back. Follow up in two days."
+   }
+  ]
+ },
+ {
+  "deal_id": "337580202696",
+  "name": "external experts",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "externalexperts.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "foreign company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337570136779",
+  "name": "Fastcurve",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-08-01",
+  "domain": "fastcurveservices.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "call Ankit at 6pm today."
+   }
+  ]
+ },
+ {
+  "deal_id": "337506223862",
+  "name": "Fibonalabs",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "fibonalabs.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "15 member company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337612384978",
+  "name": "Gentraf",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "gentraf.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "11 member company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337594569457",
+  "name": "GigLabz Private Limited",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "giglabz.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "less than 25 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337478216408",
+  "name": "Gird technologies",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "girdtechnologies.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "call didnt go through, number mentioned is wrong. Sent him an email."
+   }
+  ]
+ },
+ {
+  "deal_id": "337566524095",
+  "name": "Gloify",
+  "stage": "Deal Contract Signed",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-22",
+  "modified": "2026-07-30",
+  "domain": "gloify.com",
+  "city_hs": "Bengaluru, India",
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "WA group created, script shared. Will run script on 28/07, BLR it firm, hot lead"
+   },
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Code Base\nPriority: High\nRemarks: Check back on script result on 29 Jul\nLast update: 28-Jul | Next follow-up: 29 Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "337571931896",
+  "name": "GSA Techworld",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "gsatechworld.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "sent an email, follow up on Monday"
+   }
+  ]
+ },
+ {
+  "deal_id": "337491831538",
+  "name": "Gunadhya Software Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "gunadhyasoft.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "25 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337635643082",
+  "name": "Guruteck Solutions LLP",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "guruteck.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "8 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337566524128",
+  "name": "HashedIn",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "hashedin.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337580202721",
+  "name": "Helveticans",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "helveticans.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "2024 started company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337592759001",
+  "name": "Hexa Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "hexasolutions.in",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "2025 started company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337639224039",
+  "name": "Hexanovate",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "hexanovate.in",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "20 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337481790151",
+  "name": "HotelKey",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-08-01",
+  "domain": "hotelkeyapp.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337577161428",
+  "name": "Hutech Solutions",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "hutechsolutions.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337577161436",
+  "name": "iAssure International Technologies Pvt. Ltd",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-08-01",
+  "domain": "iassureit.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "Ashish Naik - wrong number, Asheesh Dixit is not related to the company."
+   }
+  ]
+ },
+ {
+  "deal_id": "337562921677",
+  "name": "iB Arts Pvt. Ltd.",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-29",
+  "domain": "ibarts.in",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "sneta mail and and whatsapp both Sourav and his partner Chandan sourav@ibarts.co and chandan@ibarts.co"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "called no repsonse"
+   }
+  ]
+ },
+ {
+  "deal_id": "337635644090",
+  "name": "Ideafloats Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "ideafloats.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "only 10 employees"
+   }
+  ]
+ },
+ {
+  "deal_id": "337481790176",
+  "name": "Ideesys",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "ideesys.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337566527186",
+  "name": "Imversion Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "imversion.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "only 12 employees"
+   }
+  ]
+ },
+ {
+  "deal_id": "337577163504",
+  "name": "Incentius",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "incentius.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "not interested"
+   }
+  ]
+ },
+ {
+  "deal_id": "337592762070",
+  "name": "Inceptive Technologies",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-08-01",
+  "domain": "inceptivetechnologies.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "call back in morning"
+   }
+  ]
+ },
+ {
+  "deal_id": "337592762075",
+  "name": "Indglobal Digital",
+  "stage": "Call Attempted",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-08-01",
+  "domain": "indglobal.in",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "call back"
+   }
+  ]
+ },
+ {
+  "deal_id": "337637432044",
+  "name": "Infoskaters Technologies Pvt. Ltd.",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "infoskaters.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "wrong number"
+   }
+  ]
+ },
+ {
+  "deal_id": "337474614006",
+  "name": "Innovellent Technologies Pvt. Ltd.",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Yash Wani",
+  "created": "2026-07-22",
+  "modified": "2026-07-28",
+  "domain": "innovellent.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-22",
+    "body": "10 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337854324431",
+  "name": "Cloud9 Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "pmtrackerp.in",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337786036938",
+  "name": "i-Vista",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "ivistasolutions.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337825875656",
+  "name": "Invimatic Technologies Pvt. Ltd.",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "invimatic.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337709446872",
+  "name": "Jireh Software Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "jirehsol.co.in",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "337808148182",
+  "name": "Kanix InfoTech",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "kanix.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "337786036947",
+  "name": "KIBA Labs",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "kibalabs.in",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "single person company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337900960483",
+  "name": "Krishworks Technology Innovations",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "krishworks.tech",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "20 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337808148200",
+  "name": "Levon Techno Solutions Pvt Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "levontechno.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "less people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337800342231",
+  "name": "Lobotus Technology Pvt Ltd",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "lobotus.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337900960491",
+  "name": "Logituit",
+  "stage": "Script Shared",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-23",
+  "modified": "2026-07-29",
+  "domain": "logituit.com",
+  "city_hs": "Bengaluru, India",
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Code Base\nPriority: High\nRemarks: Script shared on 28th, he will run it in a day and revert\nLast update: 28-Jul | Next follow-up: 29 Jul"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "need a few days to run the script and share output. check back on monday 03/08"
+   }
+  ]
+ },
+ {
+  "deal_id": "337813507812",
+  "name": "Lollypop Design",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "lollypop.design",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "no does not exists"
+   }
+  ]
+ },
+ {
+  "deal_id": "337825876677",
+  "name": "Macincode Technologies Private Limited",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "macincode.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "6 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337704022772",
+  "name": "Mantra Labs",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "mantralabsglobal.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "337811733234",
+  "name": "Mars Web Solution",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-29",
+  "domain": "marswebsolution.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "sent mail and whatsapp"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "called no repsonse"
+   }
+  ]
+ },
+ {
+  "deal_id": "337775018722",
+  "name": "Mechsoft Digital Technologies Pvt Ltd",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-29",
+  "domain": "mechsoftgroup.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "sent mail and whatsapp"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "he is interested but will contact me when its possible when they have dormant codebase to license"
+   }
+  ]
+ },
+ {
+  "deal_id": "337806502608",
+  "name": "MetroMindz Software Pvt Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "metromindz.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "26 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337697129159",
+  "name": "Mindpool Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "mindpooltech.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "2024 company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337900961503",
+  "name": "Mistral Solutions",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-29",
+  "domain": "mistralsolutions.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "sent mail and whatsapp"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "he has forwdead the mail to person to take care of this, will reply back to us when they decide to proceed"
+   }
+  ]
+ },
+ {
+  "deal_id": "337804722878",
+  "name": "Mitroz Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "mitroztech.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337700696798",
+  "name": "Mobicloud Technologies Pvt Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "mobicloudtechnologies.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "23 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337854325453",
+  "name": "Montek Services",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "montekservices.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "foreign company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337822660311",
+  "name": "Moshi Moshi",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "moshimoshi.in",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "he doesnt have any dormant codebase and not interested , but asked me to send a mail."
+   }
+  ]
+ },
+ {
+  "deal_id": "337811734234",
+  "name": "Movinnza",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "movinnza.in",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "11 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337775019727",
+  "name": "Nakshatra Namaha Creations",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "nakshatranamahacreations.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "11 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337778279145",
+  "name": "Neetable",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "neetable.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337786039018",
+  "name": "Netfotech Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "netfotech.in",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "wrong number"
+   }
+  ]
+ },
+ {
+  "deal_id": "337818897103",
+  "name": "NexSemi Systems Pvt. Ltd.",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "nexsemisystems.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337804722920",
+  "name": "Noetic Labs pvt ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "noetic-labs.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337843573467",
+  "name": "OpenXcell",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-29",
+  "domain": "openxcell.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337854325475",
+  "name": "Pace Wisdom Solutions",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "pacewisdom.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337689906935",
+  "name": "Kasetti Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "techkasetti.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-27",
+    "body": "wrong number"
+   }
+  ]
+ },
+ {
+  "deal_id": "337822679786",
+  "name": "Percoyo",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "percoyo.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337808167667",
+  "name": "Perfios",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "perfios.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337806520014",
+  "name": "Pichkaari Design Studio",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "pichkaari.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337806520017",
+  "name": "Pickcel",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "pickcel.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337691767541",
+  "name": "Plexusbit Software",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "plexusbit.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "10 member company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337831092952",
+  "name": "Poscig Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "poscig.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "17 member and 2024 company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337739491031",
+  "name": "Prescient Technologies Pvt Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "pre-scient.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "wrong no."
+   }
+  ]
+ },
+ {
+  "deal_id": "337778294489",
+  "name": "Probey Services",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "probeyservices.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337689907917",
+  "name": "Progton Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "progton.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337739491034",
+  "name": "QED42",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "qed42.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "2 nd call attempt no resposne"
+   }
+  ]
+ },
+ {
+  "deal_id": "337854340853",
+  "name": "Qualityze Inc",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-29",
+  "domain": "qualityze.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337832926920",
+  "name": "Qwickbit Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "qwickbit.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "12 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337806520040",
+  "name": "RailsCarma",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "railscarma.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "different company and founder"
+   }
+  ]
+ },
+ {
+  "deal_id": "337822680764",
+  "name": "Reach C Onmark Pvt Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "reachc.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "2 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337795278522",
+  "name": "Rede Consulting Services",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "redeoverseas.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "24 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337824163543",
+  "name": "REGO Techno Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "regotechnosolutions.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "9 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337838245621",
+  "name": "Relish Development Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "relishdevelopers.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "6 member company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337697150683",
+  "name": "Risva",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "risva.app",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "5 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337802224375",
+  "name": "Rorko",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "rorko.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "wrong number"
+   }
+  ]
+ },
+ {
+  "deal_id": "337802224377",
+  "name": "Rupstech Pvt. Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "rupstech.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "4 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337818912480",
+  "name": "Samniya Digital Pvt. Ltd.",
+  "stage": "GMeet Fixed",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-30",
+  "domain": "samniyadigital.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337804739308",
+  "name": "Santeware Healthcare Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "santeware.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "22 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337843589838",
+  "name": "Sarathi",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "sarathisoftech.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "6 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337800358627",
+  "name": "Scalex Technology Solutions",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "scalextech.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337822680792",
+  "name": "Shivrai technologies",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-29",
+  "domain": "shivrai.co.in",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "mail and whatsapp sent"
+   },
+   {
+    "ts": "2026-07-28",
+    "body": "call attempt 3 done"
+   }
+  ]
+ },
+ {
+  "deal_id": "337800358630",
+  "name": "Sidhyati Technology Solutions Private Limited",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "sidhyatitech.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-23",
+    "body": "22 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "337739492029",
+  "name": "Skillsac Learning And Business Solutions PVT LTD",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "skillsac.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337700714184",
+  "name": "Sm Softwares",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-28",
+  "domain": "smsoftwares.com",
+  "city_hs": "Pune, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "337806520057",
+  "name": "SmartX Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-23",
+  "modified": "2026-07-29",
+  "domain": "smartxtech.co",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339018465985",
+  "name": "Specbee",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "specbee.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "US company, and spoc pri is just part time there|spoc 2 is ceo and there is no no.plus in US"
+   }
+  ]
+ },
+ {
+  "deal_id": "339175586529",
+  "name": "Sun Plus Software Technologies",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "sunplussoftware.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "will call back later until then wa and mail sent"
+   }
+  ]
+ },
+ {
+  "deal_id": "338964131516",
+  "name": "Tech4biz Solutions Private Limited",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "tech4bizsolutions.com",
+  "city_hs": "Bengaluru, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338894944989",
+  "name": "Absolute ERP",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "erpabsolute.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338983744212",
+  "name": "Addon Solutions Pvt Ltd.",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "addonsolutions.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339172007624",
+  "name": "Advantal Technologies Pvt Ltd",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "advantaltechnologies.com",
+  "city_hs": "Indore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338903934670",
+  "name": "AIS Pvt Ltd",
+  "stage": "Cold Call",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "ainfosolutions.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338917057216",
+  "name": "Appventurez",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "appventurez.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339022101182",
+  "name": "Ark Newtech",
+  "stage": "Cold Call",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "arknewtech.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338981936848",
+  "name": "Arobit Business Solutions Pvt. Ltd",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "arobit.com",
+  "city_hs": "Kolkata, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339016734436",
+  "name": "ArYuPay Technologies",
+  "stage": "Cold Call",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "aryupaytech.com",
+  "city_hs": "Bhopal, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339022103235",
+  "name": "Atharva System",
+  "stage": "Cold Call",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "atharvasystem.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338884120310",
+  "name": "Automatrix Innovation",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-30",
+  "domain": "automatrix-innovation.com",
+  "city_hs": "Kolkata, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "SENT whatsapp"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "call done no resposne"
+   }
+  ]
+ },
+ {
+  "deal_id": "339009522411",
+  "name": "BANDI INFORMATICS PVT. LTD.",
+  "stage": "Cold Call",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "bandi.co.in",
+  "city_hs": "Chennai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338981937884",
+  "name": "Beno Support Technologies Pvt. Ltd",
+  "stage": "Cold Call",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "benosupport.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339020301018",
+  "name": "Bharat Software Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-30",
+  "domain": "bharatsoftware.com",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "NO company profile"
+   }
+  ]
+ },
+ {
+  "deal_id": "339022105316",
+  "name": "Bigscal Technologies Pvt Ltd",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "bigscal.com",
+  "city_hs": "Surat, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338917060340",
+  "name": "Bit Canny Technologies Pvt. Ltd.",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "bitcanny.com",
+  "city_hs": "Kolkata, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338927907572",
+  "name": "Bitstek Consulting",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "bitstek.io",
+  "city_hs": "Hyderabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "9 people compnay"
+   }
+  ]
+ },
+ {
+  "deal_id": "339170388712",
+  "name": "Blobstation",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "blobstation.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-31",
+    "body": "wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "339022106337",
+  "name": "BlueApple Technologies Pvt. Ltd.",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "blueappleonline.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338894952135",
+  "name": "BR TECHGEEKS PRIVATE LIMITED",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "brtechgeeks.com",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338927909609",
+  "name": "BrainMobi",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "brainmobi.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338958796486",
+  "name": "Briskstar Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "briskstar.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338894953209",
+  "name": "Browseinfo",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "browseinfo.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339009526511",
+  "name": "Byteridge",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "byteridge.com",
+  "city_hs": "Hyderabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "company based in california"
+   }
+  ]
+ },
+ {
+  "deal_id": "338927912691",
+  "name": "Calibraint",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "calibraint.com",
+  "city_hs": "Chennai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339018474206",
+  "name": "Canopus Infosystems",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "canopusinfosystems.com",
+  "city_hs": "Indore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338951581406",
+  "name": "Catalyst Media Integrated LLP",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "catalystmi.com",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-31",
+    "body": "wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "339011309263",
+  "name": "Chamunda Tech-Net Services Pvt.Ltd",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "ctns.info",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339022109376",
+  "name": "Choice TechLab",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "choicetechlab.com",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338898550476",
+  "name": "ClaySys Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "claysys.com",
+  "city_hs": "Kochi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338985550568",
+  "name": "Codal",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "codal.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339020309216",
+  "name": "Code2dev",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "code2dev.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338927917801",
+  "name": "Codegait",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "codegait.com",
+  "city_hs": "Kolkata, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339023869657",
+  "name": "Codenomad",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "codenomad.net",
+  "city_hs": "Mohali, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-31",
+    "body": "wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "338964141798",
+  "name": "Codezeros",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "codezeros.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338898554581",
+  "name": "Cognine",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "cognine.com",
+  "city_hs": "Hyderabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-31",
+    "body": "foreign no"
+   }
+  ]
+ },
+ {
+  "deal_id": "338983762669",
+  "name": "Cogxim Softwares Pvt Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "cogxim.com",
+  "city_hs": "Jaipur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339172027077",
+  "name": "Conacent Consulting",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "conacent.com",
+  "city_hs": "Kolkata, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338898555629",
+  "name": "Consagous Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "consagous.co",
+  "city_hs": "Indore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339022112475",
+  "name": "Copperchips",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "copperchips.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339018478308",
+  "name": "Crescentek",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "crescentek.com",
+  "city_hs": "Kolkata, India",
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "9836900840rajesh bajaj by Pavitra"
+   }
+  ]
+ },
+ {
+  "deal_id": "339168595697",
+  "name": "Cross Section Interactive PVT. LTD.",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "csipl.net",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338894966512",
+  "name": "Daily Code Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "dailycodesolutions.com",
+  "city_hs": "Jaipur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339020313313",
+  "name": "DataCrops Software Pvt. Ltd.",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "datacrops.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "13 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "338953381573",
+  "name": "Deepmindz Innovations",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "deepmindz.co",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338884130499",
+  "name": "Deft Infosystems (P) Ltd",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "deftinfosystems.com",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338958803681",
+  "name": "DeoTech Solutions",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "deotechsolutions.com",
+  "city_hs": "Jaipur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "freelancer"
+   }
+  ]
+ },
+ {
+  "deal_id": "338898557688",
+  "name": "Destm Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "destm.com",
+  "city_hs": "Mohali, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339172032189",
+  "name": "Developer Discussion",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "developerdiscussion.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339172032217",
+  "name": "Devolyt",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "devolyt.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "12 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339168597744",
+  "name": "DI Solutions",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "disolutions.net",
+  "city_hs": "Surat, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339179194077",
+  "name": "Digital Mesh",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "digitalmesh.com",
+  "city_hs": "Kochi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338956974781",
+  "name": "DMCS INDIA PRIVATE LIMITED",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "dmcsindia.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "1 person company"
+   }
+  ]
+ },
+ {
+  "deal_id": "338894972629",
+  "name": "Dotcom IoT",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "dotcom.co.in",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "asked to call this no. 9033533754 - CTO"
+   }
+  ]
+ },
+ {
+  "deal_id": "338964149981",
+  "name": "Dreams Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "dreamstechnologies.com",
+  "city_hs": "Coimbatore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "not an IT firmm"
+   }
+  ]
+ },
+ {
+  "deal_id": "339018484413",
+  "name": "DreamzTech Solutions Inc.",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "dreamztech.com",
+  "city_hs": "Kolkata, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "foreign country"
+   }
+  ]
+ },
+ {
+  "deal_id": "338983773908",
+  "name": "Ecleva Pvt Ltd",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "ecleva.com",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338965982939",
+  "name": "Elicit Digital",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "elicit.digital",
+  "city_hs": "Indore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338927933141",
+  "name": "Emorphis Technologies",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "emorphis.com",
+  "city_hs": "Indore, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "asked to send WA and mail"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "called no response, mail sentabhinav@emorphis.com"
+   }
+  ]
+ },
+ {
+  "deal_id": "338917073602",
+  "name": "Ennovations Techserv",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "ennovationstechserv.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "ASKED TO CALL TMRW post lunch"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "called no repsonse"
+   }
+  ]
+ },
+ {
+  "deal_id": "338927933176",
+  "name": "Epixel Solutions",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "epixelsolutions.com",
+  "city_hs": "Kochi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339011322594",
+  "name": "Esolz Technologies Pvt. Ltd.",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "esolz.net",
+  "city_hs": "Kolkata, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338985559774",
+  "name": "eWandzDigital",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "ewandzdigital.com",
+  "city_hs": "Delhi, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "they will reach out if any dormant codebase or dormant company data  also ig the person is in US so no normal calls"
+   }
+  ]
+ },
+ {
+  "deal_id": "338983776971",
+  "name": "Expedite Software Services",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "expediteinc.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "26 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339009552062",
+  "name": "Finacus Solutions",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "finacus.co.in",
+  "city_hs": "Mumbai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "both wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "338985560822",
+  "name": "Flyers Soft Private Limited",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "flyerssoft.com",
+  "city_hs": "Chennai, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "snet mail and wa"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "sent mail and wa"
+   }
+  ]
+ },
+ {
+  "deal_id": "338981956330",
+  "name": "Foxsense Innovations",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "foxsense.com",
+  "city_hs": "Hyderabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339175623390",
+  "name": "Fullestop",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "fullestop.com",
+  "city_hs": "Jaipur, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "339023884018",
+  "name": "Futiq Technologies Pvt. Ltd.",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "futiq.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "out ofservice no"
+   }
+  ]
+ },
+ {
+  "deal_id": "339172044521",
+  "name": "fxis.ai",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "fxis.ai",
+  "city_hs": "Ahmedabad, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339009553139",
+  "name": "Goodpick Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "goodpicktech.com",
+  "city_hs": "Noida, India",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "338965988037",
+  "name": "Spine Software Systems Pvt Ltd",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "espine.in",
+  "city_hs": "Mohali, India",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "7087002998 called company no sent WA"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "called no response"
+   }
+  ]
+ },
+ {
+  "deal_id": "339017083583",
+  "name": "Brilworks Software",
+  "stage": "Dead/Negotiation/Contractual",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "",
+  "city_hs": null,
+  "priority": "low",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Dropped\nCategory: Private Code Base\nPriority: Low\nRemarks: Dropped the deal, possibly a scam\n\nWanted payment before transfering anything and sounded very fishy\nLast update: 10-Jul-2026 | Next follow-up: NA"
+   }
+  ]
+ },
+ {
+  "deal_id": "339175954123",
+  "name": "Schrout Software",
+  "stage": "Commercial Negotiation",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-28",
+  "modified": "2026-07-30",
+  "domain": "schrout.com",
+  "city_hs": null,
+  "priority": "low",
+  "value_range": "asking $3000 we offered $500 for 3 projects",
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: On Hold · ON HOLD\nCategory: Private Codebase\nPriority: Low\nRemarks: Cataloguing, asking $3000 we offered $500 for 3 projects\nLast update: 11-Jul-2026 | Next follow-up: 10-Aug"
+   },
+   {
+    "ts": "2026-07-30",
+    "body": "We can't proceed here unless we get zip files from them"
+   }
+  ]
+ },
+ {
+  "deal_id": "338955384547",
+  "name": "Serpent Consulting 2",
+  "stage": "Deal Contract Signed",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "",
+  "city_hs": null,
+  "priority": "high",
+  "value_range": "Pitched $2k for NETLINKSAF_projects_summary · might not accept $2k",
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Output Received\nCategory: Private Codebase\nPriority: High\nRemarks: Pitched $2k for NETLINKSAF_projects_summary; this project was by his subsidary company, might not accept $2k, he'll come back with how much they want\nLast update: 27-Jul-2026 | Next follow-up: 27-Jul\n(Phase-2 deal — sibling of the phase-1 deal of the same company.)"
+   },
+   {
+    "ts": "2026-07-30",
+    "body": "Husen to setup call with his partners and do the pitch for $5.5K"
+   }
+  ]
+ },
+ {
+  "deal_id": "338982203121",
+  "name": "Codevian Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "",
+  "city_hs": null,
+  "priority": "medium",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Dropped\nCategory: Private Codebase\nPriority: Medium\nRemarks: has nothing to share now\nLast update: 21-Jul-2026 | Next follow-up: 27-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "338957218500",
+  "name": "Religent Systems",
+  "stage": "Dead/GMeet/wrong fit",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "religentsystems.com",
+  "city_hs": "Hyderabad",
+  "priority": "low",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Initial Talk\nCategory: Private Codebase\nPriority: Medium\nRemarks: Awaiting client's response for script sharing\nLast update: 23-Jul-2026 | Next follow-up: 27-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "338957218501",
+  "name": "Doomshell",
+  "stage": "Script Shared",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "doomshell.com",
+  "city_hs": "Jaipur",
+  "priority": "low",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Initial Talk\nCategory: Private Codebase\nPriority: Medium\nRemarks: Script shared, call setup at 12 on 28/07\nStatus (23 Jul): meeting tomm\nLast update: 27-Jul-2026 | Next follow-up: 28-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "339168867007",
+  "name": "Enaviya",
+  "stage": "Dead/ResultsReceived/WrongFit-Rejected",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-28",
+  "modified": "2026-07-28",
+  "domain": "",
+  "city_hs": null,
+  "priority": "low",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Dropped\nCategory: Private Codebase\nPriority: Low\nRemarks: Upneet decided not to pursue the account on the immediate deal as the script outcome was rejected. Shobit Gupta and Harshpalsingh Chauhan were told not to visit the office\nLast update: 23-Jul-2026 | Next follow-up: 27-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "338959140579",
+  "name": "Techweirdo 2",
+  "stage": "Interested",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-28",
+  "modified": "2026-07-30",
+  "domain": "techweirdo.com",
+  "city_hs": null,
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Initial Talk\nCategory: Private Codebase\nPriority: High\nRemarks: - We have already acquired 15 projects from tech Weirdo, next phase of acquisition is in talks\nLast update: 23-Jul-2026 | Next follow-up: 27-Jul-2026"
+   }
+  ]
+ },
+ {
+  "deal_id": "339175954154",
+  "name": "Backspace Technologies 2",
+  "stage": "Closed/Won",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-28",
+  "modified": "2026-07-30",
+  "domain": "backspacetechnologies.com",
+  "city_hs": null,
+  "priority": "low",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Codebase\nPriority: High\nRemarks: Has 5-6 more projects that he wants to sell\nLast update: 27-Jul-2026 | Next follow-up: 28-Jul-2026\n(Phase-2 deal — sibling of the phase-1 deal of the same company.)"
+   }
+  ]
+ },
+ {
+  "deal_id": "338982204094",
+  "name": "Encureit",
+  "stage": "Script Shared",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "",
+  "city_hs": null,
+  "priority": "low",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Initial Talk\nCategory: Private Codebase\nPriority: Medium\nRemarks: Awaiting client's response for script sharing\nStatus (23 Jul): unreachable\nLast update: 27-Jul-2026 | Next follow-up: 29-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "338895317724",
+  "name": "Bloom CS",
+  "stage": "Script Shared",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-28",
+  "modified": "2026-07-29",
+  "domain": "",
+  "city_hs": null,
+  "priority": "medium",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Initial Talk\nCategory: Private Codebase\nPriority: Medium\nRemarks: First VC done last week, shared the script over email. Called him today but no response. Dropped a WA text.\nStatus (23 Jul): dropped a WA text\nLast update: 27-Jul-2026 | Next follow-up: 29-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "339024151284",
+  "name": "QuadB Tech",
+  "stage": "Script Shared",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-28",
+  "modified": "2026-07-30",
+  "domain": "quadb.com",
+  "city_hs": null,
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Output Received\nCategory: Private Code Base\nPriority: High\nRemarks: Script output recieved, poor PRs. asked to share more projects with better metircs\nStatus (23 Jul): meeting tomm\nLast update: 27-Jul-2026 | Next follow-up: 28-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "339022363383",
+  "name": "WebCodeGenie",
+  "stage": "Commercial Negotiation",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-28",
+  "modified": "2026-07-30",
+  "domain": "webcodegenie.com",
+  "city_hs": null,
+  "priority": "high",
+  "value_range": "Acquired 3 projects for $2100",
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Agreement Shared\nCategory: Private Code Base\nPriority: High\nRemarks: Acquired 3 projects for $2100\nLast update: 27-Jul-2026 | Next follow-up: 28-Jul-2026"
+   }
+  ]
+ },
+ {
+  "deal_id": "338957219532",
+  "name": "Alan (YC US connect)",
+  "stage": "Interested",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-28",
+  "modified": "2026-07-30",
+  "domain": "alan.com",
+  "city_hs": null,
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Initial Talk\nCategory: Private Code Base\nPriority: High\nRemarks: - Mail shared with Alan requesting Gmeet call\nLast update: 23-Jul-2026 | Next follow-up: 27-Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "338984128188",
+  "name": "QualeInfoTech",
+  "stage": "Dead/Negotiation/Pricing",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "",
+  "city_hs": null,
+  "priority": "medium",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Code Base\nPriority: High\nRemarks: - Shared NDA, Licensing agreement draft and script, they are reveiwing\nLast update: 27-Jul-2026 | Next follow-up: 28-Jul"
+   },
+   {
+    "ts": "2026-07-28",
+    "body": "They don't use Git, they use TFS by Microsoft, i've asked to share these data points manually for now and then we sort out data validation post commercials are finalised - Project NameNo. of Repos under this Project\nTotal Lines of Code\nTotal Pull Requests\nTotal Commits\nLanguages\nNo. of Contributors in the Project\nProject Period"
+   }
+  ]
+ },
+ {
+  "deal_id": "338898922197",
+  "name": "Tech Web",
+  "stage": "Dead/ResultsReceived/WrongFit-Rejected",
+  "owner": "Shobit Gupta",
+  "created": "2026-07-28",
+  "modified": "2026-07-30",
+  "domain": "",
+  "city_hs": null,
+  "priority": "medium",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Code Base\nPriority: Low\nRemarks: Setup a call withh harshpal to run script\nLast update: 28-Jul | Next follow-up: 29 Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "338985803485",
+  "name": "FabLead",
+  "stage": "Script Results Received",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-28",
+  "modified": "2026-08-01",
+  "domain": "",
+  "city_hs": null,
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Code Base\nPriority: High\nRemarks: schedule a meet with harshpal for script\nLast update: 28-Jul | Next follow-up: 29 Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "338985803486",
+  "name": "Tensor Thoughts",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "tensorthoughts.com",
+  "city_hs": null,
+  "priority": "low",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Code Base\nPriority: Low\nRemarks: check if they ran the script\nLast update: 28-Jul | Next follow-up: 29 Jul"
+   }
+  ]
+ },
+ {
+  "deal_id": "339217119936",
+  "name": "Scaletech",
+  "stage": "Script Results Received",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-28",
+  "modified": "2026-07-31",
+  "domain": "",
+  "city_hs": null,
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Code Base\nPriority: High\nRemarks: Script shared on 28th, he will run it in a day and revert\nLast update: 28-Jul | Next follow-up: 29 Jul"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "has 300 repos, running in batches, will get the output by today evening 29/07"
+   }
+  ]
+ },
+ {
+  "deal_id": "339233319624",
+  "name": "Logicloom",
+  "stage": "Script Results Received",
+  "owner": "Ishpreet Sood",
+  "created": "2026-07-28",
+  "modified": "2026-08-01",
+  "domain": "logicloom.in",
+  "city_hs": null,
+  "priority": "high",
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-28",
+    "body": "[Pipeline Tracker migration — 2026-07-28]\nSheet stage: Script Shared\nCategory: Private Code Base\nPriority: High\nRemarks: Script shared on 28th, he will run it in a day and revert\nLast update: 28-Jul | Next follow-up: 29 Jul"
+   },
+   {
+    "ts": "2026-07-29",
+    "body": "most code is post 2024, vibe coded and frontend so very less value. also other projects are on Microsoft AWS. Asking him to share the projects details on sheet for evaluation"
+   }
+  ]
+ },
+ {
+  "deal_id": "339325404913",
+  "name": "Sulonya Technologies Private Limited",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "sulonya.com",
+  "city_hs": "Bengaluru",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "3 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339230787318",
+  "name": "SUMERU DIGITAL SOLUTIONS",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "sumerudigital.com",
+  "city_hs": "Bengaluru",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339341257433",
+  "name": "Taaffeite Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "taaffeite.co",
+  "city_hs": "Bengaluru",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "16 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339274695386",
+  "name": "Suventure Services Pvt Ltd",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "suventure.in",
+  "city_hs": "Bengaluru",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "interested, needs to talk with his partner, sent mail  and wa"
+   }
+  ]
+ },
+ {
+  "deal_id": "339191216846",
+  "name": "Talentica Software",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "talentica.com",
+  "city_hs": "Pune",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339366455011",
+  "name": "Blockchain Simplified",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "blockchainsimplified.com",
+  "city_hs": "Pune",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339191216851",
+  "name": "Assimilate Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "assimilatetechnologies.com",
+  "city_hs": "Pune",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339348272865",
+  "name": "DevBay Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "devbay.com",
+  "city_hs": "Pune",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "spoc not founder"
+   }
+  ]
+ },
+ {
+  "deal_id": "339258674895",
+  "name": "Doshaheen",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "doshaheen.com",
+  "city_hs": "Pune",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339258674896",
+  "name": "BCC UNITED",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "bccunited.com",
+  "city_hs": "Hyderabad",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339369928381",
+  "name": "ADTECH Corp.",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "adtechcorp.io",
+  "city_hs": "Hyderabad",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "automated inbox"
+   }
+  ]
+ },
+ {
+  "deal_id": "339276496577",
+  "name": "Brugu Software Solutions private limited",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "brugu.io",
+  "city_hs": "Hyderabad",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "339191216854",
+  "name": "Fusion Informatics Limited",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "fusioninformatics.com",
+  "city_hs": "Ahmedabad",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339230788288",
+  "name": "Bytes Technolab Inc.",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "bytestechnolab.com",
+  "city_hs": "Ahmedabad",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "foreign company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339276496578",
+  "name": "Cybernative Technologies Pvt. Ltd.",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "cybernativetech.com",
+  "city_hs": "Ahmedabad",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "339191216856",
+  "name": "Biztech Consulting & Solutions",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-08-01",
+  "domain": "biztechcs.com",
+  "city_hs": "Ahmedabad",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339283365574",
+  "name": "Arvaan Technolab",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "arvaantechnolab.com",
+  "city_hs": "Ahmedabad",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "339358670574",
+  "name": "Bacancy Technology",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "bacancytechnology.com",
+  "city_hs": "Ahmedabad",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "invald no"
+   }
+  ]
+ },
+ {
+  "deal_id": "339344837326",
+  "name": "eBizTrait Technolabs Pvt Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "ebiztrait.com",
+  "city_hs": "Ahmedabad",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "foreign company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339219974890",
+  "name": "eQuest Solutions",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "equestsolutions.net",
+  "city_hs": "Ahmedabad",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "asked to drop a mail to info@equestsolutions.net and sent WA"
+   }
+  ]
+ },
+ {
+  "deal_id": "339258674904",
+  "name": "Codzgarage Infotech",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "codzgarage.com",
+  "city_hs": "Ahmedabad",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339311934190",
+  "name": "Communication Crafts",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "communicationcrafts.com",
+  "city_hs": "Ahmedabad",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "disturbance in call"
+   }
+  ]
+ },
+ {
+  "deal_id": "339274695413",
+  "name": "Beyond Key",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "beyondkey.com",
+  "city_hs": "Indore",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "foreign comapny"
+   }
+  ]
+ },
+ {
+  "deal_id": "339191216868",
+  "name": "Future Profilez Pvt Ltd.",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "futureprofilez.com",
+  "city_hs": "Jaipur",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "post 2025 company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339230788320",
+  "name": "Appentus Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "appentus.com",
+  "city_hs": "Jaipur",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339350240971",
+  "name": "Decipher Zone Technologies Pvt Ltd",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "decipherzone.com",
+  "city_hs": "Jaipur",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339344985806",
+  "name": "Dark Bears",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "darkbears.com",
+  "city_hs": "Jaipur",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339360607945",
+  "name": "Deorwine Infotech",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "deorwine.com",
+  "city_hs": "Jaipur",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-31",
+    "body": "snet mail apurav@deorwine.com and WA"
+   }
+  ]
+ },
+ {
+  "deal_id": "339274908347",
+  "name": "Brosis Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "brosistech.com",
+  "city_hs": "Jaipur",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339360607948",
+  "name": "Deeporion Technology",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "deeporion.com",
+  "city_hs": "Jaipur",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339322025668",
+  "name": "Cambiante Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "cambiante.in",
+  "city_hs": "Jaipur",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-31",
+    "body": "13 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339191431894",
+  "name": "BHARAT SYNC TECHNOLOGIES (P) LTD",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "bharatsync.com",
+  "city_hs": "Jaipur",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-31",
+    "body": "wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "339281903345",
+  "name": "Flit Webs",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "flitwebs.com",
+  "city_hs": "Jaipur",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-31",
+    "body": "10 memeber company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339191431916",
+  "name": "Depex Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "depextechnologies.com",
+  "city_hs": "Noida",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339276633843",
+  "name": "Code Calibre",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "codecalibre.com",
+  "city_hs": "Noida",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-31",
+    "body": "foreign company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339310170841",
+  "name": "Codestore Technologies Pvt Ltd",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "codestoresolutions.com",
+  "city_hs": "Noida",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339378384570",
+  "name": "AResourcePool",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "aresourcepool.com",
+  "city_hs": "Noida",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-31",
+    "body": "22 people comapany"
+   }
+  ]
+ },
+ {
+  "deal_id": "339344985837",
+  "name": "Clavis Technologies Pvt Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "clavistechnologies.com",
+  "city_hs": "Noida",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339274908378",
+  "name": "Dextrous Infosolutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "dextrousinfo.com",
+  "city_hs": "Noida",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339370138357",
+  "name": "CodeKing solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "codekingsolutions.com",
+  "city_hs": "Noida",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-31",
+    "body": "2 people company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339288969968",
+  "name": "Developers IQ",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "developersiq.com",
+  "city_hs": "Noida",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-31",
+    "body": "foreign company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339202215638",
+  "name": "BOL7 TECHNOLOGIES PRIVATE LIMITED",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "bol7.com",
+  "city_hs": "Noida",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339283511007",
+  "name": "GFN D'selva Infotech Pvt. Ltd.",
+  "stage": "Dead/Interested/NoShow",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "dselva.co.in",
+  "city_hs": "Gurgaon",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339390782156",
+  "name": "CraftedQ",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "craftedq.com",
+  "city_hs": "Gurgaon",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339357000406",
+  "name": "88gravity",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "88gravity.com",
+  "city_hs": "Gurgaon",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339221920449",
+  "name": "Bafflesol Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-31",
+  "domain": "bafflesol.com",
+  "city_hs": "Gurgaon",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339378384587",
+  "name": "Bhadani Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-08-01",
+  "domain": "bhadanitech.com",
+  "city_hs": "Gurgaon",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "."
+   }
+  ]
+ },
+ {
+  "deal_id": "339344986813",
+  "name": "Expand My Business",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "exmyb.com",
+  "city_hs": "Gurgaon",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339322025705",
+  "name": "ARM Worldwide",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "armworldwide.com",
+  "city_hs": "Gurgaon",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "spoc is an employee for now sent WA to be forwaded to the concerned person"
+   }
+  ]
+ },
+ {
+  "deal_id": "339322025706",
+  "name": "BigStep Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "bigsteptech.com",
+  "city_hs": "Gurgaon",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339352183502",
+  "name": "Envigo",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "envigo.co.in",
+  "city_hs": "Gurgaon",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339370139329",
+  "name": "Ackrolix innovations",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-08-01",
+  "domain": "ackrolix.com",
+  "city_hs": "Gurgaon",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "no website"
+   }
+  ]
+ },
+ {
+  "deal_id": "339390782166",
+  "name": "CHL Softech",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "chlsoftech.com",
+  "city_hs": "Delhi",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "23 PEOPLE Company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339230918332",
+  "name": "Agira Technologies",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "agiratech.com",
+  "city_hs": "Chennai",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339191432899",
+  "name": "Celexsa Technologies Private Limited",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "celexsa.com",
+  "city_hs": "Chennai",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "sent wa"
+   }
+  ]
+ },
+ {
+  "deal_id": "339230918335",
+  "name": "Aura BPO Services",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "aurabpo.com",
+  "city_hs": "Chennai",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339381777107",
+  "name": "BlazeDream Technologies",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "blazedream.com",
+  "city_hs": "Chennai",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "9840190624  asked to call this no."
+   }
+  ]
+ },
+ {
+  "deal_id": "339276634819",
+  "name": "Constient Global Solutions",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "constient.com",
+  "city_hs": "Chennai",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339341458125",
+  "name": "Ethical Intelligent Technologies",
+  "stage": "Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "ethicalintelligent.com",
+  "city_hs": "Chennai",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "his assistant picked up , snet WA this no."
+   }
+  ]
+ },
+ {
+  "deal_id": "339191432902",
+  "name": "Fegno Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "fegno.com",
+  "city_hs": "Kochi",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339276634820",
+  "name": "Dreamworth Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "dreamworth.in",
+  "city_hs": "Mumbai",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "marketing company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339352183507",
+  "name": "Atishay Limited",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "atishay.com",
+  "city_hs": "Mumbai",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "339202215653",
+  "name": "Freestone Infotech Pvt Ltd",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "freestoneinfotech.com",
+  "city_hs": "Mumbai",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "wrong no"
+   }
+  ]
+ },
+ {
+  "deal_id": "339352183509",
+  "name": "Elovient Software Solutions",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "elovient.com",
+  "city_hs": "Mumbai",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "2-10 company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339358812916",
+  "name": "Brainium Information Technologies",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "brainiuminfotech.com",
+  "city_hs": "Kolkata",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339227366133",
+  "name": "Codebuddy Pvt. Ltd.",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "codebuddy.co",
+  "city_hs": "Kolkata",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339381777109",
+  "name": "Bhavitra Technologies Private Limited",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "bhavitra.com",
+  "city_hs": "Kolkata",
+  "priority": null,
+  "value_range": null,
+  "notes": [
+   {
+    "ts": "2026-07-30",
+    "body": "5 member company"
+   }
+  ]
+ },
+ {
+  "deal_id": "339265953504",
+  "name": "Capanicus",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "capanicus.com",
+  "city_hs": "Mohali",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339352183511",
+  "name": "Clerisy Solutions Private Limited",
+  "stage": "Dead/ColdCall/Not Interested",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "clerisysolutions.com",
+  "city_hs": "Mohali",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339278356171",
+  "name": "Differenz System",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "differenzsystem.com",
+  "city_hs": "Surat",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339227366137",
+  "name": "Foogle Tech Software",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "foogletech.com",
+  "city_hs": "Surat",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339278356172",
+  "name": "EnactOn Technologies Private Limited",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "enacton.com",
+  "city_hs": "Surat",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339343159002",
+  "name": "CREST Infosystems Pvt Ltd",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "crestinfosystems.com",
+  "city_hs": "Surat",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339360607981",
+  "name": "Dignizant Technologies LLP",
+  "stage": "Call Attempted",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "dignizant.com",
+  "city_hs": "Surat",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ },
+ {
+  "deal_id": "339390782175",
+  "name": "Dreams Design",
+  "stage": "Dead/ColdCall/WrongFit",
+  "owner": "Shreyas Boosnoor",
+  "created": "2026-07-30",
+  "modified": "2026-07-30",
+  "domain": "dreamsdesign.in",
+  "city_hs": "Vadodara",
+  "priority": null,
+  "value_range": null,
+  "notes": []
+ }
+]

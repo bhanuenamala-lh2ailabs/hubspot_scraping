@@ -1,0 +1,812 @@
+[
+ {
+  "#debug": {
+   "requestId": "NdIE5sxqbe8NWTN",
+   "url": "http://www.google.co.in/search?q=IT+summit+Bengaluru+2026",
+   "loadedUrl": "http://www.google.co.in/search?q=IT+summit+Bengaluru+2026",
+   "method": "GET",
+   "retryCount": 0,
+   "errorMessages": [],
+   "statusCode": 200
+  },
+  "#error": false,
+  "searchQuery": {
+   "term": "IT summit Bengaluru 2026",
+   "url": "http://www.google.co.in/search?q=IT+summit+Bengaluru+2026",
+   "device": "DESKTOP",
+   "page": 1,
+   "type": "SEARCH",
+   "domain": "google.co.in",
+   "countryCode": "IN",
+   "languageCode": null,
+   "locationUule": null,
+   "resultsPerPage": 10
+  },
+  "url": "http://www.google.co.in/search?q=IT+summit+Bengaluru+2026",
+  "hasNextPage": true,
+  "serpProviderCode": "L",
+  "relatedQueries": [
+   {
+    "title": "Bengaluru Tech Summit 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+Tech+Summit+2026&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAghEAE"
+   },
+   {
+    "title": "AI Summit in bangalore 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=AI+Summit+in+bangalore+2026&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAguEAE"
+   },
+   {
+    "title": "Tech innovation summit 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Tech+innovation+summit+2026&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAgtEAE"
+   },
+   {
+    "title": "Bangalore Tech Summit entry fee",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bangalore+Tech+Summit+entry+fee&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAgrEAE"
+   },
+   {
+    "title": "Upcoming Tech Summit in Bangalore",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Upcoming+Tech+Summit+in+Bangalore&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAgmEAE"
+   },
+   {
+    "title": "Bengaluru Tech Summit BTS 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+Tech+Summit+BTS+2026&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAglEAE"
+   },
+   {
+    "title": "Bengaluru tech summit 2026 date",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+tech+summit+2026+date&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAgjEAE"
+   },
+   {
+    "title": "Upcoming Summit in Bangalore",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Upcoming+Summit+in+Bangalore&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAgiEAE"
+   },
+   {
+    "title": "Bengaluru Tech Summit 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+Tech+Summit+2026&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAghEAE"
+   },
+   {
+    "title": "AI Summit in bangalore 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=AI+Summit+in+bangalore+2026&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAguEAE"
+   },
+   {
+    "title": "Tech innovation summit 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Tech+innovation+summit+2026&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAgtEAE"
+   },
+   {
+    "title": "Bangalore Tech Summit entry fee",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bangalore+Tech+Summit+entry+fee&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAgrEAE"
+   },
+   {
+    "title": "Upcoming Tech Summit in Bangalore",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Upcoming+Tech+Summit+in+Bangalore&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAgmEAE"
+   },
+   {
+    "title": "Bengaluru Tech Summit BTS 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+Tech+Summit+BTS+2026&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAglEAE"
+   },
+   {
+    "title": "Bengaluru tech summit 2026 date",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+tech+summit+2026+date&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAgjEAE"
+   },
+   {
+    "title": "Upcoming Summit in Bangalore",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Upcoming+Summit+in+Bangalore&sa=X&ved=2ahUKEwjSpbOR58CWAxWYpZUCHbvWKAoQ1QJ6BAgiEAE"
+   }
+  ],
+  "paidResults": [],
+  "paidProducts": [],
+  "organicResults": [
+   {
+    "title": "Bengaluru Tech Summit 2026 | Asia's Premier Technology ...",
+    "websiteTitle": "Bengaluru Tech Summit 2026",
+    "url": "https://www.google.co.in/goto?url=CAESXAHrOzAVE6AVVVmVonUVEL45SzHqECsmlsVqBJejCLfGPcHZ34SRg4kvoNqea7_mUm6MnHaWIfXFcxZ-QjwGwS65OD3dszWebdOSQ3CyYWsCF4xyoUoJ5zLvmC11",
+    "displayedUrl": "https://www.bengalurutechsummit.com",
+    "description": "The 29th edition of the Bengaluru Tech Summit will take place from 17–19 November 2026 at the Bangalore International Exhibition Centre (BIEC) under the theme ' ...",
+    "emphasizedKeywords": [
+     "17–19 November 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 1
+   },
+   {
+    "title": "Bengaluru Tech Summit (@blrtechsummit)",
+    "websiteTitle": "Instagram · blrtechsummit",
+    "url": "https://www.google.co.in/goto?url=CAESYAHrOzAVMWdUPduL_ZA1AJiAZMlMj6OjR4hw0rAnxEiu_rGMh-eHxZb6I8n5eoc0oUeVqrJRGK-Gmfz5c9vRJubwC396PGxuSuitgPoOWl74BnpiP5NiAIhTyYx-IcPEtg",
+    "displayedUrl": "12 हज़ार+ फ़ॉलोअर",
+    "description": "Bengaluru Tech Summit (BTS) organized by the Dept. of Electronics, IT and Bt, GoK to be held from Nov 17-19, 2026 at BIEC. · Take your startup to a bigger stage ...",
+    "emphasizedKeywords": [
+     "Nov 17-19, 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 2
+   },
+   {
+    "title": "Bengaluru Tech Summit 2026",
+    "websiteTitle": "Internshala",
+    "url": "https://www.google.co.in/goto?url=CAESeAHrOzAVdDqOnNbuKatO0YR_WD4gYILJ_Uz_i5UJn1ouaDM_qTC3ewD7j7dru7NSWxPsLbHkP8aBXGjtSDjKI_mp7xIO0yQzIyGHfwTjXivQ1-t06SCQaZmczjYOJYdRkmgYywU1u5vyCL3SoWca9x9-MYspxilIxQ",
+    "displayedUrl": "https://internshala.com › ...",
+    "description": "Important Dates · Registration Deadline: Ongoing · Event or Submission Date: November 17 to 19, 2026 · Results Announcement: Awards (STPI/Smart Bio) on Nov ...",
+    "emphasizedKeywords": [
+     "Event or Submission Date: November 17 to 19, 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 3
+   },
+   {
+    "title": "Bengaluru Tech Summit (@BengaluruTechSummit)",
+    "websiteTitle": "Facebook · Bengaluru Tech Summit",
+    "url": "https://www.google.co.in/goto?url=CAEScgHrOzAV3d2TMIuogxzhnK4OyWJiwbCjT9Vs-PzIyTrn__yEa8LwRRWPAwSSZIwbq3egL1vSPr6qMJYNwUSAaacnMj31qzN8lU7bMukb65UKRi_Z_7_sTjrj6tXNuws6lP3xKlvvZu3PL0lYsZlhZ3sVEQ",
+    "displayedUrl": "64.2 हज़ार+ फ़ॉलोअर",
+    "description": "Bengaluru Tech Summit (BTS) organized by the Dept. of Electronics, IT and Bt Govt. of Karnataka to be held from Nov 17-19, 2026 at Bangalore International ...",
+    "emphasizedKeywords": [
+     "Nov 17-19, 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 4
+   },
+   {
+    "title": "Bengaluru Tech Summit 2026",
+    "websiteTitle": "Tradeindia",
+    "url": "https://www.google.co.in/goto?url=CAEShAEB6zswFcBY9Ut29U2h_gYz8iSK0tftzgSm2VI0dZBg4fk3pxiuro-tYjRFL52uklQyGIAuk8XV42yeV434MRsX5vPKt22h1D3ks4JrJ8fSfYsOYQ2262wES0EdQNduYlSugHWQ1HgAtH6x8aZsqOmmpA9zuAzAD-2EaJKiB5KxMFpMu6o",
+    "displayedUrl": "https://www.tradeindia.com › ...",
+    "description": "Bengaluru Tech Summit 2026 will be held from 17th - 19th November 2026 at Bengaluru Palace in Bengaluru, India. This is a major technology event that aims to ...",
+    "emphasizedKeywords": [
+     "Bengaluru Tech Summit 2026 will be held from 17th - 19th November 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 5
+   },
+   {
+    "title": "AI Conference Bangalore 2026 | Cypher, Oct 7–9",
+    "websiteTitle": "Cypher 2026",
+    "url": "https://www.google.co.in/goto?url=CAESXQHrOzAV2BEWGFuhvJtC8F2LFFST1l7GrC4YcQwq2saxoItaWSZVJtqq2YJTFLES-cxzWnzR5Z7sajYep5sY9-TlEeoUhWRb4WZ50cDxUpuHgBjilHGTa9NwPYAIxw",
+    "displayedUrl": "https://cypher.analyticsindiamag.com",
+    "description": "Cypher 2026 is India's biggest AI conference — Bengaluru, Oct 7–9. 5000+ attendees, 150+ speakers, AI Expo, AI Awards. Book your pass today.",
+    "emphasizedKeywords": [
+     "Bengaluru, Oct 7–9"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 6
+   },
+   {
+    "title": "Conference @ BTS 2026 | Bengaluru Tech Summit",
+    "websiteTitle": "Bengaluru Tech Summit 2026",
+    "url": "https://www.google.co.in/goto?url=CAESagHrOzAVOswscWudfqC-qZ_QWOTKVnosm9dT9-CAS0JdlKyRv0txeXio35_Ixo9VqqQwt7O2ptUm7LHShBo_Ujxj0rWD_qVVnyHCu5wWn2Nwc5r5VOPkjxNP8ie1tGcOXvvySUlCLg8BQL0",
+    "displayedUrl": "https://www.bengalurutechsummit.com › ...",
+    "description": "Experience the FutuRise Conference at Bengaluru Tech Summit 2026 – 3 days, 8 thematic tracks, 600+ global speakers, 100+ sessions, and dialogues shaping the ...",
+    "emphasizedKeywords": [
+     "Bengaluru Tech Summit 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 7
+   },
+   {
+    "title": "Bengaluru Tech Summit",
+    "websiteTitle": "LinkedIn · Bengaluru Tech Summit",
+    "url": "https://www.google.co.in/goto?url=CAESbQHrOzAV2X0rOJ1ioIU8CRuKuS9Fie34Zw4w2c4oesmmJ8F3MwP6clZcXIKrtX9HJ6PMYqrH4jsYM-toFBNbQMcinDFslqsZ01nJcZrNjeP6-V17zr5Q4o2UvKrz2_rX7Ce14VqROxvMilrA4Xs",
+    "displayedUrl": "30.5 हज़ार+ फ़ॉलोअर",
+    "description": "Bengaluru Tech Summit (BTS) organized by the Dept. of Electronics, IT and Bt Govt. of Karnataka to be held from Nov 17-19, 2026 at Bangalore International ...",
+    "emphasizedKeywords": [
+     "Nov 17-19, 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 8
+   }
+  ],
+  "suggestedResults": [],
+  "peopleAlsoAsk": [
+   {
+    "answer": null,
+    "question": "What summits are being held in Bangalore in 2026?",
+    "title": null,
+    "url": null,
+    "date": null
+   },
+   {
+    "answer": null,
+    "question": "Where will the AWS Summit be held in Bangalore in 2026?",
+    "title": null,
+    "url": null,
+    "date": null
+   },
+   {
+    "answer": null,
+    "question": "Which is the No. 1 IT company in Bangalore?",
+    "title": null,
+    "url": null,
+    "date": null
+   },
+   {
+    "answer": null,
+    "question": "Where will the India Digital Summit 2026 be held?",
+    "title": null,
+    "url": null,
+    "date": null
+   }
+  ],
+  "aiOverview": {
+   "type": "live",
+   "content": "The 29th edition of the Bengaluru Tech Summit 2026 (BTS 2026) will take place from 17–19 November 2026 at the Bangalore International Exhibition Centre (BIEC). Organized by the Government of Karnataka, Asia's premier technology gathering centers on the theme \"AI & Beyond.\"Dates: November 17–19, 2026Venue: Bangalore International Exhibition Centre (BIEC), Bengaluru, IndiaTheme: AI & BeyondOrganizer: Department of Electronics, IT, Bt and S&T, Government of KarnatakaFocus Areas & HighlightsArtificial Intelligence: Spotlight on the transformative and convergent power of AI with other sectors.Emerging Tech: Exploring deep tech, semiconductors, biotechnology, electronics, and resilient digital ecosystems.Global Collaboration: Bringing together industry captains, researchers, startups, investors, and policymakers.For a visual preview of what to expect as creators, capital, and policy converge at the event:2mBengaluru Tech Summit 2026 - AI & Beyond Film29 दिन पहलेYouTube·Bengaluru Tech SummitFor a visual preview of what to expect as creators, capital, and policy converge at the event:2mBengaluru Tech Summit 2026 - AI & Beyond Film29 दिन पहलेYouTube·Bengaluru Tech SummitWould you like information on registering as a delegate, booking startup pods, or the conference agenda for the Bengaluru Tech Summit 2026?Would you like information on registering as a delegate, booking startup pods, or the conference agenda for the Bengaluru Tech Summit 2026?",
+   "sources": [
+    {
+     "url": "/goto?url=CAESUwHrOzAVp6nPxS9JxkJVhmxAZxQiQjlWS7Ns6w21hEWk-SpdkkXwQ1wgxAr-1ebrQg7J4jmMJkIRd_K-_cIYieYaCDGcEQbvGpX6d2zpJZChctHP",
+     "title": "AWS Summit Bengaluru 2026",
+     "description": "Join AWS Summit Bengaluru April 22-23, 2026. Explore cloud innovation, agentic AI, and 150+ sessions. Two editions: Innovators & T..."
+    },
+    {
+     "url": "/goto?url=CAESRwHrOzAVhJn7JgjyLz3wxaaxnMhq2qtKrbJop4DvkdbqOE94LePyS3iKCdVLwzWZVqyoFyojKeQN_YvUH5adp0tf72sZUbF6",
+     "title": "Bengaluru Tech Summit 2026 | Asia's Premier Technology ...",
+     "description": "The 29th edition of the Bengaluru Tech Summit will take place from 17–19 November 2026 at the Bangalore International Exhibition C..."
+    }
+   ]
+  },
+  "customData": null,
+  "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/NNBMgPhLdYegpqBZv/records/NdIE5sxqbe8NWTN-0.html?signature=1DqR37nwkHB20hW9mw4xT"
+ },
+ {
+  "#debug": {
+   "requestId": "N4vUvkYWt9kFoZ4",
+   "url": "http://www.google.co.in/search?q=tech+expo+Bengaluru+2026",
+   "loadedUrl": "http://www.google.co.in/search?q=tech+expo+Bengaluru+2026",
+   "method": "GET",
+   "retryCount": 0,
+   "errorMessages": [],
+   "statusCode": 200
+  },
+  "#error": false,
+  "searchQuery": {
+   "term": "tech expo Bengaluru 2026",
+   "url": "http://www.google.co.in/search?q=tech+expo+Bengaluru+2026",
+   "device": "DESKTOP",
+   "page": 1,
+   "type": "SEARCH",
+   "domain": "google.co.in",
+   "countryCode": "IN",
+   "languageCode": null,
+   "locationUule": null,
+   "resultsPerPage": 10
+  },
+  "url": "http://www.google.co.in/search?q=tech+expo+Bengaluru+2026",
+  "hasNextPage": true,
+  "serpProviderCode": "L",
+  "relatedQueries": [
+   {
+    "title": "Tech events in Bangalore 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Tech+events+in+Bangalore+2026&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAghEAE"
+   },
+   {
+    "title": "Bengaluru Tech Summit 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+Tech+Summit+2026&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAhAEAE"
+   },
+   {
+    "title": "Tech EXPO in Bangalore",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Tech+EXPO+in+Bangalore&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAg7EAE"
+   },
+   {
+    "title": "Bengaluru Tech Summit BTS 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+Tech+Summit+BTS+2026&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAg0EAE"
+   },
+   {
+    "title": "Bengaluru tech summit 2026 date",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+tech+summit+2026+date&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAguEAE"
+   },
+   {
+    "title": "Tech Innovation Summit 2026 bangalore",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Tech+Innovation+Summit+2026+bangalore&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAgsEAE"
+   },
+   {
+    "title": "Bengaluru Tech Summit Registration",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+Tech+Summit+Registration&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAgqEAE"
+   },
+   {
+    "title": "Upcoming Tech Summit in Bangalore",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Upcoming+Tech+Summit+in+Bangalore&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAgjEAE"
+   },
+   {
+    "title": "Tech events in Bangalore 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Tech+events+in+Bangalore+2026&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAghEAE"
+   },
+   {
+    "title": "Bengaluru Tech Summit 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+Tech+Summit+2026&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAhAEAE"
+   },
+   {
+    "title": "Tech EXPO in Bangalore",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Tech+EXPO+in+Bangalore&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAg7EAE"
+   },
+   {
+    "title": "Bengaluru Tech Summit BTS 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+Tech+Summit+BTS+2026&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAg0EAE"
+   },
+   {
+    "title": "Bengaluru tech summit 2026 date",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+tech+summit+2026+date&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAguEAE"
+   },
+   {
+    "title": "Tech Innovation Summit 2026 bangalore",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Tech+Innovation+Summit+2026+bangalore&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAgsEAE"
+   },
+   {
+    "title": "Bengaluru Tech Summit Registration",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bengaluru+Tech+Summit+Registration&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAgqEAE"
+   },
+   {
+    "title": "Upcoming Tech Summit in Bangalore",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Upcoming+Tech+Summit+in+Bangalore&sa=X&ved=2ahUKEwinj8-S58CWAxWurq8BHZ5CEn8Q1QJ6BAgjEAE"
+   }
+  ],
+  "paidResults": [],
+  "paidProducts": [],
+  "organicResults": [
+   {
+    "title": "Bengaluru Tech Summit 2026 | Asia's Premier Technology ...",
+    "websiteTitle": "Bengaluru Tech Summit 2026",
+    "url": "https://www.google.co.in/goto?url=CAESXAHrOzAV0MS_XYNmyNilgnUX45-NRUmMYFTIFE3BfnrGxP_ThcSPvWnOA8Xgyr59dK2a9Zfsacax5hiFN6L_ukZ5rh-oMZPDifHQnMznl4c8zMwV7szg9DC-seZQ",
+    "displayedUrl": "https://www.bengalurutechsummit.com",
+    "description": "The 29th edition of the Bengaluru Tech Summit will take place from 17–19 November 2026 at the Bangalore International Exhibition Centre (BIEC) under the theme ' ...",
+    "emphasizedKeywords": [
+     "17–19 November 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 1
+   },
+   {
+    "title": "Calender Of Events",
+    "websiteTitle": "BIEC",
+    "url": "https://www.google.co.in/goto?url=CAESUgHrOzAVH7xaaDXsKSe_dw6de2F6oaJLW3gABrO69ikjVFX8YgsauCjCFroD7emD2g4H6l6HoBYeru_YVVOPna3_uDfpBBor-9TlUvC-2DYSCHM",
+    "displayedUrl": "https://www.biec.in › ...",
+    "description": "Calender Of Events ; Levis Show. Levis Strauss. January 15 - 17, 2026 ; IMTEX FORMING 2026 / Tooltech 2026. IMTMA. January 21 - 25, 2026 ; Moldex and Fastnex India.",
+    "emphasizedKeywords": [
+     "IMTEX FORMING 2026 / Tooltech 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 2
+   },
+   {
+    "title": "India Information Technology Expo 2026 in Bengaluru India",
+    "websiteTitle": "Tradeindia",
+    "url": "https://www.google.co.in/goto?url=CAESkAEB6zswFeJGU95ga0Hk6E1SZqkCv7dcKw3pc25cPDPjQTb7Ao58CSNOwHXdyuYhPw4A5m5sysR1jbj-PHiUwksDaAK8x5u0YEuZdc37SCYrtEJufz8sQ32EJiSAX92_2bDifvLVCzULznJLBGKyFygdGZIPApCSUFaaTbY4qTLqtMLfYr3ShqRIpy1zWINcKIU",
+    "displayedUrl": "https://www.tradeindia.com › ...",
+    "description": "The trade expo is a three-day event taking place from April 6 - 8, 2026 at the Bengaluru International Exhibition Centre (BIEC), Bengaluru, India. Who should ...",
+    "emphasizedKeywords": [
+     "April 6 - 8, 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 3
+   },
+   {
+    "title": "Bengaluru Tech Summit (@blrtechsummit)",
+    "websiteTitle": "Instagram · blrtechsummit",
+    "url": "https://www.google.co.in/goto?url=CAESYAHrOzAVBo1J-3wPOrpWn9jga3l9rUknFbaXnOXz82q2AVdcNzoN0TCBRuIz8fNJunXbMsQVg2j3ECJGqZXB5xP2nIiaF3588tSB_dcZY27zJpVYK_pkfUErfJ9LaLtZKw",
+    "displayedUrl": "12 हज़ार+ फ़ॉलोअर",
+    "description": "Bengaluru Tech Summit (BTS) organized by the Dept. of Electronics, IT and Bt, GoK to be held from Nov 17-19, 2026 at BIEC. · Take your startup to a bigger stage ...",
+    "emphasizedKeywords": [
+     "Nov 17-19, 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 4
+   },
+   {
+    "title": "Bengaluru Space Expo 2026",
+    "websiteTitle": "Bengaluru Space Expo 2026",
+    "url": "https://www.google.co.in/goto?url=CAESTQHrOzAVcTOxpajcsvmAOnav4lZGy1-j2-SzVzyqqOKAbZj5wNOKwfRNLXcE9Yrptsf3tSFDw3iHD3Qv5mvsm_zrKFByZc9MvN3ccaLk",
+    "displayedUrl": "https://bsxindia.com",
+    "description": "Conference · Exhibition · Conference Delegate · Exhibition Visitor · B2B · 7-9 September 2026 · Bangalore International Exhibition Centre · Total Visitors: 1.",
+    "emphasizedKeywords": [
+     "7-9 September 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 5
+   },
+   {
+    "title": "IMTEX 2027 – International Machine Tool and Manufacturing ...",
+    "websiteTitle": "imtex 2027",
+    "url": "https://www.google.co.in/goto?url=CAESTQHrOzAVp5Jv4BlGqtRTumF-oGeQScbmcbm-K3nJLYv0naxUEgwbnluvI_KrU7wR3K9mJQpxNjhSHEDc120aIekezaEi76z3WvJOFNWq",
+    "displayedUrl": "https://www.imtex.in",
+    "description": "Asia's Largest Exhibition on Metal Forming and Manufacturing Technologies, IMTEX 2027, by IMTMA, takes place from 21–27 Jan at BIEC, Bengaluru—Forming the ...",
+    "emphasizedKeywords": [
+     "IMTEX 2027"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 6
+   },
+   {
+    "title": "IEW: India Electronics Week 2026 - India's Only Conference ...",
+    "websiteTitle": "India Electronics Week",
+    "url": "https://www.google.co.in/goto?url=CAESXQHrOzAVP1d_FQv7z1ySyR9CxEdHV2tNh2NL0_3JvnqxvHjTIuhSCTUOUUDhT1IKanjO-8MCxGXXngKF_ddkA3HTi0zauc14kKUp-6viMIuWBhiqlo-UoJtJJjKgtQ",
+    "displayedUrl": "https://www.indiaelectronicsweek.com",
+    "description": "India Electronics Week (IEW) is INDIA'S only event promoting R&D in Electronics. Visit IEW on 13-15 May 2026 at KTPO, Bengaluru.",
+    "emphasizedKeywords": [
+     "13-15 May 2026 at KTPO, Bengaluru"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 7
+   },
+   {
+    "title": "ACETECH Expo 2026 | The Ultimate Architecture, Design and ...",
+    "websiteTitle": "Acetech Expo",
+    "url": "https://www.google.co.in/goto?url=CAESUAHrOzAVrRFDTxgOlcCRJkSo5bw2ml_CjbgKO2Oom6NEfyr_P3joKhGtCfSz0xvfGDMJKK1phZSIkcR-_yMHF71NqCSebdKoZj5U5dG6gn-W",
+    "displayedUrl": "https://acetechexpo.com",
+    "description": "ACETECH is India's leading trade fair for architecture, design, and building materials. Explore cutting-edge innovations, network with industry leaders, ...",
+    "emphasizedKeywords": [
+     "ACETECH is India's leading trade fair for architecture, design, and building materials"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 8
+   },
+   {
+    "title": "TechSummit2026 | Join us for the 9th Annual Tech & Innovation ...",
+    "websiteTitle": "Instagram · entrepreneurind",
+    "url": "https://www.google.co.in/goto?url=CAESYwHrOzAVY6XoTfbYgGBqhcJWhy743Kmfl5RI7OniRwp8i4k1GWNqfUEY75hPLRgvui2NGnPLEGVxFCAhdd9J2d5cfbGokHCtCEX1fR5M32HWGTmgfLu0jUFRQhv1mqgbwvw-bg",
+    "displayedUrl": "5 बार पसंद किया गया  ·  5 माह पहले",
+    "description": "",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 9
+   }
+  ],
+  "suggestedResults": [],
+  "peopleAlsoAsk": [
+   {
+    "answer": null,
+    "question": "What are the upcoming tech events in Bangalore in 2026?",
+    "title": null,
+    "url": null,
+    "date": null
+   },
+   {
+    "answer": null,
+    "question": "What is the theme of the Bengaluru Tech Summit in 2026?",
+    "title": null,
+    "url": null,
+    "date": null
+   },
+   {
+    "answer": null,
+    "question": "Where will the Interior expo be held in Bangalore in 2026?",
+    "title": null,
+    "url": null,
+    "date": null
+   }
+  ],
+  "aiOverview": {
+   "type": "live",
+   "content": "The premier technology expo in Bengaluru for late 2026 is the 29th Bengaluru Tech Summit 2026, scheduled for November 17–19, 2026.electronica India & productronica India 2026Dates: September 16–18, 2026Location: Bangalore International Exhibition Centre (BIEC)Focus: Cutting-edge electronics manufacturing, components, and industry innovations.Bengaluru Tech Summit (BTS) 2026Dates: November 17–19, 2026Location: Bangalore International Exhibition Centre (BIEC)Theme: 'AI & Beyond' (spotlighting artificial intelligence, deep tech, and advanced digital ecosystems).Print & Pack Tech Expo 2026Dates: December 19–21, 2026Location: Bangalore International Exhibition Centre (BIEC)Focus: Printing and packaging innovations.If you'd like, let me know:Which specific technology sector you are interested inWhether you want help with visitor registration or ticketing linksI can give you more details for that event.If you'd like, let me know:I can give you more details for that event.",
+   "sources": [
+    {
+     "url": "/goto?url=CAESRwHrOzAVUCsSRK1X_ZxBPx03zCFSHUSVmiOjJDlfe8p6YrohIvxiqconJyq1F6kRPnYHk_CqvjfozHiAP819NX7beJF_dUSl",
+     "title": "Bengaluru Tech Summit 2026 | Asia's Premier Technology ...",
+     "description": "The 29th edition of the Bengaluru Tech Summit will take place from 17–19 November 2026 at the Bangalore International Exhibition C..."
+    },
+    {
+     "url": "/goto?url=CAESQQHrOzAVVwD9jE5dquxdWgYh7OGTaAfkhktWZurwXbMwmqUwgM6-2qT_tiFJxeUdbD6-z9j_fiziCKXXSrO2NHTq",
+     "title": "Print and Pack Tech Expo-2026 | Leading Exhibition for ...",
+     "description": "Print & Pack Tech Expo 2026 from 19 - 21 December 2026 at Bangalore International Exhibition Centre(BIEC),Tumkur Road,Bangalore – ..."
+    }
+   ]
+  },
+  "customData": null,
+  "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/NNBMgPhLdYegpqBZv/records/N4vUvkYWt9kFoZ4-0.html?signature=s80C9Qc9AShvpGhp0yVB"
+ },
+ {
+  "#debug": {
+   "requestId": "9i2pKfPZezg5Mrf",
+   "url": "http://www.google.co.in/search?q=software+companies+trade+show+Bengaluru+2026",
+   "loadedUrl": "http://www.google.co.in/search?q=software+companies+trade+show+Bengaluru+2026",
+   "method": "GET",
+   "retryCount": 0,
+   "errorMessages": [],
+   "statusCode": 200
+  },
+  "#error": false,
+  "searchQuery": {
+   "term": "software companies trade show Bengaluru 2026",
+   "url": "http://www.google.co.in/search?q=software+companies+trade+show+Bengaluru+2026",
+   "device": "DESKTOP",
+   "page": 1,
+   "type": "SEARCH",
+   "domain": "google.co.in",
+   "countryCode": "IN",
+   "languageCode": null,
+   "locationUule": null,
+   "resultsPerPage": 10
+  },
+  "url": "http://www.google.co.in/search?q=software+companies+trade+show+Bengaluru+2026",
+  "hasNextPage": true,
+  "serpProviderCode": "L",
+  "relatedQueries": [
+   {
+    "title": "Tech events in Bangalore 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Tech+events+in+Bangalore+2026&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAg-EAE"
+   },
+   {
+    "title": "Upcoming exhibitions in Bangalore 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Upcoming+exhibitions+in+Bangalore+2026&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAhAEAE"
+   },
+   {
+    "title": "Bangalore International Exhibition Centre events 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bangalore+International+Exhibition+Centre+events+2026&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAhBEAE"
+   },
+   {
+    "title": "Upcoming exhibitions in Bangalore 2026 today",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Upcoming+exhibitions+in+Bangalore+2026+today&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAhDEAE"
+   },
+   {
+    "title": "Exhibition in Bangalore May 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Exhibition+in+Bangalore+May+2026&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAhEEAE"
+   },
+   {
+    "title": "Upcoming Fashion exhibitions in Bangalore 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Upcoming+Fashion+exhibitions+in+Bangalore+2026&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAhFEAE"
+   },
+   {
+    "title": "Tech Summit Bangalore 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Tech+Summit+Bangalore+2026&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAhCEAE"
+   },
+   {
+    "title": "Bangalore Exhibition 2026 dates",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bangalore+Exhibition+2026+dates&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAg_EAE"
+   },
+   {
+    "title": "Tech events in Bangalore 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Tech+events+in+Bangalore+2026&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAg-EAE"
+   },
+   {
+    "title": "Upcoming exhibitions in Bangalore 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Upcoming+exhibitions+in+Bangalore+2026&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAhAEAE"
+   },
+   {
+    "title": "Bangalore International Exhibition Centre events 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bangalore+International+Exhibition+Centre+events+2026&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAhBEAE"
+   },
+   {
+    "title": "Upcoming exhibitions in Bangalore 2026 today",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Upcoming+exhibitions+in+Bangalore+2026+today&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAhDEAE"
+   },
+   {
+    "title": "Exhibition in Bangalore May 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Exhibition+in+Bangalore+May+2026&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAhEEAE"
+   },
+   {
+    "title": "Upcoming Fashion exhibitions in Bangalore 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Upcoming+Fashion+exhibitions+in+Bangalore+2026&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAhFEAE"
+   },
+   {
+    "title": "Tech Summit Bangalore 2026",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Tech+Summit+Bangalore+2026&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAhCEAE"
+   },
+   {
+    "title": "Bangalore Exhibition 2026 dates",
+    "url": "https://www.google.co.in/search?sca_esv=a4ac375be92b09b0&hl=hi&q=Bangalore+Exhibition+2026+dates&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQ1QJ6BAg_EAE"
+   }
+  ],
+  "paidResults": [],
+  "paidProducts": [],
+  "organicResults": [
+   {
+    "title": "Bengaluru Tech Summit 2026 | Asia's Premier Technology ...",
+    "websiteTitle": "Bengaluru Tech Summit 2026",
+    "url": "https://www.google.co.in/goto?url=CAESXAHrOzAVxVdupT4B66OhZMQSr8mxA86PbkjIDOp6d_M7DMmYJ4BqV2f-qxTKke2-bAxz4mcQzjceKm0GKUAzzcjZu7ggARvHKUsTuzpgTpMmIH7xlpN5_ekq8pJq",
+    "displayedUrl": "https://www.bengalurutechsummit.com",
+    "description": "The 29th edition of the Bengaluru Tech Summit will take place from 17–19 November 2026 at the Bangalore International Exhibition Centre (BIEC) under the theme ' ...",
+    "emphasizedKeywords": [
+     "17–19 November 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 1
+   },
+   {
+    "title": "Trade Shows & Exhibition in Bengaluru (2026- 2027)",
+    "websiteTitle": "Tradeindia",
+    "url": "https://www.google.co.in/goto?url=CAESdAHrOzAVb1WJri0ehooFM46rxHmylKgBURgLT6fEAFY_xSzVlVi3NMiZZnUoMWjmxPzaATRZhfSQAlSzvgclcZDllOYTO9L2vKfbJo3Qk0x0sPIOb84YmHh0RTFvgsxMSMWCNlrbXvJD7GE1sYvVQ7VPEPuI",
+    "displayedUrl": "https://www.tradeindia.com › ...",
+    "description": "Electronics & Electrical SuppliesComputer Hardware & SoftwareBusiness Services ... Bengaluru Tech Summit 2026. Tue, 17 Nov, 2026 - Thu, 19 Nov, 2026.",
+    "emphasizedKeywords": [
+     "Bengaluru Tech Summit 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 2
+   },
+   {
+    "title": "Calender Of Events",
+    "websiteTitle": "BIEC",
+    "url": "https://www.google.co.in/goto?url=CAESUgHrOzAVOeauZoqKj0i7c6QzLN4HE2I3my1zpBdHahie3QlQzWAC78vLByrR4Sm3ZEqSOLhY0jqnoefzX-GZjqis8zacVIOgYFxMyCI8lqW9R0s",
+    "displayedUrl": "https://www.biec.in › ...",
+    "description": "Calender Of Events ; Levis Show. Levis Strauss. January 15 - 17, 2026 ; IMTEX FORMING 2026 / Tooltech 2026. IMTMA. January 21 - 25, 2026 ; Moldex and Fastnex India.",
+    "emphasizedKeywords": [
+     "Show",
+     "2026",
+     "2026",
+     "2026",
+     "2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 3
+   },
+   {
+    "title": "India International Smart City Tech Expo Bengaluru ...",
+    "websiteTitle": "Exhibitions For You",
+    "url": "https://www.google.co.in/goto?url=CAESmwEB6zswFXVZVhzYpF0_IpBhE5HWzJ0rVgNu_8fWT4oAHpJ8hi6CkAVAhtRP9spjMkHdmuSt3lRMzf8JwqP4XKEvYtkcK3u87Mn8O-5AbocwECxGq3nRdC8ucxI3B6AA_mthJ_0he-diiG4nvaypAO7Gc9pq0FwB47yQgHZbK7uT3oiQ0VSGbWSINZ5McGVHi010FR1jS8bI9nBRpg",
+    "displayedUrl": "https://exhibitionsforyou.com › ...",
+    "description": "The India International Smart City Tech Expo Bengaluru (India) 2026 is set to take place fromJuly 25 to July 27, 2026, at the Karnataka Trade Promotion ...",
+    "emphasizedKeywords": [
+     "Tech",
+     "Bengaluru",
+     "2026",
+     "2026",
+     "Trade"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 4
+   },
+   {
+    "title": "May 2026 Expos List is Here... Comment May to Get the List ...",
+    "websiteTitle": "Instagram · msomeshaditya",
+    "url": "https://www.google.co.in/goto?url=CAESYwHrOzAVFwUspyxTDdwFAIqKBXrGygrgf3VKU1XKBAyzKx_hiz8T_OzCLa5E-E94wlvJq2tahSMKaIasFnZtpdvV-Jv7ShaYZA8oezkgAOuzqeJ7YcmI7ZIKRMaE71r01RYI8w",
+    "displayedUrl": "1 हज़ार+ लाइक  ·  4 माह पहले",
+    "description": "",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 5
+   },
+   {
+    "title": "मैप",
+    "url": "https://www.google.co.in/search?q=software+companies+trade+show+Bengaluru+2026&sca_esv=a4ac375be92b09b0&hl=hi&udm=1&lsack=-iyQaonwDfKqvr0Pj-im2Q4&sa=X&ved=2ahUKEwiJ1bSS58CWAxVyla8BHQ-0KesQtgN6BAhTEAM",
+    "displayedUrl": "",
+    "description": "",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 6
+   },
+   {
+    "title": "Trade shows - Business automation in Bangalore 2026-2027",
+    "websiteTitle": "EXPOSALE.net",
+    "url": "https://www.google.co.in/goto?url=CAESZgHrOzAVtUgYviXe1nrQtNZCXq7dP0ovcJZMLPvdFRrZwVPhBnWmGZG1hW4lTH9SAtEyeBrqxa9pfmcsdvaJNGGTYB-7R026FaaylQqtPKqpCHxJFVMKRncFho6wGV07gjRZ8UmhSQ",
+    "displayedUrl": "https://exposale.net › exhibitions › all",
+    "description": "Bengaluru Tech Sammit 2026. International specialized exhibition of it and innovations. Less than 4 months left until the opening ; FRO Bangalore 2026.",
+    "emphasizedKeywords": [
+     "Bengaluru Tech Sammit 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 7
+   },
+   {
+    "title": "Bengaluru Space Expo 2026",
+    "websiteTitle": "Bengaluru Space Expo 2026",
+    "url": "https://www.google.co.in/goto?url=CAESTQHrOzAVIRhNJICK7CG19k2jXwGY_7-W7PPS-Vf5RQTq0Yh2ZFx13xHHr_lVwdIqWv9dU2IqJ5HH8-0JCgl7elm5IKp3tJ8bnADxRws6",
+    "displayedUrl": "https://bsxindia.com",
+    "description": "Conference · Exhibition · Conference Delegate · Exhibition Visitor · B2B · 7-9 September 2026 · Bangalore International Exhibition Centre · Total Visitors: 1.",
+    "emphasizedKeywords": [
+     "7-9 September 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 8
+   },
+   {
+    "title": "Upcoming Exhibitions in Bangalore 2026 | Trade Shows & ...",
+    "websiteTitle": "The Propshop India",
+    "url": "https://www.google.co.in/goto?url=CAESdgHrOzAVhU1tDUr3ZXPPUUn6SXkDtLT0yAUhiDyhqA-QwaJL0KF7HbLOoqRiduoW_YpdHmZU0A5J1jjHwIL406dIzu5YyaOsNvItgmxBoqVgxI642XG91LzP4Ic1HJ4GMrd5KnJfigfYeeEZJhjQLFKWTrtAJpk",
+    "displayedUrl": "https://thepropshopindia.com › ...",
+    "description": "24 जून 2026 — Explore upcoming exhibitions in Bangalore 2026 with event dates, venues, industry insights, major trade shows, and business opportunities.",
+    "emphasizedKeywords": [
+     "Explore upcoming exhibitions in Bangalore 2026"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 9
+   },
+   {
+    "title": "IMTEX 2027 – International Machine Tool and Manufacturing ...",
+    "websiteTitle": "imtex 2027",
+    "url": "https://www.google.co.in/goto?url=CAESTQHrOzAVrXK5rjPa9BrlMWcUWiauoPWfjD_4bLh0IuI8eRFTs76Q9mxBBFRAdj74VsojeXRKG_4KDesl92lw6a5t8QViJtMIDY_4hT-o",
+    "displayedUrl": "https://www.imtex.in",
+    "description": "Asia's Largest Exhibition on Metal Forming and Manufacturing Technologies, IMTEX 2027, by IMTMA, takes place from 21–27 Jan at BIEC, Bengaluru—Forming the ...",
+    "emphasizedKeywords": [
+     "IMTEX 2027"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "type": "organic",
+    "position": 10
+   }
+  ],
+  "suggestedResults": [],
+  "peopleAlsoAsk": [
+   {
+    "answer": null,
+    "question": "What are the upcoming tech events in Bangalore in 2026?",
+    "title": null,
+    "url": null,
+    "date": null
+   },
+   {
+    "answer": null,
+    "question": "Which is the No. 1 IT company in Bangalore?",
+    "title": null,
+    "url": null,
+    "date": null
+   },
+   {
+    "answer": null,
+    "question": "What exhibition is scheduled to be held in Bangalore in May 2026?",
+    "title": null,
+    "url": null,
+    "date": null
+   },
+   {
+    "answer": null,
+    "question": "When and where will the next Trade Fair in India be held in 2026?",
+    "title": null,
+    "url": null,
+    "date": null
+   }
+  ],
+  "aiOverview": {
+   "type": "live",
+   "content": "The premier software and technology trade show in Bengaluru for 2026 is the Bengaluru Tech Summit, scheduled for November 17–19, 2026.Bengaluru Tech Summit 2026 (BTS)Dates: November 17–19, 2026Venue: Bangalore International Exhibition Centre (BIEC)Focus: Asia's premier tech gathering focusing on \"AI & Beyond,\" deep tech, startups, IT innovations, and digital ecosystems.India Information Technology Expo 2026 (Completed)Dates: April 6–8, 2026Venue: Bangalore International Exhibition Centre (BIEC)Focus: Enterprise software, cybersecurity, IT infrastructure, and fintech solutions.IoTshow.in 2026 (Completed)Dates: May 13–15, 2026Venue: KTPO Trade CenterFocus: Hardware, IoT software, and AIoT creator ecosystems.If you plan to attend the upcoming Bengaluru Tech Summit, would you like information on visitor registration or the conference tracks?If you plan to attend the upcoming Bengaluru Tech Summit, would you like information on visitor registration or the conference tracks?",
+   "sources": [
+    {
+     "url": "/goto?url=CAESRwHrOzAVXTs-g-X9lGWkZGtCXoWJdPMyLGC48H6z3rK_bfE7KH1-DgBqr9es3vVdBECcDa8OuGBf-0MYyNqsRK3AKdx90jGw",
+     "title": "Bengaluru Tech Summit 2026 | Asia's Premier Technology ...",
+     "description": "The 29th edition of the Bengaluru Tech Summit will take place from 17–19 November 2026 at the Bangalore International Exhibition C..."
+    },
+    {
+     "url": "/goto?url=CAESXwHrOzAVg2Q0R-I3I9BQBnEboegif1pWCJkUb5hvgfury3fBCGiVbDKXzUsYNXctG0IVz8lGF9ybQGV9fgJ7ha8A3-tABwvmzgUOc7h8rWkWGrD-6-tvhhaAE26ibaBo",
+     "title": "Trade Shows & Exhibition in Bengaluru (2026 - Tradeindia",
+     "description": "Electronics & Electrical SuppliesComputer Hardware & SoftwareBusiness Services. Exhibit Visit. sponsored. LASER World of PHOTONICS..."
+    }
+   ]
+  },
+  "customData": null,
+  "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/NNBMgPhLdYegpqBZv/records/9i2pKfPZezg5Mrf-0.html?signature=lHA8poDuqBVmTRoJ42zh"
+ }
+]

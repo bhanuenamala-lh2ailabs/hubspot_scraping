@@ -1,0 +1,48 @@
+credits 3005 | ceiling 250
+rows lacking a personal founder email: 154 | to work now: 154
+
+[  1/154] OK  Electromech Infraproject   company        Ramesh Raju            rameshraju2k@gmail.com
+[  2/154] OK  Talent500                  name+company   Vikram Ahuja           vikram@talent500.co
+[  3/154] OK  Equirus Wealth             company        Satish Upadhyay        satishbupadhyay@gmail.com
+[  4/154] OK  TBO                        name+company   Ankush Nijhawan        ankush@tbo.com
+[  5/154]  -  QloApps                    -                                     
+[  6/154] OK  RupeeBoss                  name+company   PN Shetty              pnshetty@outlook.com
+[  7/154]  -  Roop Mantra                -                                     
+[  8/154] OK  Bharat Connect             company        Sarath Kummamuru       kcsarath@gmail.com
+[  9/154] OK  Simplify3X                 name+company   Vijay Daniel           vjdjdaniel@gmail.com
+[ 10/154] OK  OpsTree                    name+company   Shankar Prasad Jha     shankar_jsr@yahoo.com
+[ 11/154]  -  Joy e-bike                 -                                     
+[ 12/154]  -  TraderSmith                -                                     
+[ 13/154] OK  Provenance                 company        Kelsie Kellogg         mdkjr70@yahoo.com
+[ 14/154] OK  GOBOULT                    company        Rohit Ranjan           rheat.rheat048@gmail.com
+[ 15/154] OK  JobsAcademy                company        Nicola Pavesi          nicola.pavesi@gmail.com
+[ 16/154]  -  i4T                        -                                     
+[ 17/154] OK  Smartping                  name+company   Akshay Dhoot           adhoot@wustl.edu
+[ 18/154] OK  Minus One Lifestyle        company        Nikhilesh Chitlangia   chitlangianikhilesh@gmail.com
+[ 19/154]  -  Lelys                      -                                     
+[ 20/154] OK  BuildPiper                 name+company   Shankar Prasad Jha     shankar_jsr@yahoo.com
+[ 21/154] OK  Adaptive Engineering       name+company   Keyur Amin             keyur.amin@adaptive-engg.com
+[ 22/154] OK  Vidcom                     company        Jay Holbrook           sarah.holbrook@yahoo.com
+
+!! SignalHire quota hit — rerun to continue (resumable)
+
+credits 3005 -> 2989
+
+CAMPAIGN-READY: 276
+    169  founder email
+    107  company generic email
+DROPPED (no usable email): 31
+   MedAce                         founder=Ravi Panchanadan
+   topgeek                        founder=Kumar Pratik Sahu
+   Moon                           founder=Madhusudan Atmakuri
+   Pixon energy                   founder=Jake Raby
+   Interior Company               founder=Dharmaraj Ladwa
+   Indo Wagen                     founder=Moinuddin Golam
+   WinHRMS                        founder=Aroon Khatter
+   Surya Financial Technologies   founder=Srinivasa Rao B V
+   Arun Vastra Bhandar            founder=(none)
+   Amazin automation solutions    founder=(none)
+   SmartUrbs                      founder=(none)
+   Character Cosmetics            founder=Shabbir Kapdawala
+
+-> C:\Users\naani\OneDrive\Desktop\hubspot\exports\opsdata\LH2_OpsData_Founders_CampaignReady.csv

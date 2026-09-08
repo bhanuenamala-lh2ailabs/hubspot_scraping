@@ -1,0 +1,529 @@
+[
+ {
+  "name": "LoudCloud Systems Private Limited",
+  "domain": "bnedloudcloud.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Verified: pre-2020 Wayback advertises software build",
+  "evidence": [
+   "Wayback 2020 snapshot: 'we build software' for colleges/universities",
+   "Pages reached: home, blog, about only; no careers or team",
+   "No own VCS org or npm packages found",
+   "Scraper captured zero engineering signal excerpts"
+  ],
+  "why": "Pre-2024 software work is verified, but the site yielded no code-review, CI/CD or careers evidence to build on."
+ },
+ {
+  "name": "Maersk Global Service Centres (India) Pvt Ltd",
+  "domain": "maerskline.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 1997, 2021 capture had no software wording - weak +10",
+  "evidence": [
+   "Logistics and supply-chain marketing throughout; no engineering pages",
+   "'Agile' hits refer to agile supply chains, not development",
+   "Careers content is logistics operations roles",
+   "No repo, CI/CD, code review or certification signal"
+  ],
+  "why": "Core business is shipping and logistics; the corrected pages surfaced no software-engineering practice at all.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "Marsh Mclennan (India) Private Limited",
+  "domain": "mercer.co.in",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Verified: pre-2022 Wayback snapshot flagged pre2024 evidence",
+  "evidence": [
+   "Wayback 2022 snapshot quote covers benefits data products",
+   "Only 'cicd' hit is career-path 'skills pipeline' wording",
+   "All six pages reached; no Git, PR or CI/CD mention",
+   "Enterprise excerpts are risk/insurance consulting positioning"
+  ],
+  "why": "Consulting brand with no engineering-process evidence anywhere on six fetched pages, so Tier C cannot fire."
+ },
+ {
+  "name": "MCO MyCompliance India Private Limited",
+  "domain": "mco.mycomplianceoffice.com",
+  "score": 80,
+  "band": "Priority",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 35,
+  "tier_c_points": 20,
+  "caps_applied": [],
+  "pre2024_status": "Verified: pre-2022 Wayback shows shipped compliance platform",
+  "evidence": [
+   "Careers JD: 'use of version control systems' plus CI/CD integration role",
+   "Careers: QA Lead Automation with WebdriverIO, Selenium, TypeScript",
+   "About page: platform expanded 2013-2021, flagship ECOI product suite",
+   "Careers: CISO works with product engineering and cloud operations"
+  ],
+  "why": "Genuine SaaS product company hiring real QA-automation and performance-engineering staff with version control and CI/CD in the JDs."
+ },
+ {
+  "name": "MHP India Private Limited",
+  "domain": "mhp.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2005, 2013 capture had no software wording - weak +10",
+  "evidence": [
+   "'We are an agile project management company' - consulting framing",
+   "Application Management Services: SLA-based support of productive systems",
+   "Careers and team pages reached, no engineering process detail",
+   "No repo, no named CI/CD tooling, no certifications cited"
+  ],
+  "why": "Positions as agile management consulting and application support rather than a building-and-reviewing engineering shop, and no Tier A/B evidence appeared.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "Minutus Computing Private Limited",
+  "domain": "minutuscomputing.com",
+  "score": 40,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 15,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Verified: 2023 Wayback lists DevOps and app development lines",
+  "evidence": [
+   "Wayback 2023: 'DevOps Tools & Automation', 'Infrastructure Engineering'",
+   "Wayback 2023 also lists Application Development & Modernization, PLM",
+   "Careers and blog pages reached but yielded zero signal excerpts",
+   "No own VCS org, no npm packages on domain"
+  ],
+  "why": "DevOps and PLM engineering are named service lines pre-2024, but the live site surfaced no process detail to lift it past 50."
+ },
+ {
+  "name": "MorningStar India Private Limited",
+  "domain": "morningstar.in",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no careers/blog/team cap 40 (not binding)"
+  ],
+  "pre2024_status": "site live since 2012, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "Only the homepage was reachable",
+   "No careers, blog, about or team page found",
+   "No signals of any tier extracted",
+   "Investor-research content, not an engineering site"
+  ],
+  "why": "Homepage-only reach with zero engineering signal; the cap-40 still applies but nothing pushes the score near it.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted, cap-40 still stands"
+ },
+ {
+  "name": "MTAP Technologies Pvt Ltd",
+  "domain": "mtap.in",
+  "score": 80,
+  "band": "Priority",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 50,
+  "tier_c_points": 20,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2014, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "JD: 'Code review of team members' commits as part of CI/CD cycle'",
+   "CI/CD pipelines named: Jenkins, GitLab CI, CircleCI",
+   "QA automation: Selenium, Playwright, Appium; QA early in lifecycle",
+   "Owns transport platforms serving Fortune 500 and aviation enterprises"
+  ],
+  "why": "The careers page carries real engineering JDs with code review, named CI/CD tooling, git workflows and test automation on an owned platform, so the SEO/marketing hits are internal marketing roles rather than a bundled-agency offering.",
+  "changed_from_previous": "Skip 45 -> Priority 80, GOLD cap lifted"
+ },
+ {
+  "name": "Nanosecond Technologies Private Limited",
+  "domain": "pice.one",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "first capture Dec 2022, no software wording - weak +10, thin margin",
+  "evidence": [
+   "Owns fintech products: card bill payments, GST, invoicing",
+   "No careers or team page reached",
+   "No repo, CI/CD, code review or QA evidence",
+   "Site only appears in Wayback from late 2022"
+  ],
+  "why": "A young consumer fintech product with no engineering-process surface; the single owned-product signal cannot fire Tier C alone.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "NCR Corporation India Pvt Ltd",
+  "domain": "ncr.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Verified: pre-2020 Wayback advertises Aloha and Silver products",
+  "evidence": [
+   "Wayback 2020 snapshot names shipped products Aloha and Silver",
+   "Homepage: platform, applications and services, plus POS hardware",
+   "Careers page reached but no code-review or CI/CD JD text",
+   "No blog or team page; no VCS org found"
+  ],
+  "why": "Long-standing product firm but the fetched pages carry only marketing copy, giving no Tier A or B process evidence."
+ },
+ {
+  "name": "NobleServe Systems Private Limited",
+  "domain": "nobleserve.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "BPO core business cap 20"
+  ],
+  "pre2024_status": "Verified: 2023 Wayback mentions mobile, web, software development",
+  "evidence": [
+   "Homepage services: mortgage originations, title, curative, valuations",
+   "Homepage: healthcare coding services and revenue cycle management",
+   "IT services is one of three lines beside two back-office lines",
+   "Careers and about reached; no Git, CI/CD or code-review text"
+  ],
+  "why": "Mortgage processing and medical-coding back office is the core business, so the BPO cap of 20 applies despite a software service line."
+ },
+ {
+  "name": "NVIDIA Graphics Pvt Ltd",
+  "domain": "nvidia.in",
+  "score": 53,
+  "band": "Secondary",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 10,
+  "tier_b_points": 0,
+  "tier_c_points": 18,
+  "caps_applied": [],
+  "pre2024_status": "Verified: 2023 Wayback advertises AI supercomputer cloud service",
+  "evidence": [
+   "Homepage names published SDKs: NVIDIA HPC SDK, PhysicsNeMo, JetPack 7.2",
+   "Homepage announcement references NVIDIA's open stack",
+   "Product lines span consumer graphics, self-driving cars, AI",
+   "Careers page reached but no code-review or CI/CD JD text"
+  ],
+  "why": "Published SDKs and a real long-lived product portfolio verify engineering substance, but no PR-workflow evidence surfaced on the India site."
+ },
+ {
+  "name": "OIP Robotics Private Limited",
+  "domain": "oipinsurtech.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 0,
+  "tier_a_points": 0,
+  "tier_b_points": 35,
+  "tier_c_points": 15,
+  "caps_applied": [
+   "BPO core business cap 20",
+   "Tier GOLD cap 45 (2024 first archive, RED FLAG)"
+  ],
+  "pre2024_status": "RED FLAG: domain first archived April 2024",
+  "evidence": [
+   "Wayback lookup note: domain first archived 2024 or later, RED FLAG",
+   "Careers: batch hiring of Back Office Associates, 3-4 month training",
+   "Site: CI/CD pipelines, multi-environment deployments, ISO 27001 and SOC II",
+   "Careers FAQ: entry-level back-office roles continuously open"
+  ],
+  "why": "Insurance back-office operations with batch entry-level hiring is the core business, and the 2024-only web history argues against pre-LLM-era codebases."
+ },
+ {
+  "name": "Opcito Technologies Private Limited",
+  "domain": "opcito.com",
+  "score": 100,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 20,
+  "tier_b_points": 50,
+  "tier_c_points": 20,
+  "caps_applied": [
+   "total capped at 100"
+  ],
+  "pre2024_status": "Verified: 2023 Wayback shows DevOps/full-stack engineering, case studies",
+  "evidence": [
+   "External engineering blog medium.com/@OpcitoTechnologies plus own /blog",
+   "Site: 'code review techniques and version control' in DevOps practice copy",
+   "Site: Kubernetes, containers, CI/CD and cloud-native named as core",
+   "Careers: Technical Architect, Senior DevOps Engineer, QA Automation roles"
+  ],
+  "why": "A dedicated DevOps and product-engineering firm with a public engineering blog, named CI/CD tooling, code-review language and pre-2024 delivery history."
+ },
+ {
+  "name": "Orbitsys Technologies Private Limited",
+  "domain": "orbitsys.in",
+  "score": 33,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 13,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2009, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "ISO 27001:2022 certified company, stated repeatedly",
+   "Owns Cloud Hosted Dealer Management System, multi-country",
+   "Careers, blog and team pages recovered but content-free",
+   "No JD process detail, no repo, no CI/CD tooling"
+  ],
+  "why": "A long-lived owned DMS product plus ISO 27001 gives a modest base, but the recovered careers and blog pages added no engineering-process evidence.",
+  "changed_from_previous": "Skip 20 -> Skip 33, cap-40 and GOLD cap both lifted"
+ },
+ {
+  "name": "Outscalepartners India Private Limited",
+  "domain": "outscalepartners.com",
+  "score": 0,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 0,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier GOLD cap 45 (2026 first archive, RED FLAG)"
+  ],
+  "pre2024_status": "RED FLAG: domain first archived April 2026",
+  "evidence": [
+   "Wayback first snapshot 20260411, lookup note flags RED FLAG",
+   "All six pages reached yet zero signal counts recorded",
+   "No own VCS org, no npm packages, no external blogs",
+   "No CI/CD, code-review, QA or product evidence anywhere"
+  ],
+  "why": "Brand-new domain with a full page set that carries no engineering signal whatsoever."
+ },
+ {
+  "name": "Park Hospitals",
+  "domain": "neotiahospital.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2008, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "Hospital and maternity care content across all pages",
+   "All six pages reached; none mention software or engineering",
+   "No repo, CI/CD, QA or code-review signal",
+   "Enterprise hits are healthcare marketing copy"
+  ],
+  "why": "A hospital operator, not an IT firm; full page coverage confirms the absence rather than leaving it open.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "Pennant Technologies Pvt Ltd",
+  "domain": "pennanttech.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Verified: pre-2020 Wayback lists Product Engineering service line",
+  "evidence": [
+   "Wayback 2020: 'Enterprise Application Integration Product Engineering Consulting'",
+   "About: lending platform for banks and NBFCs, own leadership team",
+   "All six pages reached yet no Git, PR, CI/CD or QA text",
+   "Careers copy stays at 'cutting-edge products', no process detail"
+  ],
+  "why": "A real lending-product company with verified pre-2024 history, but six fetched pages produced zero Tier A/B process evidence, so Tier C cannot fire — a manual re-check may be warranted."
+ },
+ {
+  "name": "Pioneer Design And Engineering Private Limited",
+  "domain": "pioneerdesign.in",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier GOLD cap 45 (pre-2024 page did not mention software)"
+  ],
+  "pre2024_status": "Existed pre-2024 but 2020 snapshot showed no software work",
+  "evidence": [
+   "Lookup note: archived pre-2024 but page did not mention building software",
+   "Homepage 'engineering services domain' reads as design/CAD, not software",
+   "Only automation-as-agile-business-process wording on site",
+   "Careers and about reached; no Git, CI/CD or QA text"
+  ],
+  "why": "Design-engineering services with no software-build evidence pre- or post-2024."
+ },
+ {
+  "name": "Pragma Edge Software Services Private Limited",
+  "domain": "pragmaedge.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Verified: 2023 Wayback portfolio page flagged pre2024 evidence",
+  "evidence": [
+   "Wayback 2023 snapshot shows a portfolio-of-projects page",
+   "Pages reached: home, blog, about; careers and team absent",
+   "Zero signal counts and zero excerpts from live pages",
+   "No own VCS org or npm packages found"
+  ],
+  "why": "Pre-2024 delivery portfolio is the only usable signal; nothing on process, CI/CD or hiring."
+ },
+ {
+  "name": "PRGX India Private Limited",
+  "domain": "prgx.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier GOLD cap 45 (pre-2024 page did not mention software)"
+  ],
+  "pre2024_status": "Existed pre-2024 but 2023 snapshot showed no software work",
+  "evidence": [
+   "Footer: 'FSQS Registered ISO 27001 Certified'",
+   "Site: Verigon Solution Suite S2P platform for audit and analysis",
+   "Lookup note: archived pre-2024 but page did not mention building software",
+   "All six pages reached; no Git, PR or CI/CD text"
+  ],
+  "why": "Recovery-audit firm with a certified compliance posture and one platform, but no engineering-process evidence at all."
+ },
+ {
+  "name": "Prostarm Info Systems Limited",
+  "domain": "prostarm.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2019, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "UPS and power-electronics manufacturer; installation and AMC services",
+   "Careers, blog, about and team reached; no engineering roles",
+   "'Prostarm SEO' is a blog byline, not a service line",
+   "No repo, CI/CD, QA or certification signal"
+  ],
+  "why": "Hardware manufacturing and maintenance contracts with no software-engineering surface anywhere on the reached pages.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "Quest Diagnostics HTAS India Private Limited",
+  "domain": "questdiagnostics.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 1998, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "CLIA-certified labs providing HIPAA-covered services",
+   "All six pages reached; content is patient and payer facing",
+   "Single decorative 'scalable, agile cloud platform' line",
+   "No repo, CI/CD tooling or engineering JD found"
+  ],
+  "why": "Genuine HIPAA/CLIA compliance earns the change-control points, but only one decorative platform mention exists so Tier C cannot fire.",
+  "changed_from_previous": "Skip 20 -> Skip 20, GOLD cap lifted (was non-binding)"
+ },
+ {
+  "name": "R S Software (India) Ltd",
+  "domain": "rssoftware.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Verified: pre-2020 Wayback claims two decades of payments software",
+  "evidence": [
+   "Wayback 2020: 'software solutions for the world's leading payment brands'",
+   "All six pages reached including team and tech-stack",
+   "Scraper recorded zero signal counts and zero excerpts",
+   "No own VCS org or npm packages on domain"
+  ],
+  "why": "Long payments-software history is verified, but the crawl surfaced no process, hiring or CI/CD evidence to act on."
+ },
+ {
+  "name": "Rasacode Technologies Private Limited",
+  "domain": "rasacode.in",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 15,
+  "caps_applied": [
+   "generalist-agency cap 30 (binding)"
+  ],
+  "pre2024_status": "verified: 2022 capture advertises web and mobile app development",
+  "evidence": [
+   "2022 snapshot already sells mobile app development",
+   "Service picker bundles SEO with development and eCommerce",
+   "QA Strategy, application and mobile testing service lines",
+   "Career path stated from Junior to Principal Engineer"
+  ],
+  "why": "GOLD is now proven and the raw sum reaches 50, but SEO sold alongside development on the same service menu is the generalist-agency signature and caps it at 30.",
+  "changed_from_previous": "Skip 10 -> Skip 30, GOLD verified but agency cap binds"
+ }
+]

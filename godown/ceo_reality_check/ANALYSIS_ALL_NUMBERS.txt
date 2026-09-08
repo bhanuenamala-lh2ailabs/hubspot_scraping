@@ -1,0 +1,242 @@
+LH2 AI LABS — COMPLETE NUMERIC RECORD FOR THE 1-BILLION-LoC REALITY CHECK
+generated 2026-08-17 22:35  |  source: HubSpot portal 246754894
+deals=2141 transitions=4921 notes=1981 tasks=288
+
+====================================================================================================
+1. THE ENTIRE LoC EVIDENCE BASE — every deal that has ever carried a LoC number
+====================================================================================================
+deal                                 LoC     PRs   LoC/PR tier1 stage                                   source                          closed
+FabLead                       20,093,942   7,495    2,681 False Closed/Won                              Scraping Algo ( IT services )   2026-08-05
+Deliqt                        17,525,955  13,793    1,271 True  Closed/Won                              Linkedin Campaign ( IT Services 2026-08-10
+IT- Antino                    12,828,951  36,300      353 True  Dead/Negotiation/Pricing                Scraping Algo ( IT services )   2026-07-28
+WebCodeGenie                  12,064,704  14,486      833 True  Deal Contract Signed                    Scraping Algo ( IT services )   
+Investmint                     8,155,217   3,529    2,311 False Closed/Won                              Tracxn Sheet ( Startups )       2026-07-30
+Serpent Consulting 2           5,386,248   7,988      674 True  Closed/Won                              Scraping Algo ( IT services )   2026-08-05
+Gloify                         4,773,185   6,642      719 True  Closed/Won                              Scraping Algo ( IT services )   2026-08-03
+Backspacce Technologies        3,408,665   6,209      549 True  Closed/Won                              Scraping Algo ( IT services )   2026-07-28
+Backspace Technologies 2       3,180,004   4,797      663 True  Closed/Won                              Scraping Algo ( IT services )   2026-07-30
+Backspace Technologies 3       2,367,792   4,757      498 True  Closed/Won                              -                               2026-08-10
+Serpent Consulting 1           2,358,399   3,387      696 True  Closed/Won                              Scraping Algo ( IT services )   2026-08-05
+Scaletech                      1,539,267   2,288      673 True  Closed/Won                              Scraping Algo ( IT services )   2026-08-05
+Baaz                           1,323,660   1,911      693 True  Closed/Won                              Tracxn Sheet ( Startups )       2026-08-05
+Nickelfox                        788,990   2,449      322 True  Dead/Negotiation/Pricing                Private Codebase Tracker sheet  2026-08-10
+S - Riyalto - 2                  265,857      13   20,451 False Dead/ResultsReceived/WrongFit-Rejected  Tracxn Sheet ( Startups )       2026-07-28
+Humalect                         200,000       -        - None  Deal Contract Signed                    Tracxn Sheet ( Startups )       
+
+TOTAL LoC recorded ever              96,260,836   across 16 deals
+TIER-1 (300<=LoC/PR<=2000)           67,545,820   across 12 deals  (70.2% of raw)
+FAILS tier-1 ratio                   28,515,016   across 3 deals  -> FabLead, Investmint, S - Riyalto - 2
+QUALITY HAIRCUT: 29.8% of harvested LoC fails the CEO's own ratio bar
+
+====================================================================================================
+2. CLOSED/WON — per deal and per DISTINCT COMPANY
+====================================================================================================
+deal                                 LoC   LoC/PR tier1 created     closed       days  source
+Backspacce Technologies        3,408,665      549 True  2026-07-21  2026-07-28      7  Scraping Algo ( IT services )
+Investmint                     8,155,217    2,311 False 2026-07-20  2026-07-30     10  Tracxn Sheet ( Startups )
+Backspace Technologies 2       3,180,004      663 True  2026-07-28  2026-07-30      2  Scraping Algo ( IT services )
+Gloify                         4,773,185      719 True  2026-07-22  2026-08-03     12  Scraping Algo ( IT services )
+Serpent Consulting 1           2,358,399      696 True  2026-07-21  2026-08-05     15  Scraping Algo ( IT services )
+Serpent Consulting 2           5,386,248      674 True  2026-07-28  2026-08-05      8  Scraping Algo ( IT services )
+FabLead                       20,093,942    2,681 False 2026-07-28  2026-08-05      8  Scraping Algo ( IT services )
+Scaletech                      1,539,267      673 True  2026-07-28  2026-08-05      8  Scraping Algo ( IT services )
+Baaz                           1,323,660      693 True  2026-07-30  2026-08-05      6  Tracxn Sheet ( Startups )
+Deliqt                        17,525,955    1,271 True  2026-08-07  2026-08-10      3  Linkedin Campaign ( IT Service
+Backspace Technologies 3       2,367,792      498 True  2026-08-07  2026-08-10      3  -
+
+11 won DEALS  ->  8 DISTINCT COMPANIES
+company                        deals     total LoC     tier1 LoC
+fablead                            1    20,093,942             0
+deliqt                             1    17,525,955    17,525,955
+backspace technologies             3     8,956,461     8,956,461
+investmint                         1     8,155,217             0
+serpent consulting                 2     7,744,647     7,744,647
+gloify                             1     4,773,185     4,773,185
+scaletech                          1     1,539,267     1,539,267
+baaz                               1     1,323,660     1,323,660
+
+per-COMPANY raw LoC   mean=8,764,042 median=7,949,932
+per-COMPANY tier1 LoC mean=6,977,196 median=6,258,916  (n=6 companies with tier-1 LoC)
+
+per-DEAL tier1 won LoC: n=9 mean=4,651,464 median=3,180,004 min=1,323,660 max=17,525,955
+  sorted: ['1,323,660', '1,539,267', '2,358,399', '2,367,792', '3,180,004', '3,408,665', '4,773,185', '5,386,248', '17,525,955']
+  excluding Deliqt outlier: n=8 mean=3,042,152 median=2,773,898
+  25% trimmed mean: 3,217,609
+
+====================================================================================================
+3. FULL FUNNEL — every deal by DEEPEST stage ever reached
+====================================================================================================
+deepest stage reached                         deals  % of all
+Closed/Won                                       10     0.47%
+Deal Contract Signed                              2     0.09%
+Dead/Negotiation/Pricing                          5     0.23%
+Commercial Negotiation                            5     0.23%
+Dead/Negotiation/Contractual                      1     0.05%
+Dead/ResultsReceived/WrongFit-Rejected           22     1.03%
+Script Results Received                           2     0.09%
+Script Shared                                    24     1.12%
+Dead/ScriptShared/NoShow                          2     0.09%
+Dead/GMeet/wrong fit                             36     1.68%
+GMeet Fixed                                      16     0.75%
+Dead/GMeet/Privacy Concerns                       2     0.09%
+Dead/ColdCall/Not Interested                    166     7.75%
+Interested                                      111     5.18%
+Dead/Interested/NoShow                           18     0.84%
+No Pickup                                       292    13.64%
+Dead/ColdCall/WrongFit                          719    33.58%
+Call Attempted (retired)                        285    13.31%
+Dead/ColdCall/WrongNumber                       231    10.79%
+Cold Call                                       192     8.97%
+
+milestone                           deals  % of top  step conv
+Cold Call                            2141   100.00%     100.0%
+No Pickup                             714    33.35%      33.3%
+Interested                            422    19.71%      59.1%
+GMeet Fixed                           127     5.93%      30.1%
+Script Shared                          73     3.41%      57.5%
+Script Results Received                47     2.20%      64.4%
+Commercial Negotiation                 23     1.07%      48.9%
+Deal Contract Signed                   12     0.56%      52.2%
+Data Migration Done                    10     0.47%      83.3%
+Metadata Matched                       10     0.47%     100.0%
+Payment Initiation                     10     0.47%     100.0%
+Closed/Won                             10     0.47%     100.0%
+
+terminal (won+dead) = 1251  (58.4%)   still live = 890
+raw win rate      = 11/2141 = 0.514%
+resolved win rate = 11/1251 = 0.879%
+TIER-1 raw win rate      = 9/2141 = 0.420%
+TIER-1 resolved win rate = 9/1251 = 0.719%
+
+reached Script Shared+ = 73  ->  wins 11  = 15.1% late-stage conversion
+reached GMeet Fixed+   = 127
+
+====================================================================================================
+4. FUNNEL BY LEAD SOURCE (the efficiency table)
+====================================================================================================
+source                                           deals  GMeet+  Scr+  won t1won      LoC won       t1 LoC  LoC/1k leads   win%
+Scraping Algo ( IT services )                      920      48    24    7     6   40,739,710   20,645,768    22,441,052  0.76%
+Linkedin Campaign ( IT Services )                  355      16     9    1     1   17,525,955   17,525,955    49,368,887  0.28%
+NASSCOM ( IT Services )                            224       7     1    0     0            0            0             0  0.00%
+Outflo Outreach ( Startups )                       177      21    15    0     0            0            0             0  0.00%
+Tracxn Sheet ( Startups )                          175      22    15    2     1    9,478,877    1,323,660     7,563,771  1.14%
+Founder Search ( IT Services )                     173       1     0    0     0            0            0             0  0.00%
+Scraping Algo ( Startups )                          50       2     1    0     0            0            0             0  0.00%
+Romania ( IT Services )                             29       0     0    0     0            0            0             0  0.00%
+Private Codebase Tracker sheet ( IT services )      22       6     4    0     0            0            0             0  0.00%
+Scraped ( IT Services )                              9       0     0    0     0            0            0             0  0.00%
+(none)                                               7       4     4    1     1    2,367,792    2,367,792   338,256,000 14.29%
+
+RANKED BY TIER-1 LoC PER 1000 LEADS (true efficiency):
+  Linkedin Campaign ( IT Services )                 49,368,887 tier1-LoC per 1000 leads   (n=355)
+  Scraping Algo ( IT services )                     22,441,052 tier1-LoC per 1000 leads   (n=920)
+  Tracxn Sheet ( Startups )                          7,563,771 tier1-LoC per 1000 leads   (n=175)
+  NASSCOM ( IT Services )                                    0 tier1-LoC per 1000 leads   (n=224)
+  Outflo Outreach ( Startups )                               0 tier1-LoC per 1000 leads   (n=177)
+  Founder Search ( IT Services )                             0 tier1-LoC per 1000 leads   (n=173)
+  Scraping Algo ( Startups )                                 0 tier1-LoC per 1000 leads   (n=50)
+  Romania ( IT Services )                                    0 tier1-LoC per 1000 leads   (n=29)
+  Private Codebase Tracker sheet ( IT services )             0 tier1-LoC per 1000 leads   (n=22)
+
+ZERO-WIN sources: 684 leads burned with 0 wins -> NASSCOM ( IT Services ), Outflo Outreach ( Startups ), Founder Search ( IT Services, Scraping Algo ( Startups ), Romania ( IT Services ), Private Codebase Tracker she, Scraped ( IT Services )
+
+====================================================================================================
+5. WEEKLY TIME SERIES — supply, progression, output
+====================================================================================================
+week          leads new  connects  GMeets  scripts  wins       raw LoC     tier1 LoC
+2026-07-13          111         1       0        0     0             0             0
+2026-07-20          162        37       7        1     0             0             0
+2026-07-27          409        55       3       11     3    14,743,886     6,588,669
+2026-08-03          497       118      24       27     6    35,474,701    15,380,759
+2026-08-10          721       141      11       16     2    19,893,747    19,893,747
+2026-08-17          241        29       5        5     0             0             0
+
+TOTALS            2141       381      50       60    11    70,112,334    41,863,175
+
+CRM span 2026-07-15 -> 2026-08-17 = 34 days = 4.86 weeks
+RAW   run-rate over CRM life :     14,434,892 LoC/week
+TIER1 run-rate over CRM life :      8,618,889 LoC/week
+weeks with any close: 3 of 6  -> 2026-07-27, 2026-08-03, 2026-08-10
+TIER1 mean over CLOSING weeks only: 13,954,392 LoC/week
+*** ZERO closes since 2026-08-10. Current week 2026-08-17: 241 new leads, 0 wins ***
+
+====================================================================================================
+6. HUMAN CAPACITY — what the callers actually produce
+====================================================================================================
+person              days  deals touched   moves   notes  deals/day  max day  notes/day
+Ashish Ranjan          0              0       0       2        0.0        0        2.0
+Bhanu Enamala          3              4       8       3        1.3        2        1.5
+Ishpreet Sood         13            125     138      23        9.6       38        3.3
+Lamiya Saleem         11            563     605     582       51.2       71       58.2
+Shobit Gupta          17             95     105      27        5.6       16        3.0
+Yuktha Anand          11            523     575     583       47.5       72       53.0
+
+COLD-CALL TEAM (Yuktha+Lamiya): 22 person-days
+  deals touched/person/day  mean=49.4 median=53.0 p90=71 max=72
+  sustained weekly capacity/caller (5 working days x mean) = 247 leads
+  2-caller weekly ceiling (5 days x p90)                   = 710 leads
+  observed lead creation mean/week                          = 357
+  -> BINDING CONSTRAINT: LEAD SUPPLY
+
+====================================================================================================
+7. THE 1-BILLION MODEL
+====================================================================================================
+KNOWN ADDRESSABLE UNIVERSE (local source pools):
+  prequal survivors (IT services)                5,629
+  NASSCOM members                                2,775
+  dead startups w/ codebases                     3,274
+  prequal reserve                                3,092
+  whales                                            30
+  RAW SUM (with overlap)                        14,800
+  realistic de-duplicated estimate            9,000 - 15,000
+
+expected LoC per tier-1 win               value  wins for 1Bn    @0.42% raw  @0.72% resolved
+tier-1 median per deal                3,180,004           314        74,808           43,711
+tier-1 mean per deal                  4,651,464           215        51,143           29,883
+tier-1 mean ex-outlier                3,042,152           329        78,198           45,691
+tier-1 median per COMPANY             6,258,916           160        38,008           22,208
+tier-1 mean per COMPANY               6,977,196           143        34,095           19,922
+
+  (last two columns = LEADS that must be worked to produce that many tier-1 wins)
+  tier-1 raw win rate 0.420%   tier-1 resolved win rate 0.719%
+
+SCENARIOS TO 1,000,000,000 LoC (tier-1):
+scenario                                     LoC/week   weeks  years  companies  x universe
+current tier-1 run-rate (8.6M)              8,618,889     116    2.2        160        0.0x
+closing-weeks mean (13.95M)                13,954,392      72    1.4        160        0.0x
+target 15M/wk                              15,000,000      67    1.3        160        0.0x
+target 20M/wk                              20,000,000      50    1.0        160        0.0x
+target 30M/wk                              30,000,000      33    0.6        160        0.0x
+CEO pace 50M/wk                            50,000,000      20    0.4        160        0.0x
+
+*** CEILING: if we worked 100% of a 12,000-company universe at the observed
+    tier-1 resolved win rate of 0.72%, we would win 86 companies
+    x 6,258,916 median tier-1 LoC = 540,338,072 LoC
+    = 54.0% of the 1 BILLION target ***
+
+    To reach 1Bn from a 12,000-company universe you would need EITHER
+      win rate of 1.3% (vs 0.72% observed = 2x better), OR
+      11,583,333 LoC per win (vs 6,258,916 observed = 2x bigger)
+
+====================================================================================================
+8. WEEKLY TARGET DERIVATION (leads x conversion x LoC per win)
+====================================================================================================
+ leads worked/wk   win rate      LoC/win   weekly tier-1 LoC
+             357  raw 0.42%    3,180,004           4,772,234
+             357resolved 0.72%    3,180,004           8,167,348
+             500  raw 0.42%    3,180,004           6,683,801
+             500resolved 0.72%    3,180,004          11,438,863
+             700  raw 0.42%    3,180,004           9,357,321
+             700resolved 0.72%    3,180,004          16,014,409
+            1000  raw 0.42%    3,180,004          13,367,602
+            1000resolved 0.72%    3,180,004          22,877,727
+            1500  raw 0.42%    3,180,004          20,051,403
+            1500resolved 0.72%    3,180,004          34,316,590
+            2000  raw 0.42%    3,180,004          26,735,204
+            2000resolved 0.72%    3,180,004          45,755,453
+
+Current actual: 357 leads/wk x 0.72% x 3,180,004 = 8,163,535 LoC/wk
+To hit 15M/wk you need 656 leads/week worked
+To hit 20M/wk you need 874 leads/week worked
+At 357 leads/wk current supply, universe of 12,000 lasts 34 weeks = 0.6 years
+At 1,500 leads/wk, universe of 12,000 lasts 8 weeks = 0.15 years -> then it is GONE

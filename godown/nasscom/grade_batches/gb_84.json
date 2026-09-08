@@ -1,0 +1,1174 @@
+[
+ {
+  "name": "Revino Solutions Private Limited",
+  "city": "New Delhi",
+  "domain": "revino.in",
+  "website": "https://revinotech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 5975,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 29,
+   "enterprise": 20,
+   "cicd": 4,
+   "qa": 4,
+   "sdlc": 7,
+   "DQ_training": 2,
+   "owns_product": 1,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Enterprise AI Automation, Digital Marketing & SaaS Development",
+    "Revino AI Core Business Advisor Content & Creative SEO & Visibility Marketing Planner Sales Outreach Lead Nurturing Database Reactivation Sales Coach Customer Support 78% of enterprise AI projects never reach production.",
+    "Learn more → Top ROI SEO + GEO Technical SEO, E-E-A-T content, link building, and GEO optimisation for ChatGPT/Perplexity/AI Overviews.",
+    "Learn more → Google Ads (3–8× ROAS) Account restructure achieving 3–8× ROAS in 60 days."
+   ],
+   "enterprise": [
+    "BFSI, Healthcare, Manufacturing, FinTech expertise.",
+    "From $0 to first 50 enterprise clients Globally.",
+    "Learn more → GTM Advisory From $0 to first 50 enterprise clients.",
+    "View All 350 → Banking & Finance Global AI Fraud Detection — 3 Global Regional Banks $8.2M recovered"
+   ],
+   "cicd": [
+    "All Services AI & Automation Marketing Technology Staffing & Consulting Most Deployed AI Automation ML pipelines, GenAI, and agentic workflows that eliminate 40–60% of manual costs.",
+    "Learn more → Agile & DevOps CI/CD pipelines, Kubernetes, automated testing, Agile coaching.",
+    "Learn more → Most Deployed AI Automation ML pipelines, GenAI, and agentic workflows that eliminate 40–60% of manual costs."
+   ],
+   "qa": [
+    "Learn more → Agile & DevOps CI/CD pipelines, Kubernetes, automated testing, Agile coaching.",
+    "Learn more → Staff Augmentation Scale your team on demand — senior developers, architects, QA and data engineers embedded in your workflow within 72 hours."
+   ],
+   "sdlc": [
+    "Learn more → Agile & DevOps CI/CD pipelines, Kubernetes, automated testing, Agile coaching.",
+    "Revino's Agile delivery model ensures you see working software every two weeks — not a 6-month black box.",
+    "Every sprint ends with a live demo.",
+    "03 Sprint-Based Build Two-week Agile sprints with live demos every fortnight."
+   ],
+   "DQ_training": [
+    "Learn more → Agile & DevOps CI/CD pipelines, Kubernetes, automated testing, Agile coaching."
+   ],
+   "owns_product": [
+    "04 Production Deployment Zero-downtime deployment into your production environment."
+   ],
+   "DQ_template": [
+    "OEE 68%→82% IoT AI Clients across: US · Global CA · Global UAE · Global AU · Global NZ · Global IN · India Trust & Compliance → Deep expertise, not generic templates."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Skyway Technologies",
+  "city": "Mohali",
+  "domain": "skyway-tech.com",
+  "website": "https://www.skyway-tech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ch.com +91 9501812300 Mohali, Punjab Home About Us Services Portfolio Contact Us Website & Software Development Get All Solution To your Business Need"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 6,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Digital Marketing marketing encompasses the promotion of products and services via various electronic channels, including social media, SEO, email, and mobile apps, and is generally defined as any marketing activity that utilizes digital devices.",
+    "What is search engine optimization (SEO)?",
+    "How do you measure the success of a digital marketing campaign?",
+    "The success of a digital marketing campaign can be measured using several metrics, such as website traffic, conversion rates, click-through rates, engagement rates, and return on investment (ROI)."
+   ],
+   "owns_product": [
+    "--> Our team consists of dreamers, thinkers, and creators who continuously improve our products to achieve higher standards in design, quality, manufacturing, and environmental sustainability."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": -12
+ },
+ {
+  "name": "SoftRadix Technologies Private Limited",
+  "city": "Mohali",
+  "domain": "softradix.com",
+  "website": "https://softradix.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "SoftRadix: Hire Top Web and Mobile App Development Company Skip to main content Hit enter to search or ESC to close Cl"
+  },
+  "jd": {
+   "pages_read": 12,
+   "external_job_boards": [],
+   "jd_chars": 64191,
+   "signals": {
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Experience using GitHub or similar environment."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 17,
+   "qa": 1,
+   "owns_product": 1,
+   "vcs": 2,
+   "cicd": 1,
+   "sdlc": 2,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Contact Us Expert Digital Marketing Services To Upscale Your Business With a focus on driving traffic, generating leads, and maximizing conversions, we help you reach your target audience and build your brand online.",
+    "Read More » Digital Marketing The team of SoftRadix creates a result-oriented and strategic digital marketing plan to take your business to new heights.",
+    "View More » SEO (Search Engine Optimization) At SoftRadix, our team uses our own professional analysis along with your unique company’s needs, industry, and current SEO performance.",
+    "Our services encompass: Mobile App Development Web app development Blockchain Cloud Services Digital Marketing SEO UI/UX Designing What technologies do you prefer to use for mobile app Development?"
+   ],
+   "qa": [
+    "QA and Testing Now, QA engineers test the quality of the code written by the developers."
+   ],
+   "owns_product": [
+    "They have done an amazing job — they are quick to execute my vision and any specifications for our product."
+   ],
+   "vcs": [
+    "Proficient understanding of Git.",
+    "Experience using GitHub or similar environment."
+   ],
+   "cicd": [
+    "Preferred experience with Docker based development/deployment platform."
+   ],
+   "sdlc": [
+    "Experience with Agile development Ability to understand business requirements and translate them into technical requirements Open Close SEO Executive Experience: 1 Year LOCATION Mohali, India Apply Now Skills Required Researching the competitors, both on-site and off-site.",
+    "Our process is characterized by a deep understanding of your goals, regular communication, transparency, and a focus on delivering solutions that are not just functional but also aligned with your brand identity and objectives."
+   ],
+   "enterprise": [
+    "Our benefits package includes competitive compensation, health insurance, retirement plans, flexible work arrangements, and opportunities for career advancement.",
+    "Softradix serves a diverse range of industries, including healthcare, finance, e-commerce, education, entertainment, and more."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Solartis Technology Services Pvt Ltd",
+  "city": "Chennai",
+  "domain": "solartis.com",
+  "website": "https://www.solartis.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 751,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": ", maintain, test, and deploy all your insurance products in our Product Management Toolkit (PMT). Learn more about the PMT Digital Transformation for"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 8465,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 73,
+   "owns_product": 32,
+   "DQ_bpo": 13,
+   "DQ_support": 1,
+   "DQ_agency": 1,
+   "compliance": 1,
+   "prod_eng": 1,
+   "sdlc": 8,
+   "qa": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "P&C Insurance Software & Services Solartis Policy Administration",
+    "P&C Insurance Software & Services Our Platform Solartis Insure Leading the future of policy administration with flexibility and innovation.",
+    "--> In Production and Ongoing Maintenance Self-Service Builder Toolkit Self-service low code toolkit for insurance product maintenance.",
+    "--> Technology & Architecture Microservice Architecture Learn about microservices architecture for insurance."
+   ],
+   "owns_product": [
+    "P&C Insurance Software & Services Our Platform Solartis Insure Leading the future of policy administration with flexibility and innovation.",
+    "Implementation Methodology Our implementation methodology for initially configuring your product.",
+    "Resources News and Insights Resource Library Videos Solartis Insure FAQs About Us Why Solartis Leadership & Partnerships Careers Contact Information Security & Compliance Contact Us Search Our Platform Solartis Insure Leading the future of policy administration with flexibility and innovation.",
+    "Explore Our Platform Delivering Confidence Across the Insurance Industry From ISO commercial lines to custom programs, Solartis is trusted by leading carriers and MGAs."
+   ],
+   "DQ_bpo": [
+    "Solartis Customer Delivery Transaction professional (BPO) services.",
+    "Our teams include experts in product configuration, Personal and Commercial Lines, software engineering, testing, and Product Customer Delivery (BPO) Services."
+   ],
+   "DQ_support": [
+    "It supports the full policy lifecycle with speed and precision, from submission and quoting to endorsements, renewals, and audits."
+   ],
+   "DQ_agency": [
+    "With 200+ policy lifecycle services decoupled from the UI, carriers and MGAs can tailor workflows and branding or integrate directly into their own systems."
+   ],
+   "compliance": [
+    "Solartis operates under a certified Security Management System (ISMS) and maintains ISO/IEC 27001, ISO/IEC 27017, ISO/IEC 27018, and SOC 2 Type II certifications, covering information security, cloud-specific controls, protection of PII, and operational assurance."
+   ],
+   "prod_eng": [
+    "Previously Siby worked on a variety of projects in different industry verticals involving Product Engineering, Enterprise Application Integration (EAI) to co-exist & inter-operate enterprise systems that run on heterogeneous environments."
+   ],
+   "sdlc": [
+    "We address common challenges like incomplete or misunderstood requirements, team misalignment, and complex integrations with a collaborative, agile approach.",
+    "Solution Solartis Agile Methodology Our Agile methodology breaks the project into manageable epics and user stories, tracked in your preferred project management tool (e.g., JIRA).",
+    "With 2-4 week sprints, we facilitate regular progress reviews and continuous feedback.",
+    "Solution Builder Low Code Tool Our implementation sprints utilize Solartis Builder, a low-code tool that enables your team to manage all product components as they change over time —coverages, rate tables, policy documents, underwriting rules etc."
+   ],
+   "qa": [
+    "Solution Rigorous Testing Methodology Each sprint undergoes structured testing, starting with QA and moving to UAT.",
+    "Proactive Governance & Reliable Testing Daily scrums, milestone reviews, and automated testing keep projects on track, address risks early, and catch defects before they escalate."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Suma Soft Pvt Ltd",
+  "city": "Pune",
+  "domain": "sumasoft.com",
+  "website": "https://www.sumasoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "Outsourcing Call Center Services Customer Support Services Software Development Open Source Stack Microsoft Stack Mobile Application Development Appl"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 122490,
+   "signals": {
+    "testing": 7
+   },
+   "quotes": {
+    "testing": [
+     "local, mobile, cloud, anywhere Mobility Testing Services Building test automation solutions using Selenium, Apache, JMeter, etc.",
+     "local, mobile, cloud, anywhere Mobility Testing Services Building test automation solutions using Selenium, Apache, JMeter, etc.",
+     "local, mobile, cloud, anywhere Mobility Testing Services Building test automation solutions using Selenium, Apache, JMeter, etc."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_bpo": 7,
+   "cicd": 11,
+   "enterprise": 4,
+   "qa": 3,
+   "sdlc": 6,
+   "prod_eng": 1,
+   "DQ_template": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "Finance and Accounting Management Improving Account Payable and Receivables Through Artificial Intelligence Logistics BPO Service Optimize logistics with efficient operations, reduced costs, and our improved visibility.",
+    "Rakesh Raskar Senior VP BPO Services Anil Waychal VP Technology Services Milind Dharmadhikari Head IT-Risk & Security Management Services Don’t Believe Us?"
+   ],
+   "cicd": [
+    "Salesforce Sales Cloud Deploying Sales Cloud solutions to streamline pipelines and predict accuracy.",
+    "Read More --> Accelerating Product Development with Next-Gen Technologies We bring agile, CI/CD, QA automation & Dev-Ops processes to accelerate product development.",
+    "With over 25 years of expertise in Microsoft Fabric Consulting services , Suma Soft understands the complexities of data gaps, large data pipelines, and the challenges of extracting meaningful insights in a timely and cost-effective manner.",
+    "We empower organizations by designing and implementing robust data pipelines, ensuring seamless integration of diverse data formats, to form a reliable and performant data foundation for all analytical needs."
+   ],
+   "enterprise": [
+    "Download Brochure Suma Soft Healthcare Transformation Experts at HFMA 2026 Connect with Suma Soft leaders as they engage healthcare organizations on revenue optimization,intelligent operations, and financial transformation strategies.",
+    "FOCUS INDUSTRIES HealthCare Transforming healthcare delivery through intelligent technologies, seamless patient engagement, and data-driven clinical excellence.",
+    "Associate / Associate – Prior Authorization (RCM) Location Pune Type Full Time Apply Now Position Customer Service Executive – US Voice Process Location Pune Type Full Time Apply Now Position Associate / Senior Associate – US Healthcare (Walk-In Drive",
+    "Manufacturing, Banking, e-Commerce, Healthcare & Automotive etc."
+   ],
+   "qa": [
+    "Read More --> Accelerating Product Development with Next-Gen Technologies We bring agile, CI/CD, QA automation & Dev-Ops processes to accelerate product development.",
+    "CEO Conesprit GmbH “True Pleasure to Work With!” We’ve been using Suma Soft for QA and test harness development work for over a yearand are very happy with our experience.",
+    "Testing The e-Learning App undergoes rigorous manual and automated testing to uncover bugs and fix security-related vulnerabilities."
+   ],
+   "sdlc": [
+    "Read More --> Accelerating Product Development with Next-Gen Technologies We bring agile, CI/CD, QA automation & Dev-Ops processes to accelerate product development.",
+    "App Development In this phase of e-Learning App development, the actual coding takes place using the AGILE methodology.",
+    "In today’s rapidly evolving digital landscape, organizations require a comprehensive and agile approach to manage supply chain and operations strategy.",
+    "An effective Supply Chain Management (SCM) service ensures that your process optimizes the network of stakeholders to ensure that everything gets where it needs to be when it needs to be — and as smoothly as it needs to be."
+   ],
+   "prod_eng": [
+    "Achieve data engineering excellence with Microsoft Fabric - Contact us today for a free consultation!"
+   ],
+   "DQ_template": [
+    "Creating a custom e-learning app is a cost-effective solution as it involves only a one-time fee, whereas ready-made e-learning apps are based on a subscription model with long-term cost implications.",
+    "The most significant benefit of custom e-Learning apps is that they are highly customized to suit the end user’s specific requirements, which the ready-made App may need to improve."
+   ],
+   "owns_product": [
+    "Integrated Business Planning Our supply chain management services help develop a unified plan aligning with your production, inventory, and financial strategies for better resource allocation and improved decision-making."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Vajra Global Consulting Services LLP",
+  "city": "Chennai",
+  "domain": "vajraglobal.com",
+  "website": "https://vajraglobal.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "your customers and create marketing blueprints that allow your products and services to gain world-class recognition. ​We are a bunch of enthusiasts"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 6237,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 12
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Robin Banerjee Marketing Manager - Posiflex Team Vajra is highly capable, energetic, and creative as a digital marketing agency and has a full-fledged team to take up various digital marketing tasks.",
+    "I have no hesitation in recommending Vajra Global for all your Digital Marketing requirements.",
+    "Why work with us Vajra Global is a pioneer in the field of digital marketing and MarTech.",
+    "Let’s Work Together Awards and recognition Our drive to provide the best for our customers has earned us multiple awards for entrepreneurship, web development, content, and social media marketing."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Viacon Marketing and Technologies Private Limited",
+  "city": "Kolkata",
+  "domain": "viacon.io",
+  "website": "https://viacon.io/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 8,
+   "DQ_agency": 79,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Healthcare See how our digital solutions have transformed businesses—boosting efficiency, enhancing user experiences, and driving real results across industries.",
+    "Learn more Jul 2026 Healthcare Lead Generation: Proven Ways To Increase Appointments And Revenue It feels reassuring to look at traffic on a monthly report.",
+    "Learn more Jul 2026 Healthcare PPC Explained: How Clinics Can Attract More High-Intent Patients Patients rarely search by hospital name.",
+    "Healthcare PPC is paid advertising across search, social, and display that..."
+   ],
+   "DQ_agency": [
+    "Hospitality Our SEO services boost site rankings and the organic footfall of growing hospitality brands.",
+    "View All --> For someone like me who was very new to Guest Posting and Link Building, their Tech Support Team was a massive help.",
+    "Adam Neal SEO Head I keep going back to them every single time, because I love their service.",
+    "You can see that there is a humane way of doing guest posting and link building."
+   ],
+   "sdlc": [
+    "Gamification Tools You can use badges to improve engagement while using agile leaderboards that will enhance learning enthusiasm and motivate learners to compete for growth."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Visibility Gurus",
+  "city": "Mohali",
+  "domain": "visibilitygurus.com",
+  "website": "https://visibilitygurus.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "cess. Additionally, here are some more custom highlights of our work. We will: Carry out informational and transactional keyword research. Prioritize"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 28,
+   "DQ_training": 1,
+   "sdlc": 3
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Get in touch Explore our Services Digital Marketing That Gets You Customers, Not Just Clicks.",
+    "Get in touch Trusted by 500+ Brands How We’re Structured Our setup is built around documented SEO SOPs that systemize daily execution and maintain delivery consistency.",
+    "Digital Marketing Services For Your Business White Label SEO Rank your clients on Google and get them cited in AI overviews and tools like ChatGPT, Gemini and Claude.",
+    "White Label Link Building Secure placements on real, authoritative websites - strengthening every client site's domain authority and driving lasting organic traffic."
+   ],
+   "DQ_training": [
+    "White Label Link Building Secure placements on real, authoritative websites - strengthening every client site's domain authority and driving lasting organic traffic."
+   ],
+   "sdlc": [
+    "Get in Touch See How We Work What We Stand for Our Values Every process we've built and every partnership we've formed has been shaped by the same core belief - that doing right by people is always good business.",
+    "That commitment made our processes tight, SOPs clear and easy to manage.",
+    "Niched down, rebuilt our entire operation around white label delivery - tightening our SOPs, refining our processes, and building the systems agencies actually need from a long-term execution partner."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Voksedigital Consultancy Services LLP",
+  "city": "Pune",
+  "domain": "voksedigital.com",
+  "website": "https://voksedigital.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "g to you curated and created informative content, sessions, case studies and whitepapers in the areas of digital marketing, social media, analytics, m"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 5831,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "DQ_agency": 10,
+   "enterprise": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Shared Services Support for data analytics from our pool of resources for identified areas such as data pipeline, dashboard migration, insights building with Power BI and much more."
+   ],
+   "DQ_agency": [
+    "The english dictionary defines the noun “Experience” as, an event or occurrence Read more Digital Marketing Data – the what and so what?",
+    "On the basis of these predictions, they align Read more How to use Google Trends for Digital Marketing ?",
+    "Keeping the consumer’s interest in mind, Google has converted Read more Not Getting conversions from your PPC Ads!!",
+    "Okay, we have learned in the previous Read more Are you guilty of these Local SEO mistakes Are you guilty of these Local SEO mistakes?"
+   ],
+   "enterprise": [
+    "Typically, a non-banking financial services company will have a very small internal IT team and will be dealing with a Read more Leverage these 11 SERP features now to Improve Your Rankings!"
+   ],
+   "sdlc": [
+    "What will you Read more How To Modernize Your Processes Through Power Apps?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Webart Technology Private Limited",
+  "city": "Kolkata",
+  "domain": "webart.technology",
+  "website": "https://webart.technology/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2020-08-18",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 79366,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 87,
+   "cicd": 5,
+   "DQ_template": 5
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Call Us Video Production Graphic Design Branding & Identity Animation Crafting compelling visuals and impactful videos.",
+    "call us Ecommerce SEO Services Ecommerce PPC Ecommerce Social Media Advertising B2B Ecommerce Enablement Shopping Feed Automation Ecommerce Digital Marketing Services Boosting sales with strategic e-commerce management.",
+    "Call Us Enterprise SEO Local SEO SEO SEO Audit Digital SEO Boosting engagement with authentic, organic content.",
+    "Call Us Hire a Content Writer Hire A SMO Expert Hire ADS Experts Hire SEO Experts Link Building Marketing Strategist Drive success with professional marketing expertise."
+   ],
+   "cicd": [
+    "Call Us Appointment Booking Process Communication Tools CRM & Pipeline Management Marketing Automation Suite Reputation Management Sales Funnel Builder Website Builder Workflow Automation Elevate performance with tailored SaaS solutions."
+   ],
+   "DQ_template": [
+    "Call Us Appointment Booking Process Communication Tools CRM & Pipeline Management Marketing Automation Suite Reputation Management Sales Funnel Builder Website Builder Workflow Automation Elevate performance with tailored SaaS solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Winsoft Technologies India Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "winsoftech.com",
+  "website": "https://winsoftech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 55058,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 23,
+   "sdlc": 2,
+   "DQ_support": 1,
+   "qa": 3,
+   "DQ_bpo": 7,
+   "cicd": 1,
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Financial Management Software & BFSI Solutions",
+    "We are the driving force behind strategic innovation in the financial world with our state-of-the-art banking and financial solutions designed to meet the unique needs of today and tomorrow.",
+    "From secure and compliant ecosystems to customer-centric interfaces, Winsoft is your partner in navigating the dynamic landscape of banking and financial excellence.",
+    "READ MORE BANKS Streamline all banking processes with our mission-critical enterprise software Share this article DeMATrix A comprehensive software solution for securities depository participants."
+   ],
+   "sdlc": [
+    "BANKS INSURANCE Experience flawless process flows for Life & Non-life insurance distribution & comprehensive Agent Onboarding Share this article AGENT Enables and empowers its beneficiary to automate IRDA certification process AGILE Enables insurance business provide enrolment system.",
+    "We appreciate Winsoft for providing “SmartMutual” Mutual Fund Distribution Back Office, Front Office, and Internet Trading Platform solution in our bank since the year 2003 and for providing AGILE for an end-to-end multi-channel solution for the Insurance business since the year 2017."
+   ],
+   "DQ_support": [
+    "SmartPayout Automated brokerage payout reconciliation system for AMC's."
+   ],
+   "qa": [
+    "Testing Services Testing Services Ensuring robust and reliable software applications with top-quality engineering and holistic testing solutions.",
+    "Life @Winsoft Open Roles Join Our Strong Team Filter by All Location All Location Airoli Airoli / Mulund Mumbai Pune All Job Role All Job Role .NET Team Lead Analyst QA & Testing Angular Developer Application Support Executive IT Recruiter Jr."
+   ],
+   "DQ_bpo": [
+    "We appreciate Winsoft for providing “SmartMutual” Mutual Fund Distribution Back Office System in our bank since 2005.",
+    "We find its features and functionalities quite useful in Mutual Fund Distribution Back Office.",
+    "We appreciate Winsoft for providing “SmartMutual” Mutual Fund Distribution Back Office, Front Office, and Internet Trading Platform solution in our bank since the year 2003 and for providing AGILE for an end-to-end multi-channel solution for the Insurance business since the year 2017.",
+    "We appreciate Winsoft for providing “SmartMutual” Mutual Fund Distribution Back Office System in our bank since 2007."
+   ],
+   "cicd": [
+    "- Associate Vice President Working with Winsoft has been an overwhelming journey."
+   ],
+   "prod_eng": [
+    "Ajit Bhansali Founder & Director, Member of the Board “We are digitizing BFSI industry globally by focusing on Software product engineering, Product innovation & Product enhancement.We thrive to utilize the latest technologies in financial domain” Mr."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Woxa Technologies Private Limited",
+  "city": "Gurugram",
+  "domain": "woxatech.com",
+  "website": "https://woxatech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "rds Digital Marketing my product. The results have improved our product rankings on our desired keywords and i would recommend using them. Vedic Ruts"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 6,
+   "prod_eng": 1,
+   "DQ_training": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "is a skilled Digital Marketing , Graphic Design, website design and Development Company primarily based in India.",
+    "Woxa has been eligible to produce the most effective services to the clients/purchasers across the globe remaining to our years of expertise in Digital Marketing, Graphic Design, website Development and Web Design.",
+    "Woxa measures one among the India's leading digital Marketing, website development company.",
+    "Digital Marketing Now expand your business reach."
+   ],
+   "prod_eng": [
+    "Woxa Technologies is one of India's leading global IT services and product engineering companies, providing value-added, software-led IT solutions and services to large and medium-scale organizations."
+   ],
+   "DQ_training": [
+    "What is the Placement Process at Woxa Technologies?",
+    "Placement Process consist following rounds :- Presentation by Company Aptitude Test GD Round Technical Interview HR Round What is the salary provided by Woxa Technologies?"
+   ],
+   "DQ_support": [
+    "The company revolutionizes the way SMBs and enterprises communicate by replacing traditional communication hardware system with cloud based marketing automation and communication tools."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": -12
+ },
+ {
+  "name": "Wyzmindz Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "transmonqa.com",
+  "website": "https://transmonqa.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Fraud Detection Read More Digital Payment Read More Startek Case Study Read More Lenskart Testimonial OUR SERVICE & PRODUCT SUITE Quality Monitoring S"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 9630,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 1,
+   "DQ_training": 2,
+   "qa": 11,
+   "DQ_bpo": 10
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "Know More about Decision Trees Engage your agents with personalized dashboards and coaching Use AI to analyze every interaction and identify skill gaps Build your CX Operations scorecards with ease OpsGuru has +100 templates which you can use to build your CX Operations scorecards."
+   ],
+   "DQ_training": [
+    "Know More about Decision Trees Engage your agents with personalized dashboards and coaching Use AI to analyze every interaction and identify skill gaps Build your CX Operations scorecards with ease OpsGuru has +100 templates which you can use to build your CX Operations scorecards.",
+    "Create feedback that drives effective coaching and development."
+   ],
+   "qa": [
+    "Increase the value of your QA programme.",
+    "Reduce regulatory and brand risks.If you want your QA programme to be more than a cost, to deliver improved customer experiences, and to identify benefits across your business, then get in touch.",
+    "2 Read more March 19, 2024 March 19, 2024 Categories Uncategorized 10 Soft Skills in Quality Assurance for Call Center QA Specialist Do you like it?",
+    "1 Read more January 17, 2024 January 17, 2024 Categories Transmon Now Uncategorized Boost QA Efficiency with TransMon’s Enhanced AutoQA Do you like it?"
+   ],
+   "DQ_bpo": [
+    "2 Read more May 6, 2024 May 6, 2024 Categories Uncategorized Future of Call Centers and the Impact of Technological Advancements Do you like it?",
+    "2 Read more March 28, 2024 March 28, 2024 Categories Uncategorized Mastering Call Center Quality Measurement Do you like it?",
+    "2 Read more March 19, 2024 March 19, 2024 Categories Uncategorized 10 Soft Skills in Quality Assurance for Call Center QA Specialist Do you like it?",
+    "1 Read more March 11, 2024 March 11, 2024 Categories Uncategorized Unveiling the Productivity Formula in BPO: Keys to Success Do you like it?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Xcrino Business Solutions Private Limited",
+  "city": "Delhi",
+  "domain": "xcrino.com",
+  "website": "https://www.xcrino.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "XCRINO BUSINESS SOLUTIONS | ERP SOFTWARE DEVELOPMENT HOME ABOUT US SERVICES Web Design & Development ERP Development Web D"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 10,
+   "sdlc": 1,
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "From SEO to social media management, we craft tailored campaigns to boost your brand's visibility and drive results.",
+    "As a leading custom software development company , we deliver a full suite of scalable services including mobile app development, e-commerce solutions, AI-powered solutions, and digital marketing & SEO.",
+    "Digital Marketing & SEO Drive traffic & leads with SEO, PPC, & lead generation digital marketing strategies.",
+    "Kavya We're thrilled with the exceptional digital marketing strategies provided by Xcrino Business Solutions."
+   ],
+   "sdlc": [
+    "Whether you’re building a new digital product, upgrading your systems, or looking to implement cutting-edge AI solutions , our expertise ensures that every solution is smart, agile, and aligned with your goals."
+   ],
+   "enterprise": [
+    "Read More Revolutionizing Healthcare Management: A Comprehensive Guide to CRM Software Development In today’s fast changing healthcare environment, effective management of patient data, interactions, and processes is critical.",
+    "As healthcare providers attempt to provide individualized treatment...",
+    "With a keen focus on delivering top-tier solutions within stipulated timeframes, we specialize in crafting highly polished iPhone and Android apps that cater to the diverse needs of startups and enterprise clients alike.",
+    "From technology to healthcare, finance to hospitality, we leverage our expertise to deliver innovative and effective strategies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "ACN Infotech (India) Pvt Ltd",
+  "city": "Visakhapatnam",
+  "domain": "acninfotech.com",
+  "website": "https://acninfotech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 7728,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 11,
+   "DQ_bpo": 13,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "With over 4000 professionals and offices in India, the USA, and Europe, we deliver services across IT, digital transformation, data analytics, product development, healthcare, BPO, and retail.",
+    "Connect with Our Team Empowering Your Business ACN Infotech Accelerates Excellence Across Industries Healthcare Services – End-to-end clinical, operational, and administrative support solutions designed to enhance patient outcomes and organizational efficiency.",
+    "Services Cutting-Edge Business Solutions Health Care Optimize your healthcare operations and maximize revenue with our comprehensive Revenue Cycle Management (RCM) and specialized healthcare IT solutions, ensuring efficiency and financial health.",
+    "Read More Health Care Optimize your healthcare operations & maximize revenue with our comprehensive Revenue Cycle Management (RCM) and specialized healthcare IT solutions, ensuring efficiency and financial health."
+   ],
+   "DQ_bpo": [
+    "With over 4000 professionals and offices in India, the USA, and Europe, we deliver services across IT, digital transformation, data analytics, product development, healthcare, BPO, and retail.",
+    "Read More Get In Touch Welcome to ACN Infotech Empowering Smart Digital Growth We Deliver Health Care,IT, BPO & Digital Transformation Solutions to Drive Business Growth Efficiently.",
+    "BPO Services – Comprehensive outsourcing solutions including customer service, back-office operations, finance & accounting, and industry-specific managed services.",
+    "Read More BPO & IT Services Leverage our integrated IT and Business Process Outsourcing (BPO) services to enhance efficiency, reduce costs, and gain access to specialized expertise for your technology and operational needs."
+   ],
+   "sdlc": [
+    "Stay Agile: Adapt quickly to changing business needs and regulatory demands."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Ceymox Technologies Private Limited",
+  "city": "Kochi",
+  "domain": "ceymox.com",
+  "website": "https://ceymox.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "With Our Experts Creating Magento Mobile Stores for Apple, Android & Hybrid World is running on fingertips. We work with our customers to make their"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 27022,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 19,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Enhance your presence with our SEO strategies attracting increased organic traffic to your e-commerce site.",
+    "Project Type New eCommerce Store Store Migration Store Redesign Custom Development Performance Optimization SEO & Digital Marketing Ongoing Support & Maintenance Other Get Your FREE eCommerce Performance Audit Request your FREE eCommerce Performance Audit.",
+    "Our experts will analyze your online store's performance across SEO, site speed, user experience, conversion optimization, technical health, and customer journey to identify opportunities for sustainable growth.",
+    "Share your details below and our experts will guide you through a smooth, secure, and SEO-friendly migration process."
+   ],
+   "sdlc": [
+    "Our experienced team follows a rigorous development process and uses agile methodologies to deliver value on time and within budget."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Digitalratha (OPC) Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "digitalratha.com",
+  "website": "https://digitalratha.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 12,
+   "owns_product": 1,
+   "enterprise": 1,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "One stop solution for all digital marketing services - Digital Ratha Back Home About us Services Digital Marketing Development PR & Media Management Video & Animation Portfolios Blog Get In Touch One stop solution to all your Tech and Marketing need.",
+    "Digital Marketing SEO / SMO / PPC Social Media Marketing Facebook / Instagram Web Design & Development Business / E-commerce App Design & Development Android / iOS Revolutionizing The Digital Marketing by Digital Ratha Digital Ratha is your one-stop solution for all digital marketing-related services.",
+    "Multichannel Diverse Channels Encompasses a range of channels, including social media, email marketing, content marketing, SEO, PPC advertising, and more.",
+    "Purabi Chanda Digitalratha is an exceptional digital marketing company in Bhubaneswar."
+   ],
+   "owns_product": [
+    "Targeted Customer Retention We don’t just boost sales but also make sure the client is head over heels in love with your product or services."
+   ],
+   "enterprise": [
+    "From start-ups to multinational corporates, we cater to diverse industries including technology, healthcare, and more."
+   ],
+   "DQ_training": [
+    "We leverage strategic media placements and crisis communication expertise to cultivate trust and position you as an industry leader."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "GrayCell Technologies Exports",
+  "city": "Chandigarh(CH)",
+  "domain": "graycelltech.com",
+  "website": "https://www.graycelltech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "at all? How We Work? Clients/Partners Testimonials Services Web Development Web Applications Mobile App Development Design Digital Marketing Applicati"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 194758,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 3,
+   "prod_eng": 14,
+   "DQ_agency": 14,
+   "owns_product": 6,
+   "sdlc": 5
+  },
+  "site_quotes": {
+   "qa": [
+    "Rooted as an IT software company based in Chandigarh, we help businesses accelerate digital transformation through innovation, quality engineering, and long-term partnerships.",
+    "QA and Testing Ensuring high-quality, secure, and reliable applications through comprehensive testing.",
+    "Our offerings include: Digital Strategy Consulting Cloud, Chatbot & IoT Solutions Generative AI Solutions Digital Marketing Services Startup consulting & MVP Data Analytics Product Engineering Mobile Apps QA and Testing Bespoke Design What Sets GrayCell Technologies Apart?"
+   ],
+   "prod_eng": [
+    "Product Engineering Designing and developing scalable digital products that deliver performance and reliability.",
+    "CLOSE Product Engineering Services",
+    "Our expertise in Software Product Development, Digital Product Engineering Services, and product consulting enables faster product launches, reduced development risks, and long-term business growth.",
+    "Our Digital Product Engineering Services cover every stage of the product journey, from strategy and design to Custom Software Product Development, testing, deployment, and lifecycle management."
+   ],
+   "DQ_agency": [
+    "Digital Marketing Services Driving visibility, engagement, and growth through data-driven digital marketing strategies.",
+    "Work with the content and design teams Requirements: Basic understanding of SEO and digital marketing Interest in learning new tools (like Google Search Console, SEMrush, etc.) Good communication and writing skills Share your resume at ripen@graycelltech.com or attach the file below.",
+    "Optimize website and content for SEO to improve organic reach.",
+    "Stay updated with the latest digital marketing trends and tools."
+   ],
+   "owns_product": [
+    "Our Product Engineering Process We follow a proven framework to ensure seamless end-to-end product development that aligns with business goals.",
+    "Product Design and Development From idea to prototype to launch, our product design and development services bring concepts to life with user-first design and engineering excellence.",
+    "Product Development Consulting Our product development consulting helps businesses define clear strategies, reduce risks, and choose the right technologies for successful product launches.",
+    "Product Lifecycle Management Our product lifecycle management services cover the entire journey: design, launch, updates, and scaling, ensuring your product stays competitive."
+   ],
+   "sdlc": [
+    "Digital Product Engineering Our Digital Product Engineering Services leverage modern technologies, agile methodologies, and cloud-native architectures to accelerate delivery, improve product quality, and future-proof your digital solutions.",
+    "Agile Product Development Using agile product development, we deliver software in iterative sprints, enabling continuous feedback, rapid improvements, and flexible solutions that evolve with changing business and market demands.",
+    "Expert Planning Clear roadmaps, agile execution, and minimal risks.",
+    "Agile Practices Speed, flexibility, and continuous improvement at every stage."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "Inspavo Consultancy Services Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "inspavo.com",
+  "website": "https://www.inspavo.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2013-09-24",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 12744,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 24,
+   "DQ_support": 1,
+   "cicd": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "READ MORE SEO SERVICES Complete Organic Search Engine Optimization Service.",
+    "24/7 SEO Technical Support.",
+    "Visit Inspavo Product Try The DEMO Innovative Inspavo is an India based software development company provides software development, web development, web designing, digital marketing services.",
+    "SEO and Digital Marketing: Search Engine Optimization is the primary part of online marketing and digital marketing."
+   ],
+   "DQ_support": [
+    "Networking Services: We are at Inspavo provides data storage, manipulation, presentation, communication or other capability which is often implemented using a client-server or peer-to-peer architecture based on application layer hardware and network protocols."
+   ],
+   "cicd": [
+    "Cold call as appropriate within your market or geographic area to ensure a robust pipeline of opportunities."
+   ],
+   "owns_product": [
+    "Our strategy By constantly improving quality of our products and hiring more high professional web developers and designers we will increase total product quality by 20%."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ },
+ {
+  "name": "KRO Brandpeck Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "thetechnovate.com",
+  "website": "https://thetechnovate.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "timization Amazon Marketing Email Marketing Video Promotion Web Development Social Media Marketing Mobile App Development Blog Portfolio Career Reques"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 112914,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 42,
+   "enterprise": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "About Us Choose us for more than just a digital marketing solution.",
+    "Know More Schedule Consulation Hear from Our Clients As a value-driven digital marketing agency, we help our clients excel in the digital forefront.",
+    "Matt Burton Hunter Irregation LLC Best SEO Company around!",
+    "Eric Love Truficient Energy Solutions Excellent SEO company!"
+   ],
+   "enterprise": [
+    "From healthcare to finance, our solutions are designed for each sector to streamline its workflow in today’s digital world."
+   ],
+   "sdlc": [
+    "Work With Us Let’s have a conversation about what you need to succeed and how we can help get you there Contact Us Contact Us HOW WE WORK There are so many digital marketing solutions, why should you choose to work with us?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -12
+ }
+]

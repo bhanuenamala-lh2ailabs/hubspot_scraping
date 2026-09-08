@@ -1,0 +1,1075 @@
+[
+ {
+  "name": "HanuAl Private Limited",
+  "city": "Delhi",
+  "domain": "roadathena.com",
+  "website": "https://roadathena.com/",
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20200601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20200601",
+   "snapshot_quote": "ake roads anomaly free for everyone. Learn More --> Process Our Product background and functioning There are many variations of passages of Lorem Ipsu",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "DQ_support": 1,
+   "owns_product": 2
+  },
+  "evidence_excerpts": {
+   "DQ_support": [
+    "AI-Enabled Edge Devices Automated Data Processing Cost-Effective Alternative Integration Seamless hardware and software synergy."
+   ],
+   "owns_product": [
+    "Our platform delivers unmatched efficiency, value, and results for road management teams.",
+    "Learn More --> Process Our Product background and functioning There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+   ]
+  }
+ },
+ {
+  "name": "Heera Software Private Limited",
+  "city": "Pune",
+  "domain": "heerasoftware.com",
+  "website": "https://heerasoftware.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20220601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20220601",
+   "snapshot_quote": "vider for Distribution Management & Sales Force Automation. Our products & solutions are successfully delivered to and used by more than 10 + multinat",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "owns_product": 1,
+   "compliance": 1
+  },
+  "evidence_excerpts": {
+   "owns_product": [
+    "Our platform ensures smooth adoption with minimal disruption, offering flexible integration with existing systems—be it for pricing, schemes, or inventory."
+   ],
+   "compliance": [
+    "With enterprise-grade security protocols including ISO 27001 certification, SOC 1 Type 2 & SOC 2 Type 2 compliances, the platform guarantees data integrity, user privacy, and secure operations—making it future-ready for evolving business needs."
+   ]
+  }
+ },
+ {
+  "name": "Hinduja Global Solutions Ltd",
+  "city": "Bengaluru",
+  "domain": "teamhgs.com",
+  "website": "https://hgs.com/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "team"
+  ],
+  "pages_absent": [
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20110903",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "sdlc": 1,
+   "enterprise": 24,
+   "compliance": 1,
+   "DQ_agency": 2,
+   "senior_roles": 2,
+   "DQ_bpo": 2,
+   "qa": 1
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "We start by understanding your business and its opportunities, mapping your processes and using your data to uncover insights and ideate solutions, quantifying the potential together before deploying right-sized solutions to move your business forward."
+   ],
+   "enterprise": [
+    "Banking, Financial, Insurance Healthcare CPG Public Sector Retail Strategic Partnerships You gain the strength of our global technology partnerships, helping you modernize, scale, and lead with confidence.",
+    "Prior to HGS, he played key engineering, consulting, and leadership roles in organizations focused on technology-driven business transformation for Global 1000 companies, healthcare institutions, universities, and non-profit sectors.",
+    "Having worked on Digital Transformation projects for many Fortune 500 companies, he has deep expertise in the Consumer Products & Retail (CP&R), Travel & Transportation sectors and Digital Experience Transformation.",
+    "He possesses deep expertise in the Banking, Financial Services, and Insurance (BFSI) sector, with a strong track record in consulting, digital transformation, and organizational change management."
+   ],
+   "compliance": [
+    "Africa https://hgs.com/wp-content/uploads/2024/09/Blog-Banner-Navigating-GDPR-v-POPIA-Ensuring-Compliance-When-Outsourcing-to-S.Africa-copy.webp 580 1650 https://hgs.com/wp-content/uploads/2026/05/HGS-Logo_Blue_Green-Resized.svg 2024-09-04 05:03:19 2026-06-11 01:18:30 Navigating GDPR vs."
+   ],
+   "DQ_agency": [
+    "Her expertise spans corporate communications, corporate marketing, sales enablement, and talent acquisition branding, with core strengths in driving integrated marketing campaigns across geographies, employee communications, brand repositioning, reputation management, media and analyst relations, and demand generation."
+   ],
+   "senior_roles": [
+    "He has also been a founder of e2e Technologies, a US-based Solution Architecture firm and has set up Greater Pacific Capital, a PE firm’s India operations."
+   ],
+   "DQ_bpo": [
+    "With more than 25 years of experience in the contact center industry, including 13 years in the BPO sector, Carrie brings a wealth of expertise in delivering operational excellence.",
+    "Her background gives her extensive experience on both client and BPO sides which make her a well-rounded leader committed to enhancing customer and employee experiences across HGS."
+   ],
+   "qa": [
+    "With extensive expertise in cross functional divisions, WFM, QA, Training, Project Management, Client Relations and Operations, Savita focuses primarily on client strategy, along with omnichannel and technology driven initiatives."
+   ]
+  }
+ },
+ {
+  "name": "iamneo Edutech Private Limited",
+  "city": "Coimbatore",
+  "domain": "iamneo.ai",
+  "website": "https://iamneo.ai/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "pages_absent": [
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": null,
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "LOOKUP FAILED (cdx timeout) — NOT evidence of absence"
+  },
+  "signal_counts": {
+   "owns_product": 4,
+   "DQ_training": 7,
+   "sdlc": 1
+  },
+  "evidence_excerpts": {
+   "owns_product": [
+    "Innovation-First Work with cutting-edge AI and transformative SaaS products.",
+    "AWS Edstart program Got selected for the AWS Edstart program, a startup accelerator.",
+    "Our products collectively aim to create an ecosystem for educational institutes and enterprises."
+   ],
+   "DQ_training": [
+    "BITS Pilani Hyderabad Campus ΤΡΟ - Customer of NeoPAT ☆ ☆ ☆ ☆ ☆ NeoPAT really made the online placement preparation easier and effective for the whole batch.",
+    "It is quite brilliant as the overall placements increased by 10-20% SRKR Engineering College, Andhra Pradesh TPO - Customer of NeoPAT ☆ ☆ ☆ ☆ ☆ With the support of NeoPAT platform, We could definitely increase the campus placements by 20-25% and also the overall training expenditure got reduced significantly.",
+    "SRKR Engineering College, Andhra Pradesh TPO - Customer of NeoPAT ☆ ☆ ☆ ☆ ☆ With the support of NeoPAT platform, We could definitely increase the campus placements by 20-25% and also the overall training expenditure got reduced significantly.",
+    "Ready to Transform Your Campus Placements?"
+   ],
+   "sdlc": [
+    "We are agile and flexible for rapid growth."
+   ]
+  }
+ },
+ {
+  "name": "IEMA Research & Development Private Limited",
+  "city": "Kolkata",
+  "domain": "iemlabs.com",
+  "website": "https://iemlabs.com/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "pages_absent": [
+   "careers",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20130804",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "DQ_training": 1,
+   "pr_practice": 2,
+   "compliance": 1
+  },
+  "evidence_excerpts": {
+   "DQ_training": [
+    "From programming, networking, cloud technologies, and ethical hacking to specialized bootcamps and diploma programs, each course delivers hands-on experience led by experienced instructors."
+   ],
+   "pr_practice": [
+    "We offer comprehensive VAPT (Vulnerability Assessment & Penetration Testing), Web & Mobile Application Security Testing, Network Penetration Testing, and Source Code Review.",
+    "VAPT Data Recovery Services Source Code Review"
+   ],
+   "compliance": [
+    "Know More Cyber Security Courses and Services --> About Us IEMLabs is an ISO 27001:2022, ISO 27032:2023 & ISO 9001:2015 certified, CERT-In empanelled, and CMMI L3 company."
+   ]
+  }
+ },
+ {
+  "name": "Impetus Technologies India Private Limited",
+  "city": "Noida",
+  "domain": "impetus.com",
+  "website": "https://www.impetus.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "19991007",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "prod_eng": 3,
+   "enterprise": 18,
+   "DQ_bpo": 1,
+   "sdlc": 1,
+   "DQ_training": 1
+  },
+  "evidence_excerpts": {
+   "prod_eng": [
+    "Our Engineering Our engineers follow rigorous product engineering best practices to build applications that stand the test of time.",
+    "Recognized for his engineering excellence and client-first approach, Nachiket has deep expertise in scaling businesses, driving innovation, and creating long-term value through strategic growth and capability expansion for competitive advantage."
+   ],
+   "enterprise": [
+    "Our Experience We understand your IT heritage, technical challenges, and strategic business priorities across diverse domains including BFSI, Healthcare, Retail, and more.",
+    "Preceding this tenure, he held several prominent leadership roles at Cognizant, building the company’s Banking and Financial Services business and developing its global capabilities across data, cloud and AI.",
+    "He has extensive experience in application software sales across healthcare, life sciences, retail, CPG, financial services, and manufacturing verticals.",
+    "Kingshuk Tewari VP, BFSI Kingshuk works as the Account Head for a Fortune 100 BFSI customer and has been at the forefront of developing a strong partnership with one of Impetus’ largest clients."
+   ],
+   "DQ_bpo": [
+    "Prior to joining Impetus, she spent close to two decades at Wipro, where she held senior finance leadership roles across multiple business units at Wipro, including Wipro BPO, Consumer Goods, Life Sciences, and Retail sectors, and has also led Global FP&A (Revenue & Change)."
+   ],
+   "sdlc": [
+    "A certified SAFe Program Consultant and Agile coach, Rajani is adept in building and mentoring large data engineering teams."
+   ],
+   "DQ_training": [
+    "Outside of work, Matthew is passionate about giving back to his community and coaching youth sports.​ Mike Patnode Head of Sales, HCMI Mike is a sales and strategy leader focused on enterprise data, analytics, and AI transformation."
+   ]
+  }
+ },
+ {
+  "name": "India Land Tech Park Private Limited",
+  "city": "Coimbatore",
+  "domain": "indialand.net",
+  "website": "https://indialand.net/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "enterprise": 1
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "D Surya Prakash Co-Founder & Chairman, Imperial School of Banking and Management Studies IndiaLand Tech Park has created an environment where our employees feel safe, supported, and motivated."
+   ]
+  }
+ },
+ {
+  "name": "Inference Labs Private Limited",
+  "city": "Bengaluru",
+  "domain": "inference.in",
+  "website": "https://inference.in/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "prod_eng": 1
+  },
+  "evidence_excerpts": {
+   "prod_eng": [
+    "Delivered $500M+ value, leading global strategy, product engineering, and development."
+   ]
+  }
+ },
+ {
+  "name": "Infomate 360 Solutions India Private Limited",
+  "city": "Hyderabad",
+  "domain": "infomate360.com",
+  "website": "https://infomate360.com/",
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "enterprise": 2
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "INDUSTRIES Consulting Education Automobile Media E-Commerce Banking Legal services Healthcare VIEW ALL INDUSTRIES Best Consultancy in Hyderabad Infomate360 is a national and global provider of employment background screening solutions for companies across the globe.",
+    "As a testament to our global capabilities thousands of organizations worldwide, from small businesses to Fortune 500s, rely on Infomate360 for their screening needs."
+   ]
+  }
+ },
+ {
+  "name": "Initium Digital Private Limited",
+  "city": "Pune",
+  "domain": "initiumdigital.com",
+  "website": "https://initiumdigital.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20180808",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "owns_product": 5,
+   "prod_eng": 2,
+   "sdlc": 2,
+   "cicd": 1,
+   "senior_roles": 1
+  },
+  "evidence_excerpts": {
+   "owns_product": [
+    "Explore → NuVo Product Suite Products Built on BTP.",
+    "SAP Ecosystem Native SAP BTP Cloud Foundry is our platform.",
+    "As CRO, he owns the conversation from first call to signed engagement — making sure every prospect gets matched to the right NuVo product or accelerator, on a fixed scope and a binding timeline.",
+    "Our Products NuVo ICM Incentive Compensation Management for field sales."
+   ],
+   "prod_eng": [
+    "We're a small product engineering team in Pune building the NuVo suite on SAP BTP.",
+    "Apply via Email Hiring SAP BTP Architect Platform Engineering Pune / Remote Full-time Own the BTP architecture across NuVo ICM, DocFlo, and BTP Lens."
+   ],
+   "sdlc": [
+    "How We Work Three things we mean every word of.",
+    "SAP Build Partner SAP PartnerEdge Member SAP BTP Certified Professionals How We Work Domain Expertise First We understand SAP BTP and Business AI as a business problem, not just a technology stack."
+   ],
+   "cicd": [
+    "Apply via Email Hiring Data Engineer (SAP S/4HANA + MongoDB) ICM Engine Pune Full-time Design the data pipelines feeding the ICM execution engine — OData ingestion, KPI computation, audit trail persistence."
+   ],
+   "senior_roles": [
+    "AI Solution Architect Charmaine Fernandes Charmaine leads AI architecture at Initium Digital with 8+ years across data science, AI engineering, and enterprise solution design."
+   ]
+  }
+ },
+ {
+  "name": "InOrg Global India Private Limited",
+  "city": "Pune",
+  "domain": "inorg.com",
+  "website": "https://www.inorg.com",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "sdlc": 3,
+   "senior_roles": 1,
+   "enterprise": 3
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "Operational Excellence We turn your processes into benchmarks of innovation and efficiency.",
+    "View Open Positions Who We Are InOrg is a leader in strategic global solutions, partnering with businesses across various industries to build resilient, agile, and competitive enterprises.",
+    "Working at InOrg At InOrg, we're passionate about building resilient, agile, and competitive enterprises."
+   ],
+   "senior_roles": [
+    "Our Openings Dataiku Admin India Remote (Any Location) Full time Apply DevOps Architect India Remote (Any Location) Full time Apply DevOps Trainer India Full time Apply SAS India Full time Apply Senior Technical Architect India Remote (Any Location) Full time Apply Sr."
+   ],
+   "enterprise": [
+    "Together, we’ve partnered with companies of all sizes, from startups to Fortune500s, to scale their teams rapidly and meet evolving business demands.",
+    "He has a proven track record of success leading large, nationwide teams across diverse industries like banking, retail, consumer goods, and manufacturing.",
+    "Linkedin Debojyoti Roy Senior Vice President, Strategy and Operations A professional with over 15 years of global experience spanning the Healthcare, Consumer, & Automobile sectors."
+   ]
+  }
+ },
+ {
+  "name": "Intact Business Services Private Limited",
+  "city": "Gurugram",
+  "domain": "intactinsurance.co.uk",
+  "website": "https://www.intactinsurance.co.uk/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "enterprise": 100,
+   "sdlc": 1,
+   "DQ_training": 1,
+   "DQ_agency": 1
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "Intact Insurance About us What we offer News and insights Careers Help and support Claims Contact us Broker support Document library Fraud and complaints Compliance Social media commitment Modern slavery and human trafficking statement Intact Insurance UK Limited (No.",
+    "Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register No.",
+    "Intact Insurance UK Limited is part of Intact Financial Corporation.",
+    "Sitemap Terms and conditions Privacy notice Cookies policy Accessibility © 2025 Copyright Intact Insurance UK Limited."
+   ],
+   "sdlc": [
+    "From how we interact with brokers and customers to how we work with each other."
+   ],
+   "DQ_training": [
+    "We offer work experience placements, as well as apprenticeships, internships and graduate programmes."
+   ],
+   "DQ_agency": [
+    "Accident and health insurance Article by: Ruthie Banks Digital Communications Executive Article by: Ruthie Banks Digital Communications Executive Ruthie is a Digital Communications Executive with expertise in digital marketing and content creation across social and digital platforms."
+   ]
+  }
+ },
+ {
+  "name": "Intelliob Technologies Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "intelliob.com",
+  "website": "https://intelliob.com/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "careers",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [
+   "https://dev.to/intelliob_technologies",
+   "https://medium.com/@dev1.intelliob"
+  ],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "DQ_support": 1
+  },
+  "evidence_excerpts": {
+   "DQ_support": [
+    "Cloud, not servers No installs, no on-premise hardware, no IT team required."
+   ]
+  }
+ },
+ {
+  "name": "Inzuscene Technologies Private Limited",
+  "city": "Kolkata",
+  "domain": "inzuscene.com",
+  "website": "https://www.inzuscene.com/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "pages_absent": [
+   "careers",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20220919",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "enterprise": 1,
+   "compliance": 3,
+   "senior_roles": 1
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "Backed by Industry Leaders Explore our partner ecosystem featuring Fortune 500 companies Industrial AI and enterprise software Modernize manufacturing, services, and asset-intensive workflows with Inzuscene."
+   ],
+   "compliance": [
+    "| ISO 9001, 27001 and 20000 Certified"
+   ],
+   "senior_roles": [
+    "Quick Reads Categories Sort: Latest All Insights Digital Excellence Enterprise Solutions Tech Leadership Innovation Hub No articles match your search criteria."
+   ]
+  }
+ },
+ {
+  "name": "IT Infrastructure Park Private Limited",
+  "city": "Noida",
+  "domain": "crcgroup.in",
+  "website": "https://www.crcgroup.in/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20200601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20200601",
+   "snapshot_quote": "a Happy Homes, successfully. Another milestone added to our portfolio is Sublimis – a marvelous project in Greater Noida West. Know More About CRC Bea",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "sdlc": 2,
+   "owns_product": 1
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "Salil Kumar, Director at CRC, drives strategic growth through innovation, leasing expertise, and agile execution, aligning business goals with India's economic vision.",
+    "Here, individuals who are agile, proactive, and committed are rewarded."
+   ],
+   "owns_product": [
+    "Our products and solutions have always won the trust of the clients and ultimately inspired us to serve them better every time."
+   ]
+  }
+ },
+ {
+  "name": "Ixsight Technologies Pvt Ltd",
+  "city": "Pune",
+  "domain": "ixsight.com",
+  "website": "https://ixsight.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20070904",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "owns_product": 3,
+   "enterprise": 7,
+   "DQ_support": 1
+  },
+  "evidence_excerpts": {
+   "owns_product": [
+    "Our AML-checks can be directly used through our platforms.",
+    "request demo View Case Study Delivery Accelerators & Location Intelligence Avoid Delivery failure and Fraud For e-Commerce industry in particular – getting delivery right is a matter of priority.",
+    "The biggest and best use our products."
+   ],
+   "enterprise": [
+    "Whether you are a Fintech, NBFC, Financial Service Provider, Insurance or any Industry – Onboarding Due Diligence is critical.",
+    "request demo View Case Study Industries we serve Banking, Insurance, Government, ecommerce , retail Financial Sector Health Industry Retail Industry Goverment Sector Ecommerce Industry Careers Work with us Ixsight is looking for passionate individuals to join our team.",
+    "Yes, many AML tracking software solutions offer integration capabilities with other financial systems, such as core banking systems, CRM software, and compliance management tools.",
+    "Apart from awards and incentives, insurance plans and tax saving schemes – we are constantly innovating to make your life at Ixsight – rewarding and enriching."
+   ],
+   "DQ_support": [
+    "His last role was as the CEO of Kotak Mahindra AMC and he has over 25 years experience in financial services and he is currently on the board of several financial companies."
+   ]
+  }
+ },
+ {
+  "name": "Jones Lang LaSalle Property Consultants (India) Private Limited",
+  "city": "New Delhi",
+  "domain": "jll.co.in",
+  "website": "https://www.jll.com/en-in/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "hat improve productivity and optimize spaces for occupiers. Portfolio management Location strategy Tenant representation Workplace strategy Project ma",
+   "lookup_note": ""
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "Kalpatharu Software Limited",
+  "city": "Chennai",
+  "domain": "kalsofte.com",
+  "website": "https://kalsofte.com/new/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "careers",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20070205",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "Kenvue Solutions India Private Limited",
+  "city": "Bengaluru",
+  "domain": "kenvue.com",
+  "website": "https://www.kenvue.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "pages_absent": [
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "ng above everything else We’re relentless about making sure our products are carefully tested and evaluated against internationally recognized standar",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "sdlc": 2,
+   "enterprise": 1
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "Join a dynamic, agile and energized team, united by an unwavering courage to see and solve everyday care needs with science-backed, care-forward experiences.",
+    "Our teams are agile, dedicated and resilient; they never want to disappoint our consumers."
+   ],
+   "enterprise": [
+    "Health insurance benefits Your benefits include coverage for doctor visits, mental health care and more."
+   ]
+  }
+ },
+ {
+  "name": "KLoc Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "kloctechnologies.com",
+  "website": "https://kloctechnologies.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "pages_absent": [
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "p p s T e c h n o l o g y } Made simple Let's Connect View Portfolio Crossbeats EINA AHLUWALIA Tea Monk { P a s s i o n D i l i g e n c e R e s i l i",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "DQ_agency": 2,
+   "DQ_template": 1
+  },
+  "evidence_excerpts": {
+   "DQ_agency": [
+    "Shopify Experts, Website Development & SEO Agency Book a discovery call Home Services Shopify Agentic Commerce WordPress Staff Augmentation Portfolio Case Studies Approach About Us Contact Us Your browser does not support the video tag."
+   ],
+   "DQ_template": [
+    "Our websites go beyond cookie-cutter templates to become unique works of art."
+   ]
+  }
+ },
+ {
+  "name": "Kreeti Technologies Private Limited",
+  "city": "Kolkata",
+  "domain": "kreeti.com",
+  "website": "https://www.kreeti.com:443/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "team"
+  ],
+  "pages_absent": [
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "Web Development and Custom Application Development Company Kreeti Technologies Pvt. Ltd. A",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "sdlc": 2
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "We provide high quality- high speed- high impact solutions by using agile methodology & niche technologies like Ruby on Rails, Elixir, Phoenix & ReactJS.",
+    "We are very proud and lucky to be working with them!” Kristee Rosendahl Founder & CDO SmartGardener “Surendra and his team have consistently delivered quality, agile development services for our rails-based web services and mobile apps for over five years."
+   ]
+  }
+ },
+ {
+  "name": "Kryptos Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "kryptostech.com",
+  "website": "https://kryptostech.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20220601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20220601",
+   "snapshot_quote": "tisfaction High Skilled Professionals Read More 100 Experts Case Studies Azure Site Recovery Website Recovery Azure Web Solution Web Solution Backup M",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "senior_roles": 1,
+   "DQ_bpo": 1,
+   "enterprise": 1,
+   "compliance": 36,
+   "sdlc": 4,
+   "cicd": 3
+  },
+  "evidence_excerpts": {
+   "senior_roles": [
+    "BPO Industry Thanks to your team for design/support in technical architecture and their extensive support toward successful migration of data center services on a short notice."
+   ],
+   "DQ_bpo": [
+    "BPO Industry Thanks to your team for design/support in technical architecture and their extensive support toward successful migration of data center services on a short notice."
+   ],
+   "enterprise": [
+    "Global Education Provider Kryptos has the quality and depth of management to become a leading provider of infrastructure management service to Fortune 500 companies."
+   ],
+   "compliance": [
+    "Cookie Duration Description cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\".",
+    "cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin."
+   ],
+   "sdlc": [
+    "We offer flexible learning options on hundreds of topics from public speaking to Agile project management, and we pay for certifications in the world's top technology platforms.",
+    "Kryptos Cloud Practice team uses Cloud-native technologies to develop applications packaged in containers that are deployed as microservices and manage infrastructure through agile DevOps processes and continuous delivery workflows.",
+    "Smart solutions Your Trusted MSP for all IT & Business needs Catering to Constant Information Technology needs and challenges with our innovative and agile service offerings.",
+    "Optimize your processes, enhance customer experience, and discover new opportunities."
+   ],
+   "cicd": [
+    "Kryptos Cloud Practice team uses Cloud-native technologies to develop applications packaged in containers that are deployed as microservices and manage infrastructure through agile DevOps processes and continuous delivery workflows.",
+    "By leveraging continuous integration, delivery, and cloud-native development tools, Our DevOps improves the frequency of new updates, time to market, reduce bugs and issues, enhance performance, and increase collaboration.",
+    "Read more Application Modernization Transform Legacy Applications to next-gen and drive digital adoption The business benefit of modernizing applications is its ability to ensure the continuous delivery of best-case end user experiences, regardless of how technology changes over time."
+   ]
+  }
+ },
+ {
+  "name": "Lattice Semiconductor (India) Private Limited",
+  "city": "Pune",
+  "domain": "latticesemi.com",
+  "website": "https://www.latticesemi.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "Markets Comms & Computing Industrial & Automotive Consumer Our Products Programmable Logic Software Video Connectivity Featured Applications Lattice",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "owns_product": 2,
+   "DQ_support": 5
+  },
+  "evidence_excerpts": {
+   "owns_product": [
+    "--> --> EXPLORE OUR PRODUCTS OUR SOLUTION STACKS Whether you're designing for a smart factory, advanced driver experiences, AI datacenters, leading-edge telecom infrastructure, or connected home, Lattice Solution Stacks allow you to quickly unleash your innovation.",
+    "Products Learn more about our products and services on our products page."
+   ],
+   "DQ_support": [
+    "[Blog] Navigating DO-254 Compliance in FPGA-Based Avionics Posted 06/30/2026 by Jim Tavacoli, AVP, Strategic Business Development, Lattice Semiconductor As modern avionics system complexity increases, safety certification has become one of the most demanding challenges hardware teams face.",
+    "At the center of that challenge is DO-254, the worldwide standard that governs the development of airborne electronic hardware.",
+    "In a recent webinar, experts from Lattice and NewTec broke down what DO-254 compliance actually requires, where FPGA-based designs help simplify safety challenges, and how the right hardware partner can meaningfully reduce the burden...",
+    "Hardware is sourced across vendors."
+   ]
+  }
+ },
+ {
+  "name": "Lester Infoservices Private Limited",
+  "city": "Navi Mumbai",
+  "domain": "lesterinc.com",
+  "website": "https://www.lesterinc.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20220601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20220601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "LinkedIn Technology Information Private Limited",
+  "city": "Bengaluru",
+  "domain": "in.linkedin.com",
+  "website": "https://in.linkedin.com",
+  "pages_reached": [
+   "/",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20091108",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "DQ_template": 2,
+   "qa": 1,
+   "sdlc": 1,
+   "enterprise": 1,
+   "owns_product": 1
+  },
+  "evidence_excerpts": {
+   "DQ_template": [
+    "Not some boilerplate template.",
+    "🍣 232,009 followers 1y Report this post 💎 60 UX Strategy Methods And Activities (Figma) ( https://lnkd.in/eCDU-vhR ), a large repository of UX methods, templates and activities for ideation sessions and product sprints, from storyboards and brainwriting to 6 thinking hats, journey mapping and concept testing."
+   ],
+   "qa": [
+    "And we can go beyond self-reflection by giving the LLM tools that help evaluate its output; for example, running its code through a few unit tests to check whether it generates correct results on test cases or searching the web to double-check text output."
+   ],
+   "sdlc": [
+    "🍣 232,009 followers 1y Report this post 💎 60 UX Strategy Methods And Activities (Figma) ( https://lnkd.in/eCDU-vhR ), a large repository of UX methods, templates and activities for ideation sessions and product sprints, from storyboards and brainwriting to 6 thinking hats, journey mapping and concept testing."
+   ],
+   "enterprise": [
+    "🏥 Healthcare devices delivering real-time diagnostics."
+   ],
+   "owns_product": [
+    "This is where AMD is helping drive the next era of AI—from Ryzen AI PCs at the edge, to EPYC processors powering modern data centers, and Instinct accelerators enabling large-scale AI inference and training."
+   ]
+  }
+ }
+]

@@ -1,0 +1,3741 @@
+[
+ {
+  "name": "Wixford",
+  "domain": "wixford.com",
+  "pages": [
+   "https://www.wixford.com/contact",
+   "https://www.wixford.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "ZAAG SYSTEMS",
+  "domain": "zaagsys.com",
+  "pages": [
+   "https://zaagsys.com/contact-us",
+   "https://zaagsys.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Door Soft Ltd.",
+  "domain": "doorsoft.co",
+  "pages": [
+   "https://doorsoft.co/contact",
+   "https://doorsoft.co/contact-us",
+   "https://doorsoft.co/contacts",
+   "https://doorsoft.co/get-in-touch",
+   "https://doorsoft.co/reach-us",
+   "https://doorsoft.co/about-us",
+   "https://doorsoft.co/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Mediasoft Data Systems Limited",
+  "domain": "mediasoftbd.com",
+  "pages": [
+   "https://mediasoftbd.com/contact",
+   "https://mediasoftbd.com/contact-us",
+   "https://mediasoftbd.com/about-us",
+   "https://mediasoftbd.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801708122851",
+    "e164": "+8801708122851",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801708122852",
+    "e164": "+8801708122852",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01730022050",
+    "e164": "+8801730022050",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01730022051",
+    "e164": "+8801730022051",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "DataPollex",
+  "domain": "datapollex.com",
+  "pages": [
+   "https://www.datapollex.com/contact",
+   "https://www.datapollex.com/contact-us",
+   "https://www.datapollex.com/contacts",
+   "https://www.datapollex.com/get-in-touch",
+   "https://www.datapollex.com/reach-us",
+   "https://www.datapollex.com/about-us",
+   "https://www.datapollex.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Bright Future Soft",
+  "domain": "brightfuturesoft.com",
+  "pages": [
+   "https://www.brightfuturesoft.com/contact",
+   "https://www.brightfuturesoft.com/contact-us",
+   "https://www.brightfuturesoft.com/contacts",
+   "https://www.brightfuturesoft.com/get-in-touch",
+   "https://www.brightfuturesoft.com/reach-us",
+   "https://www.brightfuturesoft.com/about-us",
+   "https://www.brightfuturesoft.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "CodersBucket",
+  "domain": "codersbucket.com",
+  "pages": [
+   "https://codersbucket.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1711 249934",
+    "e164": "+8801711249934",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+880 1300 347364",
+    "e164": "+8801300347364",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+880 2 8418012",
+    "e164": "+88028418012",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+1 (415) 680-9403",
+    "e164": "+14156809403",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@codersbucket.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Web Xpress",
+  "domain": "webxpress.com.bd",
+  "pages": [
+   "https://webxpress.com.bd/contact",
+   "https://webxpress.com.bd/contact-us",
+   "https://webxpress.com.bd/contacts",
+   "https://webxpress.com.bd/get-in-touch",
+   "https://webxpress.com.bd/reach-us",
+   "https://webxpress.com.bd/about-us",
+   "https://webxpress.com.bd/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801711871722",
+    "e164": "+8801711871722",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801713631156",
+    "e164": "+8801713631156",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "TrillionBits Ltd.",
+  "domain": "trillionbits.com",
+  "pages": [
+   "http://trillionbits.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801313958844",
+    "e164": "+8801313958844",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+1 (213) 649-5964",
+    "e164": "+12136495964",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "hello@trillionbits.com",
+    "role_address": true
+   },
+   {
+    "email": "info@trillionbits.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "BdCalling IT Limited",
+  "domain": "bdcalling.com",
+  "pages": [
+   "https://bdcalling.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+8801716566979",
+    "e164": "+8801716566979",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801718308682",
+    "e164": "+8801718308682",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801714637489",
+    "e164": "+8801714637489",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@bdcalling.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Arena Phone BD",
+  "domain": "arena.com.bd",
+  "pages": [
+   "https://www.arena.com.bd/contact",
+   "https://www.arena.com.bd/contact-us",
+   "https://www.arena.com.bd/contacts",
+   "https://www.arena.com.bd/get-in-touch",
+   "https://www.arena.com.bd/reach-us",
+   "https://www.arena.com.bd/about-us",
+   "https://www.arena.com.bd/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Industrial ERP and CRM Software",
+  "domain": "dotbook.com",
+  "pages": [
+   "https://dotbook.com/contact",
+   "https://dotbook.com/contact-us",
+   "https://dotbook.com/about-us",
+   "https://dotbook.com/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "info@dotbook.com",
+    "role_address": true
+   },
+   {
+    "email": "sales@dotbook.com",
+    "role_address": true
+   },
+   {
+    "email": "support@dotbook.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Magnetism Tech Limited",
+  "domain": "magnetismtech.com",
+  "pages": [
+   "https://magnetismtech.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1717103605",
+    "e164": "+8801717103605",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@magnetismtech.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Generation Next IT Solution LTD.",
+  "domain": "gnisbd.com",
+  "pages": [
+   "https://gnisbd.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+88 016 1136 5897",
+    "e164": "+8801611365897",
+    "kind": "mobile:Airtel",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+88 019 7777 4722",
+    "e164": "+8801977774722",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+88 02 550 55179",
+    "e164": "+880255055179",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+88 02 550 54805",
+    "e164": "+880255054805",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "gnisbd@yahoo.com",
+    "role_address": false
+   },
+   {
+    "email": "sales@gpacsoftware.com",
+    "role_address": true
+   },
+   {
+    "email": "info@gnisbd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "LS COMMUNICATIONS",
+  "domain": "lscominc.com",
+  "pages": [
+   "http://lscominc.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1841 412728",
+    "e164": "+8801841412728",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "4155551234",
+    "e164": "4155551234",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+880 02 9556571",
+    "e164": "+880029556571",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Ascii System",
+  "domain": "asciisys.com",
+  "pages": [
+   "http://www.asciisys.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Devute",
+  "domain": "devute.com",
+  "pages": [
+   "https://devute.com/contact",
+   "https://devute.com/contact-us",
+   "https://devute.com/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "hello@devute.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Hypertek Labs",
+  "domain": "hyperteklabs.com",
+  "pages": [
+   "https://hyperteklabs.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801956155445",
+    "e164": "+8801956155445",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Infocrat Solutions Limited",
+  "domain": "infocrat.com.bd",
+  "pages": [
+   "https://infocrat.com.bd/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801737614302",
+    "e164": "+8801737614302",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@infocrat.com.bd",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Al-Hiyal Automation Limited",
+  "domain": "alhiyal.com",
+  "pages": [
+   "https://alhiyal.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801717234688",
+    "e164": "+8801717234688",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+14692076727",
+    "e164": "+14692076727",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@alhiyal.com",
+    "role_address": true
+   },
+   {
+    "email": "contact@ahalllc.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Pakiza Software Limited",
+  "domain": "pakizasoftware.com",
+  "pages": [
+   "https://pakizasoftware.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801713-060417",
+    "e164": "+8801713060417",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801324-726843",
+    "e164": "+8801324726843",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "mkt@pakizasoftware.com",
+    "role_address": false
+   },
+   {
+    "email": "info@pakizasoftware.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Global IT Solutions",
+  "domain": "globalitsolutions.com.bd",
+  "pages": [
+   "http://globalitsolutions.com.bd/contact",
+   "http://globalitsolutions.com.bd/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801812848792",
+    "e164": "+8801812848792",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+880 1568 2800",
+    "e164": "+88015682800",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+971 58 140 0594",
+    "e164": "+971581400594",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+33 605600418",
+    "e164": "+33605600418",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Infosoftbd Solutions",
+  "domain": "infosoftbd.com",
+  "pages": [
+   "https://infosoftbd.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+880 173 493 6561",
+    "e164": "+8801734936561",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8809649767574",
+    "e164": "+8809649767574",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@infosoftbd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Acquaint Technologies",
+  "domain": "acquaintbd.com",
+  "pages": [
+   "https://acquaintbd.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801734222391",
+    "e164": "+8801734222391",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801602088244",
+    "e164": "+8801602088244",
+    "kind": "mobile:Airtel",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01734-222391",
+    "e164": "+8801734222391",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01632-222814",
+    "e164": "+8801632222814",
+    "kind": "mobile:Airtel",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "hello@acquaintbd.com",
+    "role_address": true
+   },
+   {
+    "email": "sales@acquaintbd.com",
+    "role_address": true
+   },
+   {
+    "email": "support@acquaintbd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Vista SysTech",
+  "domain": "vistasystech.com",
+  "pages": [
+   "https://vistasystech.com/contact",
+   "https://vistasystech.com/contact-us",
+   "https://vistasystech.com/contacts",
+   "https://vistasystech.com/get-in-touch",
+   "https://vistasystech.com/reach-us",
+   "https://vistasystech.com/about-us",
+   "https://vistasystech.com/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "webmaster@vistasystech.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "NG-CODER",
+  "domain": "ng-coder.com",
+  "pages": [
+   "https://ng-coder.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "01916665832",
+    "e164": "+8801916665832",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@ng-coder.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Together Initiatives (p) Limited",
+  "domain": "i2gether.com",
+  "pages": [
+   "https://www.i2gether.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+880 9611656199",
+    "e164": "+8809611656199",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@i2gether.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "LeanCore Technologies",
+  "domain": "leancore.net",
+  "pages": [
+   "https://leancore.net/contact",
+   "https://leancore.net/contact-us",
+   "https://leancore.net/contacts",
+   "https://leancore.net/get-in-touch",
+   "https://leancore.net/reach-us",
+   "https://leancore.net/about-us",
+   "https://leancore.net/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801710-201414",
+    "e164": "+8801710201414",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01710201414",
+    "e164": "+8801710201414",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "PIISTECH",
+  "domain": "piistech.com",
+  "pages": [
+   "https://www.piistech.com/contact",
+   "https://www.piistech.com/contact-us",
+   "https://www.piistech.com/contacts",
+   "https://www.piistech.com/get-in-touch",
+   "https://www.piistech.com/reach-us",
+   "https://www.piistech.com/about-us",
+   "https://www.piistech.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801717639422",
+    "e164": "+8801717639422",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801947770250",
+    "e164": "+8801947770250",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801947770300",
+    "e164": "+8801947770300",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801947770003",
+    "e164": "+8801947770003",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Sistema Soft Limited",
+  "domain": "sistemasoft.com",
+  "pages": [
+   "https://sistemasoft.com/"
+  ],
+  "phones": [
+   {
+    "raw": "01854184834",
+    "e164": "+8801854184834",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "IT Garden BD",
+  "domain": "itgardenbd.com",
+  "pages": [
+   "http://itgardenbd.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Kolom Technologies Ltd.",
+  "domain": "kolom.ai",
+  "pages": [
+   "https://www.kolom.ai/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Soft Aid Tech",
+  "domain": "softaidtech.com",
+  "pages": [
+   "https://softaidtech.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1784-899561",
+    "e164": "+8801784899561",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+1 (315) 239-1828",
+    "e164": "+13152391828",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+16468380241",
+    "e164": "+16468380241",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@softaidtech.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "The Tork",
+  "domain": "thetork.com",
+  "pages": [
+   "https://thetork.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+8801313941166",
+    "e164": "+8801313941166",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+447441913232",
+    "e164": "+447441913232",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "mail@thetork.com",
+    "role_address": false
+   },
+   {
+    "email": "info@thetork.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Smart Web BD",
+  "domain": "smartwebbd.com",
+  "pages": [
+   "https://smartwebbd.com/contact-us",
+   "https://smartwebbd.com/contacts",
+   "https://smartwebbd.com/get-in-touch",
+   "https://smartwebbd.com/reach-us",
+   "https://smartwebbd.com/about-us",
+   "https://smartwebbd.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Nextzen Limited",
+  "domain": "nextzen.com.bd",
+  "pages": [
+   "https://nextzen.com.bd/contact"
+  ],
+  "phones": [
+   {
+    "raw": "01715933323",
+    "e164": "+8801715933323",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+88 01715933323",
+    "e164": "+8801715933323",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+0989 7876 9865",
+    "e164": "+098978769865",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+447532781812",
+    "e164": "+447532781812",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "support@nextzen.net",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Softineers",
+  "domain": "softineers.com",
+  "pages": [
+   "https://softineers.com/contact",
+   "https://softineers.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801883769359",
+    "e164": "+8801883769359",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8809611360942",
+    "e164": "+8809611360942",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "PinTechERP",
+  "domain": "pintecherp.com",
+  "pages": [
+   "https://pintecherp.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "01309026600",
+    "e164": "+8801309026600",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+88 01309026600",
+    "e164": "+8801309026600",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "sales@pintechltd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Aisoft Agency",
+  "domain": "aisoftagency.com",
+  "pages": [
+   "https://aisoftagency.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801722007005",
+    "e164": "+8801722007005",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+44 7451283248",
+    "e164": "+447451283248",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+1-718-487-9123",
+    "e164": "+17184879123",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+61 415343061",
+    "e164": "+61415343061",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Insoftx",
+  "domain": "insoftx.com",
+  "pages": [
+   "https://www.insoftx.com/contact",
+   "https://www.insoftx.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+880 16369 68578",
+    "e164": "+8801636968578",
+    "kind": "mobile:Airtel",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Patricius IT",
+  "domain": "patriciusit.com",
+  "pages": [
+   "https://www.patriciusit.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "8801826208996",
+    "e164": "+8801826208996",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801826208996",
+    "e164": "+8801826208996",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "60196754245",
+    "e164": "60196754245",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+60 19-675-4245",
+    "e164": "+60196754245",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@patriciusit.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "SYNCHRONISE",
+  "domain": "synchronisebd.com",
+  "pages": [
+   "https://synchronisebd.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "8801902558832",
+    "e164": "+8801902558832",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01902558832",
+    "e164": "+8801902558832",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801902558835",
+    "e164": "+8801902558835",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+880)1902558831",
+    "e164": "+8801902558831",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@synchronisebd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "ParonSoft Solutions Ltd.",
+  "domain": "paronsoft.com",
+  "pages": [
+   "https://paronsoft.com/contact",
+   "https://paronsoft.com/contact-us",
+   "https://paronsoft.com/contacts",
+   "https://paronsoft.com/get-in-touch",
+   "https://paronsoft.com/reach-us",
+   "https://paronsoft.com/about-us",
+   "https://paronsoft.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Innovative Station Limited",
+  "domain": "innovativestation.com",
+  "pages": [
+   "https://innovativestation.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1711-208626",
+    "e164": "+8801711208626",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+1 (888) 123-4567",
+    "e164": "+18881234567",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@innovativestation.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "CodeMoly",
+  "domain": "codemoly.com",
+  "pages": [
+   "https://codemoly.com/about-us"
+  ],
+  "phones": [
+   {
+    "raw": "+01894 955 494",
+    "e164": "+01894955494",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+33743579692",
+    "e164": "+33743579692",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+43 664 875 8864",
+    "e164": "+436648758864",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+15551234567",
+    "e164": "+15551234567",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "codemoly.info@gmail.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Quantumbyte Technologies",
+  "domain": "quantumbytetech.com",
+  "pages": [
+   "https://quantumbytetech.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801892021500",
+    "e164": "+8801892021500",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "quantumbytetech.bd@gmail.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Feather IT",
+  "domain": "featheruniverse.com",
+  "pages": [
+   "https://featheruniverse.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801313650931",
+    "e164": "+8801313650931",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@featheruniverse.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Snaptec Limited",
+  "domain": "snaptec.ltd",
+  "pages": [
+   "https://snaptec.ltd/contact-us",
+   "https://snaptec.ltd/about-us",
+   "https://snaptec.ltd/"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1334-925690",
+    "e164": "+8801334925690",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "E-Tracker Solution",
+  "domain": "etrackersolution.com",
+  "pages": [
+   "https://etrackersolution.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801741-674189",
+    "e164": "+8801741674189",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801885-996709",
+    "e164": "+8801885996709",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01741-674189",
+    "e164": "+8801741674189",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "etrackersolution@gmail.com",
+    "role_address": false
+   },
+   {
+    "email": "usa.cpt@etrackersolution.com",
+    "role_address": false
+   },
+   {
+    "email": "japan.br@etrackersolution.com",
+    "role_address": false
+   },
+   {
+    "email": "info@etrackersolution.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Revinr",
+  "domain": "revinr.com",
+  "pages": [
+   "https://revinr.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801715864162",
+    "e164": "+8801715864162",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@revinr.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "IPSITA COMPUTERS PTE LTD",
+  "domain": "ipsitasoft.com",
+  "pages": [
+   "https://www.ipsitasoft.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+8801745-371324",
+    "e164": "+8801745371324",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801737-389557",
+    "e164": "+8801737389557",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801796-038482",
+    "e164": "+8801796038482",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801767-025147",
+    "e164": "+8801767025147",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "ipsheeta1@gmail.com",
+    "role_address": false
+   },
+   {
+    "email": "info@ipsitasoft.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Codeshaper",
+  "domain": "codeshaper.net",
+  "pages": [
+   "https://codeshaper.net/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801787662759",
+    "e164": "+8801787662759",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+880-1754218741",
+    "e164": "+8801754218741",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+880-1834934583",
+    "e164": "+8801834934583",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+64277758777",
+    "e164": "+64277758777",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@codeshaper.net",
+    "role_address": true
+   },
+   {
+    "email": "support@codeshaper.net",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Innovera IT",
+  "domain": "innoverait.com",
+  "pages": [
+   "https://innoverait.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801714898142",
+    "e164": "+8801714898142",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "hello@innoverait.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "AI Soft",
+  "domain": "aisoft.com.bd",
+  "pages": [
+   "https://aisoft.com.bd/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801868538686",
+    "e164": "+8801868538686",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "aisoftbd23@gmail.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Nogor Solutions Limited",
+  "domain": "nogorsolutions.com",
+  "pages": [
+   "http://www.nogorsolutions.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "01717426494",
+    "e164": "+8801717426494",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+88-02-2222880075",
+    "e164": "+88022222880075",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@gmail.com",
+    "role_address": true
+   },
+   {
+    "email": "info@nogorsolutions.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "BCI Technosys Limited",
+  "domain": "bcitechsys.com",
+  "pages": [
+   "https://bcitechsys.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+94768452136",
+    "e164": "+94768452136",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Appbuff",
+  "domain": "appbuff.net",
+  "pages": [
+   "https://appbuff.net/contact",
+   "https://appbuff.net/contact-us",
+   "https://appbuff.net/contacts",
+   "https://appbuff.net/get-in-touch",
+   "https://appbuff.net/reach-us",
+   "https://appbuff.net/about-us",
+   "https://appbuff.net/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "VerticaSoft",
+  "domain": "verticasoft.com",
+  "pages": [
+   "https://verticasoft.com/contact",
+   "https://verticasoft.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1521-515963",
+    "e164": "+8801521515963",
+    "kind": "mobile:Teletalk",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+880 1957-977609",
+    "e164": "+8801957977609",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "HRSOFTBD",
+  "domain": "hrsoftbd.com",
+  "pages": [
+   "http://www.hrsoftbd.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801722158130",
+    "e164": "+8801722158130",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801709372481",
+    "e164": "+8801709372481",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@hrsoftbd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Codes Break Ltd.",
+  "domain": "codesbreak.com",
+  "pages": [
+   "https://codesbreak.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801896037190",
+    "e164": "+8801896037190",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+18408412569",
+    "e164": "+18408412569",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "customer@elementra.com",
+    "role_address": false
+   },
+   {
+    "email": "info@codesbreak.com",
+    "role_address": true
+   },
+   {
+    "email": "info@email.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Leotech",
+  "domain": "leotechbd.com",
+  "pages": [
+   "https://www.leotechbd.com/"
+  ],
+  "phones": [
+   {
+    "raw": "01834455611",
+    "e164": "+8801834455611",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01730594391",
+    "e164": "+8801730594391",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01730594393",
+    "e164": "+8801730594393",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "IOTA Infotech Limited",
+  "domain": "iotait.tech",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Unova Software",
+  "domain": "unova.bd",
+  "pages": [
+   "https://www.unova.bd/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801766774016",
+    "e164": "+8801766774016",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@unova.bd",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Curlware",
+  "domain": "curlware.com",
+  "pages": [
+   "https://curlware.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801886153893",
+    "e164": "+8801886153893",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801877298601",
+    "e164": "+8801877298601",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01994987477",
+    "e164": "+8801994987477",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01742714067",
+    "e164": "+8801742714067",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@curlware.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Axilweb Ltd.",
+  "domain": "axilweb.com",
+  "pages": [
+   "https://axilweb.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1730577220",
+    "e164": "+8801730577220",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@axilweb.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "MicroDeft",
+  "domain": "microdeft.com",
+  "pages": [
+   "https://microdeft.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+19793663366",
+    "e164": "+19793663366",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+8809638009005",
+    "e164": "+8809638009005",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@microdeft.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Azmi Studio",
+  "domain": "azmistudio.com",
+  "pages": [
+   "https://azmistudio.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+880 130 260 9091",
+    "e164": "+8801302609091",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+880 161 003 1180",
+    "e164": "+8801610031180",
+    "kind": "mobile:Airtel",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "shah@azmistudio.com",
+    "role_address": false
+   },
+   {
+    "email": "ceo@azmistudio.com",
+    "role_address": false
+   },
+   {
+    "email": "global-projects@azmistudio.com",
+    "role_address": false
+   },
+   {
+    "email": "info@azmistudio.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Iqrasys Solutions Limited",
+  "domain": "iqrasys.com",
+  "pages": [
+   "https://iqrasys.com/contact-us",
+   "https://iqrasys.com/about-us",
+   "https://iqrasys.com/"
+  ],
+  "phones": [
+   {
+    "raw": "01778-772327",
+    "e164": "+8801778772327",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+88 01778-772327",
+    "e164": "+8801778772327",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "MM IT SOFT LTD.",
+  "domain": "mmitsoft.com",
+  "pages": [
+   "https://www.mmitsoft.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801860424344",
+    "e164": "+8801860424344",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@mmitsoft.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Qodemart Limited",
+  "domain": "qodemart.com",
+  "pages": [
+   "https://qodemart.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Workspace Infotech Ltd.",
+  "domain": "workspaceit.com",
+  "pages": [
+   "https://www.workspaceit.com/contact",
+   "https://www.workspaceit.com/contact-us",
+   "https://www.workspaceit.com/contacts",
+   "https://www.workspaceit.com/get-in-touch",
+   "https://www.workspaceit.com/reach-us",
+   "https://www.workspaceit.com/about-us",
+   "https://www.workspaceit.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+88 01977-9748",
+    "e164": "+88019779748",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+88 02 55098341",
+    "e164": "+880255098341",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Software Solution Company",
+  "domain": "softwaresolutioncompany.com",
+  "pages": [
+   "https://softwaresolutioncompany.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "01714-092903",
+    "e164": "+8801714092903",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01735-081676",
+    "e164": "+8801735081676",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+88 01714-092903",
+    "e164": "+8801714092903",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+88 01735-081676",
+    "e164": "+8801735081676",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@softwaresolutioncompany.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "NextCTL",
+  "domain": "nextctl.com",
+  "pages": [
+   "https://nextctl.com/contact",
+   "https://nextctl.com/about-us",
+   "https://nextctl.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801701064309",
+    "e164": "+8801701064309",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+447915609438",
+    "e164": "+447915609438",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+19252057946",
+    "e164": "+19252057946",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Taskco Digital",
+  "domain": "taskcodigital.com",
+  "pages": [
+   "https://www.taskcodigital.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801896263647",
+    "e164": "+8801896263647",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01896 263647",
+    "e164": "+8801896263647",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "hello@taskco.io",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "UTech Innovation",
+  "domain": "utechinnovation.com",
+  "pages": [
+   "https://utechinnovation.com/contact",
+   "https://utechinnovation.com/contact-us",
+   "https://utechinnovation.com/contacts",
+   "https://utechinnovation.com/get-in-touch",
+   "https://utechinnovation.com/reach-us",
+   "https://utechinnovation.com/about-us",
+   "https://utechinnovation.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Subra systems",
+  "domain": "subrasystems.com",
+  "pages": [
+   "http://subrasystems.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Touch and Solve",
+  "domain": "touchandsolve.com",
+  "pages": [
+   "http://touchandsolve.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1958227203",
+    "e164": "+8801958227203",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801958227200",
+    "e164": "+8801958227200",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@touchandsolve.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Anirban Soft",
+  "domain": "anirbansoft.com",
+  "pages": [
+   "https://anirbansoft.com/contact-us",
+   "https://anirbansoft.com/about-us",
+   "https://anirbansoft.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801400677102",
+    "e164": "+8801400677102",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "09611148525",
+    "e164": "09611148525",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Nextfio IT",
+  "domain": "nextfio.com",
+  "pages": [
+   "https://nextfio.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801751934377",
+    "e164": "+8801751934377",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Anvil Dynamics Ltd.",
+  "domain": "anvildynamics.xyz",
+  "pages": [
+   "https://anvildynamics.xyz/contact",
+   "https://anvildynamics.xyz/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801886599264",
+    "e164": "+8801886599264",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "aarsis Solutions",
+  "domain": "aarsis.com",
+  "pages": [
+   "https://aarsis.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801301775511",
+    "e164": "+8801301775511",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+880 1793-489559",
+    "e164": "+8801793489559",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+1234567890",
+    "e164": "+1234567890",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+880 01301-775511",
+    "e164": "+88001301775511",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "hello@aarsis.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Glorious IT",
+  "domain": "gloriousit.com",
+  "pages": [
+   "https://gloriousit.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801759568080",
+    "e164": "+8801759568080",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01724721000",
+    "e164": "+8801724721000",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801724 721000",
+    "e164": "+8801724721000",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01759568080",
+    "e164": "+8801759568080",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info.gloriousit@gmail.com",
+    "role_address": false
+   },
+   {
+    "email": "info@gloriousit.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Imperial Engineers Limited",
+  "domain": "imperialengineersltd.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Octarnal",
+  "domain": "octarnal.com",
+  "pages": [
+   "https://www.octarnal.com/contact",
+   "https://www.octarnal.com/about-us",
+   "https://www.octarnal.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+880-185-202-4152",
+    "e164": "+8801852024152",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Ridwa",
+  "domain": "ridwa.com",
+  "pages": [
+   "https://ridwa.com/contact",
+   "https://ridwa.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801850455661",
+    "e164": "+8801850455661",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Nevadia Technology Ltd.",
+  "domain": "nevadiatechnology.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Code Vane",
+  "domain": "codevane.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "MNP Techs",
+  "domain": "mnptechs.com",
+  "pages": [
+   "https://mnptechs.com/contact",
+   "https://mnptechs.com/about-us",
+   "https://mnptechs.com/"
+  ],
+  "phones": [
+   {
+    "raw": "(+88)01321227723",
+    "e164": "+8801321227723",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "(+88)01321227725",
+    "e164": "+8801321227725",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+1 (347) 592-9592",
+    "e164": "+13475929592",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Artless Technology",
+  "domain": "artlesstech.com",
+  "pages": [
+   "https://www.artlesstech.com/"
+  ],
+  "phones": [
+   {
+    "raw": "01575-214260",
+    "e164": "+8801575214260",
+    "kind": "mobile:Teletalk",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+88 01575-214260",
+    "e164": "+8801575214260",
+    "kind": "mobile:Teletalk",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "artlesstech@gmail.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Crystal IT",
+  "domain": "crystalitbd.com",
+  "pages": [
+   "http://www.crystalitbd.com/"
+  ],
+  "phones": [
+   {
+    "raw": "01712-822708",
+    "e164": "+8801712822708",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@crystalitbd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "UniconLab",
+  "domain": "uniconlab.com",
+  "pages": [
+   "https://www.uniconlab.com/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "info@uniconlab.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Softozen",
+  "domain": "softozen.com",
+  "pages": [
+   "https://softozen.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801987996677",
+    "e164": "+8801987996677",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Web Integrator Ltd",
+  "domain": "webintegrator.com.bd",
+  "pages": [
+   "https://webintegrator.com.bd/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+447782256307",
+    "e164": "+447782256307",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@flexify.ltd",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Incrosoft",
+  "domain": "incrosoft.com",
+  "pages": [
+   "https://incrosoft.com/contact",
+   "https://incrosoft.com/contact-us",
+   "https://incrosoft.com/contacts",
+   "https://incrosoft.com/get-in-touch",
+   "https://incrosoft.com/reach-us",
+   "https://incrosoft.com/about-us",
+   "https://incrosoft.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "S Technologies",
+  "domain": "stechbd.net",
+  "pages": [
+   "https://www.stechbd.net/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801935446721",
+    "e164": "+8801935446721",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@stechbd.net",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "NexGrowix",
+  "domain": "nexgrowix.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Devnasa Technologies Ltd.",
+  "domain": "devnasa.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "PrimX Technologies",
+  "domain": "primxtech.com",
+  "pages": [
+   "https://primxtech.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "01841896990",
+    "e164": "+8801841896990",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801841896990",
+    "e164": "+8801841896990",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@primxtech.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "W3 Soft Net",
+  "domain": "w3softnet.com",
+  "pages": [
+   "https://w3softnet.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "01914965811",
+    "e164": "+8801914965811",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801914965811",
+    "e164": "+8801914965811",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801736657651",
+    "e164": "+8801736657651",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "%20info@w3softnet.com",
+    "role_address": false
+   },
+   {
+    "email": "info@w3softnet.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Quicksoft Ltd",
+  "domain": "quicksoftltd.com",
+  "pages": [
+   "https://quicksoftltd.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1617 027 130",
+    "e164": "+8801617027130",
+    "kind": "mobile:Airtel",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@quicksoftltd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "R-creation",
+  "domain": "rcreation-bd.com",
+  "pages": [
+   "https://rcreation-bd.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801813316786",
+    "e164": "+8801813316786",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "wwwrcreationbd@gmail.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "SLYTHZ LABS",
+  "domain": "slythz.com",
+  "pages": [
+   "https://slythz.com/contact",
+   "https://slythz.com/contact-us",
+   "https://slythz.com/contacts",
+   "https://slythz.com/get-in-touch",
+   "https://slythz.com/reach-us",
+   "https://slythz.com/about-us",
+   "https://slythz.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Infolook Studio",
+  "domain": "infolook.net",
+  "pages": [
+   "https://infolook.net/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1308 498 310",
+    "e164": "+8801308498310",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "hello@infolok.net",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "SuperSoft Ltd",
+  "domain": "supersoftltd.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Winky Tech Limited",
+  "domain": "winkytech.com",
+  "pages": [
+   "https://www.winkytech.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "01715177776",
+    "e164": "+8801715177776",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01711311979",
+    "e164": "+8801711311979",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+88 01715177776",
+    "e164": "+8801715177776",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+88 01711311979",
+    "e164": "+8801711311979",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@winkytech.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Santi IT Farm",
+  "domain": "santiitfarm.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Mysoftheaven (BD) Ltd",
+  "domain": "mysoftheaven.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Rafusoft",
+  "domain": "rafusoft.com",
+  "pages": [
+   "https://rafusoft.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801712552009",
+    "e164": "+8801712552009",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801744333888",
+    "e164": "+8801744333888",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801750014052",
+    "e164": "+8801750014052",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+32498464176",
+    "e164": "+32498464176",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@mail.rafusoft.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "CodeFlee",
+  "domain": "codeflee.com",
+  "pages": [
+   "https://www.codeflee.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Nirob InfoTech LTD",
+  "domain": "nirobinfotech.com",
+  "pages": [
+   "https://nirobinfotech.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "KOPARION STUDIO",
+  "domain": "koparionstudio.com",
+  "pages": [
+   "https://koparionstudio.com/contact",
+   "https://koparionstudio.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Abiflow Labs",
+  "domain": "abiflowlabs.com",
+  "pages": [
+   "https://abiflowlabs.com/contact",
+   "https://abiflowlabs.com/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "abiflowlabs@gmail.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Workspace InfoTech Australia PTY Limited",
+  "domain": "workspaceit.com.au",
+  "pages": [
+   "http://www.workspaceit.com.au/"
+  ],
+  "phones": [
+   {
+    "raw": "+61390106232",
+    "e164": "+61390106232",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+61433016163",
+    "e164": "+61433016163",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "ceo@workspaceit.com.au",
+    "role_address": false
+   },
+   {
+    "email": "info@workspaceit.com.au",
+    "role_address": true
+   },
+   {
+    "email": "hr@workspaceit.com.au",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Oracle Byte",
+  "domain": "oraclebyte.com",
+  "pages": [
+   "https://oraclebyte.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+8801833777769",
+    "e164": "+8801833777769",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info.oraclebyte@gmail.com",
+    "role_address": false
+   },
+   {
+    "email": "info@oraclebyte.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Update Tech Ltd.",
+  "domain": "updatetechltd.com",
+  "pages": [
+   "https://updatetechltd.com/contact",
+   "https://updatetechltd.com/contact-us",
+   "https://updatetechltd.com/contacts",
+   "https://updatetechltd.com/get-in-touch",
+   "https://updatetechltd.com/reach-us",
+   "https://updatetechltd.com/about-us",
+   "https://updatetechltd.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "eManger IT LTD",
+  "domain": "emanagerit.com",
+  "pages": [
+   "https://emanagerit.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "8801711270465",
+    "e164": "+8801711270465",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801711270465",
+    "e164": "+8801711270465",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "emanagerit@gmail.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Ontenet Digital Ltd.",
+  "domain": "ontenet.digital",
+  "pages": [
+   "https://ontenet.digital/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801328664390",
+    "e164": "+8801328664390",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "project@ontenet.com",
+    "role_address": false
+   },
+   {
+    "email": "hello@ontenet.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "SOFT GHOR",
+  "domain": "softghor.com",
+  "pages": [
+   "https://softghor.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801958-104250",
+    "e164": "+8801958104250",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801958104256",
+    "e164": "+8801958104256",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "softghor@gmail.com",
+    "role_address": false
+   },
+   {
+    "email": "softghorltd@gmail.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Brevian",
+  "domain": "brevian.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "iSoft",
+  "domain": "isoftint.com",
+  "pages": [
+   "https://isoftint.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "01816025846",
+    "e164": "+8801816025846",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@isoftint.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "SoftAura",
+  "domain": "softaura.dev",
+  "pages": [
+   "https://softaura.dev/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801836009336",
+    "e164": "+8801836009336",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@softaura.dev",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Doinik ERP & Devices",
+  "domain": "doinikerp.com",
+  "pages": [
+   "https://doinikerp.com/contact",
+   "https://doinikerp.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801577449204",
+    "e164": "+8801577449204",
+    "kind": "mobile:Teletalk",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Roopokar",
+  "domain": "roopokar.com",
+  "pages": [
+   "https://www.roopokar.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801715374237",
+    "e164": "+8801715374237",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801711659597",
+    "e164": "+8801711659597",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "sales@roopokar.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Techdyno BD",
+  "domain": "techdynobdltd.com",
+  "pages": [
+   "https://techdynobdltd.com/contact-us",
+   "https://techdynobdltd.com/"
+  ],
+  "phones": [
+   {
+    "raw": "01896-037216",
+    "e164": "+8801896037216",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01896-037212",
+    "e164": "+8801896037212",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Inprozone Software Ltd",
+  "domain": "inprozone.com",
+  "pages": [
+   "https://inprozone.com/contact-us",
+   "https://inprozone.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801912-666602",
+    "e164": "+8801912666602",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "IT WAY BD",
+  "domain": "itwaybd.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "StaticMania",
+  "domain": "staticmania.com",
+  "pages": [
+   "https://staticmania.com/contact",
+   "https://staticmania.com/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "hello@staticmania.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "FintechHub Limited",
+  "domain": "fintechhubltd.com",
+  "pages": [
+   "https://fintechhubltd.com/contact",
+   "https://fintechhubltd.com/contact-us",
+   "https://fintechhubltd.com/contacts",
+   "https://fintechhubltd.com/get-in-touch",
+   "https://fintechhubltd.com/reach-us",
+   "https://fintechhubltd.com/about-us",
+   "https://fintechhubltd.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Zsoft IT Solution Pvt.ltd",
+  "domain": "zsoft.com.bd",
+  "pages": [
+   "https://zsoft.com.bd/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801727002781",
+    "e164": "+8801727002781",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801727002782",
+    "e164": "+8801727002782",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Trust IT",
+  "domain": "trustitbdltd.com",
+  "pages": [
+   "https://trustitbdltd.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801774631733",
+    "e164": "+8801774631733",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801907-108706",
+    "e164": "+8801907108706",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "support@trustitbdltd.com",
+    "role_address": true
+   },
+   {
+    "email": "support@trustbdltd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Exoveon Limited",
+  "domain": "exoveon.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Rynexus Infotech Ltd.",
+  "domain": "rynexus.com",
+  "pages": [
+   "https://rynexus.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+8801904700900",
+    "e164": "+8801904700900",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01904700900",
+    "e164": "+8801904700900",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "(406) 555-0120",
+    "e164": "4065550120",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@rynexus.com",
+    "role_address": true
+   },
+   {
+    "email": "support@rynexus.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Ultimate IT Solution Ltd",
+  "domain": "ultimateit-bd.com",
+  "pages": [
+   "https://www.ultimateit-bd.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "01983-401410",
+    "e164": "+8801983401410",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+88-01983-401410",
+    "e164": "+8801983401410",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@ultimateit-bd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "ITSOFT-BD",
+  "domain": "itsoft-bd.com",
+  "pages": [
+   "https://itsoft-bd.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+8801770909381",
+    "e164": "+8801770909381",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801521219115",
+    "e164": "+8801521219115",
+    "kind": "mobile:Teletalk",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801704784034",
+    "e164": "+8801704784034",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "8801704784034",
+    "e164": "+8801704784034",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@itsoft-bd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "SM IT Solution",
+  "domain": "smitsolution.com.bd",
+  "pages": [
+   "https://smitsolution.com.bd/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "baseTOP",
+  "domain": "basetop.ca",
+  "pages": [
+   "https://basetop.ca/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+1-647-854-1023",
+    "e164": "+16478541023",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "mail@basetop.ca",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Pixll Dev",
+  "domain": "pixll.dev",
+  "pages": [
+   "https://pixll.dev/contact",
+   "https://pixll.dev/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Softvence Agency",
+  "domain": "softvence.agency",
+  "pages": [
+   "https://softvence.agency/about-us",
+   "https://softvence.agency/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "hello@softvence.agency",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Igenhr",
+  "domain": "igenhr.com",
+  "pages": [
+   "https://igenhr.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "DTech Creative",
+  "domain": "dtechcreative.com",
+  "pages": [
+   "https://dtechcreative.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801812572226",
+    "e164": "+8801812572226",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@dtechcreative.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Nano IT World",
+  "domain": "nanoitworld.com",
+  "pages": [
+   "http://www.nanoitworld.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "8801715147425",
+    "e164": "+8801715147425",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "8801911501888",
+    "e164": "+8801911501888",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8801715147425",
+    "e164": "+8801715147425",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+880171517425",
+    "e164": "+880171517425",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "nanoitltd@gmail.com",
+    "role_address": false
+   },
+   {
+    "email": "nanoitworld@gmail.com",
+    "role_address": false
+   },
+   {
+    "email": "info@nanoitworld.com",
+    "role_address": true
+   },
+   {
+    "email": "info@nanoit.com.bd",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Optimal It limited",
+  "domain": "optimalbd.com",
+  "pages": [
+   "http://optimalbd.com/about-us"
+  ],
+  "phones": [
+   {
+    "raw": "+8801614000402",
+    "e164": "+8801614000402",
+    "kind": "mobile:Airtel",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8802-9119217",
+    "e164": "+88029119217",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+4402921 320141",
+    "e164": "+4402921320141",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+447502605711",
+    "e164": "+447502605711",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "optimalbd@gmail.com",
+    "role_address": false
+   },
+   {
+    "email": "info@optimalbd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Rexo IT",
+  "domain": "rexoit.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "WellXperts",
+  "domain": "wellxperts.com",
+  "pages": [
+   "https://wellxperts.com/contact",
+   "https://wellxperts.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+8801979009229",
+    "e164": "+8801979009229",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@wellxperts.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Softweb System Solutions",
+  "domain": "softwebsys.com",
+  "pages": [
+   "https://softwebsys.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Kraftwerk Technologies Limited",
+  "domain": "kraftwerktech.com",
+  "pages": [
+   "https://kraftwerktech.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801793536084",
+    "e164": "+8801793536084",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "hello@kraftwerktech.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Suitable IT",
+  "domain": "suitableit.com",
+  "pages": [
+   "https://www.suitableit.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801328983615",
+    "e164": "+8801328983615",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8809649683615",
+    "e164": "+8809649683615",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "support@suitableit.com",
+    "role_address": true
+   },
+   {
+    "email": "info@suitableit.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "mPair Technologies Ltd.",
+  "domain": "mpairtech.com",
+  "pages": [
+   "https://mpairtech.com/contact",
+   "https://mpairtech.com/contact-us",
+   "https://mpairtech.com/contacts",
+   "https://mpairtech.com/get-in-touch",
+   "https://mpairtech.com/reach-us",
+   "https://mpairtech.com/about-us",
+   "https://mpairtech.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Growbrandly",
+  "domain": "growbrandly.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Codeksoft Solutions",
+  "domain": "codeksoftsolutions.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Chittagong Software",
+  "domain": "chittagongsoftware.com",
+  "pages": [
+   "https://chittagongsoftware.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+8801749243399",
+    "e164": "+8801749243399",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01749-243399",
+    "e164": "+8801749243399",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01819-842056",
+    "e164": "+8801819842056",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "%20info@chittagongsoftware.com",
+    "role_address": false
+   },
+   {
+    "email": "info@chittagongsoftware.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "TotalTech Global Limited",
+  "domain": "totaltechglobal.com",
+  "pages": [
+   "https://totaltechglobal.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+880 18 88680010",
+    "e164": "+8801888680010",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+46 762513270",
+    "e164": "+46762513270",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@totaltechglobal.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Essential Intelligence Services BD",
+  "domain": "eiservicesbd.com",
+  "pages": [
+   "https://eiservicesbd.com/contact",
+   "https://eiservicesbd.com/contact-us",
+   "https://eiservicesbd.com/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "%20accounts@eiservicesbd.com",
+    "role_address": false
+   },
+   {
+    "email": "accounts@eiservicesbd.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "STechNest",
+  "domain": "stechnest.com",
+  "pages": [
+   "https://stechnest.com/contact",
+   "https://stechnest.com/contact-us",
+   "https://stechnest.com/contacts",
+   "https://stechnest.com/get-in-touch",
+   "https://stechnest.com/reach-us",
+   "https://stechnest.com/about-us",
+   "https://stechnest.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Code Ecstasy",
+  "domain": "codecstasy.com",
+  "pages": [
+   "https://codecstasy.com/contact",
+   "https://codecstasy.com/contact-us",
+   "https://codecstasy.com/contacts",
+   "https://codecstasy.com/get-in-touch",
+   "https://codecstasy.com/reach-us",
+   "https://codecstasy.com/about-us",
+   "https://codecstasy.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Bug Finder",
+  "domain": "bugfinder.net",
+  "pages": [
+   "https://bugfinder.net/contact",
+   "https://bugfinder.net/contact-us",
+   "https://bugfinder.net/contacts",
+   "https://bugfinder.net/get-in-touch",
+   "https://bugfinder.net/reach-us",
+   "https://bugfinder.net/about-us",
+   "https://bugfinder.net/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Builder Hall Pvt. LTD",
+  "domain": "builderhall.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Mohnas",
+  "domain": "mohnas.com",
+  "pages": [
+   "https://mohnas.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801925118606",
+    "e164": "+8801925118606",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "01925118606",
+    "e164": "+8801925118606",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "123456790",
+    "e164": "123456790",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Xceed Bangladesh Ltd.",
+  "domain": "xceedbd.com",
+  "pages": [
+   "https://www.xceedbd.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1671-818178",
+    "e164": "+8801671818178",
+    "kind": "mobile:Airtel",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@xceedbd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Arham Techpro",
+  "domain": "arhamtechpro.com",
+  "pages": [],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "DigiByte Solutions",
+  "domain": "digibytebd.com",
+  "pages": [
+   "https://digibytebd.com/contact",
+   "https://digibytebd.com/about-us",
+   "https://digibytebd.com/"
+  ],
+  "phones": [
+   {
+    "raw": "01829099998",
+    "e164": "+8801829099998",
+    "kind": "mobile:Robi",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+8809638595738",
+    "e164": "+8809638595738",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@digibytebd.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Dtmotion",
+  "domain": "dtmotion.com",
+  "pages": [
+   "https://dtmotion.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+8801997788832",
+    "e164": "+8801997788832",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+447441442252",
+    "e164": "+447441442252",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+16506392137",
+    "e164": "+16506392137",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+441416400192",
+    "e164": "+441416400192",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "mehedi@dtmotion.com",
+    "role_address": false
+   },
+   {
+    "email": "info@dtmotion.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Wooprex",
+  "domain": "wooprex.com",
+  "pages": [
+   "https://www.wooprex.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1770 121402",
+    "e164": "+8801770121402",
+    "kind": "mobile:Grameenphone",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "help@wooprex.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "DPRS LAB",
+  "domain": "dprslab.com",
+  "pages": [
+   "https://dprslab.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+880 1924-943568",
+    "e164": "+8801924943568",
+    "kind": "mobile:Banglalink",
+    "is_bd_mobile": true
+   }
+  ],
+  "emails": [
+   {
+    "email": "info@dprslab.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "MatteIT",
+  "domain": "matteit.com",
+  "pages": [
+   "https://matteit.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Cloud Gen",
+  "domain": "cloudgen.bd",
+  "pages": [
+   "https://cloudgen.bd/"
+  ],
+  "phones": [
+   {
+    "raw": "+8801623011827",
+    "e164": "+8801623011827",
+    "kind": "mobile:Airtel",
+    "is_bd_mobile": true
+   },
+   {
+    "raw": "+14072082598",
+    "e164": "+14072082598",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ }
+]

@@ -1,0 +1,2597 @@
+[
+ {
+  "name": "SPD Technology",
+  "domain": "spd.tech",
+  "pages_read": [
+   "https://spd.tech/wp-content/plugins/wp-job-manager/assets/dist/css/job-listings.css",
+   "https://spd.tech/careers",
+   "https://spd.tech/careers/",
+   "https://spd.tech/wp-json/oembed/1.0/embed?url=https%3a%2f%2fspd.tech%2fcareers%2f",
+   "https://spd.tech/wp-content/themes/spd/assets/blocks/block-job-offers/block-job-offers.css"
+  ],
+  "job_boards": [
+   "https://www.glassdoor.com/Overview/Working-at-SPD-Technology-EI_IE2399212.11,25.htm"
+  ],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 54887
+ },
+ {
+  "name": "Linnify",
+  "domain": "linnify.com",
+  "pages_read": [
+   "https://www.linnify.com/company/careers",
+   "https://www.linnify.com/de/company/careers",
+   "https://www.linnify.com/company/careers"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 25955
+ },
+ {
+  "name": "ASSIST Software",
+  "domain": "assist-software.net",
+  "pages_read": [
+   "https://assist-software.net/jobs",
+   "https://assist-software.net/de/jobs",
+   "https://assist-software.net/jobs/golang-developer",
+   "https://assist-software.net/jobs/qa-automation-engineer",
+   "https://assist-software.net/jobs/1503/data-engineer",
+   "https://assist-software.net/jobs/184/java-developer",
+   "https://assist-software.net/jobs/devops-engineer"
+  ],
+  "job_boards": [],
+  "signals": {
+   "private_repo_host": 2,
+   "cicd": 8,
+   "vcs_generic": 2,
+   "testing": 2
+  },
+  "quotes": {
+   "private_repo_host": [
+    "Mehr lesen about C/C++ Embedded Engineer Azure DevOps Engineer 2+ Jahre Erfahrung Remote oder Büro Wenn Sie Abwechslung mögen, haben Sie Glück!",
+    "Mehr lesen about Azure DevOps Engineer Tech Artist - Spine Animator 2+ Jahre Erfahrung Remote oder Büro Als 2D-Animationskünstler mit Spezialisierung auf Spine liegt Ihr Hauptaugenmerk auf der Erstellung faszinierender An..."
+   ],
+   "cicd": [
+    "It focuses on collaboration, communication, and continuous delivery for optimal custom software development services.",
+    "Contribute to CI/CD processes and containerized deployments.",
+    "It focuses on collaboration, communication, and continuous delivery for optimal custom software development services."
+   ],
+   "vcs_generic": [
+    "Experience using Git in collaborative workflows.",
+    "Know Kotlin (functional programming) Experience with RPC JAVA SE certification Experience with Linux, SQL Worked with git, subversion Maven / Gradle build system and unit testing Tomcat, Jetty Apply now Refer to a friend Share on:"
+   ],
+   "testing": [
+    "Experience writing unit and integration tests.",
+    "Know Kotlin (functional programming) Experience with RPC JAVA SE certification Experience with Linux, SQL Worked with git, subversion Maven / Gradle build system and unit testing Tomcat, Jetty Apply now Refer to a friend Share on:"
+   ]
+  },
+  "jd_chars": 131791
+ },
+ {
+  "name": "mindit.io",
+  "domain": "mindit.io",
+  "pages_read": [
+   "https://mindit.io/careers/",
+   "https://mindit.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmindit.io%2Fcareers%2F",
+   "https://mindit.io/careers/business-intelligence-engineer/",
+   "https://mindit.io/careers/data-modeler-consultant/",
+   "https://mindit.io/careers/senior-data-scientist/",
+   "https://mindit.io/careers/",
+   "https://mindit.io/careers/it-contract-management-specialist/",
+   "https://mindit.io/careers/data-analyst/",
+   "https://mindit.io/careers/data-engineer-databricks/",
+   "https://mindit.io/careers/"
+  ],
+  "job_boards": [],
+  "signals": {
+   "cicd": 1,
+   "testing": 1
+  },
+  "quotes": {
+   "cicd": [
+    "Familiarity with MLOps practices (MLflow, CI/CD for ML) Distribute:"
+   ],
+   "testing": [
+    "Applying the patches on the testing environments, prepare the test environment for FAT & UAT testing and perform unit testing What we are looking for:"
+   ]
+  },
+  "jd_chars": 113525
+ },
+ {
+  "name": "rinf.tech",
+  "domain": "rinf.tech",
+  "pages_read": [
+   "https://www.rinf.tech/careers/",
+   "https://www.rinf.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rinf.tech%2Fcareers%2F",
+   "https://www.rinf.tech/careers/",
+   "https://www.rinf.tech/careers/"
+  ],
+  "job_boards": [
+   "https://www.glassdoor.com/Overview/Working-at-RINF-TECH-EI_IE652543.11,20.htm",
+   "https://www.undelucram.ro/prezentare-rinf-totul-despre-mediul-de-lucru-611"
+  ],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 25100
+ },
+ {
+  "name": "Zitec",
+  "domain": "zitec.com",
+  "pages_read": [
+   "https://zitec.com/about/",
+   "https://zitec.com/about/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 24893
+ },
+ {
+  "name": "AROBS",
+  "domain": "arobs.com",
+  "pages_read": [
+   "https://arobs.com/en/careers-at-arobs/",
+   "https://arobs.com/careers-at-arobs/",
+   "https://arobs.com/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farobs.com%2Fen%2Fcareers-at-arobs%2F",
+   "https://arobs.com/en/careers-at-arobs/arobs-junior-academy-internship/",
+   "https://arobs.com/careers-at-arobs/arobs-junior-academy-internship/",
+   "https://arobs.com/careers-at-arobs/",
+   "https://arobs.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farobs.com%2Fen%2Fcareers-at-arobs%2F",
+   "https://arobs.com/en/25-reasons-to-join-arobs/",
+   "https://arobs.com/25-reasons-to-join-arobs/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 86471
+ },
+ {
+  "name": "Tremend Software Consulting",
+  "domain": "tremend.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "SOFTECH",
+  "domain": "softech.ro",
+  "pages_read": [
+   "https://softech.ro/careers/",
+   "https://softech.ro/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsoftech.ro%2Fcareers%2F",
+   "https://softech.ro/careers/page/2/",
+   "https://softech.ro/careers/why-softech/",
+   "https://softech.ro/careers/core-values/",
+   "https://softech.ro/careers/career-development/",
+   "https://softech.ro/careers/",
+   "https://softech.ro/careers/opportunities/",
+   "https://softech.ro/careers/career-development/",
+   "https://softech.ro/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsoftech.ro%2Fcareers%2Fcareer-development%2F"
+  ],
+  "job_boards": [],
+  "signals": {
+   "cicd": 2
+  },
+  "quotes": {
+   "cicd": [
+    "DevOps Engineer A DevOps engineer is responsible for the development and deployment of software applications, using tools like automation and continuous integration to streamline the development process.",
+    "DevOps Engineer A DevOps engineer is responsible for the development and deployment of software applications, using tools like automation and continuous integration to streamline the development process."
+   ]
+  },
+  "jd_chars": 52048
+ },
+ {
+  "name": "RebelDot",
+  "domain": "rebeldot.com",
+  "pages_read": [
+   "https://www.rebeldot.com/careers",
+   "https://www.rebeldot.com/da/careers",
+   "https://www.rebeldot.com/de/careers"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 23765
+ },
+ {
+  "name": "Digitalya",
+  "domain": "digitalya.co",
+  "pages_read": [
+   "https://digitalya.co/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 6344
+ },
+ {
+  "name": "Nerds Computing",
+  "domain": "nerds.sh",
+  "pages_read": [
+   "https://nerds.sh/careers",
+   "https://nerds.sh/ro/cariere",
+   "https://nerds.sh/careers/full-stack-senior-software-engineer",
+   "https://nerds.sh/careers/software-engineer-intern",
+   "https://nerds.sh/careers/marketing-content-intern",
+   "https://nerds.sh/careers/sales-partner"
+  ],
+  "job_boards": [],
+  "signals": {
+   "testing": 1
+  },
+  "quotes": {
+   "testing": [
+    "React, Hooks, Jest, Redux Native in ASP .NET core, XUnit or NUnit, Entity Framework REST, GraphQL Strong experience with unit & integration & e2e testing Relational Databases:"
+   ]
+  },
+  "jd_chars": 15379
+ },
+ {
+  "name": "UPDIVISION",
+  "domain": "updivision.com",
+  "pages_read": [
+   "https://updivision.com/careers",
+   "https://updivision.com/blog/post/meet-the-team-join-in-on-the-fun"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 12177
+ },
+ {
+  "name": "Berg Software",
+  "domain": "berg-software.com",
+  "pages_read": [
+   "https://www.berg-software.com/wp-content/cache/min/1/wp-content/plugins/wp-job-openings/assets/css/general.min.css?ver=1772822245",
+   "https://www.berg-software.com/en/jobs/",
+   "https://www.berg-software.com/en/jobs/",
+   "https://www.berg-software.com/wp-content/plugins/wp-job-openings/assets/css/style.min.css?ver=3.4.6",
+   "https://www.berg-software.com/en/join-us/",
+   "https://www.berg-software.com/en/join-us/",
+   "https://www.berg-software.com/de/jobs-karriere/",
+   "https://www.berg-software.com/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.berg-software.com%2Fen%2Fjoin-us%2F"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 82158
+ },
+ {
+  "name": "Ketek",
+  "domain": "ketek.ro",
+  "pages_read": [
+   "https://www.ketek.ro/careers/",
+   "https://www.ketek.ro/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ketek.ro%2Fcareers%2F",
+   "https://www.ketek.ro/jobs/dotnet-c-sharp-cloud-developer-remote-work/",
+   "https://www.ketek.ro/jobs/front-end-angular-developer-remote-work/",
+   "https://www.ketek.ro/careers/",
+   "https://www.ketek.ro/careers/",
+   "https://www.ketek.ro/jobs/",
+   "https://www.ketek.ro/jobs/",
+   "https://www.ketek.ro/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ketek.ro%2Fjobs%2F"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 20951
+ },
+ {
+  "name": "Bento",
+  "domain": "bento.ro",
+  "pages_read": [
+   "https://www.bento.ro/en/careers/",
+   "https://www.bento.ro/cariere/",
+   "https://www.bento.ro/en/careers/",
+   "https://www.bento.ro/en/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 19904
+ },
+ {
+  "name": "InnovatorSpark SRL",
+  "domain": "innovatorspark.com",
+  "pages_read": [
+   "https://innovatorspark.com/careers/",
+   "https://innovatorspark.com/careers/python-developer/",
+   "https://innovatorspark.com/careers/dotnet-developer/",
+   "https://innovatorspark.com/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 11863
+ },
+ {
+  "name": "Webamboos",
+  "domain": "webamboos.com",
+  "pages_read": [
+   "https://webamboos.com/careers"
+  ],
+  "job_boards": [],
+  "signals": {
+   "cicd": 10
+  },
+  "quotes": {
+   "cicd": [
+    "Webamboos Company Services Technologies Our work Contact us Careers at Webamboos Webamboos is a Digital Product Studio that is self-funded, full of motivated developers and engineers.",
+    "See open positions Webamboos is the perfect place for people eager to develop their crafts.",
+    "Vladut ― Quality Engineer Webamboos is an environment of continuous learning and developing, where valuing the team represents the key to productivity."
+   ]
+  },
+  "jd_chars": 2898
+ },
+ {
+  "name": "MCRO",
+  "domain": "mcro.tech",
+  "pages_read": [
+   "https://mcro.tech/careers/",
+   "https://mcro.tech/page-data/careers/page-data.json",
+   "https://mcro.tech/careers/marketing-manager/",
+   "https://mcro.tech/careers/business-developer/",
+   "https://mcro.tech/careers/devops-engineer/",
+   "https://mcro.tech/careers/react-native/",
+   "https://mcro.tech/careers",
+   "https://mcro.tech/careers/full-stack/",
+   "https://mcro.tech/career",
+   "https://mcro.tech/jobs",
+   "https://mcro.tech/join-us"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 34727
+ },
+ {
+  "name": "Tech Stack Apps",
+  "domain": "techstackapps.com",
+  "pages_read": [
+   "https://techstackapps.com/careers/",
+   "https://techstackapps.com/careers/",
+   "https://techstackapps.com/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 9680
+ },
+ {
+  "name": "QTeam Software Solutions",
+  "domain": "qteam.solutions",
+  "pages_read": [
+   "https://qteam.solutions/jobs"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 1604
+ },
+ {
+  "name": "Roweb Development",
+  "domain": "roweb.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Wolfpack Digital",
+  "domain": "wolfpack-digital.com",
+  "pages_read": [
+   "https://www.wolfpack-digital.com/jobs",
+   "https://www.wolfpack-digital.com/jobs/_payload.json?d46536fb-e02c-45c7-9c77-1e4752556957",
+   "https://www.wolfpack-digital.com/jobs/qa-engineer",
+   "https://www.wolfpack-digital.com/jobs/people-culture-specialist",
+   "https://www.wolfpack-digital.com/jobs/product-manager",
+   "https://www.wolfpack-digital.com/jobs/software-engineer",
+   "https://www.wolfpack-digital.com/apply-job",
+   "https://www.wolfpack-digital.com/jobs"
+  ],
+  "job_boards": [],
+  "signals": {
+   "review_gate": 1,
+   "cicd": 1,
+   "vcs_generic": 1,
+   "testing": 2
+  },
+  "quotes": {
+   "review_gate": [
+    "Take an active part in code review and give clear estimates for complex functionality."
+   ],
+   "cicd": [
+    "Advanced grasp of OOP and clean, scalable architecture, with strong full-stack capability — a modern JavaScript front-end (responsive, accessible UI, state and data management) and back-end (REST APIs, databases, integrations, CI/CD, Git)."
+   ],
+   "vcs_generic": [
+    "Advanced grasp of OOP and clean, scalable architecture, with strong full-stack capability — a modern JavaScript front-end (responsive, accessible UI, state and data management) and back-end (REST APIs, databases, integrations, CI/CD, Git)."
+   ],
+   "testing": [
+    "Write and maintain unit and integration tests, using AI for edge cases and coverage.",
+    "Advanced debugging and solid unit/integration testing, with a good sense for when to refactor."
+   ]
+  },
+  "jd_chars": 45672
+ },
+ {
+  "name": "Deventure",
+  "domain": "deventure.co",
+  "pages_read": [
+   "https://www.deventure.co/jobs",
+   "https://www.deventure.co/jobs/web-developer",
+   "https://www.deventure.co/jobs/mobile-developer",
+   "https://www.deventure.co/jobs/ui-ux-designer"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 19013
+ },
+ {
+  "name": "ABIT Technologies",
+  "domain": "abittechnologies.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "inteliScience",
+  "domain": "inteliscience.net",
+  "pages_read": [
+   "https://inteliscience.net/careers/",
+   "https://inteliscience.net/ro/careers/",
+   "https://inteliscience.net/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 12620
+ },
+ {
+  "name": "Moldoweb",
+  "domain": "moldoweb.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "appssemble",
+  "domain": "appssemble.com",
+  "pages_read": [
+   "https://appssemble.com/jobs"
+  ],
+  "job_boards": [],
+  "signals": {
+   "vcs_generic": 1
+  },
+  "quotes": {
+   "vcs_generic": [
+    "21 Decembrie 1989, 95-97 Social LinkedIn GitHub © 2026 appssemble."
+   ]
+  },
+  "jd_chars": 2419
+ },
+ {
+  "name": "Arnia Software",
+  "domain": "arnia.com",
+  "pages_read": [
+   "https://www.arnia.com/jobs/",
+   "https://www.arnia.com/jobs/?orderby=title",
+   "https://www.arnia.com/jobs/?orderby=date",
+   "https://www.arnia.com/jobs/senior-backend-engineer-microsoft-365-graph-api-exchange-online/",
+   "https://www.arnia.com/jobs/",
+   "https://www.arnia.com/jobs/apply/senior-backend-engineer-microsoft-365-graph-api-exchange-online/",
+   "https://www.arnia.com/jobs/senior-full-stack-engineer-python-react-temporal/",
+   "https://www.arnia.com/jobs/apply/senior-full-stack-engineer-python-react-temporal/",
+   "https://www.arnia.com/jobs/senior-backend-engineer-python-fastapi-azure-openai/"
+  ],
+  "job_boards": [],
+  "signals": {
+   "cicd": 2,
+   "vcs_generic": 2
+  },
+  "quotes": {
+   "cicd": [
+    "Experience with Git and CI/CD.",
+    "Experience with Git and CI/CD."
+   ],
+   "vcs_generic": [
+    "Experience with Git and CI/CD.",
+    "Experience with Git and CI/CD."
+   ]
+  },
+  "jd_chars": 117679
+ },
+ {
+  "name": "Andrea Software",
+  "domain": "andreasoft.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "NEXT ID SOFTWARE SRL",
+  "domain": "nextid.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "PRISMA Software",
+  "domain": "prisma-software.ch",
+  "pages_read": [
+   "https://www.prisma-software.ch/careers",
+   "https://www.prisma-software.ch/career",
+   "https://www.prisma-software.ch/jobs",
+   "https://www.prisma-software.ch/join-us",
+   "https://www.prisma-software.ch/we-are-hiring"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 964
+ },
+ {
+  "name": "BruteCX",
+  "domain": "brutecx.com",
+  "pages_read": [
+   "https://brutecx.com/case-studies/job-matcher"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 4810
+ },
+ {
+  "name": "UP2DATE",
+  "domain": "up2date.ro",
+  "pages_read": [
+   "https://up2date.ro/about/who-we-are",
+   "https://up2date.ro/about/who-we-are"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 8141
+ },
+ {
+  "name": "Thinslices",
+  "domain": "thinslices.com",
+  "pages_read": [
+   "https://www.thinslices.com/join-us",
+   "https://www.thinslices.com/join-us/page/2",
+   "https://www.thinslices.com/join-us/rss.xml",
+   "https://www.thinslices.com/join-us/react-native-mobile-developer",
+   "https://www.thinslices.com/join-us/territory-sales-manager-ny",
+   "https://www.thinslices.com/join-us/area-sales-manager",
+   "https://www.thinslices.com/join-us"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 67408
+ },
+ {
+  "name": "Floating Dots",
+  "domain": "floatingdots.co",
+  "pages_read": [
+   "https://floatingdots.co/careers/",
+   "https://floatingdots.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffloatingdots.co%2Fcareers%2F",
+   "https://floatingdots.co/careers/",
+   "https://floatingdots.co/",
+   "https://floatingdots.co/",
+   "https://floatingdots.co/"
+  ],
+  "job_boards": [],
+  "signals": {
+   "vcs_generic": 2
+  },
+  "quotes": {
+   "vcs_generic": [
+    " your GitHub / portfolio (if available)  the projects you’re most proud of  a few words about what motivates you  your updated CV Email:",
+    " your GitHub / portfolio (if available)  the projects you’re most proud of  a few words about what motivates you  your updated CV Email:"
+   ]
+  },
+  "jd_chars": 38763
+ },
+ {
+  "name": "POWERTRACE SRL",
+  "domain": "powertrace.ro",
+  "pages_read": [
+   "https://www.powertrace.ro/careers"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 256
+ },
+ {
+  "name": "Technical Inside",
+  "domain": "technicalinside.com",
+  "pages_read": [
+   "https://technicalinside.com/careers",
+   "https://technicalinside.com/careers/ai-engineer",
+   "https://technicalinside.com/careers/machine-learning-engineer",
+   "https://technicalinside.com/careers/full-stack-software-engineer",
+   "https://technicalinside.com/careers/mobile-cross-platform-developer",
+   "https://technicalinside.com/careers/desktop-application-engineer",
+   "https://technicalinside.com/careers/backend-platform-engineer"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 12670
+ },
+ {
+  "name": "Momentum Software",
+  "domain": "momentum-software.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "DevsReady",
+  "domain": "devsready.io",
+  "pages_read": [
+   "https://devsready.io/careers",
+   "https://devsready.io/career",
+   "https://devsready.io/jobs",
+   "https://devsready.io/join-us",
+   "https://devsready.io/we-are-hiring"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 364
+ },
+ {
+  "name": "MeshSoftware",
+  "domain": "meshsoftware.eu",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Ontegra",
+  "domain": "ontegra.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Scriptstackers",
+  "domain": "scriptstackers.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Nevexo",
+  "domain": "nevexo.tech",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "SC AEGIS CORE TECH SRL",
+  "domain": "aegiscoretech.com",
+  "pages_read": [
+   "https://aegiscoretech.com/careers",
+   "https://aegiscoretech.com/careers/system-tester-embedded-intern",
+   "https://aegiscoretech.com/careers/software-requirements-engineer",
+   "https://aegiscoretech.com/careers/system-tester-embedded",
+   "https://aegiscoretech.com/careers/software-tester",
+   "https://aegiscoretech.com/careers/full-stack-software-developer"
+  ],
+  "job_boards": [],
+  "signals": {
+   "cicd": 1,
+   "vcs_generic": 2,
+   "testing": 2
+  },
+  "quotes": {
+   "cicd": [
+    "Familiarity with Docker and containerization, CI/CD pipelines"
+   ],
+   "vcs_generic": [
+    "Experience with version control systems (e.g., Git)",
+    "Experience with version control systems (e.g., Git)"
+   ],
+   "testing": [
+    "Experience with test automation tools (e.g., Vector CANoe, ECU-TEST)",
+    "Experience with test automation tools (e.g., VectorCAST, Vector CANoe, ECU-TEST)"
+   ]
+  },
+  "jd_chars": 24166
+ },
+ {
+  "name": "Benoli Tech",
+  "domain": "benolitech.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Infobest Romania",
+  "domain": "infobest.ro",
+  "pages_read": [
+   "https://www.infobest.ro/careers/",
+   "https://www.infobest.ro/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.infobest.ro%2Fcareers%2F",
+   "https://www.infobest.ro/careers/",
+   "https://www.infobest.ro/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 10362
+ },
+ {
+  "name": "Luminos Software",
+  "domain": "luminos.software",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Appsmart",
+  "domain": "appsmart.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "VB Digital Architects",
+  "domain": "vbdigitalarchitects.com",
+  "pages_read": [
+   "https://vbdigitalarchitects.com/careers",
+   "https://vbdigitalarchitects.com/career",
+   "https://vbdigitalarchitects.com/jobs",
+   "https://vbdigitalarchitects.com/join-us",
+   "https://vbdigitalarchitects.com/we-are-hiring"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 364
+ },
+ {
+  "name": "Freshbyte",
+  "domain": "freshbyteinc.com",
+  "pages_read": [
+   "https://freshbyteinc.com/careers",
+   "https://freshbyteinc.com/career",
+   "https://freshbyteinc.com/jobs",
+   "https://freshbyteinc.com/join-us"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 11867
+ },
+ {
+  "name": "QuartzDevs",
+  "domain": "quartzdevs.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Tecknoworks",
+  "domain": "tecknoworks.com",
+  "pages_read": [
+   "https://tecknoworks.com/careers/",
+   "https://tecknoworks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftecknoworks.com%2Fcareers%2F",
+   "https://tecknoworks.com/careers/",
+   "https://tecknoworks.com/careers/",
+   "https://tecknoworks.com/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 12921
+ },
+ {
+  "name": "Webchain SRL",
+  "domain": "webchain.ro",
+  "pages_read": [
+   "https://webchain.ro/jobs/",
+   "https://webchain.ro/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwebchain.ro%2Fjobs%2F",
+   "https://webchain.ro/jobs/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 6107
+ },
+ {
+  "name": "FEEL IT SERVICES",
+  "domain": "feel-it-services.com",
+  "pages_read": [
+   "https://feel-it-services.com/careers/",
+   "https://feel-it-services.com/fr/nous-rejoindre/",
+   "https://feel-it-services.com/de/careers/",
+   "https://feel-it-services.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffeel-it-services.com%2Fcareers%2F",
+   "https://feel-it-services.com/career/devops-engineer/",
+   "https://feel-it-services.com/career/it-support-technician-with-french-and-english/",
+   "https://feel-it-services.com/careers/",
+   "https://feel-it-services.com/career/senior-automation-test-engineer/",
+   "https://feel-it-services.com/career/senior-infrastructure-network-administrator/",
+   "https://feel-it-services.com/career/senior-unity-developer/",
+   "https://feel-it-services.com/career/",
+   "https://feel-it-services.com/career/",
+   "https://feel-it-services.com/career/feed/"
+  ],
+  "job_boards": [],
+  "signals": {
+   "review_gate": 2,
+   "cicd": 5,
+   "vcs_generic": 4,
+   "testing": 4
+  },
+  "quotes": {
+   "review_gate": [
+    "Perform code reviews and provide mentorship to junior QA engineers.",
+    "Perform code reviews and provide mentorship to junior QA engineers."
+   ],
+   "cicd": [
+    "We are looking for a DevOps Engineer to support and improve the platform’s cloud infrastructure, deployment processes, monitoring, and CI/CD environment.",
+    "Strong experience with Microsoft Azure Hands-on experience with Terraform Experience with Argo CD and GitOps practices Experience with GitHub Actions Knowledge of Docker and Kubernetes Experience with Grafana and Sentry Experience with webhook integrations Good troubleshooting and communication skills Advantages:",
+    "Role Overview:We are looking for a DevOps Engineer to support and improve the platform’s cloud infrastructure, deployment processes, monitoring, and CI/CD environment."
+   ],
+   "vcs_generic": [
+    "Strong experience with Microsoft Azure Hands-on experience with Terraform Experience with Argo CD and GitOps practices Experience with GitHub Actions Knowledge of Docker and Kubernetes Experience with Grafana and Sentry Experience with webhook integrations Good troubleshooting and communication skills Advantages:",
+    "Knowledge of Git and Agile methodologies.",
+    "Strong experience with Microsoft Azure Hands-on experience with Terraform Experience with Argo CD and GitOps practices Experience with GitHub Actions Knowledge of Docker and Kubernetes Experience with Grafana and Sentry Experience with webhook integrations Good troubleshooting and communication skills Advantages:"
+   ],
+   "testing": [
+    "Design, develop, and maintain robust, scalable, and reusable automated tests using tools such as Selenium, Playwright, or similar.",
+    "Substantial hands-on experience with test automation tools (e.g., Selenium, TestNG, JUnit, Cypress, Playwright) as well as API testing frameworks.",
+    "Design, develop, and maintain robust, scalable, and reusable automated tests using tools such as Selenium, Playwright, or similar."
+   ]
+  },
+  "jd_chars": 70506
+ },
+ {
+  "name": "BlueLight",
+  "domain": "bluelightsoftware.co",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Zeren Software",
+  "domain": "zerensoftware.com",
+  "pages_read": [
+   "https://zerensoftware.com/join-us/",
+   "https://zerensoftware.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fzerensoftware.com%2Fjoin-us%2F",
+   "https://zerensoftware.com/join-us/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 8528
+ },
+ {
+  "name": "ZANEFFI SRL",
+  "domain": "zaneffi.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Codemart",
+  "domain": "codemart.ro",
+  "pages_read": [
+   "https://codemart.ro/codemart/zwei/chronicle/single/6114-summer-2026-join-us-for-7-weeks-of-paid-internship-",
+   "https://codemart.ro/codemart/zwei/chronicle?filter-tag=Jobs",
+   "https://codemart.ro/codemart/zwei/chronicle/single/5738-summer-2025-join-us-for-7-weeks-of-paid-internship-",
+   "https://codemart.ro/codemart/zwei/chronicle/single/5506-summer-2024-join-us-for-7-weeks-of-paid-internship-"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 9326
+ },
+ {
+  "name": "Anfa Engineering",
+  "domain": "anfaengineering.com",
+  "pages_read": [
+   "https://anfaengineering.com/careers/",
+   "https://anfaengineering.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fanfaengineering.com%2Fcareers%2F",
+   "https://anfaengineering.com/careers/",
+   "https://anfaengineering.com/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 5826
+ },
+ {
+  "name": "Zynk Software",
+  "domain": "zynksoftware.com",
+  "pages_read": [
+   "https://www.zynksoftware.com/careers",
+   "https://www.zynksoftware.com/career",
+   "https://www.zynksoftware.com/jobs",
+   "https://www.zynksoftware.com/join-us",
+   "https://www.zynksoftware.com/we-are-hiring"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 9
+ },
+ {
+  "name": "CustomSoft",
+  "domain": "customsoft.io",
+  "pages_read": [
+   "https://www.customsoft.io/category/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 1149
+ },
+ {
+  "name": "20Robots Technologies",
+  "domain": "20robots.tech",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Krypton Labs",
+  "domain": "kryptonlabs.io",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Kheprix",
+  "domain": "kheprix.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Ascendro",
+  "domain": "ascendro.de",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "AlgoTech Solutions",
+  "domain": "algotech.solutions",
+  "pages_read": [
+   "https://www.algotech.solutions/careers/",
+   "https://www.algotech.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.algotech.solutions%2Fcareers%2F",
+   "https://www.algotech.solutions/careers/",
+   "https://www.algotech.solutions/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 7937
+ },
+ {
+  "name": "Nearshore Romania",
+  "domain": "nearshore-romania.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Computaris",
+  "domain": "computaris.com",
+  "pages_read": [
+   "https://eu.rsystems.com/about-us/careers/",
+   "https://eu.rsystems.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feu.rsystems.com%2Fabout-us%2Fcareers%2F",
+   "https://eu.rsystems.com/about-us-careers-r-systems-programming-academy/",
+   "https://eu.rsystems.com/careers/",
+   "https://eu.rsystems.com/about-us/careers/"
+  ],
+  "job_boards": [
+   "https://www.undelucram.ro/prezentare-r-systems-totul-despre-mediul-de-lucru-interviu-179",
+   "https://www.glassdoor.com/Overview/Working-at-R-Systems-EI_IE32444.11,20.htm"
+  ],
+  "signals": {
+   "cicd": 1
+  },
+  "quotes": {
+   "cicd": [
+    "Bogdan Ghita I learnt so much - Docker, Kubernetes, JMeter, Jenkins, TTS – as part of interactive courses."
+   ]
+  },
+  "jd_chars": 38562
+ },
+ {
+  "name": "ArtSoft Consult",
+  "domain": "artsoft-consult.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Xentient Labs",
+  "domain": "xentient.io",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Qwertee Technology",
+  "domain": "qwertee.io",
+  "pages_read": [
+   "https://www.qwertee.io/",
+   "https://www.qwertee.io/",
+   "https://www.qwertee.io/",
+   "https://www.qwertee.io/",
+   "https://www.qwertee.io/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 29979
+ },
+ {
+  "name": "Redbee Software",
+  "domain": "redbeesoftware.com",
+  "pages_read": [
+   "https://redbeesoftware.com/career",
+   "https://redbeesoftware.com/career/odoo-functional-consultant"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 4256
+ },
+ {
+  "name": "OceanoBe Technology",
+  "domain": "oceanobe.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "DX Software",
+  "domain": "dxsoftware.net",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Hibyte Intelli SRL",
+  "domain": "hibyte.ro",
+  "pages_read": [
+   "https://hibyte.ro/careers",
+   "https://hibyte.ro/career",
+   "https://hibyte.ro/jobs",
+   "https://hibyte.ro/join-us"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 24187
+ },
+ {
+  "name": "AFI OPS TECHNOLOGIES",
+  "domain": "afiops.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "XCODES DEVELOPMENT",
+  "domain": "xcodesdevelopment.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "FXBITS",
+  "domain": "fxbits.io",
+  "pages_read": [
+   "https://fxbits.io/careers"
+  ],
+  "job_boards": [],
+  "signals": {
+   "cicd": 2,
+   "vcs_generic": 1
+  },
+  "quotes": {
+   "cicd": [
+    "GitHub, GitLab CI/CD:",
+    "Jenkins, Rancher, Docker, Kubernetes Others:"
+   ],
+   "vcs_generic": [
+    "GitHub, GitLab CI/CD:"
+   ]
+  },
+  "jd_chars": 8027
+ },
+ {
+  "name": "Sensidev",
+  "domain": "sensidev.com",
+  "pages_read": [
+   "https://sensidev.com/careers/",
+   "https://sensidev.com/careers/full-stack-web-developer-with-php/",
+   "https://sensidev.com/careers/node-js/",
+   "https://sensidev.com/careers/product-owner/",
+   "https://sensidev.com/careers/python-django/",
+   "https://sensidev.com/careers/react-js/",
+   "https://sensidev.com/careers/react-native/"
+  ],
+  "job_boards": [],
+  "signals": {
+   "vcs_generic": 1,
+   "testing": 1
+  },
+  "quotes": {
+   "vcs_generic": [
+    "Proficient in using version control systems like Git."
+   ],
+   "testing": [
+    "Good knowledge of quality standards and professional methodologies in software development, such as Clean Code, TDD, SOLID Principles, etc."
+   ]
+  },
+  "jd_chars": 26188
+ },
+ {
+  "name": "Soluzyapp SRL",
+  "domain": "soluzy.app",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "XCODES",
+  "domain": "xcodes.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Algo mediaSOFT SRl",
+  "domain": "algomediasoft.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Mevoro",
+  "domain": "mevoro.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Moonlysoft",
+  "domain": "moonlysoft.com",
+  "pages_read": [
+   "https://moonlysoft.com/careers"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 3577
+ },
+ {
+  "name": "Code Spring",
+  "domain": "codespring.ro",
+  "pages_read": [
+   "https://www.codespring.ro/jobs/ux-ui-designer",
+   "https://www.codespring.ro/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.codespring.ro%2Fjobs%2Fux-ui-designer",
+   "https://www.codespring.ro/career/working-at-codespring",
+   "https://www.codespring.ro/category/career",
+   "https://www.codespring.ro/category/jobs",
+   "https://www.codespring.ro/jobs/english-teacher",
+   "https://www.codespring.ro/career",
+   "https://www.codespring.ro/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.codespring.ro%2Fcareer",
+   "https://www.codespring.ro/career/building-our-outsourcing-delivery-teams",
+   "https://www.codespring.ro/news/future-it-career-opportunities-with-codespring-in-satu-mare",
+   "https://www.codespring.ro/jobs",
+   "https://www.codespring.ro/category/jobs/page/2",
+   "https://www.codespring.ro/jobs/accounting-specialist-cluj",
+   "https://www.codespring.ro/jobs/office-manager-targu-mures-on-site"
+  ],
+  "job_boards": [],
+  "signals": {
+   "review_gate": 1,
+   "cicd": 1
+  },
+  "quotes": {
+   "review_gate": [
+    "Engineers who come up through the mentoring program aren’t unfamiliar hires learning our standards on a client’s clock — they’ve already absorbed our development practices, code review culture, and collaborative habits during their internship years."
+   ],
+   "cicd": [
+    "– Enterprise chatbot integration — a Microsoft Teams bot connected to internal APIs, documentation, ticketing systems, and CI/CD pipelines, handling natural-language requests against company infrastructure."
+   ]
+  },
+  "jd_chars": 85547
+ },
+ {
+  "name": "ConturSoft",
+  "domain": "contursoft.com",
+  "pages_read": [
+   "https://contursoft.com/careers/",
+   "https://contursoft.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcontursoft.com%2Fcareers%2F",
+   "https://contursoft.com/careers/",
+   "https://contursoft.com/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 8267
+ },
+ {
+  "name": "We As Web",
+  "domain": "weasweb.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "CANARY TECHNOLOGY INNOVATIONS S.R.L.",
+  "domain": "canarytech.ro",
+  "pages_read": [
+   "https://canarytech.ro/careers",
+   "https://canarytech.ro/career",
+   "https://canarytech.ro/jobs",
+   "https://canarytech.ro/join-us",
+   "https://canarytech.ro/we-are-hiring"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 194
+ },
+ {
+  "name": "TechQuarter",
+  "domain": "techquarter.io",
+  "pages_read": [
+   "https://techquarter.io/careers/",
+   "https://techquarter.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftechquarter.io%2Fcareers%2F",
+   "https://techquarter.io/job/senior-full-stack-developer/",
+   "https://techquarter.io/job/senior-frontend-developer/",
+   "https://techquarter.io/job/salesforce-software-developer/",
+   "https://techquarter.io/careers/",
+   "https://techquarter.io/job/senior-net-developer/",
+   "https://techquarter.io/job/lead-technical-security-engineer/",
+   "https://techquarter.io/job/senior-backend-developer/",
+   "https://techquarter.io/careers/",
+   "https://techquarter.io/job/aws-data-reporting-expert/"
+  ],
+  "job_boards": [],
+  "signals": {
+   "cicd": 4,
+   "vcs_generic": 1,
+   "testing": 1
+  },
+  "quotes": {
+   "cicd": [
+    "Knowledge of DevOps practices and tools related to Salesforce deployment and CI/CD processes.",
+    "Practical experience with CI/CD pipelines and DevOps tools, including Infrastructure-as-Code (IaC) tools like Terraform, Pulumi, or CDK;",
+    "GitHub and GitHub Actions;"
+   ],
+   "vcs_generic": [
+    "GitHub and GitHub Actions;"
+   ],
+   "testing": [
+    "Implement automated testing platforms and unit tests;"
+   ]
+  },
+  "jd_chars": 42049
+ },
+ {
+  "name": "BlueSpark Technologies",
+  "domain": "bluespark.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Oves Enterprise",
+  "domain": "ovesenterprise.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Graffino",
+  "domain": "graffino.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Areus Development",
+  "domain": "areusdev.com",
+  "pages_read": [
+   "https://areusdev.com/careers/",
+   "https://areusdev.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fareusdev.com%2Fcareers%2F",
+   "https://areusdev.com/blog/careers/senior-software-engineer-c-net-seven/",
+   "https://areusdev.com/blog/careers/senior-software-engineer-c-net-six/",
+   "https://areusdev.com/blog/careers/senior-software-engineer-c-net-five/",
+   "https://areusdev.com/careers/",
+   "https://areusdev.com/blog/careers/senior-software-engineer-c-net-four/",
+   "https://areusdev.com/blog/careers/senior-software-engineer-c-net-three/",
+   "https://areusdev.com/blog/careers/senior-software-engineer-c-net-two/"
+  ],
+  "job_boards": [],
+  "signals": {
+   "testing": 14
+  },
+  "quotes": {
+   "testing": [
+    "We’re driven by the use of technology to improve lives and innovate in every industry Explore our latest career opportunities Senior Software Engineer (C#/.Net) Seven Experience in TDD, BDD, and with .NET Core.",
+    "read more Senior Software Engineer (C#/.Net) Six Experience in TDD, BDD, and with .NET Core.",
+    "read more Senior Software Engineer (C#/.Net) Five Experience in TDD, BDD, and with .NET Core."
+   ]
+  },
+  "jd_chars": 12188
+ },
+ {
+  "name": "Jay Software",
+  "domain": "jay-software.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Custom Code Factory",
+  "domain": "customcodefactory.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "7code",
+  "domain": "7code.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "BitStone SRL",
+  "domain": "bitstone.com",
+  "pages_read": [
+   "https://bitstone.com/join-us/",
+   "https://bitstone.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbitstone.com%2Fjoin-us%2F",
+   "https://bitstone.com/ro/alaturati-ne/",
+   "https://bitstone.com/join-us/",
+   "https://bitstone.com/join-us/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 20641
+ },
+ {
+  "name": "Unicore",
+  "domain": "unicore.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Artificially",
+  "domain": "artificially.io",
+  "pages_read": [
+   "https://artificially.io/careers",
+   "https://artificially.io/career",
+   "https://artificially.io/jobs",
+   "https://artificially.io/join-us",
+   "https://artificially.io/we-are-hiring"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 259
+ },
+ {
+  "name": "CODEMELT",
+  "domain": "codemelt.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Digital Artflow",
+  "domain": "digitalartflow.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Xsure",
+  "domain": "xsure.io",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "BrainTrust",
+  "domain": "braintrust.ro",
+  "pages_read": [
+   "https://www.braintrust.ro/careers",
+   "https://www.braintrust.ro/ro/cariere",
+   "https://www.braintrust.ro/careers/cloud-devops-engineer",
+   "https://www.braintrust.ro/careers/senior-golang-backend-developer",
+   "https://www.braintrust.ro/career",
+   "https://www.braintrust.ro/jobs",
+   "https://www.braintrust.ro/join-us"
+  ],
+  "job_boards": [],
+  "signals": {
+   "cicd": 4,
+   "vcs_generic": 2
+  },
+  "quotes": {
+   "cicd": [
+    "Build and improve CI/CD pipelines (GitHub Actions, GitLab CI or Jenkins) for application delivery.",
+    "Experience with CI/CD pipelines and tools.",
+    "Ensure code quality through automated tests, reviews and continuous integration."
+   ],
+   "vcs_generic": [
+    "Build and improve CI/CD pipelines (GitHub Actions, GitLab CI or Jenkins) for application delivery.",
+    "Experience with version control (Git) and automated testing and monitoring tools."
+   ]
+  },
+  "jd_chars": 10599
+ },
+ {
+  "name": "TEC",
+  "domain": "wearetec.com",
+  "pages_read": [
+   "https://wearetec.com/tec-careers/",
+   "https://wearetec.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwearetec.com%2Ftec-careers%2F",
+   "https://wearetec.com/tec-careers/",
+   "https://wearetec.com/tec-careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 10741
+ },
+ {
+  "name": "Team Extension SA",
+  "domain": "teamextension.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Adonis Software",
+  "domain": "adonissoft.com",
+  "pages_read": [
+   "https://adonissoft.com/careers/",
+   "https://adonissoft.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fadonissoft.com%2Fcareers%2F",
+   "https://adonissoft.com/careers",
+   "https://adonissoft.com/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 26309
+ },
+ {
+  "name": "mReady",
+  "domain": "mready.net",
+  "pages_read": [
+   "https://mready.net/careers",
+   "https://mready.net/career",
+   "https://mready.net/jobs",
+   "https://mready.net/join-us",
+   "https://mready.net/we-are-hiring"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 9
+ },
+ {
+  "name": "IsoSkills",
+  "domain": "isoskills.fi",
+  "pages_read": [
+   "https://isoskills.fi/careers/",
+   "https://isoskills.fi/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fisoskills.fi%2Fcareers%2F",
+   "https://isoskills.fi/jobs/java-developer-lead-developer-gaming-gambling/",
+   "https://isoskills.fi/jobs/mainframe-developer-cobol-full-remote/",
+   "https://isoskills.fi/jobs/business-systems-analyst-insurance-investment-products/",
+   "https://isoskills.fi/jobs/front-end-developer-react-typescript-full-remote/",
+   "https://isoskills.fi/jobs/junior-java-developer-transitioning-to-qa-automation-engineer/",
+   "https://isoskills.fi/careers/",
+   "https://isoskills.fi/jobs/qa-automation-engineer/",
+   "https://isoskills.fi/jobs/enterprise-architect-hybrid/",
+   "https://isoskills.fi/jobs/administrative-assistant-hybrid/",
+   "https://isoskills.fi/jobs/network-service-desk-project-manager/",
+   "https://isoskills.fi/jobs/servicenow-devops-engineer-full-remote/",
+   "https://isoskills.fi/jobs/full-stack-developer-backend-java-focus-full-remote/",
+   "https://isoskills.fi/careers/",
+   "https://isoskills.fi/jobs/front-end-technical-lead-hybrid/",
+   "https://isoskills.fi/jobs/golang-or-kotlin-developer/",
+   "https://isoskills.fi/jobs/data-developer-hybrid-bucharest/"
+  ],
+  "job_boards": [],
+  "signals": {
+   "private_repo_host": 1,
+   "review_gate": 4,
+   "cicd": 5,
+   "vcs_generic": 9,
+   "testing": 11
+  },
+  "quotes": {
+   "private_repo_host": [
+    "Experience using GitHub and Azure DevOps for version control and CI/CD."
+   ],
+   "review_gate": [
+    "Participate in code reviews and continuous improvement initiatives.",
+    "Conduct code reviews and provide constructive feedback to maintain high code quality.",
+    "Perform code reviews and contribute to continuous improvement initiatives."
+   ],
+   "cicd": [
+    "Strong experience with Event Driven Architecture Strong experience with Apache Kafka Experience with CI/CD, version control tools (Git), and modern development practices (Agile, Scrum).",
+    "Experience using GitHub and Azure DevOps for version control and CI/CD.",
+    "· Knowledge of CI/CD concepts and tools."
+   ],
+   "vcs_generic": [
+    "Strong experience with Event Driven Architecture Strong experience with Apache Kafka Experience with CI/CD, version control tools (Git), and modern development practices (Agile, Scrum).",
+    "Experience using GitHub and Azure DevOps for version control and CI/CD.",
+    "Experience working efficiently with GitHub Copilot for designing, implementing, testing, documenting, and verifying solutions."
+   ],
+   "testing": [
+    "About the Role We are looking for a motivated QA Automation Engineer or Junior Java Developer who wants to grow in test automation and contribute to a strategic, high-visibility project.",
+    "· Use AI tools responsibly, where appropriate, to support test automation, debugging, documentation, and faster analysis of technical issues.",
+    "· Experience with test automation tools such as Selenium, Playwright, Cypress, or REST Assured."
+   ]
+  },
+  "jd_chars": 126324
+ },
+ {
+  "name": "Inteo IT Development",
+  "domain": "inteo.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Splashdev",
+  "domain": "splashdev.at",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "C4studio",
+  "domain": "c4studio.ro",
+  "pages_read": [
+   "https://c4studio.ro/careers",
+   "https://c4studio.ro/career",
+   "https://c4studio.ro/jobs",
+   "https://c4studio.ro/join-us",
+   "https://c4studio.ro/we-are-hiring"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 69
+ },
+ {
+  "name": "FIT Software",
+  "domain": "fitsoftware.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "WebitFactory",
+  "domain": "webitfactory.io",
+  "pages_read": [
+   "https://webitfactory.io/careers/",
+   "https://webitfactory.io/careers/",
+   "https://webitfactory.io/careers/"
+  ],
+  "job_boards": [],
+  "signals": {
+   "vcs_generic": 3
+  },
+  "quotes": {
+   "vcs_generic": [
+    "Contact us to apply First name Last name Email Phone Years of Experience 1-3 3-5 5+ Linkedin Profile URL GitHub profile, portfolio, or examples of relevant open-source contributions PDF CV File I have read and agree to the Terms of Privacy Submit People first We truly care about our team.",
+    "Contact us to apply First name Last name Email Phone Years of Experience 1-3 3-5 5+ Linkedin Profile URL GitHub profile, portfolio, or examples of relevant open-source contributions PDF CV File I have read and agree to the Terms of Privacy Submit People first We truly care about our team.",
+    "Contact us to apply First name Last name Email Phone Years of Experience 1-3 3-5 5+ Linkedin Profile URL GitHub profile, portfolio, or examples of relevant open-source contributions PDF CV File I have read and agree to the Terms of Privacy Submit People first We truly care about our team."
+   ]
+  },
+  "jd_chars": 29657
+ },
+ {
+  "name": "SoftwareWatch",
+  "domain": "softwarewatch.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Starbyte",
+  "domain": "starbyte.ro",
+  "pages_read": [
+   "https://starbyte.ro/careers",
+   "https://starbyte.ro/career",
+   "https://starbyte.ro/jobs",
+   "https://starbyte.ro/join-us",
+   "https://starbyte.ro/we-are-hiring"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 9
+ },
+ {
+  "name": "Melonbyte",
+  "domain": "melonbyte.io",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Ambo Software",
+  "domain": "ambo.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Pro Application Tech",
+  "domain": "proapplicationtech.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Kavita Systems",
+  "domain": "kavitasystems.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Burzcast",
+  "domain": "burzcast.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Qualysoft",
+  "domain": "qualysoft.com",
+  "pages_read": [
+   "https://qualysoft.com/career",
+   "https://jobs.lever.co/qualysoft"
+  ],
+  "job_boards": [
+   "https://jobs.lever.co/qualysoft"
+  ],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 15733
+ },
+ {
+  "name": "Cloud Business Services",
+  "domain": "cloudbusinessservices.com",
+  "pages_read": [
+   "https://cloudbusinessservices.com/careers/",
+   "https://cloudbusinessservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcloudbusinessservices.com%2Fcareers%2F",
+   "https://cloudbusinessservices.com/careers/",
+   "https://cloudbusinessservices.com/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 9131
+ },
+ {
+  "name": "ICD Web",
+  "domain": "icdweb.eu",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "PhantomTech",
+  "domain": "phantomtechind.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Amgres.com",
+  "domain": "amgres.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Creativ Digital Agency",
+  "domain": "creativdigital.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Neurony Solutions",
+  "domain": "neurony.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "STNS",
+  "domain": "stns-development.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Reshape Digital",
+  "domain": "reshapedigital.io",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Global Mediator",
+  "domain": "global-mediator.com",
+  "pages_read": [
+   "https://global-mediator.com/career/open-positions",
+   "https://global-mediator.com/career/meet-our-team",
+   "https://global-mediator.com/career/values-in-global-mediator",
+   "https://global-mediator.com/career/business-applications-academy",
+   "https://global-mediator.com/career/social-responsibility",
+   "https://global-mediator.com/career/open-positions/power-platform-developer",
+   "https://global-mediator.com/career/open-positions/dynamics365-BC-developer"
+  ],
+  "job_boards": [],
+  "signals": {
+   "cicd": 1,
+   "vcs_generic": 1
+  },
+  "quotes": {
+   "cicd": [
+    "Moving forward they will use Jira for task management, Bit Bucket for source control and Azure pipelines for automated test and release management."
+   ],
+   "vcs_generic": [
+    "Moving forward they will use Jira for task management, Bit Bucket for source control and Azure pipelines for automated test and release management."
+   ]
+  },
+  "jd_chars": 23693
+ },
+ {
+  "name": "Devstark",
+  "domain": "devstark.com",
+  "pages_read": [
+   "https://www.devstark.com/careers/",
+   "https://www.devstark.com/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 6417
+ },
+ {
+  "name": "Devodrome",
+  "domain": "devodrome.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "CoreBuild",
+  "domain": "corebuild.eu",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Appscend",
+  "domain": "appscend.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Mobile Touch",
+  "domain": "mobiletouch.eu",
+  "pages_read": [
+   "https://www.mobiletouch.eu/careers",
+   "https://www.mobiletouch.eu/career",
+   "https://www.mobiletouch.eu/jobs",
+   "https://www.mobiletouch.eu/join-us"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 1243
+ },
+ {
+  "name": "Neobyte Solutions",
+  "domain": "neobytesolutions.com",
+  "pages_read": [
+   "https://www.neobytesolutions.com/careers/",
+   "https://www.neobytesolutions.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.neobytesolutions.com%2Fcareers%2F",
+   "https://www.neobytesolutions.com/careers/",
+   "https://www.neobytesolutions.com/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 7316
+ },
+ {
+  "name": "Concept24",
+  "domain": "concept24online.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Dream Big Corporation",
+  "domain": "dreambigcorporation.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Soft Lab",
+  "domain": "soft-lab.ro",
+  "pages_read": [
+   "https://www.soft-lab.ro/careers",
+   "https://www.soft-lab.ro/career",
+   "https://www.soft-lab.ro/jobs",
+   "https://www.soft-lab.ro/join-us",
+   "https://www.soft-lab.ro/we-are-hiring"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 69
+ },
+ {
+  "name": "Yonder",
+  "domain": "tss-yonder.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Around25",
+  "domain": "around25.com",
+  "pages_read": [
+   "https://www.around25.com/careers",
+   "https://www.around25.com/jobs/react-native-developer"
+  ],
+  "job_boards": [],
+  "signals": {
+   "vcs_generic": 2
+  },
+  "quotes": {
+   "vcs_generic": [
+    "Open source Check out some of our projects on Github.",
+    "Open source Check out some of our projects on Github."
+   ]
+  },
+  "jd_chars": 4072
+ },
+ {
+  "name": "Softclaire",
+  "domain": "softclaire.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "WeCodePixels",
+  "domain": "wecodepixels.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "SoftState Technologies",
+  "domain": "soft-state.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "NoMoreCoffeePlease",
+  "domain": "nomorecoffeeplease.com",
+  "pages_read": [
+   "https://www.nomorecoffeeplease.com/careers",
+   "https://www.nomorecoffeeplease.com/career",
+   "https://www.nomorecoffeeplease.com/jobs",
+   "https://www.nomorecoffeeplease.com/join-us",
+   "https://www.nomorecoffeeplease.com/we-are-hiring"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 104
+ },
+ {
+  "name": "Tooktech",
+  "domain": "tooktech.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "InDevLab",
+  "domain": "indevlab.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "BisSoft",
+  "domain": "bissoft.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Zincoo Digital Studio",
+  "domain": "zincoo.com",
+  "pages_read": [
+   "https://zincoo.com/careers",
+   "https://zincoo.com/career",
+   "https://zincoo.com/jobs",
+   "https://zincoo.com/join-us",
+   "https://zincoo.com/we-are-hiring"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 9
+ },
+ {
+  "name": "FYB Romania",
+  "domain": "fyb.ro",
+  "pages_read": [
+   "https://fyb.ro/jobs/",
+   "https://fyb.ro/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffyb.ro%2Fjobs%2F",
+   "https://fyb.ro/jobs/symfony-php-programmer/",
+   "https://fyb.ro/jobs/magento-php-programmer/",
+   "https://fyb.ro/jobs/"
+  ],
+  "job_boards": [],
+  "signals": {
+   "vcs_generic": 2,
+   "testing": 2
+  },
+  "quotes": {
+   "vcs_generic": [
+    "GIT repository usage.",
+    "GIT repository usage Fluency in English (reading/writing/speaking);"
+   ],
+   "testing": [
+    "Unit testing experience.",
+    "Unit testing experience."
+   ]
+  },
+  "jd_chars": 11536
+ },
+ {
+  "name": "Rocoders",
+  "domain": "rocoders.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Euro-Testing Software Solutions",
+  "domain": "euro-testing.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Brainic",
+  "domain": "brainic.io",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Primal Skill",
+  "domain": "primalskill.com",
+  "pages_read": [
+   "https://primalskill.com/careers",
+   "https://www.linkedin.com/uas/oauth2/authorization?response_type=code&client_id=75cftgu6isiuws&scope=r_contactinfo%20r_emailaddress%20r_fullprofile&state=6a7ea894773a36.63092357&redirect_uri=https%3A%2F%2Fprimalskill.com%2Fcareers",
+   "https://www.linkedin.com/uas/oauth2/authorization?response_type=code&client_id=75cftgu6isiuws&scope=r_contactinfo%20r_emailaddress%20r_fullprofile&state=6a7ea895ad2cd3.79686959&redirect_uri=https%3A%2F%2Fprimalskill.com%2Fcareers",
+   "https://www.linkedin.com/uas/oauth2/authorization?response_type=code&client_id=75cftgu6isiuws&scope=r_contactinfo%20r_emailaddress%20r_fullprofile&state=6a7ea896cf26b5.39574701&redirect_uri=https%3A%2F%2Fprimalskill.com%2Fcareers",
+   "https://primalskill.com/career",
+   "https://primalskill.com/jobs",
+   "https://primalskill.com/join-us"
+  ],
+  "job_boards": [],
+  "signals": {
+   "review_gate": 1,
+   "vcs_generic": 1,
+   "testing": 4
+  },
+  "quotes": {
+   "review_gate": [
+    "Peer code review Lead a small team of junior web developer if & when neccessary This job requires you to work from our office located in Targu Mures, Romania."
+   ],
+   "vcs_generic": [
+    "Back-end Experience with PHP Relational Databases (MySQL, PostgreSQL) Concept of /Experience with WordPress Concept of/Experience with version control (Git) Solid OOP knowledge Front-end Experience with HTML5 / CSS3 Experience with Javascript / jQuery You get plus points if you know about these as well:"
+   ],
+   "testing": [
+    "Todd Walsh , Managing Partner at Cypress Digital Media Great dev team!",
+    "Todd Walsh , Managing Partner at Cypress Digital Media Great dev team!",
+    "Todd Walsh , Managing Partner at Cypress Digital Media Great dev team!"
+   ]
+  },
+  "jd_chars": 15378
+ },
+ {
+  "name": "SoftXPro",
+  "domain": "softx.pro",
+  "pages_read": [
+   "https://softx.pro/careers",
+   "https://softx.pro/search?keys=career",
+   "https://softx.pro/search?keys=jobs",
+   "https://softx.pro/search?keys=join%20us"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 10469
+ },
+ {
+  "name": "CodinBit",
+  "domain": "codinbit.com",
+  "pages_read": [
+   "https://www.codinbit.com/business-case-getjobready"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 3573
+ },
+ {
+  "name": "Statescu.net",
+  "domain": "statescu.net",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "FPD Consulting & Solutions",
+  "domain": "fpd.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Selectsoft",
+  "domain": "selectsoft.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Armoury Software Solutions",
+  "domain": "armoury.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Innovations Staffing Services",
+  "domain": "mstaffiservices.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "minic studio",
+  "domain": "minic.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Cramba App Studio",
+  "domain": "cramba.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "The Niche Society",
+  "domain": "thenichesociety.ro",
+  "pages_read": [
+   "https://thenichesociety.ro/careers",
+   "https://thenichesociety.ro/career",
+   "https://thenichesociety.ro/jobs",
+   "https://thenichesociety.ro/join-us"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 25467
+ },
+ {
+  "name": "tagDiv",
+  "domain": "tagdiv.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Prisma Solutions",
+  "domain": "prismaweb.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "AppGreat Ltd.",
+  "domain": "appgr8.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Scriptix Technology",
+  "domain": "scriptix.net",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Docodex",
+  "domain": "docodex.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "IOTNetPRO",
+  "domain": "iotnetweb.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Mediatic",
+  "domain": "mediatic.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Enlivy",
+  "domain": "enlivy.dev",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Utopian Vision SRL",
+  "domain": "utopianvision.ro",
+  "pages_read": [
+   "https://utopianvision.ro/careers",
+   "https://utopianvision.ro/career",
+   "https://utopianvision.ro/jobs",
+   "https://utopianvision.ro/join-us"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 7499
+ },
+ {
+  "name": "Digital Expression",
+  "domain": "digitalexpression.ro",
+  "pages_read": [
+   "https://digitalexpression.ro/careers/",
+   "https://digitalexpression.ro/careers/"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 20107
+ },
+ {
+  "name": "Fortune Soft",
+  "domain": "fortunesoft.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "99 Code Lines",
+  "domain": "99codelines.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Wedevelop Web Solutions",
+  "domain": "wedevelop.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Inventiff.",
+  "domain": "inventiff.io",
+  "pages_read": [
+   "https://inventiff.io/careers",
+   "https://inventiff.io/career",
+   "https://inventiff.io/jobs",
+   "https://inventiff.io/join-us",
+   "https://inventiff.io/we-are-hiring"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 9
+ },
+ {
+  "name": "Royalsoft",
+  "domain": "royalsoft.eu",
+  "pages_read": [
+   "https://www.royalsoft.eu/careers",
+   "https://www.royalsoft.eu/ro/cariere",
+   "https://www.royalsoft.eu/career",
+   "https://www.royalsoft.eu/jobs",
+   "https://www.royalsoft.eu/join-us"
+  ],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 24218
+ },
+ {
+  "name": "InteliStat Solutions",
+  "domain": "intelistat.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Altasoft Software Solutions SRL",
+  "domain": "altasoft-solutions.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Eview Software",
+  "domain": "eview-software.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Artep Development",
+  "domain": "artep.eu",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Roman Daniel-Gabriel",
+  "domain": "romandanielgabriel.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "NoError.ro",
+  "domain": "noerror.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "enovatika",
+  "domain": "enovatika.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Neo Vision",
+  "domain": "neovision.dev",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Vectoora",
+  "domain": "vectoora.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "BIT GROWTH ROMANIA",
+  "domain": "bit-growth.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Hipwerk",
+  "domain": "hipwerk.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Uptalen",
+  "domain": "uptalen.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "GIB Media",
+  "domain": "gibmedia.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "VHCI Business Development",
+  "domain": "vhci-software.com",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Digital NINJA",
+  "domain": "digitalninja.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "DevX Digital",
+  "domain": "devx.digital",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ },
+ {
+  "name": "Roti's Web",
+  "domain": "rotisweb.ro",
+  "pages_read": [],
+  "job_boards": [],
+  "signals": {},
+  "quotes": {},
+  "jd_chars": 0
+ }
+]

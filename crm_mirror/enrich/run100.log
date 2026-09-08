@@ -1,0 +1,97 @@
+targets=100  already_done=5  model=claude-haiku-4-5-20251001
+  [3/100] Stoa                         cb= 70 od= 45 product src=wayback:202412
+  [5/100] Udayy                        cb= 20 od= 22 unknown src=none
+  [8/100] BTCC                         cb= 28 od=  9 unknown src=wayback:202511
+  [9/100] Zeda                         cb= 74 od= 26 product src=wayback:202605
+  [10/100] CustomerSuccessBox           cb= 28 od= 12 unknown src=wayback:202306
+  [11/100] NeuroPixel.AI                cb= 20 od= 27 unknown src=wayback:202604
+  [12/100] goDutch                      cb= 64 od= 30 product src=none
+  [13/100] Savage                       cb= 56 od= 18 product src=wayback:202604
+  [14/100] Home Screen Network          cb= 28 od= 13 unknown src=wayback:202309
+  [15/100] BlueLearn                    cb= 62 od= 34 product src=none
+  [16/100] 10Club                       cb= 48 od= 66 product src=wayback:202503
+  [17/100] Hoi Foods                    cb= 58 od= 57 product src=wayback:202312
+  [18/100] AutoBrix                     cb= 28 od= 30 unknown src=none
+  [19/100] MoveWorld                    cb= 62 od= 25 product src=wayback:202208
+  [20/100] Crejo.Fun                    cb= 32 od= 31 unknown src=none
+  [21/100] Kafqa                        cb= 20 od= 38 unknown src=wayback:202403
+  [22/100] Gold Setu                    cb= 68 od= 47 product src=wayback:202311
+  [23/100] Slang Labs                   cb= 74 od= 25 product src=wayback:202410
+  [24/100] Tangish                      cb=  0 od=  0 unknown src=wayback:202302
+  [25/100] Rene                         cb= 68 od= 14 product src=wayback:201911
+  [26/100] Oxfordcaps                   cb= 64 od= 62 product src=wayback:202105
+  [27/100] Deep Rooted                  cb= 12 od= 44 unknown src=wayback:202502
+  [28/100] ZinEdu                       cb= 70 od= 48 product src=wayback:202210
+  [29/100] MyKaam                       cb= 64 od= 29 marketplace src=wayback:202105
+  [30/100] Hirect                       cb= 68 od= 60 marketplace src=wayback:202502
+  [31/100] Welly                        cb= 44 od= 45 product src=wayback:202312
+  [32/100] akudo                        cb= 76 od= 37 product src=wayback:202307
+  [33/100] SHOPG                        cb= 40 od= 32 unknown src=none
+  [34/100] Qin1                         cb= 20 od= 22 unknown src=none
+  [35/100] DIGITAL MALL OF ASIA         cb= 58 od= 34 marketplace src=none
+  [36/100] 0.5Bn FinHealth              cb= 70 od= 16 product src=wayback:202101
+  [37/100] koinearth                    cb= 82 od= 32 product src=wayback:202306
+  [38/100] GlamEgo                      cb= 56 od= 28 product src=wayback:201912
+  [39/100] Gobbly                       cb= 62 od= 14 product src=wayback:202406
+  [40/100] Manch                        cb=  8 od=  7 unknown src=none
+  [41/100] Shubu.ai                     cb= 76 od= 10 product src=wayback:202111
+  [42/100] Qorner                       cb= 20 od= 10 unknown src=wayback:202404
+  [43/100] Ecovia                       cb= 64 od= 53 product src=wayback:202209
+  [44/100] Biofimed                     cb= 20 od= 15 unknown src=wayback:202308
+  [45/100] Cashcow                      cb= 64 od= 15 product src=wayback:202305
+  [46/100] Wanderwhale                  cb= 28 od= 15 unknown src=wayback:202510
+  [47/100] Technogram Solutions         cb= 68 od= 55 product src=wayback:202203
+  [48/100] Coursmy                      cb=  0 od=  0 product src=wayback:202310
+  [49/100] ambagontherapeutics.com      cb= 12 od=  0 unknown src=none
+  [50/100] Prodo                        cb= 28 od= 16 unknown src=none
+  [51/100] Crater                       cb=  0 od=  0 unknown src=wayback:202402
+  [52/100] Superpro                     cb=  0 od= 12 SHELL services_agency src=wayback:202405
+  [53/100] BitClass                     cb= 28 od= 26 unknown src=wayback:202303
+  [54/100] 9stacks                      cb= 82 od= 41 product src=wayback:202302
+  [55/100] Loca                         cb=  8 od=  9 unknown src=none
+  [56/100] MultiLiving                  cb= 40 od= 33 unknown src=none
+  [57/100] Oga                          cb= 20 od= 19 unknown src=wayback:202211
+  [58/100] BigPhi                       cb= 46 od= 46 product src=wayback:202107
+  [59/100] Investmint                   cb= 68 od= 18 product src=wayback:202501
+  [60/100] Sprint AI                    cb=  0 od=  0 unknown src=wayback:202407
+  [61/100] PING                         cb= 50 od= 33 marketplace src=wayback:202110
+  [62/100] BoStreet                     cb= 44 od= 41 product src=wayback:202310
+  [63/100] SureClaim                    cb= 64 od= 48 product src=wayback:202104
+  [64/100] Lido                         cb=  0 od=  0 unknown src=wayback:202604
+  [65/100] Phable                       cb= 62 od= 54 product src=wayback:202403
+  [66/100] Peepl                        cb=  0 od=  0 unknown src=wayback:202604
+  [67/100] P10bank                      cb= 68 od= 24 product src=wayback:202212
+  [68/100] Metalstreet                  cb=  8 od= 21 unknown src=none
+  [69/100] Numans Technologies          cb= 20 od= 17 unknown src=wayback:202407
+  [70/100] Pranaya Group                cb=  0 od= 32 SHELL services_agency src=wayback:202205
+  [71/100] OMI                          cb= 28 od= 20 unknown src=wayback:202403
+  [72/100] H3 Mart                      cb= 64 od= 49 marketplace src=wayback:202210
+  [73/100] Zoomtail                     cb= 28 od= 15 unknown src=none
+  [74/100] Vah Vah                      cb= 56 od= 62 product src=wayback:202310
+  [75/100] Cryption                     cb=  0 od=  8 unknown src=none
+  [76/100] Workduck                     cb= 68 od= 12 product src=wayback:202301
+  [77/100] Serve Automation             cb= 70 od= 36 product src=wayback:202201
+  [78/100] Pixel Cards                  cb=  8 od= 12 ? src=none
+  [79/100] Healthfront                  cb=  0 od= 12 ? src=none
+  [80/100] WholeMark                    cb=  8 od= 18 unknown src=none
+  [81/100] Alle                         cb=  0 od= 27 unknown src=none
+  [82/100] Edyoo                        cb= 58 od= 38 marketplace src=wayback:201904
+  [83/100] Pillow Fund                  cb= 20 od= 21 unknown src=none
+  [84/100] IndyFint                     cb= 56 od= 13 product src=none
+  [85/100] Kyt                          cb= 62 od= 53 product src=wayback:202110
+  [86/100] RummyBaazi                   cb= 48 od= 18 product src=none
+  [87/100] Overboxd                     cb= 36 od= 11 product src=none
+  [88/100] SoleSearch                   cb= 50 od= 33 product src=wayback:202408
+  [89/100] SuperBeings                  cb=  8 od= 10 unknown src=none
+  [90/100] Mojocare                     cb= 76 od= 38 product src=wayback:202309
+  [91/100] EasyMedico                   cb= 70 od= 51 product src=wayback:201901
+  [92/100] Celebyte                     cb= 64 od= 42 product src=wayback:202110
+  [93/100] Shiperone                    cb= 50 od= 30 product src=none
+  [94/100] XEOPAR                       cb=  8 od= 20 unknown src=none
+  [95/100] Gifskey                      cb= 44 od=  5 product src=none
+  [96/100] OurEye.ai                    cb= 28 od= 11 unknown src=wayback:202407
+  [97/100] Aerostrovilos                cb=  0 od= 14 unknown src=none
+  [98/100] Investorey                   cb= 62 od= 35 product src=wayback:202212
+  [99/100] Slate                        cb=  0 od=  8 unknown src=none
+  [100/100] The Woman's Company          cb= 42 od= 23 product src=none
+DONE  100 scored -> C:\Users\naani\OneDrive\Desktop\hubspot\crm_mirror\enrich\asset_scores.json

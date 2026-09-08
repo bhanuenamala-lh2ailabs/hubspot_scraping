@@ -1,0 +1,557 @@
+[
+ {
+  "name": "TSL Consulting Private Limited",
+  "domain": "tslconsulting.in",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "generalist-agency cap 30"
+  ],
+  "pre2024_status": "Wayback pre-2023 snapshot verified, but marketing not software",
+  "evidence": [
+   "Homepage: outbound, inbound, channel, digital marketing service lines",
+   "Blog: SEO, content syndication, landing-page optimization posts",
+   "'cicd' hits are sales-pipeline prose, not build pipelines",
+   "No VCS org, no npm package, no engineering JD"
+  ],
+  "why": "A B2B demand-generation marketing agency with zero engineering-process evidence, so the generalist-agency cap applies and it is a Skip."
+ },
+ {
+  "name": "Uniqus India Private Limited",
+  "domain": "uniqus.com",
+  "score": 50,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 15,
+  "tier_c_points": 10,
+  "caps_applied": [],
+  "pre2024_status": "Pre-2023 snapshot, but text was unedited theme placeholder",
+  "evidence": [
+   "Services page: CI/CD pipeline security, infrastructure-as-code controls",
+   "Case study: SOX controls for NASDAQ-listed travel company",
+   "Tech-stack page reached; privacy/consent automation platform described",
+   "No VCS org, no OSS, no engineering-practice blog posts"
+  ],
+  "why": "A genuine advisory firm with a real secure-SDLC and regulated-client story but no verifiable code artefacts, so worth a look rather than priority."
+ },
+ {
+  "name": "UTI Infrastructure Technology and Services Limited",
+  "domain": "utiitsl.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "cap-45 NOT applied: dated pre-2024 artefact exists"
+  ],
+  "pre2024_status": "Site live since 2010; 2023 capture readable, no software language",
+  "evidence": [
+   "Wayback first snapshot 2010, 2023 capture readable",
+   "Homepage and careers reached; zero engineering signals",
+   "Registrar/records-processing services, not software delivery",
+   "No VCS org, no blog, no CI/CD language"
+  ],
+  "why": "Pre-2024 existence is now proven so the GOLD cap is lifted, but the site carries no engineering-maturity evidence of any kind.",
+  "changed_from_previous": "Skip 10 -> Skip 10, unchanged"
+ },
+ {
+  "name": "Vara Technology Private Limited",
+  "domain": "varatechnology.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C void: no Tier A/B corroboration"
+  ],
+  "pre2024_status": "2020 Wayback snapshot advertises IoT centre of excellence",
+  "evidence": [
+   "2020 snapshot: 'IoT center of excellence' plus client list",
+   "Careers page lists sales and pre-sales solutioning roles only",
+   "BFSI, Government, Manufacturing verticals named on homepage",
+   "No VCS org, no CI/CD, QA or code-review mention"
+  ],
+  "why": "Pre-2024 software work is credible but every engineering-process signal is missing and the careers page is sales-only, so Tier C cannot fire."
+ },
+ {
+  "name": "Velocity Software Solutions Pvt Ltd",
+  "domain": "velsof.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "generalist-agency cap 30"
+  ],
+  "pre2024_status": "2020 snapshot: eCommerce web and mobile app development",
+  "evidence": [
+   "own_vcs_org 'velsof' has 0 merged PRs, 0 human authors",
+   "2020 Wayback: eCommerce and mobile app development India",
+   "Blog dominated by SEO tooling and site-speed content",
+   "Careers page reached; no code review or Git mention"
+  ],
+  "why": "Real pre-2024 eCommerce dev shop, but the GitHub org is empty and SEO/marketing bundling triggers the agency cap, so Skip."
+ },
+ {
+  "name": "Veryx Technologies Private Limited",
+  "domain": "veryxtech.com",
+  "score": 70,
+  "band": "Priority",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 25,
+  "tier_c_points": 20,
+  "caps_applied": [],
+  "pre2024_status": "2022 snapshot already lists software development, test automation, DevOps",
+  "evidence": [
+   "Services: automated CI/CD pipelines across GCP, AWS, Azure",
+   "Infrastructure page names Kubernetes, Docker, eBPF, Kafka, Terraform",
+   "'Quality engineered into every stage, not treated as a checkpoint'",
+   "Own products ATTEST and Cloudmon; hiring Senior QA Engineer"
+  ],
+  "why": "Owns real network-test products with named IaC tooling and a genuine shift-left QA practice, making it a contact-worthy engineering shop."
+ },
+ {
+  "name": "Vinmaya Consultancy Services Private Limited",
+  "domain": "vinmaya.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "BPO/verification-services core cap 20"
+  ],
+  "pre2024_status": "Pre-2023 snapshot verified but shows screening services, not software",
+  "evidence": [
+   "Homepage: end-to-end employee background verification services",
+   "Snapshot quote: background check, identity check, reference check",
+   "'cicd' hit is a generic support/solutions sentence, false positive",
+   "No careers or team page, no VCS org, no CI/CD"
+  ],
+  "why": "Core business is labour-intensive background verification rather than software engineering, so the BPO-style cap applies and it is a Skip."
+ },
+ {
+  "name": "Vivicta Private Limited",
+  "domain": "vivicta.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Archived pre-2024 but snapshot did not mention building software",
+  "evidence": [
+   "Blog posts bylined and dated, but on employee experience, AI",
+   "'qa' hits are blog headlines, not a testing practice",
+   "Careers and team pages reached; no code-review or Git language",
+   "No VCS org, no OSS packages on domain"
+  ],
+  "why": "Consultancy-flavoured content with no dated software artefact and no process evidence, so it cannot clear the GOLD gate or Tier B."
+ },
+ {
+  "name": "Vrentin Tech Private Limited",
+  "domain": "muoro.io",
+  "score": 53,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 15,
+  "tier_c_points": 13,
+  "caps_applied": [
+   "cap-40 lifted: blog+team recovered"
+  ],
+  "pre2024_status": "Verified: 2023 capture sells remote software engineering teams",
+  "evidence": [
+   "2023 Wayback: 'Build Remote Software Engineering Teams'",
+   "Governed Databricks lakehouse, Unity Catalog policy enforcement",
+   "Internal platform-agnostic accelerators reused across engagements",
+   "Clients: Goldman Sachs, Blackstone, Citi, regulated finance"
+  ],
+  "why": "Substantive data-platform engineering with named tooling and reusable accelerators for regulated finance clients, now uncapped after team and blog pages were recovered.",
+  "changed_from_previous": "Skip 40 -> Secondary 53, cap-40 lifted"
+ },
+ {
+  "name": "Weir Minerals (India) Private Limited",
+  "domain": "global.weir",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "cap-45 NOT applied: 2023 artefact exists",
+   "cap-40 lifted: careers+blog+team recovered"
+  ],
+  "pre2024_status": "Site live since 2016; 2023 capture readable, no software language",
+  "evidence": [
+   "Wayback since 2016; 2023 capture has no software pitch",
+   "Mining equipment manufacturer, not an IT services firm",
+   "No VCS org, no CI/CD, no QA signals",
+   "Careers/blog/team recovered but contain no engineering evidence"
+  ],
+  "why": "Both caps are lifted by the repairs, but this is a mining-equipment maker with no software-engineering evidence anywhere on the site.",
+  "changed_from_previous": "Skip 10 -> Skip 10, unchanged"
+ },
+ {
+  "name": "Worldline Global Services Private Limited",
+  "domain": "worldline.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C void: no Tier A/B corroboration",
+   "BPO cap-20 considered, not applied (payments tech is core)"
+  ],
+  "pre2024_status": "Verified: site since 1998, dated pre-2024 payments milestones on live site",
+  "evidence": [
+   "Wayback first snapshot 1998; dated corporate technology milestones",
+   "Ships software licensing and SaaS payment platforms",
+   "Open banking tooling; France's first card-transaction contract",
+   "No careers page reached, no CI/CD or QA evidence"
+  ],
+  "why": "Decades-old payments technology firm so GOLD is clearly earned, but the pages reached show only positioning and BPO delivery options with no Tier A/B engineering signal to corroborate Tier C.",
+  "changed_from_previous": "Skip 25 -> Skip 25, GOLD upgraded to full"
+ },
+ {
+  "name": "Xebia IT Architects India Private Limited",
+  "domain": "xebia.com",
+  "score": 78,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 40,
+  "tier_b_points": 0,
+  "tier_c_points": 13,
+  "caps_applied": [
+   "cap-40 lifted: team page recovered"
+  ],
+  "pre2024_status": "Verified: github.com/xebia earliest merge 2011-12-07",
+  "evidence": [
+   "github.com/xebia: 615 merged PRs, 8 human authors",
+   "Earliest merge 2011-12-07, still active August 2026",
+   "2022 Wayback: designs digital products and IT infrastructures",
+   "AI solutions and accelerators as owned long-lived assets"
+  ],
+  "why": "A verified company GitHub org with 615 merged PRs from multiple human authors dating to 2011 is near-proof of a reviewed PR workflow, and the team-page recovery removes the cap that was suppressing it.",
+  "changed_from_previous": "Skip 40 -> Priority 78, cap-40 lifted"
+ },
+ {
+  "name": "YASH Technologies Pvt Ltd",
+  "domain": "yash.com",
+  "score": 58,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 15,
+  "tier_c_points": 18,
+  "caps_applied": [],
+  "pre2024_status": "2020 snapshot already advertises IT services and solutions portfolio",
+  "evidence": [
+   "Data engineering: pipelines engineered for performance and observability",
+   "Homepage: partner of choice for 100 Fortune 500 corporations",
+   "Named solution YASH Health Connect; tech-stack page reached",
+   "No VCS org, no engineering JD, no code-review mention"
+  ],
+  "why": "Large established enterprise IT firm with a substantive pipeline/data-engineering capability but no verifiable repo or PR evidence, so Secondary."
+ },
+ {
+  "name": "Zediant Technologies Private Limited",
+  "domain": "zediant.com",
+  "score": 80,
+  "band": "Priority",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 35,
+  "tier_c_points": 20,
+  "caps_applied": [],
+  "pre2024_status": "2020 snapshot titled 'Software Development Engineers | Zediant Technologies'",
+  "evidence": [
+   "Process page: 'every PR meets enterprise standards before a human reviewer'",
+   "DevOps section: automated CI/CD pipelines, low-risk releases",
+   "SOC 2 Type II claimed; secure SDLC embedded at every stage",
+   "Continuous QA, automated plus manual testing; pods include QA, tech lead"
+  ],
+  "why": "Explicit PR review, CI/CD, secure SDLC and SOC 2 claims on top of verified pre-2024 software work make this a contact-worthy engineering shop, despite heavy AI-augmentation marketing."
+ },
+ {
+  "name": "AB Information Technology Solutions Private Limited",
+  "domain": "sophitoriumsgi.org",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no careers AND no blog AND no team - cap 40 (non-binding)",
+   "training-institute domain"
+  ],
+  "pre2024_status": "Site live since 2020; 2022 capture readable, no software language",
+  "evidence": [
+   "Only homepage reachable; no careers, blog or team",
+   "Domain is an education/training institute site",
+   "Single decorative line: 'translating technologies into Agile solutions'",
+   "No VCS org, CI/CD, QA or compliance evidence"
+  ],
+  "why": "Pre-2024 existence is confirmed but the property is a training-institute site with one decorative agile claim and no engineering evidence.",
+  "changed_from_previous": "Skip 10 -> Skip 10, unchanged"
+ },
+ {
+  "name": "Airamatrix Private Limited",
+  "domain": "airamatrix.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C void: no Tier A/B corroboration"
+  ],
+  "pre2024_status": "2022 snapshot: Nature Portfolio publication and innovation award",
+  "evidence": [
+   "2022 Wayback shows AI life-sciences product work and award",
+   "Homepage: diagnostic, prognostic, predictive tools portfolio",
+   "Careers page reached but no code review or Git mention",
+   "No blog, no team page, no VCS org, no OSS"
+  ],
+  "why": "A credible AI/digital-pathology product firm, but the site carries no CI/CD, QA or repo evidence, so deprioritize rather than exclude."
+ },
+ {
+  "name": "AquilaClouds India Private Limited",
+  "domain": "aquilaclouds.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C void: no Tier A/B corroboration"
+  ],
+  "pre2024_status": "Archived pre-2024 but snapshot did not mention building software",
+  "evidence": [
+   "Team page names CTO, CPO and VP of Engineering",
+   "Owns AI cloud cost optimization platform for MSPs",
+   "Kubernetes/multi-cloud mentions describe the product, not internal practice",
+   "All pages reached yet no code review, CI/CD or repo"
+  ],
+  "why": "A real FinOps product startup with named engineering leadership, but no pre-2024 software artefact and no process evidence, so it fails the GOLD gate."
+ },
+ {
+  "name": "AVA Software Private Limited",
+  "domain": "avasoft.biz",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no careers AND no blog AND no team - cap 40 (non-binding)"
+  ],
+  "pre2024_status": "Verified: 2017 capture claims 20+ Java applications delivered",
+  "evidence": [
+   "2017 Wayback: 'implementing 20+ JAVA Applications for customers'",
+   "Wayback first snapshot 2013",
+   "Only homepage reachable; no careers, blog or team",
+   "No VCS org, CI/CD, QA or compliance signals"
+  ],
+  "why": "GOLD is now proven by a 2017 capture of delivered Java work, but nothing else on the reachable site evidences current engineering process.",
+  "changed_from_previous": "Skip 10 -> Skip 25, GOLD proven, band unchanged"
+ },
+ {
+  "name": "Bitvoice Solutions Private Limited",
+  "domain": "bitvoice.in",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C void: no Tier A/B corroboration",
+   "BPO cap-20 considered, not applied (sells software, not a call centre)"
+  ],
+  "pre2024_status": "Verified: dated Feb-2023 blog posts plus own communication product",
+  "evidence": [
+   "Dated blog post 'February 1, 2023' published on own site",
+   "Own product: IPPBX, voice logger, call-centre software",
+   "Wayback first snapshot 2016",
+   "No CI/CD, QA, compliance or VCS evidence"
+  ],
+  "why": "Dated 2023 posts and a branded telephony product establish pre-2024 activity, but the site shows no engineering-process signal to build on.",
+  "changed_from_previous": "Skip 25 -> Skip 25, unchanged"
+ },
+ {
+  "name": "Caparizon Software Private Limited",
+  "domain": "itflux.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no careers AND no blog AND no team - cap 40 (non-binding)",
+   "cap-45 NOT applied: 2023 artefact exists"
+  ],
+  "pre2024_status": "Site live since 2003; 2023 capture readable, no software language",
+  "evidence": [
+   "Wayback first snapshot 2003; 2023 capture readable",
+   "Only homepage reachable, no careers/blog/team",
+   "Zero signal counts, zero evidence excerpts",
+   "No VCS org or published packages"
+  ],
+  "why": "Long-lived domain confirms pre-2024 existence, but a single reachable page with no extractable engineering signal leaves nothing to score.",
+  "changed_from_previous": "Skip 10 -> Skip 10, unchanged"
+ },
+ {
+  "name": "Codeguardian Tech International Private Limited",
+  "domain": "codeguardian.ai",
+  "score": 0,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 0,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no pre-2024 evidence cap 45"
+  ],
+  "pre2024_status": "RED FLAG: domain first archived 2024-03-20",
+  "evidence": [
+   "Wayback first snapshot 2024-03-20, after the pre-2024 cutoff",
+   "Testimonials read as placeholders: 'Jane Smith, Healthcare Solutions Inc.'",
+   "Compliance list is an audit questionnaire, not own certification",
+   "No careers, about or team page; no VCS org"
+  ],
+  "why": "Post-2024 domain with template-style testimonials and no engineering artefacts, exactly the profile the GOLD gate exists to exclude."
+ },
+ {
+  "name": "Crushaders Tech Solution LLP",
+  "domain": "crushaderstech.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "generalist-agency cap 30 (non-binding)",
+   "Tier C void: no Tier A/B corroboration"
+  ],
+  "pre2024_status": "Site live since 2014; 2023 capture readable, no software language",
+  "evidence": [
+   "'Best Rated Digital Marketing Company in Bhubaneswar'",
+   "SEO, digital branding, AI-enabled marketing service lines",
+   "65 generalist-agency hits versus zero CI/CD or QA",
+   "Industry breadth listed; breadth scores nothing"
+  ],
+  "why": "This is a digital marketing agency with website work attached, so the generalist-agency signature applies and there is no engineering evidence to cap.",
+  "changed_from_previous": "Skip 10 -> Skip 10, unchanged"
+ },
+ {
+  "name": "DataQ Technology",
+  "domain": "dataqtec.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no careers AND no blog AND no team cap 40",
+   "Tier C void: no Tier A/B corroboration"
+  ],
+  "pre2024_status": "Archived pre-2024 but snapshot did not mention building software",
+  "evidence": [
+   "Homepage claims AI software for banking, insurance, telecom",
+   "Only homepage reached; careers, blog, team all absent",
+   "No CI/CD, QA, compliance or code-review excerpts",
+   "No VCS org, no OSS packages on domain"
+  ],
+  "why": "A single product claim on a one-page site with no corroborating engineering signal, so Skip."
+ },
+ {
+  "name": "Dimensions Cybertech (India) Private Limited",
+  "domain": "dimensionslive.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Archived pre-2024 but snapshot did not mention building software",
+  "evidence": [
+   "Only homepage and team pages reached; careers and blog absent",
+   "signal_counts and evidence_excerpts both empty",
+   "No VCS org, no OSS packages on domain",
+   "Pre-2023 snapshot showed no software development content"
+  ],
+  "why": "No engineering signal of any kind and no pre-2024 software evidence, so deprioritize."
+ },
+ {
+  "name": "Eluminous Technologies Private Limited",
+  "domain": "eluminoustechnologies.com",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 10,
+  "caps_applied": [
+   "generalist-agency cap 30"
+  ],
+  "pre2024_status": "2023 snapshot: hire dedicated developers, web and mobile development",
+  "evidence": [
+   "Compliance wall: ISO 27001, SOC 2, HIPAA, PCI-DSS claims",
+   "Careers page hiring digital marketing, PPC and virtual assistants",
+   "'vcs' hit is GitHub Copilot usage, not an org",
+   "Tech-stack page reached; healthcare and finance clients named"
+  ],
+  "why": "Genuine pre-2024 dev outsourcing with compliance claims, but digital marketing and virtual-assistant service bundling triggers the generalist-agency cap."
+ }
+]

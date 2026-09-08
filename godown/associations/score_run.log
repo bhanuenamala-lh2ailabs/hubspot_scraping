@@ -1,0 +1,35 @@
+[14:41:43] site lane done -> scoring
+survivors 672 | site 672 | rdap 672 | wayback 36
+
+SCORED 342   lanes: {'site_dead': 53, 'thin_evidence': 134, 'retry_queue': 125, 'gcc_suspect': 18}
+
+score bands:
+  50-64                       7
+  35-49                      24
+  20-34                     118
+  <20                       193
+
+owned_ip 125 | repo hits 34 | review gates 11
+
+top 20:
+    1 [ 55] VENDEEP TECHNOIDENTITY SOLUTIONS PRIVA  technoidentity.com          NONE          ip=T jd=68725
+    2 [ 55] TransGraph Consulting Private Limited   transgraph.com              SOURCE_ONLY   ip=T jd=68725
+    3 [ 50] oneclickitsolution                      oneclickitsolution.com      NONE          ip=T jd=19271
+    4 [ 50] c-metric                                c-metric.com                SOURCE_ONLY   ip=T jd=14541
+    5 [ 50] disruptivetechsolutions                 disruptivetechsolutions.com NONE          ip=T jd=9839
+    6 [ 50] venusgeo                                venusgeo.com                SOURCE_ONLY   ip=T jd=7900
+    7 [ 50] Revyrie Global                          revyrieglobal.com           NONE          ip=T jd=6285
+    8 [ 45] Techno Kreeyaa Pvt Ltd                  kreeyaa.com                 NONE          ip=T jd=67406
+    9 [ 45] augmentedtechlabs                       augmentedtechlabs.com       NONE          ip=T jd=63818
+   10 [ 45] mindquad                                mindquad.com                NONE          ip=T jd=62912
+   11 [ 45] glidemtech                              glidemtech.com              NONE          ip=T jd=62706
+   12 [ 45] TRIVAND TECHNOLOGIES PRIVATE LIMITED    trivand.com                 SOURCE_ONLY   ip=T jd=59970
+   13 [ 45] Simplogics Solutions Pvt. Ltd.          simplogics.com              NONE          ip=T jd=57421
+   14 [ 45] MAGANTI IT SOLUTIONS PRIVATE LIMITED    mitresource.com             NONE          ip=F jd=11242
+   15 [ 45] Tetrasoft India Pvt Ltd                 tetrasoft.us                NONE          ip=F jd=8008
+   16 [ 40] Codegnan IT solutions                   codegnan.com                NONE          ip=F jd=63838
+   17 [ 40] TGH Software Solutions Private Limited  techygeekhub.com            NONE          ip=F jd=21829
+   18 [ 40] Silicon Labs                            silabs.com                  NONE          ip=T jd=13060
+   19 [ 40] cognisive                               cognisive.com               SOURCE_ONLY   ip=T jd=6660
+   20 [ 35] REQOLENT QUALITY LABS PVT LTD           qualitlabs.com              NONE          ip=T jd=68496
+[14:41:43] scored

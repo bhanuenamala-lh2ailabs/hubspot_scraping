@@ -1,0 +1,302 @@
+[
+ {
+  "name": "10 Decoders Consultancy Services Private Limited",
+  "domain": "10decoders.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "builds production AI agents, legacy modernization, own vision-AI product",
+  "evidence": "Agent design and build: production-grade agents on our Rapid Agent Builder framework"
+ },
+ {
+  "name": "Aarete Technosoft Private Limited",
+  "domain": "the3i.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "management consulting with healthcare AI analytics engine and data platforms",
+  "evidence": "IntelliScan AI-powered analytics engine; create secure, integrated, performant solutions"
+ },
+ {
+  "name": "AceVector limited",
+  "domain": "snapdeal.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": 2010,
+  "what_they_do": "online value ecommerce marketplace selling fashion, home and electronics",
+  "evidence": "Snapdeal is India's leading pure-play value Ecommerce platform"
+ },
+ {
+  "name": "AdGlobal360 India Private Limited",
+  "domain": "adglobal360.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "digital marketing agency that also builds client mobile apps",
+  "evidence": "Maruti Suzuki Rewards App... offers functionality to book service appointments"
+ },
+ {
+  "name": "AgilizTech Software Services Private Limited",
+  "domain": "agiliztech.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "builds AI-native products, agents and MLOps platforms for clients",
+  "evidence": "End-to-end development of AI-native products—from discovery and MVPs to scalable platforms"
+ },
+ {
+  "name": "Akzo Nobel Global Business Services LLP",
+  "domain": "akzonobel.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": 1792,
+  "what_they_do": "manufactures paints and coatings; Dulux, International, Sikkens brands",
+  "evidence": "Since 1792, we've been supplying the innovative paints and coatings"
+ },
+ {
+  "name": "Alliantgroup India Talent Private Limited",
+  "domain": "alliantgroup.com",
+  "relevant": false,
+  "confidence": "medium",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "tax credits, management consulting and finance/IT managed services",
+  "evidence": "Identifies and maximizes tax credits and incentives; Management Consulting; Managed Services"
+ },
+ {
+  "name": "Amypo Technologies Private Limited",
+  "domain": "amypo.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "DotLab coding-lab SaaS platform for universities and placement training",
+  "evidence": "DotLab... Our platform... automated grading, LMS sync, browser-based coding IDE"
+ },
+ {
+  "name": "Apollo India Services LLP",
+  "domain": "apollo.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "global alternative asset manager and retirement solutions provider",
+  "evidence": "Apollo... future-focused asset manager and leader in wealth management and retirement solutions"
+ },
+ {
+  "name": "Arcesium India Private Limited",
+  "domain": "arcesium.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "sells investment data and operations SaaS platforms to financial firms",
+  "evidence": "Opterra is the front-to-back platform... cloud-native investment management platform"
+ },
+ {
+  "name": "Astounding Healthtech Private Limited",
+  "domain": "revealhealthtech.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "builds healthcare AI, interoperability and digital products for clients",
+  "evidence": "They developed a mobile-first application; design, architect, build... applications on AWS"
+ },
+ {
+  "name": "AUI Systems Private Limited",
+  "domain": "auisys.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "own cognitive NLU platform and analyzers for energy industry documents",
+  "evidence": "Trailblazing IP that's built from scratch; Cognitive NLU Platform available as a Service"
+ },
+ {
+  "name": "Avineon India Private Limited",
+  "domain": "avineon.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "both",
+  "founded_year": 1992,
+  "what_they_do": "GIS data services plus custom application development and Esri tools",
+  "evidence": "Application Development; Application Development & Automation; Avineon's Model Manager tool"
+ },
+ {
+  "name": "Azalio Technologies Private Limited",
+  "domain": "azalio.io",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "telecom 5G OSS/BSS integration and automation, cloud, security, staffing",
+  "evidence": "Expert Integration, Automation... AI-Driven Automation, Multi-Vendor Integration"
+ },
+ {
+  "name": "BeeHyv Software Solutions Private Limited",
+  "domain": "beehyv.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "engineering services building AI, data platforms; own Talk2API product",
+  "evidence": "250+ Engineers... We build and operate systems; API Intelligence Platform (Talk2API)"
+ },
+ {
+  "name": "BizAcuity Solutions Private Limited",
+  "domain": "bizacuity.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "data analytics and BI services plus custom application development",
+  "evidence": "Application Development Services: Develop, manage, and modernize custom applications"
+ },
+ {
+  "name": "BOT AI ML Private Limited",
+  "domain": "botaiml.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "BOTConverse enterprise automation platform with AI digital workers",
+  "evidence": "The BOTConverse Platform is built for enterprise automation powered by AI"
+ },
+ {
+  "name": "Bruhat Insights Global Private Limited",
+  "domain": "myavtar.com",
+  "relevant": false,
+  "confidence": "medium",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "diversity job portal, skilling programs and career assessments",
+  "evidence": "myAvtar is India's first Diversity Portal; Jobs, Companies, Skilling Programs, Counselling"
+ },
+ {
+  "name": "Canopus-GBS Private Limited",
+  "domain": "canopusgbs.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "SAP S/4HANA implementation, BTP extension development and AMS",
+  "evidence": "Customize & Extend... enhancements and integrations delivered via BTP-based extensions"
+ },
+ {
+  "name": "CEDURA Testsol Private Limited",
+  "domain": "ceduratech.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "builds AI-powered web, mobile and embedded applications for clients",
+  "evidence": "We build intelligent web and mobile applications enhanced with AI capabilities"
+ },
+ {
+  "name": "Cheric Information Network Technologies Private Limited",
+  "domain": "cherictechnologies.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "IT staffing, digital marketing, ITES, engineering support, QA services",
+  "evidence": "IT Products, Quality Management Systems... QA Se[rvices]; application engineering support"
+ },
+ {
+  "name": "Clearwater Analytics India Private Limited",
+  "domain": "clearwateranalytics.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "SaaS investment accounting, reconciliation and risk analytics platform",
+  "evidence": "The investment management platform for the entire lifecycle; Beacon, Enfusion by Clearwater"
+ },
+ {
+  "name": "Code Shastra Private Limited",
+  "domain": "codeshastra.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "product development plus dedicated remote engineering teams for clients",
+  "evidence": "We offer mobile app development, web development, UI UX design, and AI services"
+ },
+ {
+  "name": "Cognet HR Solutions Pvt Ltd",
+  "domain": "cognethro.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "back-office BPO for HR outsourcers: payroll, benefits, accounting",
+  "evidence": "CogNet is a Business Process Management (BPM) solution for Human Resource Outsourcing companies"
+ },
+ {
+  "name": "Concentrix Daksh Services India Private Limited",
+  "domain": "concentrix.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "CX outsourcing plus enterprise technology implementation and own AI suite",
+  "evidence": "The iX Product Suite is AI built by the people who run processes"
+ },
+ {
+  "name": "Cotelligent (India) Private Limited",
+  "domain": "cotelligent.com",
+  "relevant": false,
+  "confidence": "medium",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "identity security consulting, IAM vendor implementation and managed SOC",
+  "evidence": "From Advisory Consulting to Managed Services; system integration to legacy system migration"
+ },
+ {
+  "name": "Crecientech InfoSytem Private Limited",
+  "domain": "crecientech.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "custom software and web development plus own governance and ecommerce platforms",
+  "evidence": "full-cycle custom software development, including planning, design, and deployment"
+ },
+ {
+  "name": "CS Soft Solutions (India) Private Limited",
+  "domain": "cssoftsolutions.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "offshore custom software and AI product engineering teams for enterprises",
+  "evidence": "enterprise software development services... Dedicated engineering pods aligned with your roadmap"
+ },
+ {
+  "name": "Cybertech Systems and Software Ltd",
+  "domain": "cybertech.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "SAP and Esri GIS cloud services plus own SAP-ArcGIS integration platform",
+  "evidence": "Unity Engine: World's First SAP Certified Platform for SAP and ArcGIS Integration"
+ },
+ {
+  "name": "Datagrid Solutions Private Limited",
+  "domain": "datagrid.co.in",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "custom software, web and mobile app development plus IT outsourcing",
+  "evidence": "Datagrid Solutions is a Customised software development and IT outsourcing provider"
+ }
+]

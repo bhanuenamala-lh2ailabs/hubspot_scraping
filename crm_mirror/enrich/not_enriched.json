@@ -1,0 +1,92 @@
+[
+ {
+  "who": "Lamiya",
+  "stage": "Cold Call",
+  "src": "Tracxn Sheet ( Startups )",
+  "name": "Cashcow",
+  "ncontacts": 1,
+  "phone": false,
+  "email": true,
+  "li": false
+ },
+ {
+  "who": "Lamiya",
+  "stage": "Cold Call",
+  "src": "Tracxn Sheet ( Startups )",
+  "name": "Celebyte",
+  "ncontacts": 1,
+  "phone": false,
+  "email": true,
+  "li": true
+ },
+ {
+  "who": "Yuktha",
+  "stage": "Cold Call",
+  "src": "Tracxn Sheet ( Startups )",
+  "name": "Telyport",
+  "ncontacts": 1,
+  "phone": false,
+  "email": true,
+  "li": true
+ },
+ {
+  "who": "Yuktha",
+  "stage": "Cold Call",
+  "src": "Tracxn Sheet ( Startups )",
+  "name": "EdgeGrid",
+  "ncontacts": 1,
+  "phone": false,
+  "email": true,
+  "li": true
+ },
+ {
+  "who": "Yuktha",
+  "stage": "Cold Call",
+  "src": "Tracxn Sheet ( Startups )",
+  "name": "Finbingo",
+  "ncontacts": 1,
+  "phone": false,
+  "email": true,
+  "li": true
+ },
+ {
+  "who": "Yuktha",
+  "stage": "Cold Call",
+  "src": "Tracxn Sheet ( Startups )",
+  "name": "Doosra",
+  "ncontacts": 1,
+  "phone": false,
+  "email": true,
+  "li": false
+ },
+ {
+  "who": "Yuktha",
+  "stage": "Interested",
+  "src": "Outflo Outreach ( Startups )",
+  "name": "Flashpoint AI",
+  "ncontacts": 1,
+  "phone": false,
+  "email": false,
+  "li": true
+ },
+ {
+  "who": "Yuktha",
+  "stage": "Interested",
+  "src": "Outflo Outreach ( Startups )",
+  "name": "Phyt.Health",
+  "ncontacts": 1,
+  "phone": false,
+  "email": false,
+  "li": true
+ },
+ {
+  "who": "Yuktha",
+  "stage": "Interested",
+  "src": "Outflo Outreach ( Startups )",
+  "name": "Userology",
+  "ncontacts": 1,
+  "phone": false,
+  "email": true,
+  "li": true
+ }
+]

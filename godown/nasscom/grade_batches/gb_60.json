@@ -1,0 +1,854 @@
+[
+ {
+  "name": "Bookingjini Labs.Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "bookingjini.com",
+  "website": "https://bookingjini.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "DQ_template": 4
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our Products Booking Engine Channel Manager PMS CRM Intelligent Booking Engine Maximize direct bookings on your website to lower guest acquisition expenses and elevate profitability."
+   ],
+   "DQ_template": [
+    "Facebook Linkedin Youtube X-twitter Instagram Legal Privacy Policy Terms & Conditions Refund Policy Cancellation Policy Company About us Leadership Investors Advisors Contact Us +91-8448448717 Products​ Booking Engine Channel Manager CRS CRM Legal Rate Shopper Jini Assist Website Builder PMS © 2025 Bookingjini ."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Braahmam Net Solutions Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "braahmam.net",
+  "website": "https://www.braahmam.net/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ublishing Media Market Research Technical Documentation All Our Work  Case Studies Language List Clients Testimonials Braahmam@Work About Us  Compan"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 5637,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Campus Credential LLP",
+  "city": "Thane",
+  "domain": "campuscredentials.com",
+  "website": "https://campuscredentials.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 771,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 7
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Complete Aptitude Preparation ₹ 1599 Begin your placement journey with complete aptitude prep!",
+    "How can Campus Credentials help me in placement preparation?",
+    "We provide Comprehensive Campus Recruitment Training to allow students to crack any Placement Interview and get their Dream Job.",
+    "At Campus Credentials, your success is our mission, and we take pride in helping you unlock your potential and secure placements that launch fulfilling careers."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Caresoft Inc. India",
+  "city": "Bhopal",
+  "domain": "caresoftinc.com",
+  "website": "https://www.caresoftinc.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 4,
+   "enterprise": 2,
+   "cicd": 1,
+   "sdlc": 3
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "Dream-Theme — truly premium WordPress themes Our Story Services Portfolio Webinars White papers Blog Privacy Policy Contact us Copyright © 2026."
+   ],
+   "enterprise": [
+    "News Read article Oct 15 2024 Caresoft delivers a state-of-the-art Budgeting Solution for one of our valued Fortune 500 clients in the hospitality industry!",
+    "He has spearheaded multi-million-dollar transformation projects for Fortune 500 companies like JP Morgan, Bloomberg, and AT&T."
+   ],
+   "cicd": [
+    "Strong Talent Pipeline Core Values A Commitment to quality and Curiosity A relentless research and development mentality."
+   ],
+   "sdlc": [
+    "Culture Agile and Adaptable Innovative and Entrepreneurial Healthy work-life balance Socially Responsible We care!",
+    "Agile We thrive in a dynamic and rapidly changing environment.",
+    "This Policy sets out the standards of ethical business conduct that govern how we work with clients, technology partners, suppliers, and government entities worldwide — including our conduct as a member of technology partner programs such as the Oracle PartnerNetwork."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Celebal Technologies Private Limited",
+  "city": "Jaipur",
+  "domain": "celebaltech.com",
+  "website": "https://www.celebaltech.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 3567,
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2017-01-15",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 22470,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "cicd": 6
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Read more + Banking, Financial Services, and Insurance The BFSI sector faces regulatory pressures and the need for strong risk management.",
+    "Read more + Health & Life Sciences The healthcare and life sciences industry are driven by the need for improved patient outcomes through data-driven insights.",
+    "Data Solutions Built for Every Industry, Across the Board Financial Services Manufacturing Retail Healthcare Energy & Utilities Financial Services Manufacturing Retail Healthcare Energy & Utilities Real-time identification of data irregularities in financial transactions, enhancing fraud prevention & risk management.",
+    "Enterprises will be able to safely automate complex workflows in areas like financial services, manufacturing, healthcare, energy, supply chain, and customer operations."
+   ],
+   "cicd": [
+    "You'll work closely with clients and internal engineering teams to architect data pipelines, transformation frameworks, and governance models that ingest and process petabyte-scale data from diverse batch and streaming sources into cloud data lakes.",
+    "Streaming data pipelines Medallion Architecture Databricks Autoloader Data Architect Work from Office 10+ years Jaipur, Noida, Gurgaon, Bengaluru, Pune, Hyderabad Celebal Technologies is a leading Solution Service company that provide Services the field of Data Science, Big Data, Enterprise Cloud & Automation.",
+    "Intelligent automation of data pipelines for regulatory compliance, ensuring streamlined reporting and audit trails.",
+    "AI-powered forecasting of pipeline performance, optimizing data flow for high-frequency trading and risk assessment."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Centroxy Solution Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "centroxy.com",
+  "website": "https://centroxy.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2015-11-12",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 16488,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "enterprise": 8
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Here’s how we help improve your efficiency: Optimized Workflows We streamline your processes by identifying inefficiencies and implementing smart automation, enabling your teams to concentrate on driving innovation and achieving strategic goals."
+   ],
+   "enterprise": [
+    "Telecom Healthcare Banking & Insurance Electric Utility Aviation Others View All Industries What clients say about our Company It’s been a pleasure working with Centroxy.",
+    "Services Identity and Access Management Managed Services Data Management Observability Industry Focus Aviation Telecom Healthcare Banks & Finance Electric Utility Government University Aviation Telecom Healthcare Banks & Finance Electric Utility Government University View all Careers",
+    "Competitive Insurance Including vision and dental, disability, and life insurance options.",
+    "Services Identity and Access Management Managed Services Data Management Observability Industry Focus Aviation Telecom Healthcare Banks & Finance Electric Utility Government University Aviation Telecom Healthcare Banks & Finance Electric Utility Government University View all Blog"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Chella Software Pvt Ltd",
+  "city": "Madurai",
+  "domain": "chelsoft.com",
+  "website": "https://www.chelsoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "payment switch or a corporate managing their FX risk using our products, we employ a tailored approach to solve problems unique to each customer. BEE"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2336,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "KEY BENEFITS: Chella Horizen is a solution that addresses the unique needs of large institutional investors like central banks, sovereign funds, pension funds, family offices and insurance firms."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Concerto Software & Systems Private Limited",
+  "city": "Thane",
+  "domain": "concertosoft.com",
+  "website": "https://www.concertosoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Concerto | Welcome Menu Home About Us Professional Services Software solutions Hosted Platform Channel Partnership Careers Top Shaping the Future of P"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Dedicated resource pool of expert testers Benchmarked testing practices and tools Portfolio Management We offer the best of On-premise and Off-shore services capabilities and our diligent Off-shore help desk services to fix production issues ensure huge cost savings."
+   ],
+   "enterprise": [
+    "Core Banking Silvia CBS - The trusted Core Banking solution offered by Concerto for a seamless Banking experience.",
+    "Digital Channels We enable banks and PSPs to create a digital banking experience for the customer without any barriers of time, space or location."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Cozentus Technologies Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "cozentus.com",
+  "website": "http://www.cozentus.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 9840,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 6,
+   "sdlc": 1,
+   "enterprise": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "Robok - AI Agency & Technology HTML Template --> Supply Chain Transformation Using Custom Applications",
+    "By continuing to use this website, you consent to the use of cookies Privacy Policy ACCEPT DECLINE ↑ Robok - AI Agency & Technology HTML Template --> You are using an outdated browser.",
+    "By continuing to use this website, you consent to the use of cookies Privacy Policy ACCEPT DECLINE ↑ Robok - AI Agency & Technology HTML Template --> About Cozentus Inc."
+   ],
+   "sdlc": [
+    "Through our in-house innovation hub and adaptable engagement models, we deliver with the speed, quality and precision that complex logistics demands."
+   ],
+   "enterprise": [
+    "--> --> Devesh Sinha Founder and CEO Shailendra brings 25+ years of experience across manufacturing, telecom, healthcare, supply chain, and logistics."
+   ],
+   "senior_roles": [
+    "--> --> Rajesh Sharma Executive Vice President - Operations As a Senior Technical Architect, Ranjeet specializes in enterprise application architecture, cloud-native development, and modern engineering."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Credence Redefined Services Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "justverified.in",
+  "website": "https://justverified.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ts Private Limited and was pretty astounded to see the huge portfolio they are holding up & the variety of vertices they operate in. When Mr.Sanjeeb s"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "CuttingEj Solutions India Private Limited",
+  "city": "Nagpur",
+  "domain": "cuttingej.com",
+  "website": "https://cuttingej.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2018-10-27",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 3,
+   "qa": 3,
+   "owns_product": 1,
+   "cicd": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Implement Agile cloud applications, services and environments built for growth and profitability Fortify Integrate, and automate next generation cyber/cloud security.",
+    "Flexible engagement models individuals, dedicated pods, or full project squads for short/long term.",
+    "Our Process Subscribe to upcoming articles and news resources."
+   ],
+   "qa": [
+    "Protect now, shift up, shift left.",
+    "Operational Governance Structured delivery model with team leads, QA analysts, and operations managers.",
+    "Proof secured Cloud Platform We enable you to shift left and shift up at every step of your cloud journey and protect you now with future-proof secured cloud platform."
+   ],
+   "owns_product": [
+    "Optimize Run modern cloud infrastructure to exceed business goals Products we offer Empowering the future of digital enterprises, our product suite brings together innovation, intelligence, and simplicity."
+   ],
+   "cicd": [
+    "Automated CI/CD and security pipelines"
+   ],
+   "senior_roles": [
+    "SRE-driven operational reliability"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Cyber Square AI and Robotics Private Limited",
+  "city": "Kozhikode",
+  "domain": "cybersquare.org",
+  "website": "https://cybersquare.org/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "re for School Blog Projects Logout Lucas Noah lucasnoah@test.net Home Courses --> Cyber Square for Professional Cyber Square for School Blog Projects"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 18035,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 6
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Quick links Home Cyber Square Pro AI & Robotics for Schools Coding for Kids Contact Us Get Support Legal Terms & Conditions Privacy Policy Cookie Policy Stay Updated Subscribe to our newsletter to stay updated about our products and services Subscribe Please enter a valid email address."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Cyberion Software Solutions Private Limited",
+  "city": "Kochi",
+  "domain": "cyberionsoft.com",
+  "website": "https://www.cyberionsoft.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2025-01-09",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Explore More Contact Us Cross-Industry Impact with Real-World Results --> Cross-Industry Impact with Real-World Results From healthcare to manufacturing, and beyond – we tailor our solutions to drive tangible outcomes across industries.",
+    "AI-driven analytics are improving patient outcomes by up to 40% in healthcare, while predictive maintenance algorithms are cutting equipment failures by 70% in manufacturing.",
+    "Solutions Specialized Enterprise Suite Blockchain Extended Reality (XR) Artificial Intelligence (AI): Site Links Home About Us Solutions Industries Contact Our Industries Healthcare: Education: Manufacturing & Industry 4.0: Financial Services: And More… Copyright 2025.",
+    "Cross-Domain Adaptability: Cyberion’s experience spans healthcare, education, manufacturing, and more."
+   ],
+   "sdlc": [
+    "We pride ourselves on a formal yet agile approach – maintaining the highest standards of quality and security expected by enterprises, while constantly pushing the envelope of what’s possible.",
+    "Our methodologies blend agile development with rigorous project management to ensure timely delivery without compromising quality."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Datopic Technologies Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "datopic.com",
+  "website": "https://www.datopic.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "Datopic - Data Science & Software Development Company --> Request a callback Submit Thank You! We will contact you"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2644,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 6,
+   "qa": 1,
+   "owns_product": 3,
+   "sdlc": 3,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Our solutions encompass everything from product engineering to intelligent data services, ensuring that we meet the unique needs of each client.",
+    "Product Engineering Crafting innovative, scalable, and user-centric software products tailored to drive your business forward.",
+    "Privacy Policy Follow us Product Engineering Services - Innovation & Development",
+    "Our expertise spans product engineering, cybersecurity, data services, and more, ensuring you stay ahead in a rapidly evolving digital landscape."
+   ],
+   "qa": [
+    "Our commitment to continuous learning ensures we stay ahead of industry trends, delivering exceptional value to our clients through quality engineering ."
+   ],
+   "owns_product": [
+    "Product Engineering Services Transform your ideas into reality with our product engineering services Our Product Engineering Services are designed to turn innovative concepts into market-ready solutions.",
+    "We leverage cutting-edge technologies and agile methodologies to ensure your product not only meets but exceeds industry standards.",
+    "End-to-End Quality Analysis Comprehensive end-to-end quality analysis services Our End-to-End Quality Analysis Services ensure that your products meet the highest standards."
+   ],
+   "sdlc": [
+    "We leverage cutting-edge technologies and agile methodologies to ensure your product not only meets but exceeds industry standards.",
+    "We provide tailored solutions that ensure your organization remains competitive and agile in a rapidly evolving digital landscape.",
+    "This enables you to make informed decisions about which technologies to adopt to streamline your processes, improve efficiency, and drive growth."
+   ],
+   "enterprise": [
+    "Blockchain technology offers immersive advancement and has applications in fields such as gaming, banking, insurance, education, and healthcare."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "delaStream Solutions Private Limited",
+  "city": "Nagpur",
+  "domain": "delastream.com",
+  "website": "http://www.delastream.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Please continue your patronage towards 'Sony' and provide us your feedback on making our products and services better and better."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Dextrasys Technologies Private Limited",
+  "city": "Trichy",
+  "domain": "helloleads.io",
+  "website": "https://www.helloleads.io",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "oud sync API connect to other systems SMTP integration Web, Android and IOS Insights Dashboards Analytics and Insights Sales team performance reports"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 7957,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 3,
+   "owns_product": 12,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Why HelloLeads CRM is Perfect for Your Business Unlike complicated CRMs that overwhelm your team, HelloLeads focuses on simplicity and results Setup in Minutes Get started instantly.",
+    "🚀 Manage leads across projects with clarity (up to 25 lists) 🚀 Handle thousands of tasks per user (up to 5,000 To-dos) 🚀 Track more details with flexible data fields (up to 25 fields) 🚀 Send unlimited professional quotes and invoices 🚀 Advanced pipeline customization.",
+    "Traditional CRM platforms helped businesses organize contacts, track leads, manage sales pipelines, Read more… By Sathya , 1 month 1 month ago Product Mobile CRM: The New Growth Imperative Introduction The modern workplace extends far beyond the office."
+   ],
+   "owns_product": [
+    "HelloPage Create awesome mobile landing pages for your products and services, in a few clicks.",
+    "HelloLeads is creating a global SaaS product all the way from Trichy, India.",
+    "To find prospects who are interested in your product, you need to create Ideal Customer Profile (ICP) that helps you to distinguish which person / company is most likely to do business with you for long.",
+    "You can further initiate a phone call or organize for a face-face meeting with the prospect to understand if your product / service can solve their challenges."
+   ],
+   "enterprise": [
+    "Brent Davis, Healthcare Business, San Francisco Need help?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Digital Core Technologies Private Limited",
+  "city": "Kochi",
+  "domain": "dicortech.com",
+  "website": "https://dicortech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "dded Software Firmware and BSP development, Embedded Linux, Android, Windows, Device Drivers, Protocol Stack Porting and Development, Performance Opti"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Digiveda Innovations LLP",
+  "city": "Gautam Buddha Nagar",
+  "domain": "digiveda.io",
+  "website": "https://digiveda.io/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Digiveda – Transforming Businesses with AI & Cloud Home Our Products New IT Service Management (ITSM) E-Invoicing Solution Employee Performance Re"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 8429,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Strategy Process Our process is simple: understand your goals, design the right solution, and deliver impact.",
+    "Video See how we work with touch of experience Pricing We’re ready to share our advice and experience."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Digizra Technologies Private Limited",
+  "city": "Kochi",
+  "domain": "digizra.com",
+  "website": "http://digizra.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Primary foci are on tools based on machine learning/ other data science capabilities and building accelerators/ differentiators."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Drubus Technologies Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "drubus.com",
+  "website": "https://www.drubus.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "rsity (PGDM-Tech.Mgmt), he loves designing and implementing Software Solutions and mentoring people and business in experiencing benefits of IT. Our V"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ }
+]

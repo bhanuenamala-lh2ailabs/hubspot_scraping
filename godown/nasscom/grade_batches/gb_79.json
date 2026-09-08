@@ -1,0 +1,1093 @@
+[
+ {
+  "name": "XTGlobal Infotech Limited",
+  "city": "Hyderabad",
+  "domain": "xtglobal.com",
+  "website": "https://xtglobal.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 1036,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ility RAD with Mendix Mobile Applications Quality Assurance Product Engineering Enterprise Architecture / Platform Customer App / Consumer Solutions N"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [
+    "https://xtglobal.zohorecruit.in/"
+   ],
+   "jd_chars": 891091,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "prod_eng": 1,
+   "sdlc": 1,
+   "cicd": 5,
+   "enterprise": 6,
+   "qa": 2,
+   "DQ_bpo": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Re-program your products and services into digitalized, customer-centric offerings to meet the future head-on."
+   ],
+   "prod_eng": [
+    "Know More > Product Engineering Reaching a Higher Dimension of Transformation."
+   ],
+   "sdlc": [
+    "All our processes are 100% compliant with industry standard regulations."
+   ],
+   "cicd": [
+    "Operational Efficiency – Optimized pipelines that reduce processing time and costs.",
+    "Data Pipeline Development: Build robust ETL/ELT pipelines to ingest, cleanse, and transform data for analytics and AI workloads.",
+    "AI & Analytics Enablement: Engineer data pipelines to support Power BI, Generative AI, LLM integration, and predictive modeling.",
+    "AI/ML Enablement Prepare data pipelines that fuel machine learning and enterprise copilots."
+   ],
+   "enterprise": [
+    "Proven Industry Experience – Delivered data engineering for finance, healthcare, retail, and manufacturing.",
+    "Meet Our Leader DIANE GASPARRO Vice President - Sales Diane joined XTGlobal in August of 2006, and with over 30 years of proven sales and sales management experience, she and her team are responsible for securing and maintaining contracted relationships with multiple Fortune 500 accounts.",
+    "Prior to joining XTGlobal, Diane had a successful career in a Fortune 500 environment at Pitney Bowes, providing her with understanding and proficiency in solution selling that has brought her success consistently throughout her career.",
+    "With deep expertise in IT strategy, enterprise applications, and large-scale program delivery, Bharat has successfully guided Fortune 500 and mid-market clients through ERP transformations, cloud migrations, and next-generation AI initiatives."
+   ],
+   "qa": [
+    "Our Focus Core Skills Measurable Outcomes Quality Engineering Customer-centric Approach Innovation Continuous Improvement Our Journey so Far XTGlobal has been a proven vendor in IT, Outsourcing and Consulting Services for the last 20 years.",
+    "His current focus at XTGlobal is on IT services that includes Application Development and QA."
+   ],
+   "DQ_bpo": [
+    "Meet Our Leader RAVINDRA DUNNA Director & General Manager - IT & BPO Ravindra heads the IT & BPO offshore teams of Xenosoft Technologies India Pvt.",
+    "He also manages the IT infrastructure team and document management services offered to around 25 customers by BPO operation teams."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -4
+ },
+ {
+  "name": "CSM Technologies Limited",
+  "city": "Bhubaneswar",
+  "domain": "csm.tech",
+  "website": "https://www.csm.tech",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "ng Digital Transformation projects in various ... Read More Application Development Data Analytics User Experience Integrated Command and Control Cent"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 153407,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 13,
+   "cicd": 6,
+   "senior_roles": 1,
+   "qa": 2,
+   "DQ_bpo": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Read More Healthcare CSM Tech connects India’s healthcare ecosystem from primary care to hospitals, enabling smart, efficient and patient focused service delivery.",
+    "Read More Scheme Monitoring System Provide seamless healthcare benefits to citizens.",
+    "We provide technology solutions across sectors such as mining and allied services, government & public services, agriculture and allied services, industry and trade facilitation, education, healthcare and tourism."
+   ],
+   "cicd": [
+    "Read More CSM AI Foundry Accelerate AI development with tools for chatbots, pipelines, model training, monitoring, and governance."
+   ],
+   "senior_roles": [
+    "S/He would be expected to create machine learning models and retraining systems Bhubaneswar 2 - 4 Years Qualification : BE / B.Tech / MCA Apply AI/ML Tech Lead Qualified candidates having relevant experience in ML, NLP or Deep Learning can apply."
+   ],
+   "qa": [
+    "Offering - UI/UX Services Read More No Document Found --> Test Automation Offering - Engineering, Application & Transformation CSM Tech redefines testing with precision Test Automation Services.",
+    "Offering - Test Automation Read More No Document Found --> Cloud Consulting & DevOps Offering - Engineering, Application & Transformation CSM Tech: Your trusted partner for Cloud Consulting and DevOps."
+   ],
+   "DQ_bpo": [
+    "Offering - Integrations - APIs/ ESBs Read More No Document Found --> Back Office Automation Offering - Engineering, Application & Transformation CSM Tech optimizes business operations with Back Office Automation.",
+    "Offering - Back Office Automation Read More No Document Found --> No more offering to load Load More --> Load More Success Stories View All Comprehensive End-to-end Data Encryption Platform A Comprehensive End to end Data Encryption Platform to safeguard your data, secure your ..."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -4
+ },
+ {
+  "name": "Eminence Internet Technology Private Limited",
+  "city": "Ludhiana",
+  "domain": "eminencetechnology.com",
+  "website": "https://eminencetechnology.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 132205,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 15,
+   "enterprise": 18,
+   "prod_eng": 6,
+   "cicd": 2,
+   "DQ_agency": 3,
+   "qa": 8,
+   "DQ_support": 1,
+   "owns_product": 5,
+   "sdlc": 12,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Cloud Engineering Modern, reliable cloud solution architecture.",
+    "Cloud Engineering AWS Build smarter with AWS Microsoft Azure Cloud Empower innovation with Azure Google Cloud Accelerate growth with GCP Eminence Monthly Maintenance Program Modern, reliable cloud solution architecture.",
+    "Marketing Integration Services Modern, reliable cloud solution architecture."
+   ],
+   "enterprise": [
+    "Healthcare AI diagnostics blockchain records.",
+    "Industry: Healthcare / Wellness & Rehabilitation 95% Answers calls in three rings, 24/7.",
+    "View full case study Apotheka reimagines healthcare with blockchain-secured medical records.",
+    "Patients and providers gain instant, tamper-proof access to vital data, ensuring privacy, seamless sharing, and trust in healthcare information management."
+   ],
+   "prod_eng": [
+    "An AI development company with 17+ Years of product engineering – enterprise software without the enterprise wait.",
+    "Get Your Project Plan Ask AI about Eminence × ChatGPT Gemini Perplexity Claude Grok Eminence AI-native product engineering for startups and growing businesses.",
+    "Go to Homepage Ask AI about Eminence × ChatGPT Gemini Perplexity Claude Grok Eminence AI-native product engineering for startups and growing businesses.",
+    "Let's discuss: info@eminencetechnology.com Schedule a Free Consultation Ask AI about Eminence × ChatGPT Gemini Perplexity Claude Grok Eminence AI-native product engineering for startups and growing businesses."
+   ],
+   "cicd": [
+    "Demand & Growth Marketing Marketing That Brings Buyers, Not Just Traffic We run SEO, content, social, performance ads, email, and full-funnel growth systems built to fill the pipeline, not the vanity dashboard.",
+    "Cloud & Infrastructure Modernization Cloud That Doesn't Panic Under Pressure We set up cloud, DevOps, CI/CD, monitoring, infrastructure, deployment pipelines, and performance systems."
+   ],
+   "DQ_agency": [
+    "Demand & Growth Marketing Marketing That Brings Buyers, Not Just Traffic We run SEO, content, social, performance ads, email, and full-funnel growth systems built to fill the pipeline, not the vanity dashboard.",
+    "SEO used to mean ranking on Google.",
+    "We built Entiva Engine to read your entire growth surface website, campaigns, audiences, funnels, paid media, email, CRM, creatives, and fuse SEO, GEO, AEO, AIO, and SXO into one system tuned to decide faster, scale leaner, and drive CPA down and keep it there."
+   ],
+   "qa": [
+    "Quality Engineering QA That Enters Before The Panic Starts We use human QA plus AI-assisted testing to catch bugs, weak flows, broken logic, and release risks earlier.",
+    "At Eminence, senior engineers, architects, and QA leads work alongside AI-supported workflows from discovery to deployment, so projects move faster, stay more visible, and maintain stronger quality control.",
+    "AI helps with documentation, testing support, delivery visibility, and repetitive tasks, while human experts own architecture, code quality, security, QA sign-off, and release decisions.",
+    "Some clients need end-to-end product delivery, while others need support across AI integration, QA, automation, DevOps, or scaling an existing platform."
+   ],
+   "DQ_support": [
+    "The best IT support is the kind that fixes problems before everyone starts forwarding screenshots."
+   ],
+   "owns_product": [
+    "We’ll show you four products we funded, built from zero, and still run using the exact FDE + Pod model we’d put on your project.",
+    "Faster Time to Market We optimize your product cycle so your cloud application development hits the market fast, responding quickly to trends and customer demands.",
+    "Gradual enhancements let your product develop with your business.",
+    "Periodic monitoring and proactive enhancements keep your product in sync with changing business objectives."
+   ],
+   "sdlc": [
+    "The team uses agile methodology for project management, using Rallydev, Slack, and more for communication.",
+    "View Case Study Build, Scale, and Succeed with Cloud Expertise Begin Your Project Our Solid Cloud Engineering Process Our process keeps your teams on track and projects on schedule, from conception to launch and beyond.",
+    "03 Develop & Integrate Agile sprints make your cloud app development a reality, integrating APIs and services.",
+    "How We Work We prefer to keep it simple, collaborative, and client-centered."
+   ],
+   "compliance": [
+    "We Build Cloud Solutions that Drive Growth Share Your Idea Industries We Serve with Cloud Engineering Services Healthcare & Wellness HIPAA-compliant portals, telemedicine applications, and patient management solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -4
+ },
+ {
+  "name": "Go Brilliant Technologies Private Limited",
+  "city": "Chandigarh(CH)",
+  "domain": "gobrillianttech.com",
+  "website": "https://www.gobrillianttech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 4,
+   "sdlc": 6,
+   "DQ_agency": 2,
+   "qa": 2,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "LEARN MORE 02 --> Product Engineering We are well-versed in UX Design, Agile Development and DevOps and deliver custom products tailor-made to your needs.",
+    "Read More latest case studies Introduce Our Projects Our experience in Product Engineering, Mobile Apps, IoT and Digital Marketing covers all the software needs of our clients.",
+    "Contact Us Product Engineering – Gobrilliant We help you build great products by integrating years of experience & an agile mindset.",
+    "Our Digital Product Engineering services employ the highest standards of architectural design, development and customization."
+   ],
+   "sdlc": [
+    "LEARN MORE 02 --> Product Engineering We are well-versed in UX Design, Agile Development and DevOps and deliver custom products tailor-made to your needs.",
+    "Contact Us Product Engineering – Gobrilliant We help you build great products by integrating years of experience & an agile mindset.",
+    "We are well-versed in the realm of UX Design, Agile Development and DevOps.",
+    "Our process helps you create state-of-the-art products while maximizing productivity, developing robust product lifecycles, reducing time-to-market and enhancing quality."
+   ],
+   "DQ_agency": [
+    "LEARN MORE Digital Marketing We take care of all your digital marketing needs, including Social Media Marketing, Search Engine Optimization, Ad Words and more LEARN MORE Mobile App Development Mobile apps account for over half of all time spent by users on digital media.",
+    "Read More latest case studies Introduce Our Projects Our experience in Product Engineering, Mobile Apps, IoT and Digital Marketing covers all the software needs of our clients."
+   ],
+   "qa": [
+    "As a company constantly seeking top-notch QA testers, project managers, and software developers, we were thrilled to partner Read More...",
+    "Nitin Nanda Founder & CEO Jaspreet Singh Tech Lead Kamaldeep Kaur QA Manager Maninder Pal Singh Technical Project Manager Megha Thakur Human Resource Manager Rohit Rana Sr."
+   ],
+   "senior_roles": [
+    "Nitin Nanda Founder & CEO Jaspreet Singh Tech Lead Kamaldeep Kaur QA Manager Maninder Pal Singh Technical Project Manager Megha Thakur Human Resource Manager Rohit Rana Sr."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -4
+ },
+ {
+  "name": "Infocreatives Services Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "infocreatives.com",
+  "website": "https://infocreatives.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 1830,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 2,
+   "DQ_template": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "GET STARTED NOW Web Design Web Hosting Online Marketing SEO Optimization easy Explore all your options for getting your business online and see what works best for you way to success GET A FREE WEBSITE BUILDER WHEN YOU ORDER CLOUD HOSTING Our new Cloud solution is powerful, affordable, and easier than ever.",
+    "LEARN MORE Easy way to Success We are building bridges in seo technology in order to connect the client's goal to reality."
+   ],
+   "DQ_template": [
+    "GET STARTED NOW Web Design Web Hosting Online Marketing SEO Optimization easy Explore all your options for getting your business online and see what works best for you way to success GET A FREE WEBSITE BUILDER WHEN YOU ORDER CLOUD HOSTING Our new Cloud solution is powerful, affordable, and easier than ever."
+   ],
+   "sdlc": [
+    "GET STARTED NOW GET A DOMAIN NAME With FREE Email, DNS, Theft Protection and lots more Search Domain .com $9.95 .net $9.95 .biz $8.95 .me $7.95 Our Process Planning Understanding what you want out of your site and how do you plant to implement it."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -4
+ },
+ {
+  "name": "Settlezy ADR Institute Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "settlezy.com",
+  "website": "https://settlezy.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2024-11-19",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 2,
+   "enterprise": 5,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Comprehensive searches help identify similar marks, reduce examination objections and opposition risks, and protect businesses from costly rebranding, infringement claims, and trademark disputes.",
+    "This guide explains how clearance searches identify conflicting trademarks, reduce objections and oppositions, prevent costly rebranding, and help businesses secure stronger trademark protection from the outset."
+   ],
+   "enterprise": [
+    "The BIS registration process, applicable certification schemes, documentation requirements, licence validity, renewal obligations, and compliance requirements for manufacturers and importers of regulated products are explained in detail.",
+    "This guide explains the different BIS certification schemes, eligibility criteria, application procedure, documentation requirements, validity, renewal, and the legal obligations applicable to manufacturers, importers, and businesses dealing in regulated products in India.",
+    "It breaks down realistic recovery odds based on how quickly you act, explains RBI's fraud reversal rules, and outlines the escalation path when banks stall — from the Nodal Officer to the RBI Banking Ombudsman and Consumer Court.",
+    "The article also explains what to do if your bank refuses to reverse a fraudulent charge, including escalation to the RBI Banking Ombudsman and Consumer Court, and answers common questions on OTP-sharing liability and compensation claims."
+   ],
+   "cicd": [
+    "Read More → Legal Steps to Take After Being Scammed Online in India Being scammed online in India is overwhelming, but the law offers clear, well-defined steps to recover your money and prosecute the offender.",
+    "Paras Singh AI Engineer Paras Singh is a Backend Engineer with 3+ years' experience in Python, Django, FastAPI, Redis, Docker, AI integration and cloud technologies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -4
+ },
+ {
+  "name": "SNVA Veranda Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "snvaveranda.com",
+  "website": "https://www.snvaveranda.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "grams — designed for tomorrow’s professionals. Our expanded portfolio includes leading institutions and brands such as Careerera, EuroAmerican Educati"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 6300,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "DQ_agency": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Skill School An upskilling ecosystem with a mission to make skill- based training in domains like banking & finance, hospitality, IT, digital marketing, aviation, language skills etc., affordable and accessible to Indian youth, bridging the gap between education and job-market demands."
+   ],
+   "DQ_agency": [
+    "Skill School An upskilling ecosystem with a mission to make skill- based training in domains like banking & finance, hospitality, IT, digital marketing, aviation, language skills etc., affordable and accessible to Indian youth, bridging the gap between education and job-market demands.",
+    "Its comprehensive portfolio includes courses in data science, cyber security, artificial intelligence, software development, project management, digital marketing, and business management, among others."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -4
+ },
+ {
+  "name": "Spawoz Technologies Private Limited",
+  "city": "Kochi",
+  "domain": "spawoz.com",
+  "website": "https://www.spawoz.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Top notch Software development agency | Leading CMS services Services Industries Our Works Blog Cont"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 4231,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 2,
+   "enterprise": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "We offer a wide range of services, including web design, web development, mobile development, digital marketing, e-commerce solutions, and branding."
+   ],
+   "enterprise": [
+    "We're a full-fledged digital consultancy and Leading software development company in India that provides cutting-edge engineering results, helping Fortune 500+ companies and enterprise guests untangle complex issues that always crop up during their digital elaboration time."
+   ],
+   "sdlc": [
+    "Read more 16 May 2023 Agile Methodology: Unleashing the..."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -4
+ },
+ {
+  "name": "Tech Aviators (OPC) Private Limited",
+  "city": "Jind",
+  "domain": "techaviators.in",
+  "website": "https://techaviators.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "--> Workshop --> Webinar --> Services Website Designing Web Application Development Digital Marketing Bulk SMS Products School ERP University Manageme"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "DQ_agency": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "We have worked with great companies in the biggest industries such as travel, healthcare, education, retail etc."
+   ],
+   "DQ_agency": [
+    "--> View Details Digital Marketing Having simply an website does not provide you the competitive edge needed to grow your business online.",
+    "We are providing training of all IT Course such as Ethical Hacking, CISCO Certified CCNA, Python, Django, BCA, BSC IT, B.Tech(CS), Core Java, Website Designing, Web Development, Digital Marketing etc."
+   ],
+   "DQ_support": [
+    "He has completed Honors in Hardware from IIHT."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": -4
+ },
+ {
+  "name": "Technology Mindz (A Unit of Prachit Technology Services Private Limited)",
+  "city": "Jaipur",
+  "domain": "technologymindz.com",
+  "website": "https://technologymindz.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "A Services Staff Augmentation Salesforce Staff Augmentation Java Staff Augmentation DevOps Staff Augmentation Technology Expertise Staff Augmentation"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 36483,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "sdlc": 10,
+   "senior_roles": 1,
+   "DQ_agency": 4,
+   "cicd": 2,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "With over 13 years of domain experience across financial services, real estate, healthcare, and advisory, we design AI solutions that align with the complexity and compliance demands of your industry.",
+    "Learn more Healthcare Learn more Healthcare We assist you in accelerating acquisition, registration, service, and innovation.",
+    "Healthcare Healthcare We assist you in accelerating acquisition, registration, service, and innovation."
+   ],
+   "sdlc": [
+    "A distinctly different Technology partner Deep domain expertise, a balanced onshore-offshore delivery model, on-time execution, and flexible engagement models set us apart as a distinctly different IT outsourcing partner.",
+    "Assures quantitative business outcome Our global team of designers, architects, and consultants — powered by agile methodology — drives innovation and collaboration that delivers measurable business outcomes.",
+    "Optimization potential We fine-tune your processes and measure their efficiency using advanced technologies that drive business growth.",
+    "Risk reduction We help you to become agile and stable by increasing data quality, adoption, release deployments, change management, etc."
+   ],
+   "senior_roles": [
+    "Apply Now Salesforce tech lead We are looking for a skilled Salesforce technical lead who will oversee all technical aspects of our Salesforce projects."
+   ],
+   "DQ_agency": [
+    "Apply Now Digital marketing executive We are looking for an experienced digital marketing executive who possesses a deep understanding of digital marketing concepts and best practices.",
+    "As the ideal candidate, you will be responsible for developing, implementing, and managing digital marketing campaigns that align with our overall company goals and objectives.",
+    "Apply Now Digital marketing manager We are looking for a dynamic digital marketing manager to oversee all aspects of our marketing operations.",
+    "In this role, you will be responsible for planning, implementing, and monitoring our digital marketing campaigns across all digital networks."
+   ],
+   "cicd": [
+    "Metrics Every Sales Leader Should Track July 17, 2026 rashmisharma13c9ca83b3 Your sales team is constantly working to build pipeline - researching prospects, sending outreach emails, managing follow-ups, and keeping CRM records updated.",
+    "Yet, despite these efforts, many organizations still struggle to achieve the pipeline growth they expect."
+   ],
+   "compliance": [
+    "Compliance Assurance Compliance Assurance Stay ahead of regulations such as GDPR, HIPAA, and CCPA with: Audit Trails: Track who accessed or modified data and when.",
+    "Regulatory Compliance Stay ahead of evolving regulations like GDPR, HIPAA, and CCPA with tailored solutions that ensure your Salesforce environment is always compliant."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -4
+ },
+ {
+  "name": "KLoc Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "kloctechnologies.com",
+  "website": "https://kloctechnologies.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "p p s T e c h n o l o g y } Made simple Let's Connect View Portfolio Crossbeats EINA AHLUWALIA Tea Monk { P a s s i o n D i l i g e n c e R e s i l i"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 6491,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 2,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Shopify Experts, Website Development & SEO Agency Book a discovery call Home Services Shopify Agentic Commerce WordPress Staff Augmentation Portfolio Case Studies Approach About Us Contact Us Your browser does not support the video tag."
+   ],
+   "DQ_template": [
+    "Our websites go beyond cookie-cutter templates to become unique works of art."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -4
+ },
+ {
+  "name": "TSL Consulting Private Limited",
+  "city": "Pune",
+  "domain": "tslconsulting.in",
+  "website": "https://tslconsulting.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Market strategic planning and execution support with a wide portfolio of capabilities. GET A FREE QUOTE TSL’s experience in Asia over the past 15+ yea"
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 92350,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 2,
+   "cicd": 2,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Outbound Marketing Data & Profiling Inbound Marketing Channel Marketing Digital Marketing OUTBOUND MARKETING DATA & PROFILING INBOUND MARKETING CHANNEL MARKETING CHANNEL MARKETING About Us TSL in India supports integrated marketing initiatives of Information Technology companies.",
+    "Budgets go into paid campaigns, SEO, content syndication, and outbound outreach, only for high-intent visitors to land on pages that fail to convert effectively."
+   ],
+   "cicd": [
+    "The current active pipeline of more than 25 crores from TSL is a phenomenal achievement.",
+    "It is a conversion and pipeline The B2B Guide to Landing Page Optimization That Converts Read More » Content Syndication: A Complete Guide to How It Works Leave a Comment / Sales , Marketing / TSL Consulting What is Content Syndication in B2B?"
+   ],
+   "senior_roles": [
+    "It could depend on a financial leader, a technical architect, and an operations manager or all of them together."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -4
+ },
+ {
+  "name": "Bitvoice Solutions Private Limited",
+  "city": "Kochi",
+  "domain": "bitvoice.in",
+  "website": "https://www.bitvoice.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230118",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_bpo": 2,
+   "DQ_template": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "OUR OFFER Check what can we do for you and your business CALL CENTRE SOFTWARE - A contact centre or more commonly referred to as a call centre is a focal point of communication from which all customer contacts are managed and handled..",
+    "BENEFITS WITH THE BITVOICE One Shot Solution for Communication IPPBX, Voice logger, Call centre, Social Media Handling, Email ticketing etc."
+   ],
+   "DQ_template": [
+    "0 0 Read more February 1, 2023 Published by Aparna on February 1, 2023 Categories Uncategorized WhatsApp WhatsApp Template Message What Is a WhatsApp Template Message?",
+    "WhatsApp message templates are a powerful way to send significant data to clients and it is a pre-constructed normalized message […] Do you like it?"
+   ],
+   "DQ_support": [
+    "Aiming to replace all existing hardware-based PBX platforms with a more user-friendly Bitvoice Communication Solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -4
+ },
+ {
+  "name": "Kapil IT Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "kapilit.com",
+  "website": "https://kapilit.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Kapil IT Solutions - Software Development Company In India Home About Services Customized Applications ERP Soft"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "DQ_agency": 2,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "BFSI - Finsta BFSI Finsta NBFC and Core Banking Solutions.",
+    "Application ERP Software Development Mobile Applications Digital Marketing Services Financial Services Database Administration Chit Fund Software - EasyCHIT BFSI - Finsta Construction Tell us your requirement"
+   ],
+   "DQ_agency": [
+    "Services Customized Applications ERP Software Development Mobile Applications Digital Marketing Services Financial Services Database Administratoin Careers We Commit, You Grow At Kapil IT, we have permanently institutionalized the mantra of ‘We Commit, You Grow’, to ensure that we power your business growth unhindered.",
+    "Application ERP Software Development Mobile Applications Digital Marketing Services Financial Services Database Administration Chit Fund Software - EasyCHIT BFSI - Finsta Construction Tell us your requirement"
+   ],
+   "owns_product": [
+    "Innovating Your Products We use innovative technologies to constantly enhance the functionality of your products.",
+    "While we incorporate those innovate technologies in your products, we keep you in the loop so you would know what to expect from them functionality and performance-wise."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": -4
+ },
+ {
+  "name": "ASDintech Services Pvt Ltd",
+  "city": "Noida",
+  "domain": "asdintech.com",
+  "website": "https://www.asdintech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Us Privacy × Login Recruiter Login Applicant Login HR Login Android App Download Demo of Address video Login --> Employee Background Screening Cost-ef"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 2536,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_bpo": 3,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "Read More BPO Services Inbound customer service call centers will receive all incoming phone calls that are related....",
+    "Read More Welcome To ASDintech Services Pvt Ltd ASDintech Services Pvt Ltd is a Premier Background Verification Company in India and it provides the support for back office services.",
+    "Our employee background screening services are provided to international and national companies in the IT, ITES, BPO, Hospitality, Telecom, FMCG, BFSI, Manufacturing, Retail, Logistics, Foods & Beverages and others across the globe."
+   ],
+   "enterprise": [
+    "Our employee background screening services are provided to international and national companies in the IT, ITES, BPO, Hospitality, Telecom, FMCG, BFSI, Manufacturing, Retail, Logistics, Foods & Beverages and others across the globe."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -6
+ },
+ {
+  "name": "Crimson Interactive Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "crimsoni.com",
+  "website": "https://www.crimsoni.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "glish editing and publication support services. Its diverse portfolio of tailor-made solutions is designed to enable academic researchers to achieve p"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_bpo": 3,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "Publication Solutions AI-based Solutions Localization Life Sciences & Medical Communications Research Impact Transcriptions Knowledge Dissemination Get published in international journals Crimson’s diverse language solutions empower the global academic community.",
+    "Our range of solutions help our global clients with services linked to transcription, subtitling, captioning, voiceovers, etc."
+   ],
+   "enterprise": [
+    "All your Medical Communications, simplified Crimson, as a leading global medical communications partner to healthcare and bio-pharmaceutical companies, supports brand strategies through development phases to commercialization."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": -6
+ },
+ {
+  "name": "Datagrid Solutions Private Limited",
+  "city": "Mumbai",
+  "domain": "datagrid.co.in",
+  "website": "https://datagrid.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 44508,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 2,
+   "cicd": 3,
+   "DQ_support": 1,
+   "DQ_bpo": 1,
+   "enterprise": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Nikhil Nasta Well, my business got the much needed boost after partnering with datagrid for our online branding.",
+    "Continue reading → 1 2 3 … 5 » Subscribe to our weekly posts on Digital Marketing Email* Please leave this field empty."
+   ],
+   "cicd": [
+    "Develop and maintain a strong sales pipeline of qualified prospects and leads.",
+    "Maintain accurate sales forecasts, pipeline management, MIS reports, and CRM updates for management review.",
+    "Familiarity with CRM systems, sales reporting tools, pipeline management, and forecasting processes."
+   ],
+   "DQ_support": [
+    "Understand client requirements and present suitable IT solutions including software, hardware, cloud services, SaaS, and IT services."
+   ],
+   "DQ_bpo": [
+    "Skills Required: 1–4 years of experience in Inside Sales, IT Sales, Lead Generation, Telecalling, or Business Development."
+   ],
+   "enterprise": [
+    "Experience in handling enterprise clients, key accounts, and long-term client relationships."
+   ],
+   "qa": [
+    "Our Core Team Mitesh Patel COO Rushiraj Paralkar CTO Mohit Singh CDO Chetan Bhagat QA Head Why Datagrid - Software Development Company?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -6
+ },
+ {
+  "name": "Deepsense Digital Solutions Private Limited",
+  "city": "Chennai",
+  "domain": "deepsense.in",
+  "website": "https://deepsense.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ine Optimization Social Media Marketing Mobile Apps Loyalty Software Development Creative Designing Our Services Social Media Networking From Social M"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 3
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Best Digital Marketing & Tech Company In Chennai",
+    "By optimizing content and leveraging cutting-edge SEO techniques, we ensure improved search engine rankings and sustained performance.",
+    "RESEARCH SEO PERFORMANCE Brewdo – UI/UX Design & Development Brewdo specializes in creating user-friendly, aesthetically pleasing digital experiences."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -6
+ },
+ {
+  "name": "Inventurus Knowledge Solutions Limited",
+  "city": "Navi Mumbai",
+  "domain": "ikshealth.com",
+  "website": "https://ikshealth.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2013-12-27",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 16001,
+   "signals": {
+    "testing": 2
+   },
+   "quotes": {
+    "testing": [
+     "Home Careers Investor relations Contact us Locations USA 8951 Cypress Waters Boulevard, Suite 100, Coppell, TX 75019, USA India 801, Building No.",
+     "Home Careers Investor relations Contact us Locations USA 8951 Cypress Waters Boulevard, Suite 100, Coppell, TX 75019, USA India 801, Building No."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 58,
+   "qa": 3,
+   "sdlc": 2,
+   "cicd": 1,
+   "DQ_bpo": 4,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Chore-free care We take on the administrative, clinical, and operational burdens of healthcare, allowing clinicians and staff to focus on delivering exceptional care.",
+    "Patient-centric approach By driving patient safety, satisfaction, and engagement, we help healthcare organizations deliver exceptional care experiences and improve outcomes.",
+    "Tech + human synergy Our unique approach is the safest and most efficient way to adopt innovative technology into healthcare workflows.",
+    "Insights Executive Perspectives Press releases Blogs Client stories For healthcare organizations, the way forward is not another disconnected tool By: Sachin K."
+   ],
+   "qa": [
+    "Home Careers Investor relations Contact us Locations USA 8951 Cypress Waters Boulevard, Suite 100, Coppell, TX 75019, USA India 801, Building No.",
+    "Read more Trusted partner for healthcare organizations Speak to our RCM expert Home Careers Investor relations Contact us Locations USA 8951 Cypress Waters Boulevard, Suite 100, Coppell, TX 75019, USA India 801, Building No."
+   ],
+   "sdlc": [
+    "We are agile We adopt an outside-in approach, keeping an open mind, and navigate opportunities with speed and certainty as one organization.",
+    "Connect with us on LinkedIn Corporate culture At IKS Health, our corporate culture is not just a set of values written on paper; it’s the beating heart of our organization, shaping how we work, collaborate, and innovate every day."
+   ],
+   "cicd": [
+    "Learn more Client Stories Leveraging Scribble for revenue generation and burden reduction Physical therapists (PTs) were experiencing significant burnout due to the overwhelming burden of clinical documentation."
+   ],
+   "DQ_bpo": [
+    "Our experienced Transcription team has years of tenure in the field.",
+    "Learn more Blogs It Takes a Village: We All Have an Impact on Patient Care As transcriptionists and clinical documentation specialists, we play a crucial role in that care.",
+    "Learn more Blogs Medical Transcription Goes Beyond the Keyboard: Collaboration Improves Patient Care IKS Health Medical Transcription team has long tenured relationships with many clients because they trust us.",
+    "Learn more Press Releases IKS Health Achieves SOC 2® Type 2 Security Certification Learn more Press Releases IKS Earns Best in KLAS Award for 3rd Consecutive Year IKS Health has been recognized by KLAS Research as the 2021 Best in KLAS Transcription Service."
+   ],
+   "compliance": [
+    "Learn more Press Releases IKS Health Achieves SOC 2® Type 2 Security Certification Learn more Press Releases IKS Earns Best in KLAS Award for 3rd Consecutive Year IKS Health has been recognized by KLAS Research as the 2021 Best in KLAS Transcription Service."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -6
+ },
+ {
+  "name": "IVM Technologies LLP",
+  "city": "Pune",
+  "domain": "ivmtechno.com",
+  "website": "https://ivmtechno.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "er of Microsoft as a Service Provider for License Agreement software solutions. read more It Services We are working on this, Will get back to you as"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "DQ_bpo": 3,
+   "DQ_support": 7,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "IVM provided us with quality products for our firm, but what impressed us the most was their true 24x7 service and quick technical response.\" Banking & Finance Company \"We collaborated with IVM Technologies for server rentals, and everything was a breeze.",
+    "Being a Banking & Finance organisation, we required dependable, high-performance servers — and IVM did not disappoint."
+   ],
+   "DQ_bpo": [
+    "\" BPO Company— \"We have been availing IVM's IT rental services for over a year now, and we are extremely satisfied with the equipment quality and support they have provided.\" Automobile Company \"We hired IVM Technologies to address our laptop and desktop rental needs, and the experience has been phenomenal.",
+    "BPO Company— We have been availing IVM's IT rental services for over a year now, and we are extremely satisfied with the equipment quality and support they have provided."
+   ],
+   "DQ_support": [
+    "As a major automobile firm, reliable and high-performance IT hardware is vital for our design, testing, and project management activities.",
+    "Multiple Choice * For Business For Individual Name * Email Day/week/month/year Name Contact Number * Email Address * Company Name * City * Service * Select Service Apple Device Desktop & Laptops Workstations Printers & Scanners Networking Servers Backup Device Storage Device Av Solution CCTV Quantity * Select Qty.",
+    "Multiple Choice * For Business For Individual Name * Contact Number * Email Address * Multiple City Quantity Company Name * City * Service * Select Service Apple Device Desktop & Laptops Workstations Printers & Scanners Networking Servers Backup Device Storage Device Av Solution CCTV Quantity * Select Qty.",
+    "You need to invest in the right computer hardware equipment to support your growing team because productivity depends on the equipment just as much as the people using.."
+   ],
+   "DQ_training": [
+    "Why Rentals Make More Financial Sense Admin Laptop Rental Service May 29, 2026 Bulk laptop requirements in Bangalore are rising across startups, IT companies, and training institutes."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -6
+ }
+]

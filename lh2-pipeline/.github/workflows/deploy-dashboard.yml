@@ -1,0 +1,90 @@
+name: Deploy Sales Dashboard
+
+# Pulls fresh Scraped-pipeline data from HubSpot and deploys the dashboard to
+# GitHub Pages. Self-contained under /dashboard — independent of the pipeline code.
+# One-time setup:
+#   1. Settings -> Pages -> Source: "GitHub Actions"
+#   2. Settings -> Secrets and variables -> Actions -> new secret HUBSPOT_API_KEY
+
+on:
+  workflow_dispatch: {}          # run manually anytime
+  schedule:
+    # GitHub cron is UTC; IST is UTC+5:30.
+    #
+    # DENSITY IS DELIBERATE. GitHub runs `schedule` on a best-effort basis and this repo
+    # loses most of its slots: measured 50 delivered runs against ~336 attempts over two
+    # weeks on an hourly cron — about 15%. A tidy every-2-hours schedule (7 slots) was tried
+    # on 5 Aug and delivered ZERO runs in its first 16 hours, because cutting the number of
+    # attempts cuts deliveries by the same proportion. The answer to a lossy scheduler is
+    # more attempts, not fewer.
+    #
+    # Over-scheduling is safe here: the build is idempotent (it rebuilds from live HubSpot
+    # on every run, so a repeat simply republishes fresher data) and Actions minutes are
+    # free on a public repo. `concurrency` below cancels an older run if two overlap.
+    # MINUTES ARE DELIBERATELY ODD. GitHub documents the start of every hour as a high-load
+    # window, and `schedule` is dropped rather than queued under load. The original cron was
+    # "0 * * * *" — the single worst minute available — which is the likeliest reason only
+    # ~15% of its runs ever landed. :00, :15, :30 and :45 are all crowded, so every entry
+    # below sits on a minute almost nobody else picks.
+    - cron: "7,37 4-13 * * *"          # every 30 min at :07/:37, 09:37 - 19:07 IST
+    # Day close is the snapshot people actually read, so stack extra attempts after 18:30.
+    - cron: "3,13,23,43,53 13 * * *"   # 18:33, 18:43, 18:53, 19:13, 19:23 IST
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      # Re-asserts the Pages site and sets its source to Actions on every run. Added 6 Aug
+      # after deploy-pages started hanging: the deployment reached in_progress and never
+      # completed, and GET /repos/<repo>/pages returned 404, both consistent with the Pages
+      # site being in a bad state. `enablement: true` recreates it rather than needing
+      # someone to toggle Settings -> Pages by hand.
+      - uses: actions/configure-pages@v6
+        with:
+          enablement: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Pull fresh HubSpot data
+        env:
+          HUBSPOT_API_KEY: ${{ secrets.HUBSPOT_API_KEY }}
+        run: python dashboard/build_dashboard.py
+
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          cp dashboard/index.html _site/index.html
+          cp dashboard/dashboard_data.json _site/dashboard_data.json
+
+      # v5, not v4/v3. On 6 Aug the deploy step started failing with "Timeout reached,
+      # aborting!" while every earlier step passed — GitHub is force-running Node-20 actions
+      # on Node 24, and the v4 deploy action stopped completing its status poll under that.
+      # Nothing in this repo changed to cause it; the runner did.
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+      - id: deploy
+        uses: actions/deploy-pages@v5
+        with:
+          # Default is 600000ms and the failing runs died at exactly 602s, so the ceiling
+          # was being hit rather than an error being returned. The last good deploy took
+          # 221s, so Pages is answering — just far slower than it was. 30 min of headroom.
+          timeout: 1800000
+

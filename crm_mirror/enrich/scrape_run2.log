@@ -1,0 +1,30 @@
+2026-07-30T06:26:31.427912Z [info     ] source_done                    blocked=False pages=140 rows=5456 skipped=0 source=goodfirms
+2026-07-30T06:26:31.428471Z [info     ] crawl_complete                 sources=['goodfirms'] total_rows=5456
+2026-07-30T06:26:31.726539Z [info     ] exclusions_loaded              domains=4019 names=717
+2026-07-30T06:26:51.698086Z [info     ] build_complete                 excluded_known=468 gate_pass=1121 no_domain=0 raw_listings=5455 unique_companies=5369
+2026-07-30T06:26:51.709309Z [info     ] governor_built                 credits_today_budget=24831 monthly_credit_budget=50000 provider=signalhire rate_limited=True search_remaining=3997
+2026-07-30 11:56:56,802 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/searchByQuery "HTTP/1.1 200 OK"
+2026-07-30 11:56:57,337 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/search "HTTP/1.1 200 OK"
+2026-07-30 11:56:57,800 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/search "HTTP/1.1 200 OK"
+2026-07-30 11:56:58,805 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/searchByQuery "HTTP/1.1 200 OK"
+2026-07-30 11:56:59,310 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/search "HTTP/1.1 200 OK"
+2026-07-30 11:56:59,886 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/search "HTTP/1.1 200 OK"
+2026-07-30 11:57:02,504 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/searchByQuery "HTTP/1.1 200 OK"
+2026-07-30 11:57:02,911 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/search "HTTP/1.1 200 OK"
+2026-07-30 11:57:03,520 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/search "HTTP/1.1 200 OK"
+2026-07-30 11:57:04,024 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/searchByQuery "HTTP/1.1 200 OK"
+2026-07-30 11:57:04,467 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/search "HTTP/1.1 200 OK"
+2026-07-30 11:57:05,097 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/searchByQuery "HTTP/1.1 200 OK"
+2026-07-30 11:57:05,539 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/search "HTTP/1.1 200 OK"
+2026-07-30 11:57:05,981 INFO HTTP Request: POST https://www.signalhire.com/api/v1/candidate/search "HTTP/1.1 200 OK"
+2026-07-30T06:27:05.998837Z [info     ] max_enrich_reached             cap=100
+2026-07-30T06:27:05.999061Z [info     ] enrich_complete                claude_calls=0 claude_tokens=0 credit_budget_reached=False credits_budget_month=50000 credits_daily_budget=24831 credits_used_month=349 credits_used_today=11 emails=11 enriched=100 failed=0 founders=161 phones=73 quota_reached=False signalhire_calls=14 signalhire_credits_left=570 skipped_existing=0
+2026-07-30T06:27:06.469393Z [info     ] score_complete                 amber=690 green=0 linkedin_confirmed=0 linkedin_rejected=0 overrides=0 people=826 red=136
+2026-07-30T06:27:06.558606Z [info     ] export_complete                csv=C:\Users\naani\OneDrive\Desktop\hubspot\lh2-pipeline\data\exports\targets_hyperlinked.csv linkedin_review_rows=240 review=C:\Users\naani\OneDrive\Desktop\hubspot\lh2-pipeline\data\exports\linkedin_review.csv rows=1121
+2026-07-30T06:27:06.772126Z [info     ] sheets_sync_failed             err='spreadsheet key missing — set sheets.spreadsheet_key in config.yaml or the GOOGLE_SHEETS_KEY env var'
+2026-07-30T06:27:06.772378Z [info     ] run_complete                   steps=['since', 'refresh', 'crawl', 'build', 'enrich', 'score', 'export', 'sheets']
+  crawl: {'goodfirms': {'pages': 140, 'rows': 5456, 'blocked': False, 'skipped': 0}}
+  build: {'raw_listings': 5455, 'unique_companies': 5369, 'gate_pass': 1121, 'excluded_known': 468, 'no_domain': 0}
+  enrich: {'enriched': 100, 'skipped_existing': 0, 'founders': 161, 'phones': 73, 'emails': 11, 'failed': 0, 'signalhire_calls': 14, 'claude_calls': 0, 'quota_reached': False, 'credit_budget_reached': False, 'signalhire_credits_left': 570, 'credits_used_month': 349, 'credits_used_today': 11, 'credits_daily_budget': 24831, 'credits_budget_month': 50000, 'claude_tokens': 0}
+  score: {'people': 826, 'green': 0, 'amber': 690, 'red': 136, 'linkedin_confirmed': 0, 'linkedin_rejected': 0, 'overrides': 0}
+  export: {'rows': 1121, 'csv': 'C:\\Users\\naani\\OneDrive\\Desktop\\hubspot\\lh2-pipeline\\data\\exports\\targets_hyperlinked.csv', 'linkedin_review_rows': 240, 'review': 'C:\\Users\\naani\\OneDrive\\Desktop\\hubspot\\lh2-pipeline\\data\\exports\\linkedin_review.csv'}

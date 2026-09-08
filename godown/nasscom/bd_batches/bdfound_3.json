@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Fronture Technologies Limited",
+    "domain": "fronturetech.com",
+    "person": "Manzurul Karim",
+    "title": "Chairman & CEO, Founder and Managing Director",
+    "linkedin": "https://www.linkedin.com/in/manzurulkarim",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Manzurul Karim Chairman & CEO Founder and Managing Director with 18+ years",
+    "others": [
+      {
+        "person": "Tanvir Faraj",
+        "title": "Director & Vice President",
+        "linkedin": "https://www.linkedin.com/in/tanvirfaraj"
+      },
+      {
+        "person": "Mohammad Kawser Alam",
+        "title": "Director",
+        "linkedin": ""
+      },
+      {
+        "person": "Asif Md. Akhlak",
+        "title": "Head of Operations",
+        "linkedin": "https://www.linkedin.com/in/asifakhlak"
+      }
+    ]
+  },
+  {
+    "name": "GeekSSort",
+    "domain": "geekssort.com",
+    "person": "Ebrahim Khan",
+    "title": "Founder & CEO",
+    "linkedin": "https://www.linkedin.com/in/beingebrahim",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Ebrahim khan Founder & CEO ... driving force behind Geekssort",
+    "others": []
+  },
+  {
+    "name": "Genie InfoTech",
+    "domain": "genieinfo.tech",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "No person named on scraped page; services copy only",
+    "others": []
+  },
+  {
+    "name": "IBCS-PRiMAX",
+    "domain": "ibcs-primax.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Team pages returned only nav/copyright boilerplate, no names",
+    "others": []
+  },
+  {
+    "name": "iBOS Limited",
+    "domain": "ibos.io",
+    "person": "Sk Md Jayed Bin Rashid",
+    "title": "CEO, iBOS Ltd.",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Sk Md Jayed Bin Rashid CEO, iBOS Ltd.",
+    "others": []
+  },
+  {
+    "name": "Intellier Limited",
+    "domain": "intellier.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Only Abdullah Hil Rakib, managing director of Team Group (client)",
+    "others": []
+  },
+  {
+    "name": "Intellis Idea",
+    "domain": "intellisidea.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About page tells founding story but names no individual",
+    "others": []
+  },
+  {
+    "name": "JoulesLabs",
+    "domain": "jouleslabs.com",
+    "person": "Arifur Rahman Naim",
+    "title": "CEO, JoulesLabs",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Arifur Rahman Naim CEO, JoulesLabs",
+    "others": [
+      {
+        "person": "Nahid Bin Azahar",
+        "title": "CTO, JoulesLabs",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "KEHEM IT",
+    "domain": "kehem.com",
+    "person": "Anirban Singha",
+    "title": "Founder & Lead Backend Engineer",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Founder Story Anirban Singha Founder & Lead Backend Engineer",
+    "others": [
+      {
+        "person": "Surajit Singha",
+        "title": "Lead Frontend Engineer",
+        "linkedin": ""
+      },
+      {
+        "person": "Kazi Akequr Rahaman",
+        "title": "Lead Product Designer",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Kolpolok Limited",
+    "domain": "kolpolok.com",
+    "person": "SM Nazmul Hasan",
+    "title": "Founder, Managing Director, & CEO",
+    "linkedin": "https://www.linkedin.com/in/s-m-nazmul-hasan",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "SM Nazmul Hasan Founder, Managing Director, & CEO",
+    "others": []
+  },
+  {
+    "name": "Legitforce",
+    "domain": "legitforce.dev",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Offshore-team page only; no individual named",
+    "others": []
+  },
+  {
+    "name": "Leznit Software",
+    "domain": "leznit.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Only theme placeholders: Stephanie Lawrence CEO, Colabrio Media",
+    "others": []
+  },
+  {
+    "name": "LogiQbits Limited",
+    "domain": "logiqbits.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About page describes company only; no leader named",
+    "others": []
+  },
+  {
+    "name": "MechanixLab",
+    "domain": "mechanixlab.net",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Product feature copy only; no person named",
+    "others": []
+  },
+  {
+    "name": "Mediusware",
+    "domain": "mediusware.com",
+    "person": "Md Shahinur Rahman",
+    "title": "Co-Founder & CEO",
+    "linkedin": "https://www.linkedin.com/in/shahinur-ceo",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Md Shahinur Rahman Co-Founder & CEO Guiding global strategy",
+    "others": [
+      {
+        "person": "Rashedul Islam",
+        "title": "Chief Technology Officer ( CTO )",
+        "linkedin": "https://www.linkedin.com/in/rashedraju"
+      }
+    ]
+  },
+  {
+    "name": "Mondaysys",
+    "domain": "mondaysys.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Only client testimonial Elena Petrova CTO, NovaPay",
+    "others": []
+  },
+  {
+    "name": "Nestinnova",
+    "domain": "nestinnova.com",
+    "person": "MD Arafat Hussain",
+    "title": "Managing Director, Founding Director & Strategy Head",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "medium",
+    "evidence": "Managing Director MD Arafat Hussain Founding Director & Strategy Head",
+    "others": [
+      {
+        "person": "Mohammad Tufazzal Hossain",
+        "title": "Chairman · NestInnova Tech",
+        "linkedin": ""
+      },
+      {
+        "person": "Azharul Islam",
+        "title": "Trustee",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Oblivion Solutions Limited",
+    "domain": "oblivionsolutions.net",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Single paragraph of about copy; no person named",
+    "others": []
+  },
+  {
+    "name": "OMEGA SOLUTION",
+    "domain": "solution.omega.ac",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Generic founder/CEO discussion in blog copy; no name",
+    "others": []
+  },
+  {
+    "name": "Orange Business Development Limited",
+    "domain": "orangebd.com",
+    "person": "Md. Rezaul Haque",
+    "title": "Chairman",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "medium",
+    "evidence": "Md. Rezaul Haque Chairman ... three decades of entrepreneurial excellence",
+    "others": []
+  },
+  {
+    "name": "PeopleNTech Software",
+    "domain": "peoplentech.net",
+    "person": "Abubokor Hanip",
+    "title": "Founder & CEO",
+    "linkedin": "https://www.linkedin.com/in/abubokor-hanip-516a381",
+    "phone": "01611-446699",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Abubokor Hanip Founder & CEO, PeopleNTech",
+    "others": [
+      {
+        "person": "Farhana Hanip",
+        "title": "President & Managing Director",
+        "linkedin": "https://www.linkedin.com/in/farhana-hanip-b9a2a3173"
+      }
+    ]
+  },
+  {
+    "name": "Polygon Technology",
+    "domain": "polygontech.xyz",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Values/vision copy only; no individual named",
+    "others": []
+  }
+]

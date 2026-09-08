@@ -1,0 +1,325 @@
+# -*- coding: utf-8 -*-
+"""6:30 pm report, rebuilt for a team where everyone works the whole funnel.
+
+Three sections, in the order asked for:
+
+  1. FULL-FUNNEL KPIs — every KPI for every person. No role split. A GTM analyst who spent the
+     day chasing script results now shows Script shared / Result received like anyone else,
+     instead of a row of zeros against a dial quota.
+
+  2. NOTE-ONLY ACTIVITY — work no KPI can represent, bucketed. A second call-back that rang
+     out moves no stage and satisfies no KPI, so under the old report it never happened. Notes
+     whose content IS already a KPI (a note saying "gmeet fixed" on a deal that moved to GMeet
+     Fixed) are NOT re-counted here: that would double count the same act.
+
+  3. LEADS ENGAGED — distinct deals a person touched by EITHER moving a stage OR writing a
+     note. Deduplicated across both, so one deal worked twice is one lead engaged. This is the
+     honest headline number: it does not care which part of the funnel the work happened in.
+
+KPI definitions and note rules are imported from daily_activity_report.py rather than restated,
+because an earlier copy-by-hand drifted and inflated dial counts 2.7x.
+
+Usage:
+  python daily_fullfunnel_mail.py                          build, print, send nothing
+  python daily_fullfunnel_mail.py --send --to a@b.com      send
+  python daily_fullfunnel_mail.py --date 2026-08-06        report a past day
+"""
+import os, re, sys, json, time, html, datetime, collections, urllib.request, urllib.error
+try: sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception: pass
+
+HERE = os.path.dirname(os.path.abspath(__file__)); HUB = os.path.dirname(os.path.dirname(HERE))
+sys.path.insert(0, HERE)
+from daily_activity_report import METRICS, metrics_for, NOTE_RULES, classify, plain, ist_day, IST
+
+env = {l.split('=',1)[0].strip().lower(): l.split('=',1)[1].strip()
+       for l in open(os.path.join(HUB, '.env'), encoding='utf-8-sig')
+       if '=' in l and not l.strip().startswith('#')}
+H = {"Authorization": "Bearer " + env["hubspot_key"], "Content-Type": "application/json"}
+
+# the four people the report is about
+PEOPLE = [("166322228", "Ishpreet"), ("166262056", "Shobit"),
+          ("96574824", "Lamiya"), ("96573782", "Yuktha")]
+
+_today = datetime.datetime.now(IST).date()
+DAY = _today.isoformat()
+WEEK = "--week" in sys.argv
+TO = None; SEND = "--send" in sys.argv
+for i, a in enumerate(sys.argv):
+    if a == "--date": DAY = sys.argv[i+1]
+    if a == "--to": TO = sys.argv[i+1]
+
+# --week = Monday of the current week through today. The stage filter below keys on
+# `hs_v2_date_entered_current_stage`, which holds only the LATEST move — sound while the
+# window ends today (an earlier in-window move is still caught by fetching that deal's full
+# history), but it would silently under-count a window that ends in the past.
+_end = datetime.date.fromisoformat(DAY)
+_start = (_end - datetime.timedelta(days=_end.weekday())) if WEEK else _end
+DAYS = [(_start + datetime.timedelta(days=i)).isoformat()
+        for i in range((_end - _start).days + 1)]
+PERIOD = (f"{_start:%d %b} – {_end:%d %b %Y}" if WEEK else f"{_end:%d %b %Y}")
+if _end > _today:
+    sys.exit("window ends in the future")
+
+KPI = [("att", "Calls attempted"), ("conn", "Calls connected"), ("gm", "GMeets fixed"),
+       ("vc", "VCs done"), ("ss", "Scripts shared"), ("rr", "Script results recvd"),
+       ("ev", "Evaluations done"), ("cn", "Commercial negotiation"), ("neg", "Negotiation calls"),
+       ("dcs", "Contracts signed"), ("won", "Closed/Won")]
+
+# Buckets for work that NO KPI above can express. Anything a KPI already covers is excluded
+# on purpose — see the module docstring.
+NOTE_ONLY = {
+    "No pickup":       "Dialled, nobody answered (re-dials included)",
+    "Callback booked": "Reached them, call arranged for later",
+    "Bad number":      "Number wrong / dead — needs re-enrichment",
+    "Lead vetted":     "Desk qualification, relevant or not, before any dial",
+    "Not interested":  "Said no on the call",
+    "Disqualified":    "Ruled out on the facts (still operating, sold, no codebase)",
+    "Chase sent":      "Followed up by WhatsApp / mail / text",
+    "Other":           "Written down but not yet classified",
+}
+# map classify() output -> the bucket shown. "Vetted - in/out" collapse into one work type.
+BUCKET_MAP = {"Vetted - in": "Lead vetted", "Vetted - out": "Lead vetted",
+              "Meeting fixed": None, "Script shared": None, "Interested": None,
+              "Script received": None}
+#   None = already a KPI (GMeet fixed / Scripts shared / results received / Interested->
+#   connected), so it is NOT re-counted as note-only work. The deal still counts toward
+#   "leads engaged" — the note proves the person touched it.
+
+
+def hs(u, m="GET", b=None):
+    d = json.dumps(b).encode() if b is not None else None
+    for a in range(6):
+        try:
+            r = urllib.request.Request("https://api.hubapi.com" + u, data=d, method=m, headers=H)
+            with urllib.request.urlopen(r, timeout=60) as x:
+                t = x.read().decode(); return x.status, (json.loads(t) if t else {})
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503, 504) and a < 5: time.sleep(2*(a+1)); continue
+            return e.code, {}
+        except Exception:
+            if a == 5: raise
+            time.sleep(3*(a+1))
+
+
+# "Net new engaged" excludes data-quality rejects, exactly as monthly_wow_report.py does:
+# a wrong number or a wrong SPOC is not a lead we engaged, it is a list defect. Same regex here so
+# the daily and the weekly figure can never drift apart.
+WRONG_SPOC = re.compile(r"wrong\s*spoc|wrong\s*poc|wrong\s+(person|contact)|"
+                        r"not\s+the\s+(right|correct)\s+(person|spoc|poc|contact)|"
+                        r"not\s+a\s+founder|not\s+(a\s+)?relevant\s+poc|different\s+(person|company)|"
+                        r"is\s+not\s+the\s+right|gave\s+me\s+another\s+number", re.I)
+
+
+def collect():
+    _, pl = hs("/crm/v3/pipelines/deals")
+    LAB = {s["id"]: s["label"] for p in pl["results"] for s in p["stages"]}
+    _, ow = hs("/crm/v3/owners?limit=200")
+    OWN = {o["id"]: f'{o.get("firstName","")} {o.get("lastName","")}'.strip() for o in ow.get("results", [])}
+    U2ID = {str(o.get("userId")): o["id"] for o in ow.get("results", []) if o.get("userId")}
+    ids = {oid for oid, _ in PEOPLE}
+
+    kpi = collections.defaultdict(collections.Counter)   # oid -> Counter(kpi)
+    eng = collections.defaultdict(set)                   # oid -> {deal ids}  (stage OR note)
+    stage_deals = collections.defaultdict(set)
+    netnew = collections.defaultdict(set)                # oid -> {deals whose FIRST human touch is today}
+    reject = set()                                       # deals that are wrong-number / wrong-SPOC
+
+    lo = min(DAYS) + "T00:00:00Z"
+    ENTERED = "hs_v2_date_entered_current_stage"
+    after, cand = None, []
+    while True:
+        b = {"limit": 100, "properties": ["dealname", "hubspot_owner_id", "dealstage", ENTERED],
+             "filterGroups": [{"filters": [{"propertyName": "hs_lastmodifieddate", "operator": "GTE", "value": lo}]}]}
+        if after: b["after"] = after
+        _, r = hs("/crm/v3/objects/deals/search", "POST", b)
+        cand += r.get("results", [])
+        after = (r.get("paging") or {}).get("next", {}).get("after")
+        if not after: break
+    movers = [x for x in cand if ist_day(x["properties"].get(ENTERED)) in DAYS]
+    print(f"{len(cand)} modified, {len(movers)} changed stage in {PERIOD}", flush=True)
+
+    for i, x in enumerate(movers):
+        did = x["id"]
+        _, h = hs(f"/crm/v3/objects/deals/{did}?propertiesWithHistory=dealstage")
+        hist = (h.get("propertiesWithHistory", {}) or {}).get("dealstage", []) or []
+        # earliest HUMAN touch on this deal, ever — if it falls in the window the deal is net-new
+        human = sorted([e for e in hist if e.get("sourceType") == "CRM_UI"],
+                       key=lambda e: e.get("timestamp") or "")
+        first_h = human[0] if human else None
+        for e in hist:
+            if e.get("sourceType") != "CRM_UI": continue
+            if ist_day(e.get("timestamp")) not in DAYS: continue
+            lab = LAB.get(e.get("value"))
+            if not lab: continue
+            oid = U2ID.get(str(e.get("updatedByUserId")))
+            if oid not in ids: continue
+            for k in metrics_for(lab): kpi[oid][k] += 1
+            eng[oid].add(did); stage_deals[oid].add(did)
+            if str(lab).endswith("WrongNumber"): reject.add(did)
+            if first_h is not None and e is first_h:
+                netnew[oid].add(did)
+        if (i+1) % 100 == 0: print(f"   {i+1}/{len(movers)}", flush=True)
+
+    # ---------------- notes ----------------
+    after, notes = None, []
+    while True:
+        b = {"limit": 100, "properties": ["hs_note_body", "hs_timestamp", "hubspot_owner_id"],
+             "filterGroups": [{"filters": [{"propertyName": "hs_timestamp", "operator": "GTE", "value": lo}]}]}
+        if after: b["after"] = after
+        _, r = hs("/crm/v3/objects/notes/search", "POST", b)
+        notes += r.get("results", [])
+        after = (r.get("paging") or {}).get("next", {}).get("after")
+        if not after: break
+    notes = [n for n in notes if ist_day(n["properties"].get("hs_timestamp")) in DAYS
+             and n["properties"].get("hubspot_owner_id") in ids]
+
+    # note -> deal, so a note counts toward leads engaged
+    nb = collections.defaultdict(collections.Counter)
+    n2d = {}
+    for i in range(0, len(notes), 100):
+        chunk = notes[i:i+100]
+        _, a = hs("/crm/v4/associations/notes/deals/batch/read", "POST",
+                  {"inputs": [{"id": n["id"]} for n in chunk]})
+        for res in (a.get("results") or []):
+            fid = str((res.get("from") or {}).get("id"))
+            tos = [str(t["toObjectId"]) for t in (res.get("to") or [])]
+            if tos: n2d[fid] = tos
+    unclassified = []
+    for n in notes:
+        oid = n["properties"]["hubspot_owner_id"]
+        t = plain(n["properties"].get("hs_note_body"))
+        if not t: continue
+        raw = classify(t)
+        b_ = BUCKET_MAP.get(raw, raw)
+        if b_ is not None:
+            nb[oid][b_] += 1
+            if b_ == "Other": unclassified.append((OWN.get(oid, oid), t[:110]))
+        for did in n2d.get(n["id"], []):
+            eng[oid].add(did)
+            if raw == "Bad number" or WRONG_SPOC.search(t): reject.add(did)
+
+    return kpi, nb, eng, stage_deals, notes, unclassified, OWN, netnew, reject
+
+
+# ---------------------------------------------------------------- render
+E = html.escape
+TH = ("padding:7px 9px;background:#1447e6;color:#fff;font-size:11px;text-align:left;"
+      "font-family:Arial,sans-serif;border:1px solid #1039b5")
+TD = ("padding:7px 9px;border:1px solid #d8dee8;font-size:12px;"
+      "font-family:Arial,sans-serif;vertical-align:top")
+TB = "border-collapse:collapse;width:100%;margin:6px 0 22px"
+H2 = ("font-family:Arial,sans-serif;font-size:14px;margin:26px 0 4px;color:#0b1220;"
+      "border-left:4px solid #1447e6;padding-left:9px")
+
+
+def build(kpi, nb, eng, stage_deals, notes, unclassified, OWN, netnew, reject):
+    P = []; A = P.append
+    A('<div style="font-family:Arial,sans-serif;color:#0b1220;max-width:1100px">')
+    A(f'<p style="font-size:13px">Full-funnel update — <b>{PERIOD}</b>{" (week to date)" if WEEK else ", 6:30 pm IST"}.</p>')
+    A('<p style="font-size:12px;color:#5b6472">Everyone is measured on <b>every</b> KPI — the '
+      'GTM / Lead-Manager / Closer split has been dropped, because a day spent chasing script '
+      'results used to read as a day of no calls. Figures are pulled live from HubSpot.</p>')
+
+    # ---- 1. KPIs ----
+    A(f'<div style="{H2}">1. Full-funnel KPIs — every metric, every person</div>')
+    A(f'<table style="{TB}"><tr><th style="{TH}">Metric</th>'
+      + "".join(f'<th style="{TH}">{n}</th>' for _, n in PEOPLE) + '</tr>')
+    for k, lbl in KPI:
+        vals = [kpi[oid][k] for oid, _ in PEOPLE]
+        strong = ';font-weight:700' if any(vals) else ';color:#8a94a6'
+        A(f'<tr><td style="{TD}">{E(lbl)}</td>'
+          + "".join(f'<td style="{TD}{strong};text-align:center">{v}</td>' for v in vals) + '</tr>')
+    A('</table>')
+
+    # ---- 2. note-only ----
+    A(f'<div style="{H2}">2. Recorded in notes only — work no KPI can show</div>')
+    A('<p style="font-size:12px;color:#5b6472">A second call-back that rings out moves no stage '
+      'and satisfies no KPI. It is real work and it is counted here. Notes that merely restate a '
+      'KPI (a "gmeet fixed" note on a deal that moved to GMeet Fixed) are <b>not</b> counted '
+      'again.</p>')
+    A(f'<table style="{TB}"><tr><th style="{TH}">Activity</th>'
+      + "".join(f'<th style="{TH}">{n}</th>' for _, n in PEOPLE)
+      + f'<th style="{TH}">What it means</th></tr>')
+    for b_, why in NOTE_ONLY.items():
+        vals = [nb[oid][b_] for oid, _ in PEOPLE]
+        if not any(vals) and b_ == "Other": continue
+        strong = ';font-weight:700' if any(vals) else ';color:#8a94a6'
+        A(f'<tr><td style="{TD}">{E(b_)}</td>'
+          + "".join(f'<td style="{TD}{strong};text-align:center">{v}</td>' for v in vals)
+          + f'<td style="{TD};color:#5b6472;font-size:11px">{E(why)}</td></tr>')
+    tot = [sum(nb[oid].values()) for oid, _ in PEOPLE]
+    A(f'<tr style="background:#f4f6fa"><td style="{TD};font-weight:700">Notes written</td>'
+      + "".join(f'<td style="{TD};font-weight:700;text-align:center">{v}</td>' for v in tot)
+      + f'<td style="{TD}"></td></tr>')
+    A('</table>')
+
+    # ---- 3. leads engaged ----
+    A(f'<div style="{H2}">3. Leads engaged — the headline number</div>')
+    A('<p style="font-size:12px;color:#5b6472">Distinct deals touched by <b>either</b> a stage '
+      'move <b>or</b> a note. Deduplicated: a deal worked twice counts once.</p>')
+    A(f'<table style="{TB}"><tr><th style="{TH}">Person</th>'
+      f'<th style="{TH}">Leads engaged</th><th style="{TH}">NET NEW engaged</th>'
+      f'<th style="{TH}">via stage move</th>'
+      f'<th style="{TH}">note only</th><th style="{TH}">KPI events</th></tr>')
+    tot_nn = 0
+    for oid, n in PEOPLE:
+        tot_e = len(eng[oid]); st = len(stage_deals[oid])
+        nn = len(netnew[oid] - reject); tot_nn += nn
+        A(f'<tr><td style="{TD}"><b>{n}</b></td>'
+          f'<td style="{TD};font-weight:700;font-size:15px;text-align:center">{tot_e}</td>'
+          f'<td style="{TD};font-weight:700;font-size:15px;text-align:center;color:#0e7490">{nn}</td>'
+          f'<td style="{TD};text-align:center">{st}</td>'
+          f'<td style="{TD};text-align:center">{tot_e-st}</td>'
+          f'<td style="{TD};text-align:center">{sum(kpi[oid].values())}</td></tr>')
+    A(f'<tr><td style="{TD};background:#eef1f5"><b>TOTAL</b></td>'
+      f'<td style="{TD};background:#eef1f5;font-weight:700;text-align:center">'
+      f'{len(set().union(*[eng[o] for o,_ in PEOPLE]) if PEOPLE else set())}</td>'
+      f'<td style="{TD};background:#eef1f5;font-weight:700;text-align:center;color:#0e7490">{tot_nn}</td>'
+      f'<td style="{TD};background:#eef1f5"></td><td style="{TD};background:#eef1f5"></td>'
+      f'<td style="{TD};background:#eef1f5"></td></tr>')
+    A('</table>')
+    A('<p style="font-size:12px;color:#5b6472"><b>NET NEW engaged</b> = deals touched by a human '
+      'for the <b>first time ever</b> in this window — genuinely new conversations, not repeat work '
+      'on deals already in flight. Wrong-number and wrong-SPOC deals are excluded: those are list '
+      f'defects, not leads engaged ({len(reject)} excluded today). Same definition as the weekly report.</p>')
+
+    A('<p style="font-size:11px;color:#8a94a6">Note: HubSpot holds <b>0</b> call objects, so '
+      'dial activity is inferred from stage moves and notes, not from call logs. '
+      'Anyone who does not write notes will under-report.</p>')
+    if unclassified:
+        A(f'<p style="font-size:11px;color:#8a94a6">Unclassified notes ({len(unclassified)}): '
+          + "; ".join(E(f"{w}: {t}") for w, t in unclassified[:6]) + '</p>')
+    A('</div>')
+    return "\n".join(P)
+
+
+def main():
+    kpi, nb, eng, sd, notes, unc, OWN, netnew, reject = collect()
+    HTML = build(kpi, nb, eng, sd, notes, unc, OWN, netnew, reject)
+    tot_nn = len(set().union(*[netnew[o] for o, _ in PEOPLE]) - reject) if PEOPLE else 0
+    txt = [f"Full-funnel update — {PERIOD}", "",
+           f"NET NEW leads engaged (all): {tot_nn}   (wrong-number/wrong-SPOC excluded: {len(reject)})", ""]
+    for oid, n in PEOPLE:
+        txt.append(f"{n}: {len(eng[oid])} leads engaged ({len(netnew[oid]-reject)} NET NEW), "
+                   f"{sum(kpi[oid].values())} KPI events, {sum(nb[oid].values())} notes")
+        for k, lbl in KPI:
+            if kpi[oid][k]: txt.append(f"    {lbl}: {kpi[oid][k]}")
+        for b_ in NOTE_ONLY:
+            if nb[oid][b_]: txt.append(f"    [note] {b_}: {nb[oid][b_]}")
+    TEXT = "\n".join(txt)
+    out = os.path.join(HERE, "weekly_fullfunnel.html" if WEEK else "daily_fullfunnel.html")
+    open(out, "w", encoding="utf-8").write(HTML)
+    print(TEXT); print(f"\nwrote {out}")
+    if SEND:
+        if not TO: sys.exit("--send needs --to")
+        import gmail_sender
+        subj = ("LH2 full-funnel WEEKLY update — " if WEEK else "LH2 full-funnel daily update — ") + PERIOD
+        t, detail = gmail_sender.send(TO, subj, TEXT, html=HTML)
+        print(f"sent to {TO} via [{t}] {detail}")
+    else:
+        print("\nnot sent — pass --send --to <addr>")
+
+
+if __name__ == "__main__":
+    main()

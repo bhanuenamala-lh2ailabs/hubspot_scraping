@@ -1,0 +1,422 @@
+[
+  {
+    "name": "RunDTC Digital India Private Limited",
+    "domain": "rundtc.com",
+    "score": 50,
+    "band": "Secondary",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 0,
+    "tier_b_points": 40,
+    "tier_c_points": 0,
+    "raw_before_caps": 50,
+    "caps_applied": [],
+    "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 20230601, snapshot silent on software",
+    "evidence": [
+      "JD: 'conduct code reviews, and ensure high standards of code quality'",
+      "JD: 'setting up and maintaining CI/CD pipelines (Github Actions, Jenkins)'",
+      "JD: 'Experience with version control systems (e.g., Git)' across roles",
+      "Wayback 20230601 snapshot present but omits software wording"
+    ],
+    "why_this_rank": "Lands exactly on the Secondary line. Two real code-review lines and a build-the-pipeline CI/CD line earn full Tier B, but Gold pays only +10 because the pre-2024 snapshot never says software, and the crawl returned zero site prose (site_signals empty) so Tier C could not fire at all. Evidence is missing here, not absent."
+  },
+  {
+    "name": "Shivamtech Engineering Design Private Limited",
+    "domain": "shivamtech.com",
+    "score": 25,
+    "band": "Skip",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 0,
+    "tier_c_points": 0,
+    "raw_before_caps": 25,
+    "caps_applied": ["Generalist-agency/training bundle - cap at 30 (not binding)"],
+    "pre2024_basis": "PROVEN - 20220601 snapshot, but the wording is CAD/CAM/CAE and training",
+    "evidence": [
+      "JD 'bitbucket'/'jenkins'/'git' hits are FontAwesome CSS class names",
+      "Site: 'Leaders in Product Engineering' - plant/digital, not software",
+      "Site: 'long-term strategic placements... best talent' - staffing model",
+      "Wayback 20220601: CAD/CAM/CAE analysis and training services, Pune"
+    ],
+    "why_this_rank": "Every private-repo and CI hit in 122k JD chars is icon-font CSS (.fa-bitbucket:before, .fa-jenkins:before) rather than JD prose, so nothing in Tier A or B can be awarded. The PROVEN label rests on a CAD/CAM/CAE-and-training snapshot, and 'Leaders in Product Engineering' reads as mechanical product engineering, not software. Kept the Gold +25 per the rubric but the merit behind it is decorative."
+  },
+  {
+    "name": "Armia Systems Private Limited",
+    "domain": "armia.com",
+    "score": 45,
+    "band": "Skip",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 0,
+    "tier_b_points": 25,
+    "tier_c_points": 10,
+    "raw_before_caps": 45,
+    "caps_applied": [],
+    "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 20230601, no software wording in snapshot",
+    "evidence": [
+      "JD: 'Conduct code reviews, debugging, and performance optimization'",
+      "JD: 'Git repository management for version control and collaboration'",
+      "JD: 'Experience with Docker, CI/CD, or microservices architecture'",
+      "Site: 'HOW WE WORK Simple Steps'; startup and enterprise web platforms"
+    ],
+    "why_this_rank": "A five-point near-miss on Secondary, and worth revisiting. Real code-review and Git-management language, six pages crawled including blog and team. I withheld the +15 substantive-CI/CD because 'Docker, CI/CD, or microservices' is an either-or skills-list item rather than a described practice; award it and this becomes a 60. Gold paying only +10 despite a 2023 archive is what actually holds it under the line."
+  },
+  {
+    "name": "ASCENTech Information Technology Private Limited",
+    "domain": "ascentechindia.com",
+    "score": 25,
+    "band": "Skip",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 0,
+    "tier_c_points": 0,
+    "raw_before_caps": 25,
+    "caps_applied": ["Generalist-agency: dev bundled with IT infrastructure/hardware - cap at 30 (not binding)"],
+    "pre2024_basis": "PROVEN - 2023 snapshot: 'ASCENTech has developed software's for var...'",
+    "evidence": [
+      "Wayback 2023: '25 years... Software Development Domain', software delivered",
+      "JD repo/CI hits are FontAwesome CSS (.fa-bitbucket, .fa-jenkins)",
+      "Site: 'System Integration... IT Infrastructure, Web Development, Hardware Solutions'",
+      "195k JD chars yielded no genuine review gate or CI/CD prose"
+    ],
+    "why_this_rank": "Genuinely proven pre-2024 software delivery, but 195k characters of careers content produced not one real engineering-process sentence: every private-repo signal is icon-font CSS. The IT-infrastructure-and-hardware bundle would cap at 30 anyway. Scored as evidence-free on process rather than penalised."
+  },
+  {
+    "name": "Geeta Eservices Private Limited",
+    "domain": "geetaeservices.com",
+    "score": 10,
+    "band": "Skip",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 0,
+    "tier_b_points": 0,
+    "tier_c_points": 0,
+    "raw_before_caps": 10,
+    "caps_applied": [],
+    "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 20231030, snapshot omits software",
+    "evidence": [
+      "Crawl reached only / and /careers; site_signals empty",
+      "JD 'bitbucket'/'jenkins'/'git' hits are FontAwesome CSS classes",
+      "Wayback 20231030 snapshot exists but does not mention software",
+      "No review gate, CI/CD or positioning prose captured anywhere"
+    ],
+    "why_this_rank": "The lowest score in the batch is a crawl problem as much as a company problem. Only two pages were reached and no site prose came back, so Tier B and Tier C had nothing to act on, and the sole apparent private-repo signal is icon-font CSS. Treat this as unassessed rather than assessed-and-rejected."
+  },
+  {
+    "name": "LinkedIn Technology Information Private Limited",
+    "domain": "in.linkedin.com",
+    "score": 35,
+    "band": "Skip",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 0,
+    "tier_b_points": 25,
+    "tier_c_points": 0,
+    "raw_before_caps": 35,
+    "caps_applied": ["Multinational captive/product arm - rejected regardless of score"],
+    "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 20230101, snapshot lacks software wording",
+    "evidence": [
+      "Domain in.linkedin.com - Microsoft-owned; far above 5000 headcount",
+      "JD: 'unit tested, code reviewed, and checked in... continuous integration'",
+      "Site quotes are third-party feed posts (AMD, UX templates)",
+      "No company website crawled - the crawl captured the LinkedIn feed"
+    ],
+    "why_this_rank": "Skip on the captive rule: this is Microsoft's LinkedIn India entity, a multinational product arm, not an acquirable Indian IT firm. Separately the bundle is unusable - the 'site' crawled is the LinkedIn feed itself, so the positioning quotes belong to other companies' posts. The 35 is arithmetic only and carries no meaning."
+  },
+  {
+    "name": "TO THE NEW Private Limited",
+    "domain": "tothenew.com",
+    "score": 100,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 20,
+    "tier_b_points": 50,
+    "tier_c_points": 20,
+    "raw_before_caps": 115,
+    "caps_applied": ["Cap total at 100"],
+    "pre2024_basis": "PROVEN - 20220601 snapshot: 'Product Engineering and Digital Transformation Services'",
+    "evidence": [
+      "Wayback 2022: 'Product Engineering and Digital Transformation Services | TO THE NEW'",
+      "JD: 'conduct code reviews, and ensure adherence to architecture principles'",
+      "JD: 'Agile teams, using DevOps pipelines, Git, and CI/CD tools'",
+      "Whitepaper: 'Bitbucket to GitHub Migration Guide'; Nimbus test automation"
+    ],
+    "why_this_rank": "Strongest all-round file in the batch and it overflows the scale at 115. Two judgements sit behind that: I awarded the +20 engineering-blog on the strength of a published 'Bitbucket to GitHub Migration Guide' plus a data-pipeline whitepaper, which is squarely VCS-workflow content; and I did not award full Tier A because Bitbucket appears in a whitepaper title, not in a job description, so the private-repo host is not JD-evidenced. Note the Bitbucket reference points at a migration away from it."
+  },
+  {
+    "name": "Acceleron Solutions Private Limited",
+    "domain": "acceleronsolutions.io",
+    "score": 30,
+    "band": "Skip",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 0,
+    "tier_b_points": 25,
+    "tier_c_points": 0,
+    "raw_before_caps": 35,
+    "caps_applied": ["Generalist-agency: dev bundled with infrastructure AMC/IT support - cap at 30"],
+    "pre2024_basis": "UNKNOWN - no Wayback snapshot and no RDAP record; missing, not absent",
+    "evidence": [
+      "JD: 'Perform code reviews to ensure code quality and adherence'",
+      "JD: 'Experience with version control systems like Git' (two roles)",
+      "Site: 'Infrastructure Annual Maintenance Contract (AMC)... maintenance and support'",
+      "Site: 'over last one decade... developed multiple products and solutions'"
+    ],
+    "why_this_rank": "Two things suppress a firm that reads better than 30. Gold is UNKNOWN - no snapshot and no RDAP, so pre-2024 status is unrecorded rather than disproved, even though their own copy claims a decade of product building. And the infrastructure-AMC/IT-support line triggers the generalist-agency cap. I also declined the +10 compliance point: their ISO 27001 text sells certification consulting to clients rather than claiming their own certificate."
+  },
+  {
+    "name": "Bluebash Consulting Private Limited",
+    "domain": "bluebash.co",
+    "score": 30,
+    "band": "Skip",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 35,
+    "tier_c_points": 20,
+    "raw_before_caps": 80,
+    "caps_applied": ["Generalist-agency: SEO/SMM bundled with development - cap at 30"],
+    "pre2024_basis": "PROVEN - 20230601 snapshot: 'Bluebash | Top Software Development Company In USA,UK'",
+    "evidence": [
+      "Wayback 2023: 'Top Software Development Company In USA,UK'",
+      "JD: 'Oversee code reviews to ensure adherence to best practices'",
+      "Site: 'SEO Improvements' and 'Social Media Marketing' as service lines",
+      "Site: 'our applications are HIPAA compliant'; own products NextBrand, uCV"
+    ],
+    "why_this_rank": "The sharpest cap-versus-merit case in the batch: 80 raw knocked to 30. Proven pre-2024 software positioning, real code-review language, HIPAA change-control, and two genuinely owned products (NextBrand, uCV). But fourteen DQ_agency hits including explicit 'SEO Improvements' and 'Social Media Marketing' service lines are the textbook generalist-agency signature, so the cap binds hard. The lone DQ_template hit was a prescription-template product feature and I ignored it."
+  },
+  {
+    "name": "EasyStepIn IT Services Private Limited",
+    "domain": "easystepin.com",
+    "score": 85,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 40,
+    "tier_c_points": 20,
+    "raw_before_caps": 85,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN - 20230601 snapshot: 'Products Meepaisa... iPaaS Implementation Service'",
+    "evidence": [
+      "Wayback 2023: 'Meepaisa... Development Standards... iPaaS Implementation Service'",
+      "JD: 'Participate in the peer review process to assist others'",
+      "Case study: 'cloud migration to AWS using SQS, EC2, APIs, DB, and CI/CD'",
+      "Site: 'reusable Solution Accelerators and a proven implementation framework'"
+    ],
+    "why_this_rank": "Priority rests on a single peer-review sentence plus site prose, so the placement deserves a caveat. I credited substantive CI/CD from a delivery case study naming concrete AWS tooling, which is real work rather than marketing. I withheld the +10 compliance point even though GDPR and HIPAA appear, because that text describes a client data migration's outcome, not EasyStepIn's own change-control regime. No private-repo host anywhere, so Tier A is zero despite the Priority band."
+  },
+  {
+    "name": "Tatwa Technologies Limited",
+    "domain": "tatwa.com",
+    "score": 20,
+    "band": "Skip",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 25,
+    "tier_b_points": 15,
+    "tier_c_points": 18,
+    "raw_before_caps": 83,
+    "caps_applied": ["BPO / call-centre core business - cap at 20"],
+    "pre2024_basis": "PROVEN - 20220601 snapshot: 'Custom Enterprise Software Development, Quality Assurance'",
+    "evidence": [
+      "JD: 'Azure DevOps & CI/CD Pipelines, ARM Templates / Terraform / Bicep'",
+      "JD: 'JavaScript / TypeScript, Angular, Git / GitLab, AWS / MuleSoft'",
+      "Site: 'primarily into telephony customer service via its Call centers'",
+      "Wayback 2022: 'Custom Enterprise Software Development, Quality Assurance, Smart Governance'"
+    ],
+    "why_this_rank": "Real Azure DevOps evidence in genuine JD text plus IaC tooling and named owned products (Tatwa Validate, Fund-Track, AssetReg) built an 83, then their own about-page sentence - 'primarily into telephony customer service via its Call centers located at 7 different locations' - names BPO as the core business and caps it at 20. Self-declared, so the cap is not a judgement call. The software arm may be real but it is not what this company primarily is."
+  },
+  {
+    "name": "Consint Solutions Private Limited",
+    "domain": "consint.ai",
+    "score": 63,
+    "band": "Secondary",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 0,
+    "tier_b_points": 40,
+    "tier_c_points": 13,
+    "raw_before_caps": 63,
+    "caps_applied": [],
+    "pre2024_basis": "UNKNOWN - no Wayback snapshot and no RDAP record; missing, not absent",
+    "evidence": [
+      "JD: 'Participate in code reviews and follow coding best practices'",
+      "JD: 'ML Ops tools... CI/CD for ML, model monitoring, versioning'",
+      "JD: 'Familiarity with Git/GitHub/GitLab version control'",
+      "Site: owned Risk AI platform; banks, insurers, hospitals as clients"
+    ],
+    "why_this_rank": "Secondary with a real caveat attached. The engineering evidence is solid - two independent code-review lines across 18 pages, MLOps CI/CD, owned fraud/claims platforms for regulated clients. But Gold is UNKNOWN and I awarded the +10 without capping, per instruction. A .ai domain with neither a snapshot nor an RDAP record could equally be a 2024-or-later firm, which is precisely the profile we are trying to avoid buying. Verify founding date before contacting."
+  },
+  {
+    "name": "Notetech Software",
+    "domain": "notetech.com",
+    "score": 63,
+    "band": "Secondary",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 25,
+    "tier_b_points": 0,
+    "tier_c_points": 13,
+    "raw_before_caps": 63,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN - 20230601 snapshot: 'ALL SOFTWARE OUTSOURCING SERVICES... software development services'",
+    "evidence": [
+      "JD: 'Asp.net, .Net core, C#, SQL, Angular, Azure devops CI/CD, web Api'",
+      "Wayback 2023: 'we offer phenomenal software development services'",
+      "Site nav: Products, Our Process, WhitePaper and Insights sections",
+      "Only one careers page reached; 5,902 JD chars in total"
+    ],
+    "why_this_rank": "Undersampled rather than weak. Azure DevOps is named in real JD text, which is exactly the private-repo evidence the rubric wants, but no review gate appears so Tier A pays half. The whole careers crawl was one page and 5,902 characters - the thinnest JD capture of any scoring firm here - so the absent review gate may simply be unread. Their SEO/marketing-copy hits are an internal content-writer job posting, not a service line, so I did not apply the agency cap; the 'IT support professionals' phrasing is a soft flag worth checking."
+  },
+  {
+    "name": "Connor Clark & Lunn India Private Limited",
+    "domain": "cclfg.cclgroup.com",
+    "score": 65,
+    "band": "Skip",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 25,
+    "tier_b_points": 15,
+    "tier_c_points": 0,
+    "raw_before_caps": 65,
+    "caps_applied": ["Multinational captive/GCC arm - rejected regardless of score"],
+    "pre2024_basis": "PROVEN - 20230601 snapshot advertising CC&L fund products",
+    "evidence": [
+      "Connor Clark & Lunn is a Canadian asset manager; this is its captive",
+      "JD: 'IaC tooling (Bicep, ARM, Terraform, Azure DevOps)'",
+      "Site: CC&L fund launches, 'multi-boutique firm' investment platform",
+      "Domain cclfg.cclgroup.com resolves to the parent group site"
+    ],
+    "why_this_rank": "Skip on the captive rule, not on merit. This is the Gurugram GCC of Connor Clark & Lunn Financial Group, a Canadian asset manager - a captive technology arm that cannot be acquired, the same category as the Goldman Sachs and JP Morgan entities the brief excludes. Azure DevOps in the JD is genuine and the 65 is honest, but it is irrelevant. Note the crawl hit the parent group's site, so none of this describes the Indian entity specifically."
+  },
+  {
+    "name": "EWall Solutions Private Limited",
+    "domain": "ewallsolutions.com",
+    "score": 60,
+    "band": "Secondary",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 25,
+    "tier_c_points": 10,
+    "raw_before_caps": 60,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN - 20230601 snapshot: 'Created in 2006, the company is experienced'",
+    "evidence": [
+      "Wayback 2023: 'Created in 2006' with dashboards, visualisation, railway RFI",
+      "JD: 'Participate in code reviews and actively seek feedback'",
+      "JD: 'Familiarity with version control tools like Git is desirable'",
+      "Blog: dated Odoo module posts (Jan 2025); careers page reached"
+    ],
+    "why_this_rank": "Solidly pre-2024 (site claims 2006, snapshot corroborates) with a genuine code-review line, but only two JD pages and 12,482 characters were captured - the second-thinnest crawl among scoring firms. Git appears as 'desirable' rather than required, which reads as a junior posting rather than the firm's actual standard. A fuller careers crawl could move this either way; 60 reflects what little was collected."
+  },
+  {
+    "name": "Infomerica (INDIA) Private Limited",
+    "domain": "infomericainc.com",
+    "score": 95,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 50,
+    "tier_c_points": 20,
+    "raw_before_caps": 95,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN - 20230601 snapshot: 'Cloud Computing DevOps NET/JAVA/PHP Development'",
+    "evidence": [
+      "Wayback 2023: 'Mobility Cloud Computing DevOps NET/JAVA/PHP Development, SOA'",
+      "JD: 'code reviews and enforcing engineering practices and standards'",
+      "JD: 'Hands-on experience with TDD using Junit5 and Mockito'",
+      "JD: 'Aws with terraform Iaas Paas SDLC Azure GCP'"
+    ],
+    "why_this_rank": ""
+  },
+  {
+    "name": "Osttra India Services Private Limited",
+    "domain": "osttra.com",
+    "score": 95,
+    "band": "Skip",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 25,
+    "tier_b_points": 25,
+    "tier_c_points": 20,
+    "raw_before_caps": 95,
+    "caps_applied": ["Multinational captive/JV arm (S&P Global + CME Group) - rejected regardless of score"],
+    "pre2024_basis": "PROVEN - 20230601 snapshot advertising portfolio reconciliation and settlement products",
+    "evidence": [
+      "JD: 'JIRA, Bamboo, Bitbucket, Artifactory, Github, Docker, Kubernetes'",
+      "OSTTRA is the S&P Global / CME Group post-trade joint venture",
+      "Site: 'Integration Pipelines... enforce 4-eye checks prior to production'",
+      "Site: owned products triCalculate, triResolve; banks and central banks"
+    ],
+    "why_this_rank": "Skip on the captive rule despite the best raw engineering evidence in the batch. OSTTRA is the post-trade joint venture of S&P Global and CME Group and this is its Indian services arm - a multinational captive of exactly the excluded type. Bitbucket is named in real JD text and the '4-eye checks prior to production deployment' line is close to a review gate, but the bundle marks meets_tier_a false and that check governs deployment approval rather than code merge, so Tier A stays at 25. None of it matters for acquirability."
+  },
+  {
+    "name": "Synconics Technologies Private Limited",
+    "domain": "synconics.com",
+    "score": 68,
+    "band": "Secondary",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 25,
+    "tier_c_points": 18,
+    "raw_before_caps": 68,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN - 20230601 snapshot: 'Odoo CRM... eCommerce, odoo POS, Software Development'",
+    "evidence": [
+      "Wayback 2023: 'Odoo CRM, Project Management, eCommerce, odoo POS, Software Development'",
+      "JD: 'Reviewing codes and providing assistance to group members'",
+      "Site: 'all phases of the Agile software development life cycle'",
+      "Site: 'Industry Accelerators - pre-configured Odoo packages'"
+    ],
+    "why_this_rank": "Two points short of Priority and the whole +25 Tier B rests on one sentence - 'Reviewing codes and providing assistance to group members who have very little expertise' - which describes mentoring juniors more than an enforced merge gate. I counted it as a review gate but it is the weakest such phrasing in the batch, and only one careers page (17k chars) was read. The DQ_template hits are Odoo product documentation about contact import templates, not a template shop, so no penalty applied."
+  },
+  {
+    "name": "Techcronus Business Solutions Private Limited",
+    "domain": "techcronus.com",
+    "score": 75,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 25,
+    "tier_b_points": 25,
+    "tier_c_points": 15,
+    "raw_before_caps": 75,
+    "caps_applied": [],
+    "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 20230601, snapshot omits software wording",
+    "evidence": [
+      "JD: 'version control using Azure DevOps (formerly TFS) or Git'",
+      "JD: 'Azure DevOps build and release pipelines'; 'Team Foundation Server'",
+      "Site: '03 Development... unit testing'; '04 Quality Control... QA practices'",
+      "Site: 'Product Engineering - scalable, market-ready software products'"
+    ],
+    "why_this_rank": "The cleanest private-repo evidence in the batch and it is suppressed from both ends. Azure DevOps, TFS and Team Foundation Server appear across three separate genuine job descriptions - nobody hosts open source on those, so the codebase is almost certainly private - yet no review-gate phrase co-occurs, so Tier A pays 25 instead of 40. Gold pays only 10 because the 2023 snapshot happens not to use the word software, despite the firm plainly running ERP delivery then. Both DQ hits (a .NET migration blog title, ERP rapid-deployment templates) are false positives."
+  },
+  {
+    "name": "World of Opportunities for Women LLP",
+    "domain": "hersecondinnings.com",
+    "score": 25,
+    "band": "Skip",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 0,
+    "tier_c_points": 0,
+    "raw_before_caps": 25,
+    "caps_applied": ["Training/coaching core business - cap at 30 (not binding)"],
+    "pre2024_basis": "PROVEN - 20230601 snapshot, but the wording is coaching and returnship training",
+    "evidence": [
+      "Site: 'Job Placements 97%, Returnship Projects 92%, Upskilling 98%'",
+      "JD 'bitbucket'/'github' hits are icon-font CSS class names",
+      "Wayback 2023: 'Coaching Training... Java Full Stack Returnship, Salesforce'",
+      "Site: coaching fees, mentorship, patent-agent courses - not software delivery"
+    ],
+    "why_this_rank": "Not an IT firm at all. This is a women's returnship, coaching and job-placement marketplace whose PROVEN pre-2024 snapshot advertises training courses, so the Gold +25 is technically awarded but describes nothing we want to buy. All Bitbucket and GitHub hits across 215k characters are icon-font CSS. Seven DQ_training signals would cap it at 30 regardless. Out of scope rather than low quality."
+  }
+]

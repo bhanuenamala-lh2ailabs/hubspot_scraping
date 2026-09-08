@@ -1,0 +1,472 @@
+[
+ {
+  "name": "RMSI Pvt Ltd",
+  "domain": "rmsi.com",
+  "score": 35,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 35,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2020-06-01 Wayback: geospatial data conversions 'to software development, to modeling, analytics'; genuine software wording, full +25",
+  "evidence": [
+   "Wayback 2020: 'to software development, to modeling, analytics'",
+   "Site: 'CMMi level 5 certification ISO 27001:2022, ISO 9001:2015'",
+   "JD 20,319 chars across 6 pages: zero version-control signals",
+   "No private-repo host, no review gate anywhere in bundle"
+  ],
+  "why_this_rank": "Most credentialed firm in the batch (CMMI-5, ISO 27001/9001) yet lands at 35: 20k chars of collected JD text names no Git, no repo host, no review gate. The one cicd hit is a flood-modelling sentence, not a pipeline. Tier C withheld - only one positioning signal co-occurs.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Rudrabhishek Infosystem Private Limited",
+  "domain": "replinfosys.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [
+   "cap 45 - domain age only, no evidence of software work (non-binding)"
+  ],
+  "pre2024_basis": "DOMAIN_ONLY - registered 2012-12-28; proves the name was owned, not that software was written",
+  "evidence": [
+   "RDAP 2012-12-28 domain registration only, no dated artefact",
+   "Site: 'RIPL is an ISO 9001:2015 certified company'",
+   "JD 5,384 chars across 3 pages: no VCS or review signals",
+   "No CI/CD, QA or product-engineering signal on site"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Secure Source Surveillance Pvt Ltd",
+  "domain": "sssplt.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [
+   "cap 20 - background-verification / screening operations core business",
+   "cap 40 - no careers page, no blog, no team page (non-binding)",
+   "cap 45 - domain age only (non-binding)"
+  ],
+  "pre2024_basis": "DOMAIN_ONLY - registered 2020-06-15; no snapshot showing software work",
+  "evidence": [
+   "Site: 'Fingerprinting Detailed fingerprint analysis and verification of candidates'",
+   "Site: 'ISO 27001:2013 certified, PBSA and NASSCOM NSR empaneled'",
+   "Only homepage reached; no careers, blog or team page",
+   "Zero JD characters collected; no VCS evidence either way"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Techies India Inc.",
+  "domain": "techiesindiainc.com",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 35,
+  "tier_c_points": 0,
+  "raw_before_caps": 60,
+  "caps_applied": [
+   "cap 30 - generalist-agency signature: dev bundled with digital marketing / SEO / media buying"
+  ],
+  "pre2024_basis": "PROVEN - 2020-06-01 Wayback title 'Magento Development Company - Mobile Application Development Services'; genuine build wording, full +25",
+  "evidence": [
+   "JD: 'Working Knowledge of Git' - version control, no repo host named",
+   "JD: 'Knowledge of Agile (Scrum) methodology Experience with unit testing'",
+   "Site: 'custom development, eCommerce, and digital marketing', 'Media Buying'",
+   "Team page lists 'SEO Specialist' beside developers and QA"
+  ],
+  "why_this_rank": "Would have been the second-strongest raw score here (60) on a genuine JD Git mention plus a named QA team, but the site sells development bundled with SEO, media buying and digital marketing - the generalist-agency cap at 30 is what places it, not the evidence. Tier A withheld: Git alone, no Bitbucket/Azure DevOps and no review gate.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Technicious Technology Services Private Limited",
+  "domain": "technicious.in",
+  "score": 38,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 18,
+  "raw_before_caps": 38,
+  "caps_applied": [
+   "cap 40 - no careers page, no blog, no team page (non-binding)"
+  ],
+  "pre2024_basis": "UNKNOWN - no Wayback snapshot and no RDAP record; MISSING not absent, +10 and no cap-45. Site claims 'Since 2019' but that is a claim, not a dated artefact",
+  "evidence": [
+   "Site: 'Since 2019, we've built cloud platforms, mobile apps, enterprise systems'",
+   "Site: 'IT Consulting & Product Engineering'; own Prodi platform, LoRa hardware",
+   "Site: 'ISO 9001:2015' quality management certification",
+   "Zero JD characters; only homepage and /about reached"
+  ],
+  "why_this_rank": "The four DQ_support hits are IoT hardware and edge-AI product copy, not helpdesk or managed IT - no support cap applied. Tier C fires legitimately (own product, product engineering, tech stack) on ISO corroboration, but with zero JD text there is no repo or review evidence in either direction.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Technovalley Software India Private Limited",
+  "domain": "technovalley-aks.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [
+   "cap 30 - training / certification-institute core business (non-binding)"
+  ],
+  "pre2024_basis": "Downgraded from PROVEN to +10 - the 2023-06-01 snapshot quote is a COURSE CATALOGUE ('CCNP MCSA & MCSE Red Hat ... Java Python ASP.NET R Language'), not evidence of software being built",
+  "evidence": [
+   "Wayback quote is a certification course list: 'CCNP MCSA & MCSE ... MCSD'",
+   "Site: 'trusted Skill Partner of Kerala Knowledge Economy Mission (KKEM)'",
+   "Site: 'high end technical certification courses to students'",
+   "JD 135,828 chars across 10 pages yielded zero engineering signals"
+  ],
+  "why_this_rank": "PROVEN downgraded to +10: the snapshot advertises a training catalogue, not delivered software. 136k characters of careers/JD text - the largest corpus in the batch - contain no Git, no repo host, no review gate, consistent with an internship and certification institute rather than a build shop.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Testhouse India Pvt Ltd",
+  "domain": "testhouse.net",
+  "score": 53,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 25,
+  "tier_c_points": 18,
+  "raw_before_caps": 53,
+  "caps_applied": [],
+  "pre2024_basis": "UNKNOWN - no Wayback snapshot and no RDAP record in bundle; MISSING not absent, +10 and no cap-45. Only dated artefact quoted is a 2025 Gartner mention",
+  "evidence": [
+   "Site: 'shift-left, shift-right and zero-defect delivery' across DevOps lifecycle",
+   "Site: 'facilitating agile methodologies and continuous delivery pipelines'",
+   "Site: 'pre-built accelerators, reusable test assets', finance/government clients",
+   "Careers pages reached but yielded only 9 characters of JD"
+  ],
+  "why_this_rank": "Scores on QA and CI/CD service prose, not on repo discipline - the one pr_practice hit ('version control, change tracking') is a services-page sales line naming no host and no review gate, so Tier A is withheld entirely. Two caveats for the caller: this is a testing consultancy, so the codebase on offer is test frameworks rather than client product code, and the entity is the Trivandrum arm of London-headquartered Testhouse Ltd (+44 phone, UK nav) - kept in scope as a services vendor, not rejected as a captive, but the IP likely sits with the parent.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "UL Cyberpark (ULCCS IT Infrastructure Pvt Ltd)",
+  "domain": "ulcyberpark.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [],
+  "pre2024_basis": "Downgraded from PROVEN to +10 - the 2023-06-01 snapshot quote is coworking / real-estate copy ('A Coworking Space to enhance your productivity ... Quick Space annexed to UL CyberPark'), not software work",
+  "evidence": [
+   "Wayback quote sells coworking space and a 'Green e-highway', not software",
+   "Site: 'ISO 9001:2008 ... biggest labour contract Society' (ULCCS parent)",
+   "Careers page lists tenant vacancies: 'QA Engineer ... retailcloud'",
+   "JD 10,149 chars across 7 pages produced zero VCS signals"
+  ],
+  "why_this_rank": "Not an IT firm - this is an IT park and coworking operator run by a labour co-operative society. The engineering-looking careers entries ('QA Engineer ... retailcloud', 'Devops Engineer(AWS') are TENANT companies' vacancies advertised on the park's board, so none of that evidence belongs to this entity. PROVEN downgraded accordingly.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Watsoo Express Private Limited",
+  "domain": "watsoo.com",
+  "score": 48,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 13,
+  "raw_before_caps": 48,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06-01 Wayback advertises their own products: 'Our Products AIS - 140 ... Intelligent System - Prithvi AIS 140'; genuine product wording, full +25",
+  "evidence": [
+   "Wayback 2023: own product 'Prithvi AIS 140', real-time fleet management",
+   "Site: 'ISO CMMI 3 TUV iCAT' - CMMI level 3 change-control",
+   "Site: products for Banking & Finance, 'Core Banking System'",
+   "Zero JD characters collected; only / and /blog reached"
+  ],
+  "why_this_rank": "Real pre-2024 telematics/IoT product company, but scored blind on the engineering question: no careers page was reached and zero JD text collected, so Tier A could not be tested. The three DQ_support hits are IoT and NVIDIA-Inception copy, not managed-IT-support, so no cap applied. Worth noting the site ships a live 'Lorem ipsum' placeholder under Core Banking System.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Whiz Consulting Private Limited",
+  "domain": "whizconsulting.net",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [
+   "cap 20 - finance & accounting outsourcing (BPO) core business",
+   "cap 30 - generalist bundle incl. SEO content (non-binding)"
+  ],
+  "pre2024_basis": "Downgraded from PROVEN to +10 - the 2020-06-01 snapshot quote is nav chrome for an accounting-outsourcing business ('Hire Virtual Accountant ... Get A Quote'), not software work",
+  "evidence": [
+   "Wayback quote: 'Hire Virtual Accountant ... Home Our Services Book'",
+   "Site: 'SOC 2 and ISO 27001 certified F&A service provider'",
+   "Site: outsourced accounting blogs, 'Senior Content Lead ... SEO writing'",
+   "Zero JD characters; no engineering role text anywhere"
+  ],
+  "why_this_rank": "Not an IT firm at all - this is a finance-and-accounting outsourcing provider (bookkeeping, virtual accountants). PROVEN downgraded because the snapshot proves an accounting shop existed, not that software was built. The five cicd hits are the word 'overwhelming' in testimonials, a pure classifier artefact.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Cetark Solutions Private Limited",
+  "domain": "cetark.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [
+   "cap 20 - managed security operations (24x7 SOC) core business (non-binding)",
+   "cap 40 - no careers page, no blog, no team page (non-binding)"
+  ],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-06-01 snapshot exists but did not advertise software development; +10, no cap-45",
+  "evidence": [
+   "Site: 'Our officers are ready to manage and protect your infrastructure 24x7x365'",
+   "Site: 'in compliance/Certified with ISO-27001 and GDPR'",
+   "Only homepage reached; no careers, blog or team page",
+   "Zero JD characters; no VCS, CI/CD or QA signal"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "GIEOM Business Solutions Private Limited",
+  "domain": "gieom.com",
+  "score": 53,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 18,
+  "raw_before_caps": 53,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2020-06-01 Wayback nav names their own product editions and delivery evidence: 'Validator Consultant Edition ... Case Studies Whitepapers'; full +25",
+  "evidence": [
+   "Wayback 2020: own product nav 'Validator Consultant Edition', case studies",
+   "Site: DORA 360 platform, MagpieAI multi-agent engine - long-lived codebases",
+   "Site: 'certified for ISO 27001 and ISO 9001', 100+ customers, BFSI",
+   "Careers page reached but yielded only 9 characters of JD"
+  ],
+  "why_this_rank": "A genuine pre-2024 RegTech product company with real platforms, but it places on Tier C positioning plus one ISO line - the careers pages returned 9 characters, so nothing tests how their engineers actually work. The three DQ_template hits are report templates inside their GRC product ('resilience scorecard ... templated reports'), not a website-template shop, so the -15 was not applied.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Orbitsys Technologies Private Limited",
+  "domain": "orbitsys.in",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [
+   "cap 40 - no careers page, no blog, no team page (non-binding)"
+  ],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-01-19 snapshot exists but did not advertise software development; +10, no cap-45",
+  "evidence": [
+   "Site: 'Cloud Hosted Dealer Management System One World', multi-country",
+   "Site: 'An ISO 27001:2022 Certified Company'",
+   "Only homepage reached; no careers, blog or team page",
+   "Zero JD characters; Tier C lacks a second co-occurring signal"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Sairam Group Of Institutions",
+  "domain": "sairamgroup.in",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "cap 30 - education / training core business (non-binding)"
+  ],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-06-01 snapshot exists but did not advertise software development; +10, no cap-45",
+  "evidence": [
+   "Site: 'Schools, Engineering Institutions, Medical Colleges ... 20,000 students'",
+   "Site ISO 9001:2008 is college accreditation, not change control",
+   "JD 15,379 chars across 6 pages: academic roles, no engineering signals",
+   "qa hit is a World Scout Foundation honour - classifier artefact"
+  ],
+  "why_this_rank": "Not an IT firm - this is a college and school group with 20,000 students. The ISO 9001 compliance point was deliberately withheld: an institutional accreditation for a college is not software change control, so Tier B is zero rather than the usual +10.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Sun Knowledge Pvt Ltd",
+  "domain": "sunknowledge.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [
+   "cap 20 - BPO / medical-billing / data-entry core business"
+  ],
+  "pre2024_basis": "Downgraded from PROVEN to +10 - the 2023-06-01 snapshot quote is BPO billing-services navigation ('DME BILLING PRE BILLING SERVI...'), not software work",
+  "evidence": [
+   "Wayback quote is billing-services nav, not a software portfolio",
+   "Site: 'global provider of Business and Knowledge Process Outsourcing services'",
+   "Site: 'patient data entry and eligibility verification' testimonial",
+   "JD 31,882 chars across 4 pages: zero VCS or review signals"
+  ],
+  "why_this_rank": "PROVEN downgraded to +10 because the snapshot is BPO copy. Core business is healthcare revenue-cycle outsourcing and data entry, which triggers the BPO cap at 20; the 43 enterprise hits are healthcare-outsourcing marketing and earn no Tier C without any A/B engineering corroboration.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Vrentin Tech Private Limited",
+  "domain": "muoro.io",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Low",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [
+   "cap 40 - no careers page, no blog, no team page (non-binding)"
+  ],
+  "pre2024_basis": "PROVEN - 2023-06-01 Wayback title 'Distributed Engineering Teams - Muoro ... Build Remote Software Engineering Teams'; genuine software-services wording, full +25",
+  "evidence": [
+   "Wayback 2023: 'Build Remote Software Engineering Teams With Muoro'",
+   "Site: 'internal, platform-agnostic accelerators'; Skionis lakehouse product",
+   "Site: financial-services clients backed by Goldman Sachs, Blackstone, Citi",
+   "Only homepage reached; JD 164 characters across 5 pages"
+  ],
+  "why_this_rank": "Loses everything after Tier GOLD on withheld points, which the numbers hide. The three cicd hits are DATA pipelines ('A Governed Lakehouse, Not Just a Pipeline', Databricks connectors), not build/deploy pipelines, and the compliance hit is PCI DSS as a product feature rather than a certification they hold - both withheld. With Tier A and Tier B therefore zero, the real Tier C signals (own accelerators, regulated enterprise clients) cannot fire for lack of A/B corroboration. A staff-augmentation firm worth re-crawling for a careers page.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "SAG Infotech Pvt Ltd",
+  "domain": "saginfotech.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-06-01 snapshot exists but did not advertise software development; +10, no cap-45. No dated pre-2024 artefact in bundle to upgrade on",
+  "evidence": [
+   "Site: 'certified by ... CII, ISO 27001:2013 and are members of NASSCOM'",
+   "JD 25,749 chars across 6 pages: no Git, host or review gate",
+   "Bundle records no owns_product or SDLC signal despite tax-software line",
+   "Wayback snapshot exists pre-2024 but without software wording"
+  ],
+  "why_this_rank": "The crawl, not the firm, produces this score: a long-standing Jaipur tax-software house surfaced only an ISO/NASSCOM membership line, with no product, SDLC or careers signal extracted from 25,749 characters of JD text. Scored on the bundle as instructed, but this is the batch's most likely false negative and is worth a manual re-crawl before discarding.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Bruhat Insights Global Private Limited",
+  "domain": "myavtar.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [
+   "cap 30 - consulting / recruitment core business (non-binding)"
+  ],
+  "pre2024_basis": "Downgraded from PROVEN to +10 - the 2023-06-01 snapshot quote is a job-board listing ('Sales Manager-North Job Description ... View more L&D Manage'), not evidence of software being built",
+  "evidence": [
+   "Wayback quote is their own jobs portal, not a software portfolio",
+   "Team bios: diversity consulting, 'Tech support BPO, Accounting KPO'",
+   "MLOps CI/CD quote is a client vacancy on their recruitment board",
+   "No compliance certification, no owns-product, no SDLC signal"
+  ],
+  "why_this_rank": "AVTAR is a diversity-and-inclusion consulting and recruitment business, not a software firm. The single CI/CD signal ('feature stores, model registries ... MLOps standards') is a CLIENT's job advertised on the portal they operate, describing someone else's engineering team - deliberately withheld rather than scored, which is why 34k characters of 'JD' yield zero points.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Kovaion Consulting India Pvt Ltd",
+  "domain": "kovaion.com",
+  "score": 63,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 25,
+  "tier_c_points": 13,
+  "raw_before_caps": 63,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06-01 Wayback: 'Our Products On Low Code App Development Platform The right platform to develop your applications'; own product pre-2024, full +25",
+  "evidence": [
+   "JD: 'Knowledge of Git, CI/CD, or other source-control and deployment practices'",
+   "JD: 'Follow secure coding, version control, and application development standards'",
+   "Wayback 2023: own low-code App Builder platform, enterprise-ready apps",
+   "JD 111,057 chars across 14 pages, no repo host, no review gate"
+  ],
+  "why_this_rank": "Highest genuine score in the batch and the best re-crawl candidate. Tier A withheld on a deliberate call: 111k characters of real JD text mention Git and CI/CD but never Bitbucket, Azure DevOps or self-hosted GitLab, and never a pull request, merge request, code review or branching strategy - so it is Tier B +25, not +40. QA also withheld: 'unit testing ... functional testing and UAT' is a developer duty, not a dedicated test-automation pipeline. The two DQ hits (founder branding story, a sports-tech platform) are misfires and were not capped.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Serko India Private Limited",
+  "domain": "serko.com",
+  "score": 63,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 35,
+  "tier_c_points": 18,
+  "raw_before_caps": 63,
+  "caps_applied": [
+   "REJECT - multinational captive / offshore product-company arm; band forced to Skip"
+  ],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023-06-01 snapshot exists but did not advertise software services; +10, no cap-45",
+  "evidence": [
+   "JD: 'core developer infrastructure (CI/CD, test automation, dev environments)'",
+   "Site: 'VP of Engineering at Halter', 'Chief Product and Technology Officer'",
+   "Site: '1994 Interactive Technologies founded' - NZ parent's own history",
+   "Own travel platform; India entity is the parent's development centre"
+  ],
+  "why_this_rank": "REJECTED as a multinational captive arm despite the second-highest raw score (63). Serko is a New Zealand-listed travel-technology product company (Zeno); this Bengaluru entity is its in-house development centre, not an Indian firm that built and sold software to clients - the codebase belongs to the parent and is not purchasable here. Band forced to Skip regardless of score, per the rejection rule.",
+  "graded_by": "agent"
+ }
+]

@@ -1,0 +1,865 @@
+[
+ {
+  "name": "Cloud Business Services",
+  "domain": "cloudbusinessservices.com",
+  "website": "https://cloudbusinessservices.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Specializes in software development, cloud solutions and DevOps alongside IT/HR outsourcing, covering the full software delivery lifecycle.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 9131,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "compliance": 2
+  },
+  "site_quotes": {
+   "compliance": [
+    "Accept Change cookie settings Privacy Overview Strictly Necessary Cookies 3rd Party Cookies Cookie Policy Powered by GDPR plugin Privacy Overview This website uses cookies so that we can provide you with the best user experience possible."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 18
+ },
+ {
+  "name": "Concept24",
+  "domain": "concept24online.com",
+  "website": "https://www.concept24online.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Web development company (17 years, 500+ projects) building custom business software, web portals, ecommerce and mobile apps for Europe/USA/Canada.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Web Development Company Romania: custom and web application development / Concept 24 Home"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "qa": 2,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "qa": [
+    "QA : tests the applications during the development process and before launching."
+   ],
+   "sdlc": [
+    "Implementing the SCRUM methodology for projects with high complexity."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 18
+ },
+ {
+  "name": "FYB Romania",
+  "domain": "fyb.ro",
+  "website": "https://fyb.ro/",
+  "seed_lead_score": "7",
+  "seed_reason": "Web software developer (since 2003) providing agile Magento and Symfony custom web-app development and eCommerce engineering, though Magento/eCommerce-centric.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 11536,
+   "signals": {
+    "vcs_generic": 2,
+    "testing": 2
+   },
+   "quotes": {
+    "vcs_generic": [
+     "GIT repository usage.",
+     "GIT repository usage Fluency in English (reading/writing/speaking);"
+    ],
+    "testing": [
+     "Unit testing experience.",
+     "Unit testing experience."
+    ]
+   },
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "pr_practice": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Here's how we will help you SCROLL DOWN Agile Magento Development Teams Proven track-record teams successfully handling complex projects with a customer-centric approach."
+   ],
+   "pr_practice": [
+    "READ MORE Magento Optimization Services Complete UI/UX Audits, code reviews and security updates to elevate your Magento eCommerce ROI and conversions rates."
+   ],
+   "enterprise": [
+    "As an FYB team member, you get private medical insurance, monthly team-outings, and team buildings ."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 18
+ },
+ {
+  "name": "SoftXPro",
+  "domain": "softx.pro",
+  "website": "https://softx.pro/",
+  "seed_lead_score": "6",
+  "seed_reason": "Builds and modernizes Drupal platforms and ERPNext systems plus AI integrations (RAG, automations, dashboards) — real engineering, though CMS/ERP-platform focus",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 10469,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "cicd": 8,
+   "enterprise": 1,
+   "sdlc": 2,
+   "DQ_training": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Automate - Workflow automation with Make.com, APIs, CRM, ERP, forms, email, approvals, and reporting pipelines.",
+    "Email your CV → [email protected] OPEN POSITIONS Work with SoftXPro Business Development Partner - Remote Canada - Remote (GTA/Mississauga preferred) We’re looking for a Business Development Partner (Canada) to own new pipeline and help us grow a premium client portfolio across the Canadian market.",
+    "Strong pipeline hygiene (CRM/Sheets), ownership mindset, and reliability in remote work.",
+    "Examples: Utilization = billable hours / available hours (with explicit exclusions) Pipeline coverage = qualified pipeline / next-period target (with stage rules) AR aging buckets = ERP invoice dates + payment terms Where to compute depends on your stack: in a data warehouse, in ERP/BI, or in a reporting service."
+   ],
+   "enterprise": [
+    "Experience selling to SMEs in: healthcare/clinics, construction, home services, logistics, eCommerce."
+   ],
+   "sdlc": [
+    "We’ll also explain how we work and what success looks like in the first 30–60 days.",
+    "View on LinkedIn Pavel Camerzan Senior Software Developer Architecting, developing, and delivering high-quality, maintainable code, while working in tight sprint iterations or waterfall schedules."
+   ],
+   "DQ_training": [
+    "In operations terms, think of AI as a co-pilot inside a workflow —not a replacement for your data model, KPI definitions, or approval chain."
+   ],
+   "DQ_bpo": [
+    "Duplicate data entry creates mismatched fields across CRM, spreadsheets, and invoicing tools."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 18
+ },
+ {
+  "name": "MeshSoftware",
+  "domain": "meshsoftware.eu",
+  "website": "https://meshsoftware.eu/",
+  "seed_lead_score": "8",
+  "seed_reason": "Software company building IoT and scalable cloud applications (logistics, intermodal, railway) on Docker/K8s/Azure/AWS/GCP/Terraform/Go/Java/C#.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_support": 3,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "IoT - The Internet of Things We can help you connect any hardware to the internet, getting data from it or control it.",
+    "Hardware Supply & Installations We offer complete and ingenious solutions for in-house server configuration and setup, based on the client needs.",
+    "J02/795/2019 Phone: +4 0743 071 344 Email: codrut@meshsoftware.eu Useful Links Home About us Services Our Services Code Consulting Web Development Performance Insights Arhitecture Consulting Hardware Supply & Installations Our Social Networks Join our social networks to stay up to date with the latest updates."
+   ],
+   "owns_product": [
+    "Our Clients Our Products Find out more about our products below."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 17
+ },
+ {
+  "name": "Webchain SRL",
+  "domain": "webchain.ro",
+  "website": "https://webchain.ro/",
+  "seed_lead_score": "8",
+  "seed_reason": "Software development company doing custom and AI software, IT consulting and DevOps across Node/Python/Java/Angular/React for automotive, fintech and pharma.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 6107,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "sdlc": 3,
+   "DQ_support": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "02 Personalized Solutions We know every business is unique, which is why our process starts with understanding yours.",
+    "Why Choose Webchain for IT Project Management Proven Methodologies We use industry-leading project management methodologies, such as Agile, Scrum, and Waterfall, customized to meet the particular needs of your business and project scope.",
+    "Continuous Improvement We’re always looking for ways to improve our processes and methodologies."
+   ],
+   "DQ_support": [
+    "Hardware & Financial Company laptop & all the tools that you will need."
+   ],
+   "owns_product": [
+    "How to Build Scalable SaaS Products View Full Article 12 Mar webchain Custom AI Solutions for Businesses When Standard AI Tools Are Not Enough View Full Article 23 Jan Gabriela C."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 17
+ },
+ {
+  "name": "Ascendro",
+  "domain": "ascendro.de",
+  "website": "https://www.ascendro.de/",
+  "seed_lead_score": "8",
+  "seed_reason": "Nearshore software development company doing custom web software, team augmentation, cloud and DevOps (React/Angular/Node/Java) for automotive, healthcare and f",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 4,
+   "enterprise": 4,
+   "compliance": 1,
+   "DQ_template": 1,
+   "cicd": 1,
+   "vcs": 1,
+   "DQ_support": 3
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Some of the industries we've touched so far With each software development project delivery and every product development, we continuously expand our industry-specific knowledge and deepen our process understanding.",
+    "July 22, 2026 Staff augmentation, dedicated team, or managed project: which engagement model fits your roadmap There are three main ways to work with a software development partner, and the right one depends less on cost than on one question: how much of the work do you want to keep owning yourself?",
+    "Read our R&D experiment findings and download the free guide: \"How to Efficiently Use AI in Software Development.\" August 25, 2025 How to replace spreadsheets with solution-oriented automations through low-code Replace fragile spreadsheets with secure, role-based low-code apps.",
+    "June 13, 2023 Estimation methods for agile development Understanding the required skill configuration."
+   ],
+   "enterprise": [
+    "July 14, 2026 The EU AI Act’s August deadline moved – what it means if you build products If you run a manufacturer, an automotive supplier, a fintech or a healthcare company in the EU, some version of this has likely come up in the last few weeks.",
+    "October 31, 2024 Blockchain in the insurance industry, a novelty or a well-established asset?",
+    "What is the role of blockchain in the insurance industry?",
+    "Find out when it breaks the boundaries of traditional insurance policies."
+   ],
+   "compliance": [
+    "July 8, 2026 Software development for automotive Tier 1 and Tier 2 suppliers: working with a TISAX-certified partner TISAX-certified, ISO 27001-compliant, EU-based."
+   ],
+   "DQ_template": [
+    "Get the actual template and our architecture-first approach guidelines in our free eBook."
+   ],
+   "cicd": [
+    "Learn more here November 11, 2024 Todoist ICE Scoring: Automating Task Prioritization with Node.js and Docker With Todoist ICE Scoring, our open-source tool, we simplified task prioritization by automatically calculating ICE scores."
+   ],
+   "vcs": [
+    "If you have any feedback, feel free to contribute on our Github."
+   ],
+   "DQ_support": [
+    "You need scalable IT Support & Operations services tailored to your needs.",
+    "Access our global talent Whether you need a seasoned IT Support Specialist, a proficient Systems Administrator, or a detail-oriented Security Analyst, we've curated a team ready to handle a spectrum of technical responsibilities.",
+    "IT Support Specialist Systems Administrator Security Analyst Network Engineer Software Operations Manager Database Administrator Anything else in mind?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 17
+ },
+ {
+  "name": "Custom Code Factory",
+  "domain": "customcodefactory.com",
+  "website": "https://customcodefactory.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "End-to-end agile custom software developer building corporate digital solutions, SaaS products (time-tracking), CRMs, mobile apps, integrations and process auto",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "de Factory | Web mobile and cloud development Home About us Software development Webdesign/Webshops Contact Mobile applications Web development Databa"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 13,
+   "cicd": 1,
+   "qa": 1,
+   "owns_product": 2,
+   "compliance": 1,
+   "DQ_template": 3
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Streamline your process from acquisition to reselling.",
+    "Proof of concept We build your product from scratch or enhance your existing product in the shortest time possible using Agile Development Process !"
+   ],
+   "cicd": [
+    "From idea (design, prototyping, user testing) to development (software architecture, infrastructure setup, continuous development/continuous integration CI/CD , quality assurance QA ) and maintenance we offer the full suite of services to take your project from idea to success."
+   ],
+   "qa": [
+    "From idea (design, prototyping, user testing) to development (software architecture, infrastructure setup, continuous development/continuous integration CI/CD , quality assurance QA ) and maintenance we offer the full suite of services to take your project from idea to success."
+   ],
+   "owns_product": [
+    "Proof of concept We build your product from scratch or enhance your existing product in the shortest time possible using Agile Development Process !",
+    "We can offer outsourcing services to develop, test and deliver modules that for your platforms."
+   ],
+   "compliance": [
+    "From acquisition, transport, selling, document generation, GDPR management to sales reporting and client management."
+   ],
+   "DQ_template": [
+    "Features such as scheduled messages and customizable templates ensure efficient and personalized interactions.",
+    "Ideal for organizations seeking to enhance their document management processes, our app features document templates that automate and simplify document creation.",
+    "These pre-defined templates accelerate the process, enhance accuracy, and minimize manual errors, ensuring consistent and reliable results for your paperwork needs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 17
+ },
+ {
+  "name": "Amgres.com",
+  "domain": "amgres.com",
+  "website": "https://amgres.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Flutter app development shop building scalable, tested MVPs on clean/modular architecture with Node.js/MariaDB backend APIs.",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2024-03-29",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "qa": 2,
+   "vcs": 2,
+   "DQ_agency": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Secure payment processing via Stripe ⏱️ Minutes 5 Development & Updates Built with Clean Architecture, unit tests, and full documentation."
+   ],
+   "vcs": [
+    "Follow along on your GitHub repo or wait for the weekly summary — you get tested, documented Flutter code, not just a working app."
+   ],
+   "DQ_agency": [
+    "Web agencies, digital marketing agencies, and IT consultancies — if your clients ever ask about mobile apps, our partner program lets you say yes and earn on every project we close."
+   ],
+   "owns_product": [
+    "Built to scale The architecture grows with your product."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://gitlab.com/amgres.com"
+  ],
+  "_prio": 17
+ },
+ {
+  "name": "Bento",
+  "domain": "bento.ro",
+  "website": "https://www.bento.ro/en/",
+  "seed_lead_score": "8",
+  "seed_reason": "Established (21+ years) Romanian tech company doing custom software, IT services, cloud infrastructure and its own field-service/LIMS/smart-metering products.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 19904,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "Andrea Software",
+  "domain": "andreasoft.ro",
+  "website": "https://andreasoft.ro/",
+  "seed_lead_score": "8",
+  "seed_reason": "European software and hardware development company delivering embedded systems and smart-metering/smart-grid solutions with prototyping and certifications.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Andrea Software Call Us +40 742-219-210 Email Us Home Software development Embedded systems Certifications Workflow Specifications Outlining the"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_support": 3
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Contact us WHAT WE DO Andrea Software is a European software and hardware development company delivering full-fledged smart device solutions or partial contributions to clients with the most demanding projects all around the globe.",
+    "Learn more Hardware design Hardware design is all about precise design and consideration of all factors, where the end product will be the intended PCB that can pass all tests and measures up to all expectations.",
+    "We develop products from requirements through software, hardware and mechanical design, along all development phases, creating working prototypes, pushing through certifications making sure the products meet all the required standards with flying colors, finishing with a great product ready for high volume production."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "NEXT ID SOFTWARE SRL",
+  "domain": "nextid.ro",
+  "website": "https://nextid.ro/ro/",
+  "seed_lead_score": "8",
+  "seed_reason": "End-to-end software engineering firm with senior engineers (20+ years) building critical web/mobile/desktop applications with integration and cloud.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "PRISMA Software",
+  "domain": "prisma-software.ch",
+  "website": "https://www.prisma-software.ch/",
+  "seed_lead_score": "8",
+  "seed_reason": "Engineers safety-critical, compliant software for connected vehicles, smart energy, medtech and secure finance where reliability is non-negotiable.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "kle virtually any software challenge. We are specialized in custom software development, working closely with our clients to break down their unique p"
+  },
+  "jd": {
+   "jd_chars": 964,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "POWERTRACE SRL",
+  "domain": "powertrace.ro",
+  "website": "https://www.powertrace.ro/",
+  "seed_lead_score": "8",
+  "seed_reason": "Embedded software developer specializing in embedded security/cryptography, HSM, AUTOSAR and ISO 26262 safety-critical automotive systems.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "olution for implementing the requirements, using the latest Web development technologies: JavaScript, Angular, TypeScript, ASP.NET. Implement, test an"
+  },
+  "jd": {
+   "jd_chars": 256,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "7 years in HSM Strong capabilities in developing and securing systems using Hardware Security Modules, providing robust protection for sensitive data and operations."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "Technical Inside",
+  "domain": "technicalinside.com",
+  "website": "https://technicalinside.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Software studio building AI-powered products, full-stack web/SaaS, cross-platform mobile and automation from first commit to production.",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2026-07-21",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 12670,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "cicd": 2,
+   "DQ_support": 2,
+   "sdlc": 1,
+   "DQ_template": 1,
+   "vcs": 4
+  },
+  "site_quotes": {
+   "cicd": [
+    "Automation & Data Pipeline Connect software to the physical world — data pipelines, integrations, and hands-on PLC/SCADA experience.",
+    "GitHub LinkedIn TO Tudor-Gabriel Onofrei Co-Founder · Automation, Data & Industrial Integration Tudor connects software to the physical world — full-stack delivery and data pipelines in Python and SQL, with hands-on PLC/SCADA industrial-automation experience."
+   ],
+   "DQ_support": [
+    "Research · Jun 2026 Making local LLMs actually usable Running a model on your own hardware is the easy part; the friction is fitting it to the GPU, serving it cleanly, and getting agents to coordinate instead of idle.",
+    "GitHub LinkedIn TV Thomas-Mark Varga Co-Founder · Embedded, Control Systems & Web Thomas bridges hardware and software — robotics, CAD, real-time and industrial systems in C++ and MATLAB, alongside modern web work in Angular and TypeScript."
+   ],
+   "sdlc": [
+    "How we work A small founding team of co-founders, working directly."
+   ],
+   "DQ_template": [
+    "The common thread is figuring out the actual problem, not shipping a template."
+   ],
+   "vcs": [
+    "GitHub LinkedIn MM Mihai-Cristian Milea Co-Founder · AI Agents & Backend Infrastructure Mihai is a backend and AI-agent engineer who builds MCP servers, local-LLM serving tools, and agent-coordination infrastructure — the tooling layer that makes AI agents actually useful.",
+    "GitHub LinkedIn TV Thomas-Mark Varga Co-Founder · Embedded, Control Systems & Web Thomas bridges hardware and software — robotics, CAD, real-time and industrial systems in C++ and MATLAB, alongside modern web work in Angular and TypeScript.",
+    "GitHub LinkedIn TO Tudor-Gabriel Onofrei Co-Founder · Automation, Data & Industrial Integration Tudor connects software to the physical world — full-stack delivery and data pipelines in Python and SQL, with hands-on PLC/SCADA industrial-automation experience.",
+    "GitHub LinkedIn We're also building our first ties to academia: an emerging research partnership with the Faculty of Construction and Installations in Iași."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/Pandaismyname1",
+   "https://github.com/qxZap",
+   "https://github.com/ThomasMarkVarga",
+   "https://github.com/LeonixRS"
+  ],
+  "_prio": 16
+ },
+ {
+  "name": "DevsReady",
+  "domain": "devsready.io",
+  "website": "https://devsready.io/",
+  "seed_lead_score": "8",
+  "seed_reason": "Custom software development firm built by senior engineers for complex real-world challenges (Romania & Europe).",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 364,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "VB Digital Architects",
+  "domain": "vbdigitalarchitects.com",
+  "website": "https://vbdigitalarchitects.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Software architecture and development consultancy delivering enterprise-grade solutions, founded by a senior engineer/architect.",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2025-01-05",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 364,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "BlueLight",
+  "domain": "bluelightsoftware.co",
+  "website": "https://www.bluelightsoftware.co/",
+  "seed_lead_score": "8",
+  "seed_reason": "Builds its own software products and provides enterprise software engineering, cloud engineering and BI/AI-driven automation with senior developers.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "enterprise": 8,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Banking & Finance Develop banking solutions that comply with regulations and prioritize customer satisfaction.",
+    "Healthcare ​​Effectively navigate a healthcare system that is highly interconnected and driven by data."
+   ],
+   "sdlc": [
+    "Solution: Adopt agile methodologies, encouraging cross-functional collaboration and promoting a culture of innovation and adaptability."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "Zynk Software",
+  "domain": "zynksoftware.com",
+  "website": "https://www.zynksoftware.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Unreachable at fetch time; blurb describes a 13-year end-to-end software development provider building mobile apps, web platforms and big-data software products",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ZYNK - Software development company from Cluj-Napoca, Romania. Toggle navigation Services Custom"
+  },
+  "jd": {
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "Krypton Labs",
+  "domain": "kryptonlabs.io",
+  "website": "https://www.kryptonlabs.io/",
+  "seed_lead_score": "8",
+  "seed_reason": "AI and blockchain/Web3 development company building smart contracts, DeFi, wallets and NFTs plus enterprise/custom software, web development and DevOps.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "evelopment NFT DAO Play To Earn Games Software  Enterprise Software Development Custom Software Development Web Development Software Consulting DevOp"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "We use Agile methodology with 2 week sprints and regular demo sessions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 16
+ }
+]

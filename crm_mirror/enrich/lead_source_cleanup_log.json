@@ -1,0 +1,35 @@
+{
+ "removed": [
+  "GoodFirms",
+  "LH2 Pipeline",
+  "LH2 Distress",
+  "Deadpool Waves",
+  "Outflo Outreach - India",
+  "Outflo Outreach - Indonesia",
+  "LinkedIn Sales Navigator",
+  "LinkedIn Lead-Gen Form - ITservices_targeted_message",
+  "Tracxn Ranked Sheet",
+  "Private Codebase Tracker",
+  "Google Maps",
+  "OutFlo Replied - Relevance Check",
+  "LinkedIn Lead-Gen Form - Jul 31 2026",
+  "LinkedIn Message Campaign (IT Services)",
+  "Linkedin Message ( IT services )",
+  "Outflo ( Startups )",
+  "Tracxn ( Startups )",
+  "Scraped ( Startups )",
+  "Outflo Outreach ( IT services )"
+ ],
+ "kept": [
+  "Scraping Algo ( IT services )",
+  "Linkedin Campaign ( IT Services )",
+  "NASSCOM ( IT Services )",
+  "Outflo Outreach ( Startups )",
+  "Tracxn Sheet ( Startups )",
+  "Scraping Algo ( Startups )",
+  "Romania ( IT Services )",
+  "Private Codebase Tracker sheet ( IT services )",
+  "Scraped ( IT Services )"
+ ],
+ "when": "2026-08-14"
+}

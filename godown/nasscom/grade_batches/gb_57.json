@@ -1,0 +1,764 @@
+[
+ {
+  "name": "Verizon Data Services India Pvt Ltd",
+  "city": "Chennai",
+  "domain": "verizon.com",
+  "website": "https://www.verizon.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 16694,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Version 1 Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "version1.com",
+  "website": "https://www.version1.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 12,
+   "external_job_boards": [],
+   "jd_chars": 70078,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "We’re an agile partner that enables agricultural reform."
+   ],
+   "enterprise": [
+    "Learn more Public Healthcare We help public healthcare organisations modernise their systems, digitise workflows, and harness AI and data to improve patient outcomes.",
+    "From reducing administrative burdens to enabling connected, community-focused care, we provide the technology, expertise, and long-term partnership needed to deliver efficient, resilient, and patient-centred healthcare."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Vevion Technology Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "vevion.in",
+  "website": "https://vevion.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 67787,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Traditional programs overwhelm learners with theory, expensive courses, and unclear outcomes."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "VFS Global Services Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "vfsglobal.com",
+  "website": "https://www.vfsglobal.com/en/individuals/index.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2005-02-23",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 504,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Vialto Partners India 2 Private Limited",
+  "city": "Bengaluru",
+  "domain": "vialtopartners.com",
+  "website": "https://vialtopartners.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "“expect the unexpected”. In mobility, this means ensuring your workforce is ready to move at any given moment. Read on to see how you can plan for wh"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 25393,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Thanks to our open API partnerships, our platform is designed to work with the systems you already use."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Viavi Solutions India Pvt Ltd",
+  "city": "Pune",
+  "domain": "jdsu.com",
+  "website": "https://www.viavisolutions.com/en-us",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-02-19",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 124966,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "VIAVI StrataSync Creating a Job Template"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Vinca Cybertech Private Limited",
+  "city": "Mumbai",
+  "domain": "vincacyber.com",
+  "website": "https://www.vincacyber.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "e security landscape and leveraging extensive experience of our product offerings, we are proud to offer the following core services for a wide range"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 70953,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "sdlc": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "With ever growing complexity of the security landscape and leveraging extensive experience of our product offerings, we are proud to offer the following core services for a wide range of products."
+   ],
+   "sdlc": [
+    "Read More 22 Years Experience 200 Technology Certifications 200 Projects Executed 100 Satisfied Clients How We Work?"
+   ],
+   "enterprise": [
+    "But application integration loopholes had big security worries for us But not anymore, with our security partner Vinca Cyber giving us 24/7 security insurance."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Vir Softech Private Limited",
+  "city": "Delhi",
+  "domain": "virsoftech.com",
+  "website": "https://www.virsoftech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Explore Print Product Engineering We love and offer these 3 firsts: technology-first, customer-first, and efficiency-first."
+   ],
+   "enterprise": [
+    "Vir Softech was founded by technologists who have developed superior printing, digital imaging, and educational solutions for Fortune 500 companies."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Virtuous Screening Private Limited",
+  "city": "Hyderabad",
+  "domain": "virtuousscreening.com",
+  "website": "https://virtuousscreening.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "VISCO Information Technology Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "vanguard.in",
+  "website": "https://www.vanguard.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2009-05-07",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Voya Global Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "voyaindia.com",
+  "website": "https://www.voyaindia.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2023-06-28",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 67844,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Fortune 500 Company Recognized among the top U.S.",
+    "His commitment to his field extends beyond his professional career into his service on various boards, including Connecticut Insurance & Financial Services, Connecticut Science Center, Savvi Financial, and Voya India.",
+    "Home loading Vaibhav Pandhari Head – Technology, Voya India With 28 years of experience, Vaibhav Pandhari is a seasoned technology leader specializing in financial services and insurance-retirement platforms.",
+    "Vaidhyanathan Muthurengan Head – Enterprise Risk & Compliance, Voya India Vaidhyanathan Muthurengan has over 20 years of expertise in risk management, governance, internal compliance, and audit across IT, banking, automotive, and more."
+   ],
+   "sdlc": [
+    "He is a passionate team builder and collaborator, well-versed with agile delivery execution in a multi-cultural, multi-location ecosystem."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "W Beyond (OPC) Private Limited",
+  "city": "Hyderabad",
+  "domain": "wbeyond.co",
+  "website": "https://wbeyond.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "eam of women who are passionate about delivering innovative software solutions to our clients. With a focus on cutting-edge technology and user experi"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "The team’s creative, agile, and always thinking ahead."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Walsons Services Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "securitas.in",
+  "website": "https://www.securitas.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 19,
+   "external_job_boards": [],
+   "jd_chars": 113161,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "WD Storage Technologies India Private Limited",
+  "city": "Bengaluru",
+  "domain": "westerndigital.com",
+  "website": "https://www.westerndigital.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 83364,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Western Union Services India Private Limited",
+  "city": "Pune",
+  "domain": "westernunion.com",
+  "website": "https://www.westernunion.com/in/en/home.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1995-10-08",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 806938,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Widas Concepts India Private Limited",
+  "city": "Bengaluru",
+  "domain": "widas.in",
+  "website": "https://www.widas.de/en/",
+  "already_in_hubspot": false,
+  "headcount_known": 110,
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 10767,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 2,
+   "sdlc": 6,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Solution Architect (m/w/d) Become part of cidaas, a leading Cloud IAM service in Europe, and work in an agile team on cool new features."
+   ],
+   "sdlc": [
+    "Solution Architect (m/w/d) Become part of cidaas, a leading Cloud IAM service in Europe, and work in an agile team on cool new features.",
+    "DevOps Engineer (m/w/d) Become part of cidaas, a leading cloud service in Europe, and work in an agile on the cidaas platform.",
+    "Software Developer (m/f/d) Become part of cidaas, a leading cloud service in Europe, and work in an agile team on cool new features."
+   ],
+   "cicd": [
+    "Together with your development colleagues, you will work on cool new features and get the software off the ground, guide it through CI/CD pipelines and accompany it all the way to deployment and operation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "William O'Neil India Private Limited",
+  "city": "Bengaluru",
+  "domain": "williamoneilindia.com",
+  "website": "https://williamoneilindia.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "WE ARE William J. O’Neil 50-Year Heritage O’Neil Companies Our Products MarketSmith India SWINGTrader India AlgoSmith MS India Academy Panaray® Conta"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 14487,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "O’Neil 50-Year Heritage O’Neil Companies Our Products MarketSmith India TraderSmith QuantSmith MS India Academy Panaray® PortfolioSmith Contact Us Careers Our methodology brings great ideas into focus.",
+    "O’Neil 50-Year Heritage O’Neil Companies Our Products MarketSmith India TraderSmith QuantSmith MS India Academy Panaray® PortfolioSmith Contact Us Careers William J."
+   ],
+   "enterprise": [
+    "William O'Neil China William O'Neil India Join Our Team DAI Home Benefits Culture In the News Our CEO We are a diverse group of private firms in equity investment services and data driven customer communications for Healthcare, Insurance and Financial Services industries.",
+    "We are a diverse group of private firms in equity investment services and data driven customer communications for Healthcare, Insurance and Financial Services industries."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "WorkBuds",
+  "city": "Kolkata",
+  "domain": "workbuds.in",
+  "website": "https://www.workbuds.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "steps, Guidance – Training- Placement. Our Popular Courses Python Python Is Beginner-Friendly However, Python features English syntax and was designe"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 4,
+   "compliance": 4
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Branding We are specializes in strategic branding to enhance business visibility and growth.",
+    "We are also in Software development and Digital Marketing.",
+    "Read More Marketing & Branding wing spotlights Establishing and maintaining a unique, memorable brand identity that resonates with target audiences.",
+    "Increasing online visibility and traffic to the brand’s digital properties through optimized digital marketing practices."
+   ],
+   "compliance": [
+    "About Us We are a Training and Development company established in 2021, an ISO 9001 : 2015 company.",
+    "We are a Training and Development company established in 2021, an ISO 9001 : 2015 company.",
+    "WorkBuds, a… Learn more We are a Training and Development company established in 2021, an ISO 9001 : 2015 company."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Workday India Private Limited",
+  "city": "Pune",
+  "domain": "workday.com",
+  "website": "https://www.workday.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "kforce management. Get More Maximize value by adding on to your Workday investment. Analytics and Reporting Financial, workforce, and operational anal"
+  },
+  "jd": {
+   "pages_read": 14,
+   "external_job_boards": [],
+   "jd_chars": 122393,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "sdlc": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "All Industries PRODUCTS Frontline Workforce Solutions Professional Services Automation Supply Chain Management for Healthcare Student Management Workday Government Cloud Platform Gain a flexible foundation that helps you move beyond the limitations of legacy ERP.",
+    "Credible More than 10,000 organizations, 65%+ of Fortune 500 and 70%+ of the Fortune 50 have selected Workday as a partner.",
+    "Financial Services Healthcare Higher Education Hospitality Retail Professional and Business Services Technology and Software Public Sector Media and Entertainment All Industries Customer Success Our customers have the best stories."
+   ],
+   "sdlc": [
+    "Read Report Operations Drive faster, smarter frontline operations and enable a connected, agile workforce with AI agents and mobile tools.",
+    "Utilize an agile talent acquisition suite that helps companies adapt."
+   ],
+   "owns_product": [
+    "Learn More Product Management Become one of the first users of our products—improving tools for yourself and then sharing them at scale."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Workline Private Limited",
+  "city": "Mumbai",
+  "domain": "workline.hr",
+  "website": "https://www.workline.hr",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ng financial institution transform their HR department Read Case Study Built for evolving business needs Customizable Secure Scalable Real-time Busine"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 439,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ }
+]

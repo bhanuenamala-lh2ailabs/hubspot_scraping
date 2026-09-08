@@ -1,0 +1,1486 @@
+[
+ {
+  "name": "Acceleron Solutions Private Limited",
+  "city": "Kolkata",
+  "domain": "acceleronsolutions.io",
+  "website": "https://acceleronsolutions.io/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 14,
+   "external_job_boards": [],
+   "jd_chars": 51157,
+   "signals": {
+    "review_gate": 1,
+    "vcs_generic": 2,
+    "testing": 2
+   },
+   "quotes": {
+    "review_gate": [
+     "Perform code reviews to ensure code quality and adherence to coding standards."
+    ],
+    "vcs_generic": [
+     "Experience with version control systems (e.g., Git).",
+     "Experience with version control systems like Git."
+    ],
+    "testing": [
+     "Experience in configuring SAP FICO modules and conducting unit testing to ensure the quality and stability of solutions.",
+     "Experience in configuring SAP FICO modules and conducting unit testing to ensure the quality and stability of solutions."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1,
+   "DQ_support": 1,
+   "compliance": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "From robotic process automation (RPA) to automated testing, we tailor automation strategies that fit your unique business needs."
+   ],
+   "DQ_support": [
+    "Infrastructure Annual Maintenance Contract (AMC) Providing regular maintenance and support for your IT systems."
+   ],
+   "compliance": [
+    "ISO 27001 Certification Achieve compliance with ISO 27001 standards, the leading international certification for information security management."
+   ],
+   "owns_product": [
+    "Our products & solutions Over last one decade at Acceleron we have developed multiple products and solutions which can be deployed to group companies as well as external customers."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 62
+ },
+ {
+  "name": "Bluebash Consulting Private Limited",
+  "city": "Mohali",
+  "domain": "bluebash.co",
+  "website": "https://www.bluebash.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Bluebash | Top Software Development Company In USA,UK --> Industries Real Estate Fintech & Banking Health"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 129397,
+   "signals": {
+    "review_gate": 2
+   },
+   "quotes": {
+    "review_gate": [
+     "Oversee code reviews to ensure adherence to best practices and high-quality standards.",
+     "Oversee code reviews to ensure adherence to best practices and high-quality standards."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 115,
+   "DQ_agency": 14,
+   "owns_product": 27,
+   "sdlc": 19,
+   "compliance": 5,
+   "cicd": 11,
+   "pr_practice": 1,
+   "DQ_template": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Web and Software Development, AI Expert and Cloud Solutions Industries Health Care & Fitness E-commerce & Retail Education & E-learning Sports & Entertainment Real Estate Social Media Marketing Travel & Tourism Fintech & Banking We work for all industries.",
+    "E-Commerce for Healthcare Healthcare And Wellness Marketplace A centralized marketplace, from where a vendor can sell their products on multiple channels EDUCATION & E-LEARNING MyQuest Dynamic learning space for high completion rates.",
+    "Healthcare Dental Supplies Marketplace Dental Supplies Marketplace is an E-commerce platform.",
+    "Healthcare PayByCard PayByCard is a unified wallet system, and admins hold the financial power, ensuring a structured flow of funds."
+   ],
+   "DQ_agency": [
+    "Web and Software Development, AI Expert and Cloud Solutions Industries Health Care & Fitness E-commerce & Retail Education & E-learning Sports & Entertainment Real Estate Social Media Marketing Travel & Tourism Fintech & Banking We work for all industries.",
+    "Social Media Marketing Reach your audience effectively.",
+    "SEO Improvements Optimize stores for better search engine performance & visibility.",
+    "Bluebash Careers Industries Health Care & Fitness E-commerce & Retail Education & E-learning Sports & Entertainment Real Estate Social Media Marketing Travel & Tourism Fintech & Banking We work for all industries."
+   ],
+   "owns_product": [
+    "Catch us on Behance Explore More Company About Us Our Process Events Blogs Career we are hiring Our Culture Contact Media Kit Explore More Our Products NextBrand uCV Explore More contact us Let’s Discuss your Project We’re excited to start soon!",
+    "Our Culture Contact Media Kit See All Blogs Our Products Bluebash is entering the next chapter of transformation with the innovative product line of NextBrand & uCV e-commerce Platform NEXTBRAND Quit Shopify Today, Be The NextBrand.",
+    "talk to our experts 01 RESEARCH AND INNOVATION Give your product idea a shape.",
+    "Plan and evaluate the essential features of your product to accomplish your business goals."
+   ],
+   "sdlc": [
+    "Catch us on Behance Explore More Company About Us Our Process Events Blogs Career we are hiring Our Culture Contact Media Kit Explore More Our Products NextBrand uCV Explore More contact us Let’s Discuss your Project We’re excited to start soon!",
+    "Read Post COMPANY About Us Our Process Events Blogs Career we are hiring!",
+    "Our successful sprints will help us to deliver the finished product on time.",
+    "With these measures, you can rest assured that you'll remain well-informed and confident in our processes."
+   ],
+   "compliance": [
+    "HIPAA Compliance We ensure that our applications are HIPAA compliant, which entails that they are secure.",
+    "GDPR Our data collection, processing, and securing process is designed to follow all the stringent GDPR compliance requirements.",
+    "Renowned as one of the top healthcare software development companies, we prioritise HIPAA compliance, ensuring secure, innovative solutions.",
+    "Highly refined hospital management databases meeting HIPAA standards and security protocols."
+   ],
+   "cicd": [
+    "● Build a strong sales pipeline through cold calling, targeted emailing, LinkedIn outreach, and networking.",
+    "Build and Maintain Client Relationships ● Foster long-term client relationships to ensure satisfaction, drive upsells, ● Keep CRM systems (e.g., HubSpot, Salesforce) up to date with accurate sales activity and pipeline status.",
+    "Build scalable AI pipelines for data ingestion, preprocessing, and model deployment.",
+    "Data Pipeline Development: We create solid and flexible paths for your data to travel through your company."
+   ],
+   "pr_practice": [
+    "Oversee code reviews to ensure adherence to best practices and high-quality standards."
+   ],
+   "DQ_template": [
+    "Customizable prescription templates for different specialties."
+   ],
+   "senior_roles": [
+    "Hire Site Reliability Engineer (SRE) Ensure unwavering reliability with our SRE champions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 62
+ },
+ {
+  "name": "EasyStepIn IT Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "easystepin.com",
+  "website": "https://easystepin.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "cing Products Meepaisa Development Standards Resources Blog Case Studies News Room Webinar Contact Us --> --> --> --> --> iPaaS Implementation Service"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 121740,
+   "signals": {
+    "review_gate": 2
+   },
+   "quotes": {
+    "review_gate": [
+     "Participate in the peer review process to assist others in improving their code, and listening to ideas from others.",
+     "Participate in the peer review process to assist others in improving their code, and listening to ideas from others."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "cicd": 4,
+   "sdlc": 1,
+   "qa": 2,
+   "owns_product": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Asia’s Elite AiPaaS & Boomi Integration Partner Skip to main content EasyStepIn Home About Industries Manufacturing High Tech Retail/E-Commerce Health Care & Life Sciences Logistics Energy & Utilities Financial & Insurance​ Services AiPaaS Implementation Boomi Integration Services",
+    "EasyStepIn serves manufacturing, high-tech, retail/e-commerce, healthcare and life sciences, logistics, energy and utilities, and financial and insurance sectors.",
+    "EasyStepIn Skip to main content EasyStepIn Home About Industries Manufacturing High Tech Retail/E-Commerce Health Care & Life Sciences Logistics Energy & Utilities Financial & Insurance​ Services AiPaaS Implementation Boomi Integration Services"
+   ],
+   "cicd": [
+    "Read Case Study > Cloud Migration This case study highlights a seamless cloud migration to AWS using SQS, EC2, APIs, DB, and CI/CD, improving scalability and automation.",
+    "It goes beyond traditional iPaaS by embedding AI directly into data pipelines and decision-making.",
+    "Custom ETL Pipelines : Easystepin allows users to quickly build custom ETL pipelines without needing to code everything manually, saving time and improving efficiency.",
+    "Challenges Slow data pipeline causing delays in real-time product recommendations."
+   ],
+   "sdlc": [
+    "Domain Proficiency Experienced SMEs & Business Analysts with o mandatory domain expertise, Agile & DevOps Practitioners True Transformation Transform seamlessly with an integrated approach, leveraging all applicable technology tenets effectively."
+   ],
+   "qa": [
+    "May 6, 2026 7 min read No … Test Automation Test Automation",
+    "February 8, 2025 Test automation involves using specialized software to execute tests and compare actual outcomes with expected results."
+   ],
+   "owns_product": [
+    "Most EasyStepIn integration projects move from discovery to go-live in 6-8 weeks, compared to the industry average of 18 months for similar migrations, thanks to reusable Solution Accelerators and a proven implementation framework."
+   ],
+   "compliance": [
+    "Easystepin migrated data to an encrypted cloud data lake, ensuring compliance with GDPR and HIPAA."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 62
+ },
+ {
+  "name": "Tatwa Technologies Limited",
+  "city": "Bhubaneswar",
+  "domain": "tatwa.com",
+  "website": "https://www.tatwa.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "search IT Services Digital Transformation Custom Enterprise Software Development Quality Assurance Smart Governance IT Consulting Services Web Design"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 6332,
+   "signals": {
+    "private_repo_host": 2,
+    "cicd": 2,
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Azure Data Factory (ADF) Microsoft Fabric Data Factory & Lakehouse/Warehouse ETL / ELT Pipeline Development Advanced SQL Development & Optimization DBT (Core / Cloud) Azure DevOps / GitHub Actions Data Governance, Security & CI/CD Salary:",
+     "Azure Logic Apps Azure Functions Azure API Management (APIM) Azure Service Bus Azure Event Grid & Event Hubs Azure DevOps & CI/CD Pipelines ARM Templates / Terraform / Bicep API Development & System Integration Salary:"
+    ],
+    "cicd": [
+     "Azure Data Factory (ADF) Microsoft Fabric Data Factory & Lakehouse/Warehouse ETL / ELT Pipeline Development Advanced SQL Development & Optimization DBT (Core / Cloud) Azure DevOps / GitHub Actions Data Governance, Security & CI/CD Salary:",
+     "Azure Logic Apps Azure Functions Azure API Management (APIM) Azure Service Bus Azure Event Grid & Event Hubs Azure DevOps & CI/CD Pipelines ARM Templates / Terraform / Bicep API Development & System Integration Salary:"
+    ],
+    "vcs_generic": [
+     "Azure Data Factory (ADF) Microsoft Fabric Data Factory & Lakehouse/Warehouse ETL / ELT Pipeline Development Advanced SQL Development & Optimization DBT (Core / Cloud) Azure DevOps / GitHub Actions Data Governance, Security & CI/CD Salary:",
+     "JavaScript / TypeScript Angular Git / GitLab AWS / MuleSoft exposure Must Know:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "DQ_support": 2,
+   "enterprise": 3,
+   "DQ_bpo": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "We help organizations connect people, processes, data, and AI to build more agile and future-ready businesses."
+   ],
+   "DQ_support": [
+    "View More Blockchain Services BlockChain Offerings - Tatwa Validate, Tatwa Fund-Track, Tatwa Crowd Source, Tatwa AssetReg, Tatwa Elect View More Cyber Security Services Cybersecurity is the protection of internet-connected systems such as hardware, software and data from cyber threats.",
+    "Sunil has years of hardware and software industry skills in variety of roles -Intel circuit design automation to delivering enterprise software solutions involving IBM, Oracle, Microsoft and Open Source technologies."
+   ],
+   "enterprise": [
+    "Since our earliest days, we've represented everything from start-ups to Fortune 500 companies with that same approach, dedication & hard work at the core of every project.",
+    "Smruti Priyadarshini, Co-founder & Director Technologies Result-driven technology leader with over 17 years of experience in Project Management, Software Development, Business Analysis and Data Design & Modelling covering Insurance, Manufacturing, Banking & Credit Cards and Retail domains.",
+    "Smruti Priyadarshini Nayak, Director Technologies Result-driven technology leader with over 17 years of experience in Project Management,Software Development, Business Analysis and Data Design & Modelling covering Insurance, Manufacturing, Banking & Credit Cards and Retail domains."
+   ],
+   "DQ_bpo": [
+    "It is primarily into telephony customer service via its Call centers located at 7 different locations in Bhubaneswar, Hydrabad, Mumbai and Kolkata."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 62
+ },
+ {
+  "name": "Consint Solutions Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "consint.ai",
+  "website": "https://consint.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 18,
+   "external_job_boards": [],
+   "jd_chars": 83938,
+   "signals": {
+    "review_gate": 2,
+    "cicd": 1,
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "review_gate": [
+     "Participate in code reviews and follow coding best practices.",
+     "Ensure code quality through code reviews, testing, and adherence to best practices."
+    ],
+    "cicd": [
+     "Expertise in ML Ops tools and techniques (CI/CD for ML, model monitoring, versioning)."
+    ],
+    "vcs_generic": [
+     "Knowledge of Git and GitHub.",
+     "Familiarity with Git/GitHub/GitLab version control."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 21,
+   "owns_product": 3,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Request Demo AI Intelligence Powering Smarter Banking & Financial solutions Empowers banks and financial institutions to identify risk, uncover fraud, automate document validation, and accelerate anti-money laundering and mule account detection with trusted, data-backed intelligence.",
+    "Request Demo Industries We Serve Industry-Focused AI for Smarter Operations Industry-Focused AI For Smarter Operations AI-driven solutions transforming hospitals, insurance, and BFSI operations by improving accuracy, speed, compliance, and efficiency.",
+    "We deliver industry-specific AI solutions for hospitals, insurers, banks, and healthcare organizations.",
+    "Read More Insurance Leveraging AI-powered automation, we help insurers detect fraud in real time, policy portability, ensure accurate claim adjudication, speed up end-to-end processing, maintain regulatory compliance, and optimize costs across health and general insurance workflows."
+   ],
+   "owns_product": [
+    "Our platforms automate and optimize claims processing, enable intelligent fraud detection, digitize documents, and elevate patient and customer journey management.",
+    "Our Products AI-Powered Solutions Transforming Industries With Intelligence Risk AI For Fraud Risk Management Leveraging advanced AI, our platform identifies and prevents insurance and financial fraudulent activities, reduces financial exposure, and enables precise, efficient claims adjudication.",
+    "Read More Risk AI for Fraud Risk Management Leveraging advanced AI, our platform identifies and prevents insurance and financial fraudulent activities, reduces financial exposure, and enables precise, efficient claims adjudication."
+   ],
+   "DQ_agency": [
+    "Manager Data Scientist Computer/IT Noida More Details Key Account Manager Computer/IT AI Noida More Details AM- Digital Marketing Computer/IT AI Noida More Details React Developer- Intern Computer/IT AI Noida More Details Sr."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 61
+ },
+ {
+  "name": "Notetech Software",
+  "city": "Kochi",
+  "domain": "notetech.com",
+  "website": "https://www.notetech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "P FOR ALL SOFTWARE OUTSOURCING SERVICES We offer phenomenal software development services for your business Request a service Highly Secured Services"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 5902,
+   "signals": {
+    "private_repo_host": 1,
+    "cicd": 1
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Full-time Candidate Requirements No of Vacancies -1 Experience- 3+yrs Asp.net, .Net core, C#, SQL, Angular, Azure devops CI/CD, and web Api Good to have AWS lambda Impressive communication skills."
+    ],
+    "cicd": [
+     "Full-time Candidate Requirements No of Vacancies -1 Experience- 3+yrs Asp.net, .Net core, C#, SQL, Angular, Azure devops CI/CD, and web Api Good to have AWS lambda Impressive communication skills."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "enterprise": 2,
+   "cicd": 2,
+   "owns_product": 3,
+   "DQ_agency": 1,
+   "DQ_support": 2,
+   "qa": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Notetech --> About Us Services Technology Products Our Process Insights Blog News WhitePaper Career Contact Us About Us Services Technology Products Our Process Insights Blog News WhitePaper Career Contact Us --> CAREERS Here’s your opportunity to showcase your talent in the world of global software solutions."
+   ],
+   "enterprise": [
+    "Health Insurance Our employees are important to us, as are their family members.",
+    "That's why we provide health insurance coverage for the immediate families of our employees."
+   ],
+   "cicd": [
+    "Full-time Candidate Requirements No of Vacancies -1 Experience- 3+yrs Asp.net, .Net core, C#, SQL, Angular, Azure devops CI/CD, and web Api Good to have AWS lambda Impressive communication skills.",
+    "Developers can use DevOps to automate the creation of a twin environment resembling an automated Continuous Integration server using scripts."
+   ],
+   "owns_product": [
+    "Write clear marketing copy to promote our products/services",
+    "We are committed to placing the client at the center of every discussion and planning process to ensure that our products and services are inherently client-focused.",
+    "QA helps you to save time and money in the long run, which, as a result, makes your product stand out in the market competition while maintaining a good reputation."
+   ],
+   "DQ_agency": [
+    "Conduct simple keyword research and use SEO guidelines to increase web traffic"
+   ],
+   "DQ_support": [
+    "DELIVERING EXCEPTIONAL EXPERIENCES EXPERIENCE WORLD-CLASS OFFSHORE SOFTWARE SERVICES As one of the most reliable IT service providers, we offer a skilled team of certified engineers and IT support professionals, ready to cater to your unique business needs.",
+    "Secured Network Infrastructure: Our network is protected by a Cyberoam hardware firewall, coupled with best-in-class routers and server equipment for optimal security."
+   ],
+   "qa": [
+    "QA helps you to save time and money in the long run, which, as a result, makes your product stand out in the market competition while maintaining a good reputation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 61
+ },
+ {
+  "name": "Connor Clark & Lunn India Private Limited",
+  "city": "Gurugram",
+  "domain": "cclfg.cclgroup.com",
+  "website": "https://cclfg.cclgroup.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Funds) is excited to announce two absolute-return oriented portfolios in liquid alternative fund form, CC&L Global Market Neutral II Fund and CC&L Gl"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 706834,
+   "signals": {
+    "private_repo_host": 1
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Strong knowledge of IaC tooling (Bicep, ARM, Terraform, Azure DevOps).<\\/li>\\n<li><strong>Multi-Cloud Acumen<\\/strong>:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Global Alpha Capital Management From cybersecurity and political risk to fine art, marine cargo and niche business coverage, specialty insurance exists to price risks that standard insurers often cannot."
+   ],
+   "owns_product": [
+    "In turn, our platform attracts, motivates and retains high quality investment talent.",
+    "As a multi-boutique firm, our platform attracts high quality individuals and grows long-term working relationships."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 60
+ },
+ {
+  "name": "EWall Solutions Private Limited",
+  "city": "Chennai",
+  "domain": "ewallsolutions.com",
+  "website": "https://ewallsolutions.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "boards & Visualisation RFI Railway Our blog Shop Contact Us Our Works Created in 2006, the company is experienced and dynamic. Discover the compositio"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 12482,
+   "signals": {
+    "review_gate": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Participate in code reviews and actively seek feedback to improve skills."
+    ],
+    "vcs_generic": [
+     "Familiarity with version control tools like Git is desirable."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Flexible Engagement Models We know that every project is different, which is why we offer flexible engagement models."
+   ],
+   "enterprise": [
+    "2025 Automation CRM CRM in healthcare solutions Custom CRM customer servicee healthcare CRM odoocrm Jan 7, 2025 CRM Tanseer Ahmed Product Wishlist Notification Tracker - Odoo Application Enhance Your Odoo Admin Experience with the Wishlist Notification Tracker"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 60
+ },
+ {
+  "name": "Infomerica (INDIA) Private Limited",
+  "city": "Hyderabad",
+  "domain": "infomericainc.com",
+  "website": "https://www.infomericainc.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ess CRM Health Sciences Mobility Cloud Computing DevOps NET/JAVA/PHP Development Remote Infrastructure Management Service Oriented Architecture Allian"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 62923,
+   "signals": {
+    "review_gate": 2,
+    "testing": 6
+   },
+   "quotes": {
+    "review_gate": [
+     "Mentor engineering team members on technical decision making, code reviews and enforcing engineering practices and standards Main point of contact and subject matter expert on your product domain.",
+     "Mentor engineering team members on technical decision making, code reviews and enforcing engineering practices and standards Main point of contact and subject matter expert on your product domain."
+    ],
+    "testing": [
+     "ReactJS, TypeScript, Javascript ,Performance Tuning ,OHIF, Cornerstone Image Hands on experience on ReactJS/Redux, CSS/SCSS (Grid), Responsive design, PWA, websocket, Unit Testing Jest Good knowledge of Java Script, jQUery, HTML 5, CSS,...",
+     "Responsible for the technical specification, developing the technical solutions, implementing them, and performing the component integration tests on the ServiceNow platform.",
+     "Hands-on experience with TDD using Junit5 and Mockito Experience using Application Performance Management (APM) tools (e.g., AppDynamics, Dynatrace) and Splunk and ELK or Opensearch stack for log aggregation Working experience as a multi-skilled professional practicing Agile/SCRUM methodologies."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 6,
+   "DQ_bpo": 2,
+   "cicd": 5,
+   "enterprise": 2,
+   "qa": 2,
+   "pr_practice": 1,
+   "owns_product": 2,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Cost-Effective Offerings We provide competitive pricing and flexible engagement models to maximize your ROI and deliver unparalleled value without compromising on quality.",
+    "More Details Aws with terraform Iaas Paas SDLC Azure GCP 9+ Years AWS cloud engineer The Sr Cloud Engineer role is part of the Cloud COE, and is responsible for delivering Cloud solutions to the Application team (internal customer), based on customer requirements.",
+    "Close Send Resume × Aws with terraform Iaas Paas SDLC Azure GCP 9+ Years AWS cloud engineer The Sr Cloud Engineer role is part of the Cloud COE, and is responsible for delivering Cloud solutions to the Application team (internal customer), based on customer requirements.",
+    "Demonstrated experience with software development life cycle (SDLC)."
+   ],
+   "DQ_bpo": [
+    "Whether it's front office transactions or intricate back office procedures, RPA stands as a versatile solution to automate any labor-intensive...",
+    "Whether it's front office transactions or intricate back office procedures, RPA stands as a versatile solution to automate any labor-intensive or rule-driven process."
+   ],
+   "cicd": [
+    "We provide state-of-the-art DevOps solutions designed to bridge the gap between development and operations, accelerating your delivery pipeline and enhancing overall productivity...",
+    "More Details ReactJS TypeScript Javascript Performance Tuning OHIF Cornerstone Image Docker/Containerization Sr.",
+    "More Details Aws with terraform Iaas Paas SDLC Azure GCP 9+ Years AWS cloud engineer The Sr Cloud Engineer role is part of the Cloud COE, and is responsible for delivering Cloud solutions to the Application team (internal customer), based on customer requirements.",
+    "Close Send Resume × ReactJS TypeScript Javascript Performance Tuning OHIF Cornerstone Image Docker/Containerization Sr."
+   ],
+   "enterprise": [
+    "Our Testimonials A Healthcare Customer I would like to take a moment to say a big THANK YOU to Infomerica for the great work and support you have been providing me, especially the last couple of months where the job openings had to be filled in ASAP.",
+    "Fortune 500 client We would like to express our sincere appreciation towards Infomerica team’s dedication in delivering the project against tough deadlines."
+   ],
+   "qa": [
+    "UI developer/ React developer Mandatory skills : ReactJS, TypeScript, Javascript ,Performance Tuning ,OHIF, Cornerstone Image Hands on experience on ReactJS/Redux, CSS/SCSS (Grid), Responsive design, PWA, websocket, Unit Testing Jest Good knowledge of Java Script, jQUery, HTML 5, CSS,...",
+    "Hands-on experience with TDD using Junit5 and Mockito Experience using Application Performance Management (APM) tools (e.g., AppDynamics, Dynatrace) and Splunk and ELK or Opensearch stack for log aggregation Working experience as a multi-skilled professional practicing Agile/SCRUM methodologies."
+   ],
+   "pr_practice": [
+    "Mentor engineering team members on technical decision making, code reviews and enforcing engineering practices and standards Main point of contact and subject matter expert on your product domain."
+   ],
+   "owns_product": [
+    "Mentor engineering team members on technical decision making, code reviews and enforcing engineering practices and standards Main point of contact and subject matter expert on your product domain.",
+    "The Infomerica Center of Excellence for various practices is perpetually tasked with delivering innovative accelerators, templates, best practices, standards, and processes for several standard reusable patterns, ensuring that innovation and excellence are at the core of everything we do."
+   ],
+   "DQ_template": [
+    "The Infomerica Center of Excellence for various practices is perpetually tasked with delivering innovative accelerators, templates, best practices, standards, and processes for several standard reusable patterns, ensuring that innovation and excellence are at the core of everything we do."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 60
+ },
+ {
+  "name": "Osttra India Services Private Limited",
+  "city": "Gurugram",
+  "domain": "osttra.com",
+  "website": "https://osttra.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "flows to ensure streamlined settlement processing Reconcile Portfolio Reconciliation Reconcile portfolios on a multilateral basis with streamlined exc"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 154053,
+   "signals": {
+    "private_repo_host": 1,
+    "cicd": 2,
+    "vcs_generic": 1,
+    "testing": 1
+   },
+   "quotes": {
+    "private_repo_host": [
+     "JIRA, Bamboo, Bitbucket, Artifactory, Github, Docker, Kubernetes, Selenium, Playwright, Django, Python, MySQL, Elasticsearch The location:"
+    ],
+    "cicd": [
+     "Automated testing frameworks CI/CD pipeline Internal and external test environments Strategies and data for end-to-end system testing You will also be expected to:",
+     "JIRA, Bamboo, Bitbucket, Artifactory, Github, Docker, Kubernetes, Selenium, Playwright, Django, Python, MySQL, Elasticsearch The location:"
+    ],
+    "vcs_generic": [
+     "JIRA, Bamboo, Bitbucket, Artifactory, Github, Docker, Kubernetes, Selenium, Playwright, Django, Python, MySQL, Elasticsearch The location:"
+    ],
+    "testing": [
+     "JIRA, Bamboo, Bitbucket, Artifactory, Github, Docker, Kubernetes, Selenium, Playwright, Django, Python, MySQL, Elasticsearch The location:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 9,
+   "sdlc": 8,
+   "enterprise": 4,
+   "cicd": 3,
+   "DQ_support": 2,
+   "senior_roles": 9,
+   "qa": 1,
+   "DQ_training": 1,
+   "DQ_bpo": 3
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our products within the Trade Lifecycle division cover many of these areas, such as portfolio reconciliation, risk calculations, collateral management, and settlement automation.",
+    "The application support team works closely with a highly competent Client Services team and the core project teams to resolve client issues whilst continually improving our platforms.",
+    "Our products and services have become deeply embedded in the systems and workflows of many of our customers.",
+    "The SRE team collaborates with Delivery, infrastructure, Database, Network, Technical Operation Centre (TOC) proactive tasks to improve the supportability of our platforms."
+   ],
+   "sdlc": [
+    "This role presents an excellent opportunity to be part of an agile team based out of Japan, collaborating with colleagues across multiple regions globally, with a strong focus on delivering value through self-service.",
+    "Experience in Application Support, software development and deployment (SDLC).",
+    "SDLC & JIRA: Strong understanding of the Software Development Life Cycle (SDLC) with proven experience analyzing, prioritizing, and raising development bugs in JIRA.",
+    "Agile Financial Output: Manage and execute ad-hoc, time-sensitive analytical requests characteristic of a Private Equity-backed structure, ensuring the delivery of accurate, high-fidelity outputs that drive immediate business value."
+   ],
+   "enterprise": [
+    "Our customers include banks, hedge funds, asset managers, central banks, regulators, auditors, fund administrators, and insurance companies.",
+    "With a strong focus on automation and standardisation, the platform supports trade submission, affirmation, confirmation and clearing connectivity for more than 65 electronic brokers and regulated venues.",
+    "Case Studies Pension Fund & Regional Banks OSTTRA triCalculate: Initial Margin Analytics Our client who manages the derivatives trading desk at a large European insurance company needed a fast and efficient way of running ‘what-if’ initial margin...",
+    "Previously he held multiple positions in institutional and investment banking, including Global Head of Investment Banking Operations, Chief Data Officer, UK Group COO and Head of Transformation at UBS."
+   ],
+   "cicd": [
+    "Integration Pipelines: Coordinate transformer development based on Solution Design specifications, manage routing in IC, and enforce 4-eye checks prior to production deployment.",
+    "Responsibilities and impact: Dual-Track Revenue Generation: Deliver against high-impact targets by balancing a rigorous new business pipeline with a proactive up-sell strategy for a dedicated portfolio of existing clients.",
+    "Infrastructure Management: Design, provision, and maintain scalable cloud infrastructure using Infrastructure as Code (IaC) methodologies."
+   ],
+   "DQ_support": [
+    "Responsibilities and impact: As a trainee, you will be mentored to handle the following: Omnichannel Support: Provide initial IT support via phone, email, chat, and in-person.",
+    "Hardware & Mobility: Basic understanding of laptop hardware, printers, and mobile OS (iOS & Android)."
+   ],
+   "senior_roles": [
+    "Solution Architecture: A consultative approach to sales; able to deconstruct a prospect's technical pain points and rebuild them into a compelling commercial proposal.",
+    "Responsibilities Technical Architecture & Platform Ownership Technical Authority: Lead internal technical governance for the SAP landscape, including BASIS, infrastructure administration, and patching within SAP RISE.",
+    "Requirements SAP Expertise: 12+ years in SAP Technical Architecture or BASIS.",
+    "View details Posted 2 days ago Apply Now Site Reliability Engineer Gurugram, HR, IN Overview Job Overview About the Role: Team SRE is a global team that provides technical support across the suite of OSTTRA products."
+   ],
+   "qa": [
+    "View details Posted 6 days ago Apply Now QA Engineer Stockholm, Stockholm County, SE Overview Job Overview Team The Portfolio Reconciliation team consists of highly talented technologists, based in Stockholm, with strong skills across technology: development, UI, devops, testing, and automation."
+   ],
+   "DQ_training": [
+    "Everyone on the team is responsible for all parts of the system being built, run, and supported, making it an ideal place for someone who wants to expand their own technical skillset as well as grow as a leader by coaching team members."
+   ],
+   "DQ_bpo": [
+    "They have eliminated the need for manual data entry, reduced the time taken to agree on margin calls, and gained total transparency over their counterparty communications - all within a single, secure dashboard.",
+    "Insights 27 March 2025 From Rusty Bikes to Formula One: Upgrading Cash Flow Management in Derivatives Trading Traditionally, the back office has lagged behind the front office in technological advancements, hindering efficiency and accuracy in cash flow management.",
+    "Insights Neil Murphy 28 October 2024 Focusing on Collateral: It’s Not Just About the Back Office Neil Murphy, business manager at OSTTRA triResolve Margin, explores the myriad demands of technology, compliance and risk, as well as key focus areas for 2025."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 60
+ },
+ {
+  "name": "Synconics Technologies Private Limited",
+  "city": "Ahmedabad",
+  "domain": "synconics.com",
+  "website": "https://www.synconics.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "gement (Odoo CRM), Project Management, eCommerce, odoo POS, Software Development etc. Synconics helps with the process of analysing, evaluating, purch"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 17626,
+   "signals": {
+    "review_gate": 1,
+    "testing": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Reviewing codes and providing assistance to group members who have very little expertise."
+    ],
+    "testing": [
+     "Knowledge of performance testing frameworks including Mocha and Jest."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "sdlc": 5,
+   "DQ_template": 2,
+   "qa": 1,
+   "enterprise": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Learn More 🚀 Industry Accelerators Pre-configured Odoo packages for manufacturing, retail, services, and other industries."
+   ],
+   "sdlc": [
+    "👨‍💻 Odoo Developers Senior Level 🎯 Functional Consultants Certified Experts 🤝 Dedicated Support Teams Onsite Consulting 💼 Flexible engagement models for your business Hire Odoo Experts Latest Blog​ Your Dynamic Snippet will be displayed here...",
+    "Participate in all phases of the Agile software development life cycle including technical analysis, design, development, testing, documentation and deployment.",
+    "More cleaner and organized view of task on Kanban view.",
+    "Various Views Group and filtering allow you to view your projects in various views like List view, Kanban view, Pivot view, Calendar view, Gantt view, Activity view and Map view."
+   ],
+   "DQ_template": [
+    "This message is displayed because you did not provided both a filter and a template to use.",
+    "Odoo 19 Odoo 19 Features Contact Contact Features of Odoo 19 Update contacts import template \"Update the contact import template to simplify the data import process and provide users with a plug-and-play example using demo data."
+   ],
+   "qa": [
+    "Knowledge of performance testing frameworks including Mocha and Jest."
+   ],
+   "enterprise": [
+    "Delivering Odoo Solutions Across Manufacturing, Retail, Distribution, Healthcare & More We provide industry-specific Odoo ERP solutions for manufacturing, retail, wholesale distribution, healthcare, construction, logistics, professional services, eCommerce, rental businesses, and more.",
+    "Manufacturing Chemical Industry Retail & eCommerce Trading & Distribution Healthcare & Wellness Solar Industry Construction Rental Businesses Service Organizations ​ Multi-Company Enterprises Ready to Talk with Your Odoo ERP?"
+   ],
+   "DQ_support": [
+    "Here's why it matters Aligns with Business Goals Selecting the right technology ensures it supports your strategic objectives, enabling growth, scalability, and innovation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 60
+ },
+ {
+  "name": "Techcronus Business Solutions Private Limited",
+  "city": "Ahmedabad",
+  "domain": "techcronus.com",
+  "website": "https://www.techcronus.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 127323,
+   "signals": {
+    "private_repo_host": 4,
+    "vcs_generic": 2,
+    "testing": 1
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Solid understanding of SQL Server and experience with version control using Azure DevOps (formerly TFS) or Git.",
+     "Bachelor's Degree in Computer Science or IT Engineering Minimum of two full lifecycle ERP implementations leading a technical workstream Experience with LCS, Azure DevOps and Visual Studio Experience with source control and Azure DevOps build and release pipelines Experience with ISV solutions – a plus Language:",
+     "Able to customize CRM forms, views, workflows, business rules, charts, & dashboards Knowledge of CRM usage in Browsers, Outlook, Tablet & Mobile Applications Knowledge of Power Automate and Azure is a plus but not mandatory Hands on experience with Team Foundation Server Responsibility :"
+    ],
+    "vcs_generic": [
+     "Solid understanding of SQL Server and experience with version control using Azure DevOps (formerly TFS) or Git.",
+     "Bachelor's Degree in Computer Science or IT Engineering Minimum of two full lifecycle ERP implementations leading a technical workstream Experience with LCS, Azure DevOps and Visual Studio Experience with source control and Azure DevOps build and release pipelines Experience with ISV solutions – a plus Language:"
+    ],
+    "testing": [
+     "03 Development We build scalable architecture, develop features, and conduct unit testing."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 1,
+   "qa": 2,
+   "enterprise": 5,
+   "DQ_training": 1,
+   "sdlc": 1,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Product Engineering Bring ideas to life with scalable, market-ready software products."
+   ],
+   "qa": [
+    "03 Development We build scalable architecture, develop features, and conduct unit testing.",
+    "04 Quality Control We ensure quality through industry-standard QA practices and compliance."
+   ],
+   "enterprise": [
+    "Whether you're in healthcare, finance, retail, manufacturing, distribution or any other industry, our dedicated team of certified consultants is here to help you achieve your business goals with cutting-edge technologies.",
+    "Manufacturing Distribution & Supply Chain Finance Retail & E-Commerce Healthcare & Pharmaceutical Professional Services Education & eLearning B2B Ordering App Development --> Shift to a secure property management system (PMS) built for global scale.",
+    "Manufacturing Distribution & Supply Chain Finance Retail & E-Commerce Healthcare & Pharmaceutical Professional Services Education & eLearning B2B Ordering App Development --> Ready to build a Global Capability Centres (GCC) advantage before your competitors do?"
+   ],
+   "DQ_training": [
+    "But implementation matters as… Continue reading Odoo Manufacturing ERP for Legacy System Replacement Read More --> .NET Migration Services: Upgrade Without Disruption July 21, 2026 Outdated ASP.NET architecture kills business growth and destroys enterprise competitiveness today."
+   ],
+   "sdlc": [
+    "GCC offers control, speed and stability when global operations feel increasingly fragile."
+   ],
+   "DQ_template": [
+    "Technology Rapid Deployment Made for businesses that need to set up quickly by using templates and settings that have already been set up."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 60
+ },
+ {
+  "name": "AquilaClouds India Private Limited",
+  "city": "Dehradun",
+  "domain": "aquilaclouds.com",
+  "website": "https://www.aquilaclouds.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 78150,
+   "signals": {
+    "review_gate": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Conduct code reviews to ensure quality, maintainability, and adherence to best practices."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "senior_roles": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "AI & Cloud Cost Management Cloud Billing Automation for MSPs Fragmented visibility across AI and cloud spend No single source of truth across multi and hybrid cloud, Kubernetes, data platforms, and AI workloads."
+   ],
+   "senior_roles": [
+    "Suchit Kaura CEO and Co-Founder Desmond Chan CPO and Co-Founder Angelo Pruscino CTO Puneet Kaura EVP of Sales and Operations Kalpesh Bhandari VP of Engineering Anil Pawar Director of Marketing Join a team that is transforming the future of work."
+   ],
+   "owns_product": [
+    "AI-Powered Cost Optimization: Our platform uses machine learning to predict future cloud costs and recommend proactive measures to avoid overspending."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 60
+ },
+ {
+  "name": "Optimum Infosystem Private Limited",
+  "city": "Chennai",
+  "domain": "theoptimum.net",
+  "website": "https://theoptimum.net/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-12-11",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 45503,
+   "signals": {
+    "private_repo_host": 1,
+    "cicd": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Apply Now Information Technology Senior React Native Engineer Chennai Full-time 9+ Years DevOps tools (GitHub Actions, Fastlane, Azure DevOps), ..."
+    ],
+    "cicd": [
+     "Apply Now Information Technology Senior React Native Engineer Chennai Full-time 9+ Years DevOps tools (GitHub Actions, Fastlane, Azure DevOps), ..."
+    ],
+    "vcs_generic": [
+     "Apply Now Information Technology Senior React Native Engineer Chennai Full-time 9+ Years DevOps tools (GitHub Actions, Fastlane, Azure DevOps), ..."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 5,
+   "owns_product": 5,
+   "enterprise": 23,
+   "sdlc": 6,
+   "DQ_bpo": 2
+  },
+  "site_quotes": {
+   "qa": [
+    "With our expertise in automated testing, we can help you get your products to market faster and with more quality."
+   ],
+   "owns_product": [
+    "With our expertise in automated testing, we can help you get your products to market faster and with more quality."
+   ],
+   "enterprise": [
+    "Banking & Financial Services The global financial services industry is undergoing digital disruption.",
+    "Full Name Company Email Contact Number Company Name Primary Interest Select Industry Banking and Financial Services Insurance Healthcare and Pharmaceuticals Retail and Marketplace Manufacturing Public Sector / Government How did you hear about us?",
+    "We deliver digital services on a variety of technology platforms that enables large-scale business change programmes for clients ranging from Fortune 500 companies to vibrant start-ups.",
+    "Our technology expertise of Application Development, End to End Testing, Digital Customer Experience, Data and DevOps spans across a broad spectrum of industries led by Banking & Finance, Manufacturing, Automotive, Technology, and Hospitality."
+   ],
+   "sdlc": [
+    "Sales and Service Implementation – Drive end-to-end Sales and Service Cloud implementation in an agile delivery model with expertise in configuration of services with both classic and Lightening features and customization of workflows, reports and dashboards as per business specific needs."
+   ],
+   "DQ_bpo": [
+    "TECHNOLOGY TOOLS & TECHNOLOGIES LEADING OUR WAY CASE STUDIES Back Office 24 x7 Support Centre for Global..."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 59
+ },
+ {
+  "name": "LogiQuad Solutions Private Limited",
+  "city": "Pune",
+  "domain": "logiquad.com",
+  "website": "https://logiquad.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "owser Services Cloud Applications Mobility AI/ML Salesforce Case Studies Blog Careers About Us Contact Us Together in your journey ... Our knowledge a"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 32273,
+   "signals": {
+    "review_gate": 1,
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "review_gate": [
+     "Collaborate with team members using Git for version control and code reviews."
+    ],
+    "vcs_generic": [
+     "Collaborate with team members using Git for version control and code reviews.",
+     "Familiarity with Git for version control and collaborative development."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "vcs": 1,
+   "senior_roles": 1,
+   "owns_product": 9,
+   "cicd": 4,
+   "sdlc": 4,
+   "qa": 1,
+   "compliance": 1,
+   "DQ_agency": 2,
+   "DQ_support": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "vcs": [
+    "They also manage tasks via GitHub."
+   ],
+   "senior_roles": [
+    "Nate DAmico VP of Engineering, Meta Consumer LogiQuad is one of the best things that I have found!"
+   ],
+   "owns_product": [
+    "Salesforce Consulting Services Helping businesses across every phase, from consultation to implementation and migration to integration How We Build Your AI SaaS Product Discovery And Validation We start with a clear strategy that is unique to your organization.",
+    "Full-Scale Development And Maintenance Once you are satisfied with the MVP, we will build your full-scale AI SaaS product based on your requirements.",
+    "Next.js for Your SaaS Frontend — What We Recommend and Why View More 14 May 2026 By: Ritika Dhiman How to Build an AI SaaS Product from Scratch View More View All Your Questions Answered What is the importance of integrating DevOps into our development process?",
+    "How much does building an AI SaaS product cost?"
+   ],
+   "cicd": [
+    "Technology ToolKit Continuous Integration Code Management Build Microservice Continuous Testing Security Testing Configuration Management Cloud Platforms Monitoring Our Engagement Models We design our services based on your core business needs.",
+    "When most people think of job interviews, they picture a Find Our More Simplifying Kubernetes Management: A Review of Lens IDE Managing Kubernetes with the CLI (kubectl) can feel like operating a complex machine with minimal visibility.",
+    "In light of the meteoric rise of Find Our More Optimizing Efficiency in Healthcare Software Development Setting up a CI/CD Pipeline Software development in the ever-changing healthcare industry significantly impacts patient care, simplifies operations, and increases overall efficiency.",
+    "Indeed, Find Our More Accelerating innovation in automotive software: CI/CD best practices Amidst a massive disruption in the automotive industry, the role of software in driving innovation is increasingly vital."
+   ],
+   "sdlc": [
+    "Technology ToolKit Continuous Integration Code Management Build Microservice Continuous Testing Security Testing Configuration Management Cloud Platforms Monitoring Our Engagement Models We design our services based on your core business needs.",
+    "Choose an engagement model that best suits your vision and goals.",
+    "It depends on the kind of software you wish to build (MVP, full-scale, mobile app, enterprise app), your project’s scope, its complexity, and the engagement model you choose.",
+    "Our team brings together significant years of experience and diverse expertise in crafting digital strategies & solutions for sophisticated IT implementation leveraging latest technological advancements in a dynamic tech landscape, following agile methodology."
+   ],
+   "qa": [
+    "Dedicated Team Hire a competent team of AI engineers, SaaS developers, designers, QA engineers, and project managers from LogiQuad."
+   ],
+   "compliance": [
+    "All our services comply with global standards like GDPR, HIPAA, SOC 2, ISO, and more."
+   ],
+   "DQ_agency": [
+    "View Details & Apply ⌄ Digital Marketing Executive Remote We are looking for a proactive and detail-oriented SEO Executive/Intern to join our team.",
+    "In this role, you will be responsible for executing SEO strategies, optimizing content, and helping improve search engine rankings across various digital platforms."
+   ],
+   "DQ_support": [
+    "It supports all major AWS services."
+   ],
+   "enterprise": [
+    "Having worked with disruptive startups to Fortune 500 enterprises over the past 17 years, our track record flaunts solving critical business struggles and the proof is in the portfolio .",
+    "In light of the meteoric rise of Find Our More Optimizing Efficiency in Healthcare Software Development Setting up a CI/CD Pipeline Software development in the ever-changing healthcare industry significantly impacts patient care, simplifies operations, and increases overall efficiency."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 58
+ },
+ {
+  "name": "Absolin Software Solutions LLP",
+  "city": "Visakhapatnam",
+  "domain": "absolinsoft.com",
+  "website": "https://absolinsoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "igence - Absolin Discover Absolin Discover Absolin Partners Case Studies Blog Careers Industries Retail FMCG Manufacturing Healthcare Education Logist"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 87726,
+   "signals": {
+    "private_repo_host": 1,
+    "testing": 1
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Experience with Bug Tracking Tools (JIRA, Azure DevOps, Bugzilla, etc.)."
+    ],
+    "testing": [
+     "Perform Regression Testing, Smoke Testing, Sanity Testing, Integration Testing, and User Acceptance Testing (UAT)."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "DQ_agency": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our process includes Strategy, Design, Development, Support & Maintenance."
+   ],
+   "DQ_agency": [
+    "Aditya Chirravuri Business Head/ Digital Marketing Exploring New Frontiers I have been working as a Sales Lead for 3 Years now."
+   ],
+   "cicd": [
+    "Track Vendor Performance Evaluate vendor performance based on criteria such as delivery times, quality of goods, and pricing consistency, ensuring that only the best suppliers remain in the pipeline."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 58
+ },
+ {
+  "name": "Planet Web Solutions Pvt Ltd",
+  "city": "Jaipur",
+  "domain": "planetwebsolution.com",
+  "website": "https://www.planetwebsolution.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Blogs Services Digital Marketing Amazon Account Management web development Ecommerce Development Magento Development Magento Support and Maintenance"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 10663,
+   "signals": {
+    "review_gate": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Comfortable with Git / Github (commits, branches, pull requests)."
+    ],
+    "vcs_generic": [
+     "Comfortable with Git / Github (commits, branches, pull requests)."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 5,
+   "DQ_template": 2,
+   "owns_product": 2,
+   "enterprise": 3,
+   "qa": 2,
+   "sdlc": 1,
+   "pr_practice": 1,
+   "vcs": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "SEE MORE Digital Marketing Package Elevate your online presence with our comprehensive Digital Marketing Services Package.",
+    "Content Marketing Guest Blogging, Website Content Creation, Guest Posting Services, Backlink Strategy, Content Strategy.",
+    "Read More Content Marketing Guest Blogging, Website Content Creation, Guest Posting Services, Backlink Strategy, Content Strategy.",
+    "SEO, SEM, Web Analytics experience is a plus."
+   ],
+   "DQ_template": [
+    "SEE MORE Ready To Use Custom Solutions We have built expertise across multiple business verticals, and our ready-made custom products and solutions are successfully driving value for our clients' businesses.",
+    "Coming Soon E-IPO Solutions Our ready-made IPO solutions are designed to simplify the public offering process, empowering businesses to effortlessly navigate complexities and streamline their IPO journey."
+   ],
+   "owns_product": [
+    "The end results of the launch have also been favorable, as the number of our platform's visitors and engagement increased."
+   ],
+   "enterprise": [
+    "Nurturing well-being through compassionate healthcare solutions View Case Study --> UK film academy Film.",
+    "Nurturing well-being through compassionate healthcare solutions View Case Study E-Commerce Experience shopping.",
+    "Nurturing well-being through compassionate healthcare solutions View Case Study Clutch reviews We have years of experience working with diverse business and industry types."
+   ],
+   "qa": [
+    "Work with the QA and Customer Support teams to triage and fix bugs with rapid turnaround.",
+    "A dynamic team consisting of forward-thinking and exceptionally dependable software developers, QA engineers, designers and project managers collaborating on thrilling and innovative projects."
+   ],
+   "sdlc": [
+    "Knowledge of Agile development methodology."
+   ],
+   "pr_practice": [
+    "Comfortable with Git / Github (commits, branches, pull requests)."
+   ],
+   "vcs": [
+    "Comfortable with Git / Github (commits, branches, pull requests)."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 54
+ },
+ {
+  "name": "Dipole Tech Innovations (OPC) Private Limited",
+  "city": "Mohali",
+  "domain": "dipoletechi.com",
+  "website": "https://dipoletechi.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "DipoleTechi | Web Development & Digital Marketing Company Toggle Navigation Home About Us Our Team Our P"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 83000,
+   "signals": {
+    "review_gate": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Participate in code reviews and contribute to continuous improvement."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 4,
+   "owns_product": 2,
+   "sdlc": 4
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "We provide web development, mobile apps, MVP development, SEO, SMO, SEM, testing, and other IT services to help businesses grow online.",
+    "Explore Software Solutions Our Core Solutions IT Solutions That Power Your Business DipoleTech helps businesses grow with smart technology solutions, including web development, software, mobile apps, digital marketing, and AI.",
+    "Digital Marketing Grow your brand and reach the right audience with data-driven digital marketing strategies.",
+    "If you need to extend e-commerce service, software for a commercial platform like a school, college, or library with a well-designed website & marketing through SEO, google ads, or social media platforms."
+   ],
+   "owns_product": [
+    "Launch Your Product Custom Web App Solutions Build secure and scalable web applications tailored to support your business growth.",
+    "Our Culture We follow transparent work standards for all our clients to retain their trust in our platform."
+   ],
+   "sdlc": [
+    "At the same time, avoiding disputes, arguments, misbehaving, or indiscipline due to following formal criteria along with agile & scrum methodology makes us acceptable to serve in the IT niche.",
+    "Knowing our process for developing an application can encourage an owner to approach us for further needs.",
+    "Though a Software Development Life Cycle consists of different models like Waterfall, V-shaped, Agile & Scrum, etc which a developer chooses as per the compatibility of a project.",
+    "How We Work 01 A Deep Research​ Every project has different needs, plans & ways to follow."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 52
+ },
+ {
+  "name": "TechBrein Solutions Private Limited",
+  "city": "Kozhikode",
+  "domain": "techbrein.com",
+  "website": "https://techbrein.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ransform Your Business Your Trusted Cloud Partner VIEW MORE CASE STUDY Expert guidance and innovative solutions to help your business thrive with clou"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 31592,
+   "signals": {
+    "review_gate": 1,
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "review_gate": [
+     "Write clean, maintainable code and participate in code reviews."
+    ],
+    "vcs_generic": [
+     "Familiarity with version control tools like Git.",
+     "A portfolio, GitHub profile, or personal/college projects demonstrating app development experience."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1,
+   "DQ_agency": 4,
+   "sdlc": 1,
+   "cicd": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "We also provide regular feedback and coaching to our employees to help them improve and grow in their role."
+   ],
+   "DQ_agency": [
+    "Read More Importance of SEO for Small Businesses Search Engine Optimization (SEO) helps small businesses improve online visibility, attract the right audience, generate leads, and build long-term brand credibility.",
+    "From on-page and technical SEO to local search optimization, discover how effective SEO strategies can drive sustainable business growth and improve search engine rankings.",
+    "30% According to the article prepared by Shopping Cart Elite, if a website has gone through downtime, the SEO of the page will affect up to 30%.",
+    "Our Blog Stay Updated With Our Blogs View All 15 Things to Check When Choosing Your Web Host Read More Importance of SEO for Small Businesses Read More Top 5 Cloud IT Trends Every Business Must Know Read More Interested?"
+   ],
+   "sdlc": [
+    "The accessibility & scalability advantages of the cloud empowers businesses to be more agile, flexible, and efficient, ultimately speeding up the growth process."
+   ],
+   "cicd": [
+    "Previously, we faced frequent issues—OTP emails weren’t getting delivered, spam was overwhelming, and our team struggled with a clunky interface.",
+    "52% According to a survey by ManageEngine, 52% of IT teams feel overwhelmed and understaffed which can lead to a lack of resources and expertise to effectively manage and monitor servers 24x7."
+   ],
+   "DQ_support": [
+    "Our Managed Linux Services TechBrein’s managed Linux services include 24×7 monitoring to identify issues before they become critical, pro-active server management to prevent hardware or software failures, and eliminate downtime."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 52
+ },
+ {
+  "name": "Perigeon Software Private Limited",
+  "city": "Ahmedabad",
+  "domain": "perigeon.com",
+  "website": "https://perigeon.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "se Application Odoo Mobile Apps RPA Devops --> --> --> Blog Portfolio Odoo Apps Videos --> --> --> Accelerate Your Business Growth Using Salesforce Sa"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 101653,
+   "signals": {
+    "review_gate": 1,
+    "cicd": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Participate in application architecture, design discussions, and code reviews."
+    ],
+    "cicd": [
+     "Understanding of CI/CD pipelines and DevOps practice Kafka, Redis Cache, Azure, Microservices."
+    ],
+    "vcs_generic": [
+     "Experience with source control tools such as Git."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_bpo": 6,
+   "enterprise": 7,
+   "sdlc": 3,
+   "senior_roles": 1,
+   "DQ_template": 1,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "Explore More → PeriScan Scan business cards instantly with AI-powered OCR and sync contacts straight to Salesforce or Zoho CRM — no manual data entry.",
+    "Improved Order Accuracy Automate data entry to reduce errors and ensure the correct product is shipped."
+   ],
+   "enterprise": [
+    "Health Cloud Deliver personalized patient care with secure, connected healthcare workflows.",
+    "Healthcare Improve patient care with secure, streamlined processes.",
+    "VP Digital, Healthcare Firm",
+    "Perigeon Software delivers Salesforce solutions across 15+ industries, including Manufacturing & Automotive, Healthcare, Life Sciences, Retail & E-Commerce, Construction & Real Estate, Education & Nonprofits, Software & Hi-Tech, Telecom & Media, and service-based businesses."
+   ],
+   "sdlc": [
+    "At Perigeon, collaboration isn’t just a buzzword, it’s how we work every day.",
+    "Transparency Honesty and openness are at the heart of how we work."
+   ],
+   "senior_roles": [
+    "Our certified team includes experienced Salesforce Administrators, Developers, Consultants, Solution Architects, and Technical Architects with deep expertise across the entire Salesforce ecosystem."
+   ],
+   "DQ_template": [
+    "Customization We build tailored journey templates, segmentation logic, scoring models, and automated workflows designed to match your unique marketing processes and business requirements."
+   ],
+   "DQ_training": [
+    "Contact Us Seamless Order Processing Manage the entire order journey from placement to fulfillment with ease."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 51
+ }
+]

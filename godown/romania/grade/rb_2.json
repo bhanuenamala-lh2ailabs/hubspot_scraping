@@ -1,0 +1,1308 @@
+[
+ {
+  "name": "Qwertee Technology",
+  "domain": "qwertee.io",
+  "website": "https://www.qwertee.io/",
+  "seed_lead_score": "8",
+  "seed_reason": "Big-data/ML engineering company doing MLOps, DataOps/lakehouse, data science & GenAI and ML platform IaC plus product measurement/dashboards.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 29979,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "owns_product": 21,
+   "sdlc": 5,
+   "cicd": 8,
+   "vcs": 1,
+   "enterprise": 1,
+   "DQ_support": 2,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We instrument your product and build the metrics, funnels and dashboards you need to see how it performs.",
+    "For your product we build that measurement from the ground up — your data, your metrics, your dashboards, designed for you alone.",
+    "Trusted By Let’s Get Started Ready to see what your product is really doing?",
+    "We start by defining the metrics that matter and instrumenting your product, then build the dashboards that show how it performs — so your team can decide where to grow."
+   ],
+   "sdlc": [
+    "After already four completed sprints, I can testify that we are fully satisfied with the quality level of the development and the deadline compliance.",
+    "However, the new R&D process might need to become even more agile now, than it was four months ago."
+   ],
+   "cicd": [
+    "Links Case Studies About Us Why Us FAQ Blog Contact Services Measurement Services MLOps & ML Engineering DataOps & Lakehouse Engineering Data Science & GenAI ML Platform & IaC Contact Email hello@qwertee.io Address Strada Donath 23, Bl.",
+    "We work platform-first on Databricks — Lakeflow Jobs , MLflow , Unity Catalog and Mosaic AI Model Serving — and integrate with GitHub Actions , Azure DevOps and AWS where your stack already lives.",
+    "What we deliver Continuous Integration & Delivery (CI/CD) - automated build, test and deployment pipelines that validate code, data and models on every commit, breaking ML work into modular, testable steps and removing manual handoffs.",
+    "Infrastructure & Instrumentation We implement the infrastructure for your team to operate — event tracking, data stack, pipelines and dashboards built inside your own environment, then handed over for your team to own and run."
+   ],
+   "vcs": [
+    "We work platform-first on Databricks — Lakeflow Jobs , MLflow , Unity Catalog and Mosaic AI Model Serving — and integrate with GitHub Actions , Azure DevOps and AWS where your stack already lives."
+   ],
+   "enterprise": [
+    "Talk To Us Testimonial What Our Clients Say Fabrice Pakin CEO Ignilife is a digital preventive healthcare platform."
+   ],
+   "DQ_support": [
+    "A lack of physical presence means customers are only using day-to-day hardware components: computers, mobile devices, tablets, electronics like Alexa or Echo.",
+    "This means retailers can shift all their development budgets towards digital technologies and they can take advantage of hardware upgrades to understand what customers want."
+   ],
+   "DQ_training": [
+    "Sentiment analysis is a fast, accurate, and high-value replacement for old customer polls, greatly improving all sales and pricing strategies that lead to better customer loyalty rates and increased profit potential.",
+    "Consumer-driven technologies will focus less on physical automation and robot-human replacement, and more on creating the most rewarding experiences."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/sebrestin",
+   "https://github.com/romaintha"
+  ],
+  "_prio": 29
+ },
+ {
+  "name": "rinf.tech",
+  "domain": "rinf.tech",
+  "website": "https://www.rinf.tech/",
+  "seed_lead_score": "9",
+  "seed_reason": "Engineering firm doing embedded/IoT firmware, digital twins, cloud, enterprise AI and quality engineering (50+ business and 300+ automotive software projects).",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Custom Software Development Company in Romania – rinf.tech Skip to content Why What R&D Em"
+  },
+  "jd": {
+   "jd_chars": 25100,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [
+    "https://www.glassdoor.com/Overview/Working-at-RINF-TECH-EI_IE652543.11,20.htm",
+    "https://www.undelucram.ro/prezentare-rinf-totul-despre-mediul-de-lucru-611"
+   ],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "cicd": 3,
+   "owns_product": 3,
+   "compliance": 1,
+   "DQ_training": 1,
+   "qa": 1,
+   "DQ_support": 20,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "At the end your team owns the pipeline we design.",
+    "# 03 — Your team owns the pipeline $ rinf transfer --target client-team --all ✔ Capability transfer, not vendor lock-in.",
+    "Enablement Track Your team, running the pipeline without us."
+   ],
+   "owns_product": [
+    "Solution Delivery Your platform or AI solution, built or modernized with rinf.delivery.",
+    "Engineers are now embedding specialized AI accelerators directly into microcontrollers, creating chips that can run complex neural networks while consuming minimal power.",
+    "The inclusion of various accelerators, including AI accelerators, within an embedded system introduces a new layer of complexity, balanced by increased capabilities such as improved vision for autonomous vehicles."
+   ],
+   "compliance": [
+    "Expand Cloud capacity routing and the untested GDPR risk Cloud capacity routing and the untested GDPR risk Every enterprise cloud agreement in use today contains a fundamental and largely unremarked mismatch between standard engineering practice and European regulatory requirements."
+   ],
+   "DQ_training": [
+    "Smartwatch volumes normalize as pricing pressure persists and replacement cycles lengthen."
+   ],
+   "qa": [
+    "Embedded software testing and QA Performance testing for embedded devices, QA audits, manual and automation testing, functional, usability and stress testing, as well as unit and security testing."
+   ],
+   "DQ_support": [
+    "Smart home Smart home solutions that leverage sensors, CCTV cameras, thermostats, smart panels, z-wave locks, and security devices.",
+    "Industry analysts project that 75% of AIoT devices will rely on energy-efficient, purpose-built hardware by 2030.",
+    "According to Mihai , “Since embedded systems are built for specific jobs, their hardware and software are often tightly coupled.",
+    "This means that if a significant hardware design flaw occurs, software engineers must devise creative workarounds to ensure functionality."
+   ],
+   "enterprise": [
+    "These advancements are particularly crucial in sectors like industrial automation, agriculture, and healthcare, where devices often operate in remote or infrastructure-limited settings and must function reliably over long lifecycles with minimal maintenance."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 28
+ },
+ {
+  "name": "Digitalya",
+  "domain": "digitalya.co",
+  "website": "https://digitalya.co/",
+  "seed_lead_score": "8",
+  "seed_reason": "Builds compliant pharma/healthcare digital platforms (HCP portals, patient platforms, AI) with system architecture and ISO/HIPAA/GDPR certifications.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "gy Workshop MVP Development Startup Product Development Web Application Development Dedicated Development Team Web Design and Development Technologies"
+  },
+  "jd": {
+   "jd_chars": 6344,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "enterprise": 18,
+   "compliance": 5,
+   "sdlc": 2,
+   "senior_roles": 1,
+   "DQ_agency": 2,
+   "pr_practice": 2,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Digitalya - Software Services Provider for Pharma & Healthcare",
+    "220623-3 HIPAA Compliant GDPR Compliant Our Capabilities Bridging the gap between vision and reality We bring deep pharma and healthcare expertise to every stage, ensuring your strategy is grounded in operational reality.",
+    "Rewriting the future of healthcare Rewriting the future of healthcare Our Services From strategy to live platforms We don’t stop at recommendations.",
+    "It’s what happens when healthcare professionals can quickly complete meaningful tasks, trust what they find, and choose to return."
+   ],
+   "compliance": [
+    "ISO 9001 Q-Cert Safe Cert.",
+    "220623-2 ISO 27001 Q-Cert Safe Cert.",
+    "220623-3 HIPAA Compliant GDPR Compliant Our Capabilities Bridging the gap between vision and reality We bring deep pharma and healthcare expertise to every stage, ensuring your strategy is grounded in operational reality.",
+    "Read article Certificates ISO 27001 ISO 9001 Insights Webinars Industry Reports Our Blog Newsletter Technologies Magnolia CMS Veeva Integration Adobe Experience Manager Who we are Our Story Our Values Press Releases Our Culture Careers Digitalya ©2026 Terms Cookies Policy Privacy Policy Digitalya Careers"
+   ],
+   "sdlc": [
+    "A great partner with deep expertise and agile working methodologies.",
+    "02 Delivering Agile We conduct our projects and work by following the Agile methodology, which means we implement the Scrum or Kanban framework depending on the project's requirements."
+   ],
+   "senior_roles": [
+    "01 Building apps from 0 We enjoy building apps from scratch, considering different factors like the technical architecture, UI/UX, multiple use cases, the most suitable technologies, and many more."
+   ],
+   "DQ_agency": [
+    "Read more Pharma Innovation Pharma CMS migration guide for HCP portals & websites Pharma CMS migration affects content governance, compliance workflows, SEO, integrations, localization, and the overall HCP experience.",
+    "03 The current system needed many improvements to keep up with the latest SEO changes."
+   ],
+   "pr_practice": [
+    "While many CMS solutions cater to pharma companies, Magnolia Headless CMS offers some distinct advantages: Compliance-focused: Magnolia prioritizes compliance with features like version control, audit trails, and seamless integration with Veeva Vault PromoMats for managing claims and references.",
+    "Version Control and Audit Trails: Track all changes made to content pieces."
+   ],
+   "DQ_template": [
+    "Reusable Building Blocks: Select pre-designed components and templates to ensure a consistent brand experience across your website."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 28
+ },
+ {
+  "name": "UP2DATE",
+  "domain": "up2date.ro",
+  "website": "https://up2date.ro/",
+  "seed_lead_score": "8",
+  "seed_reason": "15+ year Romanian software developer building custom software, mobile apps, web platforms and AI-integrated solutions with senior nearshore engineers (ISO 27001",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 8141,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "owns_product": 6,
+   "enterprise": 3,
+   "sdlc": 10,
+   "DQ_agency": 3,
+   "compliance": 7,
+   "cicd": 1,
+   "vcs": 2,
+   "qa": 1,
+   "senior_roles": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Tell us your goals — we'll map the path Book a Discovery Call Why UP2DATE A senior partner, not an agency Senior engineers build your product end to end — and where it adds value, we build AI into the solution itself.",
+    "Talk to a specialist consultant AI built into your product Where it creates real value, we integrate AI into the solution itself — copilots, automation, intelligent features — designed and owned by senior engineers.",
+    "Senior engineers build your product end to end and integrate AI into the solutions where it adds real value — without trading away quality or ownership.",
+    "Learn more These aren't demos — they're SaaS products we designed, built and operate ourselves: eID România, VetCRM, DentalCRM, HeyDoc, Service Auto ERP and Quick Store."
+   ],
+   "enterprise": [
+    "Industries Domain depth where it counts Regulated, data-heavy and high-scale sectors where reliability is non-negotiable.",
+    "+40% sales growth -60% search time 50k+ products in catalog AI Automation BRD: 85% of banking questions auto-resolved, 24/7 A GPT-4 banking assistant trained on 50,000+ real conversations — 24/7, sub-2-second answers in natural Romanian, with smart handoff to human agents.",
+    "Learn more Healthcare app HeyDoc On-demand home doctor visits, no appointment needed."
+   ],
+   "sdlc": [
+    ".NET Backend Flutter Mobile React Frontend Next.js Web apps Azure Cloud AWS Cloud OpenAI AI / LLM How we work A process built for speed and trust Six clear stages from first call to long-term support.",
+    "15+ Years building software ISO 27001 Information security 50+ Projects delivered Trusted by founders, scale-ups & enterprise teams Anteca Anteca How we work Four things we refuse to compromise Seniority Every engineer on your project has 8+ years of experience.",
+    "Read article CRM July 8, 2026 7 min read Custom CRM & ERP development: choosing the right firm A custom CRM or ERP only makes sense when your processes are your competitive edge — and the right firm is one that has shipped and operates such systems itself.",
+    "A dedicated team reaches its first sprint in two to three weeks, versus three to six months to hire in-house, and scales down on thirty days notice."
+   ],
+   "DQ_agency": [
+    "Our reference: at PPC, one of Romania's largest energy companies, we replaced a 3-day email-driven travel approval process with a platform that closes approvals in 30 minutes.",
+    "That is how we consolidated an auto service's operations into a single ERP with 12+ integrated modules, and how PPC's travel approvals went from 3 days to 30 minutes."
+   ],
+   "compliance": [
+    "From Romania, UP2DATE covers the full EU working day with a US-morning overlap — senior engineers at competitive rates, real-time collaboration and EU-based, GDPR-compliant delivery.",
+    "Romania combines strong engineering talent with EU membership: GDPR by design, a European time zone and senior engineers at better rates than Western Europe.",
+    "UP2DATE adds 15+ years of software experience, senior-only engineers (8+ years each) and ISO 27001-certified security.",
+    "15+ Years building software ISO 27001 Information security 50+ Projects delivered Trusted by founders, scale-ups & enterprise teams Anteca Anteca How we work Four things we refuse to compromise Seniority Every engineer on your project has 8+ years of experience."
+   ],
+   "cicd": [
+    "Read article ai-delivery June 12, 2026 8 min read How AI-assisted delivery cuts development time by 3× Every agency now claims to be \"AI-powered.\" After instrumenting 14 consecutive projects, we can be more precise about what actually changes when AI joins the delivery pipeline — and what doesn't."
+   ],
+   "vcs": [
+    "We adapt to the way you work We slot into your existing workflow: your Jira board, your Git branching model, your definition of done.",
+    "We share CVs, GitHub profiles and interview scorecards before you commit."
+   ],
+   "qa": [
+    "We start with a capability map of your roadmap: which disciplines are needed (backend, frontend, mobile, DevOps, QA) and in what proportion."
+   ],
+   "senior_roles": [
+    "From that we propose a team composition and seniority mix, with lead or principal engineers anchoring the squad.",
+    "Every engineer on a dedicated team passes our internal bar: a take-home system-design exercise, a live architecture session with a principal engineer, and reference checks from at least two prior projects."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 28
+ },
+ {
+  "name": "Digital Artflow",
+  "domain": "digitalartflow.com",
+  "website": "https://www.digitalartflow.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Builds scalable custom web applications, ecommerce and VR/AR software (3D configurators/floor planners) since 2009.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "merce Development Services Professional Cloud Hosting VR AR Software Development SOLUTIONS 3D Product Configurator 3D Floor Planner CASE STUDIES ABOUT"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "compliance": 18,
+   "sdlc": 2,
+   "pr_practice": 1,
+   "vcs": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Cookie Duration Description cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\".",
+    "cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin."
+   ],
+   "sdlc": [
+    "Founded in 2009 The company has started off from a group of freelancers and has grown throughout its activity by accumulating more and more experience in the development of web and mobile applications, IT consulting and the use of agile project management methodology being constantly connected to the real world.",
+    "We use Agile Software Management, an incremental methodology in managing projects that involve highly flexible and interactivity between our team and client providing and assuring in any stage of the project that we are on the right direction."
+   ],
+   "pr_practice": [
+    "Releases are made through a Version Control System – ."
+   ],
+   "vcs": [
+    "git Repository (GitHub) where it will be a direct connection between development/testing server and production server from where clients will use the final version."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 28
+ },
+ {
+  "name": "BrainTrust",
+  "domain": "braintrust.ro",
+  "website": "https://www.braintrust.ro/",
+  "seed_lead_score": "7",
+  "seed_reason": "IT consultancy specializing in cloud infrastructure, cybersecurity, network architecture, DevOps and custom software development.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "d services in Cloud, Infrastructure, IT Services, Security, Software Development and Web. View Services Software Development Done Responsibly At Brain"
+  },
+  "jd": {
+   "jd_chars": 10599,
+   "signals": {
+    "cicd": 4,
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "cicd": [
+     "Build and improve CI/CD pipelines (GitHub Actions, GitLab CI or Jenkins) for application delivery.",
+     "Experience with CI/CD pipelines and tools.",
+     "Ensure code quality through automated tests, reviews and continuous integration."
+    ],
+    "vcs_generic": [
+     "Build and improve CI/CD pipelines (GitHub Actions, GitLab CI or Jenkins) for application delivery.",
+     "Experience with version control (Git) and automated testing and monitoring tools."
+    ]
+   },
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "cicd": 2
+  },
+  "site_quotes": {
+   "cicd": [
+    "Open Positions Current Openings Infrastructure Cloud/DevOps Engineer We're seeking an experienced Cloud/DevOps Engineer to architect and operate our clients' systems on Google Cloud Platform and Kubernetes.",
+    "8 min read Read Data Modern Data Pipelines: Building for Scale and Reliability Best practices for designing and implementing modern data pipelines."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 28
+ },
+ {
+  "name": "Thinslices",
+  "domain": "thinslices.com",
+  "website": "https://www.thinslices.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Product development company doing idea-to-MVP, web/mobile and AI development plus team-as-a-service, product design and R&D.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Thinslices | We build digital products that exceed even our own expectations. Skip to content Services"
+  },
+  "jd": {
+   "jd_chars": 67408,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "sdlc": 19,
+   "owns_product": 8,
+   "qa": 2,
+   "senior_roles": 2,
+   "cicd": 2,
+   "enterprise": 6,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "&]:hidden lg:space-y-2 pl-6 text-body-small text-violicious list-inside list-disc\"> Product Design Sprint Product Validation Sprint Rapid Prototyping Research & Development User Research & Testing Design Explore how we blend creativity and innovation to craft solutions.",
+    "&]:hidden lg:space-y-2 pl-6 text-body-small text-violicious list-inside list-disc\"> Quality Assurance Agile Project Management Product Management DevOps Industries Industries Fintech Read more about the Fintech industry.",
+    "Find out more End-to-end product development services Ideate Our approach to product ideation offers tailored services like Design Sprints, Prototyping, and User Testing to make your software product innovative and market-ready.",
+    "Find out more Maintain We secure the durability, stability, and growth of your digital solutions through our product maintenance services - QA, Agile Project Management, Product Management, and DevOps."
+   ],
+   "owns_product": [
+    "Get in touch Get in touch / forward We offer end-to-end digital design, development, and scaling solutions About us See our services TRUSTED BY Who we are Create your product from scratch or enhance your existing product in less than 6 months!",
+    "2010 Established 90.6 Client NPS for 2025 130+ People 220+ Projects completed Our services We tailor our services to your needs Idea to MVP Validate your product idea with enough features to attract early-adopter customers and investors, securing its market potential.",
+    "Find out more Maintain We secure the durability, stability, and growth of your digital solutions through our product maintenance services - QA, Agile Project Management, Product Management, and DevOps.",
+    "Read case study View all case studies We are the partners of your project Conceptualize, develop, and launch your product with us, in less than 6 months."
+   ],
+   "qa": [
+    "Find out more Maintain We secure the durability, stability, and growth of your digital solutions through our product maintenance services - QA, Agile Project Management, Product Management, and DevOps.",
+    "Streamlined Onboarding Our approach is to adapt to the customer's way of working but also to employ good practices we know will increase the quality of the output such as test-driven development, peer programming, and other Agile development techniques."
+   ],
+   "senior_roles": [
+    "It produces a validated prototype, a prioritised feature breakdown with ranged estimates, a technical architecture with integration risk resolved, and a release plan with cost scenarios attached.",
+    "Technology Featured AI Stefan Sarbu - 29 Jun 2026 Five MVP decisions that turn an AI MVP into an enterprise AI platform The MVP-to-platform transition fails not because the technical architecture is wrong, but because most teams treat it as a scaling problem when it is actually a redesign problem."
+   ],
+   "cicd": [
+    "Territory Sales Manager (NY) We are looking for a Territory Sales Manager in New York, who operates independently, builds their own pipeline and is directly rewarded for results.",
+    "Full-time New York View job & apply Territory Sales Manager (London) We are looking for a Territory Sales Manager in London, someone who operates independently, builds their own pipeline and is directly rewarded for results."
+   ],
+   "enterprise": [
+    "SaaScada is a data-driven core banking engine; born in the cloud, using cloud-native architecture.",
+    "Tuum is the next-gen core banking with a cloud-native, API-first platform empowering banks to rapidly launch customer-centric services, new revenue streams and innovative business models.",
+    "Yapily is at the forefront of open banking, providing secure API infrastructure that enables companies to access financial data in real-time.",
+    "Their mission is to enable innovative companies to create better and fairer financial services for everyone, through the power of open banking."
+   ],
+   "DQ_training": [
+    "Five factors determine placement: latency tolerance, data volume, compliance requirements, resilience needs and infrastructure cost."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 27
+ },
+ {
+  "name": "Global Mediator",
+  "domain": "global-mediator.com",
+  "website": "https://global-mediator.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Microsoft Business Central/Dynamics developer doing custom development, cloud migration, QA and AppSource apps on the Power Platform stack.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 23693,
+   "signals": {
+    "cicd": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Moving forward they will use Jira for task management, Bit Bucket for source control and Azure pipelines for automated test and release management."
+    ],
+    "vcs_generic": [
+     "Moving forward they will use Jira for task management, Bit Bucket for source control and Azure pipelines for automated test and release management."
+    ]
+   },
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "qa": 4,
+   "enterprise": 1,
+   "DQ_training": 1,
+   "sdlc": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "The controlled use of AI also enables more consistent review, better documentation, and more test automation, lowering the maintenance effort over time.",
+    "With solid documentation and automated testing, we prevent costly post-go-live surprises.",
+    "Ulyana QA Lead It's a short and practical advice from the Team Lead.",
+    "Junior QA Engineer Feeling like a perfect match for our team?"
+   ],
+   "enterprise": [
+    "Lot tracking and recalls FEFO and shelf-life control Recipe and BOM management Learn more Healthcare Business Central setup and custom development for end-to-end healthcare operations."
+   ],
+   "DQ_training": [
+    "We build the features needed in the cloud and offer replacements (extensions) for customizations that need to be moved as well."
+   ],
+   "sdlc": [
+    "Even if a regular human touch is still needed, our processes now consider common circles of interest, mental health webinars and regular follow-ups other than status calls the new normal."
+   ],
+   "compliance": [
+    "Our adherence to ISO27001 standards and proven European project management practices is not just about compliance, but also about keeping your data secure and your projects on track."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 27
+ },
+ {
+  "name": "Arnia Software",
+  "domain": "arnia.com",
+  "website": "https://www.arnia.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Global software development company offering bespoke application development, IT outsourcing, nearshore dedicated teams, banking software and QA.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 117679,
+   "signals": {
+    "cicd": 2,
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "cicd": [
+     "Experience with Git and CI/CD.",
+     "Experience with Git and CI/CD."
+    ],
+    "vcs_generic": [
+     "Experience with Git and CI/CD.",
+     "Experience with Git and CI/CD."
+    ]
+   },
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "sdlc": 21,
+   "enterprise": 9,
+   "prod_eng": 3,
+   "qa": 1,
+   "cicd": 2,
+   "senior_roles": 1,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Nearshore vs Offshore vs Onshore The Benefits of Nearshore Outsourcing Romania as a Nearshore Destination Nearshore Engagement Models Nearshore Outsourcing by Industry How to Choose the Right Nearshore Partner Company We are a global software development company specializing in software development services.",
+    "Nearshore vs Offshore vs Onshore The Benefits of Nearshore Outsourcing Romania as a Nearshore Destination Nearshore Engagement Models Nearshore Outsourcing by Industry How to Choose the Right Nearshore Partner Company About us Careers Why choose us?",
+    "work with us Learn more about IT Outsourcing to Romania scroll for more Agile, Scrum and Scrum variations The successful completion of any project is always tightly related to the quality of the project management activities.",
+    "Nowadays, in the software industry, Agile, Scrum and Scrum variations are the most popular project management approaches used worldwide."
+   ],
+   "enterprise": [
+    "We serve Fortune 500 and Forbes 50 clients.",
+    "With a proven track record serving Fortune 500 and Forbes 50 clients, we deliver reliable software and AI outsourcing that drives business growth.",
+    "We serve various industries: Telecom Retail & eCommerce Automotive Financial Health & Life Science Software & Hi-Tech Our clients are ranging from Fortune 500 to Forbes 50, spanning on 3 continents and more than 10 countries and we can offer excellent software development opportunities for your business.",
+    "These achievements underscore the organization’s commitment to improving healthcare services and the quality of patient care."
+   ],
+   "prod_eng": [
+    "Read more 22 Jul AI and Digitalization for the Energy Transition – What Works in Practice Leading energy companies are combining AI, digitalization, and engineering excellence to build smarter, more resilient energy systems.",
+    "details apply Salesforce Marketing Cloud Engineer Own SFMC platform engineering, data pipelines and enterprise integrations details apply Cloud Backend Engineer (.Net & AWS) Build scalable backend services powering digital products used worldwide."
+   ],
+   "qa": [
+    "details apply Senior QA Automation Engineer / QA Enablement Lead (React Native) We are looking for a Senior QA Automation Engineer to join a product-focused engineering team details apply Data & Integration Engineer We are looking for a Data & Integration Engineer (GCP"
+   ],
+   "cicd": [
+    "details apply Salesforce Marketing Cloud Engineer Own SFMC platform engineering, data pipelines and enterprise integrations details apply Cloud Backend Engineer (.Net & AWS) Build scalable backend services powering digital products used worldwide.",
+    "details apply Senior Front-End Engineer (React/Next) Remote Senior Front-End Engineer role from Romania, focused on React, Next.js, TypeScript and details apply Data Scientist – Data Migration (Python, Databricks) Ready to modernize data pipelines and take ownership of how data is defined, validated, and trusted?"
+   ],
+   "senior_roles": [
+    "Dan D., PHP Tech Lead @ Arnia check out all available jobs Recruitment process check out all available jobs Thank you for your interest in our internship program We are sorry to inform you that we do not have any internships available at the moment."
+   ],
+   "DQ_training": [
+    "Dan D., PHP Tech Lead @ Arnia check out all available jobs Recruitment process check out all available jobs Thank you for your interest in our internship program We are sorry to inform you that we do not have any internships available at the moment."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/twbs"
+  ],
+  "_prio": 26
+ },
+ {
+  "name": "Hibyte Intelli SRL",
+  "domain": "hibyte.ro",
+  "website": "https://hibyte.ro/homepage/",
+  "seed_lead_score": "8",
+  "seed_reason": "Engineering team building reliable custom software and AI products for industrial work, with senior engineers owning every decision and outcome.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 24187,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "sdlc": 24,
+   "cicd": 12,
+   "senior_roles": 6
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Start a project Our Promise This is how we work.",
+    "We don't wait for the next sprint to fix what's wrong.",
+    "Scrum Master Breuer Nachrichtentechnik GmbH Events Come and meet the team at our next events We are proud partners at various local events in Timisoara, supporting our growing tech community Timisoara, Romania Timișoara Startups Drinkabout High-value networking for founders, tech leads, and entrepreneurs.",
+    "May 5, 2026 · 10:00 - 13:00 Ambasada TM Timisoara, Romania Ended All-Stack Hangout Two teams of engineers went head-to-head on whether AI will fully automate the SDLC by 2030 — optimists vs realists, moderated debate format."
+   ],
+   "cicd": [
+    "DevOps & Integrations The infrastructure behind your software: clean pipelines, reliable deployments, systems that don't break each other."
+   ],
+   "senior_roles": [
+    "Scrum Master Breuer Nachrichtentechnik GmbH Events Come and meet the team at our next events We are proud partners at various local events in Timisoara, supporting our growing tech community Timisoara, Romania Timișoara Startups Drinkabout High-value networking for founders, tech leads, and entrepreneurs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 26
+ },
+ {
+  "name": "FXBITS",
+  "domain": "fxbits.io",
+  "website": "https://fxbits.io/",
+  "seed_lead_score": "8",
+  "seed_reason": "IT services firm offering technical audits/due diligence (code, architecture, security, AI readiness) and a five-layer AI software-delivery operating model.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "faster and better Design with user-centric approach making your products memorable, smart and effective Develop with vetted technologies that accelera"
+  },
+  "jd": {
+   "jd_chars": 8027,
+   "signals": {
+    "cicd": 2,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "cicd": [
+     "GitHub, GitLab CI/CD:",
+     "Jenkins, Rancher, Docker, Kubernetes Others:"
+    ],
+    "vcs_generic": [
+     "GitHub, GitLab CI/CD:"
+    ]
+   },
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "sdlc": 1,
+   "qa": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Wedoo Health sector Palo Industry 4.0 Ambrella SaaS IIoT We've been successful as a technology partner delivering web and mobile apps in healthcare, industry4.0, retail and event industry.",
+    "We've been successful as a technology partner delivering web and mobile apps in healthcare, industry4.0, retail and event industry."
+   ],
+   "sdlc": [
+    "Curious to see how we work?"
+   ],
+   "qa": [
+    "apps 3 May 2022 spotlight Test our company skills with Andreea, AQA at FXBITS In today's article we will get to know Andreea Pantea, QA Automation Engineer at FXBITS.",
+    "She started her journey as a QA 4 years ago and she’s been part of the..."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 26
+ },
+ {
+  "name": "InnovatorSpark SRL",
+  "domain": "innovatorspark.com",
+  "website": "https://innovatorspark.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Custom software development and IT staff augmentation with Odoo ERP, frontend/backend/mobile, cloud & DevOps and its own products.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "atorSpark is more than a software company. We take pride in our work and we care for our clients’ projects and ideas as if they were our very own. We"
+  },
+  "jd": {
+   "jd_chars": 11863,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "enterprise": 12,
+   "compliance": 1,
+   "sdlc": 4,
+   "owns_product": 4,
+   "DQ_support": 1,
+   "cicd": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Healthcare SMEs Struggling with compliance‑heavy development, EHR/EMR integrations, or slow delivery cycles?",
+    "EHR / EMR integrations Patient-facing platforms Workflow modernization Discover Healthcare SMEs Logistics SMEs Dealing with fragmented systems, routing inefficiencies, or seasonal spikes?",
+    "We work across regulated, integration‑heavy environments where seniority matters.",
+    "We solve skill gaps, hiring delays, and compliance‑heavy workloads for Healthcare, E-commerce, Logistics SMEs and more, bringing AI‑enabled experts who accelerate delivery and strengthen reliability."
+   ],
+   "compliance": [
+    "Our senior engineers excel at HIPAA/GDPR‑aligned development, secure data handling, and deep integration experience, bringing you digital health solutions faster without increasing operational risk."
+   ],
+   "sdlc": [
+    "Technologies We Master AI CMS Magento Shopify WooCommerce Cloud & DevOps InnovatorSpark Cloud & DevOps services are a powerful synergy where DevOps practices are applied to cloud infrastructure, enabling rapid, reliable delivery of applications and services on AWS, Azure, Google Cloud and more.",
+    "We deliver custom software fast by using Agile sprints for quick iterations, continuous testing, and early releases.",
+    "It’s the foundation of how we work, care, and build relationships with our clients.",
+    "We leveren snel maatwerksoftware door middel van Agile sprints voor snelle iteraties, continue testen en vroege releases."
+   ],
+   "owns_product": [
+    "Improve User Experience and the overall feeling and satisfaction you have when interacting with your product, service, or system.",
+    "Book an appointment Our Products Custom platforms that transform operations All products Healthcare Drugs Audit Digital audits for clinical and pharmaceutical teams Cloud-based audit platform with a custom builder, fully managed service and Power BI analytics.",
+    "InnovatorSpark builds your products with a strong tech stack and certified developers.",
+    "Past Event January 6-9, 2026 Las Vegas, US CES Is your e-commerce platform holding your business back, not because of your products or your marketing, but because the technology underneath it wasn't built to handle where you're heading?"
+   ],
+   "DQ_support": [
+    "Free GPS hardware included with subscription."
+   ],
+   "cicd": [
+    "Member since 2025 Universitatea din Oradea Industry-academia collaboration – quest lectures, lab access, talent pipeline."
+   ],
+   "qa": [
+    "QA Lead Antonia Recruitment Specialist Adelina Office Manager"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 25
+ },
+ {
+  "name": "appssemble",
+  "domain": "appssemble.com",
+  "website": "https://appssemble.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Production AI engineering firm building AI agents, voice AI, RAG and automation inside real mobile/web products with APIs and DevOps.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Company & Digital Product Agency | appssemble Menu About Us Our Work Blog Services Careers Contact Contact Us Close About Us Our Work Blog Services Ca"
+  },
+  "jd": {
+   "jd_chars": 2419,
+   "signals": {
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "vcs_generic": [
+     "21 Decembrie 1989, 95-97 Social LinkedIn GitHub © 2026 appssemble."
+    ]
+   },
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "owns_product": 5,
+   "cicd": 2,
+   "vcs": 4,
+   "qa": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our Products Built and running in production <500ms voice translation latency AI Communication Platform Client project Real-time voice and video translation across 6 platforms.",
+    "10M+ data points processed daily Grovs Our product Open-source attribution and deep linking.",
+    "500K+ app sessions managed Semaphr Our product Release management for mobile.",
+    "<30s from draft to e-Factura Incasez Our product Free invoicing for Romanian businesses."
+   ],
+   "cicd": [
+    "8 RAW frames merged per shot HDR Plus+ Client project On-device ML pipeline that fuses 8 RAW frames into a single HDR image.",
+    "We use AI-assisted development, automated testing, and intelligent tooling across the entire delivery pipeline."
+   ],
+   "vcs": [
+    "21 Decembrie 1989, 95-97 Social LinkedIn GitHub © 2026 appssemble."
+   ],
+   "qa": [
+    "We use AI-assisted development, automated testing, and intelligent tooling across the entire delivery pipeline."
+   ],
+   "sdlc": [
+    "How we work Small, senior teams Every project is staffed with experienced engineers who own the outcome end-to-end."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/appssemble"
+  ],
+  "_prio": 25
+ },
+ {
+  "name": "SC AEGIS CORE TECH SRL",
+  "domain": "aegiscoretech.com",
+  "website": "https://aegiscoretech.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Engineering firm doing custom software, team augmentation, cybersecurity (secure SDLC, SAST/DAST), AI/LLM integration and automotive (AUTOSAR) engineering.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Aegis Core Tech | Software Development, Cybersecurity & AI Integration Home About Services Service Categorie"
+  },
+  "jd": {
+   "jd_chars": 24166,
+   "signals": {
+    "cicd": 1,
+    "vcs_generic": 2,
+    "testing": 2
+   },
+   "quotes": {
+    "cicd": [
+     "Familiarity with Docker and containerization, CI/CD pipelines"
+    ],
+    "vcs_generic": [
+     "Experience with version control systems (e.g., Git)",
+     "Experience with version control systems (e.g., Git)"
+    ],
+    "testing": [
+     "Experience with test automation tools (e.g., Vector CANoe, ECU-TEST)",
+     "Experience with test automation tools (e.g., VectorCAST, Vector CANoe, ECU-TEST)"
+    ]
+   },
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "cicd": 3,
+   "prod_eng": 1,
+   "owns_product": 3,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Romania & Europe Cybersecurity Custom and Secure AI Integration for Enterprise Systems Automotive Engineering Careers Portfolio Contact Aegis Core Tech (ACT) Engineering Scalable Software for Regulated and Complex Systems Nearshore Engineering Teams",
+    "Automotive Engineering Secure and traceable software delivery for regulated and complex systems, with nearshore engineering teams supporting scalable development, cybersecurity, and AI integration.",
+    "Experienced Tier-1 programs and regulated domains delivered with confidence.",
+    "Security mindset We consider security and safe change from the start, especially in regulated and long-lifecycle products."
+   ],
+   "cicd": [
+    "Quality End-to-End Architecture, implementation, testing, CI/CD, and release discipline work together so software remains maintainable after handover.",
+    "CI/CD, release management, and automated or manual test support.",
+    "AI With Accountability AI helps with prototyping, refactoring, test coverage, CI/CD improvement, and knowledge workflows."
+   ],
+   "prod_eng": [
+    "Engineering Excellence Automation, measurable quality, and accountable execution."
+   ],
+   "owns_product": [
+    "Tell us about your product or training needs."
+   ],
+   "sdlc": [
+    "Culture How we work together Built around continuity, ownership, and delivery practices that make complex engineering easier to trust."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 25
+ },
+ {
+  "name": "Infobest Romania",
+  "domain": "infobest.ro",
+  "website": "https://www.infobest.ro/",
+  "seed_lead_score": "8",
+  "seed_reason": "End-to-end software development, QA & testing and support firm (.NET/Java/PHP/COBOL) with AI/ML, cloud, big data and IoT solutions across Europe.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "a, Timisoara | Infobest Skip to content Request a call back Software Development Managed Projects Extended Workbench IT in Romania FAQ & Benefits What"
+  },
+  "jd": {
+   "jd_chars": 10362,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "qa": 3,
+   "owns_product": 3,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "We provide a full range of QA & Testing Services on any platform and device.",
+    "QA & Testing TALENT We invest in talent.",
+    "QUALITY ASSURANCE Infobest’s A qualified and dedicated QA team will handle the full-scale testing of your product, for any potential vulnerabilities, on time and within budget."
+   ],
+   "owns_product": [
+    "Choose the one matching your product.",
+    "QUALITY ASSURANCE Infobest’s A qualified and dedicated QA team will handle the full-scale testing of your product, for any potential vulnerabilities, on time and within budget.",
+    "SUPPORT Our teams of support experts are focused on constantly improving and maintaining your product, with significant savings in both time and costs."
+   ],
+   "sdlc": [
+    "Streamlined Maintenance and Support We provide maintenance and support for products and services you have developed with us or applications that are currently running on your system Logical Agile Approach We follow the software development industry best Project Management practices and process with Agile methodology."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 25
+ },
+ {
+  "name": "Freshbyte",
+  "domain": "freshbyteinc.com",
+  "website": "https://freshbyteinc.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Technology partner providing dedicated development teams, custom software, web/mobile, IT staff augmentation, QA and cloud/DevOps from Romania.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 11867,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "compliance": 2,
+   "sdlc": 2,
+   "owns_product": 1,
+   "pr_practice": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Certifications ISO 9001 : ISO 9001 certification ensures a software development company maintains consistent quality management practices, focuses on customer satisfaction, and continuously improves processes, ensuring reliable, high-quality software delivery and compliance with industry standards.",
+    "ISO 27001 : ISO 27001 certification ensures a software development company implements robust information security management systems (ISMS), safeguarding sensitive data, mitigating risks, and complying with global standards for data protection and privacy."
+   ],
+   "sdlc": [
+    "Agile Development Process Our teams follow agile methodologies to ensure transparent communication and efficient delivery.",
+    "With regular sprint planning, daily stand-ups, and retrospectives, we maintain high productivity while adapting to changing requirements."
+   ],
+   "owns_product": [
+    "This approach enables continuous improvement and faster time-to-market for your products."
+   ],
+   "pr_practice": [
+    "Regular code reviews and knowledge sharing sessions maintain high quality standards throughout development."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 25
+ },
+ {
+  "name": "AlgoTech Solutions",
+  "domain": "algotech.solutions",
+  "website": "https://www.algotech.solutions/",
+  "seed_lead_score": "8",
+  "seed_reason": "React and Node.js specialist software house designing, building and maintaining web/mobile applications and SaaS products.",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; proves ownership of a name only",
+   "date": "2015-04-09",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 7937,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "owns_product": 9,
+   "vcs": 2,
+   "sdlc": 2,
+   "qa": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "The React and Node.js experts With decades of experience in the engineering industry and a proven track record building startups and SaaS products.",
+    "Ready to build your product Our team turns ideas into outstanding digital products.",
+    "We walk you through all the different potential technical decisions you can make for your product, and the impact has on price, timeline and scalability, so you understand when it makes sense to cut costs and when it doesn’t.",
+    "People’s lives Our products are designed and built to help people’s lives."
+   ],
+   "vcs": [
+    "Andreea Bryan, Co-Founder See more verified reviews on Clutch We transform challenges into digital experiences Hire us Resource center View all articles Engineering How To Work with Git – The Pros’ Way Git offers a large variety of features from the basic to the mind-blowing ones.",
+    "Read more Engineering How To Work with Git – The Pros’ Way Git offers a large variety of features from the basic to the mind-blowing ones."
+   ],
+   "sdlc": [
+    "React development React Native Development Node.js Development Progressive Web App Tell us about your needs They used a really good agile approach and it was really easy to work with them.",
+    "Leverage our agile approach to accelerate your product development cycle."
+   ],
+   "qa": [
+    "Release high-quality apps at speed with our functional manual and automated QA services.",
+    "QA Release high-quality apps at speed with our functional manual and automated QA services."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/algotech"
+  ],
+  "_prio": 25
+ },
+ {
+  "name": "ConturSoft",
+  "domain": "contursoft.com",
+  "website": "https://contursoft.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Cluj custom software development company doing custom web/mobile development, eCommerce, cloud services and QA/testing as a software outsourcing partner.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Custom Software Development Company - ConturSoft What we do Custom Software Development Cu"
+  },
+  "jd": {
+   "jd_chars": 8267,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "prod_eng": 1,
+   "owns_product": 2,
+   "qa": 1,
+   "pr_practice": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Product Development If you are either a start-up or a established product company, we take care of your product engineering process, from business strategy to programming and UX & UI, ensuring an MVP and full ongoing development support."
+   ],
+   "owns_product": [
+    "Product Development If you are either a start-up or a established product company, we take care of your product engineering process, from business strategy to programming and UX & UI, ensuring an MVP and full ongoing development support.",
+    "The success of your product will be the common interest of our team and we’ll make sure we reach the targets together."
+   ],
+   "qa": [
+    "QA & Support With us, you’ll find a team focused on enhancing the quality and long-term scalability of your software."
+   ],
+   "pr_practice": [
+    "Whether it’s code reviews, product support, or system upgrades and improvements, our team will be an effective resource to help you maximize return on investment and improve your business processes."
+   ],
+   "cicd": [
+    "Wilhelm Schmidt Manager - Logistic People The collaboration between our company and ConturSoft was focused on creating a new presentation website for our company."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 25
+ },
+ {
+  "name": "Softclaire",
+  "domain": "softclaire.com",
+  "website": "https://www.softclaire.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Digital product agency doing full front/back-end web, cross-platform mobile, MVP and startup development with its own CRM modules, alongside WordPress/landing p",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; proves ownership of a name only",
+   "date": "2019-04-03",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 5,
+   "owns_product": 3,
+   "DQ_agency": 1,
+   "pr_practice": 1,
+   "qa": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "We adapt our process and level of involvement based on the project’s stage and maturity, providing personalized support regardless of the size of your business.",
+    "Agile Processes: Short sprints, regular meetings, constant feedback.",
+    "Detailed sprint planning with measurable goals.",
+    "Demo at the end of the sprint – real-time validation."
+   ],
+   "owns_product": [
+    "Latest blog posts How to build an MVP for your startup 20 Apr 2026 AI Software Development - Useful information guide 25 Nov 2025 How to ensure quality in outsourcing: processes, communication and delivery 17 Nov 2025 Want to launch your product into the future?",
+    "Dedicated Team Stay engaged in the development of your product: create, view, and deliver side-by-side with a team of experienced people.",
+    "I highly recommend Softclaire to all businesses and investors!\" Mirela Marin \"Softclaire created a beautiful, functional website for us, exactly as we instructed.\" Paul Radovan CEO at Print Services Want to launch your product into the future?"
+   ],
+   "DQ_agency": [
+    "UX/UI Perfex CRM Social media marketing Others Have a project in your mind ?"
+   ],
+   "pr_practice": [
+    "Mandatory code review for every task."
+   ],
+   "qa": [
+    "Continuous Testing: Manual QA + automation where possible.",
+    "QA Report – bugs, test cases, coverage level."
+   ],
+   "cicd": [
+    "CI/CD: Pipelines that prevent errors and deliver incrementally."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/softclaire"
+  ],
+  "_prio": 24
+ },
+ {
+  "name": "Deventure",
+  "domain": "deventure.co",
+  "website": "https://www.deventure.co/",
+  "seed_lead_score": "8",
+  "seed_reason": "Full-stack custom software development company building web/mobile apps, enterprise software and cloud/BI with UI/UX and QA under one roof.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 19013,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "sdlc": 6,
+   "enterprise": 3,
+   "owns_product": 3,
+   "qa": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "We have refined our processes over the years to ensure that our customers are the ones that benefit from our efficiency.",
+    "OUR PROCESS KEY PEOPLE Flavius Radu Demian [email protected] Flavius is CEO and founder at Deventure and a .NET developer at core.",
+    "For further information, please refer to our Privacy Policy Continue with technically required cookies only Agree and continue Our Process",
+    "To make sure we deliver a high-quality product the development phase is split into sprints."
+   ],
+   "enterprise": [
+    "To name but a few examples we have delivered CRM development for recruitment businesses, a trading app for beginners, a healthcare app for postoperative patient management; or the travel social media app for receiving travel recommendations from close friends.",
+    "Read more 14th july 2022 Providing Better Experience To Your Candidates With Recruitment Automation Read more 27th june 2022 Are You Ready To Step Into The Era Of Digital Healthcare?"
+   ],
+   "owns_product": [
+    "We are extremely happy with our product and will work with Deventure for future enhancements.",
+    "Before we release your product we will provide you with demonstration sessions so that you can see and vet what we have built."
+   ],
+   "qa": [
+    "Testing Our QA professionals are taking care of the technical and user flow issues that might become apparent on the way.",
+    "The team will run performance or automated tests to discover bugs before the deployment."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 23
+ }
+]

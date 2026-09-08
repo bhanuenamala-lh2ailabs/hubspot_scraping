@@ -1,0 +1,896 @@
+[
+ {
+  "name": "Carestream Health India Private Limited",
+  "city": "Mumbai",
+  "domain": "carestream.com",
+  "website": "https://www.carestream.com/en/us/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 3987,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "cicd": [
+    "From our X-ray products for pediatrics, sports medicine, or veterinary hospitals, to our non-destructive testing ensuring aircrafts and pipelines are safe."
+   ],
+   "enterprise": [
+    "While potentially expanding the role for NPs and PAs in the healthcare system by becoming certified B Readers.",
+    "News, Events and Social Media The latest Carestream news releases, healthcare news and upcoming events."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Carrier Technologies India Limited",
+  "city": "Hyderabad",
+  "domain": "utc.com",
+  "website": "https://www.rtx.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 20939,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Using the expertise of 60,000 engineers, the production capability of 250 factories, multibillion-dollar investments in research and development and decades’ worth of proprietary data on the performance of our products, we design, manufacture and deliver with speed, safety and quality.",
+    "90% of all Department of War and commercial space launches are supported by our products."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "CEDURA Testsol Private Limited",
+  "city": "Hyderabad",
+  "domain": "ceduratech.com",
+  "website": "https://cedura.ai/",
+  "already_in_hubspot": true,
+  "headcount_known": 46,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "we are good at hardware. We have solutions to support your software development and maintenance needs as well as Robotics, Edge-AI systems. Applicati"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 3430,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 5,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "We align on the business case, design human-centered experiences, and build reliable pipelines.",
+    "Data pipelines & orchestration Feature engineering AI-ready data platforms Data Science & AI Model Development (03) We design, train, and deploy machine learning and AI models that automate decisions, generate insights, and power intelligent systems.",
+    "Everything in Starter CI/CD, tracing, alerts, guardrails Full eval dashboard 3 data source & 3 integration --> FAQs Frequently Asked Questions What’s the typical timeline from idea to v1?",
+    "We are model- and cloud-agnostic, working with leading LLMs, open-source models, and custom ML pipelines integrated into your existing stack."
+   ],
+   "owns_product": [
+    "Turning SaaS product data into compounding insight Usage, support, and revenue signals feed scoring models that power in‑product assistants, success playbooks, and pricing experiments—so every release learns from the last."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ceiyone Tech Works Private Limited",
+  "city": "Coimbatore",
+  "domain": "ceiyone.com",
+  "website": "https://ceiyone.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2016-12-17",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 60735,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 24,
+   "DQ_support": 12,
+   "cicd": 6
+  },
+  "site_quotes": {
+   "owns_product": [
+    "UI/UX Design for SaaS Seamless experiences tailored to SaaS products and platforms."
+   ],
+   "DQ_support": [
+    "Microservices Modern App Architecture 24×7 Managed Services Round-the-Clock IT Support View More Data Analytics Unlocking Data Insights BI Reporting & Dashboard Actionable Data Visualization Data Migration Seamless Data Transitions BI Consulting",
+    "Microservices Modern App Architecture 24×7 Managed Services Round-the-Clock IT Support View More Data Engineering Robust data pipelines delivering actionable insights Data Analytics Unlocking Data Insights BI Reporting & Dashboard Actionable Data Visualization Data Migration Seamless Data Transitions BI Consulting"
+   ],
+   "cicd": [
+    "Microservices Modern App Architecture 24×7 Managed Services Round-the-Clock IT Support View More Data Engineering Robust data pipelines delivering actionable insights Data Analytics Unlocking Data Insights BI Reporting & Dashboard Actionable Data Visualization Data Migration Seamless Data Transitions BI Consulting"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Cencora Business Services India Private Limited",
+  "city": "Pune",
+  "domain": "cencora.com",
+  "website": "https://www.cencora.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "rkforce provides leadership, expertise, and a comprehensive portfolio of solutions for partners across the human and animal health fields worldwide. R"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 7921,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 11,
+   "enterprise": 25
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Patient access and adherence support Address barriers to patient access and increase your product's speed-to-therapy.",
+    "Health systems Create healthier futures for communities worldwide through our product access and distribution, business analytics and technology, and clinical solutions.",
+    "We offer a partnership-driven approach with flexible account management and a solutions-oriented mindset, ensuring operational excellence at every key point in your product's journey.",
+    "With over 1 40 sites, including 3PL facilities and transport stations around the world , our team has expertise in areas like specialty pharma, biosimilars, and cell and gene therapy, and we are eager to innovate and flex to meet the unique needs of your product."
+   ],
+   "enterprise": [
+    "OTC & consumer healthcare products Partner with Cencora for market-leading distribution of OTC and consumer healthcare products.",
+    "Leadership Meet our executive leaders, each of whom has a proven record of leadership across the healthcare spectrum.",
+    "We combine global capabilities and local expertise to help healthcare professionals bring life-saving therapies, preventive treatments, and high-quality care to communities around the world.",
+    "Explore our capabilities Why Cencora The end-to-end support we provide across the entire healthcare spectrum isn’t the only thing that sets Cencora apart."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Center For Creative Leadership India Private Limited",
+  "city": "Gurugram",
+  "domain": "ccl.org",
+  "website": "https://www.ccl.org/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "with us for leadership development, and start transforming your workforce today. “For our core leader training program, we combined key organizational"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 37115,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2,
+   "enterprise": 3,
+   "sdlc": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Leadership Programs > Leadership Coaching > All-in-One Subscription > AI Demands Stronger Human Leadership AI can optimize decisions, but it can’t build trust, transfer wisdom, or create connection.",
+    "World-Class Coaching Services Take development with personalized executive coaching for individual leaders."
+   ],
+   "enterprise": [
+    "’” Buffy Morris Director of Learning & Development Arch Mortgage Insurance Company The whole experience has given us leadership muscle to do things we didn’t think were possible.",
+    "From community leaders to Fortune 500 CEOs, we support leaders at all levels and are driven to make the world a better place through leadership.",
+    "Learn More Healthcare Craft an innovative leadership development plan to solve for disruptors like commercialization, market competition, organizational silos, and evolving care models."
+   ],
+   "sdlc": [
+    "By embracing collective action, your organization can become more agile and better understand and address systemic challenges — embracing problem solving to address collective issues of disruption."
+   ],
+   "cicd": [
+    "While starting with culture change at an organization can feel overwhelming, it’s essential to prepare your organization to tackle disruption."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Cerify Auditing Solutions Private Limited",
+  "city": "New Delhi",
+  "domain": "cerify.ai",
+  "website": "https://cerify.ai",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "CFA Institute India Private Limited",
+  "city": "Mumbai",
+  "domain": "cfainstitute.org",
+  "website": "https://www.cfainstitute.org/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "riented and includes instructional videos, coding labs, and case studies from industry practitioners. Master the language of tomorrow, today! Research"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 52500,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Discover the difference the CFA designation could make in your career journey and find out more about the careers you could access in asset and wealth management, investment banking, commercial banking, and consulting."
+   ],
+   "owns_product": [
+    "His priorities include deepening our society and institutional relationships, accelerating our B2B and B2C sales and distribution capabilities, bringing new professional educational products to market, and driving revenue growth across our product portfolio."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "CFO Bridge Services Private Limited",
+  "city": "Chennai",
+  "domain": "cfobridge.com",
+  "website": "https://www.cfobridge.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "s interested in Data Analytics and has working knowledge in Python, Data Analysis, and Power BI. CLOSE Dinesh Jain CFO Partner - Gujarat EXPERIENCE &"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 22490,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "CFO Bridge serves SMEs and startups across Technology & SaaS, Healthcare & Pharma, E-commerce & D2C, Engineering & Manufacturing, Logistics, Energy, Media, and Financial Services - with 500+ client engagements across India, USA, and UAE."
+   ],
+   "senior_roles": [
+    "CTO Bridge Established tech leadership - a part of Bridge Ecosystem 2025 CFO Bridge UAE expanded presence, building leadership traction."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "CGI Information Systems and Management Consultants Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "cgi.com",
+  "website": "https://www.cgi.com/en",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1987-01-19",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 69454,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "senior_roles": 1,
+   "sdlc": 3,
+   "owns_product": 2,
+   "DQ_template": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Explore AI consulting about Move from AI pilots to enterprise transformation Join us at Sibos to explore the future of AI-ready banking Connect with our experts to discover how adaptive, trusted and AI-ready banking can accelerate resilience, innovation and long-term growth.",
+    "Meet us at Sibos about Join us at Sibos to explore the future of AI-ready banking CGI at 50 years Building what's next Since 1976, CGI has grown into one of the largest IT and business consulting services firms in the world.",
+    "Banking Government Health Manufacturing Retail Energy & utilities Explore all industries Services We help you meet the ever-evolving digital expectations of your customers and citizens through our secure and flexible end-to-end services.",
+    "Portfolio management Fund accounting CGI Funds360 Plan administration Securities processing CGI Wealth360 Financial Wellness View all banking solutions Digital services Using key technologies to drive enterprise-wide value."
+   ],
+   "senior_roles": [
+    "Read Parimal's story Read more career stories Paul: A day in the life of a technical architect Learn about what it’s like to be a technical architect through the eyes of Paul Hokanson, a CGI Partner based in the United States."
+   ],
+   "sdlc": [
+    "With a CGI career spanning more than 25 years, Noreen’s journey—from software engineer in Bangalore to Scrum Master in the U.",
+    "Case study From document fragmentation to a data foundation Discover more the City of Helsinki The City of Helsinki’s Experimentation Accelerator promotes agile experimentation with digital and AI-based solutions to support service ..."
+   ],
+   "owns_product": [
+    "Case study From document fragmentation to a data foundation Discover more the City of Helsinki The City of Helsinki’s Experimentation Accelerator promotes agile experimentation with digital and AI-based solutions to support service ..."
+   ],
+   "DQ_template": [
+    "Learn more 2026 CGI Voice of Our Clients CGI Innovation Centers Through our CGI Innovation Centers, we co-create and co-design solutions with our clients, research future industry trends, and provide a ready-made environment for the experimentation of new emerging technologies, quickly and cost-effectively."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Chase Avian Commuincations Private Limited",
+  "city": "New Delhi",
+  "domain": "chase-india.com",
+  "website": "https://www.chase-advisors.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1205,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Case study detail page Learn more Supporting Evidence-Based Advocacy We reinforced testing's importance in the pandemic response, supported by scientific experts and a global healthcare foundation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Cheric Information Network Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "cherictechnologies.com",
+  "website": "https://cherictechnologies.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "info@cherictechnologies.com Employee Login Home IT Services Application Development BPM Cloud Computing IT Analytics Service Maintaince and Support Se"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 40611,
+   "signals": {
+    "vcs_generic": 10,
+    "testing": 2
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Experience in writing unit tests and implementing testing frameworks for Node.js applications Proficient understanding of code versioning tools, such as Git.",
+     "Work with version control systems and collaborate with team members using Agile methodologies.",
+     "Familiarity with version control systems, such as Git."
+    ],
+    "testing": [
+     "Experience in writing unit tests and implementing testing frameworks for Node.js applications Proficient understanding of code versioning tools, such as Git.",
+     "Experience in writing unit tests and implementing testing frameworks for Node.js applications Proficient understanding of code versioning tools, such as Git."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 31,
+   "qa": 7,
+   "DQ_bpo": 2,
+   "enterprise": 1,
+   "vcs": 3,
+   "pr_practice": 4,
+   "sdlc": 5
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "IT Staffing and Digital Marketing || Cheric Technologies Skip to content Home Services IT Services Consulting Application Development Cloud Computing IT Analytics Service Maintaince and Support Microsoft ERP",
+    "read more Digital Marketing Boost your online presence with our expertise in SEO, eCommerce.",
+    "PPC, Content, Social Media, etc.",
+    "Discover the full potential of Cheric Technologies, where we combine unrivaled IT Services, Consulting, Staffing & Recruiting, Engineering, IT Enabled Services, and Digital Marketing Services."
+   ],
+   "qa": [
+    "Cheric Technologies boasts a remarkable array of specialties, including IT Products, Quality Management Systems, Project Management Services, QA Services, Mobile Apps (Offshore & Onsite), Business Analysis Services, and our latest revolutionary Digital Marketing Services.",
+    "At Cheric Technologies, we excel in IT Products and quality management systems, Project Management Services, QA Services, Mobile Apps (Offshore & Onsite), Business Analysis Services, and Digital Marketing Services.",
+    "We specialize in Application Development, BPM, Design & Detailed Engineering, IT Analytics services, QA services, SEO, Social Media Marketing, Branding, UI/ UX, Web Development, AI, Data Engineering, and many more.",
+    "Experience in writing unit tests and implementing testing frameworks for Node.js applications Proficient understanding of code versioning tools, such as Git."
+   ],
+   "DQ_bpo": [
+    "Our services encompass inbound/outbound processes, telemarketing, call center processes, data processing and management, chat and email support, and more."
+   ],
+   "enterprise": [
+    "Comprehensive health insurance and other employee benefits."
+   ],
+   "vcs": [
+    "Experience in writing unit tests and implementing testing frameworks for Node.js applications Proficient understanding of code versioning tools, such as Git.",
+    "Familiarity with version control systems, such as Git.",
+    "Experience with version control systems, such as Git."
+   ],
+   "pr_practice": [
+    "Work with version control systems and collaborate with team members using Agile methodologies.",
+    "Familiarity with version control systems, such as Git.",
+    "Working with version control systems and following Agile development methodologies.",
+    "Experience with version control systems, such as Git."
+   ],
+   "sdlc": [
+    "Work with version control systems and collaborate with team members using Agile methodologies.",
+    "Experience working in Agile development methodologies.",
+    "Working with version control systems and following Agile development methodologies.",
+    "Understanding of Agile development methodologies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Chubb Business Services India Private Limited",
+  "city": "Hyderabad",
+  "domain": "chubb.com",
+  "website": "https://www.chubb.com/us-en/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "rld becomes more digital Explore Coverage Options ForeFront Portfolio℠ The latest evolution of management liability offerings for private, not-for-pro"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 16,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 58,
+   "DQ_support": 4
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Insurance for Individuals & Businesses",
+    "Learn More Back Travel Travel Insurance Chubb offers the insurance protection you need for travel’s many “what ifs”.",
+    "Download Report Back Industries Climate+ Construction Financial Institutions Healthcare Life Sciences Manufacturing Real Estate Technology All Industries Back Services Business Income Consultation ESIS Chubb Risk Consulting Solutions for Multinationals StreamLabs, Inc.",
+    "Learn More Back Case Studies Nubank Yettel All Case Studies What is Embedded Insurance?"
+   ],
+   "DQ_support": [
+    "Technology insurance provides coverage for technology businesses of all sizes, from startups to multinationals, protecting against both physical and digital risks such as property damage and cyber threats, and is tailored for industries like software, hardware, technology services, consulting, and communications.",
+    "This insurance is designed for technology services and consulting firms, software and system developers, communications and network service providers, and electronics and hardware manufacturers.",
+    "Watch the Video Industry Practice Spotlight: Technology Our Appetite Chubb works with companies at the forefront of digital transformation—supporting innovators in software, hardware, and emerging tech as they grow, adapt, and lead in a rapidly changing marketplace.",
+    "Learn More Electronics and hardware manufacturing Technology manufacturing involves a complex and global web of facilities, suppliers, contractors, and retailers that all come with risks best handled by an insurance partner with the right expertise."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Cinepolis India Private Limited",
+  "city": "Gurugram",
+  "domain": "cinepolisindia.com",
+  "website": "https://cinepolisindia.com/?cid=10",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Circana India Private Limited",
+  "city": "Bengaluru",
+  "domain": "circana.com",
+  "website": "https://www.circana.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 121226,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Circle K Business Centre India LLP",
+  "city": "Gurugram",
+  "domain": "circlek.com",
+  "website": "https://www.circlek.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "egion Western Canada division CURRENT CONTEST Store locator Our products Working with us About us Expand History and timeline Our Sustainability Journ"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Circular Edge Solution Private Limited",
+  "city": "Chennai",
+  "domain": "circularedge.com",
+  "website": "https://www.circularedge.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Edge is my ' Secret Weapon ' for Application Integration , Application Development , and Application Security . During my 6 years we have partnered a"
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 56090,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "NetSuite Support Implementation & Consulting NetSuite Health Check NetSuite Rescue Project Recovery NetSuite EPM Industries NetSuite for Retail NetSuite for Food & Beverage NetSuite for Healthcare and Life Sciences What is NetSuite ERP?"
+   ],
+   "DQ_template": [
+    "NetSuite , NetSuite Blogs Read More CRM Dashboard: KPIs, Examples & Template NetSuite , NetSuite Blogs Read More What Is an Inventory Item?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Citco Group Services (India) LLP",
+  "city": "Hyderabad",
+  "domain": "citco.com",
+  "website": "https://www.citco.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 16576,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 9,
+   "sdlc": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Learn more Asset Owners Alternative Asset Managers Banking Clients Investors Corporates & Financial Institutions Careers Thanks to our independent status and flat structure, our people create smarter solutions to our clients' biggest challenges.",
+    "Asset Owners More Alternative Asset Managers More Banking Clients More Investors More Corporates & Financial Institutions More More about our clients The Citco story Since 1948, we have shaped and pioneered the fund administration sector.",
+    "Read more Publications Citco 2026 Q2 Middle Office Solutions Report 29 July 2026 Outsourced trade operations volumes more than doubled quarter-on-quarter in Q2, hitting a record high, as a combination of demand, high profile IPOs and positive banking results all combined to push up activity.",
+    "Learn more Openings Careers FAQ Our Services Corporate Secretarial and Management Services The corporate secretarial solution Citco Corporate Solutions provides a full suite of corporate secretarial services to regulated entities, which can be tailored to your board’s requirements."
+   ],
+   "sdlc": [
+    "Agility At Citco, we operate nimbly and agilely to implement individual, innovative solutions for our partners—ones that ultimately set your organization up for success."
+   ],
+   "DQ_support": [
+    "OK Citco LinkedIn Instagram Our Story Our Services Our Clients Insights Careers Privacy Terms of Use Use of Cookies Regulatory Disclosures Public Statements IT Support © 2026, The Citco Group Limited Close"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Clematis Technology Solutions India Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "clematistechsol.com",
+  "website": "https://www.clematistechsol.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "SAP Support Services | Staffing Solutions | Web & Mobile Application Development - Clematis Technology Solutions India Pvt Ltd Who We Are? What We"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "One of them, an SAP Warehouse Management project, is for a Fortune 500 company, which provides an overview of all the storage facilities, as well as the related goods issues and warehouse stocks."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Clogration India Private Limited",
+  "city": "Bengaluru",
+  "domain": "clogration.com",
+  "website": "https://www.clogration.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ration SAP with RISE SAP Business Technology Platform (BTP) Application Development & Integration SAP Data Analytics Data Migration & Services SAP Arc"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 6702,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Customer Centric Employee Focus Innovation Agility Trust Our Goal We are dedicated to ensuring our customer’s success through agile and complete ERP selection and implementation.",
+    "Our process begins with corrective maintenance, which progresses to adaptive, preventive and perfective maintenance."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

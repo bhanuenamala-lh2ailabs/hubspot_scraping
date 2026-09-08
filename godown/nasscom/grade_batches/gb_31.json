@@ -1,0 +1,941 @@
+[
+ {
+  "name": "Datamatics Global Services Ltd",
+  "city": "Mumbai",
+  "domain": "datamatics.com",
+  "website": "https://www.datamatics.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "roviding Intelligent Solutions for Data Driven Businesses | Case Studies | Careers | Press Releases | Events | Investors | Contact Us Solutions Platfo"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "owns_product": 6,
+   "sdlc": 7,
+   "prod_eng": 17,
+   "qa": 3,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Agentic AI Use Cases By Industry - Banking & Finance Insurance Manufacturing Logistics Drive Your Business Forward with Our Core Solutions We empower enterprises to go Deep in Digital, driving growth and efficiency through our comprehensive Technology, Operations, and Experiences offerings.",
+    "Why do banking and insurance sectors rely heavily on legacy systems?",
+    "Banking and insurance organizations often depend on legacy systems because they manage large volumes of sensitive data, support mission-critical operations, and comply with strict regulatory requirements.",
+    "It is also used in fraud detection mechanisms to flag off potential fraudulent transactions in the BFSI industry."
+   ],
+   "owns_product": [
+    "By embedding AI at the core and leveraging advanced accelerators, we ensure your technology backbone is a primary driver of innovation and business acceleration.",
+    "What are AI-powered accelerators for legacy modernization?",
+    "AI-powered accelerators, such as Datamatics' Kai suite, are specialized tools that leverage Generative AI and machine learning to fast-track modernization.",
+    "For example, our accelerators can automatically extract business rules from legacy code (KaiBRE), reduce development effort by up to 40% (KaiSDLC), and speed up migration testing by 50% (KaiTest), significantly reducing risk, time, and cost."
+   ],
+   "sdlc": [
+    "Our partnership has been tremendous because of that.\" OneTouch Direct Happy Customers Make Us Happy \"Datamatics was very agile and proactive in their approach and worked as an extended team of Harris Teeter.",
+    "Besides, being heavily inspired by principles of Agile and DevOps, product engineering enables you to automate the IT operations in parallel to product development that makes frequent rollbacks and feedback implementations a breeze, significantly reducing the cost and time-to-market.",
+    "The deliverables are predefined and the project follows a lean-agile model offering a flexible architecture to support prospective customer needs, that involves consistent addition of new features, getting rid of outdated features, rolling out frequent updates and releases, and fixing existing bugs in parallel.",
+    "Furthermore, fragile legacy applications & systems can create cost pressures and pose security threats."
+   ],
+   "prod_eng": [
+    "Contact Us Software Product Engineering Services & Solution for Rapid Development",
+    "All Case Studies Thoughtcast Creating Wow Digital Experience for your Customers Read More Whitepaper Top 10 Most Innovative Use Cases of AR/VR Read More Whitepaper Digital Experiences Success Stories Read More Frequently Asked Questions What is Product Engineering?",
+    "Product Engineering refers to outsourcing all or some of the activities of software development, such as product design, prototyping, testing, quality control, product lifecycle management, etc.",
+    "It also involves consulting with specialized product engineering service providers to gain the advantage of the expertise, cost savings, faster time-to-market and enhanced value engineering, etc."
+   ],
+   "qa": [
+    "Test Automation Ensure software quality with our comprehensive test automation services.",
+    "We utilize Selenium, Appium, SeeTest, and Cucumber to automate testing processes.",
+    "Watch Demo KaiTest Accelerate end-to-end test automation with the Agentic AI-driven test case generation and execution."
+   ],
+   "cicd": [
+    "We leverage AWS, Azure, Docker, Chef, Jenkins, and Puppet to deliver scalable and reliable cloud solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Datamorphosis Technologies Private Limited",
+  "city": "Pune",
+  "domain": "datamorphosis.in",
+  "website": "https://www.datamorphosis.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "r Data Engineering, AWS. Deep Saraf Managing Director, Nice Software Solutions I would like to extend my appreciation to Datamorphosis and its team fo"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2033,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 2,
+   "enterprise": 4,
+   "cicd": 4,
+   "qa": 2,
+   "sdlc": 2,
+   "prod_eng": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Smart cities Municipal corporations Traffic police DM-P02 Auravex AI Edge CCTV intelligence platform Auravex AI turns existing CCTV networks into a real-time intelligence layer.",
+    "Apply Send your details — mention the role in the message Name Company Email Phone Location Interest ISTSS — Smart Traffic Auravex AI — Edge CCTV AI Skilling Platform Community AI Vein Scanner — Healthcare EV Charging Platform Engineering Services Message Send request By submitting, you agree to our Privacy Policy."
+   ],
+   "enterprise": [
+    "Housing societies Townships Gated communities DM-P05 Vein Scanner Deep-tech healthcare — assistive vein visualization An assistive vein visualization platform designed to support healthcare professionals during IV access and patient care workflows.",
+    "Healthcare Assistive deep-tech devices, clinical workflow software and analytics for hospitals and diagnostics.",
+    "BFSI Risk scoring, document intelligence, reporting automation and secure data platforms.",
+    "Apply Send your details — mention the role in the message Name Company Email Phone Location Interest ISTSS — Smart Traffic Auravex AI — Edge CCTV AI Skilling Platform Community AI Vein Scanner — Healthcare EV Charging Platform Engineering Services Message Send request By submitting, you agree to our Privacy Policy."
+   ],
+   "cicd": [
+    "EV & mobility Smart cities Real estate Services Engineering services for enterprises and governments We help enterprises modernize legacy systems, build data pipelines, dashboards and operational intelligence platforms, and support cloud migration, automation and managed services.",
+    "Data Engineering Pipelines, lakehouses and reliable data foundations.",
+    "DevOps & Automation CI/CD, infrastructure as code and release discipline.",
+    "Services · Pune / Hybrid · Full-time Data Engineer Azure data platforms, streaming pipelines, dbt-style transformation layers."
+   ],
+   "qa": [
+    "QA & Testing Automation-first quality engineering.",
+    "Datamorphosis ® Products Services About Industries Case Studies Innovation Lab Media Blog Careers EN Talk to Expert Services / Extended Team Model Extended Team Model We provide dedicated engineers and pods — AI, data, full-stack, DevOps, QA — who work in your tools, your standups and your codebase."
+   ],
+   "sdlc": [
+    "03 · Automation AI assistants and automated workflows operating inside your processes, with humans in control.",
+    "How we work Every engagement starts with KPIs agreed up front — junction wait time, alert latency, learner completion, complaint resolution time — and ends with documentation and a handover your team can operate."
+   ],
+   "prod_eng": [
+    "Apply Send your details — mention the role in the message Name Company Email Phone Location Interest ISTSS — Smart Traffic Auravex AI — Edge CCTV AI Skilling Platform Community AI Vein Scanner — Healthcare EV Charging Platform Engineering Services Message Send request By submitting, you agree to our Privacy Policy.",
+    "Datamorphosis ® Products Services About Industries Case Studies Innovation Lab Media Blog Careers EN Talk to Expert About Datamorphosis A product engineering company, not a body shop Datamorphosis Technologies Pvt."
+   ],
+   "owns_product": [
+    "Our product portfolio — ISTSS, Auravex AI, the AI Skilling Platform, Community AI, our EV Charging Platform and our deep-tech Vein Scanner — is engineered in-house and proven through field pilots before scale."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Datavail Infotech Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "datavail.com",
+  "website": "https://www.datavail.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "on Consulting Services Master Data Management Menu Column 2 Application Development Application Architecture & Design Application Development Applicat"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 22,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Blog Author Tom Hoblitzell Vice President of Data Management Tom Hoblitzell is an accomplished IT Executive and Board Member with more than 33 years of success in the retail, information services, FSI, healthcare, transportation, and manufacturing industries."
+   ],
+   "sdlc": [
+    "His broad areas of expertise include strategic planning, business development, digital client-centric solutions, project and program management, M&A, big data science, data management, predictive analysis, business intelligence, data virtualization, and agile methodology.",
+    "Faster speeds: Partnering with a skilled MDM provider will optimize your processing power by delivering results quickly."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Dawn IT Services & Solutions LLP",
+  "city": "Chennai",
+  "domain": "dawnitservice.com",
+  "website": "https://www.dawnitservice.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nce with our Featured Chatbot Testing Solutions Accelerate your Product Release with our IP-led Test Automation Solutions Improve your Mobile App Expe"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 17941,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "sdlc": 5,
+   "qa": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Our comprehensive services span across various sectors, including finance, healthcare, retail, logistics, and more, where we help businesses streamline their operations, enhance customer experiences, and harness the power of data to make informed decisions.",
+    "For example, in the banking sector, tasks such as fraud detection, account opening and closure, payment processing, regular reporting, and customer service can be automated.",
+    "Our Industries Healthcare Improve patient care, optimize resource allocation, and enhance operational efficiency through automated administrative and clinical processes."
+   ],
+   "sdlc": [
+    "90 % Projects 80 % Investment Engagement Models Our Flexible and Economical Service Plans Are At Dawn IT Services, we understand that every business has unique requirements and priorities.",
+    "That’s why we offer tailored engagement models designed to meet diverse project needs.",
+    "RPA Assessment Services We evaluate your processes to identify key automation opportunities and develop a tailored RPA strategy that aligns with your business objectives.",
+    "RPA Development Services We design and build customized RPA solutions to automate your processes, improving efficiency and accuracy across your operations."
+   ],
+   "qa": [
+    "Mohamed Feroze Director – QA, Data Practice & COE Mr.",
+    "Mohamed Feroze leads QA and Data Practice, driving delivery excellence and scalable governance across offshore programs."
+   ],
+   "owns_product": [
+    "Our specialists evaluate your unique requirements, identify key areas for automation, and deliver customized robotic process automation services designed to maximize your productivity and drive measurable results."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "DBS Technology Services India Private Limited",
+  "city": "Hyderabad",
+  "domain": "dbs.com",
+  "website": "https://www.dbs.bank.in/in/index/default.page",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "India India Login DBS Treasures digibank by DBS IDEAL™ Popular Search Digibank, Loan Welcome to DBS Bank India Explore More Tariffs Schedule of Charges Rates and Tariffs Support Lodge a Complaint Customer Complaints and Grievance Redressal Personal Banking Personal Banking Instant, Intelligent & Intuitive.",
+    "Learn More Wealth Management Explore our banking and wealth management solutions for Resident and Non-Resident Indians."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Del Cap Managed Services India Private Limited",
+  "city": "Bengaluru",
+  "domain": "deltacapita.com",
+  "website": "https://www.deltacapita.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [
+    "https://careersdeltacapita.recruitee.com"
+   ],
+   "jd_chars": 639161,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 38
+  },
+  "site_quotes": {
+   "enterprise": [
+    "add_card Retail BANKING Tackling the main challenges which retail banks face if they wish to stay ahead of the curve.",
+    "corporate_fare Commercial BANKING We help you redefine the role you want to play in a future commercial banking environment.",
+    "shield Insurance Design and implementation of strategies, business models and operations.",
+    "Learn more arrow_forward Retail Banking Retail banking is under siege from increased competition, non-bank competitors and over-regulation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Delaware Digital Private Limited",
+  "city": "New Delhi",
+  "domain": "delaware.pro",
+  "website": "https://www.delaware.pro/en-in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 13,
+   "external_job_boards": [],
+   "jd_chars": 96655,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "search jobs find your field of expertise Software development Information Management Finance Data & AI Cloud & Infrastructure explore all teams neither your career nor delaware is a sprint – they’re both marathons – that’s the delaware dream, building an organization that lasts #peopleofdelaware why delaware?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Delostyle Studio Private Limited",
+  "city": "Kolkata",
+  "domain": "delostylestudio.com",
+  "website": "https://www.delostylestudio.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "efore{content:\"\\f36d\"}.fa-anchor:before{content:\"\\f13d\"}.fa-android:before{content:\"\\f17b\"}.fa-angellist:before{content:\"\\f209\"}.fa-angle-double-down:"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Explore Solutions --> Frontend Development --> Web Application Development --> Mobile App Development --> E-commerce Development See More --> Staff Augmentation --> Data Science OUR PROCESS Steps of Consulting We can help you with picking the best people for your company."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Delta Technology & Management Services Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "deltaintech.com",
+  "website": "https://deltaintech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "d, we forayed into solution development and now, our client portfolio has grown to include some of the big names in the finance, agribusiness and gove"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 4159,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "// WE ARE DELTATECH Our Leadership Team Our commitment to serving people and companies is reflected in the exceptional calibre of talent at the helm."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Deltacubes Private Limited",
+  "city": "Hyderabad",
+  "domain": "deltacubes.us",
+  "website": "https://www.deltacubes.us/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 6909,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "qa": 2,
+   "sdlc": 3,
+   "senior_roles": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Free Consultation Our Services 200+ Projects Delivered Worldwide From startups to enterprises, our engineering teams have shipped software across healthcare, fintech, retail, and more."
+   ],
+   "qa": [
+    "Free Consultation Case Studies Your Partner in Remote Developer Hiring Build your distributed team with vetted developers, architects, and QA engineers ready to plug into your workflow.",
+    "QA Test Planning and Implementation."
+   ],
+   "sdlc": [
+    "Read More → OUR PROCESS Our workflow process 01 Discover 02 Design 03 Develop 04 Deploy 05 Support Company History A legacy of innovation since 2016.",
+    "You can make the most of our process flow that has been enhanced with the latest tools over time.",
+    "In-depth experience with universal methodologies like agile, waterfall, etc."
+   ],
+   "senior_roles": [
+    "From humble beginnings to global tech leadership, our journey defines excellence in technology."
+   ],
+   "cicd": [
+    "Based On Skills Angular AWS Android Cybersecurity Docker iOS Java Kubernetes Laravel Node JS PHP Python React Native React React/Node Ruby Testing Vue WordPress Based On Role Full Stack Developer Our experts deliver end-to-end web solutions with expertise in frontend, backend, and everything in between."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Deutsche India Private Limited",
+  "city": "Mumbai",
+  "domain": "db.com",
+  "website": "https://www.db.com:443/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 5639,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "This is more than banking.",
+    "In Germany, the Corporate Bank also supports small businesses and self-employed business owners with payment and credit solutions as well as other banking services across three brands Deutsche Bank , Postbank and the digital bank FYRST .",
+    "In October 2018 he was named Head of Global Transaction Banking.",
+    "Before joining Deutsche Bank, he was Head of Private Banking, Europe, at Credit Suisse, where he started in 2013 as Market Area Head Southeast Asia for Private Banking."
+   ],
+   "owns_product": [
+    "As the leading bank in Germany with strong European roots and a global network offering a comprehensive product suite, Deutsche Bank aims to become the bank of choice for clients in all financial matters."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "DevAngles Software Private Limited",
+  "city": "Pune",
+  "domain": "devangles.com",
+  "website": "https://www.devangles.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 15,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1934,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "prod_eng": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Innovation at the Core At DevAngles, we don't just talk about innovation — it's part of how we work every day."
+   ],
+   "prod_eng": [
+    "” Vikram Sanghvi Head of Engineering & Technology Vikram spearheads technology architecture, product engineering, and delivery."
+   ],
+   "senior_roles": [
+    "” Vikram Sanghvi Head of Engineering & Technology Vikram spearheads technology architecture, product engineering, and delivery."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Diadem Technologies Pvt Ltd",
+  "city": "Kolkata",
+  "domain": "diadem.in",
+  "website": "https://diadem.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ble Magento cluster Vertical & Horizontal Scaling KNOW MORE NODE JS Easy to Manage Deploy NodeJs in one click Multiple NodeJs version available Git /"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [
+    "https://diadem.zohorecruit.in/recruit/viewCareerImage.do?type=favicon&page_id=58881000000224636&file_name=diadem_in-logo-2.png",
+    "https://diadem.zohorecruit.in/recruit/viewCareerImage.do?type=meta&page_id=58881000000224636&file_name=company_logo.jpg"
+   ],
+   "jd_chars": 885070,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "DQ_support": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "ISO 27001 Certified By BSI Multi Homed Network Enterprise Grade Hardware Automated Full Data Backup TIER IV Datacenter in India Managed Datacenter Network Our Reviews Without hesitation I can say that Diadem has set the benchmark for web hosting services for third parties."
+   ],
+   "DQ_support": [
+    "ISO 27001 Certified By BSI Multi Homed Network Enterprise Grade Hardware Automated Full Data Backup TIER IV Datacenter in India Managed Datacenter Network Our Reviews Without hesitation I can say that Diadem has set the benchmark for web hosting services for third parties."
+   ],
+   "DQ_agency": [
+    "--> Ranjana Jha, Seo Best Practices Cloud Hosting Blog - Tools, How-to and Best Practices We discuss new innovations on Public and Private Cloud, how to improve web application security and provide detailed setup guides on web hosting and server management."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Diageo Business Services India Private Limited",
+  "city": "Bengaluru",
+  "domain": "diageo.com",
+  "website": "https://www.diageo.com/en",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 44542,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We have proudly supported American Football for years to create exciting and engaging game experiences for fans, both in the availability of our products, and through our activations.",
+    "Grain-To-Glass Sustainability Driving water security in Mexico and Türkiye Water is fundamental to Diageo; without it, we simply can't make our products or operate as a business."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Digichorus Technologies Private Limited",
+  "city": "Pune",
+  "domain": "digichorus.com",
+  "website": "https://www.digichorus.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ons and pertinent services. Tech Stack MERN, MEAN Backend - Java, Spring boot, Node, Mongo DB, RDBMS, Python, PHP Web Frontend - Angular, React.js Mob"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Digit7 India Private Limited",
+  "city": "Bengaluru",
+  "domain": "digit7.ai",
+  "website": "https://www.digit7.ai",
+  "already_in_hubspot": false,
+  "headcount_known": 1962,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": ", and communicate with the inventory management system. --> Our Products We are architects of innovative retail focused solutions, enabling retailers"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 6,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Adding to that, our products can scale up as your business grows with ease.",
+    "By engaging with industry professionals and showcasing our AI-driven technologies, we aimed to demonstrate how our products could revolutionize traditional store operations.",
+    "Multiple deals have been closed, and our products are revolutionizing various industries across multiple locations.",
+    "The company’s commitment to enabling businesses to stay competitive in a rapidly evolving technological landscape was evident in our product offerings and strategic initiatives throughout 2024."
+   ],
+   "enterprise": [
+    "Several technology experts came on board to solve client-end needs in specific industry segments, including retail, telecommunications, banking, etc.",
+    "A natural leader having led Fortune 500 companies in designing and implementing digital transformation strategies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Digital Agents Interactive Private Limited",
+  "city": "New Delhi",
+  "domain": "digitalagents.in",
+  "website": "https://digitalagents.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "prod_eng": 1,
+   "owns_product": 1,
+   "sdlc": 1,
+   "qa": 1,
+   "DQ_support": 1,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Brands We've Helped Industries We Serve Delivering innovative digital solutions across industries, including manufacturing, automotive, retail, healthcare, education, and more.",
+    "Healthcare Empowering medical training, patient care, and diagnostics with AR/VR solutions.",
+    "Industries We Serve Delivering innovative digital solutions across industries, including manufacturing, automotive, retail, healthcare, education, and more."
+   ],
+   "prod_eng": [
+    "Digital Product Engineering We design and build high-performing digital products, blending innovation with engineering expertise to accelerate your product journey from concept to market."
+   ],
+   "owns_product": [
+    "Digital Product Engineering We design and build high-performing digital products, blending innovation with engineering expertise to accelerate your product journey from concept to market."
+   ],
+   "sdlc": [
+    "Digital Transformation We enable businesses to modernize operations, integrate technologies, and stay agile in an evolving digital landscape."
+   ],
+   "qa": [
+    "Aitha Vinay QA Analyst This is some text inside of a div block."
+   ],
+   "DQ_support": [
+    "Edge-to-Digital Connectivity Our proprietary integration protocols connect legacy hardware and modern IoT sensors directly to the digital twin, enabling sub-second latency for critical asset monitoring."
+   ],
+   "DQ_template": [
+    "Why Digital Agents Interactive Engineering-Grade Twins Designed around specific facilities and operational goals rather than using generic templates."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Digitalis Technologies Private Limited",
+  "city": "New Delhi",
+  "domain": "digitalistech.com",
+  "website": "https://www.digitalistech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "CRM Sales ​ Frappe CRM is a versatile, open-source CRM tool that offers managing leads, customers, and sales pipelines."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "DigiVerifi Private Limited",
+  "city": "Noida",
+  "domain": "digiverifi.com",
+  "website": "https://www.digiverifi.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "At the same time the board expects the organization to stay agile, quick decision maker and respond to ever changing needs of the marketplace, customers and regulatory agencies."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Discovery Communications India",
+  "city": "Hyderabad",
+  "domain": "wbd.com",
+  "website": "https://www.wbd.com:443/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "fers audiences the world's most differentiated and complete portfolio of content, brands and franchises across television, film, streaming and gaming."
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 7617,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "(Nasdaq: WBD) (\"WBD\" or the \"Company\") and Amazon Web Services (AWS), its preferred cloud provider, announced the development of next-generation advertising experiences built with AWS agentic AI.",
+    "Discovery (Nasdaq: WBD) is a leading global media and entertainment company that creates and distributes the world's most differentiated and complete portfolio of content and brands across television, film, and streaming."
+   ],
+   "sdlc": [
+    "Impact on the Future of Media By building its next-generation ad tech platform with agentic AI from AWS, WBD demonstrates its commitment to innovation and its focus on building a more agile, intelligent advertising ecosystem."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

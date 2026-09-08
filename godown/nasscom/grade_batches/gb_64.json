@@ -1,0 +1,901 @@
+[
+ {
+  "name": "Quocent Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "quocent.com",
+  "website": "https://quocent.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 47,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ccelerate growth through tech-enabled commercial excellence Custom software and enterprise solutions for businesses using handpicked agile approaches."
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 31142,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 13,
+   "enterprise": 29,
+   "qa": 1,
+   "sdlc": 2,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Why Choose Us Combining deep domain knowledge, engineering excellence, and customer-centric delivery to create lasting business value.",
+    "The company brings together expertise in Artificial Intelligence, modern enterprise platforms, cloud technologies, and digital product engineering to help organizations solve complex challenges and unlock new growth opportunities."
+   ],
+   "enterprise": [
+    "Healthcare Enhancing patient care and operational outcomes through digital health platforms, data intelligence, and healthcare innovation.",
+    "Fintech E-Commerce & Retail Manufacturing Healthcare Supply Chain and Logistics Education Resources ▼ Insights Explore the latest news, insights, success stories, events, and thought leadership shaping Quocent’s digital transformation journey.",
+    "Fintech E-Commerce & Retail Manufacturing Healthcare Supply Chain and Logistics Education Resources Insights Explore the latest news, insights, success stories, events, and thought leadership shaping Quocent’s digital transformation journey.",
+    "Supply Chain & Logistics Fintech E-Commerce & Retail Manufacturing Healthcare Education Enterprise Framework Six Pillars of Digital Transformation Digital Transformation Engine Connecting strategy, technology, data, and intelligence to create future-ready enterprises."
+   ],
+   "qa": [
+    "Read case study Engaging in Agile Technology Delivery Through Strategic Talent Partnerships Our client accelerated their digital delivery by augmenting its technology teams with specialized DevOps, QA Automation, and UI/UX talent through Quocent's Technology Talent Partnership model."
+   ],
+   "sdlc": [
+    "Read case study Engaging in Agile Technology Delivery Through Strategic Talent Partnerships Our client accelerated their digital delivery by augmenting its technology teams with specialized DevOps, QA Automation, and UI/UX talent through Quocent's Technology Talent Partnership model.",
+    "In addition to delivering technology solutions, Quocent supports organizations in building internal innovation capability through capacity-building engagement models and specialized technology teams ."
+   ],
+   "senior_roles": [
+    "Role Location Type Odoo Tech Lead Bhubaneswar, India Full Time Apply Now Sales Consultant KL, Malaysia Full Time Apply Now Software Development (Multiple Positions) Bhubaneswar, India Full Time Apply Now We are always on the lookout for talented folk to join our team."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "R Systems International Ltd",
+  "city": "Gautam Buddha Nagar",
+  "domain": "rsystems.com",
+  "website": "https://www.rsystems.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ent Digital Platforms & Solutions Internet of Things‎ (IoT) Product Engineering QA Testing Automation, AI & Data Overview Advanced Analytics AI/Machin"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 39501,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 15,
+   "enterprise": 10,
+   "qa": 7,
+   "cicd": 9,
+   "sdlc": 13,
+   "owns_product": 6,
+   "DQ_training": 2,
+   "senior_roles": 1,
+   "DQ_agency": 2,
+   "compliance": 2,
+   "vcs": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "A leading Digital Product Engineering Company",
+    "RSI Recognized as a Leader in Everest Group’s Software Product Engineering Services for Mid-market Enterprises PEAK Matrix® Assessment 2025.",
+    "Watch Full Video Videos Srikara Rao on using AI to transform product engineering Watch The Converge360 \"Elevator Pitch\" video, featuring Srikara Rao, Chief Technology Officer Cloud and Cyber Security Services at RSI.",
+    "Manage options Manage services Manage {vendor_count} vendors Read more about these purposes Accept all Deny all View preferences Save preferences View preferences {title} {title} {title} Manage Consent Manage Consent Digital Product Engineering Services"
+   ],
+   "enterprise": [
+    "--> Who We Serve Industry Verticals We partner with AI-driven enterprises at the forefront of innovation—from ISVs, SaaS, and internet-native companies to leaders across telecom, media, finance, manufacturing, and healthcare.",
+    "Latest Insights See All Blogs Can AI Help Healthcare Organizations Become FHIR-Ready Without Large Middleware Investments?",
+    "With over 29 years of extensive experience, he has successfully managed large on-site, off-site, and offshore projects in the banking, telecom, and healthcare sectors.",
+    "With extensive experience in industries such as BFSI, manufacturing, and healthcare, he possesses deep technical expertise in cloud services, IT security, and service management."
+   ],
+   "qa": [
+    "40%+ Code Reuse Ensured scalable, high-quality dashboards with minimal QA regressions.",
+    "Know More Quality Engineering Ensure flawless performance and user experience with our comprehensive quality engineering services.",
+    "The team assembled cross-functional talent across CX, AML, speech-NLP, product, QA, DevOps, and operations; modernized the AML stack; introduced automated testing and CI/CD; and aligned execution with global product cadence.",
+    "Read More Accelerating Protocol QA Through a High-Velocity GCC When a North American telecom innovator needed reliable assurance across signaling, voice, and location-based services, fragmented protocol validation put release confidence at risk."
+   ],
+   "cicd": [
+    "End-to-End Process Automation Replaced manual forecasting with automated ML pipelines.",
+    "DevSecOps & FinOps: Secure CI/CD, chargeback automation, and BRACED reliability gates.",
+    "Velocity Through Automation AI-led workflows, DevSecOps pipelines, and policy-as-code practices drive consistent speed without compromising quality.",
+    "The team assembled cross-functional talent across CX, AML, speech-NLP, product, QA, DevOps, and operations; modernized the AML stack; introduced automated testing and CI/CD; and aligned execution with global product cadence."
+   ],
+   "sdlc": [
+    "Watch Full Video Our Approach More About RSI Step into the world of RSI and see how we work.",
+    "How we work together Our culture is built around S.C.A.L.E S hipping Applied Innovation C o-creation A daptive Growth L earning Relentlessly E thical Impact CSR Our commitment to giving back drives everything we do.",
+    "EXIQO’s AIEV experts, proven through real code, real PRs, real delivery work alongside your product teams, bringing the AI-native skills and OptimaAI’s agentic SDLC layer to help you ship production-ready MVPs up to 2× faster.",
+    "Cloud & DevOps Accelerate innovation and deployment with our cloud-native solutions and DevOps practices."
+   ],
+   "owns_product": [
+    "Our own optimaAI ecosystem of 150+ digital agents, reusable accelerators, and structured AI engineering methodologies.",
+    "EXIQO’s AIEV experts, proven through real code, real PRs, real delivery work alongside your product teams, bringing the AI-native skills and OptimaAI’s agentic SDLC layer to help you ship production-ready MVPs up to 2× faster.",
+    "Learn more about EXIQO Our Other Services Powering Your Product Engineering Journey Our Digital Product Engineering services are enhanced by specialized expertise across key technological domains.",
+    "With 15+ reusable accelerators spanning AI, Cloud, and DevOps, RSI helps global enterprises build once, operate with assurance, and scale everywhere, turning GCCs into true engines of global growth."
+   ],
+   "DQ_training": [
+    "Learn More RSI Programming Academy Our internship program – RSI Programming Academy – is designed to give real exposure to modern software and AI engineering environments.",
+    "In 2013, she founded her own independent consultancy, where she leads assignments in leadership assessment, development, measurement, and executive coaching for senior leaders and organisations."
+   ],
+   "senior_roles": [
+    "A Chartered Accountant by qualification and an engineer by profession, Nitesh spent over 23 years at Infosys, where he last held the position of Senior Vice President and Global Head of Engineering Services, managing a $1 billion P&L and a global workforce of 12,000."
+   ],
+   "DQ_agency": [
+    "Sangeeta Kapil Jit Singh Non-Executive Independent Director Sangeeta brings over 35 years of leadership experience in human resources, employer branding, corporate communications, and HR operations, shaped by senior roles across leading multinational and Indian corporates.",
+    "RSI consolidated operations into a single GCC in Pune, scaling from 30 to 131 specialists across engineering, revenue cycle management, digital marketing, and finance."
+   ],
+   "compliance": [
+    "Technology & Trust: Cloud-native, Zero-Trust setup with SOC2/ISO readiness and FinOps-driven governance.",
+    "HIPAA-grade controls, CI/CD pipelines, and a domain-first Healthcare Guild ensured compliance and innovation."
+   ],
+   "vcs": [
+    "With GitHub Copilot integrated, test coverage jumped from 45% to 70%, and IaC pipelines cut environment setup time by 40%."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Refcheck Xperts LLP",
+  "city": "Gautam Buddha Nagar",
+  "domain": "refcheckxperts.com",
+  "website": "https://refcheckxperts.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9682,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "RM Education Solutions India Pvt Ltd",
+  "city": "Trivandrum",
+  "domain": "rmindia.co.in",
+  "website": "https://www.rm.com/about/our-locations/india",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 6029,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Rovan Software Solutions Private Limited",
+  "city": "Sivakasi",
+  "domain": "rovan.in",
+  "website": "https://www.rovan.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2005-06-04",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 7779,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our Products ROVAN IMS Helps to manage the academic institutions better."
+   ],
+   "sdlc": [
+    "Integrity We will be fair and ethical in dealing with all the stakeholders Quality Policy We, at Rovan Software, commit to continuously improving the quality of our processes, products and services to delight the customers."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "RUGR SIL Private Limited",
+  "city": "Thane",
+  "domain": "sil.co.in",
+  "website": "https://rugrsil.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Saraswat Infotech Ltd. – Banking Software Solutions Home About Company Profile Mission & Vision Management Team Partners Pr"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 26
+  },
+  "site_quotes": {
+   "enterprise": [
+    "SheBox Banking Smarter With Absolute Brilliance RUGR SIL provides integrated banking solutions that connect, secure, and strengthen financial operations, shaping the digital evolution of modern banking.",
+    "Explore Better & Unified Banking Banking Smarter With Absolute Brilliance RUGR SIL provides integrated banking solutions that connect, secure, and strengthen financial operations, shaping the digital evolution of modern banking.",
+    "Explore Account 2 ₹898,1234 Available balance ₹898,1234 Branch Mumbai Overview ₹40000 Last week Trusted & Secure Banking Fintech that delivers excellence.",
+    "01 svg not support svg not support 170+ EMPLOYEES 02 svg not support svg not support 1 Crore+ Average Transaction per day 03 svg not support svg not support 36 Lakhs + Active Banking Customers Trusted & Secure Banking Fintech that delivers excellence."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Sankey business solutions Private Limited",
+  "city": "Thane",
+  "domain": "sankeysolutions.com",
+  "website": "https://sankeysolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "world. JOURNEY SERVICES TECHNOLOGIES BLOGS BLOGS --> EVENTS CASE STUDIES ENTERPRISE SOLUTIONS CAREERS CONTACT US TEAM Copyright Ⓒ 2023 Sankey Solution"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 19302,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "How changing consumer preferences affect the browser landscape Neobanks & Technology: Disruption in Banking Industry Optimizing Banking using AI and Predictive Analysis Importance of Fintech in the Asset Management Industry Quantum Computers: Myth or Evolution?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Sarada Systems Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "saradasystems.co.in",
+  "website": "https://www.saradasystems.co.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "intenance.Best company for Web Programming,Best company for Custom Software Development\" +91 674 2567611 www.saradasystems.co.in mail@saradasystems.co"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "About Help Desk Services Click here for old Website"
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Scaleios Private Limited",
+  "city": "Kochi",
+  "domain": "scaleios.com",
+  "website": "https://www.scaleios.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2018-08-21",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 2,
+   "DQ_support": 1,
+   "cicd": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Scaleios build solution architectures only after understanding your business context in detail.",
+    "As an innate technoid, he keeps himself updated with the latest technologies in the industry and constantly upgrades his prowess as the Chief Solution Architect at Scaleios."
+   ],
+   "DQ_support": [
+    "First step to CLOUD Hardware Refresh If you are approaching hardware refresh of your Datacenter or servers, it is the greatest opportunity for evaluating Cloud."
+   ],
+   "cicd": [
+    "Blogs Blog scadmin 2021-09-29T09:55:41+00:00 20 07, 2025 http://How%20Does%20Clcomputing-support-businesses-during-pandemic Gallery Transforming Deployment with Automated CI/CD Using Azure DevOps Blog Transforming Deployment with Automated CI/CD Using Azure DevOps scadmin 2025-07-20T06:50:08+00:00 July 20th, 2025"
+   ],
+   "enterprise": [
+    "With a balanced skill portfolio of hosting and managing Enterprise applications such as SAP, Dynamics etc to Security intensive workloads such as Core Banking Applications to Popular Web applications which can afford zero downtime, Scaleios can solve any complex Cloud puzzle of your business cases."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Sensorvision IOT Solutions Private Limited",
+  "city": "Kozhikode",
+  "domain": "wemakeiot.com",
+  "website": "https://www.wemakeiot.com/sensorvision/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 14,
+   "owns_product": 3,
+   "enterprise": 3,
+   "sdlc": 1,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Trigger relays, adjust settings, or control hardware remotely — without physical access to the device.",
+    "From Hardware to Dashboard in Four Steps SensorVision removes the complexity between a physical sensor and a business insight.",
+    "1 Connect Your Devices Plug in your IoT hardware and connect it to SensorVision via MQTT, HTTP, or UDP.",
+    "Compatible with ESP32, LoRaWAN, BLE, and most commercial sensor hardware."
+   ],
+   "owns_product": [
+    "Whether you are a startup launching an IoT SaaS product, a systems integrator adding value for your clients, or an enterprise standardising operations — you can present SensorVision under your own brand.",
+    "Your clients see your logo, your name, and your product.",
+    "Can we white-label SensorVision and present it to our own clients as our product?"
+   ],
+   "enterprise": [
+    "Software Associates was started in 1991 , developed products for healthcare management and logistics management; ventured into web applications development in 1999, acquired clients in UK and US in 2000, and has been a trusted partner for clients across Europe, US and Asia Pacific since then.",
+    "Our milestones 1991 Software Associates founded Healthcare and logistics management products built from Kozhikode, Kerala, India.",
+    "The journey of IoT — moving from humble yet impressive beginnings delivering smart homes and transforming durables into intelligent entities — has become an integral differentiator in providing high-quality healthcare, empowering smart manufacturing, and enabling effective social innovations."
+   ],
+   "sdlc": [
+    "He has worked through the full SDLC — requirement analysis, architecture design, DB design, development, and deployment."
+   ],
+   "cicd": [
+    "WeMakeIoT deploys private LoRaWAN networks using Chirpstack, connects to The Things Network, and integrates pipelines into ThingsBoard and SensorVision.",
+    "React.js Node.js JavaScript Python HTML5 / CSS3 🗄️ REST APIs 🔐 AWS Lambda 🖥️ Device Management Portals Sensors & data acquisition Sensor Types & Data Inputs The sensor categories WeMakeIoT integrates into firmware, and IoT data pipelines across industries."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "SimCorp India LLP",
+  "city": "Gautam Buddha Nagar",
+  "domain": "simcorp.com",
+  "website": "https://www.simcorp.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ch SimCorp Investment Management Back Investment Management Portfolio Management & Trading Investment Management Portfolio Management & Trading Portfo"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 20250,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Learn more Slide 1 of 7 Pensions Address two of the biggest challenges in pension investment management with SimCorp: the risks of delayed data and the complexities of alternative investments Learn more Slide 2 of 7 Insurance Gain insights into insurance asset management solutions with SimCorp's integrated platform.",
+    "Read more Slide 1 of 11 Michael Kopf is Chief Finance and Operating Officer in the Investment Management function of Zurich Insurance.",
+    "Read more Slide 5 of 11 Jim Keohane, former President and CEO of the Healthcare of Ontario Pension Plan (HOOPP), makes the case for an advanced investment management solution to drive derivatives processing and power the liability-driven investment model of the leading Canadian pension fund.",
+    "Hosted by Insurance Investor, a news and intelligence platform focused on insurance asset management, the award recognizes SimCorp for delivering impactful solutions in insurance investment and risk management."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "SixOFour Solutions Private Limited",
+  "city": "Madurai",
+  "domain": "sixofour.in",
+  "website": "https://www.sixofour.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Portfolio In the digital world Cloud Services Digital Realm, IT Automation IT Operations Agile Integrated IT Infrastructure Management Integrated Service Incredible Culture Hierarchical culture Clan Culture Inclusive culture How can you communicate?"
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Sopra Banking Software Solutions India Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "sbs-software.com",
+  "website": "https://sbs-software.com/us/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 28766,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 53,
+   "sdlc": 2,
+   "qa": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Software for banks & lenders SBS Embeds AI into the Global Banking Software Skip to main content Back Search for: fr en For banks SBS Core Banking Powering banks and building societies.",
+    "Discover SBS BANKING PRODUCTS SBS BANKING PRODUCTS Digital Engagement A full range of digital banking capabilities.",
+    "Cards Card management for the digital era Open Banking PSD3 compliance and ecosystem integration.",
+    "Insights Banking is local South Korea’s super-app: Is this the end of banking as we know it?"
+   ],
+   "sdlc": [
+    "Découvrir SBS LENDING Couvre l’ensemble du processus de prêt commercial des concessionnaires en offrant numérisation et innovation, en réduisant les coûts d’exploitation, en réduisant les risques opérationnels et en permettant des opérations agiles."
+   ],
+   "qa": [
+    "11 août 2026 - 5 min de lecture #IA Interview avec une Ingénieure QA : “Je contribue à garantir la qualité de l’IA chez..."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "SSM SecAI Technology and R&D Services Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "secai.in",
+  "website": "https://www.secai.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2024-11-29",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 859,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Stellar Data Solutions Private Limited",
+  "city": "Chandigarh(CH)",
+  "domain": "stellarshell.com",
+  "website": "https://www.stellarshell.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "act Us Verticals Business Intelligence Solutions Customized Software Solutions Domain & Web Hosting ERP Solutions Search Engine Optimization Web Desig"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 4,
+   "enterprise": 2,
+   "DQ_template": 1,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Product Development User-friendly products engineered with agile methodology and AI at the core, from idea to launch.",
+    "Agile, transparent delivery Iterative sprints with clear milestones, demos, and honest communication.",
+    "Production rollout & scaling Monitoring, drift & retraining Managed support & SLAs Explore Consulting How We Work A proven path from idea to impact 01 Discover We immerse in your business, challenges, and goals to map the opportunity.",
+    "03 Develop Agile sprints ship working software with continuous demos and feedback."
+   ],
+   "enterprise": [
+    "Drivio handles registration, insurance, compliance, renewals, and document lifecycle, keeping every vehicle on the road covered, tracked, and audit-ready.",
+    "Vehicle registry & document vault Insurance, renewals & claims Compliance & regulatory filing Visit Drivio → Veridict soon Forensic Suite Forensics A digital forensic investigation suite built on three decades of hands-on casework."
+   ],
+   "DQ_template": [
+    "Tailored, not templated Every solution is crafted around your specific goals, scale, and industry."
+   ],
+   "cicd": [
+    "Pipelines, MLOps, and APIs wired into your systems with security and observability built in.",
+    "Model build, train & fine-tune Data pipelines & MLOps System integration & APIs 03 Deployment & Operations We ship to production and keep it running."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "SureSoft Systems Pvt Ltd",
+  "city": "Pondicherry",
+  "domain": "ssofts.com",
+  "website": "http://www.ssofts.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Surya International Enterprise Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "groupsurya.co.in",
+  "website": "https://groupsurya.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "e lets join the hands together to make the dream come true. Our Work Growth 250+ Employed Our Employee Growth Service Management About us Solar Energy"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 8430,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our platform promotes financial inclusion and growth, providing opportunities for both borrowers and investors to achieve their financial goals."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Sustainable Outreach and Universal Leadership Limited",
+  "city": "Bhubaneswar",
+  "domain": "soulunileaders.com",
+  "website": "https://www.soulunileaders.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 26002,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 15,
+   "sdlc": 15
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Healthcare Our Healthcare & Wellness solutions offer comprehensive, user-centric services.",
+    "Our goal is to enhance overall well-being, providing accessible, quality healthcare solutions that empower individuals to lead healthier lives.",
+    "From agriculture to healthcare, we implement holistic strategies that address unique rural challenges, promoting self-sufficiency and enhancing the overall well-being of rural populations."
+   ],
+   "sdlc": [
+    "From IoT-enabled devices to intelligent networks, our solutions empower businesses to create agile, sustainable, and high-performing infrastructures for the future.",
+    "Process and Performance Improvement​ Our Process and Performance Improvement drive organizational excellence.",
+    "Our expertise lies in creating agile structures that adapt to evolving business landscapes, fostering resilience and sustained growth."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Synergy Group Institution (Under Shivani Educational and Charitable Trust)",
+  "city": "Bhubaneswar",
+  "domain": "synergyinstitute.net",
+  "website": "https://www.synergyinstitute.net/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 3
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Read more → ” Previous Next Our Courses B.Tech ONLINE FORM Basic Science Humanities Notifications Placement News Notices --> News Feed News & Events Up-Coming Events 07 Jul 2026 Click here to Register OJEE Registration Update The deadline for student registration has been extended until 5:00 PM.",
+    "For More Details 04 Feb 2026 Placement update: Shree Cement Ltd.",
+    "The placement teams of b For More Details 02 Feb 2026 Entrepreneur Awareness Program workshop ------------------------------------------------- A one day Entrepreneur Awareness Program conducted by CTTC Bhubaneswar is being organized in our college today, dated 31 January 2026."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Talent Shine India Private Limited",
+  "city": "Visakhapatnam",
+  "domain": "talentshineindia.com",
+  "website": "https://talentshineindia.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2022-07-24",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 4
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Ltd – Let Shine Your Knowledge Skip to content Primary Menu HOME LOGIN COURSES Archives August 2023 Categories EDUCATION SEMINAR One Stop Solution for Campus Placement Training VIEW COURSES Internship Company Specific CRT Technical Training Projects Why Choose Us!",
+    "has trained over 1 lakh students since 2006 in competitive exams, placements, and internships."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

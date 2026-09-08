@@ -1,0 +1,456 @@
+[
+ {
+  "name": "Techindia Infoway Pvt Ltd",
+  "domain": "techindia.com",
+  "score": 33,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 13,
+  "raw_before_caps": 33,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING — Wayback 20230601, no software wording",
+  "evidence": [
+   "Wayback 2023-06: archived pre-2024, snapshot lacked software wording",
+   "Site: 'Aligning with HIPAA to safeguard and secure client data'",
+   "Careers/JD 19k chars: no VCS, CI or review mention",
+   "Homepage: cardiac monitoring, remote ICU services for hospitals"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "VERSUP InfoTech Private Limited",
+  "domain": "versupinfotech.com",
+  "score": 35,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 35,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN — Wayback 20220601 advertises custom software and ERP development",
+  "evidence": [
+   "Wayback 2022-06: 'Custom Software Development ... Enterprise' pre-2024",
+   "Footer: 'An ISO 9001:2015 Certified Company'",
+   "Careers and blog, 12k chars: zero engineering-practice language",
+   "Site thin: no CI/CD, QA, product or SDLC signals"
+  ],
+  "why_this_rank": "",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Cloudastra Technologies (OPC) Private Limited",
+  "domain": "cloudastra.co",
+  "score": 35,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 15,
+  "tier_c_points": 10,
+  "raw_before_caps": 50,
+  "caps_applied": [
+   "-15 fast-delivery / MVP-guarantee positioning"
+  ],
+  "pre2024_basis": "PROVEN — Wayback 20230601 advertises IT/cloud and web development",
+  "evidence": [
+   "Wayback 2023-06: 'IT/Cloud Services ... Web Devlopment' pre-2024",
+   "Site: 'infrastructure-as-code, continuous integration, continuous deployment'",
+   "Site: 'code review on every change' describes their AI agent",
+   "Site: 'Start in days', '3 Weeks AI sprint build'"
+  ],
+  "why_this_rank": "Tier A withheld deliberately: the code-review and QA language describes the AI agents they sell ('Full-Stack Developer' agent, 'QA Engineer' agent), not their own engineers. 'AI-First Product Engineering' judged decorative, and the speed-guarantee framing triggers the -15, taking a 50 raw down to Skip.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "CyberSRC Consultancy Private Limited",
+  "domain": "cybersrcc.com",
+  "score": 53,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 18,
+  "raw_before_caps": 53,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN — Wayback 20220601 case studies and delivered solutions",
+  "evidence": [
+   "Wayback 2022-06: case studies, '5000+ IT assets secured'",
+   "Site: 'ISO 27001, ISO 9001 & SOC II certified', CERT-In empanelled",
+   "Site: owns SRC-TI threat intelligence and SRC-iSBOM products",
+   "Careers 29k chars: no VCS, CI or review-gate text"
+  ],
+  "why_this_rank": "Secondary is carried entirely by certifications plus owned security products; there is zero evidence of engineering practice. The only CI/CD sentence is a feature of their iSBOM product, so it was not counted as their own pipeline. A security consultancy, not a firm shipping client software.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Innovative Logic Lab Private Limited",
+  "domain": "innologic.in",
+  "score": 48,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 25,
+  "tier_c_points": 13,
+  "raw_before_caps": 48,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING — Wayback 20230601, no software wording",
+  "evidence": [
+   "JD: 'Use Git and SVN for version control'",
+   "JD: 'Hands-on experience with version control systems like Git and SVN'",
+   "Site: owns Innobt agile project-management tool",
+   "Wayback 2023-06: archived pre-2024 but no software wording"
+  ],
+  "why_this_rank": "Real JD-level version-control discipline, but the weak gold level (+10 instead of +25) is the entire gap to Secondary — evidence was missing from the snapshot, not contradicted. SVN is a de-facto private-repo signal yet is not on the rubric's named host list, so Tier B was awarded instead of Tier A; the total is identical either way.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "LN Webworks Private Limited",
+  "domain": "lnwebworks.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN — Wayback 20230601 'Drupal Web Development Company'",
+  "evidence": [
+   "Wayback 2023-06: 'Drupal Company | Drupal Web Development Company'",
+   "Careers, 7 pages / 31k chars: no VCS, CI or review mention",
+   "Site: 'Product Engineering Services' page, largely nav repetition",
+   "Site: 'web, mobile, and AI-powered platforms' for enterprises"
+  ],
+  "why_this_rank": "Product-engineering positioning is present but Tier C cannot fire without Tier A/B corroboration, and 31k chars of careers text mention no version control, CI or review at all. A 91-person Drupal shop with proven pre-2024 delivery scores 25 purely on absence of process evidence.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "TQ Network Private Limited",
+  "domain": "talentzq.io",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [],
+  "pre2024_basis": "UNKNOWN — no Wayback snapshot and no RDAP record",
+  "evidence": [
+   "Bundle: no Wayback snapshot, no RDAP record — missing",
+   "JD hit: 'Version control on critical fields' is an ATS feature",
+   "Site: 'pipeline visibility' means hiring pipeline, not CI/CD",
+   "Careers 4k chars: no engineering-practice language"
+  ],
+  "why_this_rank": "Every apparent engineering keyword belongs to the ATS product they sell — 'version control' on requisition fields, 'pipeline' meaning candidate pipeline, 'workflows' meaning hiring stages. Scored as product marketing, so Tier A and B both withheld. Pre-2024 status is missing rather than disproved.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Artha Data Solutions India Private Limited",
+  "domain": "thinkartha.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING — Wayback 20230106, no software wording",
+  "evidence": [
+   "Wayback 2023-01: archived pre-2024, no software wording",
+   "Careers, 7 pages / 68k chars: zero VCS, CI or review text",
+   "Site: 'data ingestion pipelines' — data pipelines, not CI/CD",
+   "Site: owns B'etl ETL migrator and DIP accelerators"
+   ],
+  "why_this_rank": "68k chars of careers text produced no engineering-practice language whatsoever, and the 'pipeline' hits are data pipelines, not build pipelines. Real owned accelerators would have earned Tier C, but Tier C cannot fire without Tier A/B corroboration, which leaves the weak gold as the only score.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Botminds AI Technologies Private Limited",
+  "domain": "botminds.ai",
+  "score": 55,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 20,
+  "raw_before_caps": 55,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN (upgraded from DOMAIN_ONLY) — own blog post dated 9 Dec 2022",
+  "evidence": [
+   "Own blog dated 'Dec 9, 2022': ISO27001 certification announcement",
+   "Site: 'SOC 2 Type II', 'ISO 27001' — their own certifications",
+   "Site: 'Product engineering and delivery run from Chennai'",
+   "Careers 23k chars: no VCS, CI or review mention"
+  ],
+  "why_this_rank": "The bundle graded gold as DOMAIN_ONLY (2017 registration), but the site itself carries a dated pre-2024 artefact — a 9 Dec 2022 blog post — which the rubric counts as full PROVEN, so +25 was awarded instead of +10. Product company selling its own platform rather than client software; Indian-owned, so not a GCC reject.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Kryptos Technologies Private Limited",
+  "domain": "kryptostech.com",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 15,
+  "tier_c_points": 10,
+  "raw_before_caps": 50,
+  "caps_applied": [
+   "cap 30 — dev bundled with MSP / data-centre / IT support"
+  ],
+  "pre2024_basis": "PROVEN — Wayback 20220601 Azure and web solution case studies",
+  "evidence": [
+   "Wayback 2022-06: Azure site recovery and web solution case studies",
+   "Site: 'containers ... microservices ... continuous delivery workflows'",
+   "Site: 'Your Trusted MSP for all IT & Business needs'",
+   "Site: 36 compliance hits are GDPR cookie-consent plugin boilerplate"
+  ],
+  "why_this_rank": "The cap overrode real merit: a 50 raw built on a genuine cloud-native DevOps practice falls to 30 because dev is bundled with MSP, data-centre and infrastructure support in their own headline positioning. Also note the compliance count of 36 is cookie-banner boilerplate, not certification, so no +10 was given for it.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "MCO MyCompliance India Private Limited",
+  "domain": "mco.mycomplianceoffice.com",
+  "score": 95,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 50,
+  "tier_c_points": 20,
+  "raw_before_caps": 95,
+  "caps_applied": [
+   "REJECT — foreign product vendor's India centre; band forced to Skip"
+  ],
+  "pre2024_basis": "PROVEN — Wayback 20220601 advertises the compliance portal product",
+  "evidence": [
+   "JD: 'CI/CD integration ... Performance Engineering Centre of Enablement'",
+   "JD: 'use of version control systems to support automation frameworks'",
+   "Careers: 'QA Lead - Automation', WebdriverIO, Selenium expertise",
+   "Site: 'develops software products for financial services organisations'"
+  ],
+  "why_this_rank": "Highest engineering evidence in the bundle, but rejected on category: MCO India is the Hyderabad development centre of MyComplianceOffice, a foreign compliance-software vendor, so it is a captive arm and banded Skip regardless of the 95. Score retained so the rejection is visible as a category call, not a weak-evidence call.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "QuasarCyberTech Private Limited",
+  "domain": "quasarcybertech.com",
+  "score": 0,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 0,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 0,
+  "caps_applied": [
+   "cap 45 — RED_FLAG_2024_PLUS (non-binding)"
+  ],
+  "pre2024_basis": "RED_FLAG_2024_PLUS — domain first registered 2024-07-10",
+  "evidence": [
+   "RDAP: domain first registered 2024-07-10",
+   "Site: 'RBI compliance, DPDP Act readiness, ISO 27001, SOC2' — services sold",
+   "Careers 26k chars: no VCS, CI or review mention",
+   "Site: security testing and assurance services only"
+  ],
+  "why_this_rank": "Zero is not a crawl failure — six pages including careers and blog were read. The domain postdates 2024, which is evidence against pre-2024 build, and every ISO/SOC/PCI mention is a compliance service sold to clients rather than their own certification, so no Tier B was awarded.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "InitiateFirst Information Services Private Limited",
+  "domain": "initiatefirst-is.com",
+  "score": 75,
+  "band": "Priority",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 50,
+  "tier_c_points": 0,
+  "raw_before_caps": 75,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN — Wayback 20230601 data engineering and BI case studies",
+  "evidence": [
+   "JD: 'Black Duck, Prisma Cloud, Qualys, Snyk, Coverity, SonarQube'",
+   "JD DevOps stack: 'Jenkins, Kubernetes, Helm, Docker'",
+   "JD: 'Good knowledge of unit testing and code quality tools'",
+   "Wayback 2023-06: data engineering, BI and case-study pages"
+  ],
+  "why_this_rank": "Priority rests on tooling depth alone: 16 JD pages and 95k chars name SonarQube, Coverity, Jenkins, Kubernetes and Helm, yet never a repo host or a review gate, so confidence stays Inferred. The dedicated-QA +10 was withheld because the testing language asks developers to write unit tests rather than describing a QA function.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Mundrisoft Solutions Private Limited",
+  "domain": "mundrisoft.com",
+  "score": 63,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 40,
+  "tier_c_points": 13,
+  "raw_before_caps": 63,
+  "caps_applied": [],
+  "pre2024_basis": "UNKNOWN — no Wayback snapshot and no RDAP record",
+  "evidence": [
+   "JD: 'Comfortable with CI/CD pipelines and version control (Git)'",
+   "Site: 'Continuous Integration', 'single click continuous deployment'",
+   "Site: owns product suite including Training Management Systems",
+   "Bundle: no Wayback snapshot, no RDAP record — missing"
+  ],
+  "why_this_rank": "Pre-2024 evidence is missing rather than absent — no snapshot and no RDAP record exist to check — and that +10-instead-of-+25 is the whole gap to Priority. Their 'Intelligent Code Review' line is an AI service they sell, so it was not counted as their own review gate.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Xbattery Energy Private Limited",
+  "domain": "xbattery.energy",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 0,
+  "tier_a_points": 0,
+  "tier_b_points": 25,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [
+   "cap 45 — RED_FLAG_2024_PLUS (non-binding)"
+  ],
+  "pre2024_basis": "RED_FLAG_2024_PLUS — domain first registered 2024-07-22",
+  "evidence": [
+   "RDAP: domain first registered 2024-07-22",
+   "JD: 'Contribute to continuous integration (CI) and continuous deployment'",
+   "JD: 'Experience with version control systems (e.g., Git)'",
+   "Site: BharatBMS battery management hardware, embedded edge AI"
+  ],
+  "why_this_rank": "The 14 DQ_support hits are embedded-AI blog prose about BMS hardware, not an IT-support business, so the cap-20 was not applied — a judgement that changes the score but not the band. Post-2024 origin plus a battery-hardware focus rather than client software makes this off-target regardless.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Bebo Technologies Pvt Ltd",
+  "domain": "bebotechnologies.com",
+  "score": 90,
+  "band": "Priority",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 50,
+  "tier_c_points": 15,
+  "raw_before_caps": 90,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN — Wayback 20230601 'Software Product Engineering Methodologies'",
+  "evidence": [
+   "Wayback 2023-06: 'Software Product Engineering Methodologies'",
+   "JD: 'Collaborate with DevOps teams to support CI/CD pipelines'",
+   "JD: 'test-driven development practices using JUnit, Mockito'",
+   "Careers: 'Principal Software Engineer', Quality Engineering roles"
+  ],
+  "why_this_rank": "560k chars of job text name Git, CI/CD and TDD but never a private-repo host or a review gate, so this is Priority on Tier B breadth with confidence only Inferred — the single highest-value check is still unverified. The generalist cap was withheld: BTES is a non-profit training arm and 'product support' means application support for software they build and test.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Capital Engineering College",
+  "domain": "collegedunia.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [],
+  "pre2024_basis": "UNKNOWN — no Wayback or RDAP record; aggregator domain",
+  "evidence": [
+   "Domain is collegedunia.com — an aggregator listing page",
+   "JD CI/CD quotes belong to Collegedunia's own hiring, not the college",
+   "Site: 14 training signals, fees, cutoff and admissions content",
+   "Bundle: no Wayback or RDAP record for the entity"
+  ],
+  "why_this_rank": "The crawl scored the wrong entity: the record points at a Collegedunia directory page, so the Jenkins/Docker job text is Collegedunia's engineering hiring, not the college's. Not an IT firm at all, and none of the collected evidence is attributable — the 10 is a placeholder for a missing pre-2024 record.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "ACA Global Capability Center (India) Private Limited",
+  "domain": "acaglobal.com",
+  "score": 48,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 13,
+  "raw_before_caps": 48,
+  "caps_applied": [
+   "REJECT — multinational GCC arm; band forced to Skip"
+  ],
+  "pre2024_basis": "PROVEN — Wayback 20230601 compliance, cybersecurity and ESG pages",
+  "evidence": [
+   "Name: 'Global Capability Center (India)' of ACA Group",
+   "Wayback 2023-06: compliance, cybersecurity, ESG service pages",
+   "Site: 'ComplianceAlpha ... complies with SOC 2, GDPR'",
+   "Careers 59k chars: no VCS, CI or review mention"
+  ],
+  "why_this_rank": "Rejected on category, not score: this is the Pune Global Capability Center of ACA Group, a US compliance and risk firm, so it is a multinational captive arm and banded Skip regardless. The 48 would have placed it just under Secondary anyway.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Adamma Info Services Private Limited",
+  "domain": "adamma.in",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [
+   "cap 40 — no careers, blog or team page (non-binding)"
+  ],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING — Wayback 20230601, no software wording",
+  "evidence": [
+   "Only homepage reachable; jd_chars 0, no careers page found",
+   "Site: 'We are an ISO 27001 certified BGV company'",
+   "Wayback 2023-06: archived pre-2024, no software wording",
+   "Site: background verification services, not software delivery"
+  ],
+  "why_this_rank": "The crawl captured too little to judge engineering — only the homepage resolved and zero job text was collected, so the 20 measures a data gap as much as the firm. Even so, background-verification services rather than software delivery makes this off-goal.",
+  "graded_by": "agent"
+ },
+ {
+  "name": "Atyeti IT Services Private Limited",
+  "domain": "atyeti.com",
+  "score": 45,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 10,
+  "raw_before_caps": 45,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN — Wayback 20230601 'Agile Software development ... Data Science'",
+  "evidence": [
+   "Wayback 2023-06: 'Cloud, DevOps, Agile Software development'",
+   "Site: 'ISO 27001:2022 Certified'",
+   "Site: Fortune 500 financial-services and investment-banking clients",
+   "Careers 5 pages / 9k chars: no VCS, CI or review mention"
+  ],
+  "why_this_rank": "The BPO line was judged one practice among several rather than the core business, so no cap-20 was applied. The bigger issue is thin collection: a 502-person firm yielded only 9k chars of careers text with no engineering language, so 45 reflects what was captured more than what they do.",
+  "graded_by": "agent"
+ }
+]

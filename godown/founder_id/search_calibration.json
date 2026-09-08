@@ -1,0 +1,57 @@
+{
+ "window_hours": 24.0,
+ "call_budget": 570,
+ "profile_budget": 1461,
+ "source": "SignalHire support reply, 19 Aug 2026 \u2014 raised 300->700 calls/day free courtesy; 2000 profiles/day is a separate independent cap",
+ "history_pre_19aug": {
+  "window_hours": 24.0,
+  "call_budget": 171,
+  "observations": [
+   {
+    "at": "2026-08-18T15:21:00",
+    "calls_in_window_at_402": 171,
+    "window_hours": 24.0,
+    "note": "confirmed by 3 live probes returning 402"
+   }
+  ],
+  "recoveries": [
+   24.05,
+   21.7
+  ]
+ },
+ "observations": [
+  {
+   "at": "2026-08-20T15:00:04",
+   "calls_in_window_at_402": 571,
+   "profiles_in_window_at_402": 1461,
+   "window_hours": 24.0
+  },
+  {
+   "at": "2026-08-20T15:00:53",
+   "calls_in_window_at_402": 570,
+   "profiles_in_window_at_402": 1461,
+   "window_hours": 24.0
+  },
+  {
+   "at": "2026-08-20T15:10",
+   "note": "manual correction after 2 real 402s at 570/571 calls, 1461 profiles \u2014 old on_402 logic left budgets unchanged because neither was near the assumed 630/1800 threshold; fixed the logic and applied the correction directly to avoid a 3rd wasted live hit"
+  }
+ ],
+ "recoveries": [
+  24.05,
+  21.7,
+  23.46,
+  23.69,
+  23.75,
+  25.87,
+  27.43,
+  43.21,
+  43.52,
+  44.0,
+  44.28,
+  3.83,
+  3.93,
+  4.25,
+  5.26
+ ]
+}

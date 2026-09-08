@@ -1,0 +1,897 @@
+[
+ {
+  "name": "Monsoonfish",
+  "city": "Pune",
+  "domain": "monsoonfish.com",
+  "website": "https://monsoonfish.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2012-04-23",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Know more about UI/UX design for your industry Medical & Healthcare Cyber Security Travel & Hospitality Edtech Enterprise Software & IoT Non-Profit Fintech Agritech Design for AI Retail & Real-Estate Your Questions, Answered (FAQs) Why choose Monsoonfish as your UI UX design agency in Pune?"
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Montran Corporation (India) Private Limited",
+  "city": "Mumbai",
+  "domain": "montran.in",
+  "website": "https://www.montran.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "act Talk to Us! Have questions, feedback or inquiries about our products and services? Reach out to us by submitting the form to contact our team.  F"
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 73276,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 11,
+   "enterprise": 20,
+   "owns_product": 2,
+   "prod_eng": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Application Support Infrastructure Support QA & Testing OeKB CSD: Challenging the Status Quo In-depth interview with OeKB CSD on how Montran helped transforming the way CSD work.",
+    "QA & Testing We go beyond surface-level analysis to uncover critical information about competitor strategies, product offerings, market positioning, and customer engagement tactics."
+   ],
+   "enterprise": [
+    "Get in touch Become one of our partners Financial Infrastructure– built for global scale, active in 90+ countries Join us to build India’s backbone of banking Benefits of working with Montran, make it super legit.",
+    "We’ve eliminated inefficiencies and seen a marked increase in cost savings.” Join us to build India’s backbone of banking Your work powers secure payments at Montran.",
+    "Montran India is the infrastructure beneath modern banking in one of the world’s fastest-growing economies.",
+    "Unifying Fragmented Systems We transform complex, disconnected banking infrastructure into a single, intelligent platform."
+   ],
+   "owns_product": [
+    "From high-value RTGS to real-time retail payments and corporate transaction hubs, our platforms handle massive volumes with precision, resilience and security.",
+    "This staggering volume proves our platform’s capability to handle scale without compromising speed, accuracy, or security."
+   ],
+   "prod_eng": [
+    "2022 Montran India opens offices in Ghansoli (Navi Mumbai), Pune, and Bhopal, bringing engineering excellence closer to clients and accelerating collaboration."
+   ],
+   "DQ_support": [
+    "Additionally, it supports ad hoc mapping of PFMS error codes with other regulatory error messages, allowing banks to interpret issues quickly and ensure smooth, compliant fund processing."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Moody’s Shared Services India Private Limited",
+  "city": "Gurugram",
+  "domain": "moodys.com",
+  "website": "https://www.moodys.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1992-08-26",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 13,
+   "external_job_boards": [],
+   "jd_chars": 22864,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Learn more Credit risk Compliance Private credit Data SF Discover more Moody's RMS™ Global Event Response Deep insights for real-time event preparation and response, parametric insurance contracts triggers, validation against experience, and research.",
+    "Read more research Jul 27, 2026 Moody's Ratings Latin American banks' asset risk rises amid stress for consumers and small enterprises At banking systems across the region, inflation, macroeconomic shifts and changing credit dynamics are weakening borrowers' ability to repay their loans on time.",
+    "Buy-Side Read more blog Nov 05, 2024 Moody's Insurance asset allocation in uncertain times Explore how insurance asset allocators are adapting to macroeconomic and geopolitical challenges as we approach year-end 2024.",
+    "Discover how Moody’s PFaroe Insurance can restore clarity in the age of data overload."
+   ],
+   "DQ_training": [
+    "Our 16-week program introduces you to one of our dynamic teams with hands-on projects, coaching & mentoring, leadership development, and networking events.",
+    "What began as non‑bank lending to middle‑market borrowers, has expanded across asset classes and structures from private placements and asset‑based finance to real estate, infrastructure, and fund finance fueling new competition and partnerships among banks, insurers, and asset managers."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Motilal Oswal Financial Services Limited",
+  "city": "Mumbai",
+  "domain": "motilaloswal.com",
+  "website": "https://www.motilaloswal.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 16758,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Regulation and Oversight: PMS:PMS is regulated by the Securities and Exchange Board of India (SEBI) and is subject to regulatory oversight.",
+    "Mutual Funds:Mutual Funds are also regulated by SEBI and are subject to strict regulatory guidelines to protect the interests of investors."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Mouktik Consulting Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "mouktikconsulting.com",
+  "website": "https://mouktikconsulting.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Engineering Excellence Across Diverse Sectors Mouktik provides comprehensive engineering services for: Electronics & Embedded Systems: Chip-level design, embedded HW/SW development, model-based design (MATLAB/Simulink)."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "MPM Infosoft Private Limited",
+  "city": "Chennai",
+  "domain": "mpminfosoft.com",
+  "website": "https://www.mpminfosoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ny Overview Solutions Green Sand Interactive Data Analytics Software Development Products Sandman The Need The Problem The Solution Careers Job Openin"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1404,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Deepak Chowdhary Our Products SAND MAN ® SAND MAN ® is a revolutionary software solution designed for foundries to optimize green sand process control."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "MSD Hyderabad Global Capabilities Center India Private Limited",
+  "city": "Hyderabad",
+  "domain": "msd.com",
+  "website": "https://www.msd.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 14715,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 6
+  },
+  "site_quotes": {
+   "cicd": [
+    "Who we are What we do × Pipeline We follow the science where we can make the greatest difference, now and in the future.",
+    "Pipeline × Clinical trials Clinical trials help find new treatments to help save and improve lives.",
+    "There can be no guarantees with respect to pipeline candidates that the candidates will receive the necessary regulatory approvals or that they will prove to be commercially successful.",
+    "Pipeline We're focused on discovering new solutions for today and the future."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "MUFG Bank Ltd",
+  "city": "Mumbai",
+  "domain": "bk.mufg.jp",
+  "website": "https://www.bk.mufg.jp/global/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 14529,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Home Careers MUFG Major Related Companies Other MUFG Companies Mitsubishi UFJ Financial Group Mitsubishi UFJ Trust and Banking Mitsubishi UFJ Securities Holdings --> MUFG Americas Holdings Corporation Mitsubishi UFJ Financial Group, Inc.",
+    "Home About Us Management MUFG Major Related Companies Other MUFG Companies Mitsubishi UFJ Financial Group Mitsubishi UFJ Trust and Banking Mitsubishi UFJ Securities Holdings --> MUFG Americas Holdings Corporation Mitsubishi UFJ Financial Group, Inc."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "MUFG Pension & Market Services India Private Limited",
+  "city": "Mumbai",
+  "domain": "mpms.mufg.com",
+  "website": "https://www.mpms.mufg.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ext/javascript'; s.async = true; s.src = '//munchkin.marketo.net/munchkin.js'; s.onreadystatechange = function() { if (this.readyState == 'complete' |"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 39114,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Murata Vios Private Limited",
+  "city": "Bengaluru",
+  "domain": "viosmedical.com",
+  "website": "https://www.viosmedical.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 2787,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6
+  },
+  "site_quotes": {
+   "enterprise": [
+    "India Careers - Vios Medical Skip to Nav Skip to Content Home Product Services Healthcare Settings Resources Support About Contact U.S.",
+    "India Product Services Healthcare Settings Resources Support About Contact Contact Vios Careers As a leader in healthcare technology innovation, Murata Vios is always looking for passionate, hard-working individuals.",
+    "Read More WEBINARS Leveraging Technology to Reduce Post-Acute Care Re-hospitalizations Amit Patel February 27, 2024 Join Amit Patel, CEO and Co‑Founder of Vios Medical, and Drew Hardin, Vice President of Sales, as they explore how healthcare facilities...",
+    "Our Mission Our mission is to empower healthcare professionals with real-time, clinically relevant information to help identify patients at risk of deterioration."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Mylan Pharmaceuticals Private Limited",
+  "city": "Hyderabad",
+  "domain": "viatris.in",
+  "website": "https://www.viatris.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "table for use in your country. Cancel Continue BEWARE - The iOS App ‘Mylan Loan’ is NOT owned by Mylan or any other Viatris group company. ​Click here"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 33337,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6,
+   "owns_product": 2,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Continue Cancel At Viatris, we empower people worldwide to live healthier at every stage of life --> Learn More Our Mission At Viatris, we see healthcare not as it is, but as it should be.",
+    "We act courageously and are uniquely positioned to be a source of stability in a world of evolving healthcare needs.",
+    "Continue Cancel Please note: Viatris and its recruiting firms do not request banking or credit card information in connection with Viatris recruiting activities.",
+    "Research and Development Use your scientific and medical expertise to address the evolving healthcare needs of patients through innovative solutions that improve access to high quality medicines."
+   ],
+   "owns_product": [
+    "Learn more Our Products A bold history and bright future Learn how Mylan and Upjohn came together to form Viatris."
+   ],
+   "sdlc": [
+    "Our Expectations Our expectations are rooted in how we work today and are essential to our success tomorrow."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Nagarro Software Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "nagarro.com",
+  "website": "https://www.nagarro.com/en/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Nagarro | Digital Product Engineering & Technology Consulting | Thinking Breakthroughs industries services i"
+  },
+  "jd": {
+   "pages_read": 18,
+   "external_job_boards": [],
+   "jd_chars": 121021,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 10,
+   "sdlc": 4,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Nagarro Skip to content Skip to footer --> what we do our work insights AI about careers contact us search Close en --> en Available languages English Forge Nagarro’s proprietary AI accelerators Digital Engineering Value-driven and technology savvy.",
+    "Get in touch contacts press Investor Relations Website locations americas EMEA asia-pacific follow us linkedin X facebook instagram youtube what we do what we do Forge Nagarro’s proprietary AI accelerators Digital Engineering Value-driven and technology savvy.",
+    "Engineering Intelligence Platforms, accelerators, and capabilities AI Accelerators Leverage proprietary accelerators and platforms to design, customize, and deploy AI solutions quickly and reliably.",
+    "Nagarro Skip to content Skip to footer --> what we do our work insights AI about careers contact us search Close --> en Available languages English Forge Nagarro’s proprietary AI accelerators Digital Engineering Value-driven and technology savvy."
+   ],
+   "sdlc": [
+    "Explore Vanguard: AI in SDLC Move away from conventional software delivery to a cognitive, AI-enabled way of engineering.",
+    "Flat hierarchy We empower our colleagues to be brave, creative, entrepreneurial, agile and responsible.",
+    "Agile We are built to do, correct, explore, innovate, breakthrough and repeat.",
+    "We empower our colleagues to be brave, creative, entrepreneurial, agile, and responsible."
+   ],
+   "enterprise": [
+    "Through multiple strategic partnerships, a wide network of pharmacies, healthcare contracts, and more, AHF has been funding initiatives and generating innovative ways of treatment across communities.",
+    "Year by year, AHF has been expanding their wings in several communities in the US and abroad, as they build new programs for better healthcare and policies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Narwal Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "narwalinc.com",
+  "website": "https://narwal.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "mance and flexibility. Know More Featured Insights View all case studies Performance engineering integrated into continuous journeys Know More Envisio"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 36606,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 43,
+   "sdlc": 4,
+   "owns_product": 7,
+   "cicd": 3,
+   "enterprise": 3,
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Explore our Data offerings Quality Engineering We bring end-to-end agile and robust solutions and expertise to transform your business, deliver products faster with higher quality and lower cost.",
+    "Fueled by entrepreneurial passion, deep expertise, and a commitment to driving meaningful change, we founded Narwal a specialized AI, Data, and Quality Engineering company that prioritizes customer success and employee growth.",
+    "\"We're an AI, Data, and Quality Engineering company helping businesses scale intelligently and innovate with confidence.\" Know More Global Branches Dedicated solutions with diverse expertise and unwavering dedication in dynamic global markets.",
+    "Additionally, this solid data platform foundation is crucial as we move forward with our strategic initiatives, including cutting-edge projects like artificial intelligence.\" Andrew Hughes Manager, Quality Engineering, DevOps and Service Delivery \"Narwal has quickly become a partner we can trust."
+   ],
+   "sdlc": [
+    "Explore our Data offerings Quality Engineering We bring end-to-end agile and robust solutions and expertise to transform your business, deliver products faster with higher quality and lower cost.",
+    "Agile QE Delivery Train Strategy Integrating quality engineering practices seamlessly into Agile delivery processes.",
+    "Optimized for Agile and DevOps Designed to support Agile and DevOps methodologies, this accelerator enables continuous testing and ensures seamless CI/CD integration."
+   ],
+   "owns_product": [
+    "EAT-in-a-Box Providing proven methodologies, checklists, accelerators, and reusable test scenarios to increase testing velocity and efficiency.",
+    "Key Benefits of the Human-in-the-Loop Management Accelerator Proactive Exception Detection Identifies anomalies, deviations, and edge cases in real time before they escalate.",
+    "Activate Multi-Agent Automation in Your Enterprise Let's Talk Why Choose the Human-in-the-Loop Management Accelerator?",
+    "Optimized for Agile and DevOps Designed to support Agile and DevOps methodologies, this accelerator enables continuous testing and ensures seamless CI/CD integration."
+   ],
+   "cicd": [
+    "Dockerization Containerizing testing environments for consistency and portability.",
+    "Optimized for Agile and DevOps Designed to support Agile and DevOps methodologies, this accelerator enables continuous testing and ensures seamless CI/CD integration."
+   ],
+   "enterprise": [
+    "As a technology executive leading large-scale transformations inside Fortune 500 enterprises, Raj saw firsthand the gaps in how services were delivered.",
+    "Let's Talk Meet Our Advisors Bob Lewandowski CTO, Liberty Mutual Insurance Bob Lewandowski is an innovative technology leader with over 20 years of experience in developing and leading technology teams that deliver growth, cost synergies, and improved customer satisfaction.",
+    "Industry Versatility Applicable to finance, healthcare, supply chain, manufacturing, and customer operations."
+   ],
+   "prod_eng": [
+    "He founded Narwal to redefine that model, bringing deep customer perspective and building a modern, high-performance services company built on solutions, outcomes and engineering excellence for the AI era."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Nasdaq Corporate Solutions (India) Private Limited",
+  "city": "Bengaluru",
+  "domain": "nasdaq.com",
+  "website": "https://www.nasdaq.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "delivered in modern formats for today's analysts, including Python, Excel. Get access to the full dataset on Nasdaq Data Link now. Market Volume Data"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 40411,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 139,
+   "DQ_training": 6
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Nasdaq: Stock Market, Data Updates, Reports & News Skip to main content Nasdaq+ Weekly Macro+ Scorecard Market Activity U.S.",
+    "Market Quick Links Nasdaq-100 Symbol Screener Glossary Dividend History Nasdaq Public Policy U.S.",
+    "Market Events Economic Calendar Earnings IPO Calendar Dividend Calendar SPO Calendar Holiday Schedule Nasdaq U.S.",
+    "Show more results -> Nasdaq Enters Definitive Agreement to Acquire LeveL Markets LeveL Markets is a leading off-exchange equity execution venue in the United States and operator of LeveL ATS."
+   ],
+   "DQ_training": [
+    "Our People Culture at Nasdaq Nasdaq Internship Program More Our People Culture at Nasdaq Nasdaq Internship Program Join Nasdaq Careers Empower Economic Opportunity Be part of a global team unlike any other.",
+    "View Jobs -> Nasdaq Futures Internship Program Do you want to gain critical skills and experiences that will help launch your career?",
+    "Nasdaq's Futures Internship program prepares you for your next big opportunity.",
+    "Explore Internships -> Nasdaq Futures Internship Program Do you want to gain critical skills and experiences that will help launch your career?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "National Institute For Smart Government",
+  "city": "Delhi",
+  "domain": "nisg.org",
+  "website": "https://www.nisg.org/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2002-09-09",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 1578,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Nationwide Global Services Center Private Limited",
+  "city": "Hyderabad",
+  "domain": "nationwide.com",
+  "website": "https://www.nationwide.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1994-03-04",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 19,
+   "external_job_boards": [],
+   "jd_chars": 126215,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 16
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Specialty E-Risk Services Excess & surplus Management liability & specialty Programs Reinsurance and Alternative Risk Transfer Surety bonds Employee Benefits Employee retirement plans Group benefits Group health Medical stop loss MedPair supplemental health Multi-life insurance See products ...",
+    "Auto & home bundle Business Life Pet Auto Homeowners Renters See all insurance Start your quote Find an agent » Explore financial products » He's so much more than Peyton Manning.",
+    "Go Term life insurance We can help you protect your loved ones with life insurance.",
+    "Personal insurance For your business We protect businesses and employees, as well as company property and vehicles."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "NatWest Digital Services India Private Limited",
+  "city": "Bengaluru",
+  "domain": "natwestgroup.com",
+  "website": "https://www.natwestgroup.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "elationships with millions of customers are at the heart of our workforce. We are committed to having a motivated and inclusive workforce who are enga"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 8697,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 28,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "NatWest Group --> Skip to main content Online Banking Contact us Menu Close Close Who we are Who we are Who we are About the group NatWest Group is a UK-focussed bank, serving over 20 million customers, with businesses across retail, commercial and private banking markets.",
+    "Through our brilliant banking brands.",
+    "TEP launch Open in new window Completion of Evelyn Partners acquisition Together, we are now the UK’s leading private banking and wealth management business.",
+    "ChatGPT news Open in new window play video Evelyn Partners joins NatWest Group By bringing our two businesses together we're now the UK’s leading private banking and wealth management business - making financial advice, savings and investments available to even more people, families and businesses throughout the UK."
+   ],
+   "owns_product": [
+    "Growing Together Open in new window Latest news and insights New Accelerator hub to turn West Midlands innovation into growth We’re launching a new business Accelerator in partnership with TEP Birmingham and Webster & Horsfall Group."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Navicent Solutions Private Limited",
+  "city": "Mumbai",
+  "domain": "navicentsolutions.com",
+  "website": "https://navicentsolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 9560,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "owns_product": 2,
+   "DQ_support": 3
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Organizations that want to remain agile, secure, and scalable… Learn More 27 Aug August 27, 2025 Microsoft 365 vs Google Workspace: Which One Fits Your Business?"
+   ],
+   "owns_product": [
+    "SME Channels Accelerator Award 2025 - Top 100 in Cloud Computing",
+    "SME Channels Accelerator Award 2023 - Top 100 in the category of SaaS Solutions"
+   ],
+   "DQ_support": [
+    "End-to-End IT Support From consulting and implementation to monitoring and managed services—we handle the full IT lifecycle so you can focus on running your business.",
+    "Such complications need to be addressed at once Our Technology Product Solutions encompass a wide range of hardware, software and integrated systems designed to address specific business needs, enhance operational efficiency, and drive innovation.",
+    "These solutions provide visibility, control, and automation across hardware, software, networks, and users, ensuring optimal performance, security, and compliance."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Navya Care Network Private Limited",
+  "city": "Bengaluru",
+  "domain": "navya.care",
+  "website": "https://navya.care/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "all use Navya. How will my physician / treating oncologist react? Will they mind? Treating oncologists are used to consulting organ specific experts"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "NCS Soft Solutions Private Limited",
+  "city": "Chennai",
+  "domain": "ncssoft.in",
+  "website": "https://ncssoft.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "gy Limited is a pioneer in providing digital and enterprise software solutions. Know More Exlayer Indonesia provides comprehensive ICT system integrat"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 81328,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 47,
+   "owns_product": 8,
+   "sdlc": 8,
+   "DQ_support": 4
+  },
+  "site_quotes": {
+   "enterprise": [
+    "4.7 Ratings Visit Software Advice Visit GetApp Visit Capterra “Outstanding GRC Transformation Solution 2026” AI Organization of The Year - AI Excellence Awards 2025 Technoviti 2025 Award by Banking Frontiers!",
+    "75% Indian BFSI Market Share $600Bn+ Assets Audited Every Year 100% Successful Implementations Months ROI Built by Industry Experts with Decades of Audit & GRC Experience Designed and Developed by Industry Experts with Decades of Experience.",
+    "Read more Watch Glimpse Modules Features & Benefits --> INSURANCE Comprehensive Auditing Excellence Suite for Insurance Sector eTHIC-INSURANCE is a cutting-edge audit solution built for the insurance sector.",
+    "With robust security and customizable frameworks across financial, business, regulatory and customer impact areas, eTHIC-INSURANCE empowers audit teams with real-time risk assessments, streamlined processes and proactive decision-making."
+   ],
+   "owns_product": [
+    "--> Our Products eTHIC - The GRC & Audit Platform that Brings Together Governance, Risk, Compliance and Audit.",
+    "Our Clients The Trusted Solution for 60+ Industry Pioneers --> Moved on from our Product Our Partners Connecting Globally, Growing Stronger Every Day Exlayer Indonesia provides comprehensive ICT system integration services and solutions."
+   ],
+   "sdlc": [
+    "Know More --> Modules Streamline your audit journey with eTHIC - the agile and robust GRC platform.",
+    "With expert guidance, your GRC and Audit processes become more agile, future-ready and impactful."
+   ],
+   "DQ_support": [
+    "It supports governance, risk management, and compliance objectives, while also improving accuracy, accountability and transparency in operations."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

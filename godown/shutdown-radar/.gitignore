@@ -1,0 +1,6 @@
+.env
+.cache/
+data/radar.sqlite*
+data/out/
+__pycache__/
+*.pyc

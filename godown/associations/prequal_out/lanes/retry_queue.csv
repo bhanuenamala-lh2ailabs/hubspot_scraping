@@ -1,0 +1,126 @@
+source,name,city,website,domain,founded_year,size_band,band_label,headcount,headcount_unknown,whale_candidate,staffing_mix,lane_reason
+ASSOC:HYSEA,Cloud Vertex Technologies India Private Limited,,https://cloudvertex.in,cloudvertex.in,,,,,True,False,False,home:http404
+ASSOC:GTECH,Eram Infotech Pvt Ltd,,https://eraminfotech.in,eraminfotech.in,,,,,True,False,False,home:timeout
+ASSOC:HYSEA,Techmojo Solutions Pvt. Ltd.,,https://techmojo.in,techmojo.in,,,,,True,False,False,home:http403
+ASSOC:ITAAP,harmonyinfotech,,https://harmonyinfotech.in,harmonyinfotech.in,,,,,True,False,False,home:http500
+ASSOC:ITAAP,morntechnologies,,https://morntechnologies.in,morntechnologies.in,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,Aurora Higher Education and Research Acdemy,,https://aurora.edu.in,aurora.edu.in,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,HTCS Consultant,,https://htcs.in,htcs.in,,,,,True,False,False,home:http403
+ASSOC:HYSEA,InOps IT Solutions Pvt. Ltd,,https://inops.in,inops.in,,,,,True,False,False,home:http308
+ASSOC:HYSEA,S Infinity Solutions,,https://sinfinity.co.in,sinfinity.co.in,,,,,True,False,False,home:URLError
+ASSOC:GTECH,Velosit Info Lab Pvt Ltd,,https://velosit.in,velosit.in,,,,,True,False,False,home:URLError
+ASSOC:GESIA,charusat,,https://charusat.ac.in,charusat.ac.in,,,,,True,False,False,home:http308
+ASSOC:ITAAP,edgystyle,,https://edgystyle.in,edgystyle.in,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,inovantics,,https://inovantics.in,inovantics.in,,,,,True,False,False,home:URLError
+ASSOC:GESIA,mjomegasolution,,https://mjomegasolution.in,mjomegasolution.in,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,pixelrun,,https://pixelrun.in,pixelrun.in,,,,,True,False,False,home:http403
+ASSOC:ITAAP,sendsafe,,https://sendsafe.in,sendsafe.in,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,synectic,,https://synectic.in,synectic.in,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,Abda Digital,,https://abdadigital.com,abdadigital.com,,,,,True,False,False,home:http503
+ASSOC:HYSEA,Alpine Techq Incorporated,,https://alpinetechq.com,alpinetechq.com,,,,,True,False,False,home:http500
+ASSOC:HYSEA,Ananth Technologies Ltd,,https://ananthtech.com,ananthtech.com,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,Application Management Services,,https://nttdata-solutions.com,nttdata-solutions.com,,,,,True,False,False,home:http403
+ASSOC:HYSEA,Cloud4C Services Pvt. Ltd.,,https://cloud4c.com,cloud4c.com,,,,,True,False,False,home:timeout
+ASSOC:GTECH,ECESIS BPO SERVICES PVT LTD,,https://ecesistech.com,ecesistech.com,,,,,True,False,False,home:http308
+ASSOC:HYSEA,Energytech Global Pvt. Ltd.,,https://energytech-global.com,energytech-global.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,MERGESOFT TECHNOLOGIES PVT LTD IMAGE NOT AVAILABLE,,https://merzesoft.com,merzesoft.com,,,,,True,False,False,home:URLError
+ASSOC:GTECH,Magnicode Solutions Pvt. Ltd.,,https://magnificentcode.com,magnificentcode.com,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,NIIT Incessant Technologies,,https://incessanttechnologies.com,incessanttechnologies.com,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,Parnandi Technology Solutions Pvt. Ltd.,,https://parnanditech.com,parnanditech.com,,,,,True,False,False,home:URLError
+ASSOC:GTECH,Polus Software Pvt. Ltd.,,https://polussoftware.com,polussoftware.com,,,,,True,False,False,home:http503
+ASSOC:GTECH,QMIS SYSTEMS PRIVATE LIMITED,,https://qmissystems.com,qmissystems.com,,,,,True,False,False,home:http404
+ASSOC:GTECH,THOUGHTLINE DIGITAL PRIVATE LIMITED,,https://thoughtlinedigital.com,thoughtlinedigital.com,,,,,True,False,False,home:http308
+ASSOC:GTECH,Tilt Labs,,https://tiltlabs.io,tiltlabs.io,,,,,True,False,False,home:http403
+ASSOC:HYSEA,Vasavi Prosoft Transcription Ltd.,,https://vasaviprosoft.com,vasaviprosoft.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,camsysind,,https://camsysind.com,camsysind.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,chatrtech,,https://chatrtech.com,chatrtech.com,,,,,True,False,False,home:URLError
+ASSOC:GESIA,deltainfosoft,,https://deltainfosoft.com,deltainfosoft.com,,,,,True,False,False,home:http308
+ASSOC:GESIA,einfochips,,https://einfochips.com,einfochips.com,,,,,True,False,False,home:http403
+ASSOC:ITAAP,gennext-tech,,https://gennext-tech.com,gennext-tech.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,hrishitatech,,https://hrishitatech.com,hrishitatech.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,innovateapps,,https://innovateapps.com,innovateapps.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,juranttech,,https://juranttech.com,juranttech.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,karthikeyainfominds,,https://karthikeyainfominds.com,karthikeyainfominds.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,oakstechweb,,https://oakstechweb.com,oakstechweb.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,primesoftinc,,https://primesoftinc.com,primesoftinc.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,prutechs,,https://prutechs.com,prutechs.com,,,,,True,False,False,home:URLError
+ASSOC:GESIA,quarkssystems,,https://quarkssystems.com,quarkssystems.com,,,,,True,False,False,home:http503
+ASSOC:ITAAP,ritsinfosolutions,,https://ritsinfosolutions.com,ritsinfosolutions.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,schemaxtech,,https://schemaxtech.com,schemaxtech.com,,,,,True,False,False,home:URLError
+ASSOC:GESIA,shridharinfosec,,https://shridharinfosec.com,shridharinfosec.com,,,,,True,False,False,home:http308
+ASSOC:ITAAP,techeleves,,https://techeleves.com,techeleves.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,techonvoy,,https://techonvoy.com,techonvoy.com,,,,,True,False,False,home:URLError
+ASSOC:GESIA,techultrasolutions,,https://techultrasolutions.com,techultrasolutions.com,,,,,True,False,False,home:http308
+ASSOC:ITAAP,vinfocode,,https://vinfocode.com,vinfocode.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,vsinfotech,,https://vsinfotech.co,vsinfotech.co,,,,,True,False,False,home:URLError
+ASSOC:GESIA,weblogysphere,,https://weblogysphere.com,weblogysphere.com,,,,,True,False,False,home:timeout
+ASSOC:ITAAP,webskysolutions,,https://webskysolutions.com,webskysolutions.com,,,,,True,False,False,home:http500
+ASSOC:ITAAP,www,,https://expandsoftwaresolut,expandsoftwaresolut,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,AEP CERTIFICATION IMAGE NOT AVAILABLE,,https://aepcrt.org,aepcrt.org,,,,,True,False,False,home:timeout
+ASSOC:HYSEA,Accolite Digital India Pvt. Ltd.,,https://accolite.com,accolite.com,,,,,True,False,False,home:URLError
+ASSOC:GTECH,Aiqo,,https://aiqo.uk,aiqo.uk,,,,,True,False,False,home:http404
+ASSOC:GTECH,Allianz Cornhill,,https://allianz.com,allianz.com,,,,,True,False,False,home:http403
+ASSOC:ITAAP,Amara Raja Electronics Ltd IMAGE NOT AVAILABLE,,https://amararajaelectronics.com,amararajaelectronics.com,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,Annexacc Software Solutions India Pvt Ltd,,https://annexacc.com,annexacc.com,,,,,True,False,False,home:http500
+ASSOC:HYSEA,BROKEN ENTREPRENEURS PRIVATE LIMITED,,https://brokenatom.io,brokenatom.io,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,Blaize New Computing Technologies India Private Limited,,https://blaize.com,blaize.com,,,,,True,False,False,home:http403
+ASSOC:HYSEA,Cheerio AI Technologies Pvt Ltd,,https://cheerioai.com,cheerioai.com,,,,,True,False,False,home:http308
+ASSOC:GTECH,Cognitive Computing Services Private Limited,,https://ccsplonline.com,ccsplonline.com,,,,,True,False,False,home:URLError
+ASSOC:GTECH,Cognub Decisions Solutions,,https://cognub.com,cognub.com,,,,,True,False,False,home:timeout
+ASSOC:GTECH,Cycloides,,https://cycloides.com,cycloides.com,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,Demandbase India Private Limited,,https://demandbase.com,demandbase.com,,,,,True,False,False,home:URLError
+ASSOC:GTECH,Elsys Intelligent Devices Pvt. Ltd,,https://rakshasafedrive.com,rakshasafedrive.com,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,FoxFire Technologies (India) Ltd.,,https://foxfireindia.com,foxfireindia.com,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,Gainsight Software Pvt. Ltd.,,https://gainsight.com,gainsight.com,,,,,True,False,False,home:http403
+ASSOC:GTECH,H&R Block Global Technology Center,,https://hrblock.com,hrblock.com,,,,,True,False,False,home:http403
+ASSOC:HYSEA,Harsco India Services Pvt. Ltd.,,https://harsco.com,harsco.com,,,,,True,False,False,home:http404
+ASSOC:HYSEA,Innominds Software Pvt. Ltd.,,https://innominds.com,innominds.com,,,,,True,False,False,home:timeout
+ASSOC:ITAAP,Little Carrots India Private Limited IMAGE NOT AVAILABLE,,https://littlecarrots.com,littlecarrots.com,,,,,True,False,False,home:URLError
+ASSOC:GTECH,Mcfadyen Consuting Solutions Pvt. Ltd.,,https://mcfadyen.com,mcfadyen.com,,,,,True,False,False,home:URLError
+ASSOC:GTECH,Microm - Ttransforme Technologies,,https://micromcrm.com,micromcrm.com,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,Mobis India Limited,,https://mobis.com,mobis.com,,,,,True,False,False,home:URLError
+ASSOC:GTECH,Mozilor Technologies Pvt Ltd,,https://mozilor.com,mozilor.com,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,NICHEBIT SOFTECH PRIVATE LIMITED,,https://nichebit.com,nichebit.com,,,,,True,False,False,home:http500
+ASSOC:HYSEA,NOVULIS GLOBAL SOLUTIONS PRIVATE LIMITED,,https://novulis.com,novulis.com,,,,,True,False,False,home:http308
+ASSOC:HYSEA,Nimmetry Technologies Pvt. Ltd.,,https://nimmetry.com,nimmetry.com,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,PIERIAN SERVICES PRIVATE LIMITED,,https://pierianservices.com,pierianservices.com,,,,,True,False,False,home:http307
+ASSOC:HYSEA,Prokarma Softech Pvt. Ltd.,,https://prokarma.com,prokarma.com,,,,,True,False,False,home:timeout
+ASSOC:GTECH,QBurst Technologies Pvt. Ltd.,,https://qburst.com,qburst.com,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,S P Capital IQ India Pvt. Ltd.,,https://spglobal.com,spglobal.com,,,,,True,False,False,home:http403
+ASSOC:GTECH,US Technology International Pvt. Ltd.,,https://ust-global.com,ust-global.com,,,,,True,False,False,home:http403
+ASSOC:GTECH,Zennode Technologies LLP,,https://zennode.com,zennode.com,,,,,True,False,False,home:timeout
+ASSOC:ITAAP,aalgorithm,,https://aalgorithm.com,aalgorithm.com,,,,,True,False,False,home:http403
+ASSOC:ITAAP,aggregatenetsolutions,,https://aggregatenetsolutions.com,aggregatenetsolutions.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,atribiz,,https://atribiz.com,atribiz.com,,,,,True,False,False,home:timeout
+ASSOC:ITAAP,atribusinesssolutions,,https://atribusinesssolutions.com,atribusinesssolutions.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,avineonindia,,https://avineonindia.com,avineonindia.com,,,,,True,False,False,home:URLError
+ASSOC:GESIA,bitscape,,https://bitscape.com,bitscape.com,,,,,True,False,False,home:URLError
+ASSOC:GESIA,compucareindia,,https://compucareindia.com,compucareindia.com,,,,,True,False,False,home:timeout
+ASSOC:ITAAP,essit,,https://essit.com,essit.com,,,,,True,False,False,home:http404
+ASSOC:ITAAP,evolutyz,,https://evolutyz.com,evolutyz.com,,,,,True,False,False,home:http409
+ASSOC:ITAAP,exafluence,,https://exafluence.com,exafluence.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,i3konzepts,,https://i3konzepts.com,i3konzepts.com,,,,,True,False,False,home:http403
+ASSOC:ITAAP,igiat,,https://igiat.com,igiat.com,,,,,True,False,False,home:URLError
+ASSOC:GESIA,infistack,,https://infistack.com,infistack.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,ipro-global,,https://ipro-global.com,ipro-global.com,,,,,True,False,False,home:http403
+ASSOC:GESIA,kavobits,,https://kavobits.com,kavobits.com,,,,,True,False,False,home:http500
+ASSOC:ITAAP,ksvspvtltd,,https://ksvspvtltd.com,ksvspvtltd.com,,,,,True,False,False,home:URLError
+ASSOC:GESIA,masibus,,https://masibus.com,masibus.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,medictfhc,,https://medictfhc.com,medictfhc.com,,,,,True,False,False,home:http500
+ASSOC:ITAAP,neehitservices,,https://neehitservices.com,neehitservices.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,parikar,,https://parikar.net,parikar.net,,,,,True,False,False,home:URLError
+ASSOC:HYSEA,payroll,,https://in.adp.com,in.adp.com,,,,,True,False,False,home:http403
+ASSOC:ITAAP,seethejobs,,https://seethejobs.com,seethejobs.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,solutionit,,https://solutionit.com,solutionit.com,,,,,True,False,False,home:http308
+ASSOC:ITAAP,tierraautomation,,https://tierraautomation.com,tierraautomation.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,tripnetra,,https://tripnetra.com,tripnetra.com,,,,,True,False,False,home:timeout
+ASSOC:GESIA,ttec,,https://ttec.com,ttec.com,,,,,True,False,False,home:http403
+ASSOC:ITAAP,uandu,,https://uandu.co,uandu.co,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,vinutnaa,,https://vinutnaa.com,vinutnaa.com,,,,,True,False,False,home:http403
+ASSOC:ITAAP,vismayapremedia,,https://vismayapremedia.com,vismayapremedia.com,,,,,True,False,False,home:URLError
+ASSOC:GESIA,vmukti,,https://vmukti.com,vmukti.com,,,,,True,False,False,home:http308
+ASSOC:ITAAP,ww7,,https://ww7.apexsolutionsltd.net,ww7.apexsolutionsltd.net,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,ww7,,https://ww7.dhunis.com,ww7.dhunis.com,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,www,,https://savvyitsols,savvyitsols,,,,,True,False,False,home:URLError
+ASSOC:ITAAP,www,,https://vgssecurity,vgssecurity,,,,,True,False,False,home:URLError
+ASSOC:GESIA,zestard,,https://zestard.com,zestard.com,,,,,True,False,False,home:http403

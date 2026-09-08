@@ -1,0 +1,673 @@
+source,name,city,website,domain,founded_year,size_band,band_label,headcount,headcount_unknown,whale_candidate,staffing_mix
+ASSOC:HYSEA+ITAAP,Kireeti Soft Technologies Ltd.,,https://kireetisoft.com,kireetisoft.com,,,,,True,False,False
+ASSOC:HYSEA+ITAAP,Cerebra IT Services Private Limited,,https://cerebra-consulting.com,cerebra-consulting.com,,,,,True,False,False
+ASSOC:GTECH,Assuretech Business Solutions Pvt. Ltd.,,https://assuretech.in,assuretech.in,,,,,True,False,False
+ASSOC:HYSEA,Cloud Vertex Technologies India Private Limited,,https://cloudvertex.in,cloudvertex.in,,,,,True,False,False
+ASSOC:HYSEA,Digital Equity,,https://digitalequity.in,digitalequity.in,,,,,True,False,False
+ASSOC:GTECH,Eram Infotech Pvt Ltd,,https://eraminfotech.in,eraminfotech.in,,,,,True,False,False
+ASSOC:HYSEA,IDEALABS FUTURETECH VENTURES,,https://idealabsftv.in,idealabsftv.in,,,,,True,False,False
+ASSOC:HYSEA,Netisoft Consultants Pvt. Ltd.,,https://netisoft.in,netisoft.in,,,,,True,False,False
+ASSOC:GTECH,Orisys,,https://orisys.in,orisys.in,,,,,True,False,False
+ASSOC:HYSEA,PACT SOFTWARE SERVICES PRIVATE LIMITED,,https://pactsoft.in,pactsoft.in,,,,,True,False,False
+ASSOC:GTECH,Softland India Limited,,https://softlandindia.co.in,softlandindia.co.in,,,,,True,False,False
+ASSOC:HYSEA,Techmojo Solutions Pvt. Ltd.,,https://techmojo.in,techmojo.in,,,,,True,False,False
+ASSOC:ITAAP,acestech,,https://acestech.in,acestech.in,,,,,True,False,False
+ASSOC:GESIA,byteweb,,https://byteweb.in,byteweb.in,,,,,True,False,False
+ASSOC:ITAAP,datamill,,https://datamill.in,datamill.in,,,,,True,False,False
+ASSOC:ITAAP,datapro,,https://datapro.in,datapro.in,,,,,True,False,False
+ASSOC:ITAAP,harmonyinfotech,,https://harmonyinfotech.in,harmonyinfotech.in,,,,,True,False,False
+ASSOC:ITAAP,morntechnologies,,https://morntechnologies.in,morntechnologies.in,,,,,True,False,False
+ASSOC:ITAAP,technosoftsolutions,,https://technosoftsolutions.co.in,technosoftsolutions.co.in,,,,,True,False,False
+ASSOC:ITAAP,vsoft,,https://vsoft.co.in,vsoft.co.in,,,,,True,False,False
+ASSOC:HYSEA,8FX,,https://8fx.in,8fx.in,,,,,True,False,False
+ASSOC:HYSEA,ARTCAFE PRIVATE LIMITED,,https://artcafe.in,artcafe.in,,,,,True,False,False
+ASSOC:HYSEA,AV Zero Touch Pvt. Ltd,,https://zerotouch.in,zerotouch.in,,,,,True,False,False
+ASSOC:ITAAP,Alfa electronic services India pvt ltd IMAGE NOT AVAILABLE,,https://alfaelectronics.in,alfaelectronics.in,,,,,True,False,False
+ASSOC:GTECH,Alokin Software Pvt. Ltd.,,https://alokin.in,alokin.in,,,,,True,False,False
+ASSOC:GTECH,Aufait Technologies,,https://aufait.in,aufait.in,,,,,True,False,False
+ASSOC:HYSEA,Aurora Higher Education and Research Acdemy,,https://aurora.edu.in,aurora.edu.in,,,,,True,False,False
+ASSOC:HYSEA,EI Dupont Services Center India Pvt. Ltd.,,https://dupont.co.in,dupont.co.in,,,,,True,False,False
+ASSOC:HYSEA,Ecomm India Cloud It,,https://ecomm.in,ecomm.in,,,,,True,False,False
+ASSOC:HYSEA,FOCUS IT TECH SYSTEMS PRIVATE LIMITED,,https://focusit.in,focusit.in,,,,,True,False,False
+ASSOC:HYSEA,Finakon Technologies Pvt Ltd,,https://finakon.in,finakon.in,,,,,True,False,False
+ASSOC:GTECH,Futureblox Technologies Pvt Ltd,,https://futureblox.in,futureblox.in,,,,,True,False,False
+ASSOC:GTECH,Futuremug(REVELADO INNOVATIONS PVT. LTD),,https://futuremug.co.in,futuremug.co.in,,,,,True,False,False
+ASSOC:GTECH,GoodBits Tech Pvt Ltd,,https://goodbits.in,goodbits.in,,,,,True,False,False
+ASSOC:HYSEA,HTCS Consultant,,https://htcs.in,htcs.in,,,,,True,False,False
+ASSOC:HYSEA,IDENTIS TECH SOLUTIONS PVT LTD,,https://identis.in,identis.in,,,,,True,False,False
+ASSOC:HYSEA,IT4Yourbusiness Private Limited,,https://it4yourbusiness.in,it4yourbusiness.in,,,,,True,False,False
+ASSOC:HYSEA,InOps IT Solutions Pvt. Ltd,,https://inops.in,inops.in,,,,,True,False,False
+ASSOC:GTECH,Infinite Open Source Solutions LLP,,https://ioss.in,ioss.in,,,,,True,False,False
+ASSOC:HYSEA,L&T Metro Rail (Hyderabad) Limited,,https://ltmetro.in,ltmetro.in,,,,,True,False,False
+ASSOC:HYSEA,Learnpedia Edutech Pvt. Ltd.,,https://learnpedia.in,learnpedia.in,,,,,True,False,False
+ASSOC:HYSEA,Lex Nimble Solutions Ltd.,,https://lexnimble.in,lexnimble.in,,,,,True,False,False
+ASSOC:HYSEA,Minkan Agro Industries Private Limited,,https://minkan.in,minkan.in,,,,,True,False,False
+ASSOC:HYSEA,NEOSTRATEGY CONSULTING LLP,,https://neostrategy.in,neostrategy.in,,,,,True,False,False
+ASSOC:HYSEA,NSSK Corporate Advisors Pvt Ltd,,https://nsskca.in,nsskca.in,,,,,True,False,False
+ASSOC:GTECH,Neovibe Innovative Technologies (P) Ltd,,https://neovibe.in,neovibe.in,,,,,True,False,False
+ASSOC:HYSEA,Next Skills 360 EdTech Private Limited,,https://nextskills360.in,nextskills360.in,,,,,True,False,False
+ASSOC:HYSEA,ORGANO ECO HABITATS PRIVATE LIMITED,,https://organo.co.in,organo.co.in,,,,,True,False,False
+ASSOC:HYSEA,PEAKIN LEARNING TECHNOLOGIES PVT LTD,,https://peakin.in,peakin.in,,,,,True,False,False
+ASSOC:HYSEA,ProLedger Consulting LLP,,https://proledger.in,proledger.in,,,,,True,False,False
+ASSOC:HYSEA,S Infinity Solutions,,https://sinfinity.co.in,sinfinity.co.in,,,,,True,False,False
+ASSOC:HYSEA,SARIGA INITIATIVES,,https://sariga.in,sariga.in,,,,,True,False,False
+ASSOC:HYSEA,SATRA Services and Solutions Private Limited,,https://satragroup.in,satragroup.in,,,,,True,False,False
+ASSOC:HYSEA,STEADFAST BUSINESS CONSULTING LLP,,https://steadfastconsultants.in,steadfastconsultants.in,,,,,True,False,False
+ASSOC:HYSEA,SimplyBiz Private Limited,,https://simplybiz.in,simplybiz.in,,,,,True,False,False
+ASSOC:GTECH,Syntrio Technologies,,https://syntrio.in,syntrio.in,,,,,True,False,False
+ASSOC:ITAAP,TRIBHUJA TECHNOLOGIES PRIVATE LIMITED IMAGE NOT AVAILABLE,,https://tribhuja.in,tribhuja.in,,,,,True,False,False
+ASSOC:GTECH,Velosit Info Lab Pvt Ltd,,https://velosit.in,velosit.in,,,,,True,False,False
+ASSOC:HYSEA,Verity Knowledge Solutions,,https://verity.co.in,verity.co.in,,,,,True,False,False
+ASSOC:HYSEA,Visual IT Solutions Private Limited,,https://visualit.in,visualit.in,,,,,True,False,False
+ASSOC:HYSEA,XRG Consulting Pvt Ltd,,https://xrg.in,xrg.in,,,,,True,False,False
+ASSOC:HYSEA,Zaggle Prepaid Ocean Services Pvt. Ltd.,,https://zaggle.in,zaggle.in,,,,,True,False,False
+ASSOC:GESIA,accuratepms,,https://accuratepms.in,accuratepms.in,,,,,True,False,False
+ASSOC:GESIA,charusat,,https://charusat.ac.in,charusat.ac.in,,,,,True,False,False
+ASSOC:ITAAP,drcomputer,,https://drcomputer.in,drcomputer.in,,,,,True,False,False
+ASSOC:ITAAP,edgystyle,,https://edgystyle.in,edgystyle.in,,,,,True,False,False
+ASSOC:GTECH,elegantVie Consults and Designs,,https://elegantvie.in,elegantvie.in,,,,,True,False,False
+ASSOC:ITAAP,fedserv,,https://fedserv.co.in,fedserv.co.in,,,,,True,False,False
+ASSOC:GESIA,guni,,https://guni.ac.in,guni.ac.in,,,,,True,False,False
+ASSOC:GESIA,hkcindia,,https://hkcindia.in,hkcindia.in,,,,,True,False,False
+ASSOC:ITAAP,hrfirst,,https://hrfirst.in,hrfirst.in,,,,,True,False,False
+ASSOC:GESIA,i-tax,,https://i-tax.in,i-tax.in,,,,,True,False,False
+ASSOC:ITAAP,incaplimited,,https://incaplimited.in,incaplimited.in,,,,,True,False,False
+ASSOC:ITAAP,indigenius,,https://indigenius.co.in,indigenius.co.in,,,,,True,False,False
+ASSOC:ITAAP,inovantics,,https://inovantics.in,inovantics.in,,,,,True,False,False
+ASSOC:GESIA,jguni,,https://jguni.in,jguni.in,,,,,True,False,False
+ASSOC:ITAAP,magnis,,https://magnis.in,magnis.in,,,,,True,False,False
+ASSOC:GESIA,microhard,,https://microhard.in,microhard.in,,,,,True,False,False
+ASSOC:GESIA,mjomegasolution,,https://mjomegasolution.in,mjomegasolution.in,,,,,True,False,False
+ASSOC:GESIA,myvi,,https://myvi.in,myvi.in,,,,,True,False,False
+ASSOC:ITAAP,nanomindz,,https://nanomindz.in,nanomindz.in,,,,,True,False,False
+ASSOC:GESIA,nuv,,https://nuv.ac.in,nuv.ac.in,,,,,True,False,False
+ASSOC:GESIA,paruluniversity,,https://paruluniversity.ac.in,paruluniversity.ac.in,,,,,True,False,False
+ASSOC:ITAAP,pbsiddhartha,,https://pbsiddhartha.ac.in,pbsiddhartha.ac.in,,,,,True,False,False
+ASSOC:ITAAP,phytec,,https://phytec.in,phytec.in,,,,,True,False,False
+ASSOC:ITAAP,pixelrun,,https://pixelrun.in,pixelrun.in,,,,,True,False,False
+ASSOC:ITAAP,pixoplay,,https://pixoplay.in,pixoplay.in,,,,,True,False,False
+ASSOC:ITAAP,sendsafe,,https://sendsafe.in,sendsafe.in,,,,,True,False,False
+ASSOC:ITAAP,stio,,https://stio.in,stio.in,,,,,True,False,False
+ASSOC:ITAAP,synectic,,https://synectic.in,synectic.in,,,,,True,False,False
+ASSOC:HYSEA,AEONX TECHNOLOGY SOLUTIONS PRIVATE LIMITED,,https://aeonx.digital,aeonx.digital,,,,,True,False,False
+ASSOC:HYSEA,AMNET DIGITAL PRIVATE LIMITED,,https://amnetdigital.com,amnetdigital.com,,,,,True,False,False
+ASSOC:HYSEA,APPEN AI INDIA PRIVATE LIMITED,,https://appen.com,appen.com,,,,,True,False,False
+ASSOC:HYSEA,Abda Digital,,https://abdadigital.com,abdadigital.com,,,,,True,False,False
+ASSOC:HYSEA,Acheron Software Consultancy Pvt. Ltd.,,https://acheron-tech.com,acheron-tech.com,,,,,True,False,False
+ASSOC:HYSEA,Alpine Techq Incorporated,,https://alpinetechq.com,alpinetechq.com,,,,,True,False,False
+ASSOC:GTECH,Amyntor Tech Solutions Pvt Ltd,,https://amyntortech.com,amyntortech.com,,,,,True,False,False
+ASSOC:HYSEA,Ananth Technologies Ltd,,https://ananthtech.com,ananthtech.com,,,,,True,False,False
+ASSOC:HYSEA,Android Porting and Customization,,https://primesoft.net,primesoft.net,,,,,True,False,False
+ASSOC:GTECH,Applexus Technologies Pvt. Ltd.,,https://applexus.com,applexus.com,,,,,True,False,False
+ASSOC:HYSEA,Application Management Services,,https://nttdata-solutions.com,nttdata-solutions.com,,,,,True,False,False
+ASSOC:GTECH,Azinova Technologies Pvt. Ltd.,,https://azinovatechnologies.com,azinovatechnologies.com,,,,,True,False,False
+ASSOC:HYSEA,Bcdc cloud centers Pvt ltd,,https://bharathcloud.com,bharathcloud.com,,,,,True,False,False
+ASSOC:HYSEA,Bosch Global Software Technologies Private Ltd,,https://bosch-softwaretechnologies.com,bosch-softwaretechnologies.com,,,,,True,False,False
+ASSOC:HYSEA,CPZ TECH Private Limited,,https://cpztech.com,cpztech.com,,,,,True,False,False
+ASSOC:HYSEA,Callaway Digital Technologies Pvt Ltd,,https://callawaydigitech.com,callawaydigitech.com,,,,,True,False,False
+ASSOC:GTECH,Canza Technology Consultants,,https://canzatech.com,canzatech.com,,,,,True,False,False
+ASSOC:HYSEA,Cesta Technologies Pvt Ltd,,https://cestasoft.co.za,cestasoft.co.za,,,,,True,False,False
+ASSOC:HYSEA,Cloud4C Services Pvt. Ltd.,,https://cloud4c.com,cloud4c.com,,,,,True,False,False
+ASSOC:HYSEA,Codegnan IT solutions,,https://codegnan.com,codegnan.com,,,,,True,False,False
+ASSOC:HYSEA,Convey Tech Labs India Private Limited,,https://conveytechlabs.com,conveytechlabs.com,,,,,True,False,False
+ASSOC:HYSEA,Cybercommand Private Limited,,https://cybercommand.tech,cybercommand.tech,,,,,True,False,False
+ASSOC:GTECH,Cybrosys Techno Solutions Pvt. Ltd.,,https://cybrosys.com,cybrosys.com,,,,,True,False,False
+ASSOC:HYSEA,DST Worldwide Services India Pvt. Ltd.,,https://dstsystems.com,dstsystems.com,,,,,True,False,False
+ASSOC:GTECH,Daiviksoft Technologies Private Limited.,,https://daiviksoft.com,daiviksoft.com,,,,,True,False,False
+ASSOC:GTECH,Dinero Tech Labs Pvt Ltd,,https://dinerotechlabs.com,dinerotechlabs.com,,,,,True,False,False
+ASSOC:GTECH,ECESIS BPO SERVICES PVT LTD,,https://ecesistech.com,ecesistech.com,,,,,True,False,False
+ASSOC:GTECH,Edify Datascience Pvt Ltd,,https://edifydata.com,edifydata.com,,,,,True,False,False
+ASSOC:HYSEA,Energytech Global Pvt. Ltd.,,https://energytech-global.com,energytech-global.com,,,,,True,False,False
+ASSOC:GTECH,Enfin Technologies India Pvt. Ltd.,,https://enfintechnologies.com,enfintechnologies.com,,,,,True,False,False
+ASSOC:GTECH,Faith Infotech India Pvt. Ltd.,,https://faithinfotechcorp.com,faithinfotechcorp.com,,,,,True,False,False
+ASSOC:HYSEA,Fin Infocom Pvt. Ltd.,,https://fininfocom.com,fininfocom.com,,,,,True,False,False
+ASSOC:HYSEA,Future Tech Information Systems Pvt. Ltd.,,https://futuretechinfo.com,futuretechinfo.com,,,,,True,False,False
+ASSOC:GTECH,GEMINI Software Solutions Pvt. Ltd.,,https://geminisoftware.com,geminisoftware.com,,,,,True,False,False
+ASSOC:GTECH,HYBCLOUD TECHNOLOGIES (CLOUD CONTROL),,https://ecloudcontrol.com,ecloudcontrol.com,,,,,True,False,False
+ASSOC:HYSEA,Helius Computech India Private Limited,,https://helius-tech.com,helius-tech.com,,,,,True,False,False
+ASSOC:HYSEA,Husys Consulting Limited,,https://husys.com,husys.com,,,,,True,False,False
+ASSOC:HYSEA,INFOPEOPLE GLOBAL,,https://infopeoplecorp.com,infopeoplecorp.com,,,,,True,False,False
+ASSOC:GTECH,IPIX Tech Services Pvt Ltd,,https://ipixtechnologies.com,ipixtechnologies.com,,,,,True,False,False
+ASSOC:HYSEA,Infopeers Solutions Private Limited,,https://infopeers.com,infopeers.com,,,,,True,False,False
+ASSOC:HYSEA,Infor (India) Private Limited,,https://infor.com,infor.com,,,,,True,False,False
+ASSOC:HYSEA,Informatica Business Solutions Pvt. Ltd.,,https://informatica.com,informatica.com,,,,,True,False,False
+ASSOC:HYSEA,Informatics India,,https://informaticsindia.com,informaticsindia.com,,,,,True,False,False
+ASSOC:GTECH,Infospica Consultancy Services LLP,,https://infospica.com,infospica.com,,,,,True,False,False
+ASSOC:HYSEA,Infoview Systems Incorporated,,https://infoviewsystems.com,infoviewsystems.com,,,,,True,False,False
+ASSOC:HYSEA,Jiva Internet Solutions Pvt. Ltd.,,https://jivainfotech.com,jivainfotech.com,,,,,True,False,False
+ASSOC:HYSEA,Loginsoft Pvt. Ltd.,,https://loginsoft.com,loginsoft.com,,,,,True,False,False
+ASSOC:GTECH,M2H Infotech LLP,,https://m2hinfotech.com,m2hinfotech.com,,,,,True,False,False
+ASSOC:ITAAP,MERGESOFT TECHNOLOGIES PVT LTD IMAGE NOT AVAILABLE,,https://merzesoft.com,merzesoft.com,,,,,True,False,False
+ASSOC:GTECH,Magnicode Solutions Pvt. Ltd.,,https://magnificentcode.com,magnificentcode.com,,,,,True,False,False
+ASSOC:GTECH,Magpii Innovations Private Limited,,https://magpiitech.com,magpiitech.com,,,,,True,False,False
+ASSOC:HYSEA,Maq Softawre,,https://maqsoftware.com,maqsoftware.com,,,,,True,False,False
+ASSOC:HYSEA,Mastech Digital Private Limited,,https://mastechdigital.com,mastechdigital.com,,,,,True,False,False
+ASSOC:HYSEA,Metasoft Solutions,,https://metasoftsolutions.com,metasoftsolutions.com,,,,,True,False,False
+ASSOC:GTECH,Millennium Infologic,,https://millinfo.net,millinfo.net,,,,,True,False,False
+ASSOC:HYSEA,Motivity Labs Private Limited,,https://motivitylabs.com,motivitylabs.com,,,,,True,False,False
+ASSOC:HYSEA,N LABS AI PRIVATE LIMITED,,https://n-labs.ai,n-labs.ai,,,,,True,False,False
+ASSOC:HYSEA,NIIT Incessant Technologies,,https://incessanttechnologies.com,incessanttechnologies.com,,,,,True,False,False
+ASSOC:ITAAP,NIMAISOFT SYSTEMS PVT LTD,,https://nimaisoft.com,nimaisoft.com,,,,,True,False,False
+ASSOC:HYSEA,NTT Data Global Delivery Services Pvt. Ltd.,,https://us.nttdata.com,us.nttdata.com,,,,,True,False,False
+ASSOC:GTECH,NilaSoft Pvt Ltd,,https://nila-soft.com,nila-soft.com,,,,,True,False,False
+ASSOC:GTECH,Noon Technologies,,https://noontechnologies.com,noontechnologies.com,,,,,True,False,False
+ASSOC:HYSEA,OSI Digital,,https://osidigital.com,osidigital.com,,,,,True,False,False
+ASSOC:HYSEA,PMR Softtech Pvt Ltd Innovative Information Technologies,,https://innovativeinfotech.com,innovativeinfotech.com,,,,,True,False,False
+ASSOC:HYSEA,Parnandi Technology Solutions Pvt. Ltd.,,https://parnanditech.com,parnanditech.com,,,,,True,False,False
+ASSOC:HYSEA,Plural Technology Private Limited,,https://pluraltechnology.com,pluraltechnology.com,,,,,True,False,False
+ASSOC:GTECH,Polus Software Pvt. Ltd.,,https://polussoftware.com,polussoftware.com,,,,,True,False,False
+ASSOC:GTECH,QMIS SYSTEMS PRIVATE LIMITED,,https://qmissystems.com,qmissystems.com,,,,,True,False,False
+ASSOC:HYSEA,REQOLENT QUALITY LABS PVT LTD,,https://qualitlabs.com,qualitlabs.com,,,,,True,False,False
+ASSOC:HYSEA,RamInfo Limited,,https://raminfo.com,raminfo.com,,,,,True,False,False
+ASSOC:HYSEA,RanchHill Software Solutions,,https://navasoftware.com,navasoftware.com,,,,,True,False,False
+ASSOC:HYSEA,Revalsys Technologies India Private Limited,,https://revalsys.com,revalsys.com,,,,,True,False,False
+ASSOC:HYSEA,S2Tech.Com India Pvt. Ltd.,,https://s2tech.com,s2tech.com,,,,,True,False,False
+ASSOC:HYSEA,SBase Technologies,,https://sbasetech.net,sbasetech.net,,,,,True,False,False
+ASSOC:GTECH,SCIENTIFIC VISION PRIVATE LIMITED,,https://svsoftware.org,svsoftware.org,,,,,True,False,False
+ASSOC:HYSEA,Saven Nova Technologies Pvt Ltd,,https://saventech.com,saventech.com,,,,,True,False,False
+ASSOC:HYSEA,Selectsys India Pvt. Ltd.,,https://selectsysindia.com,selectsysindia.com,,,,,True,False,False
+ASSOC:HYSEA,Silicon Labs,,https://silabs.com,silabs.com,,,,,True,False,False
+ASSOC:GTECH,Skysmile Technologies Private Limited,,https://skysmiletechnologies.com,skysmiletechnologies.com,,,,,True,False,False
+ASSOC:GTECH,Smart Data Factory,,https://smart-data-factory.de,smart-data-factory.de,,,,,True,False,False
+ASSOC:HYSEA,TECHGENE SOLUTIONS PVT LTD,,https://techgene.com,techgene.com,,,,,True,False,False
+ASSOC:GTECH,TECHMAVEN IT SOLUTIONS PRIVATE LIMITED,,https://techmavenit.com,techmavenit.com,,,,,True,False,False
+ASSOC:HYSEA,TGH Software Solutions Private Limited,,https://techygeekhub.com,techygeekhub.com,,,,,True,False,False
+ASSOC:GTECH,THOUGHTLINE DIGITAL PRIVATE LIMITED,,https://thoughtlinedigital.com,thoughtlinedigital.com,,,,,True,False,False
+ASSOC:GTECH,TOSIL Systems Private Limited,,https://tosil-systems.com,tosil-systems.com,,,,,True,False,False
+ASSOC:HYSEA,TRACERT SERVICES PRIVATE LIMITED,,https://tracert.digital,tracert.digital,,,,,True,False,False
+ASSOC:HYSEA,TTEC Digital Innovation Studio,,https://ttecdigital.com,ttecdigital.com,,,,,True,False,False
+ASSOC:GTECH,Technaureus Info Solutions Private Limited,,https://technaureus.com,technaureus.com,,,,,True,False,False
+ASSOC:GTECH,Technocuz Software Solutions Pvt. Ltd.,,https://technocuz.com,technocuz.com,,,,,True,False,False
+ASSOC:GTECH,Techstas Info Solutions,,https://techstas.com,techstas.com,,,,,True,False,False
+ASSOC:GTECH,Techversant Infotech Pvt. Ltd.,,https://techversantinfotech.com,techversantinfotech.com,,,,,True,False,False
+ASSOC:HYSEA,Tetrasoft India Pvt Ltd,,https://tetrasoft.us,tetrasoft.us,,,,,True,False,False
+ASSOC:GTECH,ThoughtLine Technologies Pvt. Ltd.,,https://thoughtlinetech.com,thoughtlinetech.com,,,,,True,False,False
+ASSOC:GTECH,Tilt Labs,,https://tiltlabs.io,tiltlabs.io,,,,,True,False,False
+ASSOC:HYSEA,Tripod Software Solutions Pvt Ltd,,https://tripodtech.net,tripodtech.net,,,,,True,False,False
+ASSOC:HYSEA,VENDEEP TECHNOIDENTITY SOLUTIONS PRIVATE LIMIT,,https://technoidentity.com,technoidentity.com,,,,,True,False,False
+ASSOC:HYSEA,Vasavi Prosoft Transcription Ltd.,,https://vasaviprosoft.com,vasaviprosoft.com,,,,,True,False,False
+ASSOC:HYSEA,Wings Infonet Private Limited,,https://wingsinfo.net,wingsinfo.net,,,,,True,False,False
+ASSOC:GTECH,Zestybeanz Technologies,,https://zbeanztech.com,zbeanztech.com,,,,,True,False,False
+ASSOC:ITAAP,amaravathisoftware,,https://amaravathisoftware.com,amaravathisoftware.com,,,,,True,False,False
+ASSOC:ITAAP,appsdreamz,,https://appsdreamz.com,appsdreamz.com,,,,,True,False,False
+ASSOC:GESIA,appsrow,,https://appsrow.com,appsrow.com,,,,,True,False,False
+ASSOC:GESIA,augmentedtechlabs,,https://augmentedtechlabs.com,augmentedtechlabs.com,,,,,True,False,False
+ASSOC:ITAAP,bluebytetechnologies,,https://bluebytetechnologies.com,bluebytetechnologies.com,,,,,True,False,False
+ASSOC:ITAAP,bposystems,,https://bposystems.com,bposystems.com,,,,,True,False,False
+ASSOC:ITAAP,camsysind,,https://camsysind.com,camsysind.com,,,,,True,False,False
+ASSOC:ITAAP,chatrtech,,https://chatrtech.com,chatrtech.com,,,,,True,False,False
+ASSOC:GESIA,cizotech,,https://cizotech.com,cizotech.com,,,,,True,False,False
+ASSOC:ITAAP,cloudmaaya,,https://cloudmaaya.com,cloudmaaya.com,,,,,True,False,False
+ASSOC:ITAAP,clovetech,,https://clovetech.com,clovetech.com,,,,,True,False,False
+ASSOC:HYSEA,corporate website design,,https://presentation.revalsys.com,presentation.revalsys.com,,,,,True,False,False
+ASSOC:GESIA,cygnetinfotech,,https://cygnetinfotech.com,cygnetinfotech.com,,,,,True,False,False
+ASSOC:ITAAP,datasoftcomnet,,https://datasoftcomnet.com,datasoftcomnet.com,,,,,True,False,False
+ASSOC:GESIA,deltainfosoft,,https://deltainfosoft.com,deltainfosoft.com,,,,,True,False,False
+ASSOC:ITAAP,disruptivetechsolutions,,https://disruptivetechsolutions.com,disruptivetechsolutions.com,,,,,True,False,False
+ASSOC:GESIA,drcsystems,,https://drcsystems.com,drcsystems.com,,,,,True,False,False
+ASSOC:HYSEA,eLogicTech Solutions India Private Limited,,https://elogictech.com,elogictech.com,,,,,True,False,False
+ASSOC:GESIA,earthsyscom,,https://earthsyscom.com,earthsyscom.com,,,,,True,False,False
+ASSOC:GESIA,ecsinfotech,,https://ecsinfotech.com,ecsinfotech.com,,,,,True,False,False
+ASSOC:GESIA,einfochips,,https://einfochips.com,einfochips.com,,,,,True,False,False
+ASSOC:ITAAP,emugtech,,https://emugtech.com,emugtech.com,,,,,True,False,False
+ASSOC:GESIA,etechgs,,https://etechgs.com,etechgs.com,,,,,True,False,False
+ASSOC:GESIA,fin-soft,,https://fin-soft.com,fin-soft.com,,,,,True,False,False
+ASSOC:ITAAP,gennext-tech,,https://gennext-tech.com,gennext-tech.com,,,,,True,False,False
+ASSOC:GESIA,glidemtech,,https://glidemtech.com,glidemtech.com,,,,,True,False,False
+ASSOC:ITAAP,glssystems,,https://glssystems.com,glssystems.com,,,,,True,False,False
+ASSOC:ITAAP,honeylabs,,https://honeylabs.com,honeylabs.com,,,,,True,False,False
+ASSOC:ITAAP,hrishitatech,,https://hrishitatech.com,hrishitatech.com,,,,,True,False,False
+ASSOC:GESIA,hvinfotech,,https://hvinfotech.com,hvinfotech.com,,,,,True,False,False
+ASSOC:ITAAP,innovateapps,,https://innovateapps.com,innovateapps.com,,,,,True,False,False
+ASSOC:GESIA,itechops,,https://itechops.com,itechops.com,,,,,True,False,False
+ASSOC:ITAAP,jkssofttech,,https://jkssofttech.com,jkssofttech.com,,,,,True,False,False
+ASSOC:ITAAP,juranttech,,https://juranttech.com,juranttech.com,,,,,True,False,False
+ASSOC:GESIA,kalpsystems,,https://kalpsystems.com,kalpsystems.com,,,,,True,False,False
+ASSOC:ITAAP,karthikeyainfominds,,https://karthikeyainfominds.com,karthikeyainfominds.com,,,,,True,False,False
+ASSOC:ITAAP,kpcstech,,https://kpcstech.com,kpcstech.com,,,,,True,False,False
+ASSOC:ITAAP,maltechs,,https://maltechs.com,maltechs.com,,,,,True,False,False
+ASSOC:ITAAP,manuhtech,,https://manuhtech.com,manuhtech.com,,,,,True,False,False
+ASSOC:ITAAP,maple-software,,https://maple-software.com,maple-software.com,,,,,True,False,False
+ASSOC:GESIA,marwaditechnologies,,https://marwaditechnologies.com,marwaditechnologies.com,,,,,True,False,False
+ASSOC:ITAAP,miraclesoft,,https://miraclesoft.com,miraclesoft.com,,,,,True,False,False
+ASSOC:GESIA,motadata,,https://motadata.com,motadata.com,,,,,True,False,False
+ASSOC:GESIA,multicoretechnologies,,https://multicoretechnologies.com,multicoretechnologies.com,,,,,True,False,False
+ASSOC:ITAAP,mylastech,,https://mylastech.com,mylastech.com,,,,,True,False,False
+ASSOC:ITAAP,nicedigitals,,https://nicedigitals.com,nicedigitals.com,,,,,True,False,False
+ASSOC:GESIA,nsiqinfotech,,https://nsiqinfotech.com,nsiqinfotech.com,,,,,True,False,False
+ASSOC:ITAAP,oakstechweb,,https://oakstechweb.com,oakstechweb.com,,,,,True,False,False
+ASSOC:ITAAP,pivotalsoft,,https://pivotalsoft.com,pivotalsoft.com,,,,,True,False,False
+ASSOC:GESIA,prectech,,https://prectech.online,prectech.online,,,,,True,False,False
+ASSOC:ITAAP,primesoftinc,,https://primesoftinc.com,primesoftinc.com,,,,,True,False,False
+ASSOC:GESIA,promptdairytech,,https://promptdairytech.com,promptdairytech.com,,,,,True,False,False
+ASSOC:ITAAP,prospectatech,,https://prospectatech.com,prospectatech.com,,,,,True,False,False
+ASSOC:ITAAP,prutechs,,https://prutechs.com,prutechs.com,,,,,True,False,False
+ASSOC:ITAAP,quantsystemsindia,,https://quantsystemsindia.com,quantsystemsindia.com,,,,,True,False,False
+ASSOC:GESIA,quarkssystems,,https://quarkssystems.com,quarkssystems.com,,,,,True,False,False
+ASSOC:ITAAP,redlapdigital,,https://redlapdigital.com,redlapdigital.com,,,,,True,False,False
+ASSOC:ITAAP,ritsinfosolutions,,https://ritsinfosolutions.com,ritsinfosolutions.com,,,,,True,False,False
+ASSOC:GESIA,rudratechnocare,,https://rudratechnocare.com,rudratechnocare.com,,,,,True,False,False
+ASSOC:ITAAP,sainfotechnology,,https://sainfotechnology.com,sainfotechnology.com,,,,,True,False,False
+ASSOC:ITAAP,samudrasoftware,,https://samudrasoftware.com,samudrasoftware.com,,,,,True,False,False
+ASSOC:ITAAP,schemaxtech,,https://schemaxtech.com,schemaxtech.com,,,,,True,False,False
+ASSOC:GESIA,seeddatasystems,,https://seeddatasystems.com,seeddatasystems.com,,,,,True,False,False
+ASSOC:ITAAP,sgtechsolutions,,https://sgtechsolutions.com,sgtechsolutions.com,,,,,True,False,False
+ASSOC:ITAAP,shoveltech,,https://shoveltech.com,shoveltech.com,,,,,True,False,False
+ASSOC:GESIA,shridharinfosec,,https://shridharinfosec.com,shridharinfosec.com,,,,,True,False,False
+ASSOC:GESIA,siliconcomputech,,https://siliconcomputech.com,siliconcomputech.com,,,,,True,False,False
+ASSOC:GESIA,skynettechnologies,,https://skynettechnologies.com,skynettechnologies.com,,,,,True,False,False
+ASSOC:ITAAP,sweyainfotech,,https://sweyainfotech.com,sweyainfotech.com,,,,,True,False,False
+ASSOC:ITAAP,symbiosystech,,https://symbiosystech.com,symbiosystech.com,,,,,True,False,False
+ASSOC:ITAAP,tamminainfotech,,https://tamminainfotech.com,tamminainfotech.com,,,,,True,False,False
+ASSOC:ITAAP,techbium,,https://techbium.com,techbium.com,,,,,True,False,False
+ASSOC:ITAAP,techeleves,,https://techeleves.com,techeleves.com,,,,,True,False,False
+ASSOC:ITAAP,techonvoy,,https://techonvoy.com,techonvoy.com,,,,,True,False,False
+ASSOC:GESIA,techultrasolutions,,https://techultrasolutions.com,techultrasolutions.com,,,,,True,False,False
+ASSOC:ITAAP,tideltech,,https://tideltech.com,tideltech.com,,,,,True,False,False
+ASSOC:GESIA,tmsolutech,,https://tmsolutech.com,tmsolutech.com,,,,,True,False,False
+ASSOC:ITAAP,turiyasoftech,,https://turiyasoftech.com,turiyasoftech.com,,,,,True,False,False
+ASSOC:GESIA,varahisoft,,https://varahisoft.com,varahisoft.com,,,,,True,False,False
+ASSOC:ITAAP,vegaprosys,,https://vegaprosys.com,vegaprosys.com,,,,,True,False,False
+ASSOC:ITAAP,vinfocode,,https://vinfocode.com,vinfocode.com,,,,,True,False,False
+ASSOC:ITAAP,vsinfotech,,https://vsinfotech.co,vsinfotech.co,,,,,True,False,False
+ASSOC:GESIA,webbellsolutions,,https://webbellsolutions.com,webbellsolutions.com,,,,,True,False,False
+ASSOC:GESIA,weblogysphere,,https://weblogysphere.com,weblogysphere.com,,,,,True,False,False
+ASSOC:ITAAP,webskysolutions,,https://webskysolutions.com,webskysolutions.com,,,,,True,False,False
+ASSOC:ITAAP,www,,https://expandsoftwaresolut,expandsoftwaresolut,,,,,True,False,False
+ASSOC:ITAAP,21cssindia,,https://21cssindia.com,21cssindia.com,,,,,True,False,False
+ASSOC:GTECH,9Commerce Technologies LLP,,https://commerce9.io,commerce9.io,,,,,True,False,False
+ASSOC:HYSEA,ACS Solutions,,https://acsicorp.com,acsicorp.com,,,,,True,False,False
+ASSOC:GTECH,ADAPTIVE CYBER LABS (ACL),,https://acl.ai,acl.ai,,,,,True,False,False
+ASSOC:ITAAP,AEP CERTIFICATION IMAGE NOT AVAILABLE,,https://aepcrt.org,aepcrt.org,,,,,True,False,False
+ASSOC:HYSEA,APS Property Solutions Pvt. Ltd.,,https://aps-india.com,aps-india.com,,,,,True,False,False
+ASSOC:GTECH,ARCH GLOBAL SERVICES (INDIA) PRIVATE LIMITED,,https://archgroup.com,archgroup.com,,,,,True,False,False
+ASSOC:GTECH,ARS Traffic and Transport Technology (India) Pvt Ltd,,https://ars-traffic.com,ars-traffic.com,,,,,True,False,False
+ASSOC:HYSEA,Accolite Digital India Pvt. Ltd.,,https://accolite.com,accolite.com,,,,,True,False,False
+ASSOC:HYSEA,Advisory & Transformation,,https://cigniti.com,cigniti.com,,,,,True,False,False
+ASSOC:HYSEA,Agora Labs India Pvt Ltd,,https://agora.io,agora.io,,,,,True,False,False
+ASSOC:HYSEA,Ahuja Engineering Services Pvt Ltd,,https://aespl-india.com,aespl-india.com,,,,,True,False,False
+ASSOC:GTECH,Aiqo,,https://aiqo.uk,aiqo.uk,,,,,True,False,False
+ASSOC:HYSEA,Airleau private limited,,https://atmos-water.com,atmos-water.com,,,,,True,False,False
+ASSOC:GTECH,Akira Software Solutions Pvt. Ltd,,https://smartschoolerp.com,smartschoolerp.com,,,,,True,False,False
+ASSOC:GTECH,Alamy Images India Pvt. Ltd.,,https://alamy.com,alamy.com,,,,,True,False,False
+ASSOC:HYSEA,Algoleap Technologies Private Limited,,https://algoleap.com,algoleap.com,,,,,True,False,False
+ASSOC:GTECH,Allianz Cornhill,,https://allianz.com,allianz.com,,,,,True,False,False
+ASSOC:ITAAP,Aloka Infotech Solutions Private Limited IMAGE NOT AVAILABLE,,https://alokait.com,alokait.com,,,,,True,False,False
+ASSOC:ITAAP,Amara Raja Electronics Ltd IMAGE NOT AVAILABLE,,https://amararajaelectronics.com,amararajaelectronics.com,,,,,True,False,False
+ASSOC:GTECH,Amdrodd Technologies Private Limited,,https://amdrodd.com,amdrodd.com,,,,,True,False,False
+ASSOC:ITAAP,Anblink Solutions Pvt Ltd IMAGE NOT AVAILABLE,,https://anblicks.com,anblicks.com,,,,,True,False,False
+ASSOC:HYSEA,Anion Health Care Services,,https://anion.com,anion.com,,,,,True,False,False
+ASSOC:HYSEA,Annexacc Software Solutions India Pvt Ltd,,https://annexacc.com,annexacc.com,,,,,True,False,False
+ASSOC:HYSEA,Argano Software Pvt. Ltd.,,https://argano.com,argano.com,,,,,True,False,False
+ASSOC:HYSEA,AssetVault India Private Limited,,https://aasaanwill.com,aasaanwill.com,,,,,True,False,False
+ASSOC:HYSEA,Auropro Soft Systems Private Limited,,https://auropro.com,auropro.com,,,,,True,False,False
+ASSOC:HYSEA,Aveva Software India Pvt. Ltd.,,https://aveva.com,aveva.com,,,,,True,False,False
+ASSOC:HYSEA,BROKEN ENTREPRENEURS PRIVATE LIMITED,,https://brokenatom.io,brokenatom.io,,,,,True,False,False
+ASSOC:HYSEA,BYTEXL TECHED PRIVATE LIMITED,,https://bytexl.com,bytexl.com,,,,,True,False,False
+ASSOC:GTECH,Baabte System Technologies Pvt Ltd,,https://baabte.com,baabte.com,,,,,True,False,False
+ASSOC:GTECH,Beagle Security,,https://beaglesecurity.com,beaglesecurity.com,,,,,True,False,False
+ASSOC:HYSEA,Berenike & Bion Technologies Pvt Ltd,,https://berenikebion.com,berenikebion.com,,,,,True,False,False
+ASSOC:HYSEA,Blackbaud Solutions India Private Limited,,https://blackbaud.com,blackbaud.com,,,,,True,False,False
+ASSOC:HYSEA,Blaize New Computing Technologies India Private Limited,,https://blaize.com,blaize.com,,,,,True,False,False
+ASSOC:HYSEA,Bourntec Solutions Pvt Ltd,,https://bourntec.com,bourntec.com,,,,,True,False,False
+ASSOC:GTECH,BrandFell Technologies PVT LTD,,https://brandfell.com,brandfell.com,,,,,True,False,False
+ASSOC:HYSEA,CADVision Engineers Pvt Ltd,,https://cadvisionengineers.com,cadvisionengineers.com,,,,,True,False,False
+ASSOC:GTECH,CATALYCA,,https://catalyca.com,catalyca.com,,,,,True,False,False
+ASSOC:HYSEA,CDK Global (India) Pvt. Ltd.,,https://cdkglobal.com,cdkglobal.com,,,,,True,False,False
+ASSOC:HYSEA,COGNITIVZEN TECHNOLOGIES PRIVATE LIMITED,,https://cognitivzen.com,cognitivzen.com,,,,,True,False,False
+ASSOC:GTECH,CONCEPTNXT TECHNOLOGIES LLP,,https://conceptnxt.com,conceptnxt.com,,,,,True,False,False
+ASSOC:HYSEA,CONVERGEONE INDIA PRIVATE LIMITED,,https://onec1.com,onec1.com,,,,,True,False,False
+ASSOC:HYSEA,Cadeploy Engineering Pvt Ltd,,https://cadeploy.com,cadeploy.com,,,,,True,False,False
+ASSOC:HYSEA,Careerpedia Edutech Pvt Ltd,,https://careerpedia.co,careerpedia.co,,,,,True,False,False
+ASSOC:GTECH,Carestack,,https://carestack.com,carestack.com,,,,,True,False,False
+ASSOC:HYSEA,Cheerio AI Technologies Pvt Ltd,,https://cheerioai.com,cheerioai.com,,,,,True,False,False
+ASSOC:HYSEA,Chidhagni consulting private limited,,https://chidhagni.com,chidhagni.com,,,,,True,False,False
+ASSOC:GTECH,Cinch Business Solutions Pvt. Ltd.,,https://gogch.com,gogch.com,,,,,True,False,False
+ASSOC:HYSEA,Coffee Table Book,,https://heyzine.com,heyzine.com,,,,,True,False,False
+ASSOC:GTECH,Cognitive Computing Services Private Limited,,https://ccsplonline.com,ccsplonline.com,,,,,True,False,False
+ASSOC:GTECH,Cognub Decisions Solutions,,https://cognub.com,cognub.com,,,,,True,False,False
+ASSOC:HYSEA,Colruyt It Consultancy India Pvt. Ltd.,,https://in.colruytgroup.com,in.colruytgroup.com,,,,,True,False,False
+ASSOC:HYSEA,Computershare Business Support Service,,https://computershare.com,computershare.com,,,,,True,False,False
+ASSOC:GTECH,CoolMinds Technologies Pvt. Ltd.,,https://coolmindsinc.com,coolmindsinc.com,,,,,True,False,False
+ASSOC:HYSEA,Coretek Labs India Private Limited,,https://coretek.io,coretek.io,,,,,True,False,False
+ASSOC:ITAAP,Coursack Software Solutions Private Limited IMAGE NOT AVAILABLE,,https://coursack.com,coursack.com,,,,,True,False,False
+ASSOC:GTECH,"Crazydes - UX UI Design, CX, Product Design",,https://crazydes.com,crazydes.com,,,,,True,False,False
+ASSOC:GESIA,CrossShores Infotech,,https://crossshores.com,crossshores.com,,,,,True,False,False
+ASSOC:GTECH,Cycloides,,https://cycloides.com,cycloides.com,,,,,True,False,False
+ASSOC:GTECH,DCUBE AI SYSTEMS AND SERVICES PRIVATE LIMITED,,https://dcubeai.com,dcubeai.com,,,,,True,False,False
+ASSOC:HYSEA,DEVORKS SOLUTIONS PVT LTD,,https://devorks.com,devorks.com,,,,,True,False,False
+ASSOC:HYSEA,DISPATCHTRACK INDIA PVT LTD,,https://dispatchtrack.com,dispatchtrack.com,,,,,True,False,False
+ASSOC:HYSEA,Deccan AI Automation Private Limited,,https://deccan.ai,deccan.ai,,,,,True,False,False
+ASSOC:HYSEA,Deepija Telecom Pvt. Ltd.,,https://deepijatel.com,deepijatel.com,,,,,True,False,False
+ASSOC:HYSEA,Demandbase India Private Limited,,https://demandbase.com,demandbase.com,,,,,True,False,False
+ASSOC:HYSEA,Dextara Digital Private Ltd,,https://dextara.com,dextara.com,,,,,True,False,False
+ASSOC:GTECH,Diagnal Technologies Private Limited,,https://diagnal.com,diagnal.com,,,,,True,False,False
+ASSOC:HYSEA,Digitally Empowered Contact Centers,,https://firstsource.com,firstsource.com,,,,,True,False,False
+ASSOC:GTECH,Dimensions,,https://dimensionsgroup.com,dimensionsgroup.com,,,,,True,False,False
+ASSOC:GTECH,Dinoct Inc,,https://dinoct.com,dinoct.com,,,,,True,False,False
+ASSOC:GTECH,E-Team Informatica Pvt. Ltd.,,https://gruppozenit.com,gruppozenit.com,,,,,True,False,False
+ASSOC:GTECH,EJGates Global Private Limited,,https://ejgates.com,ejgates.com,,,,,True,False,False
+ASSOC:GTECH,EQS WEB TECHNOLOGIES PRIVATE LIMITED,,https://eqs.com,eqs.com,,,,,True,False,False
+ASSOC:HYSEA,Eliscription Pvt Ltd,,https://eliscription.com,eliscription.com,,,,,True,False,False
+ASSOC:GTECH,Elsys Intelligent Devices Pvt. Ltd,,https://rakshasafedrive.com,rakshasafedrive.com,,,,,True,False,False
+ASSOC:HYSEA,Emblix Solutions,,https://emblixsolutions.com,emblixsolutions.com,,,,,True,False,False
+ASSOC:HYSEA,Enormous It Services Pvt. Ltd.,,https://enormousit.com,enormousit.com,,,,,True,False,False
+ASSOC:HYSEA,Enterprise software development & consulting services Company,,https://halcyontek.com,halcyontek.com,,,,,True,False,False
+ASSOC:GTECH,Envestnet Asset Management India Pvt Ltd,,https://envestnet.com,envestnet.com,,,,,True,False,False
+ASSOC:GTECH,Exacore IT Solutions Pvt Ltd,,https://exacoreitsolutions.com,exacoreitsolutions.com,,,,,True,False,False
+ASSOC:HYSEA,Exceed Management Pvt. Ltd.,,https://exceedm.com,exceedm.com,,,,,True,False,False
+ASSOC:HYSEA,Exceloid Soft Systems Private Limited,,https://exceloid.com,exceloid.com,,,,,True,False,False
+ASSOC:GTECH,Experion Technologies India Pvt. Ltd.,,https://experionglobal.com,experionglobal.com,,,,,True,False,False
+ASSOC:HYSEA,Externetworks India Pvt. Ltd.,,https://externetworks.com,externetworks.com,,,,,True,False,False
+ASSOC:GTECH,FAYA Innovations Pvt. Ltd.,,https://fayausa.com,fayausa.com,,,,,True,False,False
+ASSOC:HYSEA,FEUJI SOFTWARE SOLUTIONS PVT LTD,,https://feuji.com,feuji.com,,,,,True,False,False
+ASSOC:HYSEA,FINT SOLUTIONS PRIVATE LIMITED,,https://fintinc.com,fintinc.com,,,,,True,False,False
+ASSOC:HYSEA,FIX FLYER INFORMATION TECHNOLOGIES PRIVATE LIMITED,,https://flyerft.com,flyerft.com,,,,,True,False,False
+ASSOC:GTECH,Fischer Systems India Pvt. Ltd.,,https://fisc.com,fisc.com,,,,,True,False,False
+ASSOC:GTECH,Fly txt,,https://flytxt.com,flytxt.com,,,,,True,False,False
+ASSOC:GTECH,Fortuler Business Solutions Private Limited,,https://fortuler.com,fortuler.com,,,,,True,False,False
+ASSOC:GTECH,Founding Minds Software Pvt. Ltd.,,https://foundingminds.com,foundingminds.com,,,,,True,False,False
+ASSOC:HYSEA,FoxFire Technologies (India) Ltd.,,https://foxfireindia.com,foxfireindia.com,,,,,True,False,False
+ASSOC:HYSEA,GN Audio India Pvt Ltd,,https://gn.com,gn.com,,,,,True,False,False
+ASSOC:HYSEA,Gainsight Software Pvt. Ltd.,,https://gainsight.com,gainsight.com,,,,,True,False,False
+ASSOC:GTECH,Genpro Research Private Ltd,,https://clapresearch.com,clapresearch.com,,,,,True,False,False
+ASSOC:HYSEA,Global Outlook Pvt. Ltd.,,https://globaloutlook.com,globaloutlook.com,,,,,True,False,False
+ASSOC:GTECH,Grid Engineering Services Pvt. Ltd.,,https://gridengineeringservices.com,gridengineeringservices.com,,,,,True,False,False
+ASSOC:GTECH,Guidehouse India Private Limited,,https://guidehouse.com,guidehouse.com,,,,,True,False,False
+ASSOC:GTECH,H&R Block Global Technology Center,,https://hrblock.com,hrblock.com,,,,,True,False,False
+ASSOC:HYSEA,HFS Research India Private Limited,,https://hfsresearch.com,hfsresearch.com,,,,,True,False,False
+ASSOC:HYSEA,Hackett Group (India) Ltd.,,https://thehackettgroup.com,thehackettgroup.com,,,,,True,False,False
+ASSOC:HYSEA,Harsco India Services Pvt. Ltd.,,https://harsco.com,harsco.com,,,,,True,False,False
+ASSOC:GTECH,Hubrum Innovations Pvt Ltd,,https://hubrum.com,hubrum.com,,,,,True,False,False
+ASSOC:HYSEA,I-RAY IT SOLUTIONS PRIVATE LIMITED,,https://irayitsolutions.com,irayitsolutions.com,,,,,True,False,False
+ASSOC:HYSEA,IBEE Hosting,,https://ibeehosting.com,ibeehosting.com,,,,,True,False,False
+ASSOC:GTECH,IBIL SOLUTIONS PRIVATE LIMITED,,https://ibilglobal.com,ibilglobal.com,,,,,True,False,False
+ASSOC:HYSEA,ICE Data Services India Pvt. Ltd.,,https://theice.com,theice.com,,,,,True,False,False
+ASSOC:GTECH,IMPAQTIVE TECHNOLOGIES INDIA PRIVATE LIMITED,,https://impaqtive.com,impaqtive.com,,,,,True,False,False
+ASSOC:HYSEA,IMPAXIVE SOLUTIONS PRIVATE LIMITED,,https://impaxivesolutions.com,impaxivesolutions.com,,,,,True,False,False
+ASSOC:HYSEA,INMAR TECHNOLOGIES PRIVATE LIMITED,,https://inmar.com,inmar.com,,,,,True,False,False
+ASSOC:GTECH,IdeaGCS Pvt Ltd,,https://ideagcs.com,ideagcs.com,,,,,True,False,False
+ASSOC:HYSEA,Innominds Software Pvt. Ltd.,,https://innominds.com,innominds.com,,,,,True,False,False
+ASSOC:GTECH,Innoneur IT Ventures Private Limited,,https://innoneur.com,innoneur.com,,,,,True,False,False
+ASSOC:HYSEA,Innvectra Info Solutions Pvt. Ltd.,,https://innvectra.com,innvectra.com,,,,,True,False,False
+ASSOC:HYSEA,Insideview Technologies India Pvt. Ltd.,,https://insideview.com,insideview.com,,,,,True,False,False
+ASSOC:HYSEA,Intellect Design Arena,,https://intellectdesign.com,intellectdesign.com,,,,,True,False,False
+ASSOC:HYSEA,Inteq Software LLP,,https://inteqsolutions.com,inteqsolutions.com,,,,,True,False,False
+ASSOC:HYSEA,KAB Educational Services Pvt. Ltd,,https://kabconsultants.com,kabconsultants.com,,,,,True,False,False
+ASSOC:GTECH,KLIVOLKS PRIVATE LIMITED,,https://klivolks.com,klivolks.com,,,,,True,False,False
+ASSOC:HYSEA,Kagool Data Pvt. Ltd.,,https://kagool.com,kagool.com,,,,,True,False,False
+ASSOC:GTECH,Kennedys Kognitive Computing Private Limited,,https://kennedysiq.com,kennedysiq.com,,,,,True,False,False
+ASSOC:GTECH,Koncepts Lab,,https://konceptslab.com,konceptslab.com,,,,,True,False,False
+ASSOC:HYSEA,Kony India Pvt. Ltd.,,https://kony.com,kony.com,,,,,True,False,False
+ASSOC:GTECH,LMonk Educational and Training Solutions Pvt Ltd,,https://lmonk.com,lmonk.com,,,,,True,False,False
+ASSOC:HYSEA,Lera Technologies Pvt. Ltd.,,https://lera.us,lera.us,,,,,True,False,False
+ASSOC:ITAAP,Little Carrots India Private Limited IMAGE NOT AVAILABLE,,https://littlecarrots.com,littlecarrots.com,,,,,True,False,False
+ASSOC:GTECH,Livares Technologies Pvt. Ltd.,,https://livares.com,livares.com,,,,,True,False,False
+ASSOC:HYSEA,LogicMatter India Private Limited,,https://logicmatter.com,logicmatter.com,,,,,True,False,False
+ASSOC:HYSEA,MA IT Solution Pvt. Ltd.,,https://mait-solutions.com,mait-solutions.com,,,,,True,False,False
+ASSOC:HYSEA,MADHEES TECHNO CONSULTING PRIVATE LIMITED,,https://madhees.com,madhees.com,,,,,True,False,False
+ASSOC:HYSEA,MAGANTI IT SOLUTIONS PRIVATE LIMITED,,https://mitresource.com,mitresource.com,,,,,True,False,False
+ASSOC:HYSEA,MANOMAY CONSULTANCY SERVICES INDIA PRIVATE LIMITED,,https://manomay.biz,manomay.biz,,,,,True,False,False
+ASSOC:HYSEA,MAVEN FACILITY MANAGEMENT SERVICES PRIVATE LIMITED,,https://mavenfms.com,mavenfms.com,,,,,True,False,False
+ASSOC:HYSEA,MCDONALDS CAPABILITY CENTER (I) PVT LTD,,https://mcdindia.com,mcdindia.com,,,,,True,False,False
+ASSOC:GTECH,MINDCURV TECHNOLOGY SOLUTIONS PRIVATE LIMITED,,https://mindcurv.com,mindcurv.com,,,,,True,False,False
+ASSOC:GTECH,MONDO FUSION,,https://mondofusion.com,mondofusion.com,,,,,True,False,False
+ASSOC:HYSEA,ManVision Technologies Pvt Ltd,,https://manvision.net,manvision.net,,,,,True,False,False
+ASSOC:HYSEA,Mattel Global Business Services LLP,,https://shop.mattel.com,shop.mattel.com,,,,,True,False,False
+ASSOC:GTECH,Mcfadyen Consuting Solutions Pvt. Ltd.,,https://mcfadyen.com,mcfadyen.com,,,,,True,False,False
+ASSOC:GTECH,Microm - Ttransforme Technologies,,https://micromcrm.com,micromcrm.com,,,,,True,False,False
+ASSOC:HYSEA,Micron Technology Operations India LLP,,https://in.micron.com,in.micron.com,,,,,True,False,False
+ASSOC:HYSEA,Millennium Technosoft Ltd.,,https://mtslindia.com,mtslindia.com,,,,,True,False,False
+ASSOC:GTECH,Mirox Cyber Security & Technology Pvt. Ltd.,,https://miroxindia.com,miroxindia.com,,,,,True,False,False
+ASSOC:GTECH,Mobatia Technology Pvt. Ltd.,,https://mobatia.com,mobatia.com,,,,,True,False,False
+ASSOC:HYSEA,Mobis India Limited,,https://mobis.com,mobis.com,,,,,True,False,False
+ASSOC:HYSEA,Model N India Software Pvt. Ltd.,,https://modeln.com,modeln.com,,,,,True,False,False
+ASSOC:HYSEA,Monarch Infotech Services Private Limited,,https://mitsind.com,mitsind.com,,,,,True,False,False
+ASSOC:HYSEA,Moschip Technologies Limited,,https://moschip.com,moschip.com,,,,,True,False,False
+ASSOC:GTECH,Mozilor Technologies Pvt Ltd,,https://mozilor.com,mozilor.com,,,,,True,False,False
+ASSOC:GTECH,NEOITO,,https://neoito.com,neoito.com,,,,,True,False,False
+ASSOC:HYSEA,NICHEBIT SOFTECH PRIVATE LIMITED,,https://nichebit.com,nichebit.com,,,,,True,False,False
+ASSOC:HYSEA,NOVULIS GLOBAL SOLUTIONS PRIVATE LIMITED,,https://novulis.com,novulis.com,,,,,True,False,False
+ASSOC:HYSEA,NetElixir Digital Marketing Solutions,,https://netelixir.com,netelixir.com,,,,,True,False,False
+ASSOC:HYSEA,Nevexa Digital Pvt. Ltd.,,https://nevexa.com,nevexa.com,,,,,True,False,False
+ASSOC:HYSEA,Nimmetry Technologies Pvt. Ltd.,,https://nimmetry.com,nimmetry.com,,,,,True,False,False
+ASSOC:HYSEA,Notaceon Technologies Private Limited,,https://notaceon.com,notaceon.com,,,,,True,False,False
+ASSOC:HYSEA,ODC APTS ISO Certifications Services,,https://odchyd.com,odchyd.com,,,,,True,False,False
+ASSOC:HYSEA,Oakton Global Technology Services Centre (India) Pvt. Ltd.,,https://companies.naukri.com,companies.naukri.com,,,,,True,False,False
+ASSOC:GTECH,Ontash India Technologies Pvt Ltd,,https://ontash.net,ontash.net,,,,,True,False,False
+ASSOC:HYSEA,Oorwin Labs India PVT LTD.,,https://oorwin.com,oorwin.com,,,,,True,False,False
+ASSOC:GTECH,Oregon Technologies,,https://ortecindia.com,ortecindia.com,,,,,True,False,False
+ASSOC:GTECH,Ospyn Technologies Pvt. Ltd.,,https://ospyn.com,ospyn.com,,,,,True,False,False
+ASSOC:HYSEA,OwnBackup India Private Limited,,https://ownbackup.com,ownbackup.com,,,,,True,False,False
+ASSOC:GTECH,PACEXCEL IT SOLUTIONS PRIVATE LIMITED,,https://paxcel.ai,paxcel.ai,,,,,True,False,False
+ASSOC:HYSEA,PHOENIX INFRATECH (INDIA) PRIVATE LIMITED,,https://phoenixindia.net,phoenixindia.net,,,,,True,False,False
+ASSOC:HYSEA,PIERIAN SERVICES PRIVATE LIMITED,,https://pierianservices.com,pierianservices.com,,,,,True,False,False
+ASSOC:HYSEA,PROITCON SOLUTIONS LLP,,https://proitconsolutions.com,proitconsolutions.com,,,,,True,False,False
+ASSOC:HYSEA,Pactera Technologies India Pvt. Ltd.,,https://en.pactera.com,en.pactera.com,,,,,True,False,False
+ASSOC:GTECH,Palnar Transmedia Pvt. Ltd.,,https://palnarindia.com,palnarindia.com,,,,,True,False,False
+ASSOC:HYSEA,People Prime Worldwide Private Limited,,https://people-prime.com,people-prime.com,,,,,True,False,False
+ASSOC:HYSEA,Planful Software India Private Limited,,https://planful.com,planful.com,,,,,True,False,False
+ASSOC:HYSEA,Plume Design India Private Limited,,https://plume.com,plume.com,,,,,True,False,False
+ASSOC:HYSEA,Polaris Financial Technology Ltd.,,https://polarisft.com,polarisft.com,,,,,True,False,False
+ASSOC:HYSEA,ProArch IT Solutions Pvt Ltd,,https://proarch.com,proarch.com,,,,,True,False,False
+ASSOC:HYSEA,Prokarma Softech Pvt. Ltd.,,https://prokarma.com,prokarma.com,,,,,True,False,False
+ASSOC:HYSEA,Promantra Synergy Solutions Ltd.,,https://promantra.us,promantra.us,,,,,True,False,False
+ASSOC:GTECH,QBurst Technologies Pvt. Ltd.,,https://qburst.com,qburst.com,,,,,True,False,False
+ASSOC:GTECH,QC VERIFY PRIVATE LIMITED,,https://qcverify.com,qcverify.com,,,,,True,False,False
+ASSOC:HYSEA,QRC ASSURANCE AND SOLUTIONS PRIVATE LIMITED,,https://qrcsolutionz.com,qrcsolutionz.com,,,,,True,False,False
+ASSOC:GTECH,Quadance Technologies,,https://quadance.com,quadance.com,,,,,True,False,False
+ASSOC:HYSEA,Quantum Ubiquitous,,https://qubi.network,qubi.network,,,,,True,False,False
+ASSOC:GTECH,Quinoid Business Solutions Private Limited,,https://quinoid.com,quinoid.com,,,,,True,False,False
+ASSOC:GTECH,REON TECHNOLOGIES PRIVATE LIMITED,,https://reontel.com,reontel.com,,,,,True,False,False
+ASSOC:HYSEA,REVOLUTION ENTERTAINMENT SERVICES PRIVATE LIMITED,,https://revolutiones.com,revolutiones.com,,,,,True,False,False
+ASSOC:GTECH,RSGP Consulting Private Limited,,https://rsgpconsult.com,rsgpconsult.com,,,,,True,False,False
+ASSOC:GTECH,Red Team Academy,,https://redteamacademy.com,redteamacademy.com,,,,,True,False,False
+ASSOC:HYSEA,Renee Systems India Pvt Ltd,,https://renee.ai,renee.ai,,,,,True,False,False
+ASSOC:GTECH,Revyrie Global,,https://revyrieglobal.com,revyrieglobal.com,,,,,True,False,False
+ASSOC:HYSEA,Ridhira Living Private Limited,,https://ridhira.com,ridhira.com,,,,,True,False,False
+ASSOC:HYSEA,Rimini Street India Operations Private Limited,,https://riministreet.com,riministreet.com,,,,,True,False,False
+ASSOC:HYSEA,S P A Enterprise Info Services (India) Pvt Ltd,,https://spaplc.com,spaplc.com,,,,,True,False,False
+ASSOC:HYSEA,S P Capital IQ India Pvt. Ltd.,,https://spglobal.com,spglobal.com,,,,,True,False,False
+ASSOC:HYSEA,S3 Connections Pvt Ltd,,https://s3connections.com,s3connections.com,,,,,True,False,False
+ASSOC:HYSEA,SAAS Softpro Leaders Private Limited,,https://saasleaders.com,saasleaders.com,,,,,True,False,False
+ASSOC:HYSEA,SAFA Society,,https://safaindia.org,safaindia.org,,,,,True,False,False
+ASSOC:GTECH,SEQATO Software Solutions Pvt Ltd.,,https://seqato.com,seqato.com,,,,,True,False,False
+ASSOC:HYSEA,SHIPCONSOLE Private Limited,,https://shipconsole.com,shipconsole.com,,,,,True,False,False
+ASSOC:GTECH,SREYO TECH WEB INNOVATIONS PRIVATE LIMITED,,https://sreyo.com,sreyo.com,,,,,True,False,False
+ASSOC:HYSEA,SYSTEMS ADVISERS SOFTWARE SERVICES PRIVATE,,https://saglobal.com,saglobal.com,,,,,True,False,False
+ASSOC:GTECH,Sequoia Applied Technologies,,https://sequoiaat.com,sequoiaat.com,,,,,True,False,False
+ASSOC:HYSEA,Serole Info Technologies India Private Limited,,https://serole.com,serole.com,,,,,True,False,False
+ASSOC:HYSEA,SignitivesIT Solutions Private Limited,,https://signitives.net,signitives.net,,,,,True,False,False
+ASSOC:GTECH,Simplogics Solutions Pvt. Ltd.,,https://simplogics.com,simplogics.com,,,,,True,False,False
+ASSOC:HYSEA,SiriNiti Techsource Pvt. Ltd,,https://siriniti.net,siriniti.net,,,,,True,False,False
+ASSOC:HYSEA,Smart IMS India Pvt Ltd,,https://smartims.com,smartims.com,,,,,True,False,False
+ASSOC:HYSEA,Star Consulting Global,,https://starconsultingglobal.com,starconsultingglobal.com,,,,,True,False,False
+ASSOC:HYSEA,State Street Corporate Services Mumbai Pvt. Ltd.,,https://statestreet.com,statestreet.com,,,,,True,False,False
+ASSOC:GTECH,SubHosting Innovations Pvt. Ltd.,,https://subhosting.net,subhosting.net,,,,,True,False,False
+ASSOC:HYSEA,Sweya Information Technologies Pvt Ltd,,https://sweya.ai,sweya.ai,,,,,True,False,False
+ASSOC:HYSEA,TALENT JOIN CRAFTERS HR PRIVATE LIMITED,,https://talentjoin.com,talentjoin.com,,,,,True,False,False
+ASSOC:HYSEA,TM INPUTS AND SERVICES PRIVATE LIMITED,,https://tminetwork.com,tminetwork.com,,,,,True,False,False
+ASSOC:GTECH,TRIVAND TECHNOLOGIES PRIVATE LIMITED,,https://trivand.com,trivand.com,,,,,True,False,False
+ASSOC:HYSEA,Targetorate Consulting LLP,,https://targetorate.us,targetorate.us,,,,,True,False,False
+ASSOC:HYSEA,Techno Kreeyaa Pvt Ltd,,https://kreeyaa.com,kreeyaa.com,,,,,True,False,False
+ASSOC:GTECH,Teknokraaft Info Systems Pvt. Ltd.,,https://teknokraaft.com,teknokraaft.com,,,,,True,False,False
+ASSOC:HYSEA,Tema Business Systems Pvt. Ltd.,,https://tema-global.com,tema-global.com,,,,,True,False,False
+ASSOC:GTECH,Terrific Minds,,https://terrificminds.com,terrificminds.com,,,,,True,False,False
+ASSOC:HYSEA,The Magazine Manager,,https://magazinemanager.com,magazinemanager.com,,,,,True,False,False
+ASSOC:GTECH,Times World Media & Technology Solutions Pvt Ltd,,https://timesworld.com,timesworld.com,,,,,True,False,False
+ASSOC:GTECH,Toonz Animation India Pvt. Ltd.,,https://toonz.co,toonz.co,,,,,True,False,False
+ASSOC:HYSEA,Tradeleaves India Pvt. Ltd.,,https://tradeleaves.com,tradeleaves.com,,,,,True,False,False
+ASSOC:HYSEA,TransGraph Consulting Private Limited,,https://transgraph.com,transgraph.com,,,,,True,False,False
+ASSOC:HYSEA,Transcend Street India Private Limited,,https://transcendstreet.com,transcendstreet.com,,,,,True,False,False
+ASSOC:GTECH,Travancore Analytics Pvt. Ltd.,,https://travancoreanalytics.com,travancoreanalytics.com,,,,,True,False,False
+ASSOC:HYSEA,Tredence Inc,,https://tredence.com,tredence.com,,,,,True,False,False
+ASSOC:GTECH,Trenser Technology Solutions (P) Ltd.,,https://trenser.com,trenser.com,,,,,True,False,False
+ASSOC:GTECH,Triassic Solutions Private Limited,,https://triassicsolutions.com,triassicsolutions.com,,,,,True,False,False
+ASSOC:HYSEA,Triniti Advanced Software Labs Pvt. Ltd.,,https://triniti.com,triniti.com,,,,,True,False,False
+ASSOC:GTECH,Tryzens India Pvt Ltd,,https://tryzens.com,tryzens.com,,,,,True,False,False
+ASSOC:GTECH,US Technology International Pvt. Ltd.,,https://ust-global.com,ust-global.com,,,,,True,False,False
+ASSOC:HYSEA,Unisontech Services India Pvt Ltd,,https://unisongroup.com,unisongroup.com,,,,,True,False,False
+ASSOC:GTECH,Valorem Pvt. Ltd.,,https://valoremreply.com,valoremreply.com,,,,,True,False,False
+ASSOC:GTECH,Verbat Technologies (India) Pvt. Ltd.,,https://verbat.com,verbat.com,,,,,True,False,False
+ASSOC:HYSEA,Verisk Analytics India Private Limited,,https://verisk.com,verisk.com,,,,,True,False,False
+ASSOC:HYSEA,Vertafore India Pvt Ltd,,https://vertafore.com,vertafore.com,,,,,True,False,False
+ASSOC:GTECH,Vinvish Technologies Pvt. Ltd.,,https://vinvish.com,vinvish.com,,,,,True,False,False
+ASSOC:GTECH,Vtrio Solutions Private Limited,,https://vtrio.com,vtrio.com,,,,,True,False,False
+ASSOC:HYSEA,Vuchi Media Pvt. Ltd.,,https://mediamint.com,mediamint.com,,,,,True,False,False
+ASSOC:GTECH,Wattlecorp Cybersecurity Labs,,https://wattlecorp.com,wattlecorp.com,,,,,True,False,False
+ASSOC:GTECH,Waybeo Technology Solutions Pvt. Ltd.,,https://waybeo.com,waybeo.com,,,,,True,False,False
+ASSOC:HYSEA,WhistleDrive Pvt Ltd,,https://whistledrive.com,whistledrive.com,,,,,True,False,False
+ASSOC:HYSEA,Wise Men Consulting Service India Ltd.,,https://wisemen.com,wisemen.com,,,,,True,False,False
+ASSOC:GTECH,Xcubated Business Solutions Pvt. Ltd.,,https://xcubated.com,xcubated.com,,,,,True,False,False
+ASSOC:GTECH,Yuhiro Technologies Pvt. Ltd.,,https://yuhiro.de,yuhiro.de,,,,,True,False,False
+ASSOC:GTECH,ZERO PIXELS TECHNOLOGIES PRIVATE LIMITED,,https://zero-pixels.com,zero-pixels.com,,,,,True,False,False
+ASSOC:GTECH,Zennode Technologies LLP,,https://zennode.com,zennode.com,,,,,True,False,False
+ASSOC:GTECH,Zoondia Software Pvt. Ltd.,,https://zoondia.com,zoondia.com,,,,,True,False,False
+ASSOC:GTECH,Zyxware Technologies Pvt. Ltd.,,https://zyxware.com,zyxware.com,,,,,True,False,False
+ASSOC:ITAAP,aalgorithm,,https://aalgorithm.com,aalgorithm.com,,,,,True,False,False
+ASSOC:ITAAP,adeptude,,https://adeptude.com,adeptude.com,,,,,True,False,False
+ASSOC:GESIA,adiance,,https://adiance.com,adiance.com,,,,,True,False,False
+ASSOC:ITAAP,aggregatenetsolutions,,https://aggregatenetsolutions.com,aggregatenetsolutions.com,,,,,True,False,False
+ASSOC:ITAAP,anand-pag,,https://anand-pag.com,anand-pag.com,,,,,True,False,False
+ASSOC:ITAAP,anyemi,,https://anyemi.com,anyemi.com,,,,,True,False,False
+ASSOC:ITAAP,atomgeo,,https://atomgeo.com,atomgeo.com,,,,,True,False,False
+ASSOC:ITAAP,atribiz,,https://atribiz.com,atribiz.com,,,,,True,False,False
+ASSOC:ITAAP,atribusinesssolutions,,https://atribusinesssolutions.com,atribusinesssolutions.com,,,,,True,False,False
+ASSOC:ITAAP,avineonindia,,https://avineonindia.com,avineonindia.com,,,,,True,False,False
+ASSOC:GESIA,azilen,,https://azilen.com,azilen.com,,,,,True,False,False
+ASSOC:GESIA,bitscape,,https://bitscape.com,bitscape.com,,,,,True,False,False
+ASSOC:ITAAP,bookandhost,,https://bookandhost.com,bookandhost.com,,,,,True,False,False
+ASSOC:GESIA,c-metric,,https://c-metric.com,c-metric.com,,,,,True,False,False
+ASSOC:ITAAP,cardlytics,,https://cardlytics.com,cardlytics.com,,,,,True,False,False
+ASSOC:ITAAP,cheggindia,,https://cheggindia.com,cheggindia.com,,,,,True,False,False
+ASSOC:HYSEA,ciberts,,https://ciberts.ai,ciberts.ai,,,,,True,False,False
+ASSOC:ITAAP,claaps,,https://claaps.com,claaps.com,,,,,True,False,False
+ASSOC:ITAAP,codingsastra,,https://codingsastra.com,codingsastra.com,,,,,True,False,False
+ASSOC:ITAAP,cognisive,,https://cognisive.com,cognisive.com,,,,,True,False,False
+ASSOC:GESIA,compucareindia,,https://compucareindia.com,compucareindia.com,,,,,True,False,False
+ASSOC:ITAAP,cyberaon,,https://cyberaon.com,cyberaon.com,,,,,True,False,False
+ASSOC:ITAAP,cybercinatics,,https://cybercinatics.com,cybercinatics.com,,,,,True,False,False
+ASSOC:GESIA,czargroup,,https://czargroup.net,czargroup.net,,,,,True,False,False
+ASSOC:ITAAP,devrabbit,,https://devrabbit.com,devrabbit.com,,,,,True,False,False
+ASSOC:GESIA,dhyey,,https://dhyey.com,dhyey.com,,,,,True,False,False
+ASSOC:HYSEA,dilytics,,https://dilytics.com,dilytics.com,,,,,True,False,False
+ASSOC:GESIA,ease,,https://ease.biz,ease.biz,,,,,True,False,False
+ASSOC:GESIA,eccentricbusiness,,https://eccentricbusiness.com,eccentricbusiness.com,,,,,True,False,False
+ASSOC:ITAAP,ecorfy,,https://ecorfy.com,ecorfy.com,,,,,True,False,False
+ASSOC:ITAAP,edz,,https://edz.one,edz.one,,,,,True,False,False
+ASSOC:GTECH,enxcl Business Solutions,,https://enxcl.com,enxcl.com,,,,,True,False,False
+ASSOC:ITAAP,essit,,https://essit.com,essit.com,,,,,True,False,False
+ASSOC:GESIA,ethosindia,,https://ethosindia.com,ethosindia.com,,,,,True,False,False
+ASSOC:GESIA,evincedev,,https://evincedev.com,evincedev.com,,,,,True,False,False
+ASSOC:ITAAP,evolutyz,,https://evolutyz.com,evolutyz.com,,,,,True,False,False
+ASSOC:ITAAP,exafluence,,https://exafluence.com,exafluence.com,,,,,True,False,False
+ASSOC:ITAAP,excelglobalsolution,,https://excelglobalsolution.com,excelglobalsolution.com,,,,,True,False,False
+ASSOC:GESIA,fractal31,,https://fractal31.com,fractal31.com,,,,,True,False,False
+ASSOC:GESIA,freelancetrainings,,https://freelancetrainings.com,freelancetrainings.com,,,,,True,False,False
+ASSOC:GESIA,ganeshhousing,,https://ganeshhousing.com,ganeshhousing.com,,,,,True,False,False
+ASSOC:ITAAP,garudaengineering,,https://garudaengineering.org,garudaengineering.org,,,,,True,False,False
+ASSOC:ITAAP,gmrit,,https://gmrit.org,gmrit.org,,,,,True,False,False
+ASSOC:ITAAP,grafx-itsolutions,,https://grafx-itsolutions.com,grafx-itsolutions.com,,,,,True,False,False
+ASSOC:ITAAP,headrun,,https://headrun.com,headrun.com,,,,,True,False,False
+ASSOC:GESIA,heritagecyberworld,,https://heritagecyberworld.com,heritagecyberworld.com,,,,,True,False,False
+ASSOC:HYSEA,hiringhood,,https://hiringhood.ai,hiringhood.ai,,,,,True,False,False
+ASSOC:ITAAP,hyranks,,https://hyranks.com,hyranks.com,,,,,True,False,False
+ASSOC:ITAAP,i3konzepts,,https://i3konzepts.com,i3konzepts.com,,,,,True,False,False
+ASSOC:GTECH,iCore Pioneer Business Solutions,,https://icorepioneer.com,icorepioneer.com,,,,,True,False,False
+ASSOC:GTECH,iHits Technologies Pvt. Ltd.,,https://ihitsindia.com,ihitsindia.com,,,,,True,False,False
+ASSOC:ITAAP,igiat,,https://igiat.com,igiat.com,,,,,True,False,False
+ASSOC:ITAAP,imegcorp,,https://imegcorp.com,imegcorp.com,,,,,True,False,False
+ASSOC:ITAAP,incufiers,,https://incufiers.com,incufiers.com,,,,,True,False,False
+ASSOC:ITAAP,indianservers,,https://indianservers.com,indianservers.com,,,,,True,False,False
+ASSOC:GESIA,indiesemic,,https://indiesemic.com,indiesemic.com,,,,,True,False,False
+ASSOC:ITAAP,infinite,,https://infinite.com,infinite.com,,,,,True,False,False
+ASSOC:GESIA,infinityradar,,https://infinityradar.com,infinityradar.com,,,,,True,False,False
+ASSOC:GESIA,infistack,,https://infistack.com,infistack.com,,,,,True,False,False
+ASSOC:HYSEA,intelliflo,,https://intelliflo.com,intelliflo.com,,,,,True,False,False
+ASSOC:HYSEA,investor,,https://investor.vanguard.com,investor.vanguard.com,,,,,True,False,False
+ASSOC:GESIA,iobixservices,,https://iobixservices.com,iobixservices.com,,,,,True,False,False
+ASSOC:GESIA,iplanme,,https://iplanme.com,iplanme.com,,,,,True,False,False
+ASSOC:ITAAP,ipro-global,,https://ipro-global.com,ipro-global.com,,,,,True,False,False
+ASSOC:ITAAP,iton,,https://iton.com,iton.com,,,,,True,False,False
+ASSOC:ITAAP,juhnu,,https://juhnu.com,juhnu.com,,,,,True,False,False
+ASSOC:GESIA,kavobits,,https://kavobits.com,kavobits.com,,,,,True,False,False
+ASSOC:GESIA,kiwiqa,,https://kiwiqa.com,kiwiqa.com,,,,,True,False,False
+ASSOC:GESIA,konze,,https://konze.com,konze.com,,,,,True,False,False
+ASSOC:ITAAP,krify,,https://krify.co,krify.co,,,,,True,False,False
+ASSOC:ITAAP,ksvspvtltd,,https://ksvspvtltd.com,ksvspvtltd.com,,,,,True,False,False
+ASSOC:ITAAP,lotuswireless,,https://lotuswireless.com,lotuswireless.com,,,,,True,False,False
+ASSOC:GESIA,masibus,,https://masibus.com,masibus.com,,,,,True,False,False
+ASSOC:ITAAP,mastersteck,,https://mastersteck.com,mastersteck.com,,,,,True,False,False
+ASSOC:GESIA,matrixcomsec,,https://matrixcomsec.com,matrixcomsec.com,,,,,True,False,False
+ASSOC:ITAAP,medictfhc,,https://medictfhc.com,medictfhc.com,,,,,True,False,False
+ASSOC:ITAAP,medrcm360,,https://medrcm360.com,medrcm360.com,,,,,True,False,False
+ASSOC:GESIA,mindquad,,https://mindquad.com,mindquad.com,,,,,True,False,False
+ASSOC:ITAAP,mvgrce,,https://mvgrce.com,mvgrce.com,,,,,True,False,False
+ASSOC:ITAAP,ncplinc,,https://ncplinc.com,ncplinc.com,,,,,True,False,False
+ASSOC:ITAAP,neehitservices,,https://neehitservices.com,neehitservices.com,,,,,True,False,False
+ASSOC:ITAAP,nordsinew,,https://nordsinew.com,nordsinew.com,,,,,True,False,False
+ASSOC:ITAAP,novelpatent,,https://novelpatent.com,novelpatent.com,,,,,True,False,False
+ASSOC:ITAAP,nyros,,https://nyros.com,nyros.com,,,,,True,False,False
+ASSOC:GESIA,odoo,,https://odoo.com,odoo.com,,,,,True,False,False
+ASSOC:GESIA,oneclickitsolution,,https://oneclickitsolution.com,oneclickitsolution.com,,,,,True,False,False
+ASSOC:ITAAP,parikar,,https://parikar.net,parikar.net,,,,,True,False,False
+ASSOC:ITAAP,patraindia,,https://patraindia.com,patraindia.com,,,,,True,False,False
+ASSOC:HYSEA,payroll,,https://in.adp.com,in.adp.com,,,,,True,False,False
+ASSOC:ITAAP,phycaresolutionsinc,,https://phycaresolutionsinc.godaddysites.com,phycaresolutionsinc.godaddysites.com,,,,,True,False,False
+ASSOC:ITAAP,pixentia,,https://pixentia.com,pixentia.com,,,,,True,False,False
+ASSOC:GESIA,pmcretail,,https://pmcretail.com,pmcretail.com,,,,,True,False,False
+ASSOC:ITAAP,precistat,,https://precistat.com,precistat.com,,,,,True,False,False
+ASSOC:ITAAP,primusglobal,,https://primusglobal.com,primusglobal.com,,,,,True,False,False
+ASSOC:ITAAP,princetonits,,https://princetonits.com,princetonits.com,,,,,True,False,False
+ASSOC:ITAAP,pronixinc,,https://pronixinc.com,pronixinc.com,,,,,True,False,False
+ASSOC:GESIA,qxglobalgroup,,https://qxglobalgroup.com,qxglobalgroup.com,,,,,True,False,False
+ASSOC:GESIA,redicinemedsol,,https://redicinemedsol.com,redicinemedsol.com,,,,,True,False,False
+ASSOC:GESIA,reveation,,https://reveation.io,reveation.io,,,,,True,False,False
+ASSOC:GESIA,sandcupstudio,,https://sandcupstudio.com,sandcupstudio.com,,,,,True,False,False
+ASSOC:GESIA,scrumfolks,,https://scrumfolks.com,scrumfolks.com,,,,,True,False,False
+ASSOC:ITAAP,seethejobs,,https://seethejobs.com,seethejobs.com,,,,,True,False,False
+ASSOC:GESIA,serpentcs,,https://serpentcs.com,serpentcs.com,,,,,True,False,False
+ASSOC:ITAAP,sesatsolutions,,https://sesatsolutions.com,sesatsolutions.com,,,,,True,False,False
+ASSOC:ITAAP,sevenhillsehealth,,https://sevenhillsehealth.com,sevenhillsehealth.com,,,,,True,False,False
+ASSOC:GESIA,shreetripada,,https://shreetripada.com,shreetripada.com,,,,,True,False,False
+ASSOC:GESIA,silvertouch,,https://silvertouch.com,silvertouch.com,,,,,True,False,False
+ASSOC:ITAAP,solutionit,,https://solutionit.com,solutionit.com,,,,,True,False,False
+ASSOC:ITAAP,sserpsolutions,,https://sserpsolutions.com,sserpsolutions.com,,,,,True,False,False
+ASSOC:GESIA,stridelysolutions,,https://stridelysolutions.com,stridelysolutions.com,,,,,True,False,False
+ASSOC:ITAAP,sunraisesolutions,,https://sunraisesolutions.com,sunraisesolutions.com,,,,,True,False,False
+ASSOC:ITAAP,sweken,,https://sweken.com,sweken.com,,,,,True,False,False
+ASSOC:HYSEA,synchrony,,https://synchrony.com,synchrony.com,,,,,True,False,False
+ASSOC:GESIA,tanbvirtualinfra,,https://tanbvirtualinfra.com,tanbvirtualinfra.com,,,,,True,False,False
+ASSOC:ITAAP,teckteams,,https://teckteams.com,teckteams.com,,,,,True,False,False
+ASSOC:GESIA,tej9,,https://tej9.com,tej9.com,,,,,True,False,False
+ASSOC:ITAAP,tek7services,,https://tek7services.com,tek7services.com,,,,,True,False,False
+ASSOC:ITAAP,teletextholidays,,https://teletextholidays.co.uk,teletextholidays.co.uk,,,,,True,False,False
+ASSOC:GESIA,teleysia,,https://teleysia.com,teleysia.com,,,,,True,False,False
+ASSOC:ITAAP,thecolourmoon,,https://thecolourmoon.com,thecolourmoon.com,,,,,True,False,False
+ASSOC:ITAAP,tierraautomation,,https://tierraautomation.com,tierraautomation.com,,,,,True,False,False
+ASSOC:GESIA,triforce-inc,,https://triforce-inc.com,triforce-inc.com,,,,,True,False,False
+ASSOC:ITAAP,trigeo,,https://trigeo.net,trigeo.net,,,,,True,False,False
+ASSOC:ITAAP,tripnetra,,https://tripnetra.com,tripnetra.com,,,,,True,False,False
+ASSOC:GESIA,ttec,,https://ttec.com,ttec.com,,,,,True,False,False
+ASSOC:GESIA,tusker,,https://tusker.ai,tusker.ai,,,,,True,False,False
+ASSOC:ITAAP,uandu,,https://uandu.co,uandu.co,,,,,True,False,False
+ASSOC:HYSEA,valuemomentum,,https://valuemomentum.com,valuemomentum.com,,,,,True,False,False
+ASSOC:GESIA,vdnetworks,,https://vdnetworks.com,vdnetworks.com,,,,,True,False,False
+ASSOC:ITAAP,vectramind,,https://vectramind.com,vectramind.com,,,,,True,False,False
+ASSOC:ITAAP,ventureoffshore,,https://ventureoffshore.net,ventureoffshore.net,,,,,True,False,False
+ASSOC:ITAAP,venusgeo,,https://venusgeo.com,venusgeo.com,,,,,True,False,False
+ASSOC:ITAAP,vinutnaa,,https://vinutnaa.com,vinutnaa.com,,,,,True,False,False
+ASSOC:GESIA,virtualheight,,https://virtualheight.com,virtualheight.com,,,,,True,False,False
+ASSOC:HYSEA,visionempowertrust,,https://visionempowertrust.org,visionempowertrust.org,,,,,True,False,False
+ASSOC:ITAAP,vismayapremedia,,https://vismayapremedia.com,vismayapremedia.com,,,,,True,False,False
+ASSOC:GESIA,vmukti,,https://vmukti.com,vmukti.com,,,,,True,False,False
+ASSOC:ITAAP,wns,,https://wns.com,wns.com,,,,,True,False,False
+ASSOC:ITAAP,ww7,,https://ww7.apexsolutionsltd.net,ww7.apexsolutionsltd.net,,,,,True,False,False
+ASSOC:ITAAP,ww7,,https://ww7.dhunis.com,ww7.dhunis.com,,,,,True,False,False
+ASSOC:ITAAP,www,,https://savvyitsols,savvyitsols,,,,,True,False,False
+ASSOC:ITAAP,www,,https://vgssecurity,vgssecurity,,,,,True,False,False
+ASSOC:GESIA,xtratrust,,https://xtratrust.com,xtratrust.com,,,,,True,False,False
+ASSOC:ITAAP,yalamanchili,,https://yalamanchili.com.sg,yalamanchili.com.sg,,,,,True,False,False
+ASSOC:ITAAP,zebi,,https://zebi.io,zebi.io,,,,,True,False,False
+ASSOC:GESIA,zestard,,https://zestard.com,zestard.com,,,,,True,False,False
+ASSOC:ITAAP,zraddhaa Information Systems Pvt Ltd IMAGE NOT AVAILABLE,,https://zraddhaa.com,zraddhaa.com,,,,,True,False,False

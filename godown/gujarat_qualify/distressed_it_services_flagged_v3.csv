@@ -1,0 +1,31 @@
+deal_id,dealname,owner_id,verdict,scraped_company_name,reason
+345094884028,SarvM.AI,166322228,COMPANY_MISMATCH,Proximal Cloud,scraped company 'Proximal Cloud' doesn't match deal company 'SarvM.AI' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+344699989752,1Channel,166322228,COMPANY_MISMATCH,Scaling Up Coaches - India and Middle East,scraped company 'Scaling Up Coaches - India and Middle East' doesn't match deal company '1Channel' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+345081394898,GreyToYellow,96574824,IT_SERVICES,GreyToYellow,matched: 'Digital Marketing Agency'
+345102691007,Zyla Health,166322228,COMPANY_MISMATCH,the homework app,scraped company 'the homework app' doesn't match deal company 'Zyla Health' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+345062730483,Sequretek IT Solutions Pvt. Ltd.,96574824,LOW_CONFIDENCE_IT_SERVICES,,"no company data scraped, but the deal/company name itself strongly suggests an IT-services shop"
+345047487171,Great Manager Institute,96574824,COMPANY_MISMATCH,Sapio Analytics,scraped company 'Sapio Analytics' doesn't match deal company 'Great Manager Institute' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+344967699184,Moonhive,96574824,IT_SERVICES,Moonhive,matched: 'Software Development Company'
+345073880772,parentune.com,96574824,COMPANY_MISMATCH,Delhivery,scraped company 'Delhivery' doesn't match deal company 'parentune.com' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+345079636723,12Grids - Customer Experience Technology Company,166322228,COMPANY_MISMATCH,Pharma Now,scraped company 'Pharma Now' doesn't match deal company '12Grids - Customer Experience Technology Company' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+345076133576,Evoluz Global Solutions,166322228,IT_SERVICES,Evoluz Global Solutions,matched: 'Consulting Services'
+345100894958,Attain,166322228,IT_SERVICES,attain,matched: 'staff augmentation'
+345081395901,RadicalLoop,166322228,IT_SERVICES,RadicalLoop,matched: 'software development studio'
+344678386397,iGini,166322228,COMPANY_MISMATCH,SICK Sensor Intelligence,scraped company 'SICK Sensor Intelligence' doesn't match deal company 'iGini' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+344678386398,ARISE,166322228,COMPANY_MISMATCH,CEO CLUBS INDIA,scraped company 'CEO CLUBS INDIA' doesn't match deal company 'ARISE' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+344965982943,ExpertItBrains,96574824,IT_SERVICES,Expert IT Brains Private Limited,matched: 'streaming revenue with'
+345100894965,Emaad Infotech ,166322228,IT_SERVICES,Emaad Infotech®,matched: 'Software Development Company'
+344967700196,Asan Innovators,166322228,COMPANY_MISMATCH,VelvoMedia,scraped company 'VelvoMedia' doesn't match deal company 'Asan Innovators' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+344771686099,RadicalLoop Technolabs,96574824,IT_SERVICES,RadicalLoop,matched: 'software development studio'
+345047488203,Sevarth Mission Foundation,166322228,COMPANY_MISMATCH,SocialAngel,scraped company 'SocialAngel' doesn't match deal company 'Sevarth Mission Foundation' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+344742482629,TECHXERS TECHNOLOGIES,166322228,COMPANY_MISMATCH,LabourNet Services India Pvt. Ltd.,scraped company 'LabourNet Services India Pvt. Ltd.' doesn't match deal company 'TECHXERS TECHNOLOGIES' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+344742482633,Deinertech Software Private Limited.,166322228,IT_SERVICES,Deinertech Software Private Limited.,matched: 'Digital Marketing Services'
+344881432297,Drutaya Semiconductors Private Limited,96574824,COMPANY_MISMATCH,Pradhi Semiconductor Private Limited,scraped company 'Pradhi Semiconductor Private Limited' doesn't match deal company 'Drutaya Semiconductors Private Limited' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+345079637747,TT Staff Pro,96574824,COMPANY_MISMATCH,AmaBooking,scraped company 'AmaBooking' doesn't match deal company 'TT Staff Pro' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+345047488211,Expert IT Brains Private Limited,96574824,IT_SERVICES,Expert IT Brains Private Limited,matched: 'streaming revenue with'
+344958462690,Ghootmee Technology,96574824,IT_SERVICES,Ghootmee Technology,matched: 'mobile app development company'
+345047488215,Cargo,96574824,IT_SERVICES,Cargo Flash InfoTech,matched: 'IT Services'
+344771686110,Impresario Global,166322228,COMPANY_MISMATCH,BNW Developments,scraped company 'BNW Developments' doesn't match deal company 'Impresario Global' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+344965983943,Imperiumofficial,166322228,IT_SERVICES,Imperiumofficial,matched: 'IT services'
+345068670673,Alpheric Inc,96574824,COMPANY_MISMATCH,NDIEM - A tradition of excellence,scraped company 'NDIEM - A tradition of excellence' doesn't match deal company 'Alpheric Inc' — likely wrong currentPosition on the LinkedIn profile; needs a human look
+345047488221,Sutradhar Project Consultancy Pvt. Ltd.,96574824,IT_SERVICES,Sutradhar Project Consultancy Pvt. Ltd.,matched: 'custom tech development solutions'

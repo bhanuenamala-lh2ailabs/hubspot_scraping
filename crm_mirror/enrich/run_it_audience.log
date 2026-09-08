@@ -1,0 +1,11 @@
+Shreyas IT deals: 340
+live IT deals w/ full info: 169 | dead to review: 171
+  reviewed 25/171 dead -> salvaged 3
+  reviewed 50/171 dead -> salvaged 4
+  reviewed 75/171 dead -> salvaged 6
+  reviewed 100/171 dead -> salvaged 7
+  reviewed 125/171 dead -> salvaged 7
+  reviewed 150/171 dead -> salvaged 9
+salvageable dead: 10
+
+IT AUDIENCE = 292 rows (net-new 113 + live 169 + salvaged-dead 10, deduped) | with_email=90

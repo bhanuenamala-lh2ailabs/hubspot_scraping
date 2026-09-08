@@ -1,0 +1,892 @@
+[
+ {
+  "name": "Prognostics In-Med Private Limited",
+  "city": "Pune",
+  "domain": "in-medprognostics.com",
+  "website": "https://taverna-thessaloniki.com/menu/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 27679,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Progress Software Development Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "progress.com",
+  "website": "https://www.progress.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 84216,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 2,
+   "enterprise": 1,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "LoadMaster Providing experience-centric application delivery and security with cloud-native, virtual and hardware load balancers combined with flexible consumption options.",
+    "Kemp Loadmaster Reliable, scalable application load balancing with layered security, available as virtual, hardware and cloud-native, with powerful SaaS management."
+   ],
+   "enterprise": [
+    "Watch Video Trust Progress for Innovation and Results 80% of the Fortune 500 use Progress 200K Global customers 100% Customer retention rate Explore Our Success Stories Progress Insights & Perspective Ebook IT Infrastructure Monitoring for Dummies Video Explain RAG to me Video Neil Patel"
+   ],
+   "owns_product": [
+    "Agentic RAG, CMS, Digital Experience Video What MCP Is and How It Modernizes the OpenEdge Platform Video What Progress OpenEdge Features Improve your Productivity?",
+    "Based on either your previous activity on our websites or our ongoing relationship, we will keep you updated on our products, solutions, services, company news and events."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Progressive Video Private Limited",
+  "city": "Bengaluru",
+  "domain": "curatal.com",
+  "website": "https://curatal.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2022-03-18",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Proquest Consultancy Services Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "proquestcs.com",
+  "website": "https://www.proquestcs.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 33960,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Zero compromises for standard healthcare compliance 16-Jul-2026 A Perfect Resume."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Protiviti India Member Private Limited",
+  "city": "Gurugram",
+  "domain": "protiviti.com",
+  "website": "https://www.protiviti.com/in-en",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2002-01-22",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 12,
+   "external_job_boards": [],
+   "jd_chars": 126155,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "6 min read Healthcare Innovator Builds a Reputation for Sustainability Explore how this U.S.",
+    "healthcare innovator drives sustainability in healthcare through comprehensive GHG management and strategic ESG initiatives.",
+    "From software-defined vehicles in Auto to AI-driven clinical decision making in healthcare, each sector reveals a distinct transformation story anchored in measurable business outcomes."
+   ],
+   "sdlc": [
+    "CIOs are enabling platform-based architectures, agile operating models, and data-driven decision frameworks that reimagine business models and unlock new revenue streams.",
+    "Risk & Compliance Protiviti helps government assess risk and develop tech-enabled solutions to manage risk in an agile manner and minimise potential losses."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Provalidate Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "provalidate.in",
+  "website": "https://provalidate.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2020-11-11",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Providence Global Center LLP",
+  "city": "Hyderabad",
+  "domain": "providence.org",
+  "website": "https://www.providence.org/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1993-08-09",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 7843,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5
+  },
+  "site_quotes": {
+   "enterprise": [
+    "As dreamers, doers and pioneers, we see healthcare not just as it is, but as it could be.",
+    "We are also pursuing innovative ways to transform healthcare by keeping people healthy, and making our services more convenient, accessible and affordable for all.",
+    "In an increasingly uncertain world, we are committed to high-quality, compassionate healthcare for everyone – regardless of coverage or ability to pay.",
+    "We help people and communities benefit from the best healthcare model for the future – today."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Proxiio Global Solutions Private Limited",
+  "city": "Gurugram",
+  "domain": "proxiio.com",
+  "website": "https://www.proxiio.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "enterprise": 1,
+   "cicd": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our tech-powered agile processes and scalable approach redefine efficiency, ensuring precise handling of time-sensitive projects with predictable costs."
+   ],
+   "enterprise": [
+    "For modern enterprises—particularly in highly regulated industries—maintaining compliance throughout the contract lifecycle isn’t ..."
+   ],
+   "cicd": [
+    "Contract Lifecycle Management (CLM) Our Service Navigating the complexities of contracts can be overwhelming without structured management."
+   ],
+   "owns_product": [
+    "With robust obligation management features, our platform ensures that contractual commitments are tracked and met."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Proximal Cloud Private Limited",
+  "city": "New Delhi",
+  "domain": "proximal.cloud",
+  "website": "https://www.proximal.cloud",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 6,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Runs on AWS Azure Google Cloud Oracle Cloud + Any private cloud Explore Proximal Cloud Hardware Solution AI in a box.",
+    "A complete, shrink-wrapped hardware solution.",
+    "Proximal's platform is built around two core products — an agentic AI layer and a unified hardware platform — designed to work together or independently.",
+    "4 Data modalities 50% Lower TCO 1 Interface Explore PAC PUC Proximal Unified Compute The hardware platform."
+   ],
+   "owns_product": [
+    "Routed across sources Financials & ERP Revenue, costs, margins Supply chain Vendors, lead times, risk Documents Contracts, reports, emails Reasoning Synthesis across all data One clear, sourced answer 03 Our product portfolio Two products."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "PRT Software Solutions LLP",
+  "city": "Hyderabad",
+  "domain": "prtsoftwaresolutions.com",
+  "website": "https://prtsoftwaresolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Benefit Why Choose PRT?​ Proven Track Record We have a history of delivering excellence in IT staffing Agile and Adaptive Our team responds to the ever-evolving tech landscape with agility and adaptability."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Prudent Globaltech Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "prudentconsulting.com",
+  "website": "https://www.prudentconsulting.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 15002,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "PTC Software (India) Pvt Ltd",
+  "city": "Pune",
+  "domain": "ptc.com",
+  "website": "https://www.ptc.com/en",
+  "already_in_hubspot": false,
+  "headcount_known": 8223,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "PTC Watch Your Designs Take Flight With Creo 10 Transform Your Product Lifecycle To create efficiencies that improve margins, you need to drive innov"
+  },
+  "jd": {
+   "pages_read": 12,
+   "external_job_boards": [],
+   "jd_chars": 106255,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "owns_product": 4,
+   "enterprise": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Manage Product Complexity Manage product complexity with the right solutions Overcome product complexity with solutions for managing configurations and product variants, software and hardware requirements, technical documentation, and more."
+   ],
+   "owns_product": [
+    "Explore Solutions Reduce Costs Reduce costs by transforming your product development processes Transform your product development processes with a digital foundation that minimizes friction and complexity while driving cost reductions across the enterprise value chain.",
+    "Explore Solutions Transform the Customer Experience Transform the customer experience Win over customers by differentiating your product and service offerings through software-driven innovation, streamlined product customization, service optimization and more.",
+    "The security of our products and solutions is a top priority for PTC, and we are taking proactive measures to stay ahead of emerging threats and provide customers with the guidance and tools necessary to help safeguard their environments."
+   ],
+   "enterprise": [
+    "In fact, 95% of Fortune 500 discrete manufacturing companies are PTC customers."
+   ],
+   "cicd": [
+    "His expertise spans managing the full sales cycle, accelerating pipeline growth across vertical markets, expanding and cross-selling into key accounts, and developing scalable models for expansion into emerging geographies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "PVH Services India Private Limited",
+  "city": "Bengaluru",
+  "domain": "pvh.com",
+  "website": "https://www.pvh.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "QA Masters Private Limited",
+  "city": "Hyderabad",
+  "domain": "surensinffotek.com",
+  "website": "https://surensinffotek.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 6,
+   "senior_roles": 4,
+   "DQ_template": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "surensinffotek.com Phone: +91-98458 20345 Mon-Fri (8am - 6pm) contact@surensinffotek.com Brochure About Us Surens Inffotek is focused company for QA and RPA areas.",
+    "Business Assurance Testing We ensure flawless business operations through advanced QA methodologies.QA services use AI, automation, and modern testing tools to deliver high-quality, secure, and reliable systems.",
+    "SurensInffotek is Trademark registered and is a services division of QA Masters Private Limited.",
+    "Agentic AI – Capabilities – surensinffotek.com Phone: +91-98458 20345 Mon-Fri (8am - 6pm) contact@surensinffotek.com Brochure About Us Surens Inffotek is focused company for QA and RPA areas."
+   ],
+   "senior_roles": [
+    "As technical architects are the founders of the company, our solutions will be delivered with high quality considering the future maintenance.We are continuously improving by applying best practices and following the standard processes."
+   ],
+   "DQ_template": [
+    "of cumulative leadership experience 0 + Core Services Portfolio Surens Inffotek, we specialize in AI and Automation With 100+ solutions, frameworks, and ready-to-use templates, we help businesses enhance ‘ performance’ , boost ‘ process efficiency’ , and solve complex ‘ problems’ across functions."
+   ],
+   "cicd": [
+    "03 Build Engineer copilots, agents, RAG pipelines, APIs, orchestration, and monitoring."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "QAAgility Technologies Private Limited",
+  "city": "Mumbai",
+  "domain": "qaagility.com",
+  "website": "https://qaagility.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 15,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "ologies Skip to content Menu Home About Consulting / Talent Web Development Menu Home About Consulting / Talent Web Development Consulting / Staffing"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "qa": 19,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "cicd": [
+    "BI & Analytics Clean pipelines, accurate dashboards, audit-ready reports."
+   ],
+   "qa": [
+    "QA Testing Human + AI Intelligent automation meets expert judgment - fewer defects, cleaner releases.",
+    "Testimonial Trusted by leaders scaling quality and talent “ QAAgility Technologies has been an invaluable partner in scaling our GCC operations, enhancing both our quality engineering capabilities and our technology talent pool.",
+    "VP R&D WSAudiology - Hyderabad GET STARTED Advance your QA with Human + AI from day one.",
+    "Turn QA from a bottleneck into a steady engine for reliable, on-time launches."
+   ],
+   "enterprise": [
+    "Our Expertise Industries We Serve BFSI Banking, financial services, and insurance - where precision and compliance aren't optional.",
+    "Insurance Core systems, claims workflows, and compliance processes - running without gaps or failures."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Qbotica Artificial Intelligence Services Private Limited",
+  "city": "Chennai",
+  "domain": "qbotica.com",
+  "website": "https://www.qbotica.com",
+  "already_in_hubspot": false,
+  "headcount_known": 198,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "e About qBotica Team & Culture Partners Resources Use Cases Case Studies White Papers Newsroom qBotica Media & Events qBotica Blog X Product DoqumentA"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 8810,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "sdlc": 2,
+   "owns_product": 2,
+   "enterprise": 3
+  },
+  "site_quotes": {
+   "cicd": [
+    "Our partnership reflects a shared commitment to innovation, education, and building a stronger talent pipeline for the future of enterprise automation."
+   ],
+   "sdlc": [
+    "qBotica is one of the leading providers of intelligent and innovative solutions that can help you streamline and simplify your processes, allowing you to save time and money and boost your results.",
+    "Whether you want to automate your processes, optimize your workflows, or transform your documents, we have the right solution for you."
+   ],
+   "owns_product": [
+    "Embrace cutting-edge real estate and mortgage processing and watch your productivity soar, while ensuring client satisfaction like never before.",
+    "See our UiPath Marketplace Intelligent Mortgage Processing Accelerator More To Explore Don’t miss these latest resources, upcoming events, and recaps August 11, 2026 Intelligent agent’s interface is an important aspect of building."
+   ],
+   "enterprise": [
+    "Read More August 4, 2026 The adoption of an AI agent demo new patient intake scheduling approach is changing the manner in which healthcare practices...",
+    "Read More How qBotica helped a Fortune 500 Technology Products Company to process 1Million+ Invoices each Year How qBotica Used Invoice Processing Automation to Help a Fortune 500 Company Process 1M+ Invoices Challenge A Fortune 500 company...",
+    "Read More How qBotica Increased Claims Processing By Over 7x for a Top Healthcare Client How qBotica Used Automation in Healthcare Claims Processing to Increase Throughput by Over 7× Key Benefits and Results 100% Scaling..."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Qruize Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "qruize.com",
+  "website": "https://www.qruize.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 59,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "ve a complete digital transformation with our best-in-class application development services and solutions. Know more Go Digital Leap Ahead with Digit"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 70524,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 8,
+   "owns_product": 5
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Platforms AyushEHR Revolutionize AYUSH Healthcare with AyushEHR Observability Platform Unlock Deeper Visibility with Our All-New Observability Platform Company About Us Empowering Businesses since 2013 with AI Driven Automation Tools & Services."
+   ],
+   "owns_product": [
+    "Our vast experience has helped us to build accelerators which supports in client implementations.",
+    "Accelerators helps us to improve the efficiency of team, and reduce delivery timelines.",
+    "Explore Engineering & Consulting Services Software engineering division of Qruize provides the foundation for all the R&D solutions & accelerators we launch at Qruize.",
+    "Our offerings are in the areas of setting up Captive Development Centre CoE (Centre of Execellence) Build Operate Transfer (BOT) Bespoke staffing Explore Our Platforms Observability Platform Gain complete visibility into applications, systems, and infrastructure with real-time monitoring and actionable insights."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Qualitykiosk Technologies Private Limited",
+  "city": "Navi Mumbai",
+  "domain": "qualitykiosk.com",
+  "website": "https://qualitykiosk.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 4382,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "DQO) #FailProof Services Our strength lies in our expansive portfolio of services that enable transformative growth across your digital journey backed"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 129857,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 17,
+   "cicd": 6,
+   "DQ_support": 2,
+   "enterprise": 7,
+   "prod_eng": 1,
+   "DQ_training": 2,
+   "senior_roles": 4,
+   "owns_product": 3,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "qa": [
+    "Know more An all-in-one test automation platform for web, mobile, API, and desktop applications.",
+    "Know more A scriptless test automation platform with features like cross-browser testing, CI/CD integration, reusable components, and AI-powered test generation, delivering rapid, reliable, and cost-effective automation.",
+    "Know more Automotive & Manufacturing Ensure product quality, system reliability, and supply chain efficiency with automated testing and predictive maintenance.",
+    "Know More PLATFORMS Platforms Advance your quality engineering with our AI-powered platforms and services grounded in industry expertise."
+   ],
+   "cicd": [
+    "It supports both manual and script-based testing, integrates with CI/CD tools, and offers easy-to-use interfaces for all skill levels.",
+    "Know more A scriptless test automation platform with features like cross-browser testing, CI/CD integration, reusable components, and AI-powered test generation, delivering rapid, reliable, and cost-effective automation.",
+    "Know more Datachecks AI-powered, lightweight platform for data quality and observability, automating pipeline reliability, migration validation, compliance, and anomaly detection.",
+    "Data, Observability & Insights Engineering Data pipelines, telemetry, and observability engineering that turn system signals into actionable insights, resolving issues before they affect customers and closing feedback loops for market-leading customer experience."
+   ],
+   "DQ_support": [
+    "It supports both manual and script-based testing, integrates with CI/CD tools, and offers easy-to-use interfaces for all skill levels."
+   ],
+   "enterprise": [
+    "Know more Industries Reliability in every domain Banking & Financial Services Insurance Tech & Digital Natives Capital Markets Automotive & Manufacturing Consumers Banking & Financial Services Fortify digital defenses and power always-on banking with AI-powered QE.",
+    "Ensure secure, compliant, seamless banking experiences, accelerating innovation and optimizing performance across every touchpoint.",
+    "Know More Insurance Mitigate risks, accelerate innovation, and elevate customer loyalty with data-driven QE.",
+    "Achieve robust, compliant, and efficient digital experiences, unlocking transformative value across the entire insurance lifecycle."
+   ],
+   "prod_eng": [
+    "As a global Reliability, Cloud, AI, and Product Engineering solutions provider, QualityKiosk offers a collaborative culture, cross‑domain programs, and diverse engagements in BFSI, Fintech, and other industries that provide international exposure and complex challenges that elevate careers."
+   ],
+   "DQ_training": [
+    "Hands-on Bootcamps Intensive engineering bootcamps designed to bridge the gap between theory and production.",
+    "Bootcamps, sponsored certifications, leadership mentoring, speaker series, and hands‑on projects help people build capabilities and progress at every stage of their career."
+   ],
+   "senior_roles": [
+    "We help organizations build and run resilient digital platforms by embedding quality engineering, site reliability, and AI assurance across the product lifecycle.",
+    "Digital Reliability & SRE Quality engineering transformation, site reliability engineering, and cloud reliability practices that ensure digital app performance, resilience, and availability across modern digital platforms.",
+    "Schedule a Consultation Overview Reliability that scales with your ambition Our Quality Engineering services embed resilience, speed, and consistency across the entire software lifecycle, enabling faster releases, reduced defects, and reliable digital experiences, from day one, with SRE-aligned observability.",
+    "Know more Chart your course to SRE maturity: A quick reference guide Know more A jumpstart guide for next-gen salesforce testing Know more Get insights that matter."
+   ],
+   "owns_product": [
+    "Leveraging our AI-driven proprietary platforms and strategic partner technologies, we go beyond assuring quality—we engineer it.",
+    "Know more TESTIMONIALS What our customers say The TCoE enabled us to streamline digital quality engineering e ciencies significantly, eliminating redundancies and manual processes hindering our productivity.",
+    "Whether you’re curious about our platforms or want to know more about our services, we’re ready to answer all your questions."
+   ],
+   "sdlc": [
+    "We bring rigor, automation, and empathy to every engagement.” Maneesh Jhawar Founder Linkedin-in APPROACH How We Work Our approach transforms quality from ad-hoc testing into a strategic advantage.",
+    "We guide organizations through a maturity journey—standardizing processes, enabling automation, and embedding agile DevOps practices."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Qualtech Consultants Pvt Ltd",
+  "city": "Noida",
+  "domain": "qualtechedge.com",
+  "website": "https://www.qualtechedge.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "es for advancement. Qualtech is a emerging Financial Domain Software Development company, always have lots of Projects, interesting & challenging work"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 110275,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "For career inquires, please email careers@qualtech.com Open Positions A Career That Scales with You Position Posted on City Location type Enterprise Account Executive 8th Oct’ 2025 Mumbai Hybrid Apply Enterprise Account Executive 8th Oct’ 2025 Noida Hybrid Apply Find your next Opportunity Contact us Think BFSI ."
+   ],
+   "sdlc": [
+    "Schedule a Call How We Work What gives miFIN the edge Loan management systems come and go."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Quant Art Market Solutions Private Limited",
+  "city": "Kolkata",
+  "domain": "quantartmarket.com",
+  "website": "https://quantartmarket.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "He began his banking career with SBI and thereafter held leadership position at treasury at American Express Bank, Deutsche Bank and ICICI Bank in India."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

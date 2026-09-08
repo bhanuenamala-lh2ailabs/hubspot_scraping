@@ -1,0 +1,300 @@
+[
+ {
+  "name": "UPDIVISION",
+  "domain": "updivision.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Team page text names no individuals; only aggregate team statistics.",
+  "others": []
+ },
+ {
+  "name": "Floating Dots",
+  "domain": "floatingdots.co",
+  "person": "Tudor Vulpe",
+  "title": "CEO & Founder",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Meet Tudor Vulpe, our CEO ... That's why I built Floating Dots",
+  "others": []
+ },
+ {
+  "name": "Qualysoft",
+  "domain": "qualysoft.com",
+  "person": "Radu Postolache",
+  "title": "Managing Director, Qualysoft Romania & Group Head of CDS",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "He also leads Qualysoft Romania as Managing Director",
+  "others": [
+   {
+    "person": "Tamás Simon",
+    "title": "CEO, Qualysoft GmbH (group entity)",
+    "linkedin": ""
+   },
+   {
+    "person": "Viktor Magony",
+    "title": "Qualysoft Group Head of Solutions",
+    "linkedin": ""
+   },
+   {
+    "person": "Maria Lendvai",
+    "title": "Group CFO, Qualysoft",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "SPD Technology",
+  "domain": "spd.tech",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Only client testimonials: Alex Samano Mogami App, John Gabbert PitchBook Data",
+  "others": []
+ },
+ {
+  "name": "UP2DATE",
+  "domain": "up2date.ro",
+  "person": "Marius Gheorghe",
+  "title": "Co-founder & Managing Partner",
+  "linkedin": "https://www.linkedin.com/in/up2marius",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "founder: name Marius Gheorghe, jobTitle Co-founder & Managing Partner",
+  "others": [
+   {
+    "person": "Cristian Oprea",
+    "title": "Co-founder & Managing Partner",
+    "linkedin": "https://www.linkedin.com/in/cristian-oprea-up2date"
+   },
+   {
+    "person": "Raluca Gheorghe",
+    "title": "Marketing Director",
+    "linkedin": "https://www.linkedin.com/in/raluca-sorina-gheorghe-b3a85064"
+   }
+  ]
+ },
+ {
+  "name": "Codemart",
+  "domain": "codemart.ro",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "a few highly experienced Romanian mavens partnered with German incubators - unnamed",
+  "others": []
+ },
+ {
+  "name": "Custom Code Factory",
+  "domain": "customcodefactory.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "About text speaks only of our team; no individual named.",
+  "others": []
+ },
+ {
+  "name": "Enlivy",
+  "domain": "enlivy.dev",
+  "person": "Robert",
+  "title": "Founder & Technical Lead",
+  "linkedin": "https://www.linkedin.com/in/robertuniqid",
+  "phone": "",
+  "email": "",
+  "confidence": "medium",
+  "evidence": "Robert Founder & Technical Lead ... Founded Enlivy in 2023 (no surname given)",
+  "others": []
+ },
+ {
+  "name": "Nerds Computing",
+  "domain": "nerds.sh",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Product and services copy only; no individual named anywhere.",
+  "others": []
+ },
+ {
+  "name": "Kavita Systems",
+  "domain": "kavitasystems.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Team listed with initials only, no founder/CEO title present",
+  "others": [
+   {
+    "person": "Vitalii K.",
+    "title": "Full-Stack Architect & Technical Lead",
+    "linkedin": "https://www.linkedin.com/in/vkabachevskiy"
+   },
+   {
+    "person": "Olena I.",
+    "title": "Product Designer & Front-End Engineer",
+    "linkedin": "https://www.linkedin.com/in/olenaivieva"
+   },
+   {
+    "person": "Ihor I.",
+    "title": "Platform Engineer & Full-Stack Developer",
+    "linkedin": "https://www.linkedin.com/in/ihorivliev"
+   }
+  ]
+ },
+ {
+  "name": "MCRO",
+  "domain": "mcro.tech",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Meet the people who make it happen - but no names in text",
+  "others": []
+ },
+ {
+  "name": "Primal Skill",
+  "domain": "primalskill.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "All names are client testimonials: CEO at Abiria, CTO at Newtopia, Burst",
+  "others": []
+ },
+ {
+  "name": "FYB Romania",
+  "domain": "fyb.ro",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Who-we-are page text names no individuals.",
+  "others": []
+ },
+ {
+  "name": "Qwertee Technology",
+  "domain": "qwertee.io",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Leadership named but no founder/CEO/MD title stated for either person",
+  "others": [
+   {
+    "person": "Sebastian Breștin",
+    "title": "Head of DataOps & Data Engineering",
+    "linkedin": "https://www.linkedin.com/in/sebastian-bre%C5%9Ftin-5a6a0656"
+   },
+   {
+    "person": "Romain Thalineau",
+    "title": "Ph.D., listed under Our Leadership (title truncated in source)",
+    "linkedin": "https://www.linkedin.com/in/romain-thalineau-84a47648"
+   }
+  ]
+ },
+ {
+  "name": "Digital Artflow",
+  "domain": "digitalartflow.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "About Us text names no individuals.",
+  "others": []
+ },
+ {
+  "name": "XCODES DEVELOPMENT",
+  "domain": "xcodesdevelopment.com",
+  "person": "Sabin Nițu",
+  "title": "Founder / CEO",
+  "linkedin": "https://www.linkedin.com/in/sabinnitu",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Sabin Nițu Founder / CEO",
+  "others": [
+   {
+    "person": "Claudiu Pleșa",
+    "title": "Lead Developer",
+    "linkedin": "https://www.linkedin.com/in/claudiu-plesa-b7056a94"
+   },
+   {
+    "person": "Mădălin Vasile",
+    "title": "Lead Designer",
+    "linkedin": "https://www.linkedin.com/in/vasilemadalin"
+   },
+   {
+    "person": "Patric Tîrîlă",
+    "title": "AI Developer",
+    "linkedin": "https://www.linkedin.com/in/patric-gabriel-t"
+   }
+  ]
+ },
+ {
+  "name": "AFI OPS TECHNOLOGIES",
+  "domain": "afiops.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Mission and values copy only; no individual named.",
+  "others": []
+ },
+ {
+  "name": "Concept24",
+  "domain": "concept24online.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "+40721223913",
+  "email": "office@concept24online.com",
+  "confidence": "low",
+  "evidence": "Methodology page lists roles (Designer, Developer, QA), no names",
+  "others": []
+ },
+ {
+  "name": "Freshbyte",
+  "domain": "freshbyteinc.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "This role is usually done by one of the founders - unnamed",
+  "others": []
+ }
+]

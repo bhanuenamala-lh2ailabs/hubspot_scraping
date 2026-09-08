@@ -1,0 +1,702 @@
+{
+ "techforceglobal.com": {
+  "deal": "342405992136",
+  "owner": "Lamiya",
+  "name": "Techforce Global",
+  "rank": "1",
+  "hint": "Sadhanand Rajanga"
+ },
+ "direction.biz": {
+  "deal": "342569048772",
+  "owner": "Yuktha",
+  "name": "Direction Software LLP",
+  "rank": "2",
+  "hint": "Nikhil Vinod Nayar"
+ },
+ "iamtechie.com": {
+  "deal": "342598252260",
+  "owner": "Lamiya",
+  "name": "Techies Infotech",
+  "rank": "3",
+  "hint": ""
+ },
+ "codemechsolutions.com": {
+  "deal": "342564098757",
+  "owner": "Yuktha",
+  "name": "Codemech Solutions",
+  "rank": "4",
+  "hint": ""
+ },
+ "avyatech.com": {
+  "deal": "342404483826",
+  "owner": "Lamiya",
+  "name": "Avya Technology Pvt Ltd",
+  "rank": "5",
+  "hint": "Chandan Kumar"
+ },
+ "zluck.com": {
+  "deal": "342409604851",
+  "owner": "Yuktha",
+  "name": "Zluck Solutions",
+  "rank": "6",
+  "hint": "Velanadu Bangalore Ganesh Swamy"
+ },
+ "quickensol.com": {
+  "deal": "342405992138",
+  "owner": "Lamiya",
+  "name": "Quickensol",
+  "rank": "8",
+  "hint": "Vaibhav Vasant Danve"
+ },
+ "shineinfosoft.in": {
+  "deal": "342596460280",
+  "owner": "Yuktha",
+  "name": "Shine Infosoft",
+  "rank": "9",
+  "hint": "Kuntal Ghosh"
+ },
+ "digitalwebweaver.com": {
+  "deal": "342399057646",
+  "owner": "Lamiya",
+  "name": "Digital Web Weaver",
+  "rank": "12",
+  "hint": "Vaibhav Kakkar"
+ },
+ "raystechserv.com": {
+  "deal": "342421876418",
+  "owner": "Yuktha",
+  "name": "Rays Techserv Private Limited",
+  "rank": "13",
+  "hint": "Hiral Keyur Shah"
+ },
+ "qodequay.com": {
+  "deal": "342400623340",
+  "owner": "Lamiya",
+  "name": "Qodequay Technologies",
+  "rank": "15",
+  "hint": "Sunil Bhikaji Mane"
+ },
+ "exavibes.com": {
+  "deal": "342596461244",
+  "owner": "Yuktha",
+  "name": "Exavibes Services Private Limited",
+  "rank": "16",
+  "hint": "Meenakshi Dev Prajapati"
+ },
+ "techaheadcorp.com": {
+  "deal": "342404483830",
+  "owner": "Lamiya",
+  "name": "TechAhead",
+  "rank": "17",
+  "hint": "Vikas Kaushik"
+ },
+ "xicom.biz": {
+  "deal": "342578476737",
+  "owner": "Yuktha",
+  "name": "Xicom",
+  "rank": "18",
+  "hint": "Arun Kumar Mahajan"
+ },
+ "vervesys.com": {
+  "deal": "342523966143",
+  "owner": "Lamiya",
+  "name": "Verve Systems Pvt. Ltd.",
+  "rank": "19",
+  "hint": "Pranita Chirendu Gupta"
+ },
+ "orioninfosolutions.com": {
+  "deal": "342570840802",
+  "owner": "Yuktha",
+  "name": "Orion InfoSolutions",
+  "rank": "20",
+  "hint": "Ritesh Kumar Singh"
+ },
+ "startdesigns.com": {
+  "deal": "342544443128",
+  "owner": "Lamiya",
+  "name": "Start Designs",
+  "rank": "21",
+  "hint": "Balarama Tondepu Krishna"
+ },
+ "shantiinfosoft.com": {
+  "deal": "342335641287",
+  "owner": "Yuktha",
+  "name": "Shanti Infosoft LLP",
+  "rank": "23",
+  "hint": "Rishabh Jain"
+ },
+ "axiussoftware.com": {
+  "deal": "342474679002",
+  "owner": "Lamiya",
+  "name": "axiusSoftware",
+  "rank": "25",
+  "hint": "Bharati Nandi"
+ },
+ "aexonic.com": {
+  "deal": "342569048776",
+  "owner": "Yuktha",
+  "name": "Aexonic Technologies",
+  "rank": "26",
+  "hint": ""
+ },
+ "taglineinfotech.com": {
+  "deal": "342467657456",
+  "owner": "Lamiya",
+  "name": "Tagline Infotech",
+  "rank": "27",
+  "hint": "Ajaykumar Vitthalbhai Bhayani"
+ },
+ "flipkoins.com": {
+  "deal": "342505048810",
+  "owner": "Yuktha",
+  "name": "Flipkoins",
+  "rank": "28",
+  "hint": ""
+ },
+ "conceptinfoway.net": {
+  "deal": "342456412879",
+  "owner": "Lamiya",
+  "name": "Concept Infoway",
+  "rank": "29",
+  "hint": ""
+ },
+ "gmtasoftware.com": {
+  "deal": "342400623341",
+  "owner": "Yuktha",
+  "name": "GMTA Software Solutions",
+  "rank": "30",
+  "hint": "Shubham Sharma"
+ },
+ "triveniglobalsoft.com": {
+  "deal": "342439474934",
+  "owner": "Lamiya",
+  "name": "Triveni Global Software Services LLP",
+  "rank": "31",
+  "hint": "Jatin Kiritkumar Tamakuwala"
+ },
+ "mindbowser.com": {
+  "deal": "342544445152",
+  "owner": "Yuktha",
+  "name": "Mindbowser InfoSolutions",
+  "rank": "32",
+  "hint": "Laxmikant Gangadhar Uttarwar"
+ },
+ "coderworldlabs.com": {
+  "deal": "342409606874",
+  "owner": "Lamiya",
+  "name": "Coder World Labs",
+  "rank": "33",
+  "hint": ""
+ },
+ "leadstocompany.com": {
+  "deal": "342570840805",
+  "owner": "Yuktha",
+  "name": "Leadstocompany",
+  "rank": "34",
+  "hint": ""
+ },
+ "durapid.com": {
+  "deal": "342569048778",
+  "owner": "Lamiya",
+  "name": "Durapid Technology Private Limited",
+  "rank": "39",
+  "hint": "Divya Jain ."
+ },
+ "msquaretec.com": {
+  "deal": "342335641290",
+  "owner": "Yuktha",
+  "name": "M-Square Technologies",
+  "rank": "40",
+  "hint": "Haris Kattakkulathil Punnackal"
+ },
+ "spysr.in": {
+  "deal": "342546251454",
+  "owner": "Lamiya",
+  "name": "Spysr",
+  "rank": "41",
+  "hint": "Pinky Devi"
+ },
+ "vdhosts.com": {
+  "deal": "342546251455",
+  "owner": "Yuktha",
+  "name": "VD Hosts",
+  "rank": "42",
+  "hint": "Shubham Singh"
+ },
+ "rheincs.com": {
+  "deal": "342511748830",
+  "owner": "Lamiya",
+  "name": "RheinBrucke IT Consulting Pvt Ltd",
+  "rank": "43",
+  "hint": "Viswanathan Jayanthi"
+ },
+ "revinfotech.com": {
+  "deal": "342546251458",
+  "owner": "Yuktha",
+  "name": "Revinfotech Inc",
+  "rank": "44",
+  "hint": ""
+ },
+ "iauro.com": {
+  "deal": "342501131993",
+  "owner": "Lamiya",
+  "name": "iauro systems pvt ltd",
+  "rank": "47",
+  "hint": "Devdatta Mahadeo Chandgadkar"
+ },
+ "digisoftsolution.com": {
+  "deal": "342497726138",
+  "owner": "Yuktha",
+  "name": "Digisoft Solution",
+  "rank": "50",
+  "hint": "Ashok Kumar Dabas"
+ },
+ "bitcot.com": {
+  "deal": "342459953882",
+  "owner": "Lamiya",
+  "name": "BitCot",
+  "rank": "52",
+  "hint": ""
+ },
+ "samaritaninfotech.com": {
+  "deal": "342501131994",
+  "owner": "Yuktha",
+  "name": "Samaritan InfoTech",
+  "rank": "53",
+  "hint": ""
+ },
+ "vivantatechnologies.com": {
+  "deal": "342472808127",
+  "owner": "Lamiya",
+  "name": "Vivanta Technologies",
+  "rank": "55",
+  "hint": "Puneet Singh"
+ },
+ "varstreetinc.com": {
+  "deal": "342467657462",
+  "owner": "Yuktha",
+  "name": "VARStreet Software (I) Private Limited",
+  "rank": "57",
+  "hint": ""
+ },
+ "karexpert.com": {
+  "deal": "342501131995",
+  "owner": "Lamiya",
+  "name": "KareXpert Technologies Private LImited",
+  "rank": "59",
+  "hint": ""
+ },
+ "spiralmantra.com": {
+  "deal": "342511748834",
+  "owner": "Yuktha",
+  "name": "Spiral Mantra Private Limited",
+  "rank": "60",
+  "hint": "Pratiksha Patahk"
+ },
+ "teksolto.com": {
+  "deal": "342459953885",
+  "owner": "Lamiya",
+  "name": "Teksolto Softwares",
+  "rank": "61",
+  "hint": "Hemant Dnyaneshwar Sandbhor"
+ },
+ "ankpal.com": {
+  "deal": "342409606879",
+  "owner": "Yuktha",
+  "name": "Ankpal Technologies Private Limited",
+  "rank": "62",
+  "hint": "Sanket A Thakkar"
+ },
+ "naturalgrp.com": {
+  "deal": "342412903133",
+  "owner": "Lamiya",
+  "name": "Natural",
+  "rank": "63",
+  "hint": "Sayed Mohamed Ali"
+ },
+ "6degreesit.com": {
+  "deal": "342564098766",
+  "owner": "Yuktha",
+  "name": "6DegreesIT",
+  "rank": "64",
+  "hint": "Anjali Prakash Chitalkar"
+ },
+ "assettl.com": {
+  "deal": "342400623346",
+  "owner": "Lamiya",
+  "name": "Asset Telematics Pvt Ltd",
+  "rank": "66",
+  "hint": ""
+ },
+ "airamatrix.com": {
+  "deal": "342574408411",
+  "owner": "Yuktha",
+  "name": "Airamatrix Private Limited",
+  "rank": "68",
+  "hint": "Shikhar Sharma"
+ },
+ "nelito.com": {
+  "deal": "342501131997",
+  "owner": "Lamiya",
+  "name": "Nelito Systems Private Limited",
+  "rank": "69",
+  "hint": "Sanjay Dube"
+ },
+ "qservicesit.com": {
+  "deal": "342404485857",
+  "owner": "Yuktha",
+  "name": "QServices INC",
+  "rank": "70",
+  "hint": "Subhash Chander Wadhawan"
+ },
+ "kritilabs.com": {
+  "deal": "342409606881",
+  "owner": "Lamiya",
+  "name": "KritiLabs Technologies Private Limited",
+  "rank": "71",
+  "hint": "Lalgudi Natarajan Rajaram"
+ },
+ "webmyne.com": {
+  "deal": "342546251461",
+  "owner": "Yuktha",
+  "name": "Webmyne Systems",
+  "rank": "72",
+  "hint": "Nihar Ajitkumar Shah"
+ },
+ "softlabsgroup.com": {
+  "deal": "342412903134",
+  "owner": "Lamiya",
+  "name": "Softlabs Group",
+  "rank": "73",
+  "hint": ""
+ },
+ "xanthus.in": {
+  "deal": "342511748838",
+  "owner": "Yuktha",
+  "name": "Xanthus Innovations",
+  "rank": "74",
+  "hint": "Ravindra Ramacharlu Manohar"
+ },
+ "hourlydeveloper.io": {
+  "deal": "342335641298",
+  "owner": "Lamiya",
+  "name": "HourlyDeveloper.io",
+  "rank": "75",
+  "hint": ""
+ },
+ "i-verve.com": {
+  "deal": "342420121288",
+  "owner": "Yuktha",
+  "name": "i-Verve Inc",
+  "rank": "76",
+  "hint": "Mohammedbilal Mumtazali Momin"
+ },
+ "qdevtechnolab.com": {
+  "deal": "342523966150",
+  "owner": "Lamiya",
+  "name": "QDev Technolab",
+  "rank": "77",
+  "hint": ""
+ },
+ "startxlabs.com": {
+  "deal": "342499375824",
+  "owner": "Yuktha",
+  "name": "StartxLabs Technologies Private Limited",
+  "rank": "78",
+  "hint": "Deep Chand"
+ },
+ "arkinfosoft.com": {
+  "deal": "342420121292",
+  "owner": "Lamiya",
+  "name": "Ark infosoft",
+  "rank": "79",
+  "hint": "Khaja Mohsinuddin Ahmed"
+ },
+ "ittiam.com": {
+  "deal": "342596461255",
+  "owner": "Yuktha",
+  "name": "Ittiam Systems Pvt Ltd",
+  "rank": "80",
+  "hint": "Ashish Agrawal"
+ },
+ "zealousys.com": {
+  "deal": "342439475907",
+  "owner": "Lamiya",
+  "name": "Zealous System",
+  "rank": "81",
+  "hint": "Datta Manoj Mehta"
+ },
+ "ezytmtechnologies.com": {
+  "deal": "342505049794",
+  "owner": "Yuktha",
+  "name": "Ezytmtechnologies",
+  "rank": "83",
+  "hint": "Leeladhar Dhidhariya"
+ },
+ "patoliyainfotech.com": {
+  "deal": "342456412888",
+  "owner": "Lamiya",
+  "name": "Patoliya Infotech",
+  "rank": "84",
+  "hint": "Vijaybhai Babubhai Patoliya"
+ },
+ "softradix.com": {
+  "deal": "342564101864",
+  "owner": "Yuktha",
+  "name": "SOFT RADIX TECHNOLOGIES PRIVATE LIMITED",
+  "rank": "86",
+  "hint": "Sakeena Karamat Mir"
+ },
+ "shadowinfosystem.com": {
+  "deal": "342399059686",
+  "owner": "Lamiya",
+  "name": "Shadow infosystem",
+  "rank": "88",
+  "hint": "Kavita Verma"
+ },
+ "webgarh.com": {
+  "deal": "342523966161",
+  "owner": "Yuktha",
+  "name": "WebGarh Solutions",
+  "rank": "89",
+  "hint": "Money Singla"
+ },
+ "atologistinfotech.com": {
+  "deal": "342412903142",
+  "owner": "Lamiya",
+  "name": "Atologist Infotech Pvt Ltd",
+  "rank": "91",
+  "hint": "Satishkumar Mansukhlal Sangani"
+ },
+ "karmsoft.com": {
+  "deal": "342570841787",
+  "owner": "Yuktha",
+  "name": "Karmsoft",
+  "rank": "92",
+  "hint": "Rajendran Kasthuri"
+ },
+ "zordial.com": {
+  "deal": "342472808148",
+  "owner": "Lamiya",
+  "name": "Zordial Technologies Pvt. Ltd.",
+  "rank": "94",
+  "hint": "Hemant Paliwal"
+ },
+ "bloomcs.com": {
+  "deal": "342459953897",
+  "owner": "Yuktha",
+  "name": "Bloom Consulting Services",
+  "rank": "95",
+  "hint": "Manish Tolaram Kungwani"
+ },
+ "reapmind.com": {
+  "deal": "342596462329",
+  "owner": "Lamiya",
+  "name": "ReapMind Innovations Pvt Ltd",
+  "rank": "96",
+  "hint": "Shaikh Aroof Hajimalan"
+ },
+ "techtez.com": {
+  "deal": "342576212721",
+  "owner": "Yuktha",
+  "name": "TechTez LLP",
+  "rank": "97",
+  "hint": "Arunkumar Sankarlingam"
+ },
+ "esferasoft.com": {
+  "deal": "342439475931",
+  "owner": "Lamiya",
+  "name": "Esferasoft Solutions Pvt. Ltd.",
+  "rank": "98",
+  "hint": ""
+ },
+ "sstechsystem.com": {
+  "deal": "342523966167",
+  "owner": "Yuktha",
+  "name": "SSTech System",
+  "rank": "100",
+  "hint": "Sandesh Suryakant Choughule"
+ },
+ "overseaswebsolution.com": {
+  "deal": "342546251480",
+  "owner": "Lamiya",
+  "name": "Overseas Web Solution",
+  "rank": "101",
+  "hint": "Sanjeev Kumar"
+ },
+ "rejoicehub.com": {
+  "deal": "342572634863",
+  "owner": "Yuktha",
+  "name": "Rejoicehub",
+  "rank": "103",
+  "hint": "Yashkumar Natavarlal Makavana"
+ },
+ "caliberfocus.com": {
+  "deal": "342459953909",
+  "owner": "Lamiya",
+  "name": "CaliberFocus Business Solutions Private Limited",
+  "rank": "106",
+  "hint": ""
+ },
+ "fareportal.com": {
+  "deal": "342564101872",
+  "owner": "Yuktha",
+  "name": "Fare Portal India Private Limited",
+  "rank": "107",
+  "hint": "Saurabh Atrey"
+ },
+ "inspironlabs.com": {
+  "deal": "342497726174",
+  "owner": "Lamiya",
+  "name": "InspironLabs",
+  "rank": "108",
+  "hint": ""
+ },
+ "codebergit.com": {
+  "deal": "342467658440",
+  "owner": "Yuktha",
+  "name": "CodebergIT (Hiring & Tech Partner)",
+  "rank": "109",
+  "hint": ""
+ },
+ "navtark.com": {
+  "deal": "342564101874",
+  "owner": "Lamiya",
+  "name": "NavTark Solutions Pvt. Ltd.",
+  "rank": "110",
+  "hint": "Vinay Sharma ."
+ },
+ "gtcsys.com": {
+  "deal": "342564101877",
+  "owner": "Yuktha",
+  "name": "GTCSYS",
+  "rank": "111",
+  "hint": "Mukesh Devji Lagadhir"
+ },
+ "silverskytechnology.com": {
+  "deal": "342544445177",
+  "owner": "Lamiya",
+  "name": "SilverSky Technology",
+  "rank": "112",
+  "hint": ". Kayathri"
+ },
+ "asiczen.com": {
+  "deal": "342499376846",
+  "owner": "Yuktha",
+  "name": "Asiczen Technologies India Private Limited",
+  "rank": "114",
+  "hint": "Rashmiranjan Mohapatra"
+ },
+ "innovatorwebsolutions.com": {
+  "deal": "342459954876",
+  "owner": "Lamiya",
+  "name": "Innovator web solution",
+  "rank": "115",
+  "hint": "Hirenkumar Rasiklal Vakhariya"
+ },
+ "vcareall.com": {
+  "deal": "342474680013",
+  "owner": "Yuktha",
+  "name": "VcareAll Solution Pvt. Ltd.",
+  "rank": "117",
+  "hint": "Aditya Tomar"
+ },
+ "bynaric.in": {
+  "deal": "342399060672",
+  "owner": "Lamiya",
+  "name": "Bynaric Systems Pvt. Ltd.",
+  "rank": "118",
+  "hint": ""
+ },
+ "aretesoftwares.com": {
+  "deal": "342409608945",
+  "owner": "Yuktha",
+  "name": "Arete Softwares",
+  "rank": "119",
+  "hint": "Dhanya Puzhakkal"
+ },
+ "coactivesolutions.co.in": {
+  "deal": "342501133014",
+  "owner": "Lamiya",
+  "name": "Coactive Solutions",
+  "rank": "120",
+  "hint": ""
+ },
+ "zebratechies.com": {
+  "deal": "342405993149",
+  "owner": "Yuktha",
+  "name": "Zebra Techies Solution",
+  "rank": "121",
+  "hint": ""
+ },
+ "qualifyde.com": {
+  "deal": "342546251495",
+  "owner": "Lamiya",
+  "name": "Qualifyde Technologies Private Limited",
+  "rank": "122",
+  "hint": "Shashi Vardhan Reddy Kauravlla"
+ },
+ "tech2globe.com": {
+  "deal": "342409608949",
+  "owner": "Yuktha",
+  "name": "Tech2Globe Web Solutions LLP",
+  "rank": "123",
+  "hint": "Jatinder Kaur Sethi"
+ },
+ "opcito.com": {
+  "deal": "342553274079",
+  "owner": "Lamiya",
+  "name": "Opcito Technologies Private Limited",
+  "rank": "124",
+  "hint": "Chaitanya Vasudeo Jawale"
+ },
+ "deboxglobal.com": {
+  "deal": "342421877443",
+  "owner": "Yuktha",
+  "name": "DEBOX GLOBAL",
+  "rank": "125",
+  "hint": "Ikram Khan"
+ },
+ "oasys.co": {
+  "deal": "342497727169",
+  "owner": "Lamiya",
+  "name": "Oasys Cybernetics Private Limited",
+  "rank": "126",
+  "hint": ""
+ },
+ "salasarcybersolutions.com": {
+  "deal": "342576213723",
+  "owner": "Yuktha",
+  "name": "Salasar Cyber Solutions",
+  "rank": "127",
+  "hint": "Ankit Sharma"
+ },
+ "comvalitsolutions.com": {
+  "deal": "342546251502",
+  "owner": "Lamiya",
+  "name": "Comval IT Solutions PVT Ltd",
+  "rank": "128",
+  "hint": ""
+ },
+ "logiquad.com": {
+  "deal": "342420121337",
+  "owner": "Yuktha",
+  "name": "LogiQuad Solutions Private Limited",
+  "rank": "129",
+  "hint": ""
+ },
+ "nectarbits.com": {
+  "deal": "342569050857",
+  "owner": "Lamiya",
+  "name": "Nectarbits Pvt. Ltd.",
+  "rank": "130",
+  "hint": "Hetal Patel Himanshubhai"
+ },
+ "intellinetsystem.com": {
+  "deal": "342474680028",
+  "owner": "Yuktha",
+  "name": "Intellinet Systems Pvt Ltd",
+  "rank": "131",
+  "hint": "Radhey Shyam Gupta"
+ }
+}

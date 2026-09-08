@@ -1,0 +1,35 @@
+source,name,city,website,domain,founded_year,size_band,band_label,headcount,headcount_unknown,whale_candidate,staffing_mix,lane_reason
+ITDIR:infopark,Braid Technologies Pvt. Ltd,Kochi,https://braidtechnologies.com,braidtechnologies.com,,,,,True,False,False,home:http503
+ITDIR:infopark,CipherPeak Private Limited,Kochi,https://cipherpeakpvtltd.com,cipherpeakpvtltd.com,,,,,True,False,False,home:URLError
+ITDIR:infopark,Codmeric Infotech Pvt. Ltd.,Kochi,https://codmeric.com,codmeric.com,,,,,True,False,False,home:timeout
+ITDIR:infopark,CSEIDC TECHNOLOGIES PVT LTD,Kochi,https://cse.com,cse.com,,,,,True,False,False,home:timeout
+ITDIR:infopark,DOCGIANT SERVICES INDIA PVT.LTD.,Kochi,https://docgiant.in,docgiant.in,,,,,True,False,False,home:URLError
+ITDIR:infopark,Exor India Pvt Ltd.,Kochi,https://hr.in,hr.in,,,,,True,False,False,home:URLError
+ITDIR:infopark,FIRMINIQ SYSTEMS,Kochi,https://firminiq.com,firminiq.com,,,,,True,False,False,home:http403
+ITDIR:infopark,Hotpack Global,Kochi,https://hotpackglobal.com,hotpackglobal.com,,,,,True,False,False,home:http403
+ITDIR:infopark,Jobin & Jismi Pvt. Ltd.,Kochi,https://jobinandjismi.com,jobinandjismi.com,,,,,True,False,False,home:http403
+ITDIR:infopark,Katzion Technology Solutions LLP,Kochi,https://katzion.com,katzion.com,,,,,True,False,False,home:http400
+ITDIR:infopark,McFadyen Digital,Kochi,https://mcfadyen.com,mcfadyen.com,,,,,True,False,False,home:URLError
+ITDIR:infopark,Media Systems India,Kochi,https://msisoft.in,msisoft.in,,,,,True,False,False,home:URLError
+ITDIR:infopark,Mozilor Technologies Pvt. Ltd.,Kochi,https://mozilor.com,mozilor.com,,,,,True,False,False,home:URLError
+ITDIR:infopark,Neem Info Solutions Pvt. Ltd.,Kochi,https://neemsoftware.com,neemsoftware.com,,,,,True,False,False,home:URLError
+ITDIR:infopark,NOMD Technologies,Kochi,https://nomdindia.com,nomdindia.com,,,,,True,False,False,home:URLError
+ITDIR:infopark,Nymbl,Kochi,https://benymbl.co,benymbl.co,,,,,True,False,False,home:http308
+ITDIR:infopark,Orion India Systems Pvt. Ltd.,Kochi,https://orioninc.com,orioninc.com,,,,,True,False,False,home:http403
+ITDIR:infopark,Outsource Partners International,Kochi,https://opiglobal.com,opiglobal.com,,,,,True,False,False,home:http503
+ITDIR:infopark,Planet Media India ( PMIN Agency Pvt.Ltd.),Kochi,https://planetmedia.in,planetmedia.in,,,,,True,False,False,home:http308
+ITDIR:infopark,Senscript Technologies Pvt Ltd,Kochi,https://senscript.ai,senscript.ai,,,,,True,False,False,home:URLError
+ITDIR:infopark,Spiralcode Innovates LLP,Kochi,https://spiralcode.in,spiralcode.in,,,,,True,False,False,home:http308
+ITDIR:infopark,Stepping Stone Consultancy Services,Kochi,https://steppingstoneconsultancy.com,steppingstoneconsultancy.com,,,,,True,False,False,home:URLError
+ITDIR:infopark,Talk Digital Pvt. Ltd.,Kochi,https://talkdigital.com,talkdigital.com,,,,,True,False,False,home:URLError
+ITDIR:infopark,Techfriar Technologies,Kochi,https://techfriar.com,techfriar.com,,,,,True,False,False,home:URLError
+ITDIR:infopark,Thriveminds Technologies Pvt. Ltd.,Kochi,https://thrivemindsinnovations.com,thrivemindsinnovations.com,,,,,True,False,False,home:URLError
+ITDIR:infopark,US Technology International Pvt Ltd,Kochi,https://ust-global.com,ust-global.com,,,,,True,False,False,home:http403
+ITDIR:infopark,Vistas Global Intellect Private Limited,Kochi,https://vistasglobal.com,vistasglobal.com,,,,,True,False,False,home:http308
+ITDIR:infopark,Vortexen Dynamics,Kochi,https://vortexen.com,vortexen.com,,,,,True,False,False,home:http404
+ITDIR:sida,Deity Technologies,Madurai,https://deitytech.com,deitytech.com,,,,,True,False,False,home:timeout
+ITDIR:sida,Immaculate Data Solutions Private Limited,Madurai,https://upwork.com,upwork.com,,,,,True,False,False,home:http403
+ITDIR:sida,Mastermind Consultancy Services,Madurai,https://mastermindtechies.com,mastermindtechies.com,,,,,True,False,False,home:URLError
+ITDIR:sida,Oyyar Consulting Service,Madurai,https://oyyar.com,oyyar.com,,,,,True,False,False,home:URLError
+ITDIR:sida,SEM-N-SEO,Madurai,https://sem-n-seo.com,sem-n-seo.com,,,,,True,False,False,home:http403
+ITDIR:sida,V3 Analytics Private Limited,Madurai,https://v3analytics.in,v3analytics.in,,,,,True,False,False,home:http308

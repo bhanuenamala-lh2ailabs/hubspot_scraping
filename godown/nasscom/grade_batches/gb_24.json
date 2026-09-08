@@ -1,0 +1,873 @@
+[
+ {
+  "name": "Ameriprise India LLP",
+  "city": "Gurugram",
+  "domain": "ameriprise.com",
+  "website": "https://www.ameriprise.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 509900,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "We’re built on a financial foundation so strong; it supports millions of clients."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Amista Solutions India Private Limited",
+  "city": "Hyderabad",
+  "domain": "amista.com",
+  "website": "https://www.amista.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1997-07-07",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 877,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Amnex Infotechnologies Private Limited",
+  "city": "Ahmedabad",
+  "domain": "amnex.com",
+  "website": "https://amnex.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 18072,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Our leadership team is at the helm of innovation, propelling Amnex to new heights and shaping the future of technology."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Anant Atom Consultancy Private Limited",
+  "city": "Navi Mumbai",
+  "domain": "atombuild.com",
+  "website": "https://atombuild.com",
+  "already_in_hubspot": false,
+  "headcount_known": 267,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 35751,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 17,
+   "cicd": 17,
+   "senior_roles": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "TB-scale retrieval Workflow automation Audit-ready trails Outcome: 90% faster document retrieval Healthcare Unified fragmented health records into a governed system powering reliable, cross-service patient views.",
+    "Unified view Governance patterns Production-grade APIs Outcome: Single patient view across 12 systems Insurance Ops Consolidated diagnostics, delivery, agent workflows, and insurer integrations into one operational control layer.",
+    "Sectors We Power Sector case strips Anonymized proofs across aviation, healthcare, insurance, education and more.",
+    "Strict governance requirements What we ship Protected data layers (RBAC/ABAC) & PHI masking Retrieval-augmented clinical assistance Near real-time ops dashboards Impact Safer decisions, faster service, confident compliance View Case Study Insurance & Risk Modern underwriting & claims The challenge"
+   ],
+   "cicd": [
+    "Modern lakehouse Faster queries Lower ops overhead Outcome: 10x query performance improvement Payments & Reconciliation Reduced refund leakage and reconciliation effort with governed pipelines and exception analytics.",
+    "Increasing audit pressure What we ship Document-AI pipelines for claims & underwriting Fraud signals & pricing/underwriting analytics Regulatory packs with traceable lineage Impact Lower loss leakage, shorter cycle times, cleaner audits Media & Publishing Archive-to-insight The challenge",
+    "Python PySpark Spark SQL Trino BigQuery +5 Arjun Mehta Senior Data Engineer Builds and maintains production-grade data pipelines on AWS EMR with Spark and Iceberg.",
+    "Spark Kafka Iceberg AWS EMR Python +1 Priya Sharma Platform Engineer Designs and operates Kubernetes-based data infrastructure."
+   ],
+   "senior_roles": [
+    "dbt SQL BigQuery Looker Snowflake +1 Rahul Singh Site Reliability Engineer (Data) Ensures 99.9%+ uptime for data infrastructure.",
+    "SRE Monitoring Alerting AWS Python +1 Ananya Gupta Solutions Architect Bridges business requirements with technical implementation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Anibrain Digital Technologies Pvt Ltd",
+  "city": "Pune",
+  "domain": "anibrain.com",
+  "website": "https://anibrain.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 20790,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "APCO Worldwide (India) Private Limited",
+  "city": "New Delhi",
+  "domain": "apcoworldwide.com",
+  "website": "https://apcoworldwide.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nclusion Accelerate What’s Right Locations News Awards Work Case Studies Blog Contact search-trigger APCO Acquires Four Companies Learn how Gagen MacD"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 3381,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Apconic Software Private Limited",
+  "city": "Pune",
+  "domain": "apconic.com",
+  "website": "https://www.apconic.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 15011,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Applix Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "applix.ai",
+  "website": "https://applix.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2023-09-18",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 952,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "qa": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our platform unifies machine signals, sensor data, computer vision, and workflows into one intelligent layer of insight and control."
+   ],
+   "qa": [
+    "04 Mechanical & Industrial Engineering CAD/CAE/CAM, structures and hydraulics, process planning, quality engineering, and lifecycle management for complex manufacturing environments."
+   ],
+   "DQ_support": [
+    "05 Embedded Systems Power drives, battery systems, control units, and hardware/software integration, engineered for reliability and scale."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "AppSmartz",
+  "city": "Mohali",
+  "domain": "appsmartz.com",
+  "website": "https://www.appsmartz.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "AppSmartz - Mobile Apps, Android, iOS, Internet of Things, Enterprise Mobility Skip to content 8000190000 A-40A, Qu"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1177,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Read More Our Products Radio FM Radio FM Radio, Podcasts & Audio Dramas Listen to 50,000+ radio stations, 180,000+ podcasts, and audio dramas on Radio FM, from across the world, wherever you are, wherever you go."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Apt Software Avenues Pvt Ltd",
+  "city": "Kolkata",
+  "domain": "aptsoftware.com",
+  "website": "https://aptsoftware.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 52,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "VoLTE Products | Services Toggle navigation Services About Case Studies Startups Blog Career More WebRTC Demo Get in Touch Services Our core areas Bi"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 5516,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 2,
+   "enterprise": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "See more… Testing & QA We let our deliveries speak for themselves.",
+    "Be it Test Driven Development or using open source test automation frameworks for rapid test and verification, Quality is a subject that is close to our heart and an integral part of the entire process."
+   ],
+   "enterprise": [
+    "You can be a “digital nomad” Health and Wellness The company participates in health insurance plans for employees Salary and Options Our compensation scheme is fair."
+   ],
+   "owns_product": [
+    "You can try us immediately with a free engagement for Internet based research on your product Evaluation of your product design or architecture Transforming the Future with Cutting-Edge Technologies, our commitment lies in Empowering a Connected World."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Aptagrim Consulting Private Limited",
+  "city": "Hyderabad",
+  "domain": "aptagrim.com",
+  "website": "https://aptagrim.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2012-02-22",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 4,
+   "DQ_template": 1,
+   "enterprise": 3
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Book a Discovery Meeting AI product engineering for teams building practical, scalable digital transformation.",
+    "October 13, 2023 Explore View More AI product engineering for teams building practical, scalable digital transformation.",
+    "info@aptagrim.com Products bidPlan psyHire AI Product Engineering Generative AI Computer Vision Agentic AI Large Language Models Resources Insights Case Studies Research Company About Aptagrim Get in touch Aptagrim © 2026 , All rights reserved India · Ireland · Singapore"
+   ],
+   "DQ_template": [
+    "The solution includes techniques like grid and trace splitting, color detection, trace pixel classification, template detection, text extraction and recognition, template matching, outlier removal and pressure value analysis."
+   ],
+   "enterprise": [
+    "October 13, 2023 Explore Harnessing the power of Psychometrics in the banking sector to drive positive change for the public good.",
+    "Unlocking the Value of Psychometrics in the Banking Sector for a greater public good.",
+    "Harnessing the power of Psychometrics in the banking sector to drive positive change for the public good."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Aptia Group India Private Limited",
+  "city": "Mumbai",
+  "domain": "aptia-group.com",
+  "website": "https://aptia-group.com/en-gb",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 19226,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 10,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Contact us © Aptia Group Limited is the holding company of Aptia Insurance Services Group LLC that operates in the US, and Aptia UK Limited that operates in the UK.",
+    "Pensions, Health & Insurance Solutions Skip to main content PENSION HELP USA UK Main Navigation UK USA",
+    "View All Insights & Resources Get in touch WHY APTIA The future of pensions, health and insurance solutions At Aptia, we are dedicated to simplifying complexity for businesses and individuals.",
+    "Explore US solutions Explore UK solutions MISSION Powered by technology and talent, we bring clarity to complexity in pensions, health, and insurance solutions.​ Our strength lies in the combination of smart technology and expert teams, ensuring that managing pensions, health, and insurance is more effective."
+   ],
+   "DQ_support": [
+    "In this episode of the Aptia Pensions Pod, we explore the Pension Decision Service and how it supports schemes by helping their members better understand their options."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "AQM Technologies Private Limited",
+  "city": "Mumbai",
+  "domain": "aqmtechnologies.com",
+  "website": "https://aqmtechnologies.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "services provider in the country All India MEA US About Us Case Studies Whitepapers Careers Blog Contact Us Services Account Aggregator Testing Digit"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 885400,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "We are, however focussed on the BFSI sector, serving leading companies in this space.",
+    "We work with seven of the top 10 Banks in the country and with all the Major Insurance companies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Arcesium India Private Limited",
+  "city": "Hyderabad",
+  "domain": "arcesium.com",
+  "website": "https://www.arcesium.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "oom Events & Webinars Whitepapers Blogs & Articles Podcasts Case Studies Videos Contact Menu Button A Unified Data Platform. Powerful Domain-Aware Cap"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [
+    "https://job-boards.greenhouse.io/arcesiumllc/jobs/5185433007",
+    "https://job-boards.greenhouse.io/arcesiumllc/jobs/5092481007",
+    "https://job-boards.greenhouse.io/arcesiumllc/jobs/5056665007",
+    "https://job-boards.greenhouse.io/arcesiumllc/jobs/4526979007",
+    "https://job-boards.greenhouse.io/arcesiumllc/jobs/5169479007",
+    "https://job-boards.greenhouse.io/arcesiumllc/jobs/5165409007",
+    "https://job-boards.greenhouse.io/arcesiumllc/jobs/4854828007",
+    "https://job-boards.greenhouse.io/arcesiumllc/jobs/4371875007",
+    "https://job-boards.greenhouse.io/arcesiumllc/jobs/5143964007",
+    "https://job-boards.greenhouse.io/arcesiumllc/jobs/5090453007"
+   ],
+   "jd_chars": 388935,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 4,
+   "sdlc": 2,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Read More Recognized in the Media Our Platforms Opterra Limina Aquata Opterra® Operational Platform Opterra® is the front-to-back platform that simplifies complex workflows, unlocks operational clarity, and drives investment performance.",
+    "We constantly innovate our platform and capabilities to meet tomorrow’s challenges, anticipate the risks our clients encounter, and design advanced solutions to help our clients achieve transformational business outcomes.",
+    "The Client Success Service Solutions (CS3) team is dedicated to building lasting partnerships that create value, foster trust, and ensure our clients maximize the full potential of our products and services to achieve the outcomes they desire.",
+    "\"As our platform continues to scale, having the right operational infrastructure is critical,\" said Jon Knipper, Chief Operating Officer of Feynman Point Asset Management."
+   ],
+   "sdlc": [
+    "I look forward to welcoming you on board and witnessing your contributions to our continued success!\" Gaurav Suri Chief Executive Officer How We Work When considering a career with Arcesium, it's important to align with values of innovation, collaboration, and excellence.",
+    "Discover the difference Arcesium can make for your business Arcesium’s technology is designed by industry professionals, built to streamline your processes, enhance data accuracy, and empower your business decisions."
+   ],
+   "senior_roles": [
+    "Andreas Wang Principal Engineer Transitioning from the tech industry to a fintech firm, I was pleasantly surprised by the welcoming and supportive culture at Arcesium."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Arche Global Private Limited",
+  "city": "Coimbatore",
+  "domain": "arche.global",
+  "website": "https://arche.global/",
+  "already_in_hubspot": true,
+  "headcount_known": 228,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 47841,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 9,
+   "senior_roles": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Healthcare Healthcare Healthcare Travel Travel Travel Higher-Ed Higher-Ed Higher-Ed Smart cities Smart cities Smart cities Manufacturing Manufacturing Manufacturing BFSI BFSI BFSI Retail Retail Retail Defense Defense Defense Tech modernization Tech modernization Tech modernization As-a-Service.",
+    "Ecosystem of partnerships Ecosystem of partnerships Ecosystem of partnerships View all partners “In an era of digital Healthcare, data is very critical to patient care.",
+    "Healthcare IT is constantly challenged with the risk of data breach and Cyber-attacks.",
+    "We are satisfied with their technical expertise and agility.” “In an era of digital Healthcare, data is very critical to patient care."
+   ],
+   "senior_roles": [
+    "Our collaborative environment combines the agility of a startup with the resources of a global tech leader, fostering creativity and breakthrough solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Archimedis Digital Private Limited",
+  "city": "Chennai",
+  "domain": "archimedis.io",
+  "website": "https://archimedis.io/",
+  "already_in_hubspot": true,
+  "headcount_known": 172,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "al Transformation Solutions Home Services Products Insights Our Work About Us Contact Us Menu Home Services Products Insights Our Work About Us Contac"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 26054,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 9,
+   "sdlc": 17,
+   "prod_eng": 4,
+   "DQ_support": 4
+  },
+  "site_quotes": {
+   "enterprise": [
+    "At Archimedis Digital, we use our domain knowledge, technological capabilities, and high-innovation capacity to support and accelerate organizations in the life sciences and healthcare sector.",
+    "We help them reinvent digitally while navigating the complexities of a highly-regulated industry and making an impact that pushes boundaries.",
+    "DevOps ‘Juicing up’ your ability to deliver applications and services with practices that create the perfect harmony for development and operations Milestone The milestones of Our Journey till now 2015 The Start The birth of the Digital division of Archimedis Healthcare."
+   ],
+   "sdlc": [
+    "Cloud Engineering Our experts facilitate cloud infrastructure and services, creating an agile, scalable, resource- and cost-efficient, on-demand environment.",
+    "ERP for Life Sciences Built on the world famous Frappe framework, \"eCapsule\" makes organizations efficient, consistent, agile and compliant - naturally and digitally.",
+    "Product Engineering We partner with our customers to turn ideas into reality with our agile and unique Product Value Stream process.",
+    "We offer innovative, affordable, high-value, scalable, impactful solutions developed to overcome their unique business challenges with an agile working methodology."
+   ],
+   "prod_eng": [
+    "Product Engineering We partner with our customers to turn ideas into reality with our agile and unique Product Value Stream process."
+   ],
+   "DQ_support": [
+    "Help Desk Support We help implement innovative service and support strategies to meet customer needs and expectations and provide customer value."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Arithra Business Consulting Private Limited",
+  "city": "Bengaluru",
+  "domain": "arithra.com",
+  "website": "https://www.arithra.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2011-06-28",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Arithra’s Business Finance team make operations agile and robust."
+   ],
+   "DQ_training": [
+    "Read More Media Deployment Media deployment services execute strategies across channels, managing placements, coordination, timelines, and performance to ensure consistent messaging, delivery, and measurable impact aligned with business objectives."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Arodek Technology Consulting Private Limited",
+  "city": "Kolkata",
+  "domain": "arodek.com",
+  "website": "https://arodek.com/",
+  "already_in_hubspot": true,
+  "headcount_known": "n/a",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "oCRM aroSRM aroOCR SmartWork aroSafe Industries Career Blog Case Studies English English English English --> Re-Discover Your Resource Potential Expan"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 8084,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 4
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Having held key roles at PwC, Accenture, and Capgemini, he has served as the chief technical architect for major clients in the USA, UK, Australia, the Middle East, and India.",
+    "He has been playing Solution Architect role since last 8 years.",
+    "He was technical solution architect in SAP HANA implementation in Willowood, Technical architect in ASK Chemical for MEXICO Finance roll-out.",
+    "Rahul Sinha Director Rahul is an experienced web application solution architect with 14+ years in ERP/CRM customization, RPA, Blockchain, and end-to-end web solutions across diverse industries."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Arrk Solutions Pvt Ltd",
+  "city": "Navi Mumbai",
+  "domain": "arrkgroup.com",
+  "website": "https://www.arrkgroup.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2003-09-25",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 6279,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 11,
+   "DQ_support": 1,
+   "enterprise": 2,
+   "senior_roles": 1,
+   "prod_eng": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Arrk Group – Software That Works Skip to content Toggle Navigation Our Services Digital Transformation Artificial Intelligence Business Intelligence MarTech Cloud Computing How We Work Delivery Arrkitecture Insights About Us Why Arrk?",
+    "Our Leadership Our Journey Our Values Careers Contact Us Toggle Navigation Our Services Digital Transformation Artificial Intelligence Business Intelligence MarTech Cloud Computing How We Work Delivery Arrkitecture Insights About Us Why Arrk?",
+    "Organisations that move too slowly risk being outpaced by more agile competitors and new market entrants.",
+    "Rising from a software engineer through roles like Product Owner, Scrum Master and Delivery Manager, Sidd now leads a high-performing team of consultants and engineers."
+   ],
+   "DQ_support": [
+    "Colleagues from all the different areas, from Management to helpdesk, account management, marketing and IT were able to come together to work as one team to design the new customer journey."
+   ],
+   "enterprise": [
+    "Read More Artificial Intelligence , Case Studies , Digital Transformation Modernising a Healthcare Application for Better Performance and Scalability Discover how Arrk Group used AI-assisted tools to modernise a Customer’s legacy application, supporting a faster and more efficient delivery process.",
+    "Prior to founding Arrk he spent several years working as a board-level IT Director in the insurance and financial services sector."
+   ],
+   "senior_roles": [
+    "His unique expertise bridges complex technical architecture and strategic commercial business issues."
+   ],
+   "prod_eng": [
+    "He brings rigorous operational leadership, deep industry insight and a passion for engineering excellence to every partnership.",
+    "Deliver – End-to-end delivery focused on measurable business outcomes From product development and platform engineering to AI, cloud, and digital transformation initiatives, we take responsibility for turning ideas into results."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Arthrex Software Engineering Private Limited",
+  "city": "Pune",
+  "domain": "arthrex.com",
+  "website": "https://www.arthrex.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

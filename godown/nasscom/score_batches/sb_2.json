@@ -1,0 +1,1046 @@
+[
+ {
+  "name": "CLSA Technology & Services LLP",
+  "city": "Pune",
+  "domain": "clsa.com",
+  "website": "https://www.clsa.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "19981203",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "DQ_training": 2,
+   "enterprise": 1
+  },
+  "evidence_excerpts": {
+   "DQ_training": [
+    "Internships CITIC CLSA offers a comprehensive eight-week internship programme for aspiring graduates considering a career in financial services in Asia.",
+    "To learn more about the CITIC CLSA internship programme please click here ."
+   ],
+   "enterprise": [
+    "We employ experienced professionals across the equity broking, investment banking and asset management businesses."
+   ]
+  }
+ },
+ {
+  "name": "CodeTantra Tech Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "codetantra.com",
+  "website": "https://www.codetantra.com/",
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "ve courses Award winning programming courses Programming in Python Programming in Java Programming in C Programming in C++ Courses on popular technolo",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "DQ_template": 1,
+   "sdlc": 1
+  },
+  "evidence_excerpts": {
+   "DQ_template": [
+    "Bulk import of question banks - automatic where standardized templates are used and manual as part of premium support services for ad hoc formats Manually evaluated question types include subjective essay, viva voce, document upload, etc."
+   ],
+   "sdlc": [
+    "Before co-founding CodeTantra with his BITS, Pilani batch mate Ravi, he had co-founded TalentSprint."
+   ]
+  }
+ },
+ {
+  "name": "Concord Technosoft Private Limited",
+  "city": "Delhi",
+  "domain": "concordtechnosoft.com",
+  "website": "https://www.concordtechnosoft.com",
+  "pages_reached": [
+   "/"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20110207",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "DQ_agency": 5
+  },
+  "evidence_excerpts": {
+   "DQ_agency": [
+    "Know More What sets our digital marketing services apart?",
+    "Our approach to social media marketing?",
+    "03 Digital Maketing Navigating the digital landscape with finesse, our tailored strategies drive your online presence, from SEO and social media to PPC campaigns, ensuring your brand shines in the digital realm.",
+    "04 Branding and Strategy We breathe life into brands through strategic thinking, weaving narratives that resonate."
+   ]
+  }
+ },
+ {
+  "name": "Corient Business Solutions Private Limited",
+  "city": "Mumbai",
+  "domain": "corientbs.co.uk",
+  "website": "https://corientbs.co.uk",
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20220601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20220601",
+   "snapshot_quote": "usiness Technology for Accountants Accounting for Tech Savy Our Products Xinowa BillMyTask Resources Blog Case Study Testimonials Newsletter Media Con",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "compliance": 8,
+   "sdlc": 2,
+   "enterprise": 1,
+   "DQ_support": 1,
+   "DQ_agency": 2,
+   "DQ_bpo": 1,
+   "owns_product": 1
+  },
+  "evidence_excerpts": {
+   "compliance": [
+    "Get a Free Quote Schedule Meeting AI-Powered Human Expertise ISO 27001 GDPR Compliant Cyber Essential Certified Xero",
+    "We follow GDPR and ISO 27001 standards.",
+    "Contact Information Phone Number +44 24 7610 3333 Email Address info@corientbs.co.uk Office Address The Techno Centre, Puma Way, Coventry, CV1 2TT, United Kingdom Trusted & Certified ISO 27001 GDPR ACCA Send Us a Message Fill out the form below and we'll respond within 24 hours.",
+    "400+ Team Members 50+ Senior Leaders 98% Retention Rate 12+ Years Together ISO 27001 GDPR Compliant Cyber Essential Certified Xero"
+   ],
+   "sdlc": [
+    "Learn More -> 6 AI Tools AI Tools Suite AI Tools SuiteWe use smart tools to help speed up your processes with zero errors, while accountants remain fully in control.",
+    "Integrations Software We Work With Seamless integration with all major UK accounting platforms Xero BrightPay FreeAgent KashFlow QuickBooks Sage taxcalc TaxFiler Getting Started Our Proven eCommerce Accounting Process Our process delivers accurate books and makes migration simple and stress-free."
+   ],
+   "enterprise": [
+    "Learn More -> 360 Support IT and Data Services Our secure systems and data support are built for regulated accountancy practices to ensure data security."
+   ],
+   "DQ_support": [
+    "Learn More -> Audit Support Reliable audit assistance during peak periods and tight deadlines."
+   ],
+   "DQ_agency": [
+    "Learn More -> Digital Marketing Services Practice focused marketing support for growth and visibility.",
+    "Sachin Lohade July 24, 2026 Digital Marketing Affordable SEO Services in UK: 2026 Pricing, Providers & How to Choose Affordable SEO services in UK typically cost between £500 and £3,000 a month in 2026,..."
+   ],
+   "DQ_bpo": [
+    "Learn More -> Back Office Support Admin and process support that keeps your practice running smoothly."
+   ],
+   "owns_product": [
+    "Our Proprietary Framework The Corient Method."
+   ]
+  }
+ },
+ {
+  "name": "Crane Process Flow Technologies (India) Private Limited",
+  "city": "Pune",
+  "domain": "craneco.com",
+  "website": "https://www.craneco.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "prod_eng": 4,
+   "enterprise": 2,
+   "DQ_training": 1
+  },
+  "evidence_excerpts": {
+   "prod_eng": [
+    "Innovation Driven by Engineering Excellence",
+    "Process Flow Technologies Engineering Excellence Built for Mission-Critical Challenges.",
+    "Who We Are 170 Years of Engineering Excellence Crane has always been an engineering led company.",
+    "Engineering Excellence In addition to a world class set of processes and our disciplined cadence, at its core, Crane has always been an engineering led company."
+   ],
+   "enterprise": [
+    "Our Commitment Exciting Careers We believe that attracting and retaining the highest quality people is the best insurance of success.",
+    "Today, our solutions are used primarily in commercial and military aerospace and space applications, as well as electronics and semiconductor manufacturing, power applications (nuclear, renewable and conventional), healthcare, and certain critical industrial applications."
+   ],
+   "DQ_training": [
+    "All associates receive an annual development plan that includes a mixture of on-the-job coaching and formal training experiences to support individual development needs."
+   ]
+  }
+ },
+ {
+  "name": "CriterionScreeners Global Private Limited",
+  "city": "Bengaluru",
+  "domain": "criterionscreeners.com",
+  "website": "https://www.criterionscreeners.com/",
+  "pages_reached": [
+   "/"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "Cypros Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "cypros.in",
+  "website": "https://cypros.in/",
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "compliance": 3
+  },
+  "evidence_excerpts": {
+   "compliance": [
+    "As an ISO 27001:2022 certified cybersecurity consulting company , we help organizations strengthen their security posture, achieve regulatory compliance, and protect mission-critical digital assets from cyber threats.",
+    "Ltd., a CERT-In empaneled and ISO 9001:2015, ISO 27001:2022 & ISO 27032:2023 certified company, is redefining possibilities through strategic and innovative IT solutions.",
+    "Our capabilities span Vulnerability Assessment & Penetration Testing (VAPT), alongside an extensive suite of IT audit and compliance services, including ITGC, SOX, NIST, ISO, GDPR, SOC 2, TPRM, and Risk Management."
+   ]
+  }
+ },
+ {
+  "name": "DataFlow Services (India) Private Limited",
+  "city": "Noida",
+  "domain": "corp.dataflowgroup.com",
+  "website": "https://support.dataflowgroup.com/",
+  "pages_reached": [
+   "/"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20220601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20220601",
+   "snapshot_quote": "Professions Corporate Social Responsibility Resources Blogs Case Studies Resources Library Media Releases White Papers Support/Contact Us Resolution N",
+   "lookup_note": ""
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "Dev Accelerator Limited",
+  "city": "Ahmedabad",
+  "domain": "devx.work",
+  "website": "https://www.devx.work",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "pages_absent": [
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "© 2023 Dev Accelerator Pvt. Ltd. All rights reserved Book your workspace in a Snap Fill our the following details for us to help you book your space",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "owns_product": 4,
+   "DQ_agency": 3
+  },
+  "evidence_excerpts": {
+   "owns_product": [
+    "DevX Work © 2026 Dev Accelerator Limited."
+   ],
+   "DQ_agency": [
+    "Content Marketing Specialist 0 m read 0 Copy link Share on X Share on Facebook Share on LinkedIn When DevX opened its first workspace in Ahmedabad in 2017, the founding team carried a conviction that would define everything that followed.",
+    "written by : Vishakha Pagare Vishakha Pagare is a content marketing specialist passionate about storytelling, which fuels business growth.",
+    "Beyond content marketing, Vishakha is also an author, channeling her creative spirit into her debut novel, Enchanted: Echoing Souls."
+   ]
+  }
+ },
+ {
+  "name": "Direction Software Solutions",
+  "city": "Mumbai",
+  "domain": "direction.biz",
+  "website": "https://www.direction.biz/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "fo@direction.biz Immediate Vacancies Contact Us IT SERVICES Application Development & Maintenance Outsource Development Custom Developed Application L",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "enterprise": 25,
+   "owns_product": 3,
+   "DQ_bpo": 4,
+   "DQ_support": 1,
+   "senior_roles": 1,
+   "sdlc": 3,
+   "DQ_training": 1,
+   "DQ_template": 1,
+   "qa": 2
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "Merging Technology & Healthcare We have supported the World Health Organization (WHO) since 2020, integrating national surveillance systems to capture COVID-19 data into their outbreak management tool, Go.Data.",
+    "ABOUT RECONCILIATION Personalized Home Care We deployed a Microsoft Dynamics CRM solution for a healthcare provider in Germany and Poland, ensuring that trained caregivers are matched with the specific health service needs of home care clients.",
+    "MORE ON BFSI E-Commerce Our e-commerce solutions are cost-effective and fully integrated, optimized to deliver an excellent return on investment.",
+    "MORE ON E-COMMERCE Healthcare We’re proud to provide pioneering solutions for organizations like W.H.O."
+   ],
+   "owns_product": [
+    "Our platforms are designed to enhance customer experience, ensuring financial institutions stay ahead in a competitive market.",
+    "Our platforms improve planning, inventory visibility, quality control, and compliance to reduce downtime, cut costs, and deliver on time.",
+    "Our platforms facilitate excellent customer service, from easy booking processes to efficient management systems, enhancing the overall travel experience."
+   ],
+   "DQ_bpo": [
+    "MORE ABOUT LOGISTICS Manufacturing We help manufacturing companies modernize shop floors and back offices with integrated ERP, supply chain, and analytics solutions.",
+    "Back Office Operations Trade Services Reconciliation The Data Journey In the modern business landscape, data serves as a crucial element, and its journey can be outlined as follows: Collection of Data.",
+    "Direction offers middle office services such as alerting clients of risk assessment parameters before settlement, while our back office services include generating risk management reports and calculating charges and fees.",
+    "Business Process Outsourcing Services by Direction Software Back Office Support Services We offer multiple back-office support services for businesses, including data management, document management, training and development, customer support service, technical service, order management, and software QA and testing."
+   ],
+   "DQ_support": [
+    "MORE ON SOURCING Supply Chain Management We take pride in offering turnkey solutions for supply chain management, including both hardware and software components."
+   ],
+   "senior_roles": [
+    "If any listing matches your qualifications, please contact: recruitment@direction.biz Immediate Vacancies SAP Integration Solution Architect No."
+   ],
+   "sdlc": [
+    "You’ll join an agile international client’s team working on global e-commerce ecosystem.",
+    "Power Platform AI is Eating the Middle Layer September 9, 2025 October 27, 2025 How Businesses Can Stay Agile with Low-Code + Power Platform Something fundamental is happening in business right now.",
+    "Build-out teams should… Read More Scrum in a nutshell & its benefits IT Services The 6 most important things to consider while choosing an IT partner for your business December 6, 2021 February 13, 2025 In today’s scenario, a business needs the right technical expertise to prosper."
+   ],
+   "DQ_training": [
+    "Power Platform Modernize Your Existing ERP Using Microsoft Power Apps and Power Automate December 9, 2025 In today’s fast-paced business environment, companies are seeking ways to enhance their existing Enterprise Resource Planning (ERP) systems without investing in a complete system replacement…."
+   ],
+   "DQ_template": [
+    "Read More Modernizing Legacy ERP: Why 2025 Is the Year to Migrate to Dynamics 365 Custom Software Development Beyond the Basics: Custom Software Development to Solve Unique Business Challenges August 6, 2025 September 2, 2025 Most businesses start with ready-made software – and that’s fine, up to a point."
+   ],
+   "qa": [
+    "Direction’s Expertise We offer a variety of services including document management, customer support, technical support, order management, and software QA and testing.",
+    "Business Process Outsourcing Services by Direction Software Back Office Support Services We offer multiple back-office support services for businesses, including data management, document management, training and development, customer support service, technical service, order management, and software QA and testing."
+   ]
+  }
+ },
+ {
+  "name": "DTCC Enterprise Services India Pvt Ltd",
+  "city": "Chennai",
+  "domain": "dtcc.com",
+  "website": "https://www.dtcc.com/",
+  "pages_reached": [
+   "/"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "ns &amp; Reference Data CA 20022 Service CA Web Service ETF Portfolio Data Service Legal Notice System Data Liquidity Coverage Ratio Service Security",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "sdlc": 1
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "View details The Future of Clearing & Securities Service Discover how DTCC's multi-year, transformational initiative will enable a more agile and scalable processing foundation for the industry."
+   ]
+  }
+ },
+ {
+  "name": "Egon Zehnder Information and Research Services Private Limited",
+  "city": "Gurugram",
+  "domain": "egonzehnder.com",
+  "website": "https://www.egonzehnder.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "19980630",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "cicd": 10,
+   "DQ_template": 10
+  },
+  "evidence_excerpts": {
+   "cicd": [
+    "Designing Dynamic, Future-Oriented CEO Succession Planning This conversation examines how boards can design dynamic CEO succession processes that strengthen leadership pipelines and future preparedness.",
+    "A survey of 100+ CFOs reveals the opportunities and gaps in the talent pipeline."
+   ],
+   "DQ_template": [
+    "Executive Succession Planning Template & Guidance When it comes to executive succession, having support is key.",
+    "Utilize our succession planning template to get started."
+   ]
+  }
+ },
+ {
+  "name": "ENEL X Services India Private Limited",
+  "city": "Mumbai",
+  "domain": "enelx.com",
+  "website": "https://www.enelx.com",
+  "pages_reached": [
+   "/"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20180108",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "DQ_template": 1
+  },
+  "evidence_excerpts": {
+   "DQ_template": [
+    "Enel X --> /apps/enel-x-digital-ecosystem/templates/page-hub Salta il contenuto Corporate Italia IT Italia IT Italia Europa Italia Polonia UK Irlanda Spagna Portogallo LATAM Cile Argentina Brasile Colombia APAC Australia Giappone Corea del Sud Nuova Zelanda Cerca qui..."
+   ]
+  }
+ },
+ {
+  "name": "Enviri India Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "enviri.com",
+  "website": "https://www.enviri.com/",
+  "pages_reached": [
+   "/",
+   "team"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20140517",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "Escrownxt Services Private Limited",
+  "city": "Chennai",
+  "domain": "escrowtech.in",
+  "website": "https://www.escrownxt.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "pages_absent": [
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20220601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20220601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "compliance": 4,
+   "pr_practice": 1,
+   "DQ_support": 4
+  },
+  "evidence_excerpts": {
+   "compliance": [
+    "Partner with EscrowNXT – The country’s first ISO 9001 – 2015 /ISO 27001-2022 certified pure play software Escrow Service Provider for over two decades.",
+    "ISO 9001 – 2015/ ISO 27001-2022 Certified Certified in ISO 9001:2015 and ISO 27001:2022, we guarantee exceptional quality management and industry-leading information security.",
+    "ISO 9001 – 2015/ ISO 27001-2022 Certified operations, processes, and systems.",
+    "ISO Certifications ISO 9001"
+   ],
+   "pr_practice": [
+    "Safety and Security Regular audits, encryption, and version control ensure the safety of the assets even as they prevent unauthorized disclosure or tampering."
+   ],
+   "DQ_support": [
+    "Software assets, hardware schematics, manufacturing processes, and other intellectual property related to a technology.",
+    "Common Use Cases Mission-critical or custom software heavily relied upon by a business.Broader range of products including software, hardware, and complex integrated systems.",
+    "Broader range of products including software, hardware, and complex integrated systems.",
+    "Encompasses a broader scope, protecting entire intellectual property for hardware or integrated tech beyond just software."
+   ]
+  }
+ },
+ {
+  "name": "Everligntek Solutions Private Limited",
+  "city": "Pune",
+  "domain": "everligntek.com",
+  "website": "https://www.everligntek.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "pages_absent": [
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20200601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20200601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "owns_product": 4,
+   "cicd": 5,
+   "compliance": 3,
+   "enterprise": 1,
+   "senior_roles": 1
+  },
+  "evidence_excerpts": {
+   "owns_product": [
+    "AI accelerators applied to each.",
+    "AI accelerators applied at every stage.",
+    "Our accelerator stack reduces delivery time by 40–50% with no compromise on senior-led ownership.",
+    "Explore Compliance AI → WHY EVERLIGNTEK Why enterprises choose a boutique consulting firm with AI accelerators?"
+   ],
+   "cicd": [
+    "03 Build & Test AI-assisted shipping AI-assisted code generation for pipelines, APIs, and UI.",
+    "Explore Agentic AI → Data Analytics Consulting Lakehouses, automated pipelines, and boardroom-ready insights powered by AskEver AI for plain-English queries.",
+    "60% less pipeline build time.",
+    "HIPAA · ISO · SOC 2 --> Pipeline Studio AI-generated ETL on Snowflake, Fabric, and Databricks."
+   ],
+   "compliance": [
+    "Explore GovOS → Compliance Consulting & Audit Automation HIPAA, GDPR, SOC 2, ISO 27001 built in from day one.",
+    "HIPAA · ISO · SOC 2 --> Pipeline Studio AI-generated ETL on Snowflake, Fabric, and Databricks.",
+    "Weeks, not months --> Compliance Copilot HIPAA, SOC 2, ISO 27001 audit trails generated automatically as part of the build."
+   ],
+   "enterprise": [
+    "Work on real AI problems with real enterprise clients alongside a senior-led team that's passionate about craft, quality, and measurable impact."
+   ],
+   "senior_roles": [
+    "Data Engineer (SQL) 1-3 years Immediate Joiner Pune Apply Now BI Engineer (Power Platform) 3-6 years Immediate Joiner Pune Apply Now Tech Lead-Power Platform 6-9 years Immediate Joiner Pune Apply Now We empower ambitious global brands to achieve greatness."
+   ]
+  }
+ },
+ {
+  "name": "Fact Solutions India Pvt Ltd",
+  "city": "Kolkata",
+  "domain": "factsoftware.com",
+  "website": "https://www.factsoftware.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "pages_absent": [
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "sdlc": 3,
+   "owns_product": 5
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "Learn More FACT ERP.NG is a fully integrated solution specially designed for Small and Medium Enterprises (SMEs) who require an affordable, flexible and agile solution for their business needs.",
+    "‍ Room to grow: We are a company where people move between roles, take on bigger scope, and shape how we work — not just execute a fixed job description.",
+    "Learn More About FACT FACT ERP.NG is a fully integrated solution specially designed for Small and Medium Enterprises (SMEs) who require an affordable, flexible and agile solution for their business needs."
+   ],
+   "owns_product": [
+    "“ Rasesh DManaging Director, The Associated Auto Parts Pvt Ltd Awards & Recognitions Awards & Recognitions Interested to explore our product suite?",
+    "From product positioning to campaigns, content, and events, you will help prospects and customers understand the value of our platform — and help sales and support teams do their jobs better with the right materials and messaging.",
+    "Apply Now Interested to explore our product suite?",
+    "Learn more Next Interested to explore our product suite?"
+   ]
+  }
+ },
+ {
+  "name": "Fidrox Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "fidrox.com",
+  "website": "https://fidrox.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "DQ_support": 1
+  },
+  "evidence_excerpts": {
+   "DQ_support": [
+    "Video Management System Does it feel like your aging CCTV systems are holding you back?"
+   ]
+  }
+ },
+ {
+  "name": "First American (India) Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "firstam.co.in",
+  "website": "https://www.firstam.co.in/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "pages_absent": [
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "h locations in Bangalore, Hyderabad and Salem, FAI delivers software development, back-office and knowledge-processing operations to support First Ame",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "enterprise": 10,
+   "DQ_bpo": 1
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "Welcome to First American (India) First American (India) is a Global Capability Center (GCC) of the First American Financial Corporation (US) - a leading provider of title insurance, settlement services and risk solutions for real estate transactions since 1889.",
+    "First American also provides title plant management, home warranty, and banking, trust & wealth management services.",
+    "First American Title Insurance Company makes no express or implied warranty respecting the information presented and assumes no responsibility for errors or omissions.",
+    "First American also provides data products to the title industry and other third parties; valuation products and services; mortgage subservicing; home warranty products; banking, trust and wealth management services; and other related products and services."
+   ],
+   "DQ_bpo": [
+    "Career Domains and Skill Sets: First American (India) provides diversified services across Technology, BPO and Corporate Services, and Support functions."
+   ]
+  }
+ },
+ {
+  "name": "Franklin Templeton International Services (India) Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "franklintempleton.com",
+  "website": "https://www.franklintempleton.com/",
+  "pages_reached": [
+   "/"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "Geeta Eservices Private Limited",
+  "city": "Mumbai",
+  "domain": "geetaeservices.com",
+  "website": "https://geetaeservices.com",
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "pages_absent": [
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20211204",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "GIEOM Business Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "gieom.com",
+  "website": "https://www.gieom.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20200601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20200601",
+   "snapshot_quote": "Validator Consultant Edition Integration Partners Resources Case Studies Whitepapers Testimonials Brochures Webinar About Us Company News Awards Conta",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "owns_product": 13,
+   "enterprise": 15,
+   "DQ_template": 3,
+   "compliance": 1
+  },
+  "evidence_excerpts": {
+   "owns_product": [
+    "EU DORA Compliance Fast-track your digital transformation and compliance with the DORA 360 platform, your accelerator for success.",
+    "Your Platform: Meet Gieom Consultant Edition, a live, AI-powered platform, built for consulting.",
+    "EXPLORE OUR PLATFORM MagpieAI - Multi Agent Prompt Engine MagpieAI is a cutting-edge generative AI tool designed to transform banking, regulatory, and compliance document handling.",
+    "EXPLORE OUR PLATFORM Key Features Process Observability Gain deep visibility into your business processes and their dependencies on people, systems, and third parties."
+   ],
+   "enterprise": [
+    "Learn More Gieom Labs Driving research and innovation with Magpie AI to unlock new possibilities in RegTech and banking compliance.",
+    "BOOK A DISCOVERY CALL Future-proof your operations with unified GRC, AI-powered risk intelligence, and operational resilience, built for regulated industries The GRC and Operational Resilience Platform for Regulated Industries.",
+    "We also support compliance with other applicable global and regional regulations and operational resilience frameworks across BFSI sector.",
+    "EXPLORE OUR PLATFORM MagpieAI - Multi Agent Prompt Engine MagpieAI is a cutting-edge generative AI tool designed to transform banking, regulatory, and compliance document handling."
+   ],
+   "DQ_template": [
+    "Whether it’s a periodic risk assessment, a KRI trend analysis, or a resilience scorecard, users can generate consistent, templated reports aligned with regulatory or organizational formats, without manual rework.",
+    "It has additionally built custom templates to ensure compliance with regulations such as the UK’s Operational Resilience Act, the European Union’s Digital Operational Resilience Act (DORA), and Australia’s CPS 230."
+   ],
+   "compliance": [
+    "With operations across Europe, the Middle East, and Asia Pacific, Gieom serves over 100 customers globally and is certified for ISO 27001 and ISO 9001."
+   ]
+  }
+ },
+ {
+  "name": "Globex Digital Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "globexdigitalcorp.com",
+  "website": "https://globexdigital.ai/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20190105",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "enterprise": 18,
+   "sdlc": 4
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "Book a Free Strategy Call See Our Results Trusted by industry leaders 200+ Projects Delivered 50+ Enterprise Clients 98% Client Satisfaction 90+ Years Combined Expertise Ready to start your AI transformation?",
+    "Globex Digital Insights Read GenAI 8 min read GenAI in the Enterprise: 5 Patterns That Actually Work After implementing GenAI across 50+ enterprise clients, we've seen which use cases deliver and which become expensive pilot projects.",
+    "Globex Digital Insights Read Free Resource Get Your Free AI Readiness Guide A practical checklist covering data readiness, use case prioritisation, and ROI measurement — used by our enterprise clients before every AI engagement.",
+    "Join 50+ enterprise clients that trust GlobeX Digital for their AI transformation journey."
+   ],
+   "sdlc": [
+    "Secure Now View All Services Our Process From Idea to Impact in 90 Days A proven three-step delivery model that gets you to measurable ROI fast — without the enterprise drag."
+   ]
+  }
+ },
+ {
+  "name": "GreatFour Systems Private Limited",
+  "city": "Hyderabad",
+  "domain": "greatfour.com",
+  "website": "https://greatfour.com/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "careers",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20200601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20200601",
+   "snapshot_quote": "e Management Proofing Regulatory Information & Intelligence Portfolio Project Management Partner Program Pricing HARMONY Harmony is an enterprise-read",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "sdlc": 2,
+   "qa": 1,
+   "owns_product": 4,
+   "enterprise": 4
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "We tailor your processes in Harmony to meet your requirements, with minimal efforts.",
+    "Implementation We help you aligning your process with the best industry practices, migrate your data and integrate with existing systems."
+   ],
+   "qa": [
+    "Manager QA Department Harmony's Proofing System Pixel to Pixel comparison & Text to Text comparison provides an excellent comparison for small – small things."
+   ],
+   "owns_product": [
+    "OUR PRODUCTS Packaging and Artworks Labelling Lifecycle Management Proofing Regulatory Intelligence Portfolio Project Management Contact Us info@greatfour.com +91-40-66035656 Boston, US Hyderabad, India Follow Us Copyright © 2026 GreatFour Systems",
+    "Our products are designed to deliver high quality and cost effective solutions to our global clientele."
+   ],
+   "enterprise": [
+    "We have a platform that is affordable and can deliver actionable insights, boost efficiency, ensure compliance, while reducing the overall cost of ownership in a highly regulated environment.",
+    "A Master of Pharmacy in medicinal and pharmaceutical chemistry from Jamia Hamdard University, Sihorwala started his career as a junior assistant with Nicholas Piramal (now Piramal healthcare) in 1993.",
+    "He later worked with Glenmark, Cadila Healthcare and Ranbaxy.",
+    "M S Rao is an eminent veteran with over 30 years of R&D experience in healthcare industry with major global corporations such as Warner Hindustan (Parke-Davis/Pfizer), SOL Pharmaceuticals, DR."
+   ]
+  }
+ },
+ {
+  "name": "GTMVantage Technologies Private Limited",
+  "city": "Greater Noida",
+  "domain": "gtmvantage.com",
+  "website": "https://gtmvantage.com/",
+  "pages_reached": [
+   "/"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20250110",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "domain first archived 2024 or later — RED FLAG"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ }
+]

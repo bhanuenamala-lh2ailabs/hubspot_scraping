@@ -1,0 +1,458 @@
+[
+ {
+  "url": "https://www.indiaelectronicsweek.com/",
+  "crawl": {
+   "loadedUrl": "https://www.indiaelectronicsweek.com/",
+   "loadedTime": "2026-08-27T12:27:51.925Z",
+   "referrerUrl": "https://www.indiaelectronicsweek.com/",
+   "httpStatusCode": 200,
+   "depth": 0,
+   "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+   "canonicalUrl": "https://www.indiaelectronicsweek.com/",
+   "title": "IEW: India Electronics Week 2026 - India's Only Conference & Expo on \"R&D in Electronics\"",
+   "description": "India Electronics Week (IEW) is INDIA’S only event promoting R&D in Electronics. Visit IEW on 13-15 May 2026 at KTPO, Bengaluru",
+   "author": null,
+   "keywords": null,
+   "languageCode": "en-US",
+   "openGraph": [
+    {
+     "property": "og:locale",
+     "content": "en_US"
+    },
+    {
+     "property": "og:type",
+     "content": "website"
+    },
+    {
+     "property": "og:title",
+     "content": "India Electronics Week 2026 | #1 Electronics Engineers Conference"
+    },
+    {
+     "property": "og:description",
+     "content": "Join now for FREE. Access to India's #1 electronics engineers event by Electronics For You. 6-8 May 2026 at KTPO, Bengaluru"
+    },
+    {
+     "property": "og:url",
+     "content": "https://www.indiaelectronicsweek.com/"
+    },
+    {
+     "property": "og:site_name",
+     "content": "India Electronics Week"
+    },
+    {
+     "property": "og:updated_time",
+     "content": "2026-08-25T17:39:36+05:30"
+    },
+    {
+     "property": "og:image",
+     "content": "https://www.indiaelectronicsweek.com/wp-content/uploads/2022/11/collage.jpg"
+    },
+    {
+     "property": "og:image:secure_url",
+     "content": "https://www.indiaelectronicsweek.com/wp-content/uploads/2022/11/collage.jpg"
+    },
+    {
+     "property": "og:image:width",
+     "content": "1500"
+    },
+    {
+     "property": "og:image:height",
+     "content": "1000"
+    },
+    {
+     "property": "og:image:alt",
+     "content": "India Electronics Week"
+    },
+    {
+     "property": "og:image:type",
+     "content": "image/jpeg"
+    }
+   ],
+   "jsonLd": [
+    {
+     "@context": "https://schema.org",
+     "@graph": [
+      {
+       "@type": [
+        "NewsMediaOrganization",
+        "Organization"
+       ],
+       "@id": "https://www.indiaelectronicsweek.com/#organization",
+       "name": "EFY Enterprises Private Limited",
+       "url": "https://www.indiaelectronicsweek.com",
+       "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.indiaelectronicsweek.com/#logo",
+        "url": "https://www.indiaelectronicsweek.com/wp-content/uploads/2022/03/cropped-cropped-iew-logo_white.png",
+        "contentUrl": "https://www.indiaelectronicsweek.com/wp-content/uploads/2022/03/cropped-cropped-iew-logo_white.png",
+        "caption": "India Electronics Week",
+        "inLanguage": "en-US",
+        "width": "372",
+        "height": "180"
+       }
+      },
+      {
+       "@type": "WebSite",
+       "@id": "https://www.indiaelectronicsweek.com/#website",
+       "url": "https://www.indiaelectronicsweek.com",
+       "name": "India Electronics Week",
+       "publisher": {
+        "@id": "https://www.indiaelectronicsweek.com/#organization"
+       },
+       "inLanguage": "en-US",
+       "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.indiaelectronicsweek.com/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+       }
+      },
+      {
+       "@type": "ImageObject",
+       "@id": "https://www.indiaelectronicsweek.com/wp-content/uploads/2022/11/collage.jpg",
+       "url": "https://www.indiaelectronicsweek.com/wp-content/uploads/2022/11/collage.jpg",
+       "width": "1500",
+       "height": "1000",
+       "inLanguage": "en-US"
+      },
+      {
+       "@type": "WebPage",
+       "@id": "https://www.indiaelectronicsweek.com/#webpage",
+       "url": "https://www.indiaelectronicsweek.com/",
+       "name": "IEW: India Electronics Week 2026 - India&#039;s Only Conference &amp; Expo on &quot;R&amp;D in Electronics&quot;",
+       "datePublished": "2026-02-02T15:35:39+05:30",
+       "dateModified": "2026-08-25T17:39:36+05:30",
+       "about": {
+        "@id": "https://www.indiaelectronicsweek.com/#organization"
+       },
+       "isPartOf": {
+        "@id": "https://www.indiaelectronicsweek.com/#website"
+       },
+       "primaryImageOfPage": {
+        "@id": "https://www.indiaelectronicsweek.com/wp-content/uploads/2022/11/collage.jpg"
+       },
+       "inLanguage": "en-US"
+      },
+      {
+       "@type": "Person",
+       "@id": "https://www.indiaelectronicsweek.com/author/harpal-bisht/",
+       "name": "Harpal Bisht",
+       "url": "https://www.indiaelectronicsweek.com/author/harpal-bisht/",
+       "image": {
+        "@type": "ImageObject",
+        "@id": "https://secure.gravatar.com/avatar/3da527b0bf545567dbb46263590d64f8f9918703d6c1318fa9b0eeba3a156784?s=96&amp;d=blank&amp;r=g",
+        "url": "https://secure.gravatar.com/avatar/3da527b0bf545567dbb46263590d64f8f9918703d6c1318fa9b0eeba3a156784?s=96&amp;d=blank&amp;r=g",
+        "caption": "Harpal Bisht",
+        "inLanguage": "en-US"
+       },
+       "worksFor": {
+        "@id": "https://www.indiaelectronicsweek.com/#organization"
+       }
+      },
+      {
+       "@type": "Article",
+       "headline": "IEW: India Electronics Week 2026 - India&#039;s Only Conference &amp; Expo on &quot;R&amp;D in Electronics&quot;",
+       "description": "India Electronics Week (IEW) is INDIA’S only event promoting R&amp;D in Electronics. Visit IEW on 13-15 May 2026 at KTPO, Bengaluru",
+       "keywords": "India Electronics Week",
+       "author": {
+        "@id": "https://www.indiaelectronicsweek.com/author/harpal-bisht/",
+        "name": "Harpal Bisht"
+       },
+       "name": "IEW: India Electronics Week 2026 - India&#039;s Only Conference &amp; Expo on &quot;R&amp;D in Electronics&quot;",
+       "@id": "https://www.indiaelectronicsweek.com/#schema-157414",
+       "isPartOf": {
+        "@id": "https://www.indiaelectronicsweek.com/#webpage"
+       },
+       "publisher": {
+        "@id": "https://www.indiaelectronicsweek.com/#organization"
+       },
+       "image": {
+        "@id": "https://www.indiaelectronicsweek.com/wp-content/uploads/2022/11/collage.jpg"
+       },
+       "inLanguage": "en-US",
+       "mainEntityOfPage": {
+        "@id": "https://www.indiaelectronicsweek.com/#webpage"
+       }
+      },
+      {
+       "image": {
+        "@id": "https://www.indiaelectronicsweek.com/wp-content/uploads/2022/11/collage.jpg"
+       },
+       "name": "IEW: India Electronics Week 2026 - India&#039;s Only Conference &amp; Expo on &quot;R&amp;D in Electronics&quot;",
+       "description": "India Electronics Week (IEW) is INDIA’S only event promoting R&amp;D in Electronics. Visit IEW on 13-15 May 2026 at KTPO, Bengaluru",
+       "@type": "ExhibitionEvent",
+       "eventStatus": "EventScheduled",
+       "eventAttendanceMode": "OfflineEventAttendanceMode",
+       "location": {
+        "@type": "Place",
+        "name": "KARNATAKA TRADE PROMOTION ORGANIZATION",
+        "url": "https://ktpo.karnataka.gov.in/english",
+        "address": {
+         "@type": "PostalAddress",
+         "streetAddress": "Export Promotion Industrial Park Plot NO.121, Road no Ⅴ, EPIP 2nd phase",
+         "addressLocality": "Industrial Area, Whitefield",
+         "addressRegion": "Bengaluru, Karnataka",
+         "postalCode": "560066",
+         "addressCountry": "India"
+        }
+       },
+       "performer": {
+        "@type": "Organization",
+        "name": "EFY Group",
+        "sameAs": "https://www.indiaelectronicsweek.com/"
+       },
+       "startDate": "2026-05-13T10:00:00+05:30",
+       "endDate": "2026-05-15T18:00:00+05:30",
+       "offers": {
+        "@type": "Offer",
+        "name": "General Admission",
+        "category": "primary",
+        "url": "https://registration.indiaelectronicsweek.com/",
+        "price": "999",
+        "priceCurrency": "inr",
+        "availability": "InStock",
+        "validFrom": "2026-04-13"
+       },
+       "@id": "https://www.indiaelectronicsweek.com/#schema-157416",
+       "organizer": {
+        "@id": "https://www.indiaelectronicsweek.com/#organization"
+       },
+       "inLanguage": "en-US"
+      }
+     ]
+    }
+   ],
+   "headers": {
+    "server": "nginx",
+    "date": "Thu, 27 Aug 2026 12:27:43 GMT",
+    "content-type": "text/html; charset=UTF-8",
+    "vary": "Accept-Encoding",
+    "link": "<https://www.indiaelectronicsweek.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.indiaelectronicsweek.com/wp-json/wp/v2/pages/20476>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.indiaelectronicsweek.com/>; rel=shortlink",
+    "expires": "Thu, 27 Aug 2026 12:27:43 GMT",
+    "cache-control": "max-age=0",
+    "x-cache-status": "HIT",
+    "x-rocket-nginx-serving-static": "MISS",
+    "strict-transport-security": "max-age=31536000;",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "content-security-policy": "default-src * 'unsafe-inline' 'unsafe-eval' data: blob:;",
+    "content-encoding": "br",
+    "x-firefox-spdy": "h2"
+   }
+  },
+  "screenshotUrl": null,
+  "text": "IEW: India Electronics Week 2026\nINDIA’S ONLY CONFERENCE & EXPO PROMOTING\nR&D IN ELECTRONICS\n5-7 May 2027\nVENUE: KTPO Convention Centre, Whitefield, Bengaluru, India \nIndia Electronics Week (IEW) is India's only electronics event for the Creators of electronics products. It focuses on R&D and New Product Development of electronics. Be it the chip, the PCB, the circuit or the complete embedded systems' solution--IEW has conference tracks to cater to R&D and NPD teams of all. \nEnabling R&D and Innovation\nDiscover latest technologies, components, techniques & best-practices for innovating in the field of electronics \nEngage with suppliers & service providers who can truly help you develop your idea into an innovative product, quickly \nTECH FOCUS\nElectronics \nEmbedded\nIoT\nAI & ML\nStatistics of 2026\nIndia Electronics Week & Bharat AI\nB2B VISITORS \n0 + \nConference Delegates + Workshop Attendees \n0 + \nBrands Exhibited\n0 \nExhibitors\n0 \nPanel Discussions & Talks\n0 \nB2B Dating Sessions: Investors & Startups + SMEs\n0 \nWorkshops & Masterclasses\n0 \nSpeakers\n0 + \n13-14 May 2026 | 10 AM to 6 PM \nSTRICTLY BUSINESS: No entry for students or anyone below 18 years of age \n15 May 2026 | 10 AM to 5 PM\n• 10 am to 2 pm: STRICTLY BUSINESS.\n• 2 pm to 5 pm: Students Entry Allowed.\n(Registration starts at 9.30 am)\nTHE HIGHLIGHTS: TECH CONFERENCES & WORKSHOPS\nTech conference focused on designing, prototyping, and testing next-generation electronic circuits and hardware products\nTech conference for engineers building intelligent, connected, and high-performance embedded systems\nTech conference for developers and innovators creating scalable AI and IoT-driven solutions for real-world applications.\nHands-on workshops building advanced electronics, AI, and IoT solutions for real-world applications.\nTHE HIGHLIGHTS: R&D AWARDS\nAn annual initiative to recognise excellence in innovation by India's best R&D and New Product Development teams.\nTHE HIGHLIGHTS: VENTURE & SME GROWTH TRACK\nConference\nInsight-driven sessions for founders and SMEs to scale ventures, secure funding, and drive business growth.\nMasterclasses\nExpert-led masterclasses for founders and SMEs to build strategies, secure funding, and accelerate business growth.\nB2B Dating: Investors with SMEs & Startups\nCurated networking for founders and SMEs to connect with investors, secure funding, and drive business growth.\nTHE HIGHLIGHTS: CO-LOCATED EVENT\nConference for accelerating real-world deployment of AI solutions across Bharat\nWHAT'S SPECIAL?\nHands-on workshops and Indepth Technical Tutorial sessions to train techies on cutting edge tech, and best practices.\nWith 2,000 plus delegates attending annually— amongst Asia's largest conferences on electronics.\nBlessed with support of India's top electronics Gurus who speak at IEW conferences.\nAnnually held at the Silicon Valley of India: Bengaluru (aka Bangalore).\nWHY ATTEND INDIA ELECTRONICS WEEK\nUpgrade Knowledge\nGain Ideas & Best Practices\nExplore Latest Tech\nPartner with Like-minded Firms\nBLESSED WITH PRESENCE OF ATTENDEES FROM\nADVISORY PANEL OF 2026\nDr. Satya Gupta\nPresident, VLSI Society of India (VSI) & Member, CII National Committee on Electronics Manufacturing\nNarang N Kishor\nMentor & Principal Design Architect, Narnix Technolabs Pvt. Ltd.\nRaja Rajeev Kumar\nChief Executive Officer, LaxmiRamaVarma Capital Advisors\nPVG Menon\nVP & Head - Business Development, Tata Projects\nVivek Saxena\nSr. Advisor - Semiconductors & Electronics Business, BC Jindal Group\nVivek Tyagi\nMD & Country Manager, Analog Devices India\nBhartendu Mishra\nManaging Director - India Arrow Electronics\nTHE SPEAKERS OF 2026\nNarang N Kishor\nMentor & Principal Design Architect, Narnix Technolabs Pvt Ltd\nVivek Saxena\nSr. Advisor - Semiconductors & Electronics Business, BC Jindal Group\nPVG Menon\nVP & Head - Business Development at Tata Projects\nRaja Rajeev Kumar\nChief Executive Officer, LaxmiRamaVarma Capital Advisors\nVijayan Krishnan\nManager/Physical Design Engineer, Chipware Technologies,Bangalore\nPitchai Muthu M\nSoftware Engineer- Assist Manager, Advantech Industrial Computing India Private Limited\nNayana Gowda\nPhysical Design Engineer, Chipware Technologies,Bangalore\nSumanto Kar\nAssistant Project Manager, FOSSEE, IIT Bombay\nV P Sampath\nFounder,Bharath Semiconductor Society\nDr. Vibhuti Agarwal\nCo-founder, \nRealtime Ventures\nTippanna R S\nManager RF and Electromagnetics , Aetos Innovation Labs \nManick Rajendran\nFounder, Periyar Ventures - Chennai/Atlanta\nLead Faculty: Dr Sanjay Dwivedi\nCo-Faculty: Prof David Wittenberg\nErrol Joshua\nCOO/Co-Founder, Tiny Prism Labs Private Limited\nSivaranjani S\nCentre Head(ESDM) ,CoE -Robotics & PLC(A CSR initiative of Delta Electronics), TN Apex Skill Development Centre for Automobile\nAbhijit Roy\nHead – Energy & Utilities and IoT CoE, Happiest Minds Technologies\nFaculty: Vijay Parthasaraty\nCEO, TheGoldenLadderAcademy.com\nLead faculty: Mr PK Gopalakrishnan\nAngel Investor\nUmesh Joshi\nFounder, Calibr.ai\nCo-Lead: Dr Rajashekhar\nFounder, Traxion Labs\nRamakrishnan V\nFounder & CEO, Omniscient Perspectives\nSunil Gupta\nSr Director, Cognizent\nSreenadh S\nScientist E. Hardware Design Group, C-DAC\nMr. Dharmendra Namdev\nAccount Sales Department Senior Manager, HIOKI INDIA \nAdarsh BU\nIoT & Energy Domain Lead, Happiest Minds\nSreejith Varma Paliakara\nProgram Manager – Product Engineering & Strategy, Bosch Global Software Technologies\nChandrasekar Balasubramanian\nIndependent Consultant\nYogesh Pandit\nDirector, Product Acceleration , Foundation for Science Innovation and Development, IISc\nSanil Kumar D\nFounder, CEO & Director, Caze Labs\nAnand kumar\nArchitect, Siemens \nTBA\nTBA\nTBA\nOrganiser\nCO-ORGANISER: \nVenture & SME Growth Track\nPARTNERS OF 2026\nPlatinum Sponsor\nAssociate Sponsors\nOUR ICONIC EXHIBITORS\nVENUE\nIndia Electronics Week is at KTPO Trade Center, Whitefield, Bengaluru -- see you there!\nThe venue is just in the heart of the technology hub of the city - Whitefield.",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# IEW: India Electronics Week 2026\n\n## INDIA’S ONLY CONFERENCE & EXPO PROMOTING\n\n## R&D IN ELECTRONICS\n\n## **5-7 May 2027**\n\n## **VENUE:** KTPO Convention Centre, Whitefield, Bengaluru, India  \n\n## India Electronics Week (IEW) is India's only electronics event for the Creators of electronics products. It focuses on R&D and New Product Development of electronics. Be it the chip, the PCB, the circuit or the complete embedded systems' solution--IEW has conference tracks to cater to R&D and NPD teams of all.\n\n## Enabling R&D and Innovation\n\n### Discover latest technologies, components, techniques & best-practices for innovating in the field of electronics\n\n### Engage with suppliers & service providers who can truly help you develop your idea into an innovative product, quickly\n\n## TECH FOCUS\n\n## Electronics\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2022/05/electronics_.png)\n\n## Embedded\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2022/05/embedded.png)\n\n## IoT\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2022/05/iot_.png)\n\n## AI & ML\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2022/05/AI_ML.png)\n\n## Statistics of 2026\n\n## India Electronics Week & Bharat AI\n\nB2B VISITORS\n\n0 +\n\nConference Delegates + Workshop Attendees\n\n0 +\n\nBrands Exhibited\n\n0\n\nExhibitors\n\n0\n\nPanel Discussions & Talks\n\n0\n\nB2B Dating Sessions: Investors & Startups + SMEs\n\n0\n\nWorkshops & Masterclasses\n\n0\n\nSpeakers\n\n0 +\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2022/03/cropped-iew-logo_white.png)\n\n## **13-14 May 2026** | 10 AM to 6 PM\n\n## STRICTLY BUSINESS: No entry for students or anyone below 18 years of age\n\n## **15 May 2026** | 10 AM to 5 PM\n\n## **• 10 am to 2 pm:** STRICTLY BUSINESS.  \n**• 2 pm to 5 pm:** Students Entry Allowed.\n\n## (Registration starts at 9.30 am)\n\n## THE HIGHLIGHTS: TECH CONFERENCES & WORKSHOPS\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/01/erocks.png)](https://electronicsrocks.com/)\n\n## Tech conference focused on designing, prototyping, and testing next-generation electronic circuits and hardware products\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/01/embeddedindia.png)](https://embedded-india.com/)\n\n## Tech conference for engineers building intelligent, connected, and high-performance embedded systems\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/01/iotshow.png)](https://www.iotshow.in/)\n\n## Tech conference for developers and innovators creating scalable AI and IoT-driven solutions for real-world applications.\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/hands-on-workshop.png)](https://www.iotshow.in/)\n\n## Hands-on workshops building advanced electronics, AI, and IoT solutions for real-world applications.\n\n## THE HIGHLIGHTS: R&D AWARDS\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/RD-Awards-logos.png)\n\n## An annual initiative to recognise excellence in innovation by India's best R&D and New Product Development teams.\n\n## THE HIGHLIGHTS: VENTURE & SME GROWTH TRACK\n\n## Conference\n\n## Insight-driven sessions for founders and SMEs to scale ventures, secure funding, and drive business growth.\n\n## Masterclasses\n\n## Expert-led masterclasses for founders and SMEs to build strategies, secure funding, and accelerate business growth.\n\n## B2B Dating: Investors with SMEs & Startups\n\n## Curated networking for founders and SMEs to connect with investors, secure funding, and drive business growth.\n\n## THE HIGHLIGHTS: CO-LOCATED EVENT\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/03/bharat-ai_logo-1024x507.png)](https://bharatai.info/)\n\nConference for accelerating real-world deployment of AI solutions across Bharat\n\n## WHAT'S SPECIAL?\n\n## Hands-on workshops and Indepth Technical Tutorial sessions to train techies on cutting edge tech, and best practices.\n\n## With 2,000 plus delegates attending annually— amongst Asia's largest conferences on electronics.\n\n## Blessed with support of India's top electronics Gurus who speak at IEW conferences.\n\n## Annually held at the Silicon Valley of India: Bengaluru (aka Bangalore).\n\n## WHY ATTEND INDIA ELECTRONICS WEEK\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2022/03/1-2.png)\n\n## Upgrade Knowledge\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2022/03/2-2.png)\n\n## Gain Ideas & Best Practices\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2022/03/3.png)\n\n## Explore Latest Tech\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2022/03/4-1.png)\n\n## Partner with Like-minded Firms\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2022/03/man-1.png)\n\n## BLESSED WITH PRESENCE OF ATTENDEES FROM\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/attendees1-699x1024.png)\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/attendees2-698x1024.png)\n\n### ADVISORY PANEL OF 2026\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/Dr-Satya-Gupta-President-VLSI-Society-of-India-300x300.webp)\n\n### Dr. Satya Gupta\n\nPresident, VLSI Society of India (VSI) & Member, CII National Committee on Electronics Manufacturing\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/N.Narang-Kishore-Mentor-Principal-Design-Architect-Narnix-Technolabs-300x300.jpg)\n\n### Narang N Kishor\n\nMentor & Principal Design Architect, Narnix Technolabs Pvt. Ltd.\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/Rajeev-300x300.webp)\n\n### Raja Rajeev Kumar\n\nChief Executive Officer, LaxmiRamaVarma Capital Advisors\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/PVG-Menon-300x300.jpg)\n\n### PVG Menon\n\nVP & Head - Business Development, Tata Projects\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2024/01/Vivek-Saxena-300x300.jpg)\n\n### Vivek Saxena\n\nSr. Advisor - Semiconductors & Electronics Business, BC Jindal Group\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/Vivek-Tyagi-MD-Country-Manager-Analog-Devices-India-300x300.webp)\n\n### Vivek Tyagi\n\nMD & Country Manager, Analog Devices India\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/Bhartendu-Mishra-Managing-Director-Indian-Arrow-Electronics-300x300.webp)\n\n### Bhartendu Mishra\n\nManaging Director - India Arrow Electronics\n\n### THE SPEAKERS OF 2026\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Jeremy-Fromm-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/jeremy-fromm/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/N.Narang-Kishore-Mentor-Principal-Design-Architect-Narnix-Technolabs-300x300.jpg)](https://www.indiaelectronicsweek.com/uncategorized/narang-n-kishor-2/)\n\n### [Narang N Kishor](https://www.indiaelectronicsweek.com/uncategorized/narang-n-kishor-2/)\n\nMentor & Principal Design Architect, Narnix Technolabs Pvt Ltd\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2024/01/Vivek-Saxena-300x300.jpg)\n\n### Vivek Saxena\n\nSr. Advisor - Semiconductors & Electronics Business, BC Jindal Group\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/PVG-Menon-300x300.jpg)\n\n### PVG Menon\n\nVP & Head - Business Development at Tata Projects\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/Rajeev-300x300.webp)\n\n### Raja Rajeev Kumar\n\nChief Executive Officer, LaxmiRamaVarma Capital Advisors\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Rahul-Agarwal-1-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/rahul-agarwal/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Vinay_s-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/vinay-sidawadkar/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/Mubeen-Jukaku-300x300.png)](https://www.indiaelectronicsweek.com/iew-speaker-2026/mubeen-jukaku/)\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Vijayan-300x300.webp)\n\n### Vijayan Krishnan\n\nManager/Physical Design Engineer, Chipware Technologies,Bangalore\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Pitchai-Muthu-M_Photo-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/pitchai-muthu-m/)\n\n### [Pitchai Muthu M](https://www.indiaelectronicsweek.com/iew-speaker-2026/pitchai-muthu-m/)\n\nSoftware Engineer- Assist Manager, Advantech Industrial Computing India Private Limited\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Nayana-300x300.webp)\n\n### Nayana Gowda\n\nPhysical Design Engineer, Chipware Technologies,Bangalore\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Stijo-Joseph-1-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/stijo-joseph/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Sumanto-Kar-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/sumanto-kar/)\n\n### [Sumanto Kar](https://www.indiaelectronicsweek.com/iew-speaker-2026/sumanto-kar/)\n\nAssistant Project Manager, FOSSEE, IIT Bombay\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Dr-Amartya-Mukherjee-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/dr-amartya-mukherjee/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Kalpana-Muthireddi-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/kalpana-m-muthireddi/)\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2020/02/Sampath-VP.jpg)\n\n### V P Sampath\n\nFounder,Bharath Semiconductor Society\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Ashish-Sharma-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/ashish-sharma/)\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Vibhuti-Agarwa-1-300x300.webp)\n\n### Dr. Vibhuti Agarwal\n\nCo-founder,  \nRealtime Ventures\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Hrishikesh-Kamat-1-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/hrishikesh-kamat/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Jayakumar-Balasubramanian-Director-Emertxe-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/jayakumar-balasubramanian/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Madhu-Vadlamani-1681190630-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/madhu-vadlamani/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/TIPPANNA-R-S-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/tippanna-r-s/)\n\n### [Tippanna R S](https://www.indiaelectronicsweek.com/iew-speaker-2026/tippanna-r-s/)\n\nManager RF and Electromagnetics , Aetos Innovation Labs\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Manick-Rajendran-Founder-Periyar-Ventures-ChennaiAtlanta-300x300.webp)\n\n### Manick Rajendran\n\nFounder, Periyar Ventures - Chennai/Atlanta\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Prof-Sanjay-Dwivedi-300x300.webp)\n\n### Lead Faculty: Dr Sanjay Dwivedi\n\nCo-Faculty: Prof David Wittenberg\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/errol_-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/errol-joshua/)\n\n### [Errol Joshua](https://www.indiaelectronicsweek.com/iew-speaker-2026/errol-joshua/)\n\nCOO/Co-Founder, Tiny Prism Labs Private Limited\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Rajneesh-Mittal-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/rajneesh-mittal/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Sivaranjani.S-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/sivaranjani-s/)\n\n### [Sivaranjani S](https://www.indiaelectronicsweek.com/iew-speaker-2026/sivaranjani-s/)\n\nCentre Head(ESDM) ,CoE -Robotics & PLC(A CSR initiative of Delta Electronics), TN Apex Skill Development Centre for Automobile\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Abhijit-Roy-2-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/abhijit-roy/)\n\n### [Abhijit Roy](https://www.indiaelectronicsweek.com/iew-speaker-2026/abhijit-roy/)\n\nHead – Energy & Utilities and IoT CoE, Happiest Minds Technologies\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Ankita-Sabharwal-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/ankita-sabharwal/)\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/05/Vijay-Parthasaraty-300x300.webp)\n\n### Faculty: Vijay Parthasaraty\n\nCEO, TheGoldenLadderAcademy.com\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Jaya-Bindra-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/jaya-bindra/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Karthik-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/karthik-m-c/)\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/P-K-Gopalakrishnan-300x300.webp)\n\n### Lead faculty: Mr PK Gopalakrishnan\n\nAngel Investor\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/05/Umesh-Joshi-300x300.webp)\n\n### Umesh Joshi\n\nFounder, Calibr.ai\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/05/Dr-Rajashekar-300x300.webp)\n\n### Co-Lead: Dr Rajashekhar\n\nFounder, Traxion Labs\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Sanket-Patel-Photo-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/sanket-patel/)\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/05/Ramakrishnan-V-300x300.webp)\n\n### Ramakrishnan V\n\nFounder & CEO, Omniscient Perspectives\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/05/Sunil-Gupta-300x300.webp)\n\n### Sunil Gupta\n\nSr Director, Cognizent\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/vinay-sir-photo-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/vinay-solanki-2/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Sreenadh-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/sreenadh-s/)\n\n### [Sreenadh S](https://www.indiaelectronicsweek.com/iew-speaker-2026/sreenadh-s/)\n\nScientist E. Hardware Design Group, C-DAC\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Mr.-Dharmendra-Namdev-Hioki-300x300.webp)\n\n### Mr. Dharmendra Namdev\n\nAccount Sales Department Senior Manager, HIOKI INDIA\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Adarsh_BU-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/adarsh-bu/)\n\n### [Adarsh BU](https://www.indiaelectronicsweek.com/iew-speaker-2026/adarsh-bu/)\n\nIoT & Energy Domain Lead, Happiest Minds\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Balaji-Karthic-N-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/balaji-karthic-n/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/girish-nuli-square-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/girish-nuli/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Harish-Musarakallu-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/harish-babu-musarakallu/)\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Sreejith-Varma-Paliakara-300x300.webp)\n\n### Sreejith Varma Paliakara\n\nProgram Manager – Product Engineering & Strategy, Bosch Global Software Technologies\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Chandrasekar-Bala-300x300.webp)\n\n### Chandrasekar Balasubramanian\n\nIndependent Consultant\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Yogesh-Pandit-300x300.webp)](https://www.indiaelectronicsweek.com/iew-speaker-2026/yogesh-pandit/)\n\n### [Yogesh Pandit](https://www.indiaelectronicsweek.com/iew-speaker-2026/yogesh-pandit/)\n\nDirector, Product Acceleration , Foundation for Science Innovation and Development, IISc\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/Ashwini-Kumar-EFY-300x300.jpg)](https://www.indiaelectronicsweek.com/workshops/ashwini-kumar-sinha/)\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/sanil-kumar-D.webp)\n\n### Sanil Kumar D\n\nFounder, CEO & Director, Caze Labs\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/Anandkumar-Architect-Siemens.webp)\n\n### Anand kumar\n\nArchitect, Siemens\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/blank-person-300x300.jpg)\n\n### TBA\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/blank-person-300x300.jpg)\n\n### TBA\n\n![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/blank-person-300x300.jpg)\n\n### TBA\n\n##### Organiser\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/09/efygroup.jpg)](https://efy.in/)\n\n##### CO-ORGANISER:  \nVenture & SME Growth Track\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/chromosoul.png)](https://chromosoul.in/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/05/MSME-EFY.jpg)](https://msme.gov.in/)\n\n## PARTNERS OF 2026\n\n##### Platinum Sponsor\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/05/components-Buy-_-EFY.png)](https://www.componentbuy.com/)\n\n##### Associate Sponsors\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/vinrox_IEW.png)](https://www.vinrox.com/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2024/06/Hioki_IEW-2024.png)](https://www.hioki.com/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2024/06/Rohde__Schwarz-_-IEW-2024.png)](https://www.rohde-schwarz.com/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/IEMA_logo.png)](https://iemlabs.com/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/JSW-steel-works-_-EFY.png)](https://www.jsw.co.jp/en/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2023/12/Rigol-IEW-2024.png)](https://in.rigol.com/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/04/ROHM_EFY.png)](https://www.rohm.com/)\n\n##### OUR **ICONIC** EXHIBITORS\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2023/12/CMP-pcb-IEW-2024.png)](http://www.cmppcb.com/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/pCB-ower.png)](https://www.pcbpower.com/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/01/keysight.png)](https://www.keysight.com/us/en/home.html)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2023/12/Emertxe-Technologies_IEW204.png)](https://www.emertxe.com/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2025/02/Indian-VP_EFY.png)](https://www.ivpsemi.com/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/03/yamazen-_-EFY.png)](https://yamazen.co.in/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/03/aqtronics_EFYExpo-1.png)](https://aqtronics.com/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2024/06/rajguru_EFYExpo_2023.png)](https://www.rajguruelectronics.com/)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2023/12/Advantech_IEW-2024.png)](https://www.advantech.com/en)\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2026/03/TME_EFY.png)](https://www.tme.com/in/en/)\n\n## VENUE\n\n[![](https://www.indiaelectronicsweek.com/wp-content/uploads/2023/08/ktpo-img.jpg)](https://www.iotshow.in/venue/)\n\n**India Electronics Week is at KTPO Trade Center, Whitefield, Bengaluru -- see you there!**\n\nThe venue is just in the heart of the technology hub of the city - Whitefield.",
+  "debug": {
+   "requestHandlerMode": "browser"
+  }
+ },
+ {
+  "url": "https://cypher.analyticsindiamag.com/",
+  "crawl": {
+   "loadedUrl": "https://cypher.analyticsindiamag.com/",
+   "loadedTime": "2026-08-27T12:28:00.304Z",
+   "referrerUrl": "https://cypher.analyticsindiamag.com/",
+   "httpStatusCode": 200,
+   "depth": 0,
+   "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+   "canonicalUrl": "https://cypher.analyticsindiamag.com/",
+   "title": "AI Conference Bangalore 2026 | Cypher, Oct 7–9",
+   "description": "Cypher 2026 is India's biggest AI conference — Bengaluru, Oct 7–9. 5,000+ attendees, 150+ speakers, AI Expo, AI Awards. Book your pass today.",
+   "author": "Cypher Conference",
+   "keywords": "ai conference 2026 india, ai conference india 2026, ai summit india 2026, ai conference bengaluru 2026, generative ai conference india, machine learning conference india 2026, cypher 2026, ai awards india 2026, best ai conference in india, top ai events in india 2026, enterprise ai conference india, artificial intelligence conference india",
+   "languageCode": "en",
+   "openGraph": [
+    {
+     "property": "og:type",
+     "content": "website"
+    },
+    {
+     "property": "og:url",
+     "content": "https://cypher.analyticsindiamag.com/"
+    },
+    {
+     "property": "og:image",
+     "content": "https://cypher.analyticsindiamag.com/og-image.jpg"
+    },
+    {
+     "property": "og:site_name",
+     "content": "Cypher 2026"
+    },
+    {
+     "property": "og:title",
+     "content": "Cypher 2026 — India's Biggest AI Conference, Bengaluru Oct 7–9"
+    },
+    {
+     "property": "og:description",
+     "content": "Join 5,000+ AI leaders at Cypher 2026 in Bengaluru. 150+ speakers, AI Expo, AI Awards. Oct 7–9, 2026."
+    }
+   ],
+   "jsonLd": [
+    {
+     "@context": "https://schema.org",
+     "@type": "Event",
+     "name": "Cypher 2026",
+     "description": "India's Premier AI & Technology Conference - Join 5,000+ attendees, 150+ speakers, and 100+ exhibitors for 3 days of innovation, learning, and networking",
+     "startDate": "2026-10-07",
+     "endDate": "2026-10-09",
+     "eventStatus": "https://schema.org/EventScheduled",
+     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+     "image": "https://cypher.analyticsindiamag.com/og-image.jpg",
+     "location": {
+      "@type": "Place",
+      "name": "KTPO - Karnataka Trade Promotion Organization",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "Whitefield",
+       "addressLocality": "Bengaluru",
+       "addressRegion": "Karnataka",
+       "postalCode": "560066",
+       "addressCountry": "IN"
+      },
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 12.9898,
+       "longitude": 77.7172
+      }
+     },
+     "organizer": {
+      "@type": "Organization",
+      "name": "Analytics India Magazine",
+      "url": "https://cypher.analyticsindiamag.com",
+      "logo": "https://cypher.analyticsindiamag.com/favicon.png",
+      "contactPoint": {
+       "@type": "ContactPoint",
+       "contactType": "customer service",
+       "email": "info@aim.media",
+       "areaServed": "IN",
+       "availableLanguage": [
+        "en",
+        "hi"
+       ]
+      },
+      "sameAs": [
+       "https://twitter.com/cypher2026",
+       "https://linkedin.com/company/analytics-india-magazine"
+      ]
+     },
+     "offers": [
+      {
+       "@type": "AggregateOffer",
+       "lowPrice": "5000",
+       "highPrice": "50000",
+       "priceCurrency": "INR",
+       "availability": "https://schema.org/InStock",
+       "url": "https://cypher.analyticsindiamag.com/tickets",
+       "validFrom": "2025-06-01"
+      }
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "WebSite",
+     "url": "https://cypher.analyticsindiamag.com",
+     "name": "Cypher 2026",
+     "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://cypher.analyticsindiamag.com/search?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+     }
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "FAQPage",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "When and where is the AI Conference 2026 in India?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cypher 2026, India's biggest AI Conference, takes place on October 7–9, 2026 at KTPO Whitefield, Bengaluru. It is the 10th edition of India's flagship AI summit organised by Analytics India Magazine."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is Cypher the biggest AI conference in India?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Cypher is widely regarded as India's biggest AI conference, bringing together 5,000+ attendees, 150+ speakers, and 100+ exhibitors across keynotes, workshops, an AI Expo and the AI Awards."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Who should attend the AI Conference 2026 in India?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CXOs, AI and ML engineers, data scientists, enterprise leaders, founders, researchers, students and AI product builders attend Cypher 2026 to learn, network and discover the latest in Generative AI, Enterprise AI, Agents, MLOps and Responsible AI."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How much do AI Conference 2026 India tickets cost?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cypher 2026 passes are available in multiple tiers, with Regular pricing open until 11 September 2026. Visit the Tickets page for current AI Conference 2026 India ticket prices, group discounts and corporate passes."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Who is speaking at Cypher 2026?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cypher 2026 features 150+ AI leaders, including senior practitioners from leading enterprises, AI startups and research labs across India and the world. Speaker reveals are published on the Speakers page."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How can my company sponsor the AI Conference 2026 in India?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Companies can become a Cypher 2026 partner by visiting the Sponsors page or contacting the team. Sponsorship gives access to India's most senior AI buyer audience across enterprise, government and startups."
+       }
+      }
+     ]
+    }
+   ],
+   "headers": {
+    "date": "Thu, 27 Aug 2026 12:27:43 GMT",
+    "content-type": "text/html; charset=utf-8",
+    "cf-ray": "a31b126ac937f8a7-EWR",
+    "cf-cache-status": "DYNAMIC",
+    "cache-control": "no-cache, must-revalidate, max-age=0",
+    "server": "cloudflare",
+    "set-cookie": "__dpl=cc90ab43-4aba-4460-aca7-6ebc864bee04; Path=/; Max-Age=604800; SameSite=Lax; Secure\n__cf_bm=4DoKB..rtsdErSoKeZMrm.tVHyxx79fk9lRYDofEHpQ-1787833663.2161932-1.0.1.1-rvD3dao8LglJXMLWVWyOxlXF0aTBdPajWCY_RodLslpFRKwjqAt7xf9DG0yM5HnWeEviwUurns4.WWO.ixuCbzoxzMTomtTtY0EtM.U5wpWA.ZclII1WgggDVnVeuWv9; HttpOnly; SameSite=None; Secure; Path=/; Domain=lovable.app; Expires=Thu, 27 Aug 2026 12:57:43 GMT",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "vary": "accept-encoding",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-deployment-id": "cc90ab43-4aba-4460-aca7-6ebc864bee04",
+    "speculation-rules": "\"/cdn-cgi/speculation\"",
+    "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=6, cfOrigin;dur=0, cfWorker;dur=333",
+    "report-to": "{\"group\":\"cf-nel\", \"max_age\":604800, \"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=E19BRaUHUPwq89UdUfXxrGkMMfaa3MVsTzUjrkxQd%2FYEpK21gUJ1RefPHAOZDM29spc7hphzVX8UezsCr0LgljoH8RVOA27TDOP0kiH5sy1VbCWQRrBk51dEtzlW4IAKGDtNAqkPK2emnFHmcDw%3D\"}]}",
+    "nel": "{\"report_to\":\"cf-nel\", \"success_fraction\":0.0, \"max_age\":604800}",
+    "content-encoding": "br",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "x-firefox-spdy": "h2"
+   }
+  },
+  "screenshotUrl": null,
+  "text": "AI Conference Bangalore 2026 | Cypher, Oct 7–9\n10th Edition · Oct 6–8, 2026 · KTPO, Bengaluru→\nIndia's biggestAI summit & Expo.\nJoin 5,000+ attendees, 150+ speakers, and 100+ exhibitors.\nReserve Your Seat→\nA mindful convergence of ideas, builders, and breakthroughs shaping India's AI future.\n5,000+Attendees\n150+Speakers\n100+Exhibitors\n3Days\n25+Countries\n10thEdition\n130+Sessions\n1,500+Organizations\n5,000+Attendees\n150+Speakers\n100+Exhibitors\n3Days\n25+Countries\n10thEdition\n130+Sessions\n1,500+Organizations\nAbout · Since 2015\nWelcome to Cypher.\nFrom Bengaluru\nto the world.\nBased in the cultural melting pot of Bengaluru, our reach extends far beyond — connecting AI innovators with international audiences and opportunities. What started as a simple idea has grown into India's biggest AI summit.\n3,188+\nAI professionals under one roof\n91+\nSessions across 3 days\n12+\nCountries represented\n6th\nEdition since 2015\nSpeakers\nMeet the visionaries.\nExpect more than 150+ speakers at Cypher 2026 — industry pioneers and thought leaders shaping the future of AI from breakthrough research to real-world applications.\nAvailable now\nCurrent price\n₹13,000\nStandard Pass · incl. GST\nGoes to ₹20,000 on 12 Sep\nFrom 12 Sep\nLate pass\n₹20,000\nStandard Pass · incl. GST\nPrice increases\nFrom 2 Oct\nLast minute\n₹30,000\nStandard Pass · incl. GST\nPrice increases\nOver 10 editions bringing together India's brightest minds in AI. We're building the future, one summit at a time.\nLast updated\n01 - 2026\nWhere the entire Indian\nAI ecosystem comes\ntogether to innovate\nIndustry-leading keynote speeches and panels\nHear directly from top industry leaders through keynote speeches and panels.\nKeynote\nMainstage\nOver 100 exhibitors showcasing cutting-edge AI solutions\nExplore 100+ exhibitors presenting the latest in AI technology and applications.\nExpo\nHall A · B · C\nLive product demonstrations and immersive showcases\nEngage with live demos offering hands-on, interactive showcases.\nDemo\nDemo Floor\nInteractive workshops with top AI practitioners\nWorkshops led by AI practitioners to deepen your practical skills.\nWorkshop\nStudio\nUnmatched networking with AI leaders\nNetwork with founders and innovators to form meaningful partnerships.\nNetworking\nLounge\nInsights from cutting-edge research\nInsights from researchers and thought leaders shaping the future of AI.\nResearch\nLab\nBeyond the main stage\nFrom the 080 Sessions to the Build Room and Filter Room — curated gatherings that run before, during, and after the conference. Over 20 experiences across 6 months.\nPre-Cypher6 events\nDuring Cypher4 experiences\nPost-Cypher6 events\nCypher 2026 is India's flagship AI conference, where 5,000+ practitioners shape the future of artificial intelligence. Three days. One signal.\nAbout\nCypher 2026 is the 10th edition of India's flagship AI conference, hosted by Analytics India Magazine in Bengaluru from October 7–9, 2026. Over three days, the conference brings together 5,000+ AI practitioners, 150+ global speakers and 100+ exhibitors shaping the future of artificial intelligence.\nFrom Generative AI and AI Agents to Enterprise AI, MLOps, Responsible AI and AI Infrastructure, Cypher is where India's most senior AI leaders, engineers and decision-makers come to learn, build and connect.\nThe conference also hosts the AI Awards India 2026, recognising the country's most impactful AI innovators across enterprise, research and startup categories.\nWhether you are a CXO planning your AI roadmap, an ML engineer shipping models to production, a founder building the next AI company, or a researcher pushing the frontier — Cypher 2026 is the AI conference in India built for you.\nBelow are a list of frequently asked questions about Cypher 2026 — India's biggest AI conference happening October 7–9, 2026 at KTPO Bengaluru.\nCypher 2026, India's biggest AI Conference, takes place on October 7–9, 2026 at KTPO Whitefield, Bengaluru. It is the 10th edition of India's flagship AI summit organised by Analytics India Magazine.\nYes. Cypher is widely regarded as India's biggest AI conference, bringing together 5,000+ attendees, 150+ speakers, and 100+ exhibitors across keynotes, workshops, an AI Expo and the AI Awards.\nCXOs, AI and ML engineers, data scientists, enterprise leaders, founders, researchers, students and AI product builders attend Cypher 2026 to learn, network and discover the latest in Generative AI, Enterprise AI, Agents, MLOps and Responsible AI.\nCypher 2026 passes are available in multiple tiers, with Regular pricing open until 11 September 2026. Visit the Tickets page for current AI Conference 2026 India ticket prices, group discounts and corporate passes.\nCypher 2026 features 150+ AI leaders, including senior practitioners from leading enterprises, AI startups and research labs across India and the world. Speaker reveals are published on the Speakers page.\nCompanies can become a Cypher 2026 partner by visiting the Sponsors page or contacting the team. Sponsorship gives access to India's most senior AI buyer audience across enterprise, government and startups.\nInside the journey.\nThoughts from the team on building, learning, and leading at Cypher.\nPS: Read all dispatches — and follow the build.\nThe Venue\nKTPO\nWhitefield,\nBengaluru.\nKarnataka's largest exhibition and convention complex — the architectural landmark that will host three days of India's biggest AI summit. One address, thousands of breakthrough conversations.\nKTPO Convention Centre\n10th Mile, Tumkur Road, Whitefield, Bengaluru – 560066\nHow to reach\n~45 km from KIA · 4 km from Whitefield Metro",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# AI Conference Bangalore 2026 | Cypher, Oct 7–9\n\n![IBM presents Cypher 2026, powered by Genpact](https://cypher.analyticsindiamag.com/__l5e/assets-v1/541e532b-a1df-4e18-8153-861a0f6c0b8f/Cypher_unit.png)\n\n[10th Edition · Oct 6–8, 2026 · KTPO, Bengaluru→](https://cypher.analyticsindiamag.com/venue)\n\n## India's biggestAI summit & Expo.\n\nJoin 5,000+ attendees, 150+ speakers, and 100+ exhibitors.\n\n[Reserve Your Seat→](https://cypher.analyticsindiamag.com/tickets)\n\n![Cypher 2026 decorative divider](https://cypher.analyticsindiamag.com/__l5e/assets-v1/a3756135-5d85-4ca6-a8f1-f66e5328423d/Divider@2x.png)\n\nA mindful convergence of ideas, builders, and breakthroughs shaping India's AI future.\n\n5,000+Attendees\n\n150+Speakers\n\n100+Exhibitors\n\n3Days\n\n25+Countries\n\n10thEdition\n\n130+Sessions\n\n1,500+Organizations\n\n5,000+Attendees\n\n150+Speakers\n\n100+Exhibitors\n\n3Days\n\n25+Countries\n\n10thEdition\n\n130+Sessions\n\n1,500+Organizations\n\nAbout · Since 2015\n\n## Welcome to Cypher.  \nFrom Bengaluru  \nto the world.\n\nBased in the cultural melting pot of Bengaluru, our reach extends far beyond — connecting AI innovators with international audiences and opportunities. What started as a simple idea has grown into India's biggest AI summit.\n\n3,188+\n\nAI professionals under one roof\n\n91+\n\nSessions across 3 days\n\n12+\n\nCountries represented\n\n6th\n\nEdition since 2015\n\nSpeakers\n\n## Meet the visionaries.\n\nExpect more than 150+ speakers at Cypher 2026 — industry pioneers and thought leaders shaping the future of AI from breakthrough research to real-world applications.\n\nAvailable now\n\n### Current price\n\n₹13,000\n\nStandard Pass · incl. GST\n\nGoes to ₹20,000 on 12 Sep\n\nFrom 12 Sep\n\n### Late pass\n\n₹20,000\n\nStandard Pass · incl. GST\n\nPrice increases\n\nFrom 2 Oct\n\n### Last minute\n\n₹30,000\n\nStandard Pass · incl. GST\n\nPrice increases\n\nOver 10 editions bringing together India's brightest minds in AI. We're building the future, one summit at a time.\n\nLast updated\n\n01 - 2026\n\n## Where the entire Indian  \nAI ecosystem comes  \ntogether to innovate\n\n*   [\n    \n    ### Industry-leading keynote speeches and panels\n    \n    Hear directly from top industry leaders through keynote speeches and panels.\n    \n    Keynote\n    \n    Mainstage![Industry-leading keynote speeches and panels](https://yntloxfmweoffajimvey.supabase.co/storage/v1/object/public/event-media/2025/1760259170883-4g97951bj.jpg)\n    \n    ](https://cypher.analyticsindiamag.com/schedule)\n*   [\n    \n    ### Over 100 exhibitors showcasing cutting-edge AI solutions\n    \n    Explore 100+ exhibitors presenting the latest in AI technology and applications.\n    \n    Expo\n    \n    Hall A · B · C![Over 100 exhibitors showcasing cutting-edge AI solutions](https://yntloxfmweoffajimvey.supabase.co/storage/v1/object/public/event-media/2025/1760260596453-eyqs1ts7z.jpg)\n    \n    ](https://cypher.analyticsindiamag.com/schedule)\n*   [\n    \n    ### Live product demonstrations and immersive showcases\n    \n    Engage with live demos offering hands-on, interactive showcases.\n    \n    Demo\n    \n    Demo Floor![Live product demonstrations and immersive showcases](https://yntloxfmweoffajimvey.supabase.co/storage/v1/object/public/event-media/2025/1760259240105-i4oa7bc11.jpg)\n    \n    ](https://cypher.analyticsindiamag.com/schedule)\n*   [\n    \n    ### Interactive workshops with top AI practitioners\n    \n    Workshops led by AI practitioners to deepen your practical skills.\n    \n    Workshop\n    \n    Studio![Interactive workshops with top AI practitioners](https://yntloxfmweoffajimvey.supabase.co/storage/v1/object/public/event-media/2025/1760259228752-5w3mwvnuu.jpg)\n    \n    ](https://cypher.analyticsindiamag.com/schedule)\n*   [\n    \n    ### Unmatched networking with AI leaders\n    \n    Network with founders and innovators to form meaningful partnerships.\n    \n    Networking\n    \n    Lounge![Unmatched networking with AI leaders](https://yntloxfmweoffajimvey.supabase.co/storage/v1/object/public/event-media/2025/1760260493039-duakhz0as.jpg)\n    \n    ](https://cypher.analyticsindiamag.com/schedule)\n*   [\n    \n    ### Insights from cutting-edge research\n    \n    Insights from researchers and thought leaders shaping the future of AI.\n    \n    Research\n    \n    Lab![Insights from cutting-edge research](https://yntloxfmweoffajimvey.supabase.co/storage/v1/object/public/event-media/2025/1760259193717-by589sony.jpg)\n    \n    ](https://cypher.analyticsindiamag.com/schedule)\n\nBeyond the main stage\n\nFrom the 080 Sessions to the Build Room and Filter Room — curated gatherings that run before, during, and after the conference. Over 20 experiences across 6 months.\n\nPre-Cypher6 events\n\nDuring Cypher4 experiences\n\nPost-Cypher6 events\n\n## Cypher 2026 is India's flagship AI conference, where 5,000+ practitioners shape the future of artificial intelligence. Three days. One signal.\n\nAbout\n\nCypher 2026 is the 10th edition of India's flagship AI conference, hosted by Analytics India Magazine in Bengaluru from **October 7–9, 2026**. Over three days, the conference brings together 5,000+ AI practitioners, 150+ global speakers and 100+ exhibitors shaping the future of artificial intelligence.\n\nFrom Generative AI and AI Agents to Enterprise AI, MLOps, Responsible AI and AI Infrastructure, Cypher is where India's most senior AI leaders, engineers and decision-makers come to learn, build and connect.\n\nThe conference also hosts the [AI Awards India 2026](https://cypher.analyticsindiamag.com/awards), recognising the country's most impactful AI innovators across enterprise, research and startup categories.\n\nWhether you are a CXO planning your AI roadmap, an ML engineer shipping models to production, a founder building the next AI company, or a researcher pushing the frontier — Cypher 2026 is the AI conference in India built for you.\n\nBelow are a list of frequently asked questions about Cypher 2026 — India's biggest AI conference happening October 7–9, 2026 at KTPO Bengaluru.\n\nCypher 2026, India's biggest AI Conference, takes place on October 7–9, 2026 at KTPO Whitefield, Bengaluru. It is the 10th edition of India's flagship AI summit organised by Analytics India Magazine.\n\nYes. Cypher is widely regarded as India's biggest AI conference, bringing together 5,000+ attendees, 150+ speakers, and 100+ exhibitors across keynotes, workshops, an AI Expo and the AI Awards.\n\nCXOs, AI and ML engineers, data scientists, enterprise leaders, founders, researchers, students and AI product builders attend Cypher 2026 to learn, network and discover the latest in Generative AI, Enterprise AI, Agents, MLOps and Responsible AI.\n\nCypher 2026 passes are available in multiple tiers, with Regular pricing open until 11 September 2026. Visit the Tickets page for current AI Conference 2026 India ticket prices, group discounts and corporate passes.\n\nCypher 2026 features 150+ AI leaders, including senior practitioners from leading enterprises, AI startups and research labs across India and the world. Speaker reveals are published on the Speakers page.\n\nCompanies can become a Cypher 2026 partner by visiting the Sponsors page or contacting the team. Sponsorship gives access to India's most senior AI buyer audience across enterprise, government and startups.\n\n## Inside the journey.\n\nThoughts from the team on building, learning, and leading at Cypher.\n\nPS: [Read all dispatches](https://cypher.analyticsindiamag.com/blog) — and follow the build.\n\nThe Venue\n\n## KTPO  \nWhitefield,  \nBengaluru.\n\nKarnataka's largest exhibition and convention complex — the architectural landmark that will host three days of India's biggest AI summit. One address, thousands of breakthrough conversations.\n\nKTPO Convention Centre\n\n10th Mile, Tumkur Road, Whitefield, Bengaluru – 560066\n\nHow to reach\n\n~45 km from KIA · 4 km from Whitefield Metro",
+  "debug": {
+   "requestHandlerMode": "browser"
+  }
+ }
+]

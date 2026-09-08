@@ -1,0 +1,844 @@
+[
+ {
+  "name": "LogicLadder Technologies Private Limited",
+  "city": "Gurugram",
+  "domain": "logicladder.com",
+  "website": "https://www.thesustainabilitycloud.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "LogicMonitor (India) Private Limited",
+  "city": "Pune",
+  "domain": "logicmonitor.com",
+  "website": "https://www.logicmonitor.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 41152,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 10,
+   "DQ_support": 5,
+   "enterprise": 5,
+   "owns_product": 5
+  },
+  "site_quotes": {
+   "cicd": [
+    "Container Monitoring Automated, real-time visibility for Kubernetes and ephemeral microservices."
+   ],
+   "DQ_support": [
+    "Workforce Productivity NEW Troubleshoot remote hardware and network issues to protect productivity."
+   ],
+   "enterprise": [
+    "Healthcare Protect continuity of care and EHR availability across clinical workflows."
+   ],
+   "owns_product": [
+    "Customer Education Learn more about our platform through resources and live trainings."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Logixal Cloud Solutions LLP",
+  "city": "Mumbai",
+  "domain": "logixal.com",
+  "website": "https://demo.logixal.com/en",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 1174,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "LTM Limited",
+  "city": "Mumbai",
+  "domain": "ltm.com",
+  "website": "https://www.ltm.com/",
+  "already_in_hubspot": true,
+  "headcount_known": "n/a",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 28835,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "sdlc": 4,
+   "owns_product": 2,
+   "qa": 2,
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Learn More Watch Now Powered by BlueVerse CraftStudio Popular queries: What are the latest AI trends What experience do you have in banking?"
+   ],
+   "sdlc": [
+    "LTM AI-led Engineering By integrating AI platforms with product-IT engineering, we enable agile, always-on systems that drive innovation, reliability, and growth.",
+    "Grounded in global research, client intelligence, and real delivery experience, it brings clarity on how AI is reshaping engineering practices, quality and governance, skills, and levels of autonomy across the SDLC.",
+    "AgentIQ — Orchestrate AI Agents Across Software Delivery AgentIQ is LTM’s enterprise-grade Agentic AI platform that supports modern application engineering across the SDLC.",
+    "AI-native delivery model An enterprise knowledge fabric delivers augmented intelligence across every step of the SDLC and SMLC, powered by the industry-leading BlueVerse platform."
+   ],
+   "owns_product": [
+    "By integrating advanced AI powered tools, IPs and platforms with our Product-IT engineering methodologies, we ensure seamless platform enablement to build transformative products and applications to enable software-driven transformation.",
+    "Accelerating to the desired future state Leverage niche expertise, proven accelerators, and a strong partnership ecosystem help fast-track transformation."
+   ],
+   "qa": [
+    "FusionIQ — Accelerate Speed to Market with Assured Quality FusionIQ is LTM’s GenAI-powered test automation workbench that transforms quality engineering with predictive intelligence.",
+    "This ensures strong operational performance with a sharp focus on shift-left and ticket avoidance."
+   ],
+   "prod_eng": [
+    "Watch Webinar Awards and Recognitions Everest Group LTM recognized as a Leader in Everest Group's Software Product Engineering Services PEAK Matrix Assessment 2026."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Macaws Infotech LLP",
+  "city": "Kolkata",
+  "domain": "macawsinfotech.com",
+  "website": "http://www.macawsinfotech.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "yright reserved © 2018 by Macaws Infotech. Developed By Moz Web Development"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "We safeguard the data and business reputations of 200+ clients by delivering innovative IT, IoT, and OT Security and networking solutions focusing on technical excellence.",
+    "4B-101, Ecospace Business Park, Newtown, Kolkata 700160, India sales@macawasinfotech.com +91 98300 60984 / +91 80170 22422 10:00AM - 06:00PM IST --> Macaws Infotech Macaws Infotech, a leading security solution provider based in Kolkata since 1998, delivers advanced cybersecurity and networking solutions worldwide."
+   ],
+   "enterprise": [
+    "5 Aug 2023 Banking on Security: How Macaws Secured Against Phishing Threats Read how Macaws' technology transformed the bank’s cybersecurity posture and thwarted phishing attempts."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Maclogs Private Limited",
+  "city": "Bengaluru",
+  "domain": "maclogs.com",
+  "website": "https://www.maclogs.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 8604,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "DQ_template": 1,
+   "sdlc": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We have the necessary tools and accelerators that help us in successfully facilitating quick and cost-effective upgrades."
+   ],
+   "DQ_template": [
+    "Scalable & Global Deployment ​ Deploy SAP ME across multiple plants and geographies with standardized templates and best practices."
+   ],
+   "sdlc": [
+    "Whether you’re migrating from legacy systems or reimagining your processes for the future, RISE with SAP provides the cloud foundation, intelligent capabilities, and transformation support needed to compete and grow in a dynamic digital landscape.",
+    "SAP Signavio tools help you analyze, benchmark, and continuously improve your processes with data-driven insights."
+   ],
+   "cicd": [
+    "Data Integration & Automation Connect SaaS apps, databases, and APIs with tools like Fivetran, Matillion, and dbt to ensure real-time, accurate data pipelines."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Macquarie Global Services Private Limited",
+  "city": "Gurugram",
+  "domain": "macquarie.com",
+  "website": "https://www.macquarie.com/in/en.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 14,
+   "external_job_boards": [],
+   "jd_chars": 61457,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 15,
+   "DQ_support": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Learn about us News Company Community Sustainability Corporate Governance Board of Directors Executive Committee Risk management Macquarie Asset Management Banking and Financial Services Commodities and Global Markets Macquarie Capital Investors Investors We offer our investors a track record of unbroken profitability.",
+    "No information set out above constitutes advice, an advertisement, an invitation, a confirmation, an offer or a solicitation, to buy or sell any security or other financial, credit or lending product or to engage in any investment activity, or an offer of any banking or financial service.",
+    "RMG Market Risk is responsible for the market risk management framework and independent oversight of both Traded Market Risk and Interest Rate Risk in the Banking Book (IRRBB).",
+    "Regulatory and compliance risk The risk of failing to comply with laws, regulations, rules, statements of regulatory policy, and codes of conduct applicable to Macquarie’s financial services and other regulated activities."
+   ],
+   "DQ_support": [
+    "The Board, assisted by the Board Risk Committee, is responsible for forming a view of the risk culture within Macquarie and the extent to which it supports the ability of Macquarie to operate consistently within its risk appetite."
+   ],
+   "cicd": [
+    "RMG Credit monitors the overall usage of the Equity Risk Limit (ERL), the upcoming transaction pipeline, and the portfolio composition."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Macronix Screening Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "macronix.in",
+  "website": "https://macronix.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 7111,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Credit Check Investment Check Quick Diligence Identity Verification We help businesses elevate their value through custom software development, product design, QA and consultancy."
+   ],
+   "sdlc": [
+    "04 Responsibility Choose Us for Precision, Reliability, and Trust Reliability & Robustness Tested for quality and tuned to righteonesness help us to offer reliable solutions.Our agile systems drive us positively to maintain high level of sturdiness."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Magic Software Pvt Ltd",
+  "city": "Noida",
+  "domain": "magicsw.com",
+  "website": "https://www.magicsw.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 10067,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "malomatia India Technology Services Private Limited",
+  "city": "Pune",
+  "domain": "malomatia.com",
+  "website": "https://malomatia.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2008-02-25",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 27956,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Our work spans government, healthcare, customs, education, and the private sector."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Man Truck & Bus India Private Limited",
+  "city": "Pune",
+  "domain": "mantruckandbusindia.com",
+  "website": "https://www.mantruckandbusindia.com/en/homepage.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "the fields of design and simulations, hardware development, software development and validation, and data science and performance analysis. The engine"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 51541,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 10
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "We are growing and pushing the limits in the fields of autonomous driving, electric vehicles, connectivity, design, simulation, hardware, automation, data analysis and many more advanced areas.",
+    "Read more Engineering</h4>\\r\\n<h3>A young and highly motivated team</h3>\\r\\n<p>In Pune, MAN India works in the fields of design and simulations, hardware development, software development and validation, and data science and performance analysis.",
+    "Besides state-of-the-art hardware and software, our employees can enjoy a spacious cafeteria and areas for conferencing or recreation.",
+    "Hardware development Delivering expertise in hardware development, e.g."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Manhattan Associates (India) Development Centre Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "manh.com",
+  "website": "https://www.manh.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 88197,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2,
+   "sdlc": 3,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "A Winning Platform for the Future A 2X Growth Gap in Retail AI Coaching to Empower Associates Almost Correct AI is Wrong Moving to Autonomous Retail Replan in Hours, Not Days One Intelligent System: Built For Today, Ready For Tomorrow One platform.",
+    "Instead of forcing an expensive and redundant ERP modification, replacement or consolidation, Enterprise Promise & Fulfill acts as a unifying layer, allowing businesses to operate seamlessly across multiple ERP environments while improving fulfillment efficiency and increasing sales."
+   ],
+   "sdlc": [
+    "Active Planning Demand Forecasting Allocation Replenishment × Supply Chain Planning Built for Agility and Faster Forecasting Insights An AI-powered demand planning solution that adapts in real time to sharpen forecast accuracy, optimize inventory decisions, and keep supply chains agile through constant change.",
+    "Learn More Supply Chain Planning Built for Agility and Faster Forecasting Insights An AI-powered demand planning solution that adapts in real time to sharpen forecast accuracy, optimize inventory decisions, and keep supply chains agile through constant change.",
+    "In other words, they are the agile, scalable, innovative solutions required in distribution, transportation, retail, and inventory."
+   ],
+   "DQ_support": [
+    "Partners include: Proven software and hardware providers Technology innovators Trusted third-party integrators Strategic consultants Program Benefits Platinum Partners Receive the highest level of co-marketing and event support that includes exhibition space and co-marketing opportunities."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Maren Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "marensolutions.com",
+  "website": "https://www.marensolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 1149,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "sdlc": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We design intelligent, cost-effective and intuitive web applications, desktop applications and mobile apps that help streamline process for new businesses Our Methodology We adopt customised agile methodology with scrum practice which nourishes our products to be implemented within stiplulated time."
+   ],
+   "sdlc": [
+    "We design intelligent, cost-effective and intuitive web applications, desktop applications and mobile apps that help streamline process for new businesses Our Methodology We adopt customised agile methodology with scrum practice which nourishes our products to be implemented within stiplulated time."
+   ],
+   "qa": [
+    "Analytical QA team to deliver bug-free products."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Maruti Suzuki India Limited",
+  "city": "Gurugram",
+  "domain": "marutisuzuki.com",
+  "website": "https://www.marutisuzuki.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-02-24",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 20157,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "MatrixOne Tech Solutions",
+  "city": "Hyderabad",
+  "domain": "matrixonetechsolutions.com",
+  "website": "https://www.matrixonetechsolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Guaranteed ROI Results in 30 days — not 12 months CFO/COO decision — no procurement committee Pre-built Accelerators, not experiments See Our Signature Capabilities Ready to bring India's delivery power to your European projects?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Mayvel Technologies Private Limited",
+  "city": "Coimbatore",
+  "domain": "mayvel.ai",
+  "website": "https://mayvel.ai",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "sdlc": 1,
+   "cicd": 1,
+   "qa": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Explore our platforms → Talk to an expert Scroll / 01 — What we believe The idea behind Mayvel The best technology works quietly in the background.",
+    "Alongside our platforms, Mayvel partners with organizations to design, develop and modernize digital solutions that solve complex business problems and accelerate innovation.",
+    "Through our platforms and engineering expertise, we work alongside organizations to simplify complexity, improve performance and create lasting value."
+   ],
+   "sdlc": [
+    "Explore Mayvel Design → 02 Product Development Agile engineering across web, mobile and cloud — shipped, maintained and scaled."
+   ],
+   "cicd": [
+    "03 Data Engineering Pipelines and data systems that turn raw signal into decision-ready insight."
+   ],
+   "qa": [
+    "05 QA Automation Automated testing built for performance, reliability and the confidence to ship."
+   ],
+   "enterprise": [
+    "Banking · Security ATM Fraud Detection Daily digital inspections that stop fraud before it spreads."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Medialogic Solutions Private Limited",
+  "city": "Chennai",
+  "domain": "medialogicindia.com",
+  "website": "http://www.medialogicindia.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2004-06-04",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "| Innovative Solutions to Healthcare --> --> Home About us Services Products SonoCare ErgoScan Bed",
+    "I think anyone who wants to practice fetal healthcare, radiology or sonography or in fetal medicine, this tool is most useful and I think it’s a must Dr .Janak Desai Designer --> All my life, whatever fetal medicine I have practiced I have been using SonoCare."
+   ],
+   "owns_product": [
+    "Chair Authorized Agent OPUS Contact Us Schedule a Demo EMPOWER YOUR ULTRASOUND PRACTICE We deliver intuitive solutions that enhance your standard of care Explore Our Products A comprehensive ultrasound workspace for clinical documentation and reporting."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Medline Industries India Private Limited",
+  "city": "Pune",
+  "domain": "in.medlineasia.com",
+  "website": "https://in.medlineasia.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 9040,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 16,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "ABOUT US We make healthcare run better® We are the largest provider of medical-surgical products and supply chain solutions serving all points of care.",
+    "We make healthcare run better is a trademark and Medline is a registered trademark of Medline India.",
+    "Work for a leader in the healthcare industry We're one of the World's Best Workplaces Join our team and work with a purpose We are a people centric organization and we are focused on creating a more diverse and inclusive company; one that recognizes, values and respects everyone who comes in contact with us.",
+    "How will you make healthcare run better?"
+   ],
+   "owns_product": [
+    "We’re looking for people with an entrepreneurial spirit, ready to make a positive impact on the business of healthcare, our products and services, and the millions of lives they touch."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Medsynaptic Pvt Ltd",
+  "city": "Pune",
+  "domain": "medsynaptic.com",
+  "website": "https://www.medsynaptic.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2003-07-04",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Medtronic Minimed India Private Limited",
+  "city": "Pune",
+  "domain": "medtronic.com",
+  "website": "https://www.medtronic.com/in-en/our-company/india/diabetes-global-capability-centre.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1990-06-07",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 1376,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

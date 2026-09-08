@@ -1,0 +1,95 @@
+  (no existing_universe.csv — skipping that dedupe)
+  (no DEALS_MASTER.csv — skipping that dedupe)
+prior universe: 0 domains, 0 names
+
+[P1] infopark
+    infopark companies p0 — 0 rows
+    infopark infopark-kochi-phase-1 p0 — 0 rows
+    infopark infopark-thrissur p0 — 0 rows
+    infopark infopark-cherthala p0 — 0 rows
+    -> 0 parsed, 0 with domain (14s)
+
+[P1] technopark
+    robots disallow -> skip https://technoparktoday.com/technopark-information/technopark-companies/
+    -> 0 parsed, 0 with domain (0s) BARRIER=robots
+
+[P1] stpi_blr
+    stpi_blr — 0 rows
+    -> 0 parsed, 0 with domain (240s)
+
+[P2] itao
+    itao corporate.php — 0 cumulative
+    itao life.php — 1 cumulative
+    -> 1 parsed, 1 with domain (45s)
+
+[P2] sida
+    sida members — 120 cumulative
+    sida  — 121 cumulative
+    -> 121 parsed, 60 with domain (13s)
+
+[P2] rito
+    rito  — 1 cumulative
+    -> 1 parsed, 1 with domain (5s)
+
+[P2] mohali_itca
+    robots disallow -> skip https://itcitymohaliassociation.com/members
+    robots disallow -> skip https://itcitymohaliassociation.com/
+    -> 0 parsed, 0 with domain (0s) BARRIER=robots
+
+[P2] esc_india
+    -> 0 parsed, 0 with domain (2s)
+
+[P3] via_nagpur
+    -> 0 parsed, 0 with domain (90s)
+
+[P3] ait_blr
+    -> 0 parsed, 0 with domain (3s)
+
+[P3] stpi_national
+    stpi_national list-units-registered-under- — 10 cumulative
+    -> 10 parsed, 10 with domain (2s)
+
+[P4] techbehemoths
+    robots disallow -> skip https://techbehemoths.com/companies/india
+    -> 0 parsed, 0 with domain (0s) BARRIER=robots
+
+[P4] clutch
+    robots disallow -> skip https://clutch.co/in/developers/information-technology-industry
+    clutch — challenge/blocked, banking partial
+    -> 0 parsed, 0 with domain (0s) BARRIER=cloudflare
+
+[P4] sortlist
+    robots disallow -> skip https://www.sortlist.com/web-development/india-in
+    robots disallow -> skip https://www.sortlist.com/app-development/india-in
+    robots disallow -> skip https://www.sortlist.com/s/software-development/india-in
+    -> 0 parsed, 0 with domain (0s) BARRIER=robots
+
+
+================================================================================================
+SELF-AUDIT
+================================================================================================
+1. source report rows: 14 (one per directory attempted)  PASS
+2. social/blocked domains in output: 0  PASS
+3. conservation: final 132 + rejects 1 == parsed 133  PASS
+4. domain fill-rate overall: 54.5%
+     infopark               0 parsed      0 dom    0.0%
+     technopark             0 parsed      0 dom    0.0%
+     stpi_blr               0 parsed      0 dom    0.0%
+     itao                   1 parsed      1 dom  100.0%
+     sida                 121 parsed     60 dom   49.6%  <-- LOW for a P1/P2 source, re-inspect parser
+     rito                   1 parsed      1 dom  100.0%
+     mohali_itca            0 parsed      0 dom    0.0%
+     esc_india              0 parsed      0 dom    0.0%
+     via_nagpur             0 parsed      0 dom    0.0%
+     ait_blr                0 parsed      0 dom    0.0%
+     stpi_national         10 parsed     10 dom  100.0%
+     techbehemoths          0 parsed      0 dom    0.0%
+     clutch                 0 parsed      0 dom    0.0%
+     sortlist               0 parsed      0 dom    0.0%
+5. non-evidenced domains: 0  PASS
+6. sampled 15 'listed' rows, domain found in cached HTML: 15/15
+7. duplicate domains in output: 0  PASS
+================================================================================================
+
+TOTALS: 132 companies | with domain 72 | backfill_needed 60 | rejects 1
+outputs -> /Users/bhanu/Desktop/hubspot/godown/itdirs/out/it_directory_universe.csv

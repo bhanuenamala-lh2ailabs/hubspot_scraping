@@ -1,0 +1,367 @@
+[
+ {
+  "name": "ASSIST Software",
+  "domain": "assist-software.net",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "About page prose only; LinkedIn contexts are CSS classes, no names",
+  "others": []
+ },
+ {
+  "name": "Code Spring",
+  "domain": "codespring.ro",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Our story begins back in 1998, in Cluj-Napoca; no person named",
+  "others": []
+ },
+ {
+  "name": "IsoSkills",
+  "domain": "isoskills.fi",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Ami Klein CTO, BRD partnership - client testimonial, not IsoSkills leadership",
+  "others": []
+ },
+ {
+  "name": "SC AEGIS CORE TECH SRL",
+  "domain": "aegiscoretech.com",
+  "person": "Bogdan Titu",
+  "title": "CEO & Founder",
+  "linkedin": "https://www.linkedin.com/in/bogdantitu",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Bogdan Titu CEO & Founder “Every challenge is a chance to create value”",
+  "others": [
+   {
+    "person": "Teodor Neniță",
+    "title": "Chief Operation Officer",
+    "linkedin": "https://www.linkedin.com/in/teodor-nenita-2b93475"
+   }
+  ]
+ },
+ {
+  "name": "Global Mediator",
+  "domain": "global-mediator.com",
+  "person": "Christian Holst-Jensen",
+  "title": "Chief Executive Officer",
+  "linkedin": "https://www.linkedin.com/in/christian-holst-jensen",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Chief Executive Officer Christian Holst-Jensen LinkedIn - meet-our-team card",
+  "others": [
+   {
+    "person": "Nicolai Krarup",
+    "title": "Chief Operating Officer",
+    "linkedin": "https://www.linkedin.com/in/nicolaikrarup"
+   },
+   {
+    "person": "Olesya Lukyanenko",
+    "title": "Director of Talent",
+    "linkedin": "https://www.linkedin.com/in/olesya-lukyanenko-123ba83"
+   },
+   {
+    "person": "Evgeny Buriak",
+    "title": "Director of Delivery",
+    "linkedin": "https://www.linkedin.com/in/evgeny-buriak-9087202"
+   }
+  ]
+ },
+ {
+  "name": "Linnify",
+  "domain": "linnify.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "founded in a small apartment by the three co-founders: Razvan, Alex, and Catalin",
+  "others": [
+   {
+    "person": "Razvan",
+    "title": "Co-Founder (first name only)",
+    "linkedin": ""
+   },
+   {
+    "person": "Alex",
+    "title": "Co-Founder (first name only)",
+    "linkedin": ""
+   },
+   {
+    "person": "Catalin",
+    "title": "Co-Founder (first name only)",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "TechQuarter",
+  "domain": "techquarter.io",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Viktor Jagar CTO, Content Status, LLC - client testimonial, different company",
+  "others": []
+ },
+ {
+  "name": "BrainTrust",
+  "domain": "braintrust.ro",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Only page titles scraped: BrainTrust | IT Consulting & Cybersecurity Services Romania",
+  "others": []
+ },
+ {
+  "name": "Wolfpack Digital",
+  "domain": "wolfpack-digital.com",
+  "person": "Adrian Florian",
+  "title": "co-CEO",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "medium",
+  "evidence": "Adrian Florian co-CEO Reading time: 6 min Jul 3, 2026",
+  "others": []
+ },
+ {
+  "name": "Ketek",
+  "domain": "ketek.ro",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Ketek is a Romanian software development company headquartered in Suceava; no person named",
+  "others": []
+ },
+ {
+  "name": "OceanoBe Technology",
+  "domain": "oceanobe.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Careers and culture copy only; no individual named",
+  "others": []
+ },
+ {
+  "name": "Sensidev",
+  "domain": "sensidev.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Repeated anniversary timeline text; no individual named",
+  "others": []
+ },
+ {
+  "name": "SOFTECH",
+  "domain": "softech.ro",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "the management acknowledged the need for a concrete marketing strategy - unnamed",
+  "others": []
+ },
+ {
+  "name": "Zitec",
+  "domain": "zitec.com",
+  "person": "Alexandru Lăpușan",
+  "title": "Co-CEO & Co-Founder",
+  "linkedin": "https://www.linkedin.com/in/alexlapusan",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "We started in 2003 with our co-founders, Alexandru and Simona Lăpușan",
+  "others": [
+   {
+    "person": "Simona Lăpușan",
+    "title": "Co-CEO & Co-Founder",
+    "linkedin": ""
+   },
+   {
+    "person": "Lucian Daia",
+    "title": "Chief Technology Officer & Partner",
+    "linkedin": "https://www.linkedin.com/in/luciandaia"
+   },
+   {
+    "person": "Sorin Ștefan",
+    "title": "Chief Growth Officer & Partner",
+    "linkedin": "https://www.linkedin.com/in/stefansorin"
+   }
+  ]
+ },
+ {
+  "name": "Ascendro",
+  "domain": "ascendro.de",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Service copy about outsourced operations management; no individual named",
+  "others": []
+ },
+ {
+  "name": "InnovatorSpark SRL",
+  "domain": "innovatorspark.com",
+  "person": "Mihai Runcan-Pop",
+  "title": "Founder & CEO",
+  "linkedin": "https://www.linkedin.com/in/mihairuncan",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Mihai Runcan-Pop Founder & CEO; after getting to know Mihai the CEO",
+  "others": []
+ },
+ {
+  "name": "mindit.io",
+  "domain": "mindit.io",
+  "person": "Irina Arsene",
+  "title": "Founder & CEO",
+  "linkedin": "https://www.linkedin.com/in/arseneirina",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "mindit.io Founder & CEO Irina Arsene; Our founder, Irina Arsene, received EY award",
+  "others": [
+   {
+    "person": "Hakan Yuksel",
+    "title": "Interim CEO (Board Member stepping in)",
+    "linkedin": ""
+   },
+   {
+    "person": "Lucia Stoicescu",
+    "title": "Previous CEO (on sabbatical)",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "7code",
+  "domain": "7code.ro",
+  "person": "Nicu Mardari",
+  "title": "CEO & Founder",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Nicu Mardari CEO & Founder; founded 7code in Cluj-Napoca in 2016",
+  "others": [
+   {
+    "person": "Igor Mardari",
+    "title": "CTO & Co-Founder",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "Areus Development",
+  "domain": "areusdev.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Who we are Expert project management - no individual named",
+  "others": []
+ },
+ {
+  "name": "Arnia Software",
+  "domain": "arnia.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "grateful to Cosmin for leading such an engaging conversation - first name, no title",
+  "others": []
+ },
+ {
+  "name": "BitStone SRL",
+  "domain": "bitstone.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "As a Co-CEO, I am dedicated to fostering innovation - name not scraped",
+  "others": []
+ },
+ {
+  "name": "ConturSoft",
+  "domain": "contursoft.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "By Tudor Vulpe Software Project Management - blog byline, no role stated",
+  "others": [
+   {
+    "person": "Tudor Vulpe",
+    "title": "Blog author (role not stated)",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "rinf.tech",
+  "domain": "rinf.tech",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Team extension marketing copy only; no individual named",
+  "others": []
+ },
+ {
+  "name": "Thinslices",
+  "domain": "thinslices.com",
+  "person": "Ilie Ghiciuc",
+  "title": "Founder & Chairman",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Ilie Ghiciuc Founder & Chairman of Thinslices",
+  "others": []
+ }
+]

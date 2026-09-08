@@ -1,0 +1,92 @@
+[
+ {
+  "first": "Gitesh",
+  "last": "kund",
+  "email": "wasudeogitesh2000@gmail.com",
+  "li": "https://www.linkedin.com/in/gitesh-kund-4608bb359",
+  "phone": "9307817847",
+  "age": "3-10 years",
+  "projects": "ai",
+  "e164": "+919307817847",
+  "kind": "mobile",
+  "dup": false,
+  "dupcontact": false,
+  "sh_name": "Gitesh kund",
+  "sh_head": "\n Mentor of Change (MoC) | Atal Innovation Mission (AIM) · NITI Aayog, Government of India || Senior Tech Stack Educator ||\nSalesforce AI Associate Certified ||\nMentor | Trainer | Technology Enthusiast",
+  "sh_exp": [
+   [
+    "NITI Aayog Official",
+    null,
+    true
+   ],
+   [
+    "G.H. Raisoni College of Engineering(GHRCE), Nagpur",
+    null,
+    true
+   ],
+   [
+    "Six Phrase | Veranda",
+    null,
+    false
+   ],
+   [
+    "Parul University",
+    null,
+    false
+   ],
+   [
+    "Kiwano Technologies",
+    null,
+    false
+   ]
+  ],
+  "sh_loc": [
+   "Nagpur, Maharashtra, India"
+  ]
+ },
+ {
+  "first": "Sheetal",
+  "last": "Chauhan",
+  "email": "sheetalchauhan17@gmail.com",
+  "li": "https://www.linkedin.com/in/sheetal-chauhan-932a8644",
+  "phone": " +91 91160 15934",
+  "age": "Under 3 years",
+  "projects": "2-3",
+  "e164": "+919116015934",
+  "kind": "mobile",
+  "dup": false,
+  "dupcontact": false,
+  "sh_name": "Sheetal Chauhan",
+  "sh_head": "Building Compose | Backed by SPC (Fall’25) | ex- sarvam, msft",
+  "sh_exp": [
+   [
+    "Compose",
+    null,
+    true
+   ],
+   [
+    "South Park Commons",
+    null,
+    true
+   ],
+   [
+    "Exception Raised",
+    null,
+    true
+   ],
+   [
+    "Sarvam AI",
+    null,
+    false
+   ],
+   [
+    "Microsoft",
+    null,
+    false
+   ]
+  ],
+  "sh_loc": [
+   "San Francisco, California, United States"
+  ]
+ }
+]

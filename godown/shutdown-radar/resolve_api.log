@@ -1,0 +1,5 @@
+resolve
+  entity index: 10,816 CINs
+  unresolved candidates: 63
+  resolve: {'override': 0, 'exact': 0, 'fuzzy_confirmed': 0, 'review': 4, 
+'none': 59, 'local_rejected_wrong_year': 3, 'api_rejected_wrong_year': 8}

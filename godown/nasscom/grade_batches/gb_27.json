@@ -1,0 +1,864 @@
+[
+ {
+  "name": "Bilight Solutions LLP",
+  "city": "Chennai",
+  "domain": "bilightsolutions.com",
+  "website": "https://bilightsolutions.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2020-07-05",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 3160,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Founder and BI Strategist Murali Kasiviswanathan Senior Information and Data Professional with over 3 decades of experience in BI (Business Intelligence), Banking Data warehouse, data modeling and scaling up and management of organizational information systems.",
+    "His diverse domain experience covers Manufacturing, Pharma, Insurance, Retail, Logistics, Telecom, Telecom Networking, BFSI, and Airlines industries."
+   ],
+   "DQ_training": [
+    "His is an expert in mentoring and coaching people especially sales team, socialising and long drives.",
+    "Naturally inclined to bring out the best in people and promote the growth of the organization through coaching, mentoring and showing what is possible."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Black Box Limited",
+  "city": "Mumbai",
+  "domain": "blackbox.com",
+  "website": "https://www.blackbox.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 12,
+   "external_job_boards": [],
+   "jd_chars": 123442,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "DQ_support": 1,
+   "cicd": 1,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "With a presence across the United States, Europe, India, Asia Pacific, the Middle East, and Latin America, Black Box serves businesses across financial services, technology, healthcare, retail, public services, and manufacturing.",
+    "Transportation Retail Military & Defense Manufacturing Healthcare Broadcast Learn More Latest Insights Gain insights and knowledge about the latest industry news and IT trends.",
+    "He also holds a BA in economics and completed the Business Economics Program with a specialization in money and banking from The University of Texas at Austin."
+   ],
+   "DQ_support": [
+    "Networking Robust networking solutions provide the backbone for seamless data transfer and communication across your infrastructure."
+   ],
+   "cicd": [
+    "Government Customer It is overwhelmingly easy and we plan to use it for all major new releases."
+   ],
+   "owns_product": [
+    "Black Box Account Manager We have a longstanding relationship with this customer; they trust us and love our products.",
+    "Especially important to them is our products’ security and the quick response times from us."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Blockbase Consultants Private Limited",
+  "city": "Kolkata",
+  "domain": "blockbaseconsultants.com",
+  "website": "https://blockbaseconsultants.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 3,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "--> Enterprise Software Development Company | Blockbase Consultants Skip to the content 100% --> Skip to"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 20355,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Learn More COVID-19 WORLD From Banking to Manufacturing, Healthcare to Education, Hotels, and Restaurants to running Governments; Blockbase solutions are bringing transformation to businesses.",
+    "They follow an agile approach that highlights meeting the challenges and automating the financial and banking processes."
+   ],
+   "sdlc": [
+    "They follow an agile approach that highlights meeting the challenges and automating the financial and banking processes.",
+    "Rapid Business Application Development We deliver business applications within the quickest time possible utilizing low code development platforms combined with agile processes that accelerate time to value."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Blue Chip Computer Consultants Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "bluechipsw.com",
+  "website": "https://bluechipsw.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ort & maintenance. Learn More --> Our Expertise We excel in our work and deliver sustainable solutions to our patrons SyteLine Accelerate production a"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "BlueBinaries Engineering And Solutions Private Limited",
+  "city": "Chennai",
+  "domain": "bluebinaries.com",
+  "website": "https://www.bluebinaries.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our agile business models and wide network through partnerships and collaborations with automotive giants is a powerful business enabler, equipping us to offer best-cost business solutions and brief time to market through multiple global development centres, ready-to-use concept designs and off-the-shelf solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Bluecoin IoT Solutions Private Limited",
+  "city": "Pune",
+  "domain": "bluecoiniot.com",
+  "website": "https://www.bluecoiniot.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "IoT Solutions Home Solutions About Contact Us Download App Android App iOS App More Home Solutions About Contact Us Download App Android App iOS App"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 23277,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "owns_product": 3,
+   "DQ_template": 1,
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "See open roles See open roles Our Core Values The principles behind how we work The right person is you Everyone contributes, whatever their role."
+   ],
+   "owns_product": [
+    "Our Core Values The principles behind our platform 🔗 Works with what you have We build on your existing investments.",
+    "Our platform connects to your current systems, extending their value instead of replacing them.",
+    "📈 Built to scale with you From a single building to a global portfolio, our platform grows as your needs evolve, without growing in complexity."
+   ],
+   "DQ_template": [
+    "Input forms capture required details, approval workflows route through managers and admins, and shortcut templates give teams a consistent starting point for common request types."
+   ],
+   "DQ_support": [
+    "What's the difference between service request software and IT helpdesk tools?",
+    "IT helpdesk tools are designed for technology support tickets."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "BMW TechWorks India Private Limited",
+  "city": "Pune",
+  "domain": "bmwtechworks.in",
+  "website": "https://www.bmwtechworks.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 13595,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 6,
+   "prod_eng": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "We stay agile, adapting fast and innovating faster.",
+    "Being Vibrant, Open, Collaborative, Agile, and Lean has given me the freedom to innovate, fail fast, learn faster, and grow continually.\" Femi Shajan Python Developer \"At BMW TechWorks India, I have had the opportunity to take complete ownership of core modules within our Digital Car initiatives.",
+    "CultureCode L3 We delve into who you are, your values, work style, and whether you’ll thrive in our culture of VOCAL – Vibrant, Open, Collaborative, Agile and Lean.",
+    "Our focus: keeping operations agile, secure, and future-ready."
+   ],
+   "prod_eng": [
+    "BMW TechWorks India --> About Vision & Mission Media Gallery Blogs Our Expertise Digital Car Digital Company Digital Product Engineering Culture Careers Contact Us --> Your Code.",
+    "Blogs - BMW TechWorks --> About Vision & Mission Media Gallery Blogs Our Expertise Digital Car Digital Company Digital Product Engineering Culture Careers Contact Us Engineering Intelligence Into Motion – Stories, Insights & Innovations Lorem ipsum dolor sit amet consectetur."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "BNY Mellon International Operations (India) Pvt Ltd",
+  "city": "Pune",
+  "domain": "bnymellon.com",
+  "website": "https://www.bny.com/corporate/global/en.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2006-12-04",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 32484,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "enterprise": 4,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Explore our platforms below: Explore what's possible GLOBAL PAYMENTS & TRADE Move and manage your money, securely.",
+    "Through our platforms, we help power the global financial system, combining expertise and technology to help our clients unlock greater efficiency, drive growth and achieve their ambitions.",
+    "Artificial Intelligence With over 125 AI-enabled solutions and a proprietary platform, BNY leverages advanced technology and unique market data to help clients make smarter decisions and support market resiliency."
+   ],
+   "enterprise": [
+    "arrow_forward WEALTH MANAGEMENT Investments, wealth planning and banking for individuals and family offices.",
+    "This material and any products and services mentioned may be issued or provided in various countries by duly authorized and regulated subsidiaries, affiliates, and joint ventures of BNY.",
+    "retirement funds 100% of top 50 life/health insurance companies Footnote 1 Fortune 100: For 2025, Fortune, Time Inc.",
+    "Life/Health Insurance Companies: A.M."
+   ],
+   "DQ_training": [
+    "Telemedicine Onsite health centers at select locations Fitness discount Health coaching Biometric screenings and more Emotional Wellbeing BNY understands that your mental health is just as important as your physical health."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Bridgestone GCC",
+  "city": "Bengaluru",
+  "domain": "bridgestone.com",
+  "website": "https://www.bridgestone.com/regional/asia_pacific/india.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 9661,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Brillio Technologies Private Limited",
+  "city": "Pune",
+  "domain": "brillio.com",
+  "website": "https://www.brillio.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2005-11-24",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 47769,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 13,
+   "sdlc": 2,
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "owns_product": [
+    "--> Brillio The Enterprise AI Accelerator",
+    "Brillio now an OpenAI Select Partner Operationalizing frontier AI with engineering-first execution, ADAM accelerators, and enterprise-grade controls at scale.",
+    "ADAM (Agentic Data and Application Management) Where industry expertise, modern engineering, and AI accelerators converge to fast‑track your leap into an Agentic AI-powered enterprise.",
+    "The Enterprise AI Accelerator Built for speed."
+   ],
+   "sdlc": [
+    "Benefits Brillians are at the heart of how we work.",
+    "GCC-wide AI Transformation Drive GCC transformation by infusing AI throughout SDLC, modernizing platforms, and reimagining processes for speed, efficiency, and market alignment."
+   ],
+   "enterprise": [
+    "First Name Last Name Business E-mail Company Phone Number India USA UK Country Senior Director Director HR Role Digital Transformation Data, Analytics and AI Healthcare Function Message I would like to receive information via email about future Brillio white papers, webinars, videos, events and more.",
+    "Vikram joined Morgan Stanley in 1983 and later became President and COO of the company’s institutional securities and investment banking businesses.",
+    "He then led Bain’s foray into the Healthcare Services space, building the Payer-Provider practice and engaging as Bain clients 3 of the 5 largest US healthcare services companies.",
+    "He also served as the Global Practice Leader for Bain Healthcare (2012-2018)."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Bristol-Myers Squibb Business Services India Private Limited",
+  "city": "Hyderabad",
+  "domain": "bms.com",
+  "website": "https://www.bms.com/in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ant clinical and regulatory achievements that broadened our portfolio, advanced our pipeline and, importantly, delivered innovative new medicines to p"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "We are proud of the advancements we have made in oncology, hematology, immunology and cardiovascular disease, and we are dedicated to helping patients prevail over serious diseases through our diverse and promising pipeline and new scientific platforms."
+   ],
+   "enterprise": [
+    "We aspire to be at the center of a vibrant healthcare innovation ecosystem, where academic research centers, biotech and biopharma companies all contribute to continued scientific advancement."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Burns & Mcdonnell Engineering India Private Limited",
+  "city": "Mumbai",
+  "domain": "burnsmcd.com",
+  "website": "https://www.burnsmcd.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1995-01-18",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 39496,
+   "signals": {
+    "testing": 1
+   },
+   "quotes": {
+    "testing": [
+     "If you need more information or special assistance for persons with disabilities or limited English proficiency, please contact our helpline at 855-446-0505 or 711 for TTY/TDD."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "CAD Macro Design and Solutions Private Limited",
+  "city": "Chennai",
+  "domain": "cadmacro.com",
+  "website": "https://www.cadmacro.com/web/index.php",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2005-12-28",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 10189,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Cadsys (India) Limited",
+  "city": "Hyderabad",
+  "domain": "cadsystech.com",
+  "website": "https://cadsystech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 6375,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Caligne Private Limited",
+  "city": "Chennai",
+  "domain": "caligne.com",
+  "website": "https://www.caligne.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Read More France Extend Health Insurance Requirement We have helped students, business persons, tourists, clients with medical needs......"
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Caliper Business Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "sclen.ai",
+  "website": "https://sclen.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 4
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Logistics Execution Manage your Primary, Secondary, and Last mile distribution across all modes of transportation through an integrated & collaborative agile execution.",
+    "At Caliper, we prioritize global centralized planning, agile execution, and advanced decision support to drive unparallel SCLEN productivity and efficiencies.",
+    "It offers unparalleled agile workflow management, from SCLEN services procurement to final customer delivery and vendor bill settlement.",
+    "Expertise We’ve served 13+ industries, transforming their supply chain systems to be agile, efficient, and future-ready."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "CalSoft Pvt Ltd",
+  "city": "Pune",
+  "domain": "calsoftinc.com",
+  "website": "https://www.calsoftinc.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-04-02",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 11946,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1,
+   "owns_product": 1,
+   "prod_eng": 4,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "6x Faster MVPs 70% AI readiness $500Ks Infra savings 40% Reusability boost 95% Test automation 99.99% Uptime delivered Industries Hi-Tech Telecom Retail Manufacturing Hi-Tech & digital innovation Build smarter products, platforms, and experiences with AI-driven engineering and cloud-native solutions."
+   ],
+   "owns_product": [
+    "Calsoft engineered and benchmarked an AI-powered genome sequencing platform on Dell PowerEdge XE9680 and XE7740 servers powered by Intel Gaudi AI accelerators, enabling faster analysis, optimized AI training and inference, and scalable performance for real-world genomics workloads."
+   ],
+   "prod_eng": [
+    "Contact us Go to Europe site Data & AI Digital product engineering Industries Insights About Evolve with Calsoft Build cutting-edge solutions with a team that values your growth.",
+    "Contact us Go to Europe site Data & AI Digital product engineering Industries Insights About Real-World Success Stories Case Study Whitepapers Datasheets Use Cases Industry Reports Videos Industry ( All ) Topics — Choose up to 3 Search Clear Result : 0 Thanks for your interest!",
+    "Contact us Go to Europe site Data & AI Digital product engineering Industries Insights About Technology-first partner Engineer smarter outcomes with the right tech and dependable delivery.",
+    "Contact us Go to Europe site Data & AI Digital product engineering Industries Insights About Our team Engineer smarter outcomes with the right tech and dependable delivery."
+   ],
+   "sdlc": [
+    "Our engineering DNA, flexible engagement models, and focus on operational alignment help us become an extension of our customer’s teams."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Camsdata Technologies India Private Limited",
+  "city": "Bengaluru",
+  "domain": "camsdata.in",
+  "website": "https://www.camsdata.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ct BoT360 C-Link PaaS Solutions SAP Artificial Intelligence Application Development Cloud Cyber Security Data Analytics IT Consulting Testing Services"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 7227,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "owns_product": 1,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Preethi Sha Business Owner ” Camsdata's commitment to tailoring solutions to our industry's unique challenges has made it an invaluable partner in our journey toward healthcare innovation."
+   ],
+   "owns_product": [
+    "Sanjay D Singh Business Owner ” Their AI-driven recommendations and customer behavior insights allowed us to enhance our product offerings and create personalized shopping experiences."
+   ],
+   "DQ_training": [
+    "Whether you need additional support during busy seasons or seek temporary replacements, our team ensures a seamless integration of skilled IT professionals into your workforce.",
+    "The speed of placement depends on the specific requirements, but our goal is to match you with skilled IT professionals promptly to meet your project timelines."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Canopus-GBS Private Limited",
+  "city": "Bengaluru",
+  "domain": "canopusgbs.com",
+  "website": "https://canopusgbs.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "Proven templates for plant, warehouse and production scenarios Certified teams & delivery excellence"
+   ],
+   "sdlc": [
+    "Global presence with agile, follow-the-sun support SAP Services End-to-end SAP lifecycle."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Cantik Technologies Private Limited",
+  "city": "Gurugram",
+  "domain": "cantiktech.com",
+  "website": "https://www.cantiktech.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 1,
+   "enterprise": 4,
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "300+ Experienced Employee Experienced employees from Solution Architects, Project Managers, and SDMs to Delivery professionals."
+   ],
+   "enterprise": [
+    "--> --> --> --> We have successfully served clients across diverse sectors, including mid-market, manufacturing, BFSI, Government/Public Sector, and e-commerce.",
+    "Alcon: Collaborating with Alcon to advance their technological capabilities in the healthcare and eye care industry.",
+    "Punjab National Bank: Providing Punjab National Bank with secure and efficient technology solutions for their banking operations.",
+    "Axis Bank: Supporting Axis Bank with advanced technology solutions to strengthen their banking and financial services and 40+ More Customers Snapshot of few Projects Delivered Explore Cantik Technologies' success story through a glimpse of our delivered projects."
+   ],
+   "DQ_support": [
+    "Hewlett Packard Enterprise (HPE): Collaborating with HPE for innovative server, storage, and networking solutions, ensuring scalability and efficiency for our clients' IT infrastructure.",
+    "Aruba Networks: Utilizing Aruba's networking solutions to deliver secure, high-performance wireless connectivity, ensuring a seamless user experience."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ }
+]

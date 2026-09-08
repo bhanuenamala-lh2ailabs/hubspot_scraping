@@ -1,0 +1,80 @@
+2,989 companies | already done 175 | this run 2,814
+     50/2814  21/min  ETA 134min  {'domain_not_found': 142, 'verified_product': 19, 'probable_product': 18, 'brochure_only': 46}
+    100/2814  16/min  ETA 173min  {'domain_not_found': 182, 'verified_product': 23, 'probable_product': 18, 'brochure_only': 52}
+    150/2814  14/min  ETA 185min  {'domain_not_found': 220, 'verified_product': 23, 'probable_product': 24, 'brochure_only': 58}
+    200/2814  14/min  ETA 186min  {'domain_not_found': 258, 'verified_product': 25, 'probable_product': 25, 'brochure_only': 67}
+    250/2814  14/min  ETA 186min  {'domain_not_found': 294, 'verified_product': 26, 'probable_product': 30, 'brochure_only': 75}
+    300/2814  13/min  ETA 188min  {'domain_not_found': 334, 'verified_product': 28, 'probable_product': 32, 'brochure_only': 81}
+    350/2814  13/min  ETA 186min  {'domain_not_found': 380, 'verified_product': 30, 'probable_product': 34, 'brochure_only': 81}
+    400/2814  13/min  ETA 184min  {'domain_not_found': 417, 'verified_product': 34, 'probable_product': 37, 'brochure_only': 87}
+    450/2814  13/min  ETA 181min  {'domain_not_found': 458, 'verified_product': 36, 'probable_product': 38, 'brochure_only': 93}
+    500/2814  13/min  ETA 176min  {'domain_not_found': 493, 'verified_product': 38, 'probable_product': 42, 'brochure_only': 102}
+    550/2814  13/min  ETA 172min  {'domain_not_found': 527, 'verified_product': 41, 'probable_product': 47, 'brochure_only': 110}
+    600/2814  13/min  ETA 167min  {'domain_not_found': 565, 'verified_product': 43, 'probable_product': 48, 'brochure_only': 119}
+    650/2814  13/min  ETA 164min  {'domain_not_found': 595, 'verified_product': 47, 'probable_product': 52, 'brochure_only': 130}
+    700/2814  13/min  ETA 160min  {'domain_not_found': 630, 'verified_product': 49, 'probable_product': 58, 'brochure_only': 137}
+    750/2814  13/min  ETA 155min  {'domain_not_found': 669, 'verified_product': 52, 'probable_product': 59, 'brochure_only': 144}
+    800/2814  13/min  ETA 152min  {'domain_not_found': 711, 'verified_product': 52, 'probable_product': 60, 'brochure_only': 151}
+    850/2814  13/min  ETA 148min  {'domain_not_found': 757, 'verified_product': 52, 'probable_product': 60, 'brochure_only': 155}
+    900/2814  13/min  ETA 145min  {'domain_not_found': 801, 'verified_product': 52, 'probable_product': 60, 'brochure_only': 161}
+    950/2814  13/min  ETA 142min  {'domain_not_found': 843, 'verified_product': 54, 'probable_product': 60, 'brochure_only': 167}
+   1000/2814  13/min  ETA 140min  {'domain_not_found': 886, 'verified_product': 54, 'probable_product': 61, 'brochure_only': 173}
+   1050/2814  13/min  ETA 137min  {'domain_not_found': 926, 'verified_product': 55, 'probable_product': 64, 'brochure_only': 179}
+   1100/2814  12/min  ETA 139min  {'domain_not_found': 969, 'verified_product': 56, 'probable_product': 66, 'brochure_only': 183}
+   1150/2814  12/min  ETA 135min  {'domain_not_found': 1011, 'verified_product': 57, 'probable_product': 68, 'brochure_only': 188}
+   1200/2814  12/min  ETA 130min  {'domain_not_found': 1054, 'verified_product': 58, 'probable_product': 71, 'brochure_only': 191}
+   1250/2814  12/min  ETA 132min  {'domain_not_found': 1096, 'verified_product': 61, 'probable_product': 73, 'brochure_only': 194}
+   1300/2814  11/min  ETA 135min  {'domain_not_found': 1141, 'verified_product': 63, 'probable_product': 74, 'brochure_only': 196}
+   1350/2814  11/min  ETA 129min  {'domain_not_found': 1185, 'verified_product': 65, 'probable_product': 76, 'brochure_only': 198}
+   1400/2814  11/min  ETA 124min  {'domain_not_found': 1225, 'verified_product': 68, 'probable_product': 78, 'brochure_only': 203}
+   1450/2814  11/min  ETA 120min  {'domain_not_found': 1266, 'verified_product': 68, 'probable_product': 81, 'brochure_only': 209}
+   1500/2814  11/min  ETA 115min  {'domain_not_found': 1305, 'verified_product': 71, 'probable_product': 83, 'brochure_only': 215}
+   1550/2814  11/min  ETA 110min  {'domain_not_found': 1351, 'verified_product': 71, 'probable_product': 84, 'brochure_only': 218}
+   1600/2814  12/min  ETA 106min  {'domain_not_found': 1393, 'verified_product': 72, 'probable_product': 85, 'brochure_only': 224}
+   1650/2814  12/min  ETA 101min  {'domain_not_found': 1431, 'verified_product': 74, 'probable_product': 86, 'brochure_only': 233}
+   1700/2814  12/min  ETA 96min  {'domain_not_found': 1467, 'verified_product': 77, 'probable_product': 92, 'brochure_only': 238}
+   1750/2814  12/min  ETA 91min  {'domain_not_found': 1508, 'verified_product': 79, 'probable_product': 94, 'brochure_only': 243}
+   1800/2814  12/min  ETA 86min  {'domain_not_found': 1552, 'verified_product': 80, 'probable_product': 97, 'brochure_only': 245}
+   1850/2814  12/min  ETA 82min  {'domain_not_found': 1598, 'verified_product': 81, 'probable_product': 98, 'brochure_only': 247}
+   1900/2814  12/min  ETA 77min  {'domain_not_found': 1642, 'verified_product': 82, 'probable_product': 99, 'brochure_only': 251}
+   1950/2814  12/min  ETA 73min  {'domain_not_found': 1681, 'verified_product': 82, 'probable_product': 103, 'brochure_only': 258}
+   2000/2814  12/min  ETA 69min  {'domain_not_found': 1729, 'verified_product': 83, 'probable_product': 103, 'brochure_only': 259}
+   2050/2814  12/min  ETA 64min  {'domain_not_found': 1771, 'verified_product': 83, 'probable_product': 104, 'brochure_only': 266}
+   2100/2814  12/min  ETA 60min  {'domain_not_found': 1818, 'verified_product': 84, 'probable_product': 105, 'brochure_only': 267}
+   2150/2814  12/min  ETA 56min  {'domain_not_found': 1862, 'verified_product': 86, 'probable_product': 107, 'brochure_only': 269}
+   2200/2814  12/min  ETA 51min  {'domain_not_found': 1905, 'verified_product': 86, 'probable_product': 108, 'brochure_only': 275}
+   2250/2814  12/min  ETA 47min  {'domain_not_found': 1948, 'verified_product': 88, 'probable_product': 109, 'brochure_only': 279}
+   2300/2814  12/min  ETA 43min  {'domain_not_found': 1993, 'verified_product': 89, 'probable_product': 111, 'brochure_only': 281}
+   2350/2814  12/min  ETA 38min  {'domain_not_found': 2030, 'verified_product': 98, 'probable_product': 112, 'brochure_only': 284}
+   2400/2814  12/min  ETA 34min  {'domain_not_found': 2061, 'verified_product': 100, 'probable_product': 118, 'brochure_only': 295}
+   2450/2814  12/min  ETA 30min  {'domain_not_found': 2098, 'verified_product': 104, 'probable_product': 121, 'brochure_only': 301}
+   2500/2814  12/min  ETA 26min  {'domain_not_found': 2129, 'verified_product': 106, 'probable_product': 134, 'brochure_only': 305}
+   2550/2814  12/min  ETA 21min  {'domain_not_found': 2167, 'verified_product': 108, 'probable_product': 139, 'brochure_only': 310}
+   2600/2814  12/min  ETA 17min  {'domain_not_found': 2193, 'verified_product': 114, 'probable_product': 148, 'brochure_only': 319}
+   2650/2814  12/min  ETA 13min  {'domain_not_found': 2224, 'verified_product': 117, 'probable_product': 153, 'brochure_only': 330}
+   2700/2814  12/min  ETA 9min  {'domain_not_found': 2259, 'verified_product': 121, 'probable_product': 161, 'brochure_only': 333}
+   2750/2814  12/min  ETA 5min  {'domain_not_found': 2294, 'verified_product': 125, 'probable_product': 167, 'brochure_only': 338}
+   2800/2814  12/min  ETA 1min  {'domain_not_found': 2334, 'verified_product': 128, 'probable_product': 173, 'brochure_only': 339}
+
+wrote data/out/LH2_buy_list.csv (2,989 rows)
+
+=== CROSS-TAB: title_cleanliness x codebase_band x product_evidence ===
+
+title             codebase    verified_product  probable_product     brochure_only  domain_not_found
+--------------------------------------------------------------------------------------------
+voluntary_clean   likely                    54                60               169               862
+voluntary_clean   possible                  32                48               106              1059
+clean             likely                     1                 1                 1                16
+clean             possible                   2                 2                 5                62
+consent_risk      likely                     1                 0                 0                 7
+consent_risk      possible                   2                 0                 0                 4
+encumbered        likely                    13                20                22               112
+encumbered        possible                  23                44                40               220
+--------------------------------------------------------------------------------------------
+
+>>> BUY LIST  voluntary_clean AND likely AND verified_product : 54
+    next tier  voluntary_clean AND likely AND probable_product : 60
+    combined                                                    : 114
+
+product_evidence overall: {'verified_product': 128, 'probable_product': 175, 'brochure_only': 343, 'domain_not_found': 2343}
+domain resolved for 646/2,989 = 21%

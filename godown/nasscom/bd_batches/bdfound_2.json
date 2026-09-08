@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Solyntra",
+    "domain": "solyntra.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About page describes team collectively; no individual named anywhere",
+    "others": []
+  },
+  {
+    "name": "Southtech",
+    "domain": "southtechgroup.com",
+    "person": "Syed Mamnun Quader",
+    "title": "MD and CEO",
+    "linkedin": "",
+    "phone": "+880 190 442 2133",
+    "email": "info@southtechgroup.com",
+    "confidence": "high",
+    "evidence": "Syed Mamnun Quader is the MD and CEO of Southtech Group",
+    "others": [
+      {
+        "person": "Bijan Bishi",
+        "title": "Director & Chief Executive Officer, Southtech Myanmar Limited",
+        "linkedin": ""
+      },
+      {
+        "person": "Om Bikram",
+        "title": "COO & Acting CEO, Southtech (Bhutan) Private Limited",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Synesis IT PLC",
+    "domain": "synesisit.com.bd",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Scraped text covers services only; contains no personal names",
+    "others": []
+  },
+  {
+    "name": "Technext",
+    "domain": "technext.it",
+    "person": "Reza Haque",
+    "title": "Managing Director",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Reza Haque, Managing Director, Technext",
+    "others": []
+  },
+  {
+    "name": "3DEVS IT LTD",
+    "domain": "3-devs.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Case-study and capability prose only; no leadership names present",
+    "others": []
+  },
+  {
+    "name": "Acme AI Ltd.",
+    "domain": "acmeai.tech",
+    "person": "Sadhli Roomy",
+    "title": "CEO, Co-Founder",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Executive Leadership. Fatemy Roomy Chairman Sadhli Roomy CEO, Co-Founder",
+    "others": [
+      {
+        "person": "Fatemy Roomy",
+        "title": "Chairman",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "AgamiSoft Ltd.",
+    "domain": "agamisoft.com",
+    "person": "Aminul Islam",
+    "title": "CEO & Founder",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Founders & Executive Leadership Aminul Islam CEO & Founder",
+    "others": [
+      {
+        "person": "Jahirul Islam",
+        "title": "Co-Founder & COO",
+        "linkedin": ""
+      },
+      {
+        "person": "S.M. Tanvir Rahman",
+        "title": "CTO",
+        "linkedin": ""
+      },
+      {
+        "person": "Shahin Alam Abir",
+        "title": "CMO",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "AlephoraX",
+    "domain": "alephorax.com",
+    "person": "Jonathan Chen",
+    "title": "CEO & Founder",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Meet the Minds Behind AlephoraX ... Jonathan Chen CEO & Founder; reads template-like",
+    "others": [
+      {
+        "person": "Sarah Johnson",
+        "title": "CTO",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "AlgoSoft Technologies Limited",
+    "domain": "algosoftltd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Leadership bios belong to a different company: President for Tecnologia",
+    "others": []
+  },
+  {
+    "name": "Artixcore",
+    "domain": "artixcore.com",
+    "person": "Ismam Tabriz Shams",
+    "title": "Founder & CEO",
+    "linkedin": "https://www.linkedin.com/in/ismamtabrizofficials",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Ismam Tabriz Shams Founder & CEO of Artixcore",
+    "others": [
+      {
+        "person": "Mohuya",
+        "title": "Co-Founder",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Bdtask Limited",
+    "domain": "bdtask.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Scraped pages are product marketing copy; no person named",
+    "others": []
+  },
+  {
+    "name": "Beatnik Technology Limited",
+    "domain": "beatniktechnology.com",
+    "person": "Mabroor Chowdhury",
+    "title": "Chief Executive Officer",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Mabroor Chowdhury Chief Executive Officer, sits beside testimonial praising Beatnik; affiliation unconfirmed",
+    "others": []
+  },
+  {
+    "name": "BengalTech Solutions",
+    "domain": "bengaltechbd.com",
+    "person": "Rafi Al Mahmud",
+    "title": "Founder & Lead Engineer",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Rafi Al Mahmud Founder & Lead Engineer ... established BengalTech Solutions in 2023",
+    "others": [
+      {
+        "person": "Fahim Ahmed",
+        "title": "Chief Technology Officer (CTO)",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Beyond Innovations & Technologies Limited",
+    "domain": "beyondtechbd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "+8801715175288",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Only named founders are testimonial clients: Shane Foss, Hooray Health; Jacob Piasecki",
+    "others": []
+  },
+  {
+    "name": "Bit Byte Technology Ltd",
+    "domain": "bitbytetechnology.com",
+    "person": "Al Mahmud",
+    "title": "Managing Director & CEO",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Creative team members Al Mahmud Managing Director & CEO",
+    "others": [
+      {
+        "person": "Nurul Amin",
+        "title": "Co-Founder & Chief Operating Officer",
+        "linkedin": "https://www.linkedin.com/in/aminbd"
+      },
+      {
+        "person": "Dihider Shahriar Kabir",
+        "title": "Director (Operation), UK/Europe Reg.",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "BRAC IT",
+    "domain": "bracits.com",
+    "person": "Shahriar Hoque",
+    "title": "Chief Executive Officer",
+    "linkedin": "https://www.linkedin.com/in/shahriarhoque",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Shahriar Hoque Chief Executive Officer ... As Chief Executive Officer of brac IT",
+    "others": [
+      {
+        "person": "Asif Saleh",
+        "title": "Chairman",
+        "linkedin": ""
+      },
+      {
+        "person": "Topu Newaj",
+        "title": "Chief Solutions Architect Officer",
+        "linkedin": ""
+      },
+      {
+        "person": "Rajon Saha FCMA",
+        "title": "Company Secretary and Head of Finance & Accounts",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Build Your Vision",
+    "domain": "byvbd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About page written entirely in first person plural; no names",
+    "others": []
+  },
+  {
+    "name": "CodeFortify",
+    "domain": "codefortify.cloud",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About page describes remote-first collective; no individual named",
+    "others": []
+  },
+  {
+    "name": "Codonyx",
+    "domain": "codonyx.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Only name present is testimonial client Sarah Malik, Founder HealthTech Startup",
+    "others": []
+  },
+  {
+    "name": "Dcastalia Limited",
+    "domain": "dcastalia.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Portfolio and team blurb only; no individual named",
+    "others": []
+  },
+  {
+    "name": "Dhrubok Infotech Services Ltd.",
+    "domain": "dhrubokinfotech.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Company/about text names no individuals, only founding year 2013",
+    "others": []
+  },
+  {
+    "name": "ERA-InfoTech Limited",
+    "domain": "erainfotechbd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Product and award text only; no leadership names in scrape",
+    "others": []
+  }
+]

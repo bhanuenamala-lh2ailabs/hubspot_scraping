@@ -1,0 +1,1168 @@
+[
+ {
+  "name": "Naatscorp Private Limited",
+  "city": "Coimbatore",
+  "domain": "naatscorp.com",
+  "website": "https://www.naatscorp.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2022-05-15",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "enterprise": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "From the first heartbeat to the seasoned smile, our product development journey cradles dreams and upholds aspirations.",
+    "PRODUCT MANUFACTURING In our Product Manufacturing realm, these innovations are brought to fruition."
+   ],
+   "enterprise": [
+    "It signifies a quality management system that's robust, comprehensive, and tailored to the exigencies of healthcare innovation."
+   ],
+   "compliance": [
+    "The ISO 9001 certification for our manufacturing processes is a testament to our operational excellence."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "Neenopal Intelligent Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "neenopal.com",
+  "website": "https://www.neenopal.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 4,
+   "cicd": 9,
+   "enterprise": 13,
+   "sdlc": 3,
+   "DQ_template": 1,
+   "compliance": 2,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "End-to-end SaaS product strategy and development AI-enabled features and data-driven experiences Faster time-to-market with scalable foundations Learn More --> AWS Cloud & AI Consulting We provide AWS consulting services to support cloud migration, modernization, and cost optimization using AI-led cloud engineering.",
+    "Get Project Estimate Delivering Smarter AI-Driven Solutions For Your Business Needs Our products combine advanced AI with practical design to help your teams work smarter, faster, and more efficiently.",
+    "That means prioritizing your production outcomes over our process, and your timeline over our convenience at every stage consistently.",
+    "She holds an MBA in Business Analytics from IIM Kashipur and is proficient in data visualization (Tableau, Power BI), SQL, predictive modeling, and SaaS product development."
+   ],
+   "cicd": [
+    "Learn More --> Microsoft Fabric Edtech Real-Time Data Ingestion & Transformation Using Microsoft Fabric Streaming A leading EdTech company partnered with our data engineering team to modernize their data pipeline infrastructure.",
+    "The client faced delays in data availability, limited real-time insights, and difficulties scaling analytics and machine learning workloads due to their traditional batch-oriented ETL pipelines.",
+    "Lightning-Fast Insights Slash time-to-insight with high-performance pipelines that deliver real-time data access, powering faster, smarter decisions across your organization.",
+    "Fragile pipelines, siloed departments, and rushed dashboards create noise, not decisions."
+   ],
+   "enterprise": [
+    "Learn More Power BI Healthcare Driving Strategic Growth with a Power BI Market Simulation Tool The Evolution Index (EI) or Market Simulator was built to support strategic planning by modeling multiple market growth scenarios across countries.",
+    "View More On the Floor at AWS Life Sciences 2026 NeenOpal attended the AWS Life Sciences Symposium 2026, exploring how agentic AI is reshaping commercialization across Pharma and regulated industries.",
+    "After 13 years across BI, data engineering, and AI, our team has seen it firsthand - from healthcare companies drowning in unlinked data to pipelines built for speed that break under scale.",
+    "Manufacturing Retail eCommerce Healthcare Finance Logistics CPG Education Legal Energy Real Estate --> Why Choose NeenOpal?"
+   ],
+   "sdlc": [
+    "Engagement Models Designed for Scalable AI & Data Delivery Choose the model that fits your goals and let NeenOpal deliver scalable, enterprise-grade solutions with predictable outcomes.",
+    "Fragile pipelines, siloed departments, and rushed dashboards create noise, not decisions.",
+    "That means prioritizing your production outcomes over our process, and your timeline over our convenience at every stage consistently."
+   ],
+   "DQ_template": [
+    "With intuitive layouts, pre-built templates, and seamless team collaboration, users can export wireframes directly to Tableau and Power BI to create user-friendly dashboards faster."
+   ],
+   "compliance": [
+    "View More NeenOpal Achieves ISO 27001:2022 and SOC 2 Certification!"
+   ],
+   "DQ_agency": [
+    "He also works with content marketing and SEO enhancement."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "NIIT Limited",
+  "city": "Gurugram",
+  "domain": "niit.com",
+  "website": "https://www.niit.ai/india",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1995-04-27",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "DQ_training": 28,
+   "DQ_agency": 3,
+   "pr_practice": 2,
+   "vcs": 9,
+   "sdlc": 10,
+   "cicd": 20,
+   "DQ_template": 1,
+   "qa": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "This reorganization allows NIIT to focus on its Skills & Careers business, offering learning and talent development programs that accelerate career growth in technology, banking, and other future-ready domains.",
+    "Select your career goal Launch Your Career in Tech Upskill with GenAI, ML & Data Analytics Master Cybersecurity & Cloud Computing Become a Freelance Digital Marketer Launch Your Startup with OEM Certifications Advance Your Career in Banking & Finance What’s your experience level?",
+    "The reorganization helps NIIT create a sharper focus on its Skills & Careers Business which delivers a diverse range of learning and talent development programs to thousands of early career and working professionals to accelerate career success across futuristic domains including technology and banking.",
+    "IFBI is a leading provider of learning services for fresh entrants as well as working professionals for the BFSI sector in India."
+   ],
+   "DQ_training": [
+    "₹9 LPA Average CTC Package 15% Average Salary Hike 35 Days Average Job Placement Time 97% Eligible Learners Placed Trusted by 800+ Hiring Partners AI-Powered Recommendations Find your perfect program Tell us your goals and experience level, and our AI will recommend the right programs.",
+    "I got campus placement by NIIT placement team and got placed in GOOGLE Inc via Cognizant as a Process Associate-Google AdWords at a CTC which is way beyond my parent’s expectations.",
+    "Danish Gupta for his unwavering support and guidance throughout my placement journey.",
+    "After completing the program in 2022, I accomplished an extraordinary feat — securing a campus placement within just 30 days."
+   ],
+   "DQ_agency": [
+    "The comprehensive curriculum empowered me with hands-on expertise in SEO, Social Media Marketing, Performance Marketing, AI-driven Analytics, and more, supported by a globally recognized certification.",
+    "Doing a Full Stack Stack Digital Marketing program from NIIT was the best move I could have made.",
+    "Special Thanks to my Faculty members throughout my entire journey\" Read more Digital Marketing with GenAI Advanced Program Mohan M Data Annotation Analyst @ Mea Platform 4.8 \" \"I want to express my gratitude to NIIT for their excellent training platform."
+   ],
+   "pr_practice": [
+    "Version Control Learn Git and GitLab fundamentals, configure SSH keys, and create README.md files using Markdown to manage source code, collaborate effectively, and maintain complete version history.",
+    "Document AI-assisted design decisions, code reviews, and implementation choices in an AI Decision Log."
+   ],
+   "vcs": [
+    "Version Control Learn Git and GitLab fundamentals, configure SSH keys, and create README.md files using Markdown to manage source code, collaborate effectively, and maintain complete version history.",
+    "SCVHS Setup Configure the SCVHS engineering pipeline using GitHub Copilot, AI Decision Logs, and specification-driven development.",
+    "4 Building Responsive and Interactive Web Applications 32 Hours Environment Set up a modern web development environment using VS Code, Live Server, Git, GitLab, GitHub Copilot, Chrome, and W3C validation tools to build, test, and manage web applications efficiently.",
+    "Deployment & Portfolio Deploy applications using modern DevOps practices including Docker and CI/CD pipelines, and showcase your work through live applications, GitHub portfolios, technical documentation, and structured project walkthroughs."
+   ],
+   "sdlc": [
+    "Agile Workflows Understand Agile software development through Scrum roles, sprint planning, epics, user stories, backlog management, and JIRA workflows to collaborate effectively in engineering teams.",
+    "Deployment & Portfolio Deploy applications using modern DevOps practices including Docker and CI/CD pipelines, and showcase your work through live applications, GitHub portfolios, technical documentation, and structured project walkthroughs.",
+    "Apply Git branching, JIRA sprint workflows, and CI pipelines while following the complete SCVHS development cycle to deliver a production-ready solution.",
+    "Full Stack Development is 95 sprints and 380 hours, roughly 6 months at a pace of 4 sprints per week."
+   ],
+   "cicd": [
+    "SCVHS Setup Configure the SCVHS engineering pipeline using GitHub Copilot, AI Decision Logs, and specification-driven development.",
+    "DevOps & Testing Build, test, and deploy Spring Boot applications using Docker, Docker Compose, Testcontainers, JaCoCo, OpenAPI, Swagger UI, Actuator, and integration testing best practices.",
+    "Deployment & Portfolio Deploy applications using modern DevOps practices including Docker and CI/CD pipelines, and showcase your work through live applications, GitHub portfolios, technical documentation, and structured project walkthroughs.",
+    "Advanced RAG Implement advanced RAG pipelines using LlamaIndex, multimodal document processing, fusion retrieval, reranking, guardrails, and optimized retrieval workflows for accurate AI responses."
+   ],
+   "DQ_template": [
+    "Design Patterns Implement behavioral and structural design patterns including Strategy, Builder, Observer, Adapter, Facade, Decorator, Proxy, and Template Method for reusable software solutions."
+   ],
+   "qa": [
+    "Testing Develop reliable software using JUnit 5, parameterized testing, assertions, JaCoCo code coverage, and testing best practices to ensure application quality and maintainability always.",
+    "Testing & Server State Test React applications using Jest, React Testing Library, TanStack Query, caching, mutations, mocked APIs, and server-state management to deliver reliable user experiences.",
+    "Enterprise Java Design Patterns Test-Driven Development Code Quality AI-Assisted Development React SPA in TypeScript with Live Vercel Deployment Build a responsive single-page application using React, TypeScript, and Tailwind CSS."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Nivaata Systems Private Limited",
+  "city": "Bengaluru",
+  "domain": "routematic.com",
+  "website": "https://routematic.com/",
+  "already_in_hubspot": true,
+  "headcount_known": "n/a",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 23178,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Transitioning to Product Manager, I now focus on enhancing our platform with user-friendly features."
+   ],
+   "compliance": [
+    "Total EV count crossed 200 2024 Carpool to be launched Tech is WCAG enabled 2025 GDPR Compliant for Europe and UK."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Oasys Cybernetics Private Limited",
+  "city": "Chennai",
+  "domain": "oasys.co",
+  "website": "http://www.oasys.co",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 1,
+   "enterprise": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Healthcare Solutions OASYS Cybernetics stands as a prominent healthtech leader in India, offering comprehensive solutions for hospital operations digitization, covering financial, medical, legal, administrative, and compliance domains, all executed with remarkable speed and precision."
+   ],
+   "enterprise": [
+    "Healthcare Solutions OASYS Cybernetics stands as a prominent healthtech leader in India, offering comprehensive solutions for hospital operations digitization, covering financial, medical, legal, administrative, and compliance domains, all executed with remarkable speed and precision."
+   ],
+   "compliance": [
+    "| OASYS gets Maturity Level 5 Rating in CMMI DEV V2.0 Appraisal"
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "One Kosmos Technology Private Limited",
+  "city": "Mumbai",
+  "domain": "1kosmos.com",
+  "website": "https://www.1kosmos.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "in Identity Management Categories View All Analyst Research Case Studies Datasheets IBA Fridays Infographics On-Demand Webinars Solution Briefs Videos"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Built for global privacy Native GDPR, data residency, and compliance support."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "OneMagnify India Private Limited",
+  "city": "Chennai",
+  "domain": "onemagnify.com",
+  "website": "https://www.onemagnify.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 8147,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 7,
+   "enterprise": 7,
+   "DQ_agency": 1,
+   "compliance": 2,
+   "owns_product": 4
+  },
+  "site_quotes": {
+   "sdlc": [
+    "About back --> About OneMagnify Learn about our culture, values, and how we work.",
+    "Agile Channel Marketing Technology That Adapts to You Our platform uses modular architecture and advanced analytics to quickly adapt programs to client needs."
+   ],
+   "enterprise": [
+    "OneMagnify covers the cost of Basic Life Insurance, as well as Short-Term and Long-Term Disability.",
+    "In addition, we offer a range of valuable optional benefits—such as legal assistance, accident insurance, and critical illness coverage.",
+    "Pet Insurance Our fur babies are part of the family.",
+    "We’ll help you take great care of yours with discounted pet insurance to keep those tails wagging."
+   ],
+   "DQ_agency": [
+    "June 04, 2026 The Hidden Cost of Customer Journey Fragmentation June 02, 2026 How Agentic AI is Transforming eCommerce Operations May 26, 2026 E-E-A-T in 2026: Build Expertise, Authority and Trust for SEO Success May 19, 2026 Your Channel Partner Network is your Growth Engine."
+   ],
+   "compliance": [
+    "It eliminates silos, reduces duplicate records, and ensures compliance with regulations like HIPAA or GDPR."
+   ],
+   "owns_product": [
+    "Agile Channel Marketing Technology That Adapts to You Our platform uses modular architecture and advanced analytics to quickly adapt programs to client needs.",
+    "Our platform adapts to the unique requirements of every vertical we serve.",
+    "From setup to optimization, our platform ensures flexibility, speed and measurable performance across diverse partner ecosystems.",
+    "Omnichannel Integration Our platform seamlessly connects digital, mobile and in-person interactions, creating unified experiences that engage audiences wherever they are."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Opengov India Private Limited",
+  "city": "Pune",
+  "domain": "opengov.com",
+  "website": "https://opengov.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [
+    "https://jobs.ashbyhq.com/opengov/499b64b8-a018-4e5c-b4a2-acec5e862776",
+    "https://jobs.ashbyhq.com/opengov/29fbd39b-a5c6-4d97-80a1-d7d48975d136",
+    "https://jobs.ashbyhq.com/opengov/b5e28ec9-c212-4e7c-a1b8-72c42c915ced",
+    "https://jobs.ashbyhq.com/opengov/ea5f3b39-867a-4dd4-8585-9a3dc6638cf5",
+    "https://jobs.ashbyhq.com/opengov/78ca35d7-1a0b-46aa-8a33-599270c98f51",
+    "https://jobs.ashbyhq.com/opengov/429f8478-a804-46e9-8bc7-723df9e747ee",
+    "https://jobs.ashbyhq.com/opengov/73de0638-1d3d-4cf3-a017-eb027e6e8b1c",
+    "https://jobs.ashbyhq.com/opengov/e2b3220e-f3ff-4c46-8566-d4243fc05c08",
+    "https://jobs.ashbyhq.com/opengov/d3c2b22b-1127-4c62-836e-1b1033057f1b",
+    "https://jobs.ashbyhq.com/opengov/cd8c469f-5aae-4620-ad3b-86ecfb8689af",
+    "https://jobs.ashbyhq.com/opengov/1493cdf2-df73-42a9-bbca-8d6562c7988f",
+    "https://jobs.ashbyhq.com/opengov/efc0d054-85cc-42dd-9f65-7c3acc2c806b",
+    "https://jobs.ashbyhq.com/opengov/2c443dd9-91bf-4508-9413-15e0c97d1c62",
+    "https://jobs.ashbyhq.com/opengov/d793ad4a-adcf-4c54-8bbf-a1db96b279bb",
+    "https://jobs.ashbyhq.com/opengov/253e26ee-ae6d-4ede-ac5b-c1fccdec76c6",
+    "https://jobs.ashbyhq.com/opengov/7c7252d1-f0c0-4a42-82e8-d8b67f20c5a8",
+    "https://jobs.ashbyhq.com/opengov/872e4856-bbdf-4b52-ae9f-5bd503adcf87",
+    "https://jobs.ashbyhq.com/opengov/5e3b3ee4-6591-45f2-bfc4-7fe4bb9de70e",
+    "https://jobs.ashbyhq.com/opengov/9920db0a-109d-453f-a77a-cc39479f2d0d",
+    "https://jobs.ashbyhq.com/opengov/e58a235d-2082-43a8-b867-076bbf98ce2a",
+    "https://jobs.ashbyhq.com/opengov/ca9f04b1-dd1f-4fdf-a432-e2a9be33dd6d",
+    "https://jobs.ashbyhq.com/opengov/e1d3a3ba-045d-4801-8b9b-db87a29c5cd1",
+    "https://jobs.ashbyhq.com/opengov/554fb4ab-b13b-4ce9-8c82-90b91ad65887",
+    "https://jobs.ashbyhq.com/opengov/cb56b4c0-c229-49b7-8507-ca21d62b4f57",
+    "https://jobs.ashbyhq.com/opengov/17914946-8a1b-4e10-98df-d493cefad575",
+    "https://jobs.ashbyhq.com/opengov/0e13007b-07ad-4417-b50c-d48ffb5979f0",
+    "https://jobs.ashbyhq.com/opengov/aec3d709-7df0-47a9-89b6-daafa9ffe1e8",
+    "https://jobs.ashbyhq.com/opengov/34a37fdb-3f70-4798-a9f7-77181924a801",
+    "https://jobs.ashbyhq.com/opengov/e848c8e4-fcfd-472b-9c4b-e7499d653a2e",
+    "https://jobs.ashbyhq.com/opengov/954335ae-d03c-4dbf-a776-89e23a244c4e",
+    "https://jobs.ashbyhq.com/opengov/0d95758f-d785-47ca-97de-82ae6072d802",
+    "https://jobs.ashbyhq.com/opengov/ff337b03-8ede-4174-82a5-7c1a6ba01cc5",
+    "https://jobs.ashbyhq.com/opengov/57edf64f-05e9-4d5a-bfbf-24b74d0a7571",
+    "https://jobs.ashbyhq.com/opengov/2022aa44-1b09-4dcc-b10c-8aa6140b4c8e",
+    "https://jobs.ashbyhq.com/opengov/be19111a-53d3-4b43-9849-60c7df88ee05",
+    "https://jobs.ashbyhq.com/opengov/37c16897-c961-407b-80cb-cb554364cac6",
+    "https://jobs.ashbyhq.com/opengov/d9a34b41-3bce-46e2-9967-5b3ed005af46",
+    "https://jobs.ashbyhq.com/opengov/0147719d-5b5c-4f0f-8993-dfa2ab6ecca1",
+    "https://jobs.ashbyhq.com/opengov/1dd82366-c11d-4d5a-b937-54629fb691f6",
+    "https://jobs.ashbyhq.com/opengov/0e61eb1d-be44-4ffe-b918-9f7a73f14e15",
+    "https://jobs.ashbyhq.com/opengov/c27505a9-6b27-410a-b529-32bf1aba879a",
+    "https://jobs.ashbyhq.com/opengov/fedb390d-eca1-41c7-91b9-0dbcd3d4f048",
+    "https://jobs.ashbyhq.com/opengov/ad0b8fe2-78c3-4c43-8015-bae429b24352",
+    "https://jobs.ashbyhq.com/opengov"
+   ],
+   "jd_chars": 32512,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "IT Support Specialist Information Technology India"
+   ],
+   "compliance": [
+    "Customer shall not transmit to OpenGov or otherwise cause OpenGov to Process any data outside the scope of Personal Data, including but not limited to biometric information, criminal justice information, or payment card data governed by the Payment Card Industry Data Security Standard (PCI DSS)."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Orange Technolab Pvt Ltd",
+  "city": "Ahmedabad",
+  "domain": "orangewebtech.com",
+  "website": "https://orangetechnolab.net/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "covered Our modest list of services to suit all your needs. Web Development Orange Technolab offers a variety of website design and development servic"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "This motivated me to make my first move to start my own venture, hence, Orange Technolab Pvt Ltd (ISO 9001:2015)."
+   ],
+   "owns_product": [
+    "- JJC Group Client \"If you want take your business online, want to list your products and want to take your organization up to next level using a platform that really works effectively- Orange’s Ecommerce Portal's got you covered."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "OrangeScape Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "orangescape.com",
+  "website": "https://kissflow.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2003-11-03",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 11893,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "sdlc": 2,
+   "senior_roles": 1,
+   "DQ_bpo": 1,
+   "DQ_template": 3,
+   "owns_product": 1,
+   "enterprise": 2,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "PMO Support Manager - Hardware My primary reason for rating a 4 star: Kissflow is a flexible and easy to use workflow automation software."
+   ],
+   "sdlc": [
+    "Now, in addition to speed, our processes are more organized, and we have more control\" Griselda Juve Supply Chain Specialist Oil and Gas Core applications to increase efficiency, throughput, and safety throughout every stream Explore more \"Kissflow is extremely intuitive and straightforward.",
+    "Most teams ship their first production workflow in a week, often inside a single sprint."
+   ],
+   "senior_roles": [
+    "Events Our workspace is at work 24/7 by hosting tech leaders, hackathons, tech talks, marketing meetups, and more!"
+   ],
+   "DQ_bpo": [
+    "A low-code app enhances retail management efficiency by automating repetitive tasks, reducing manual data entry, and integrating various functions such as inventory management, sales tracking, and customer service."
+   ],
+   "DQ_template": [
+    "With drag-and-drop functionality and pre-built templates, you can create and modify applications to suit your retail needs without requiring programming knowledge.",
+    "Free -->Enquire --> Emergency Response App By Kissflow Enhance incident response time with intelligent dispatch and workflow automation Custom Quote --> Enquire Accelerate and scale app development with Kissflow Customize with pre-built templates Build custom low-code apps quickly with pre-built templates.",
+    "Business users build forms and workflows using a drag-and-drop interface, and the platform ships with templates for common processes like leave requests, vendor onboarding, and IT tickets."
+   ],
+   "owns_product": [
+    "Whether diversifying your product range or opening new stores, a low-code solution can progress in line with your business requirements without requiring extensive redevelopment."
+   ],
+   "enterprise": [
+    "Healthcare Patient access and clinical operations: Patient intake, referral management, prior authorization, clinical credentialing, and care coordination are orchestrated across your EHR and scheduling systems.",
+    "Financial Services Onboarding, underwriting, and risk: Customer onboarding with KYC and AML document capture, loan origination connected to your core banking and credit bureau systems, trade exception handling, and audit-ready regulatory reporting."
+   ],
+   "compliance": [
+    "HIPAA controls are built in.",
+    "Kissflow provides role-based access control, field-level permissions, audit trails on every action, single sign-on, and compliance with SOC 2, GDPR, HIPAA, and ISO 27001."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "PAS Digital Private Limited",
+  "city": "New Delhi",
+  "domain": "caleedo.com",
+  "website": "https://caleedo.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 10107,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Contact us Agile Tech Stack That Offers Scale, Speed And Insights​ Uses microservice technologies for auto scale, auto healing, auto deploy, etc."
+   ],
+   "compliance": [
+    "VAPT Tested ISO 27001 and 9001 certified Seamless 3rd party Integration - open APIs Built-in Edge computing for IoT services Established and proven industry integration capabilities- LORA, BACnet, Bluetooth, Wi-Fi, etc."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Pine Labs Limited",
+  "city": "Noida",
+  "domain": "pinelabs.com",
+  "website": "https://www.pinelabs.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 8786,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "compliance": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Comprehensive insurance for you and your family, including top-ups for parents."
+   ],
+   "compliance": [
+    "PCI DSS Compliance We have consistently achieved compliance with the Payment Card Industry Data Security Standard (PCI DSS), ensuring robust protection of cardholder data across our platforms."
+   ],
+   "owns_product": [
+    "PCI DSS Compliance We have consistently achieved compliance with the Payment Card Industry Data Security Standard (PCI DSS), ensuring robust protection of cardholder data across our platforms."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Researchwire Knowledge Solutions Private Limited",
+  "city": "Navi Mumbai",
+  "domain": "researchwire.in",
+  "website": "https://www.researchwire.in/",
+  "already_in_hubspot": false,
+  "headcount_known": 157,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Demo Insights for Enabling Innovation Our Solutions Patent Portfolio Management & Monetisation Patent Search | Litigation Support Open Innovation | R"
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 127880,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "enterprise": 1,
+   "owns_product": 3
+  },
+  "site_quotes": {
+   "compliance": [
+    "Play Video What we do Researchwire is an ISO 27001 certified global Intellectual property, Innovation support & Market research consulting firm, serving clients globally, including Fortune 500, in a wide range of industries."
+   ],
+   "enterprise": [
+    "Play Video What we do Researchwire is an ISO 27001 certified global Intellectual property, Innovation support & Market research consulting firm, serving clients globally, including Fortune 500, in a wide range of industries."
+   ],
+   "owns_product": [
+    "Overview B y gathering, analysing, and interpreting relevant information about a market within your industry, we can provide you with actionable intelligence right from your product ideation phase to commercialization and beyond.",
+    "You may want to improve awareness about your products and services, define your target consumers, acquire market share or retain your customer base or find new applications for your existing products.",
+    "Security Our platform offers top-level security with encryption, user authentication, and data protection to safeguard your IP and project data."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "SecPod Technologies Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "secpod.com",
+  "website": "https://www.secpod.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "DULE A DEMO --> Resources Blog Product Briefs Documentation Case Studies eBooks Whitepapers Infographics Webinars Videos Essentials Company About Us C"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 9285,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "vcs": 1,
+   "cicd": 1,
+   "DQ_support": 2,
+   "compliance": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "vcs": [
+    "Read more → Megalodon Supply Chain Attack Compromises 5,500+ GitHub Repositories Through Malicious CI/CD Workflows Read more → Every Cloud and Endpoint Has Expected Posture."
+   ],
+   "cicd": [
+    "Read more → Megalodon Supply Chain Attack Compromises 5,500+ GitHub Repositories Through Malicious CI/CD Workflows Read more → Every Cloud and Endpoint Has Expected Posture."
+   ],
+   "DQ_support": [
+    "Complete Asset Intelligence Continuously discover managed and unmanaged devices, build enriched asset inventories, identify shadow IT, and track every hardware and software change."
+   ],
+   "compliance": [
+    "Healthcare Protect patient data and clinical systems by scanning for vulnerabilities continuously, enforcing HIPAA-aligned configuration baselines, and remediating risks before they reach regulated systems."
+   ],
+   "enterprise": [
+    "Healthcare Protect patient data and clinical systems by scanning for vulnerabilities continuously, enforcing HIPAA-aligned configuration baselines, and remediating risks before they reach regulated systems.",
+    "Banking and Financial Services Reduce breaches and your attack surface across endpoints, AIX devices, servers, and more with integrated scanning, security posture controls, and approval-based remediation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "SG Analytics Private Limited",
+  "city": "Pune",
+  "domain": "sganalytics.com",
+  "website": "https://www.sganalytics.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "a Analytics and ESG Company Quick links Services Industries Case Studies Careers --> × Join our Circle of Experts Send Inquiry --> --> Home Who We Are"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 184180,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "cicd": 1,
+   "sdlc": 2,
+   "compliance": 1,
+   "senior_roles": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Learn More Investment Banking Services Comprehensive, high-quality, and offshore research and analysis support that enables seamless deal execution for global investment banks.",
+    "Director of Market Strategy A Leading Tech Solutions Firm SG Analytics’ augmented analytics initiative unlocked $25 million in revenue from previously low‑spend insurance customers, improving cross‑sell conversion rates by 12 % within six months.",
+    "Our benefits package includes comprehensive healthcare coverage, including medical, dental, and vision insurance.",
+    "Key Takeaways Developing a sophisticated ML-based targeting model helped predict purchase propensity across various insurance offerings."
+   ],
+   "cicd": [
+    "Problems We Solve We help AEC firms with turnkey solutions to help them grow pipeline, reduce risks, enhance productivity, and deliver projects on time and within budget—turning data into a strategic asset."
+   ],
+   "sdlc": [
+    "Process Optimization: Our data analytics services help you pinpoint where your business is losing time and money so you can fix it directly and optimize your processes."
+   ],
+   "compliance": [
+    "SG Analytics enforces strict enterprise data security frameworks certified under ISO 27001:2013, SOC 2 Type II compliance, and GDPR requirements."
+   ],
+   "senior_roles": [
+    "From enterprise software to semiconductors, we deliver contextual insights and scalable solutions that help tech leaders stay ahead in a fast-evolving landscape."
+   ],
+   "DQ_support": [
+    "Semiconductors & IT Infrastructure Our data and insights solutions assist chipset manufacturers, hardware firms, and IT infrastructure providers in thriving in the evolving market landscape through solutions such as competitor benchmarking, product innovation, and market & compete intelligence."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Shyro Health Private Limited",
+  "city": "Mumbai",
+  "domain": "shyrohealth.com",
+  "website": "https://www.shyrohealth.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2905,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "cicd": 2,
+   "enterprise": 4,
+   "DQ_training": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Backed by science, encrypted for safety ISO 27001 certified, and designed to meet HIPAA, GDPR, and DPDP standards, the platform ensures complete data privacy and security for the employees and the organisation."
+   ],
+   "cicd": [
+    "Read More July 2025 article 3 mins Stress and Life Challenges Navigating Worries Wisely: Three Simple and Comforting Tricks Feeling overwhelmed?",
+    "Read More May 2025 article 4 mins Addiction and Compulsive Behaviors How Social Media Impacts Emotional Regulation and Why It Matters Feeling numb, anxious, or overwhelmed after scrolling?"
+   ],
+   "enterprise": [
+    "Her passion for healthcare runs deep—rooted in a family of doctors, philosophers, and pharma entrepreneurs—and shaped by over three decades of leadership experience.",
+    "His mission is to harness the power of technology to make mental healthcare accessible, personalised, and impactful.",
+    "With a strong academic foundation in pharmaceutical science, marketing, and further studies in Artificial Intelligence and Data Science, he brings a unique ability to bridge deep healthcare knowledge with emerging technology.",
+    "With over a decade of experience in business development and project execution across the pharmaceutical and healthcare sectors, he has consistently been a dependable and collaborative team player."
+   ],
+   "DQ_training": [
+    "Jini K Gopinath is a Clinical Psychologist and Clinical Hypnotherapist with over two decades of experience in psychological assessment, psychotherapy, corporate mental health, and performance coaching."
+   ],
+   "senior_roles": [
+    "As former VP of Engineering at leading technology firms, he has successfully led large-scale digital transformations, architected high-impact platforms, and built high-performing engineering teams from the ground up."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Speed Engineering Solutions Private Limited",
+  "city": "Pune",
+  "domain": "speed-global.com",
+  "website": "https://www.speed-global.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "ISO 9001: 2015 TÜV Certified + Global Clients + Projects Europe UK USA Middle East Asia Our Industry Expertise With a competent team having rich experience across industry verticals, we offer diversified engineering services catering to every stage of design, development and validation cycle."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "Tart Labs",
+  "city": "Coimbatore",
+  "domain": "tartlabs.com",
+  "website": "https://www.tartlabs.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 5923,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 1,
+   "cicd": 29,
+   "enterprise": 6,
+   "DQ_agency": 1,
+   "qa": 1,
+   "sdlc": 9,
+   "senior_roles": 3,
+   "pr_practice": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Book 20-min Consult View Our Work Portfolios Free Estimate Signed with NDA 100% Risk-Free ABOUT US Driven by innovation and backed by a proven track record, Tart Labs delivers AI-driven custom software and product engineering solutions that bridge the gap between vision and value."
+   ],
+   "cicd": [
+    "Python ML/DL Data Engineer Kubernetes Healthcare Empowering Cancer Care with Telemedicine A telemedicine platform that brings patients, physicians & support networks together in one integrated app.",
+    "ETL/ELT Pipeline Development Real-time Data Streaming Data Lake & Warehouse Setup Big Data Processing & Storage Data Quality & Governance API-based Data Integration Scalable Data Architecture Data Cataloging & Metadata Management Web App Development Tart Labs brings your ideas to life through web app development .",
+    "Our team builds intelligent systems that handle everything from designing robust data pipelines to deliver real-time reports.",
+    "Our experts help you build and maintain effective data pipelines and data warehouses, ensuring your data flows accurately."
+   ],
+   "enterprise": [
+    "Python ML/DL Data Engineer Kubernetes Healthcare Empowering Cancer Care with Telemedicine A telemedicine platform that brings patients, physicians & support networks together in one integrated app.",
+    "Warehouse Management Supply Chain Management Freight Management Inventory Management Order Fulfillment and Tracking Route Optimization Carrier Integration Returns Management Finance and Insurance Keep your business compliant, secure and efficient with our powerful fintech application development services.",
+    "Healthcare and pharma Want to make your healthcare and pharma systems more efficient?",
+    "Banking and finance Launch a digital wallet, build a secure online banking platform, or create a feature-rich investment app, our DevOps solutions support your growth at every stage."
+   ],
+   "DQ_agency": [
+    "Custom Web Application Development Progressive Web Apps (PWA) Single Page Applications (SPA) Frontend Frameworks Backend Development and APIs SEO Friendly Website Development CMS & Headless CMS Integration Performance & Security Hardening Mobile App Development Your users are mobile, so are we."
+   ],
+   "qa": [
+    "We also offer DevOps, QA, and data engineering services."
+   ],
+   "sdlc": [
+    "Agile and scalable solutions We design data solutions that grow with your business.",
+    "The core steps of our process are: 01 Data collection and integration Tart Labs gathers and integrates data from multiple sources to build a clear and connected system for better analysis.",
+    "Here’s how we approach Agile development: Requirement Gathering 0 1 In the initial phase, we work closely with stakeholders to thoroughly understand the client’s vision, objectives, and project needs.",
+    "Sprint Planning 0 3 For each phase of development, we conduct focused sprint planning sessions."
+   ],
+   "senior_roles": [
+    "Blogs Tech insights, straight from us We focus on writing useful content for startups, entrepreneurs, tech leaders, and businesses that covers everything from product deep dives, guides to code snippets, and lessons from digital transformation.",
+    "Michael Scofield CEO @ Prison Break Blogs Tech insights, straight from us We focus on writing useful content for startups, entrepreneurs, tech leaders, and businesses that covers everything from product deep dives, guides to code snippets, and lessons from digital transformation."
+   ],
+   "pr_practice": [
+    "Development 0 5 During this phase, our developers build and test core functionalities in iterative sprints, integrating new features and performing code reviews along the way."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Terralogic Software Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "terralogic.com",
+  "website": "https://terralogic.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 18,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "Terralogic - Software Development and IT Services Company --> --> --> --> --> Arabic English French Ger"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 100211,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 18,
+   "cicd": 3,
+   "compliance": 3,
+   "DQ_agency": 2,
+   "enterprise": 3,
+   "qa": 1,
+   "DQ_support": 1,
+   "senior_roles": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Agile With our innovative solutions, you gain the flexibility to pivot as market demands evolve.",
+    "We do remove the data of individuals who opts out or unsubscribes to our process.",
+    "--> --> --> --> Cloud data engineering Leverage the flexibility and scalability of cloud platforms to architect and optimize data pipelines, facilitating agile data processing and analytics.",
+    "Agile 1400+ Skilled Professionals 18+ Years of Software Development 10+ Locations ABOUT US Technology with a kindred soul."
+   ],
+   "cicd": [
+    "Head of Software Quality Of A Technology Conglomerate The Terralogic team was able to quickly put together quality teams without overshooting our budget, helping us with SIT, FIT, CI/CD, sanity and longevity tests, continuing being our automation arm.",
+    "--> --> --> --> Cloud data engineering Leverage the flexibility and scalability of cloud platforms to architect and optimize data pipelines, facilitating agile data processing and analytics.",
+    "Companies are in search of skilled data engineers for building and handling efficient databases and pipelines."
+   ],
+   "compliance": [
+    "Our ISO 27001 certification ensures greater accountability, security, and traceability for your business.",
+    "Read More Certified ISO 9001:2015 Terralogic is proud to be recognized as one of the certified organizations under the ISO 9001:2015 certification.",
+    "VAPT is increasingly important for organizations to ensure compliance with standards including the GDPR, ISO 27001, and PCI DSS."
+   ],
+   "DQ_agency": [
+    "While we specialize in a wide range of industries, we solve specific Technology problems with leading cross-industry approaches, expert and advisory services in the areas of Digital Transformation, DevOps, Internet of Things (IOT), Digital Marketing, SEO, SMO and User experience (UI/UX) design solutions.",
+    "Along with domain level branding, cloud master control, storage backup, digitizing, developing gateway solutions and multi-channel help desk support, we provide geotagging & GPS enabled services."
+   ],
+   "enterprise": [
+    "Terralogic provides advisory consulting and IT services for Automotive, Communications, Construction, E-commerce, Gaming, Healthcare, Manufacturing, Media & Entertainment, Retail, Travel & Transportation industries.",
+    "The industry is constantly evolving as it deals with changing economics, regulatory pressures and the growth of mobile banking.",
+    "The industries we’ve worked for Financial Healthcare Insurance Legal Education Accounting FREQUENTLY ASKED QUESTIONS View all FAQs Why do I need data engineering consulting?"
+   ],
+   "qa": [
+    "Our services are into UI/UX experience designing where our capability is one of the best in pan India, Engineering services taking SAAS, Information Management System (IMS), Custom Development, Quality Assurance (QA) and Automation, collectively backed-up by multiple support services."
+   ],
+   "DQ_support": [
+    "Along with domain level branding, cloud master control, storage backup, digitizing, developing gateway solutions and multi-channel help desk support, we provide geotagging & GPS enabled services."
+   ],
+   "senior_roles": [
+    "With the help of these gathered insights, data engineering solution consultants will propose tailored data engineering solution architecture for your business to reach new heights."
+   ],
+   "owns_product": [
+    "Read More Our Product Portfolio Wide variety of products View All Products BEING MORE THAN AN IT SERVICES COMPANY Our full spectrum of expertise Design Application Development Cloud Cybersecurity IT Sevices System Software Let's Craft Brilliance Just exploring?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Trimplin Private Limited",
+  "city": "Kolkata",
+  "domain": "trimplin.com",
+  "website": "https://www.trimplin.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "derstand the persisting sensation of fear, while preparing your work without anyone's help. We know that no matter how hard you try to relief yourself"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 20463,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2,
+   "enterprise": 2,
+   "qa": 1,
+   "sdlc": 4,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "--> We help researchers and businesses with ethical Academic Writing Support (editing, formatting, coaching), Journal Publication Readiness , Graphics Designing , IT & Development .",
+    "What we do Services tailored to your goals Academic Writing Support End-to-end guidance, editing, formatting, and coaching for researchers and students."
+   ],
+   "enterprise": [
+    "Healthcare & Medicine Medical research papers, clinical studies, healthcare IT solutions and medical illustration services.",
+    "Health & Wellness Comprehensive health insurance, mental health support, and wellness programs to keep you at your best."
+   ],
+   "qa": [
+    "4 Deliver Final QA, plagiarism scan report (on request) and handover."
+   ],
+   "sdlc": [
+    "Excellence We're committed to delivering the highest quality work and continuously improving our processes.",
+    "Close WhatsApp Process - Trimplin Process - Trimplin in --> Home Services Process Testimonials FAQ Blog Contact Get Proposal Our Process Transparent, structured methodology designed to deliver exceptional results and client satisfaction.",
+    "How We Work Step-by-Step Approach for Excellence At Trimplin, we follow a systematic and client-focused workflow that ensures quality, transparency and on-time delivery for every project.",
+    "Dedicated subject-matter expert assigned Regular progress reports & communication Quality assurance checks at every stage Flexibility for revisions based on feedback 🔑 Agile execution backed by academic integrity and technical precision."
+   ],
+   "compliance": [
+    "--> ISO 9001:2015 Certified"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ }
+]

@@ -1,0 +1,26 @@
+﻿name,deal_id,action,person,title,phone,linkedin,domain_resolved,source
+MEDIATRENZ,341055841005,push-ready,(referred by Ashok on the call),,+919871181711,,,caller note — referred number
+Caizin,341018070740,reveal-candidate,,,,https://www.linkedin.com/in/mahendrayadav/,caizin.com,verified domain guess caizin.com + site scrape
+Insightly Analytics Private Limited,341799566024,reveal-candidate,Sudheer Bandaru,"Founder, CEO",,https://www.linkedin.com/in/sbandaru/,hivel.ai,founders_websearch cache
+VIEH Group,341055840999,reveal-candidate,,,,http://linkedin.com/in/mkumarcyber,viehgroup.com,verified domain guess viehgroup.com + site scrape
+Xiarch Solutions Pvt Ltd,341889765105,reveal-candidate,Utsav Mittal,CEO & Founder,,https://www.linkedin.com/in/utsavmittal/,xiarch.com,founders_websearch cache
+Xponents,339191218895,reveal-candidate,David Chong,,,https://ca.linkedin.com/in/david-chong-24912b363,xponents.co,duckduckgo linkedin search
+Cloud Certitude,341004730097,name-only,Rakesh Aggarwal,Founder – Cloud Certitude,,,cloudcertitude.com,verified domain guess cloudcertitude.com + site scrape
+Enzigma,341074580208,name-only,Hemanshu Shah,CEO &amp,,,enzigma.com,verified domain guess enzigma.com + site scrape
+Airdit Software Services,341045020403,domain-found — team page empty,,,,,airdit.com,verified domain guess airdit.com + site scrape
+GTT Data Solutions Ltd,340529757918,domain-found — team page empty,,,,,gttdatasolutions.com,verified domain guess gttdatasolutions.com + site scrape
+NetAnalytiks,341055842003,domain-found — team page empty,,,,,netanalytiks.com,verified domain guess netanalytiks.com + site scrape
+Novastrid,341074580214,domain-found — team page empty,,,,,novastrid.com,verified domain guess novastrid.com + site scrape
+TeamLease Regtech Pvt. Ltd.,340550281920,domain-found — team page empty,,,,,teamleaseregtech.com,verified domain guess teamleaseregtech.com + site scrape
+Technocolabs Softwares Inc.,341012722395,domain-found — team page empty,,,,,technocolabs.com,verified domain guess technocolabs.com + site scrape
+AllysAI,340450601709,not found,,,,,allysai.com,
+Qualitrix,340609949432,not found,,,,,,
+Ctrl S Datacenters Limited,341778265848,"skip_giant — wrong company, not wrong person",,,,,,skipped
+Holcim Global Digital Hub,341061249780,"skip_giant — wrong company, not wrong person",,,,,,skipped
+Neudesic Technologies Private Limited,341087559394,"skip_giant — wrong company, not wrong person",,,,,,skipped
+Rightpoint India,341009072845,"skip_giant — wrong company, not wrong person",,,,,,skipped
+TransUnion CIBIL Limited,340302839498,"skip_giant — wrong company, not wrong person",,,,,,skipped
+Epsum Labs Private Limited,341808569031,name-only — needs another key,Girija Sankar Mishra,Founder &amp,,,epsumlabs.com,company site scrape
+Source Fuse Technologies India Pvt Ltd,341893334766,name-only — needs another key,Gautam Ghai,Co-Founder &amp,,,sourcefuse.com,company site scrape
+VLink India Private Limited,341803159233,name-only — needs another key,Sharad Patney,CEO VLink Inc,,,vlinkinfo.com,company site scrape
+vCreaTek Consulting Services Private Limited,341812163310,name-only — needs another key,Abhishek Rathi,Founder &amp,,,vcreatek.com,company site scrape

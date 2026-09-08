@@ -1,0 +1,331 @@
+# -*- coding: utf-8 -*-
+"""THE unlock — SignalHire searchByQuery: company -> decision-maker -> reveal -> +91 -> push.
+
+Confirmed working 2026-08-17: searchByQuery(currentCompany, currentTitle) returns the company's
+actual people (company-filtered, so NO namesake problem), each with a `uid`; reveal(uid) returns
+phone + email. This skips the entire name->URL bottleneck that every prior method fought.
+
+Per instruction: run the 450 queue, push 50:50 Yuktha/Lamiya.
+
+Per firm (skip the 68 already enriched):
+  1. searchByQuery currentCompany + decision-maker title query -> up to 10 profiles
+  2. rank by ROLE (founder>owner>CEO>MD>CTO>chairman>COO>partner>director>VP-eng); pick best >=70
+  3. confirm the pick's current-experience company matches the target (fuzzy)
+  4. reveal(uid) -> phones/emails ; +91-mobile hard gate
+  5. push: NEW domain -> create deal 50:50 ; domain already on a deal (the 100 founder-hunt
+     company-only deals) -> UPDATE it with the contact, keep its owner
+
+Resumable + quota-aware: searchByQuery runs on a daily quota; on a quota error the run
+checkpoints and stops cleanly. State in searchq_state.json (per-domain) so re-runs continue.
+
+Usage: python3 searchq_enrich.py [--apply] [--limit N]
+"""
+import os, re, sys, csv, json, time, collections, urllib.request, urllib.error
+from rapidfuzz import fuzz
+
+HERE = os.path.dirname(os.path.abspath(__file__)); HUB = os.path.dirname(os.path.dirname(HERE))
+sys.path.insert(0, os.path.join(HUB, "crm_mirror", "enrich"))
+from indian_number import to_e164, classify as in_classify
+env = {l.split('=', 1)[0].strip().lower(): l.split('=', 1)[1].strip()
+       for l in open(os.path.join(HUB, '.env'), encoding='utf-8-sig')
+       if '=' in l and not l.strip().startswith('#')}
+H = {"Authorization": "Bearer " + env["hubspot_key"], "Content-Type": "application/json"}
+SH = env["signal_hire"]
+QUEUE = os.path.join(HUB, "godown", "prequal", "prequal_out", "enrich_queue.csv")
+for _i, _a in enumerate(sys.argv):                    # --queue <file> to run a different tier
+    if _a == "--queue": QUEUE = sys.argv[_i + 1]
+STATE = os.path.join(HERE, "searchq_state.json")
+PUSHED = os.path.join(HERE, "searchq_pushed.json")
+ENRICHED_ALREADY = os.path.join(HERE, "pushed_prequal.json")
+YUKTHA, LAMIYA = "96573782", "96574824"
+NAME = {YUKTHA: "Yuktha", LAMIYA: "Lamiya"}
+PIPE, COLD = "default", "3992480462"
+TAG = "Founder Search ( IT Services )"
+APPLY = "--apply" in sys.argv
+LIMIT = 0
+for i, a in enumerate(sys.argv):
+    if a == "--limit": LIMIT = int(sys.argv[i + 1])
+
+LADDER = [
+    (r"\b(founder|co[-\s]?founder|founding|promoter)\b", 100), (r"\b(owner|proprietor|managing partner)\b", 96),
+    (r"\b(chief executive|\bceo\b)\b", 94), (r"\b(managing director|\bmd\b)\b", 90),
+    (r"(chief technolog|\bcto\b|chief technical)", 88),          # no trailing \b: 'technology' continues the word
+    (r"\b(chairman|chairperson|(?<!vice )president)\b", 86),      # (?<!vice ): 'Vice President X' must not score 86
+    (r"\b(chief operating|\bcoo\b|chief product|\bcpo\b|chief information|\bcio\b)\b", 80),
+    (r"\b(partner)\b", 74), (r"\b(executive director|whole[-\s]?time director|\bdirector\b)\b", 72),
+    (r"\b(vp|vice president|head)[\s\-,:]+(of\s+)?(engineering|technology|technical|delivery|products?|software)\b", 70),
+]
+DISQ = re.compile(r"\b(sales|marketing|\bhr\b|human resource|recruit|talent|business development|"
+                  r"account manager|support|intern|trainee|junior|customer success|partner success)\b", re.I)
+
+
+def role_score(t):
+    t = (t or "").lower()
+    for rx, sc in LADDER:
+        if re.search(rx, t, re.I):
+            # DISQ up to 90 so "President - Sales"(86) / "Business Development Partner"(74) /
+            # "MD - Sales"(90) are rejected, while a genuine "Founder & Head of Sales"(100) or
+            # "CEO"(94) stays immune.
+            if sc <= 90 and DISQ.search(t): return 0
+            return sc
+    return 0
+
+
+SIZE = 3
+SEARCH_LOG = []
+# Query only for titles the LADDER actually rewards. Every profile returned costs quota AND one of
+# only SIZE slots, so asking for bare "chief"/"head"/"director" pulls CMO/CHRO/Head-of-Sales/HR-
+# Director — which score 0 and push the real decision-maker out of the top 3.
+TITLE_Q = ("founder OR co-founder OR cofounder OR owner OR CEO OR chief executive OR "
+           "managing director OR CTO OR chief technology OR chairman OR president")
+# Widen only for companies the primary pass could not resolve (second pass, costs more per company).
+FALLBACK_SIZE = 6
+FALLBACK_Q = ("director OR executive director OR head OR chief OR partner OR principal OR "
+              "VP OR vice president OR general manager OR country head")
+
+
+class QuotaOut(Exception): pass
+
+
+def sq(company):
+    # size=3 (user-set 2026-08-17): every profile returned counts against the ~2000/day PROFILE
+    # quota, and the founder/CEO/director is ~always in searchByQuery's top few relevance-ranked
+    # results. 10 burned ~3x the quota per company (capped us at ~300 firms/day); 3 clears ~650+.
+    body = {"currentCompany": company, "location": "India", "size": SIZE,
+            "currentTitle": TITLE_Q}
+    r = urllib.request.Request("https://www.signalhire.com/api/v1/candidate/searchByQuery",
+                               data=json.dumps(body).encode(), method="POST",
+                               headers={"apikey": SH, "Content-Type": "application/json"})
+    try:
+        with urllib.request.urlopen(r, timeout=40) as x:
+            d = json.loads(x.read().decode())
+        profs = d.get("profiles", []) or []
+        # Record what the search ACTUALLY returned, including on failure, so we can finally tell
+        # "company not in SignalHire's index" apart from "returned people we scored too low".
+        SEARCH_LOG.append({"company": company, "total": d.get("total"), "returned": len(profs),
+                           "titles": [((p.get("experience") or [{}])[0].get("title") or "")[:60] for p in profs]})
+        return profs
+    except urllib.error.HTTPError as e:
+        if e.code in (402, 403, 429): raise QuotaOut(f"searchByQuery http{e.code}")
+        SEARCH_LOG.append({"company": company, "total": None, "returned": 0, "titles": [], "err": e.code})
+        return []
+    except Exception as ex:
+        SEARCH_LOG.append({"company": company, "total": None, "returned": 0, "titles": [], "err": str(ex)[:60]})
+        return []
+
+
+def reveal(uid):
+    r = urllib.request.Request("https://www.signalhire.com/api/v1/candidate/search",
+                               data=json.dumps({"items": [uid], "withoutWaterfall": True}).encode(),
+                               method="POST", headers={"apikey": SH, "Content-Type": "application/json"})
+    try:
+        d = json.loads(urllib.request.urlopen(r, timeout=60).read().decode())
+    except urllib.error.HTTPError as e:
+        if e.code == 402: raise QuotaOut("reveal credits out")
+        return None
+    except Exception:
+        return None
+    for it in (d if isinstance(d, list) else d.get("results", [])) or []:
+        if isinstance(it, dict) and it.get("status") == "success":
+            c = it.get("candidate") or {}
+            return {"name": c.get("fullName"),
+                    "phones": [x.get("value") for x in (c.get("contacts") or [])
+                               if "phone" in str(x.get("type", "")).lower() and isinstance(x.get("value"), str)],
+                    "emails": [x.get("value") for x in (c.get("contacts") or [])
+                               if "email" in str(x.get("type", "")).lower() and isinstance(x.get("value"), str)],
+                    # capture the LinkedIn URL from the reveal's social links — searchByQuery
+                    # only gives a uid, so this is the ONLY place the /in/ URL is available.
+                    "linkedin": next((s.get("link") for s in (c.get("social") or [])
+                                      if "linkedin.com/in/" in str(s.get("link") or "")), "")}
+    return None
+
+
+CORP = re.compile(r"\b(pvt|private|limited|ltd|inc|llp|llc|co|company|technologies|technology|"
+                  r"solutions|services|software|systems|india|group|consulting|labs|infotech|"
+                  r"enterprises|ventures|global|international)\b", re.I)
+
+
+def core(name):
+    """Company name minus the corporate boilerplate, so 'Pvt Ltd' does not inflate similarity."""
+    return re.sub(r"[^a-z0-9 ]", " ", CORP.sub(" ", (name or "").lower())).strip()
+
+
+def pick(profiles, company):
+    """Best decision-maker across ALL of a profile's roles at the target company.
+
+    Two fixes over the naive version, both found on Habilelabs (2026-08-18):
+      1. Match on the CORE name. 'HabileLabs Analytics' vs 'Habilelabs Private Limited' scored
+         66.7 raw and fell under the threshold, while the shared boilerplate 'Pvt Ltd' was
+         inflating unrelated pairs. Stripping it makes the comparison about the real name.
+      2. Take the HIGHEST-SCORING matching role, not the first one found. Vinod Kumawat's
+         'Co-Founder' sat below his 'Chief Analytics Officer' entry, so the founder was
+         silently discarded and the company recorded as 'no decision-maker found'.
+    """
+    tgt = core(company)
+    best = None
+    for p in profiles:
+        exp = p.get("experience") or []
+        cand = [e for e in exp if fuzz.token_set_ratio(core(e.get("company")), tgt) >= 75]
+        # NO fallback to exp[0]. The old code scored a person's current role even when none of
+        # their experience matched the target company, which is how a "Director @ RSG Media"
+        # could be pushed to a caller as the decision-maker at Habilelabs. Missing a lead is
+        # cheaper than handing a caller the wrong person — that is the wrong-SPOC problem.
+        if not cand: continue
+        sc, te = 0, {}
+        for e in cand:                                 # highest role at this company wins
+            v = role_score(e.get("title", ""))
+            if v > sc: sc, te = v, e
+        if sc >= 70 and (best is None or sc > best[3]):
+            best = (p.get("uid"), p.get("fullName"), te.get("title", ""), sc)
+    return best
+
+
+def hs(u, m="GET", b=None):
+    d = json.dumps(b).encode() if b is not None else None
+    for a in range(6):
+        try:
+            r = urllib.request.Request("https://api.hubapi.com" + u, data=d, method=m, headers=H)
+            with urllib.request.urlopen(r, timeout=60) as x:
+                t = x.read().decode(); return x.status, (json.loads(t) if t else {})
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503, 504) and a < 5: time.sleep(2 * (a + 1)); continue
+            return e.code, {"raw": e.read().decode()[:150]}
+        except Exception:
+            if a == 5: raise
+            time.sleep(3 * (a + 1))
+
+
+def deals_by_domain():
+    """(domain_map, name_map). domain_map is the primary key, keyed on lh2_domain.
+
+    HARDENED 20 Aug: lh2_domain is blank on some deals (seen on Outflo-sourced records),
+    which made domain-only dedup blind to them — a Zimo Technologies deal from 5 Aug (no
+    lh2_domain) was invisible to this check, so the same company got a second, duplicate
+    deal created and pushed today. name_map is a same-day-cheap fallback: normalized
+    company name (via core(), which already strips Pvt/Ltd/Technologies/etc. boilerplate
+    for exactly this kind of fuzzy company-identity matching) -> deal info, built from
+    EVERY deal regardless of whether lh2_domain is populated. Callers should check
+    find_existing_deal() rather than domain_map directly so both signals are honored."""
+    dmap = {}; nmap = {}; after = None
+    while True:
+        b = {"limit": 200, "properties": ["lh2_domain", "hubspot_owner_id", "dealname"], "filterGroups": []}
+        if after: b["after"] = after
+        _, d = hs("/crm/v3/objects/deals/search", "POST", b)
+        for x in d.get("results", []):
+            p = x["properties"]
+            info = {"deal": x["id"], "owner": p.get("hubspot_owner_id")}
+            dm = (p.get("lh2_domain") or "").lower().strip()
+            if dm: dmap[dm] = info
+            nm = core(p.get("dealname") or "")
+            if nm: nmap.setdefault(nm, info)   # first match wins; duplicates are pre-existing, not ours to resolve here
+        after = (d.get("paging") or {}).get("next", {}).get("after")
+        if not after: break
+    return dmap, nmap
+
+
+def find_existing_deal(domain, company_name, domain_map, name_map):
+    """Domain match first (authoritative when present); falls back to normalized-name
+    match so a blank lh2_domain on an old deal can't hide it from dedup anymore."""
+    hit = domain_map.get((domain or "").lower().strip())
+    if hit: return hit
+    return name_map.get(core(company_name))
+
+
+def main():
+    q = list(csv.DictReader(open(QUEUE, encoding="utf-8-sig")))
+    enriched = set(json.load(open(ENRICHED_ALREADY)).keys()) if os.path.exists(ENRICHED_ALREADY) else set()
+    state = json.load(open(STATE)) if os.path.exists(STATE) else {}
+    todo = [r for r in q if r["domain"] not in enriched and r["domain"] not in state]
+    if LIMIT: todo = todo[:LIMIT]
+    print(f"queue 450 | already enriched {len(enriched)} | in state {len(state)} | to process {len(todo)}", flush=True)
+
+    # find/reveal loop (search quota is the scarce thing; do all lookups first, push after)
+    try:
+        for i, r in enumerate(todo, 1):
+            rec = {"domain": r["domain"], "company": r["name"], "rank": r["rank"], "score": r["score"]}
+            profs = sq(r["name"])
+            best = pick(profs, r["name"]) if profs else None
+            if not best:
+                rec["gate"] = "no decision-maker found"
+                state[r["domain"]] = rec; json.dump(state, open(STATE, "w"), ensure_ascii=False, indent=1)
+                print(f'  [{i}/{len(todo)}] {r["name"][:30]:<32}no decision-maker', flush=True); continue
+            uid, person, title, sc = best
+            got = reveal(uid)
+            if got:
+                ind = next((to_e164(x) for x in got["phones"] if in_classify(x) == "mobile"), "")
+                rec.update({"person": person, "title": title, "role_score": sc, "uid": uid,
+                            "phone": ind, "email": (got["emails"] or [""])[0],
+                            "linkedin": got.get("linkedin", "")})
+                rec["gate"] = "PASS" if ind else "skip - no +91 mobile"
+            else:
+                rec.update({"person": person, "title": title, "gate": "reveal failed"})
+            state[r["domain"]] = rec; json.dump(state, open(STATE, "w"), ensure_ascii=False, indent=1)
+            print(f'  [{i}/{len(todo)}] {r["name"][:30]:<32}{person[:20]:<22}{title[:18]:<20}{rec["gate"]}', flush=True)
+            time.sleep(0.35)
+    except QuotaOut as e:
+        print(f"\n!! {e} — checkpointed, resume later", flush=True)
+
+    json.dump(SEARCH_LOG, open(os.path.join(HERE, "searchq_raw_log.json"), "w"), ensure_ascii=False, indent=1)
+    if SEARCH_LOG:
+        empty = sum(1 for r in SEARCH_LOG if not r["returned"])
+        print(f"\nraw search log: {len(SEARCH_LOG)} calls | {empty} returned ZERO profiles "
+              f"({100*empty/len(SEARCH_LOG):.0f}%) -> searchq_raw_log.json", flush=True)
+    g = collections.Counter(v["gate"] for v in state.values())
+    print("\ngates:", dict(g))
+    ready = [v for v in state.values() if v.get("gate") == "PASS" and v["domain"] not in
+             (json.load(open(PUSHED)) if os.path.exists(PUSHED) else {})]
+    print(f"PASS ready to push: {len(ready)}")
+    if not APPLY:
+        print("DRY RUN — re-run with --apply to push."); return
+
+    dmap, nmap = deals_by_domain()
+    done = json.load(open(PUSHED)) if os.path.exists(PUSHED) else {}
+    cnt = collections.Counter(v["owner"] for v in done.values())
+    ready.sort(key=lambda v: int(v["rank"]))
+    new = upd = fail = 0
+    # NEW deals push in BATCHES OF 10, alternating owner, starting Yuktha. Block index persists
+    # across re-runs via the count of new-mode deals already pushed, so a quota-interrupted run
+    # resumes the batch pattern rather than restarting it.
+    new_idx = sum(1 for v in done.values() if v.get("mode") == "new")
+    for v in ready:
+        parts = (v["person"] or "").split()
+        existing = find_existing_deal(v["domain"], v["company"], dmap, nmap)
+        if existing and existing.get("owner") in NAME:
+            owner = existing["owner"]                       # founder-hunt deal: keep its owner
+        else:
+            owner = YUKTHA if (new_idx // 10) % 2 == 0 else LAMIYA
+        cp = {"firstname": parts[0] if parts else "", "lastname": " ".join(parts[1:]),
+              "email": v.get("email") or "", "phone": v["phone"], "mobilephone": v["phone"],
+              "jobtitle": v.get("title") or "Director", "company": v["company"],
+              "linkedin_url": v.get("linkedin") or "", "country": "India",
+              "website": f"https://{v['domain']}" if v.get("domain") else ""}
+        s, d = hs("/crm/v3/objects/contacts", "POST", {"properties": {k: x for k, x in cp.items() if x}})
+        if s not in (200, 201): fail += 1; print(f'   FAIL contact {v["company"][:26]} {s}'); continue
+        ctid = d["id"]
+        if existing:                                   # complete a founder-hunt company-only deal
+            hs(f'/crm/v4/objects/deals/{existing["deal"]}/associations/default/contacts/{ctid}', "PUT")
+            hs(f'/crm/v3/objects/deals/{existing["deal"]}', "PATCH",
+               {"properties": {"description": f'FOUNDER FOUND via searchByQuery: {v["person"]} ({v.get("title","")}) {v["phone"]}'}})
+            done[v["domain"]] = {"deal": existing["deal"], "owner": NAME.get(existing["owner"], "?"),
+                                 "person": v["person"], "phone": v["phone"], "email": v.get("email", ""), "mode": "updated"}
+            upd += 1; print(f'   UPDATED {v["company"][:28]:<30}{v["person"][:20]} -> kept owner', flush=True)
+        else:
+            dp = {"dealname": v["company"], "pipeline": PIPE, "dealstage": COLD, "hubspot_owner_id": owner,
+                  "poc": owner, "lead_source": TAG, "source_tab": "searchq", "lh2_domain": v["domain"],
+                  "description": f'{v["person"]} ({v.get("title","")}) via searchByQuery; rank {v["rank"]} score {v["score"]}'}
+            s, d = hs("/crm/v3/objects/deals", "POST", {"properties": dp})
+            if s not in (200, 201):
+                dp.pop("description", None); s, d = hs("/crm/v3/objects/deals", "POST", {"properties": dp})
+                if s not in (200, 201): fail += 1; print(f'   FAIL deal {v["company"][:26]} {s}'); continue
+            hs(f'/crm/v4/objects/deals/{d["id"]}/associations/default/contacts/{ctid}', "PUT")
+            cnt[NAME[owner]] += 1; new_idx += 1        # advance the batch-of-10 block index
+            done[v["domain"]] = {"deal": d["id"], "owner": NAME[owner], "person": v["person"],
+                                 "phone": v["phone"], "email": v.get("email", ""), "mode": "new"}
+            new += 1; print(f'   NEW [{new_idx}] {v["company"][:28]:<30}{v["person"][:18]} -> {NAME[owner]}', flush=True)
+        json.dump(done, open(PUSHED, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+        time.sleep(0.3)
+    c2 = collections.Counter(v["owner"] for v in done.values())
+    print(f"\nnew {new}, updated {upd}, failed {fail} | totals Yuktha {c2['Yuktha']}, Lamiya {c2['Lamiya']}")
+
+
+main()

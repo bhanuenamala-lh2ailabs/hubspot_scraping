@@ -1,0 +1,1091 @@
+[
+ {
+  "name": "ThiriSoft Consultancy Services",
+  "city": "Ahmedabad",
+  "domain": "thirisoft.com",
+  "website": "https://thirisoft.com",
+  "pages_reached": [
+   "/",
+   "blog",
+   "careers",
+   "team"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [
+   {
+    "org": "thirisoft",
+    "merged_prs": null,
+    "human_authors": null,
+    "first_merge": null,
+    "last_merge": null,
+    "bot_prs_excluded_from_sample": null,
+    "meets_tier_a": null,
+    "meets_tier_gold": null
+   }
+  ],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20220601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20220601",
+   "snapshot_quote": "in Menu Services About Us Contact Us ThiriSoft A Full Stack Software Development Company for Every Domain Accelerate your business by outsourcing soft",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "cicd": 23,
+   "qa": 9,
+   "compliance": 1,
+   "prod_eng": 1
+  },
+  "evidence_excerpts": {
+   "cicd": [
+    "Manual testing Automation (Selenium, Playwright) Performance testing API testing CI/CD integration 🎨 UI/UX Design Design that converts, retains, and delights.",
+    "React Next.js Node.js TypeScript React Native Flutter iOS Android .Net / ASP.NET Core ☁️ Cloud & DevOps Engineering Cloud-native infrastructure, CI/CD automation, and DevSecOps practices that let your team ship faster with confidence and lower costs.",
+    "AWS Azure Kubernetes Terraform 📊 Data Engineering & Analytics Custom analytics dashboards, data pipelines, and BI integrations that turn your raw data into decisions you can act on immediately."
+   ],
+   "qa": [
+    "Manual testing Automation (Selenium, Playwright) Performance testing API testing CI/CD integration 🎨 UI/UX Design Design that converts, retains, and delights.",
+    "04 QA & Security Automated tests, manual reviews, and security audits before anything reaches production.",
+    "💰 India-Based, World-Class Based in Ahmedabad, we offer enterprise-quality engineering at highly competitive rates — giving you the best of both worlds."
+   ],
+   "prod_eng": [
+    "03 DevSecOps & Platform Engineering Security baked in, not bolted on."
+   ]
+  },
+  "PREVIOUS_SCORE": {
+   "score": 25,
+   "band": "Skip",
+   "caps": [
+    "no careers, blog or team page reached - cap 40 (not binding)"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "pages recovered: team+blog+careers"
+  ]
+ },
+ {
+  "name": "UTI Infrastructure Technology and Services Limited",
+  "city": "Navi Mumbai",
+  "domain": "utiitsl.com",
+  "website": "https://www.utiitsl.com/",
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "pages_absent": [
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20101012",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230204",
+   "snapshot_quote": "",
+   "lookup_note": "REPAIRED: 20230204 capture readable, no software language"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {},
+  "PREVIOUS_SCORE": {
+   "score": 10,
+   "band": "Skip",
+   "caps": []
+  },
+  "WHAT_CHANGED": [
+   "pre-2024 existence now confirmed (weak +10, no longer cap-45)"
+  ]
+ },
+ {
+  "name": "Vrentin Tech Private Limited",
+  "city": "New Delhi",
+  "domain": "muoro.io",
+  "website": "https://muoro.io/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "team"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "istributed Engineering Teams - Muoro Home About Us Services Case Studies Join Muoro Hire Engineers Build Remote Software Engineering Teams With Muoro",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "owns_product": 1,
+   "cicd": 3,
+   "compliance": 1,
+   "enterprise": 1
+  },
+  "evidence_excerpts": {
+   "owns_product": [
+    "From fragmented systems to Operational AI Our teams use internal, platform-agnostic accelerators to reduce risk and speed up delivery."
+   ],
+   "cicd": [
+    "1 A Governed Lakehouse, Not Just a Pipeline 2 Policies Enforced on Unity Catalog 3 The Audit Trail, On Demand 4 The Consent Layer Databricks Doesn't Ship Pre-built connectors for MySQL, PostgreSQL, Redshift, Salesforce, files and APIs.",
+    "1 A Governed Lakehouse, Not Just a Pipeline Pre-built connectors for MySQL, PostgreSQL, Redshift, Salesforce, files and APIs."
+   ],
+   "compliance": [
+    "PCI DSS Explore Skionis governed Databricks lakehouse details Book a Governance Demo for your Databricks workspace 03."
+   ],
+   "enterprise": [
+    "Where we deliver the most value We specialize in financial services and regulated, data-heavy environments, working with PE-backed asset management, lending, and wealth teams backed by Goldman Sachs, Blackstone, Neuberger Berman, Ares, Citi, and Bessemer."
+   ]
+  },
+  "PREVIOUS_SCORE": {
+   "score": 40,
+   "band": "Skip",
+   "caps": [
+    "no careers AND no blog AND no team cap 40"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "pages recovered: team+blog"
+  ]
+ },
+ {
+  "name": "Weir Minerals (India) Private Limited",
+  "city": "Bengaluru",
+  "domain": "global.weir",
+  "website": "https://www.global.weir/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "careers",
+   "team"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20160219",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230109",
+   "snapshot_quote": "",
+   "lookup_note": "REPAIRED: 20230109 capture readable, no software language"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {},
+  "PREVIOUS_SCORE": {
+   "score": 10,
+   "band": "Skip",
+   "caps": [
+    "no careers AND no blog AND no team cap 40"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "pre-2024 existence now confirmed (weak +10, no longer cap-45)",
+   "pages recovered: team+blog+careers"
+  ]
+ },
+ {
+  "name": "Worldline Global Services Private Limited",
+  "city": "Mumbai",
+  "domain": "worldline.com",
+  "website": "https://worldline.com/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "19981201",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230102",
+   "snapshot_quote": "",
+   "lookup_note": "REPAIRED: 20230102 capture readable, no software language"
+  },
+  "signal_counts": {
+   "enterprise": 3,
+   "DQ_template": 1,
+   "DQ_bpo": 4,
+   "DQ_support": 4
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "Open banking Unlock the potential of open banking with powerful tools that easily turn financial data into value-added services.",
+    "Axime is created in France, focusing on electronic banking and payment processing—another building block in our payments foundation.",
+    "We win France's first ever contract for card-based banking transactions."
+   ],
+   "DQ_template": [
+    "We announce the contemplated carve-out of MeTS, our digital services business."
+   ],
+   "DQ_bpo": [
+    "Choose from software licensing, software-as-a-service (SaaS) or full business process outsourcing (BPO).&nbsp;You can also select the infrastructure that's right for you from traditional data centre to cloud.",
+    "Choose from software licensing, software-as-a-service (SaaS) or full business process outsourcing (BPO).",
+    "Our Business Process Outsourcing (BPO) model still provides options for self-configuration."
+   ],
+   "DQ_support": [
+    "You manage the hardware and software, using your own data centre or the cloud environment of your choice.",
+    "You use our infrastructure, we manage the hardware and software, all the daily operations, and end-user support services so you can concentrate on your core business and customers.</p>\\r\\n\"}}\"> Business Process Outsourcing model Want to enjoy the benefits of fully managed payment services?",
+    "You use our infrastructure, we manage the hardware and software, all the daily operations, and end-user support services so you can concentrate on your core business and customers."
+   ]
+  },
+  "PREVIOUS_SCORE": {
+   "score": 25,
+   "band": "Skip",
+   "caps": [
+    "Tier C void: no Tier A/B corroboration"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "pre-2024 existence now confirmed (weak +10, no longer cap-45)"
+  ]
+ },
+ {
+  "name": "Xebia IT Architects India Private Limited",
+  "city": "Gurugram",
+  "domain": "xebia.com",
+  "website": "https://www.xebia.com",
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [
+   {
+    "org": "xebia",
+    "merged_prs": 615,
+    "human_authors": 8,
+    "first_merge": "2011-12-07",
+    "last_merge": "2026-08-13T00:12:42Z",
+    "bot_prs_excluded_from_sample": 48,
+    "meets_tier_a": true,
+    "meets_tier_gold": true
+   }
+  ],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20220601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20220601",
+   "snapshot_quote": "ralia. We design digital customer experiences and products. We build new IT and data infrastructures, introduce modern processes, and challenge teams",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "sdlc": 2,
+   "owns_product": 1
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "Explore More Leadership and Behavioral Change in the AI Era Reimagining Value Delivery: From Agile Legacy to Authentic AI Operating Models Mindshift: Leading the AI-Enabled Enterprise ‌ Self-Assessment AI Maturity: Do You Have What it Takes to Become an AI-driven Organization?",
+    "They guide how we work, grow, and create meaningful impact for our people, clients, and communities."
+   ],
+   "owns_product": [
+    "AI-Powered Solutions & Accelerators We leverage AI-driven solutions and accelerators to help you achieve your business goals faster and more effectively."
+   ]
+  },
+  "PREVIOUS_SCORE": {
+   "score": 40,
+   "band": "Skip",
+   "caps": [
+    "no careers AND no blog AND no team cap 40"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "pages recovered: team"
+  ]
+ },
+ {
+  "name": "AB Information Technology Solutions Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "sophitoriumsgi.org",
+  "website": "https://sophitoriumsgi.org/missionVision.html",
+  "pages_reached": [
+   "/"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20200626",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20220123",
+   "snapshot_quote": "",
+   "lookup_note": "REPAIRED: 20220123 capture readable, no software language"
+  },
+  "signal_counts": {
+   "sdlc": 1
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "Our vision is to be one of the most Innovative IT Company in the industry who is known for translating technologies into Agile solutions which add value to our clients."
+   ]
+  },
+  "PREVIOUS_SCORE": {
+   "score": 10,
+   "band": "Skip",
+   "caps": [
+    "no careers AND no blog AND no team cap 40",
+    "training-institute domain"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "pre-2024 existence now confirmed (weak +10, no longer cap-45)"
+  ]
+ },
+ {
+  "name": "AVA Software Private Limited",
+  "city": "Kancheepuram",
+  "domain": "avasoft.biz",
+  "website": "http://www.avasoft.biz",
+  "pages_reached": [
+   "/"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20130116",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20170226",
+   "snapshot_quote": "n Implementation Services along with... Read More Lets make Java more Interesting Expertise of implementing 20+ JAVA Applications for various customer",
+   "lookup_note": "REPAIRED: pre-2024 software evidence in 20170226 capture"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {},
+  "PREVIOUS_SCORE": {
+   "score": 10,
+   "band": "Skip",
+   "caps": [
+    "no careers AND no blog AND no team cap 40"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "GOLD now proven"
+  ]
+ },
+ {
+  "name": "Bitvoice Solutions Private Limited",
+  "city": "Kochi",
+  "domain": "bitvoice.in",
+  "website": "https://www.bitvoice.in/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "careers",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20160704",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230118",
+   "snapshot_quote": "",
+   "lookup_note": "REPAIRED: 20230118 capture readable, no software language"
+  },
+  "signal_counts": {
+   "DQ_bpo": 2,
+   "DQ_template": 2,
+   "DQ_support": 1
+  },
+  "evidence_excerpts": {
+   "DQ_bpo": [
+    "OUR OFFER Check what can we do for you and your business CALL CENTRE SOFTWARE - A contact centre or more commonly referred to as a call centre is a focal point of communication from which all customer contacts are managed and handled..",
+    "BENEFITS WITH THE BITVOICE One Shot Solution for Communication IPPBX, Voice logger, Call centre, Social Media Handling, Email ticketing etc."
+   ],
+   "DQ_template": [
+    "0 0 Read more February 1, 2023 Published by Aparna on February 1, 2023 Categories Uncategorized WhatsApp WhatsApp Template Message What Is a WhatsApp Template Message?",
+    "WhatsApp message templates are a powerful way to send significant data to clients and it is a pre-constructed normalized message […] Do you like it?"
+   ],
+   "DQ_support": [
+    "Aiming to replace all existing hardware-based PBX platforms with a more user-friendly Bitvoice Communication Solutions."
+   ]
+  },
+  "PREVIOUS_SCORE": {
+   "score": 25,
+   "band": "Skip",
+   "caps": [
+    "Tier C void: no Tier A/B corroboration"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "pre-2024 existence now confirmed (weak +10, no longer cap-45)"
+  ]
+ },
+ {
+  "name": "Caparizon Software Private Limited",
+  "city": "Kochi",
+  "domain": "itflux.com",
+  "website": "http://www.itflux.com",
+  "pages_reached": [
+   "/"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20031031",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230323",
+   "snapshot_quote": "",
+   "lookup_note": "REPAIRED: 20230323 capture readable, no software language"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {},
+  "PREVIOUS_SCORE": {
+   "score": 10,
+   "band": "Skip",
+   "caps": [
+    "no careers AND no blog AND no team cap 40"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "pre-2024 existence now confirmed (weak +10, no longer cap-45)"
+  ]
+ },
+ {
+  "name": "Crushaders Tech Solution LLP",
+  "city": "Bhubaneswar",
+  "domain": "crushaderstech.com",
+  "website": "https://crushaderstech.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20140115",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230226",
+   "snapshot_quote": "",
+   "lookup_note": "REPAIRED: 20230226 capture readable, no software language"
+  },
+  "signal_counts": {
+   "DQ_agency": 65,
+   "owns_product": 1,
+   "enterprise": 2,
+   "DQ_training": 1
+  },
+  "evidence_excerpts": {
+   "DQ_agency": [
+    "Best Rated Digital Marketing Company in Bhubaneswar, Odisha Enquiry Now ↻ I agree to the Terms & Policy and give my consent to receive updates.",
+    "Digital Branding Digital Branding drives brand growth through targeted strategies across search, social, and content....",
+    "Learn More Industries Unique Digital Marketing Solutions for different industries Customized digital marketing solutions designed to meet the unique goals, audience, and growth stage of every business.",
+    "Read More Services AI-Enabled Digital Marketing Services for higher growth precision 01 SEO Services We focus on ranking for high-search-volume, relevant keywords to generate qualified traffic and leads to your website."
+   ],
+   "owns_product": [
+    "Our customers love the new website, and our product sales have steadily improved since launch."
+   ],
+   "enterprise": [
+    "We have experience working with a wide range of industries, including real estate, education, healthcare, e-commerce, manufacturing, and service-based businesses.",
+    "Industries We Serve Indu --> Real Estate Companies Education & Training Institutes Healthcare & Clinics eCommerce & Retail Local Businesses B2B & Service-Based Companies FAQs Frequently Asked Questions 1."
+   ],
+   "DQ_training": [
+    "Industries We Serve Indu --> Real Estate Companies Education & Training Institutes Healthcare & Clinics eCommerce & Retail Local Businesses B2B & Service-Based Companies FAQs Frequently Asked Questions 1."
+   ]
+  },
+  "PREVIOUS_SCORE": {
+   "score": 10,
+   "band": "Skip",
+   "caps": [
+    "generalist-agency cap 30"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "pre-2024 existence now confirmed (weak +10, no longer cap-45)"
+  ]
+ },
+ {
+  "name": "iLeaf Solutions Private Limited",
+  "city": "Kochi",
+  "domain": "ileafsolutions.com",
+  "website": "https://www.ileafsolutions.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20120722",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230207",
+   "snapshot_quote": "dress who the product will serve & how it will benefit. Web Application Development Our team creates optimal web solutions based on cutting-edge techn",
+   "lookup_note": "REPAIRED: pre-2024 software evidence in 20230207 capture"
+  },
+  "signal_counts": {
+   "enterprise": 8,
+   "prod_eng": 2,
+   "senior_roles": 3
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "IT Outsourcing Company Solutions Contract Management (CLM) MLOps & AIOps Real Estate & PropTech Fitness & Healthcare Education What We Do Digital Transformation Thrive in the Modern Era.",
+    "* Select Search Engine Blog Post LinkedIn Review Sites Word of Mouth Other Submit Latest Articles How Predictive AI Is Helping Insurance Companies Reduce ...",
+    "iLeaf Solutions Contract Management (CLM) MLOps & AIOps Real Estate & PropTech Fitness & Healthcare Education What We Do Digital Transformation Thrive in the Modern Era.",
+    "How Predictive AI Is Helping Insurance Companies Reduce ..."
+   ],
+   "prod_eng": [
+    "Partnering with Startups, SMBs, and Enterprises across the US, UK, Europe, the Middle East, and Oceania, we specialize in product engineering, system architecture, and seamless integrations."
+   ],
+   "senior_roles": [
+    "I was the co-founder and VP of engineering."
+   ]
+  },
+  "PREVIOUS_SCORE": {
+   "score": 10,
+   "band": "Skip",
+   "caps": []
+  },
+  "WHAT_CHANGED": [
+   "GOLD now proven"
+  ]
+ },
+ {
+  "name": "Infoparks, Kerala",
+  "city": "Ernakulam",
+  "domain": "infopark.in",
+  "website": "https://infopark.in/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20080905",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230131",
+   "snapshot_quote": "",
+   "lookup_note": "REPAIRED: 20230131 capture readable, no software language"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {},
+  "PREVIOUS_SCORE": {
+   "score": 10,
+   "band": "Skip",
+   "caps": []
+  },
+  "WHAT_CHANGED": [
+   "pre-2024 existence now confirmed (weak +10, no longer cap-45)"
+  ]
+ },
+ {
+  "name": "Intimetec Visionsoft Pvt Ltd",
+  "city": "Jaipur",
+  "domain": "intimetec.com",
+  "website": "https://www.intimetec.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20090211",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230205",
+   "snapshot_quote": "ty Data Science DevOps Legacy Software System Modernization Mobile App Development Quality Assurance Technical Writing Test Automation Web App Develop",
+   "lookup_note": "REPAIRED: pre-2024 software evidence in 20230205 capture"
+  },
+  "signal_counts": {
+   "sdlc": 7,
+   "DQ_support": 7,
+   "qa": 6,
+   "owns_product": 13,
+   "cicd": 4,
+   "senior_roles": 2
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "See More High Tech High Tech Complex problems, innovative solutions Advance your processes through our specialized industrial automation, embedded, and IoT services.",
+    "Learn More High Tech Advance your processes through our specialized industrial automation, embedded, and IoT services.",
+    "Learn More Advance your processes through our specialized industrial automation, embedded, and IoT services."
+   ],
+   "DQ_support": [
+    "See More Managed Services Managed Services Enhance efficiency, optimize services Elevate your IT operations through round-the-clock monitoring, on-demand IT support, and other end-to-end solutions.",
+    "Learn More Managed Services Elevate your IT operations through round-the-clock monitoring, on-demand IT support, and other end-to-end solutions.",
+    "Learn More Elevate your IT operations through round-the-clock monitoring, on-demand IT support, and other end-to-end solutions."
+   ],
+   "qa": [
+    "See More QA/TA Quality Assurance & Test Automation Code you can trust Your customers shouldn’t have to be your software testers.",
+    "Learn More QA/TA Your customers shouldn’t have to be your software testers.",
+    "Learn More Our available offerings: Artificial Intelligence Public Sector Solutions Products Software Development High Tech Data Managed Services QA/TA UX/UI Cybersecurity Power Apps We design and develop scalable, secure, and performance-driven software tailored to your business goals."
+   ],
+   "owns_product": [
+    "See More Careers Careers It takes a special kind of person to stand with us on our platform of abundance.",
+    "See More Our Products Resources Blogs We offer some amazing services, and we’re also here to give you the solutions you need.",
+    "Our products Copyright © 2026 In Time Tec, LLC All rights reserved.",
+    "--> Harshita Singh August 5, 2026 Books Digital Downloads Contact Us Global (English) Australia (English) Korea (Korean) Europe (English) --> UAE (English) Saudi Arabia (Arabic) --> Join us in creating \"> It takes a special kind of person to stand with us on our platform of abundance."
+   ],
+   "cicd": [
+    "Blogs Custom Software Development 21 minute read Kubernetes Orchestration: What It Is and How It Powers ..."
+   ],
+   "senior_roles": [
+    "Before co-founding In Time Tec, he was a Technical Architect at Hewlett-Packard."
+   ]
+  },
+  "PREVIOUS_SCORE": {
+   "score": 68,
+   "band": "Secondary",
+   "caps": []
+  },
+  "WHAT_CHANGED": [
+   "GOLD now proven"
+  ]
+ },
+ {
+  "name": "Lulu Tech Park Private Limited",
+  "city": "Kochi",
+  "domain": "lulutechpark.com",
+  "website": "https://lulutechpark.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "pages_absent": [
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20170302",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230204",
+   "snapshot_quote": "",
+   "lookup_note": "REPAIRED: 20230204 capture readable, no software language"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {},
+  "PREVIOUS_SCORE": {
+   "score": 10,
+   "band": "Skip",
+   "caps": []
+  },
+  "WHAT_CHANGED": [
+   "pre-2024 existence now confirmed (weak +10, no longer cap-45)"
+  ]
+ },
+ {
+  "name": "Mindmill Software Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "mindmill.com",
+  "website": "https://www.mindmill.com",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20010202",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230128",
+   "snapshot_quote": "Best Software Development Company In India | B2B, B2C Software Development Services h1,h2,h3,h4",
+   "lookup_note": "REPAIRED: pre-2024 software evidence in 20230128 capture"
+  },
+  "signal_counts": {
+   "enterprise": 6,
+   "DQ_support": 1,
+   "DQ_bpo": 1,
+   "owns_product": 1
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "The general trend is clear: technology is becoming a link between different areas of life, from banking services to entertainment.",
+    "From core banking systems to robotics , custom development , and process automation , we help businesses grow through cutting-edge, scalable solutions .",
+    "We serve diverse industries such as Banking, Law, Transportation, Gaming, Parking , and Hospitality .",
+    "Our Divisions Custom Software & Hardware Solutions Products CBS Centric Banking ERP – BankMill Magic™ ."
+   ],
+   "DQ_support": [
+    "Our Divisions Custom Software & Hardware Solutions Products CBS Centric Banking ERP – BankMill Magic™ ."
+   ],
+   "DQ_bpo": [
+    "Invoice Reconcilation Mindmill provides superior high skilled BPO services such as Invoice Reconciliation wherein our agents reconcile the purchase order, material/services received, invoices and payments made."
+   ],
+   "owns_product": [
+    "Time zone benefit and increased productivity: When you outsource your software development, your productivity is enhanced due to developers working across different time zones."
+   ]
+  },
+  "PREVIOUS_SCORE": {
+   "score": 10,
+   "band": "Skip",
+   "caps": [
+    "BPO cap 20 considered, not applied (software is core)"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "GOLD now proven"
+  ]
+ },
+ {
+  "name": "Nextgen Screening Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "nextgenscreening.com",
+  "website": "https://www.nextgenscreening.com/",
+  "pages_reached": [
+   "/",
+   "team"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20211208",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "1 pre-2024 captures exist but none fetchable — MISSING, not absent"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {},
+  "PREVIOUS_SCORE": {
+   "score": 10,
+   "band": "Skip",
+   "caps": [
+    "no careers/blog/team cap 40 (non-binding)"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "pages recovered: team"
+  ]
+ },
+ {
+  "name": "Promact Infotech Private Limited",
+  "city": "Vadodara",
+  "domain": "promactinfo.com",
+  "website": "https://promactinfo.com/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "careers",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20200601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20200601",
+   "snapshot_quote": "Best Web Development & Product Engineering Company Promact HOME SERVICES Committed To Perform A",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "prod_eng": 5,
+   "cicd": 7
+  },
+  "evidence_excerpts": {
+   "prod_eng": [
+    "Promact - Top Product Engineering & Web Development Company",
+    "Product Engineering We turn your concept into reality with our expert product engineering solutions.",
+    "All Rights Reserved Contact us Promact - Top Product Engineering & Web Development Company",
+    "Promact helps meet time-to-market demands on time & within budget with digital product engineering and the best software solutions."
+   ],
+   "cicd": [
+    "We design, build, and deploy scalable applications optimized for cloud environments, leveraging microservices and Kubernetes.",
+    "We build robust data pipelines, warehouses, and analytics platforms that give you reliable, real-time insights."
+   ]
+  },
+  "PREVIOUS_SCORE": {
+   "score": 40,
+   "band": "Skip",
+   "caps": [
+    "no careers/blog/team cap 40"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "pages recovered: blog+team+careers"
+  ]
+ },
+ {
+  "name": "Rishabh Software Pvt Ltd",
+  "city": "Vadodara",
+  "domain": "rishabhsoft.com",
+  "website": "https://www.rishabhsoft.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20010302",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230103",
+   "snapshot_quote": "Custom Software Development Company | Rishabh Software --> Company Be a part of the 'Dream",
+   "lookup_note": "REPAIRED: pre-2024 software evidence in 20230103 capture"
+  },
+  "signal_counts": {
+   "sdlc": 5,
+   "enterprise": 4,
+   "DQ_agency": 2,
+   "senior_roles": 2,
+   "qa": 1,
+   "cicd": 11,
+   "compliance": 5,
+   "owns_product": 1,
+   "DQ_bpo": 1,
+   "prod_eng": 2,
+   "DQ_template": 1
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "We have successfully served across 25+ countries and we expertly steer our clients through their digital journey in an agile way towards customer delight as “WE CARE.” Every ace alliance starts with a plan, ready to elevate?",
+    "We provide complete data lifecycle management, replacing costly, siloed systems with robust, agile data pipelines ready for advanced data analytics.",
+    "Discover Our data engineering team assesses your business challenges, identifies opportunities, and recommends the most suitable engagement model.",
+    "For over 25 years of experience, we’ve helped businesses across 25+ countries build agile, customer-centric foundations with a focus on trust, transparency, and long-term value."
+   ],
+   "enterprise": [
+    "Explore HealthTech Achieve regulatory compliance and improve patient care with advanced, custom-built healthcare solutions designed for your specific needs.",
+    "An alumnus of IIT-Kanpur and London Business School, he brings a solid blend of technical acumen and business expertise to Rishabh’s global clientele across Adtech, Healthcare, Retail, Manufacturing, FinTech, and more.",
+    "Explore HealthTech Revolutionize healthcare with our Microsoft capabilities to enhance patient care, streamline operations, and ensure compliance with regulations.",
+    "Explore FinTech Get a custom-built finance solution incorporating digital capabilities with a personalized approach to reimagine BFSI and accelerate your digital maturity."
+   ],
+   "DQ_agency": [
+    "Girish Chouhan SEO Team Lead Twelve years of trust, growth, and continuous learning that define Rishabh.",
+    "Manager – Finance & Accounts In my 8-year journey with Rishabh, I’ve grown from an SEO Executive to leading the SEO team."
+   ],
+   "senior_roles": [
+    "Kashyap Patel Tech Lead Every challenge is met with collaboration; every individual is given space to lead.",
+    "Darshita Shah Tech Lead Supportive managers and a collaborative culture fuel continuous professional growth."
+   ],
+   "qa": [
+    "Later, I transitioned into the QA team, where I found my true calling."
+   ],
+   "cicd": [
+    "We have successfully assisted SMBs and enterprises in effectively managing their data, enabling data ingestion from various sources, developing enterprise data strategies, creating cloud data lakes, and building advanced data pipelines on AWS and Azure platforms.",
+    "We specialize in integrating ETL pipelines, data warehouses, BI tools, and governance processes.",
+    "Data Engineering Services To Empower Your Business with Robust Data Ecosystem From building robust data pipelines to data modernization and data lake implementation, we help organizations of all sizes unlock the true potential of data with modern data infrastructure.",
+    "Our end-to-end data pipeline development & management services ensure that your data is structured, accessible, and secure."
+   ],
+   "compliance": [
+    "We implement intelligent governance measures with tools like Unity Catalog in Databricks, ensuring data security and compliance with regulations like CCPA and GDPR.",
+    "Our techniques include secure access controls, role-based access implementation, adherence to industry standards, and regulatory compliance such as GDPR, HIPAA, or CCPA to protect sensitive information.",
+    "His leadership in implementing robust IT infrastructure and maintaining stringent compliance with ISO 9001, ISO 27001, and GDPR standards has established new benchmarks in operational excellence.",
+    "Auto-generate audit-ready certifications (GDPR, CCPA, DSA) with tracking, validation, and refreshers."
+   ],
+   "owns_product": [
+    "Our delivery models are tailored to your needs & challenges and executed using the most advanced tools & technologies, frameworks, accelerators, solutions, and strategic partnerships."
+   ],
+   "DQ_bpo": [
+    "Rishabh has diverse business interests in the areas of engineering, IT, Education, BPO, and emerging innovation-led technology businesses."
+   ],
+   "prod_eng": [
+    "Prasanth Nair AVP – Technology & Product Engineering Innovation Catalyst Transforming Data into Strategic Business Assets With over two decades of experience in analytics and digital transformation, Prasanth has a rare ability to translate complex data into business opportunities.",
+    "As he expands into Product Engineering Frameworks and Tech Audits, he’s shaping the future of how enterprises build scalable, insight-driven solutions."
+   ],
+   "DQ_template": [
+    "Configure templates and award certificates automatically."
+   ]
+  },
+  "PREVIOUS_SCORE": {
+   "score": 65,
+   "band": "Secondary",
+   "caps": [
+    "generalist-agency cap considered, not applied (SEO is in-house marketing)"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "GOLD now proven"
+  ]
+ },
+ {
+  "name": "Sathya Technosoft India Private Limited",
+  "city": "Tuticorin",
+  "domain": "sathyainfo.com",
+  "website": "https://www.sathyainfo.com",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "pages_absent": [
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20091110",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230106",
+   "snapshot_quote": "ed. Submit A Ticket × 250 more characters available. Submit Java Close Request an AMC Proposal × 250 more characters available. Submit Java Close Get",
+   "lookup_note": "REPAIRED: pre-2024 software evidence in 20230106 capture"
+  },
+  "signal_counts": {
+   "DQ_agency": 14,
+   "DQ_support": 6,
+   "compliance": 1
+  },
+  "evidence_excerpts": {
+   "DQ_agency": [
+    "Purchase Now Digital Marketing Your Business get more sales, leads, & traffic!",
+    "× Update Close Java Close × Digital Marketing Company India",
+    "Get Free Quote Digital Marketing Agency SATHYA TECHNOSOFT is the leading digital marketing agency that offers excellent services.",
+    "If you are a business owner looking to establish your business with high-end marketing and SEO services, then you have reached the right destination."
+   ],
+   "DQ_support": [
+    "Purchase Now Hardware Products Designed with Precision,Loaded with Features!",
+    "Based on the volume of database, additional hardware support and bandwidth requirements are analysed.",
+    "Submit Java Close Request an AMC Proposal × 250 more characters available.",
+    "Customer Service: Greet customers politely, confirm order details before handing over, and address any basic queries or direct them to the helpdesk."
+   ],
+   "compliance": [
+    "15+ years of hands on experience in IT Sector Team Intelligence marked as World Class Quality management certified as ISO 9001:2015 Standard Security measures certified as ISO/IEC 27001:2022 Standard Support We know the challenges you may stumble upon as you grow."
+   ]
+  },
+  "PREVIOUS_SCORE": {
+   "score": 20,
+   "band": "Skip",
+   "caps": [
+    "generalist-agency cap 30 (non-binding)"
+   ]
+  },
+  "WHAT_CHANGED": [
+   "GOLD now proven"
+  ]
+ }
+]

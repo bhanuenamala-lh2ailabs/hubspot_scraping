@@ -1,0 +1,1341 @@
+[
+ {
+  "name": "10 Decoders Consultancy Services Private Limited",
+  "city": "Chennai",
+  "domain": "10decoders.com",
+  "website": "https://10decoders.com/",
+  "final_url": "https://10decoders.com/",
+  "about_url": "https://10decoders.com/about-us",
+  "founded_year": 2015,
+  "copyright_year": 2026,
+  "self_headcount": 200,
+  "dev_signals": [
+   "bmicroservicesb",
+   "bqabquality assuranceengin",
+   "breactangularnodejsdjangol",
+   "bsdlcb",
+   "product engineering"
+  ],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [
+   "bengagement modelsb"
+  ],
+  "text_len": 25005,
+  "verdict": "software_dev",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Adamas Tech Consulting Private Limited",
+  "city": "Kolkata",
+  "domain": "adamastech.in",
+  "website": "https://adamastech.in/",
+  "final_url": "https://adamastechconsulting.com/",
+  "about_url": "https://adamastechconsulting.com/about-us",
+  "founded_year": 2021,
+  "copyright_year": 2026,
+  "self_headcount": 100,
+  "dev_signals": [
+   "application development",
+   "bawsazuregcp cloud develop",
+   "bdevopsb",
+   "bqabquality assuranceengin"
+  ],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bplatformb",
+   "bsaasb"
+  ],
+  "serv_signals": [
+   "bour servicesservice offer"
+  ],
+  "text_len": 13591,
+  "verdict": "software_dev",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Alfahive Private Limited",
+  "city": "Bengaluru",
+  "domain": "alfahive.com",
+  "website": "https://www.alfahive.com/",
+  "final_url": "https://www.alfahive.com/",
+  "about_url": "https://www.linkedin.com/company/alfahive/",
+  "founded_year": 2021,
+  "copyright_year": 2024,
+  "self_headcount": 44,
+  "dev_signals": [
+   "bqabquality assuranceengin",
+   "full- stack",
+   "software development"
+  ],
+  "notdev_signals": [
+   "bdigital marketingseo serv",
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [
+   "bfree trialbook a demorequ",
+   "bour productplatformb",
+   "bplatformb",
+   "bsaasb"
+  ],
+  "serv_signals": [
+   "bconsultingoutsourcing ser",
+   "bit servicesb"
+  ],
+  "text_len": 20205,
+  "verdict": "software_dev",
+  "prod_or_serv": "product"
+ },
+ {
+  "name": "Antier Solutions Private Limited",
+  "city": "Mohali",
+  "domain": "antiersolutions.com",
+  "website": "http://www.antiersolutions.com",
+  "error": "HTTPError",
+  "verdict": "unreachable"
+ },
+ {
+  "name": "ASE Structure Design Pvt Ltd",
+  "city": "Chennai",
+  "domain": "asecaddesign.com",
+  "website": "http://www.asecaddesign.com",
+  "final_url": "https://asecaddesign.com/",
+  "about_url": "https://asecaddesign.com/about/#certificates",
+  "founded_year": 2003,
+  "copyright_year": 2026,
+  "self_headcount": 10,
+  "dev_signals": [
+   "bqabquality assuranceengin"
+  ],
+  "notdev_signals": [],
+  "prod_signals": [],
+  "serv_signals": [
+   "bconsultingoutsourcing ser",
+   "bhirededicated developerst",
+   "bour servicesservice offer"
+  ],
+  "text_len": 21391,
+  "verdict": "ambiguous",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "Avalon Labs Private Limited",
+  "city": "Delhi",
+  "domain": "acadally.ai",
+  "website": "https://acadally.ai",
+  "final_url": "https://acadally.ai",
+  "about_url": "https://acadally.ai/about-acadally",
+  "founded_year": null,
+  "copyright_year": null,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bour productplatformb",
+   "bplatformb",
+   "bpricingb"
+  ],
+  "serv_signals": [],
+  "text_len": 13086,
+  "verdict": "ambiguous",
+  "prod_or_serv": "product"
+ },
+ {
+  "name": "Belcan India Private Limited",
+  "city": "Hyderabad",
+  "domain": "belcan.com",
+  "website": "https://belcan.com/",
+  "final_url": "https://www.belcan.com/",
+  "about_url": "https://www.cognizant.com/us/en/about-cognizant",
+  "founded_year": null,
+  "copyright_year": 2019,
+  "self_headcount": 7000,
+  "dev_signals": [
+   "full- stack",
+   "product engineering"
+  ],
+  "notdev_signals": [
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [],
+  "serv_signals": [
+   "bconsultingoutsourcing ser"
+  ],
+  "text_len": 7528,
+  "verdict": "software_dev",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "Botman Networks Private Limited",
+  "city": "Bengaluru",
+  "domain": "cleartrust.cc",
+  "website": "https://www.cleartrust.cc/",
+  "final_url": "https://www.cleartrust.cc/",
+  "about_url": "https://www.linkedin.com/company/botman-ninja/",
+  "founded_year": null,
+  "copyright_year": null,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [],
+  "prod_signals": [],
+  "serv_signals": [],
+  "text_len": 3459,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Carestream Health India Private Limited",
+  "city": "Mumbai",
+  "domain": "carestream.com",
+  "website": "https://www.carestream.com/en/us",
+  "final_url": "https://www.carestream.com/en/us/",
+  "about_url": "https://www.carestream.com/en/us/company",
+  "founded_year": null,
+  "copyright_year": null,
+  "self_headcount": 4000,
+  "dev_signals": [],
+  "notdev_signals": [
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [],
+  "serv_signals": [],
+  "text_len": 9773,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Circular Edge Solution Private Limited",
+  "city": "Chennai",
+  "domain": "circularedge.com",
+  "website": "http://www.circularedge.com",
+  "final_url": "https://www.circularedge.com/",
+  "about_url": "https://www.linkedin.com/company/circular-edge?trk=prof-exp-company-name",
+  "founded_year": 2003,
+  "copyright_year": 2025,
+  "self_headcount": 304,
+  "dev_signals": [
+   "bapis developmentintegrati",
+   "bqabquality assuranceengin",
+   "bstaff augmentationb"
+  ],
+  "notdev_signals": [
+   "bbpocall centtranscription",
+   "bdigital marketingseo serv"
+  ],
+  "prod_signals": [
+   "bsaasb"
+  ],
+  "serv_signals": [
+   "bconsultingoutsourcing ser",
+   "bit servicesb"
+  ],
+  "text_len": 23042,
+  "verdict": "software_dev",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "Colruyt Group India Private Limited",
+  "city": "Hyderabad",
+  "domain": "colruyt.in",
+  "website": "http://www.colruyt.in",
+  "final_url": "https://in.colruytgroup.com/",
+  "about_url": "https://www.linkedin.com/company/10148061/admin/feed/posts/",
+  "founded_year": null,
+  "copyright_year": 2024,
+  "self_headcount": null,
+  "dev_signals": [
+   "bqabquality assuranceengin"
+  ],
+  "notdev_signals": [],
+  "prod_signals": [],
+  "serv_signals": [
+   "bit servicesb"
+  ],
+  "text_len": 4211,
+  "verdict": "ambiguous",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "Credessentials Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "credessentials.com",
+  "website": "https://credessentials.com",
+  "final_url": "https://credessentials.com",
+  "about_url": "https://www.linkedin.com/company/credessentials",
+  "founded_year": 2021,
+  "copyright_year": 2021,
+  "self_headcount": 500,
+  "dev_signals": [],
+  "notdev_signals": [
+   "bbpocall centtranscription",
+   "bmanufacturpharmaceuticlog",
+   "bstaffingrecruitmentmanpow"
+  ],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [],
+  "text_len": 33780,
+  "verdict": "not_software",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "DataFlow Services (India) Private Limited",
+  "city": "Noida",
+  "domain": "corp.dataflowgroup.com",
+  "website": "https://corp.dataflowgroup.com/supportcontact-us/",
+  "final_url": "https://support.dataflowgroup.com/",
+  "about_url": "",
+  "founded_year": null,
+  "copyright_year": null,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [],
+  "prod_signals": [],
+  "serv_signals": [],
+  "text_len": 45,
+  "verdict": "thin_site",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Digital Aptech Private Limited",
+  "city": "Kolkata",
+  "domain": "digitalaptech.com",
+  "website": "http://www.digitalaptech.com",
+  "final_url": "https://www.digitalaptech.com/",
+  "about_url": "https://digitalaptech.com/about-us",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [
+   "application development",
+   "bapis developmentintegrati",
+   "bdevopsb",
+   "bqabquality assuranceengin",
+   "breactangularnodejsdjangol",
+   "bstaff augmentationb",
+   "custom software developmen",
+   "mobile app development",
+   "software development",
+   "web development"
+  ],
+  "notdev_signals": [
+   "bdigital marketingseo serv",
+   "bmanufacturpharmaceuticlog",
+   "bresellerauthorized partne",
+   "bstaffingrecruitmentmanpow"
+  ],
+  "prod_signals": [
+   "bplatformb",
+   "bpricingb",
+   "bsaasb"
+  ],
+  "serv_signals": [
+   "bengagement modelsb",
+   "bhirededicated developerst",
+   "bit servicesb",
+   "bour servicesservice offer"
+  ],
+  "text_len": 51938,
+  "verdict": "software_dev",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "Effivity Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "effivity.com",
+  "website": "https://www.effivity.com",
+  "final_url": "https://www.effivity.com",
+  "about_url": "",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [
+   "bqabquality assuranceengin"
+  ],
+  "notdev_signals": [
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [
+   "bfree trialbook a demorequ",
+   "bplatformb",
+   "bpricingb",
+   "bsubscriptionb"
+  ],
+  "serv_signals": [],
+  "text_len": 17013,
+  "verdict": "ambiguous",
+  "prod_or_serv": "product"
+ },
+ {
+  "name": "Epicenter Technologies Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "epicentertechnology.com",
+  "website": "http://epicentertechnology.com",
+  "final_url": "https://epicenter.tech/",
+  "about_url": "https://epicenter.tech/about/",
+  "founded_year": 2000,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [
+   "application development",
+   "bstaff augmentationb",
+   "software development"
+  ],
+  "notdev_signals": [
+   "bdigital marketingseo serv",
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [],
+  "serv_signals": [
+   "bour servicesservice offer"
+  ],
+  "text_len": 9391,
+  "verdict": "software_dev",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "EzeSoftware India Private Limited",
+  "city": "Hyderabad",
+  "domain": "ezesoft.com",
+  "website": "https://www.ezesoft.com/",
+  "error": "URLError",
+  "verdict": "unreachable"
+ },
+ {
+  "name": "FORTEIA (A brand of MTMF Global Technologies Private Limited)",
+  "city": "Pune",
+  "domain": "forteia.com",
+  "website": "https://forteia.com",
+  "final_url": "https://forteia.com",
+  "about_url": "https://medium.com/@fmourtaza/digital-sovereignty-is-no-longer-optional-what-european-cisos-need-to-understand-about-microsofts-7e74c5314ce9-",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bfree trialbook a demorequ",
+   "bplatformb"
+  ],
+  "serv_signals": [],
+  "text_len": 7509,
+  "verdict": "ambiguous",
+  "prod_or_serv": "product"
+ },
+ {
+  "name": "Genius HRTech Limited",
+  "city": "Kolkata",
+  "domain": "geniusconsultant.com",
+  "website": "http://www.geniusconsultant.com",
+  "final_url": "https://www.geniushrtech.com/",
+  "about_url": "",
+  "founded_year": 2017,
+  "copyright_year": null,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [
+   "bbpocall centtranscription",
+   "bmspmanaged printhardware ",
+   "bstaffingrecruitmentmanpow"
+  ],
+  "prod_signals": [],
+  "serv_signals": [],
+  "text_len": 13157,
+  "verdict": "not_software",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "GT US Shared Services Center India Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "gtsharedservices.co.in",
+  "website": "http://www.gtsharedservices.co.in",
+  "final_url": "https://gtindus.com/",
+  "about_url": "https://www.linkedin.com/company/grant-thornton-indus",
+  "founded_year": 2012,
+  "copyright_year": 2026,
+  "self_headcount": 2024,
+  "dev_signals": [
+   "full- stack"
+  ],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bplatformb",
+   "bpricingb"
+  ],
+  "serv_signals": [
+   "bhirededicated developerst",
+   "bour servicesservice offer"
+  ],
+  "text_len": 51474,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Hiresafe Verification Services India Private Limited",
+  "city": "Bengaluru",
+  "domain": "hiresafe.co.in",
+  "website": "http://www.hiresafe.co.in/",
+  "final_url": "https://www.hiresafe.co.in/",
+  "about_url": "",
+  "founded_year": null,
+  "copyright_year": 2025,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [],
+  "prod_signals": [],
+  "serv_signals": [],
+  "text_len": 2924,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "iLenSys Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "ilensys.com",
+  "website": "https://ilensys.com/",
+  "error": "URLError",
+  "verdict": "unreachable"
+ },
+ {
+  "name": "Information Dynamics India Private Limited",
+  "city": "Chennai",
+  "domain": "infodynamic.net",
+  "website": "http://WWW.INFODYNAMIC.NET",
+  "final_url": "https://www.infodynamic.net/",
+  "about_url": "",
+  "founded_year": 1995,
+  "copyright_year": null,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [
+   "bbpocall centtranscription",
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [
+   "bour productplatformb"
+  ],
+  "serv_signals": [
+   "bconsultingoutsourcing ser",
+   "bour servicesservice offer"
+  ],
+  "text_len": 4457,
+  "verdict": "not_software",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "Integs Cloud Technologies Private Limited",
+  "city": "Pune",
+  "domain": "integscloud.com",
+  "website": "https://www.integscloud.com",
+  "final_url": "https://integscloud.com/",
+  "about_url": "https://integscloud.com/about-us/",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [
+   "application development"
+  ],
+  "notdev_signals": [
+   "bdigital marketingseo serv"
+  ],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [
+   "bconsultingoutsourcing ser",
+   "bit servicesb"
+  ],
+  "text_len": 31314,
+  "verdict": "ambiguous",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "Ixsight Technologies Pvt Ltd",
+  "city": "Pune",
+  "domain": "ixsight.com",
+  "website": "http://www.ixsight.com",
+  "final_url": "https://ixsight.com/",
+  "about_url": "https://ixsight.com/about-us/",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": 50,
+  "dev_signals": [
+   "product engineering"
+  ],
+  "notdev_signals": [
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [
+   "bplatformb",
+   "bsaasb"
+  ],
+  "serv_signals": [],
+  "text_len": 17830,
+  "verdict": "ambiguous",
+  "prod_or_serv": "product"
+ },
+ {
+  "name": "KGISL Trust",
+  "city": "Coimbatore",
+  "domain": "microcollege.in",
+  "website": "http://microcollege.in",
+  "final_url": "https://microcollege.in/",
+  "about_url": "https://www.linkedin.com/company/kgislmicrocollege/",
+  "founded_year": 2021,
+  "copyright_year": 2025,
+  "self_headcount": 451,
+  "dev_signals": [
+   "bdevopsb",
+   "full- stack",
+   "software development",
+   "web development"
+  ],
+  "notdev_signals": [
+   "bdigital marketingseo serv"
+  ],
+  "prod_signals": [],
+  "serv_signals": [
+   "bit servicesb"
+  ],
+  "text_len": 16230,
+  "verdict": "software_dev",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "Lantronix India Private Limited",
+  "city": "Hyderabad",
+  "domain": "lantronix.com",
+  "website": "https://www.lantronix.com",
+  "final_url": "https://www.lantronix.com",
+  "about_url": "https://www.lantronix.com/about-us/",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": 250,
+  "dev_signals": [
+   "software engineering"
+  ],
+  "notdev_signals": [
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [
+   "bfree trialbook a demorequ",
+   "bplatformb"
+  ],
+  "serv_signals": [],
+  "text_len": 21115,
+  "verdict": "ambiguous",
+  "prod_or_serv": "product"
+ },
+ {
+  "name": "Lucid Infotech Private Limited",
+  "city": "Gurugram",
+  "domain": "lucidtech.com",
+  "website": "http://www.lucidtech.com",
+  "final_url": "https://www.lucidtech.com/",
+  "about_url": "",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bplatformb",
+   "bsaasb"
+  ],
+  "serv_signals": [],
+  "text_len": 4861,
+  "verdict": "ambiguous",
+  "prod_or_serv": "product"
+ },
+ {
+  "name": "Meredith India Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "timeinc.com",
+  "website": "http://www.timeinc.com",
+  "error": "timeout",
+  "verdict": "unreachable"
+ },
+ {
+  "name": "Moder Solutions India Private Limited",
+  "city": "Bengaluru",
+  "domain": "gomoder.com",
+  "website": "https://www.gomoder.com/",
+  "final_url": "https://www.gomoder.com/",
+  "about_url": "https://www.gomoder.com/about/about-moder",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [
+   "bqabquality assuranceengin"
+  ],
+  "notdev_signals": [
+   "bbpocall centtranscription",
+   "bmanufacturpharmaceuticlog",
+   "bstaffingrecruitmentmanpow"
+  ],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [],
+  "text_len": 12884,
+  "verdict": "not_software",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Nationwide Global Services Center Private Limited",
+  "city": "Hyderabad",
+  "domain": "nationwide.com",
+  "website": "https://www.nationwide.com",
+  "final_url": "https://www.nationwide.com",
+  "about_url": "https://www.nationwide.com/personal/about-us/careers/",
+  "founded_year": null,
+  "copyright_year": null,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [],
+  "serv_signals": [],
+  "text_len": 10873,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "NMT Security Innovations Private Limited",
+  "city": "Noida",
+  "domain": "nmtsecurity.com",
+  "website": "https://www.nmtsecurity.com/",
+  "final_url": "https://nmtsecurity.com/",
+  "about_url": "https://nmtsecurity.com/about",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [
+   "bdevopsb"
+  ],
+  "notdev_signals": [
+   "bdigital marketingseo serv",
+   "bresellerauthorized partne"
+  ],
+  "prod_signals": [
+   "bfree trialbook a demorequ",
+   "bplatformb",
+   "bpricingb",
+   "bsaasb"
+  ],
+  "serv_signals": [
+   "bit servicesb"
+  ],
+  "text_len": 17733,
+  "verdict": "not_software",
+  "prod_or_serv": "product"
+ },
+ {
+  "name": "One Oath Educational Research and Technologies Private Limited",
+  "city": "Kolkata",
+  "domain": "assessli.com",
+  "website": "https://www.assessli.com/",
+  "final_url": "https://www.assessli.com/",
+  "about_url": "https://www.assessli.com/aboutus",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bour productplatformb",
+   "bplatformb"
+  ],
+  "serv_signals": [
+   "bour servicesservice offer"
+  ],
+  "text_len": 8632,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Panacea Infosec Private Limited",
+  "city": "New Delhi",
+  "domain": "panaceainfosec.com",
+  "website": "https://panaceainfosec.com/",
+  "error": "URLError",
+  "verdict": "unreachable"
+ },
+ {
+  "name": "Prasarnet Consulting Services Private Limited",
+  "city": "Kolkata",
+  "domain": "prasarnet.in",
+  "website": "https://www.prasarnet.in/",
+  "error": "URLError",
+  "verdict": "unreachable"
+ },
+ {
+  "name": "PRT Software Solutions LLP",
+  "city": "Hyderabad",
+  "domain": "prtsoftwaresolutions.com",
+  "website": "https://prtsoftwaresolutions.com/",
+  "final_url": "https://prtsoftwaresolutions.com/",
+  "about_url": "",
+  "founded_year": null,
+  "copyright_year": null,
+  "self_headcount": null,
+  "dev_signals": [
+   "software development"
+  ],
+  "notdev_signals": [
+   "bstaffingrecruitmentmanpow"
+  ],
+  "prod_signals": [],
+  "serv_signals": [],
+  "text_len": 528,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "R S Software (India) Ltd",
+  "city": "Kolkata",
+  "domain": "rssoftware.com",
+  "website": "http://www.rssoftware.com",
+  "final_url": "https://www.rssoftware.com/",
+  "about_url": "http://www.rssoftware.com/home/insightdetails/x402-the-internetnative-payment-protocol-a-story-about-money-that-moves-like-chat",
+  "founded_year": null,
+  "copyright_year": 2022,
+  "self_headcount": null,
+  "dev_signals": [
+   "breactangularnodejsdjangol"
+  ],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [],
+  "text_len": 38345,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "RITWIK IT Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "ritwikinfotech.com",
+  "website": "https://www.ritwikinfotech.com/",
+  "final_url": "https://www.ritwikinfotech.com/",
+  "about_url": "https://www.linkedin.com/company/ritwik-infotech-inc/",
+  "founded_year": 2010,
+  "copyright_year": 2026,
+  "self_headcount": 69,
+  "dev_signals": [
+   "bdevopsb",
+   "bqabquality assuranceengin",
+   "breactangularnodejsdjangol",
+   "bstaff augmentationb",
+   "full- stack",
+   "software development"
+  ],
+  "notdev_signals": [
+   "bmanufacturpharmaceuticlog",
+   "bstaffingrecruitmentmanpow"
+  ],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [
+   "bconsultingoutsourcing ser",
+   "bit servicesb",
+   "bour servicesservice offer"
+  ],
+  "text_len": 26481,
+  "verdict": "software_dev",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "Sanver India Private Limited",
+  "city": "Mumbai",
+  "domain": "sanver.com",
+  "website": "https://sanver.com",
+  "final_url": "https://sanver.com",
+  "about_url": "https://sanver.com/about/",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [
+   "bawsazuregcp cloud develop"
+  ],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [
+   "bit servicesb",
+   "bour servicesservice offer"
+  ],
+  "text_len": 9392,
+  "verdict": "ambiguous",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "Shyro Health Private Limited",
+  "city": "Mumbai",
+  "domain": "shyrohealth.com",
+  "website": "https://www.shyrohealth.com",
+  "final_url": "https://www.shyrohealth.com",
+  "about_url": "https://cms.shyrohealth.com/wp-content/uploads/2025/08/Feeling-Anxious-About-a-New-Job_-Stay-Calm-and-Confident_Thumbnail.jpg",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [
+   "bqabquality assuranceengin"
+  ],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [],
+  "text_len": 73164,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Softdel Systems Private Limited",
+  "city": "Pune",
+  "domain": "softdel.com",
+  "website": "http://www.softdel.com",
+  "final_url": "https://www.softdel.com/",
+  "about_url": "https://www.softdel.com/about-softdel/",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [
+   "application development",
+   "bqabquality assuranceengin",
+   "full- stack",
+   "mobile app development",
+   "product engineering"
+  ],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [],
+  "text_len": 21733,
+  "verdict": "software_dev",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "SRR CloudExpertsGuru India Private Limited",
+  "city": "Hyderabad",
+  "domain": "cloudexpertsguru.com",
+  "website": "https://cloudexpertsguru.com/",
+  "final_url": "https://cloudexpertsguru.com/",
+  "about_url": "https://www.linkedin.com/company/srr-cloudexpertsguru-india-pvt-ltd/?originalSubdomain=in",
+  "founded_year": 2021,
+  "copyright_year": 2020,
+  "self_headcount": 18,
+  "dev_signals": [
+   "bdevopsb",
+   "full- stack",
+   "software development"
+  ],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bplatformb",
+   "bsaasb"
+  ],
+  "serv_signals": [
+   "bit servicesb",
+   "bour servicesservice offer"
+  ],
+  "text_len": 11296,
+  "verdict": "software_dev",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Synechron Technologies Pvt Ltd",
+  "city": "Pune",
+  "domain": "synechron.com",
+  "website": "http://www.synechron.com",
+  "final_url": "https://www.synechron.com/",
+  "about_url": "https://www.synechron.com/en/who-we-are",
+  "founded_year": null,
+  "copyright_year": 2001,
+  "self_headcount": null,
+  "dev_signals": [
+   "bdevopsb",
+   "software engineering"
+  ],
+  "notdev_signals": [
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [],
+  "serv_signals": [
+   "bhirededicated developerst"
+  ],
+  "text_len": 11370,
+  "verdict": "software_dev",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "TEKsystems Global Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "teksystems.com",
+  "website": "http://www.teksystems.com",
+  "final_url": "https://www.teksystems.com/",
+  "about_url": "https://www.teksystems.com/en/who-we-are/partnerships",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [
+   "bdevopsb",
+   "full- stack"
+  ],
+  "notdev_signals": [
+   "bmspmanaged printhardware ",
+   "bstaffingrecruitmentmanpow"
+  ],
+  "prod_signals": [],
+  "serv_signals": [
+   "bour servicesservice offer"
+  ],
+  "text_len": 11073,
+  "verdict": "software_dev",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "TomTom India Pvt Ltd",
+  "city": "Pune",
+  "domain": "tomtom.com",
+  "website": "http://www.tomtom.com",
+  "final_url": "https://www.tomtom.com/",
+  "about_url": "https://www.linkedin.com/company/tomtom",
+  "founded_year": 1991,
+  "copyright_year": 2026,
+  "self_headcount": 4974,
+  "dev_signals": [
+   "bqabquality assuranceengin",
+   "full- stack",
+   "software development",
+   "software engineering"
+  ],
+  "notdev_signals": [
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [
+   "bour productplatformb",
+   "bplatformb",
+   "bpricingb"
+  ],
+  "serv_signals": [
+   "bit servicesb"
+  ],
+  "text_len": 17143,
+  "verdict": "software_dev",
+  "prod_or_serv": "product"
+ },
+ {
+  "name": "Twinings Private Limited",
+  "city": "Kolkata",
+  "domain": "twiningsindia.com",
+  "website": "https://www.twiningsindia.com",
+  "final_url": "https://twiningsindia.com/",
+  "about_url": "https://twiningsindia.myshopify.com/pages/about-twinings-india_june_25",
+  "founded_year": null,
+  "copyright_year": 2025,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [],
+  "prod_signals": [],
+  "serv_signals": [],
+  "text_len": 14590,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Varutra Consulting Private Limited",
+  "city": "Pune",
+  "domain": "varutra.com",
+  "website": "http://www.varutra.com",
+  "final_url": "https://www.varutra.com/",
+  "about_url": "https://varutra.com/company-news/",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [
+   "software development"
+  ],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [],
+  "text_len": 14069,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Virupaksha Cylabs Private Limited",
+  "city": "Mumbai",
+  "domain": "threatwatch360.com",
+  "website": "https://threatwatch360.com/",
+  "final_url": "https://threatwatch360.com/",
+  "about_url": "",
+  "founded_year": null,
+  "copyright_year": null,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [],
+  "prod_signals": [],
+  "serv_signals": [],
+  "text_len": 177,
+  "verdict": "thin_site",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Wipfli India LLP",
+  "city": "Bengaluru",
+  "domain": "spiderlogic.com",
+  "website": "http://www.spiderlogic.com",
+  "error": "HTTPError",
+  "verdict": "unreachable"
+ },
+ {
+  "name": "Yokogawa Technology Solutions India Private Limited",
+  "city": "Bengaluru",
+  "domain": "yokogawa.com",
+  "website": "http://www.yokogawa.com",
+  "final_url": "https://www.yokogawa.com/",
+  "about_url": "",
+  "founded_year": null,
+  "copyright_year": null,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [],
+  "prod_signals": [],
+  "serv_signals": [],
+  "text_len": 1,
+  "verdict": "thin_site",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Aheadrace Software Development Services Private Limited",
+  "city": "Secunderabad",
+  "domain": "aheadrace.com",
+  "website": "http://www.aheadrace.com",
+  "final_url": "https://www.aheadrace.com/",
+  "about_url": "",
+  "founded_year": null,
+  "copyright_year": 2022,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [],
+  "text_len": 2748,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Bookingjini Labs.Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "bookingjini.com",
+  "website": "https://www.bookingjini.com",
+  "final_url": "https://bookingjini.com/",
+  "about_url": "https://bookingjini.com/about-us/",
+  "founded_year": null,
+  "copyright_year": 2025,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [],
+  "text_len": 8844,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "CyberSRC Consultancy Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "cybersrcc.com",
+  "website": "http://www.cybersrcc.com/",
+  "error": "HTTPError",
+  "final_url": "https://www.cybersrcc.com/",
+  "about_url": "https://www.cybersrcc.com/about",
+  "founded_year": null,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [
+   "bqabquality assuranceengin"
+  ],
+  "notdev_signals": [
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [
+   "bfree trialbook a demorequ",
+   "bplatformb",
+   "bsaasb"
+  ],
+  "serv_signals": [
+   "bconsultingoutsourcing ser",
+   "bit servicesb",
+   "bour servicesservice offer"
+  ],
+  "text_len": 72898,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Extrapolix Technologies Private Limited",
+  "city": "Cuttack",
+  "domain": "extrapolix.com",
+  "website": "https://extrapolix.com/",
+  "final_url": "https://extrapolix.com/",
+  "about_url": "https://extrapolix.com/company/about-us/",
+  "founded_year": 1990,
+  "copyright_year": 2026,
+  "self_headcount": null,
+  "dev_signals": [
+   "application development"
+  ],
+  "notdev_signals": [
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [],
+  "text_len": 10227,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "Incrementum Healthcare Private Limited",
+  "city": "Thane",
+  "domain": "incrementumhealthcare.com",
+  "website": "https://incrementumhealthcare.com/",
+  "final_url": "https://incrementumhealthcare.com/",
+  "about_url": "",
+  "founded_year": null,
+  "copyright_year": null,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [],
+  "prod_signals": [],
+  "serv_signals": [],
+  "text_len": 78,
+  "verdict": "thin_site",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "LowLightKing Productions Private Limited",
+  "city": "Kochi",
+  "domain": "lowlightking.com",
+  "website": "https://lowlightking.com/",
+  "final_url": "https://lowlightking.com/",
+  "about_url": "https://lowlightking.com/services/company-profile-video/",
+  "founded_year": null,
+  "copyright_year": null,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [
+   "bstaffingrecruitmentmanpow"
+  ],
+  "prod_signals": [
+   "bour productplatformb",
+   "bpricingb",
+   "bsaasb"
+  ],
+  "serv_signals": [],
+  "text_len": 10119,
+  "verdict": "ambiguous",
+  "prod_or_serv": "product"
+ },
+ {
+  "name": "NuCore Software Solutions Pvt Ltd",
+  "city": "Calicut",
+  "domain": "nucore.in",
+  "website": "https://www.nucore.in",
+  "final_url": "https://www.nucore.in",
+  "about_url": "https://www.nucore.in/about-nucore/",
+  "founded_year": null,
+  "copyright_year": 2024,
+  "self_headcount": null,
+  "dev_signals": [
+   "application development"
+  ],
+  "notdev_signals": [
+   "bresellerauthorized partne"
+  ],
+  "prod_signals": [
+   "bplatformb"
+  ],
+  "serv_signals": [],
+  "text_len": 24035,
+  "verdict": "ambiguous",
+  "prod_or_serv": "mixed"
+ },
+ {
+  "name": "QR Solutions (India) Private Limited",
+  "city": "Trichy",
+  "domain": "qrsolutions.in",
+  "website": "http://www.qrsolutions.in",
+  "final_url": "http://qrsolutions.in/",
+  "about_url": "http://qrsolutions.in/about_us/",
+  "founded_year": null,
+  "copyright_year": 2024,
+  "self_headcount": null,
+  "dev_signals": [
+   "application development",
+   "bapis developmentintegrati",
+   "bstaff augmentationb"
+  ],
+  "notdev_signals": [
+   "bmanufacturpharmaceuticlog"
+  ],
+  "prod_signals": [
+   "bplatformb",
+   "bpricingb"
+  ],
+  "serv_signals": [
+   "bconsultingoutsourcing ser",
+   "bit servicesb",
+   "bour servicesservice offer"
+  ],
+  "text_len": 23245,
+  "verdict": "software_dev",
+  "prod_or_serv": "service"
+ },
+ {
+  "name": "Siddha Development Research and Consultancy Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "sdrc.co.in",
+  "website": "http://www.sdrc.co.in",
+  "error": "HTTPError",
+  "verdict": "unreachable"
+ },
+ {
+  "name": "TalentOnLease Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "talentonlease.com",
+  "website": "https://talentonlease.com/",
+  "final_url": "https://talentonlease.com/",
+  "about_url": "",
+  "founded_year": null,
+  "copyright_year": null,
+  "self_headcount": null,
+  "dev_signals": [],
+  "notdev_signals": [],
+  "prod_signals": [],
+  "serv_signals": [],
+  "text_len": 1,
+  "verdict": "thin_site",
+  "prod_or_serv": "mixed"
+ }
+]

@@ -1,0 +1,389 @@
+{
+ "created": [],
+ "assoc": [
+  [
+   "A360PL",
+   "333409410795"
+  ],
+  [
+   "Cruzata",
+   "334453529310"
+  ]
+ ],
+ "existed": [
+  "A360PL",
+  "Cruzata"
+ ],
+ "errs": [
+  [
+   "Logicloom",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Scaletech",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Doorhopper",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Playlyfe",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "EasyCommute",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Techweirdo",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Backspacce Technologies",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Riyalto",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Cloudberry",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Ontic Consulting",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Mobibeans Solution",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Endeavour Digital",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "QuadB Tech",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Backspace Technologies",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "WebCodeGenie",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Schrout Software",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "CAZ BRAIN",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "DataHiveLabs",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Tensor Thoughts",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Alan",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "TechMonkey",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Crio.Do",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Skill Lync",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Codeground",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ],
+  [
+   "Techweirdo",
+   "create",
+   "{'raw': '{\"status\":\"error\",\"message\":\"Property values were not valid: [{\\\\\"isValid\\\\\":false,\\\\\"message\\\\\":\\\\\"Property \\\\"
+  ]
+ ],
+ "recs": [
+  {
+   "deal": "A360PL",
+   "id": "337064724197",
+   "scraped_type": "ITservices",
+   "company": "A360PL",
+   "domain": "a360pl.com",
+   "city": "",
+   "verify": "reachable"
+  },
+  {
+   "deal": "Logicloom",
+   "id": "339233319624",
+   "scraped_type": "ITservices",
+   "company": "Logicloom",
+   "domain": "logicloom.in",
+   "city": "",
+   "verify": "reachable(alt)"
+  },
+  {
+   "deal": "Scaletech",
+   "id": "339217119936",
+   "scraped_type": "ITservices",
+   "company": "Scaletech",
+   "domain": "",
+   "city": "",
+   "verify": ""
+  },
+  {
+   "deal": "Doorhopper",
+   "id": "339217120954",
+   "scraped_type": "Distressed startups",
+   "company": "Doorhopper",
+   "domain": "doorhopper.com",
+   "city": "",
+   "verify": "reachable"
+  },
+  {
+   "deal": "Playlyfe",
+   "id": "338985803478",
+   "scraped_type": "Distressed startups",
+   "company": "Playlyfe",
+   "domain": "playlyfe.com",
+   "city": "Bangalore",
+   "verify": "verified"
+  },
+  {
+   "deal": "EasyCommute",
+   "id": "339213519555",
+   "scraped_type": "Distressed startups",
+   "company": "EasyCommute",
+   "domain": "easycommute.com",
+   "city": "",
+   "verify": "reachable(alt)"
+  },
+  {
+   "deal": "Techweirdo 1",
+   "id": "338931764985",
+   "scraped_type": "ITservices",
+   "company": "Techweirdo",
+   "domain": "techweirdo.com",
+   "city": "",
+   "verify": "reachable"
+  },
+  {
+   "deal": "Backspacce Technologies",
+   "id": "337063328497",
+   "scraped_type": "ITservices",
+   "company": "Backspacce Technologies",
+   "domain": "backspacce.com",
+   "city": "",
+   "verify": "verified"
+  },
+  {
+   "deal": "S - Riyalto - 2",
+   "id": "337062579960",
+   "scraped_type": "Distressed startups",
+   "company": "Riyalto",
+   "domain": "riyalto.com",
+   "city": "",
+   "verify": "unverified"
+  },
+  {
+   "deal": "Cloudberry",
+   "id": "337281021633",
+   "scraped_type": "ITservices",
+   "company": "Cloudberry",
+   "domain": "cloudberry.io",
+   "city": "",
+   "verify": "verified"
+  },
+  {
+   "deal": "Cruzata",
+   "id": "337065518822",
+   "scraped_type": "ITservices",
+   "company": "Cruzata",
+   "domain": "cruzata.com",
+   "city": "",
+   "verify": "verified"
+  },
+  {
+   "deal": "Ontic Consulting",
+   "id": "338192755407",
+   "scraped_type": "ITservices",
+   "company": "Ontic Consulting",
+   "domain": "onticconsulting.com",
+   "city": "",
+   "verify": "verified"
+  },
+  {
+   "deal": "Mobibeans Solution Pvt Ltd.",
+   "id": "338570428118",
+   "scraped_type": "Distressed startups",
+   "company": "Mobibeans Solution",
+   "domain": "mobibeans.com",
+   "city": "",
+   "verify": "unverified"
+  },
+  {
+   "deal": "Endeavour Digital",
+   "id": "339227920060",
+   "scraped_type": "ITservices",
+   "company": "Endeavour Digital",
+   "domain": "endeavourdigital.in",
+   "city": "",
+   "verify": "reachable(alt)"
+  },
+  {
+   "deal": "QuadB Tech",
+   "id": "339024151284",
+   "scraped_type": "ITservices",
+   "company": "QuadB Tech",
+   "domain": "quadb.com",
+   "city": "",
+   "verify": "reachable"
+  },
+  {
+   "deal": "Backspace Technologies 2",
+   "id": "339175954154",
+   "scraped_type": "ITservices",
+   "company": "Backspace Technologies",
+   "domain": "backspacetechnologies.com",
+   "city": "",
+   "verify": "reachable"
+  },
+  {
+   "deal": "WebCodeGenie",
+   "id": "339022363383",
+   "scraped_type": "ITservices",
+   "company": "WebCodeGenie",
+   "domain": "webcodegenie.com",
+   "city": "",
+   "verify": "verified"
+  },
+  {
+   "deal": "Schrout Software",
+   "id": "339175954123",
+   "scraped_type": "ITservices",
+   "company": "Schrout Software",
+   "domain": "schrout.com",
+   "city": "",
+   "verify": "unverified"
+  },
+  {
+   "deal": "CAZ BRAIN",
+   "id": "337064725200",
+   "scraped_type": "ITservices",
+   "company": "CAZ BRAIN",
+   "domain": "cazbrain.com",
+   "city": "",
+   "verify": "verified"
+  },
+  {
+   "deal": "DataHiveLabs",
+   "id": "339024152257",
+   "scraped_type": "Distressed startups",
+   "company": "DataHiveLabs",
+   "domain": "datahivelabs.com",
+   "city": "",
+   "verify": "unverified"
+  },
+  {
+   "deal": "Tensor Thoughts",
+   "id": "338985803486",
+   "scraped_type": "ITservices",
+   "company": "Tensor Thoughts",
+   "domain": "tensorthoughts.com",
+   "city": "",
+   "verify": "verified"
+  },
+  {
+   "deal": "Alan (YC US connect)",
+   "id": "338957219532",
+   "scraped_type": "ITservices",
+   "company": "Alan",
+   "domain": "alan.com",
+   "city": "",
+   "verify": "reachable"
+  },
+  {
+   "deal": "TechMonkey",
+   "id": "337064049386",
+   "scraped_type": "Distressed startups",
+   "company": "TechMonkey",
+   "domain": "techmonkey.io",
+   "city": "",
+   "verify": "verified"
+  },
+  {
+   "deal": "Crio.Do",
+   "id": "338898921193",
+   "scraped_type": "Distressed startups",
+   "company": "Crio.Do",
+   "domain": "crio.do",
+   "city": "",
+   "verify": "verified"
+  },
+  {
+   "deal": "Skill Lync",
+   "id": "338917325528",
+   "scraped_type": "Distressed startups",
+   "company": "Skill Lync",
+   "domain": "skilllync.co",
+   "city": "Bangalore",
+   "verify": "reachable(alt)"
+  },
+  {
+   "deal": "Codeground",
+   "id": "339179410111",
+   "scraped_type": "Distressed startups",
+   "company": "Codeground",
+   "domain": "codeground.com",
+   "city": "",
+   "verify": "reachable(alt)"
+  },
+  {
+   "deal": "Techweirdo 2",
+   "id": "338959140579",
+   "scraped_type": "ITservices",
+   "company": "Techweirdo",
+   "domain": "techweirdo.com",
+   "city": "",
+   "verify": "reachable"
+  }
+ ]
+}

@@ -1,0 +1,794 @@
+[
+ {
+  "name": "Paychex IT Solutions India Private Limited",
+  "city": "Bengaluru",
+  "domain": "paychexcareers.in",
+  "website": "https://www.paychexcareers.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2020-07-16",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 145071,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "owns_product": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "(NASDAQ: PAYX) is a leading provider of integrated human capital management solutions for payroll, benefits, human resources, and insurance services.",
+    "In 1983, Paychex went public and began trading on the NASDAQ Stock Market."
+   ],
+   "owns_product": [
+    "We drive innovation in our products and services and continually improve our processes."
+   ],
+   "sdlc": [
+    "We drive innovation in our products and services and continually improve our processes."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "PayPal India Private Limited",
+  "city": "Chennai",
+  "domain": "paypal.com",
+  "website": "https://www.paypal.com/in/home",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-07-15",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "PayU Payments Private Limited",
+  "city": "Mumbai",
+  "domain": "payu.in",
+  "website": "https://payu.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2010-05-07",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 9595,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Make in-store payments & doorstep collections digital PayU Vista Get improved financial access through a host of customized virtual banking accounts and credit solutions PayU Startup Program Your go-to partner from startup to stardom!",
+    "PayU enables businesses to collect online & offline payments across 150+ payment modes such as Credit Cards, Debit Cards, Net Banking, EMIs, BNPL, QR, UPI, Wallets and more.",
+    "A payment gateway helps businesses accept payments through UPI, cards, net banking, wallets and payment links…."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "PB Fintech Limited",
+  "city": "Gurugram",
+  "domain": "pbfintech.in",
+  "website": "https://www.pbfintech.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "sdlc": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "We seek to increase transparency for consumers Through our consumer-centric approach, we seek to enable online research-based purchases of insurance and lending products.",
+    "In Fiscal 2020, Policybazaar was India’s largest digital insurance marketplace among all online insurance distributors with 93.4% market share based on number of policies sold.",
+    "Furthermore, in Fiscal 2020, Policybazaar constituted 65.3% of all digital insurance sales in India by number of policies sold (including online sales done directly by insurance companies and by insurance distributors).",
+    "Paisabazaar is also widely used to access credit scores What sets us apart 01 Strong, consumer friendly brands We offer wide choice, transparency and the ability for Consumers to research and access insurance and personal credit products offered by our Insurer and Lending Partners."
+   ],
+   "sdlc": [
+    "02 Our Proprietary Technology, Data and Intelligence Stack Our proprietary technology stack helps us design user-friendly Consumer journeys across all of our processes by automating various aspects across the product value chain We also leverage technology to provide high quality consumer service."
+   ],
+   "owns_product": [
+    "The consumer acquisition cost for our Insurer and Lending Partners is one of the lowest through our platforms 05 Asset light capital strategy We have an asset-light capital strategy and do not underwrite any insurance or retain any credit risk on our books."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "PC Island Services",
+  "city": "Kolkata",
+  "domain": "computersonhire.com",
+  "website": "https://computersonhire.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 17099,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 2,
+   "sdlc": 2,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "We're a prominent organization specializing in computer, projector, and printer rentals, offering top-notch networking solutions to our clients.",
+    "Excellent hardware and very prompt support."
+   ],
+   "sdlc": [
+    "Farhan Shaikh Rented 30 laptops for a design sprint.",
+    "Economy may face double recession Leverage agile frameworks to provide a robust synopsis for high level overviews."
+   ],
+   "DQ_training": [
+    "Ravi Narayanan (Madurai) We rent regularly for our coaching institute — always clean devices, no delays, and quick replacements if needed."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Peoplefy InfoSolutions Private Limited",
+  "city": "Pune",
+  "domain": "peoplefy.com",
+  "website": "https://www.peoplefy.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "s We Serve Job Seeker Job Seeker Current Openings Resources Case Studies Blogs & News Letters Contact Us We Simplify Your Hiring Needs Discover More T"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1443,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "2026 Managed by Peoplefy Infosolutions Private Limited Subscribe to our newsletters* Send Message --> --> --> Placement consultancy in India"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "PepsiCo India Capability Center LLP",
+  "city": "Hyderabad",
+  "domain": "pepsico.com",
+  "website": "https://www.pepsico.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 150282,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ur Brands 1-Atoms/icons/close@3x Our Brands Creating Smiles Our Products Our Nutrition Story PepsiCo Smart Label 1-Atoms/icons/minus/black Copy@3x Pep"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 6509,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 4
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Explore our brands Our Brands Brands Product Locator Snacks.com Joy Rewards Nutrition Our Nutrition Journey PepsiCo Health & Nutrition Sciences PepsiCo Smart Label PepsiCo Product Facts Partners Explore how we work together to innovate, create value, & shape tomorrow."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Persistent Systems Ltd",
+  "city": "Pune",
+  "domain": "persistent.com",
+  "website": "https://validate.perfdrive.com/?ssa=d6d40efe-a50e-47be-a321-9a92552c0ed6&ssb=90915282137&ssc=https%3A%2F%2Fwww.persistent.com%2F&ssi=2206ea5e-d452-4b30-bebf-59aa975010aa&ssk=botmanager_support@radware.com&ssm=33399305644677634105634257088784&ssn=ab68e2569a8c5adca2c1362cf23c619dfd563991bf1b-1b26-4466-ad442b&sso=19ae3290-894072a7cbd5312c9eddfbac30faa925c3557477eb6789bc&ssp=42529038211786530500178657580379200&ssq=79185123050905601235930509311739294421978&ssr=MTQuMTk1LjEwLjI1NA==&sst=Mozilla/5.0%20(Macintosh;%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/126.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAzOTkxYmYxYi0xYjI2LTQ0NjYtYTI5MC04OTQwNzJhN2NiZDUxLTE3ODY1MzA1MDkyNTEwLTAwNGQ1ODZjY2Y0YTcyY2NmNTQxMCJ9",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "rvices View All Services Digital Strategy & Design Software Product Engineering CX Transformation Intelligent Automation Application Development & Man"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 104,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Pinnacle Infotech Solutions",
+  "city": "Kolkata",
+  "domain": "pinnaclecad.com",
+  "website": "https://pinnacleinfotech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 83504,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Polaris India Private Limited",
+  "city": "Bengaluru",
+  "domain": "indiapolaris.com",
+  "website": "https://www.indiapolaris.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Polo Queen Industrial and Fintech Ltd",
+  "city": "Mumbai",
+  "domain": "poloqueen.com",
+  "website": "https://www.poloqueen.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Precision Infomatic (Madras) Pvt Ltd",
+  "city": "Chennai",
+  "domain": "precisionit.co.in",
+  "website": "https://www.precisionit.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "gs Services Innovation InnaIT Framework Resources Resources Case Studies Blog Downloads Case Studies Blog Downloads Newsroom Newsroom Accolades News N"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 6301,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "owns_product": 1,
+   "DQ_support": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "HOW EHR IS A GAME CHANGER FOR THE HEALTHCARE INDUSTRY 09-March-2023 Electronic Health Records (EHR) have revolutionized the healthcare industry by digitizing patient information and streamlining the care delivery process.",
+    "However, with the increasing demand for more advanced features and scalability, many healthcare providers are opting for cloud-based EHR solutions."
+   ],
+   "owns_product": [
+    "01-July-2016 If you are leading a small or medium enterprise business, you might have had these comments from your team: “System performance problems are affecting our productivity” “Can we get more out of the IT assets we own?” “How can our technology help us execute..."
+   ],
+   "DQ_support": [
+    "Because it is an on demand service, a startup avoids the high cost of investing in on-premises servers, hardware components and the physical infrastructure."
+   ],
+   "senior_roles": [
+    "Precision’s team of Certified Pre-Sales experts and Solution Architects, with their extensive knowledge & experience, empowers organizations with comprehensive, end-to-end consulting services that reduces IT redundancy costs and enables process standardization with improved automation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Predictive Analytics Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "predictiveanalytics.in",
+  "website": "https://www.predictiveanalytics.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "ith R 19 - 20, August, 2017 News & Updates October 24, 2017 Python vs. R: When to use which? Python is a general programming language. It can be used"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Explore our Products NVivo XLStat STATCRAFT Eviews SmartPLS Contact Statistics made simple for learners, teachers, and researchers."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Premier Consultancy And Investigation Private Limited",
+  "city": "Delhi",
+  "domain": "premier-consultancy.com",
+  "website": "https://premier-consultancy.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 10,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "HEALTHCARE In the healthcare sector, where precision is paramount, PCIL offers robust background verification to ensure the safety and integrity of your medical professionals working with Top healthcare providers in Asia pacific.",
+    "BANKING & FINANCE In the banking and finance industry, where trust is non-negotiable, PCIL offers comprehensive background checks to safeguard your institution including merchant & AML / KYC.",
+    "27 December 2024 by Marcom, in Case Study Large-Scale Insurance Fraud Investigations of saving fraud claims loss of USD $2,898,795.18 Subject: Commissioned by a global insurance firm on the authenticity of transact...",
+    "READ MORE + 01 February 2024 by Executive, in Case Study Enhancing Background Checks for a Leading Healthcare and Testing Enterprise"
+   ],
+   "sdlc": [
+    "We analyze your processes, identify significant environmental aspects, and develop strategies to reduce negative impacts."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Prevaj Consultants Private Limited",
+  "city": "Chennai",
+  "domain": "prevajconsultants.com",
+  "website": "https://prevaj.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2007-06-25",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 3,
+   "qa": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Offshore AI & Product Engineering Partner for US, UK & Canada Prevaj",
+    "Offshore AI & Product Engineering Partner for US, UK & Canada Home About Services Technologies Industries Clients Insights Contact Book a Free Consultation Build.",
+    "PRODUCT ENGINEERING AND DEVELOPMENT PRODUCT ENGINEERING AND DEVELOPMENT We specialize in crafting cutting-edge solutions that transcend industry standards."
+   ],
+   "qa": [
+    "We help high-growth and enterprise businesses scale engineering across product, QA, cloud, data, and AI through long-term engineering partnerships.",
+    "We bring together engineering expertise across AI, Cloud, Data, Quality Engineering, and Digital Platforms to solve complex business challenges and deliver measurable outcomes."
+   ],
+   "enterprise": [
+    "Get a Consultation Home Woocommerce services Search Services × « » Industries Construction Industry Education Insurance & Financial Services Legal Manufacturing Marketing and Advertising Pharma & Healthcare Retail eCommerce Software and IT Telecom Services eCommerce eCommerce Welcome to the future of online shopping!"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "PricewaterhouseCoopers Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "pwc.com",
+  "website": "https://www.pwc.com/gx/en.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 79730,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Learn more Engine by Starling: From launching a bank to launching a software business PwC UK and Starling Bank are revolutionising the banking industry by offering Starling’s digital platform, Engine, to banks around the world."
+   ],
+   "owns_product": [
+    "We deliver industry-specific cloud solutions tailored to your platform of choice."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Prilities Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "verifynow.in",
+  "website": "https://verifynow.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Prismatic Softwares Private Limited",
+  "city": "Pune",
+  "domain": "prissoft.net",
+  "website": "https://prissoft.net",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Read more Our Domain Expertise HEALTHCARE We develop software that enhances clinical workflows, streamlines patient information management, and facilitates seamless communication between healthcare professionals.",
+    "Know More BANKING / FINANCE Our expertise encompasses robust banking software, secure payment gateways, real-time transaction processing, fraud detection, and risk management."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Privafy Technologies India Private Limited",
+  "city": "Bengaluru",
+  "domain": "privafy.com",
+  "website": "https://www.privafy.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Adds Privafy’s Zero-Trust Cloud Security Services to their Portfolio Contact Sales Login Search Submit Search Why Privafy? Product Tech Overview Clou"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 5575,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Learn More EVP of Engineering and Founder Sundar Rangamani Sundar Rangamani has nearly three decades worth of experience bringing innovative technologies from conception to..."
+   ],
+   "enterprise": [
+    "Veea’s solutions are establishing new capabilities, performance levels, and value across multiple industries, including SMB/SME, retail, advertising/digital signage, education, healthcare, hospitality, and many others using IoT, 4G, Mesh Wi-Fi, AR/VR and AI technologies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Progience Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "progience.com",
+  "website": "https://progience.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 1,
+   "qa": 3,
+   "owns_product": 2,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Digital Engineering What We Do: We combine cutting-edge technology, engineering excellence, deep domain expertise, and innovation to drive the digital transformation of our clients’ processes and products."
+   ],
+   "qa": [
+    "Testing Services What We Do: We align our QA and Testing Services with the latest digital trends, ensuring fast releases without sacrificing quality.",
+    "Our offerings include manual testing, test automation, and advanced quality control solutions, tailored to meet the ever-evolving demands of the digital landscape.",
+    "Melissa Bennett Product Manager Testing Services - I have been involved with Progience in both the manual execution and automated test creation/execution sides of their business."
+   ],
+   "owns_product": [
+    "Who Should Look for Help: If you're looking to accelerate your product development cycle while maintaining top-notch quality , our testing services are ideal for you.",
+    "With their diligent and timely work, we continue to be able to bring on more customers and are now positioned to become a major player in the market for our product."
+   ],
+   "DQ_training": [
+    "Paul Tracy Quality Manager Application Services - While no longer in active development, we needed a team of software engineers to maintain a very old legacy application while its replacement was being completed.",
+    "Despite aging and brittle code, the Progience developers were able to troubleshoot issues and offer patches and workarounds, keeping our customers' data safe while waiting for the replacement application."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

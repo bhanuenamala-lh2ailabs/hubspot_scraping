@@ -1,0 +1,289 @@
+[
+  {
+    "name": "AlgoSoft Technologies Limited",
+    "domain": "algosoftltd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "+880 1831-925544",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Template text: 'Tecnologia journey began in 1995 ... John Salivan and Kris Klopperman'",
+    "others": []
+  },
+  {
+    "name": "Bdtask Limited",
+    "domain": "bdtask.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Only testimonials: 'Methi Gomes Owner / CTO', 'Mr.Denis Owner / CEO'",
+    "others": []
+  },
+  {
+    "name": "Beyond Innovations & Technologies Limited",
+    "domain": "beyondtechbd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "'Shane Foss Founder & CEO at Hooray Health' - testimonial from another company",
+    "others": []
+  },
+  {
+    "name": "Build Your Vision",
+    "domain": "byvbd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "No person named anywhere in the about/company text",
+    "others": []
+  },
+  {
+    "name": "CodeFortify",
+    "domain": "codefortify.cloud",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "+8801719441978",
+    "email": "CONTACT@CODEFORTIFY.CLOUD",
+    "confidence": "low",
+    "evidence": "About page describes 'The Collective' team but names no individual",
+    "others": []
+  },
+  {
+    "name": "Codonyx",
+    "domain": "codonyx.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About Us text names no individual leader",
+    "others": []
+  },
+  {
+    "name": "Core Devs Limited",
+    "domain": "coredevsltd.com",
+    "person": "Mahbub Shuvo",
+    "title": "Founder & CEO",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Mahbub Shuvo Founder & CEO ... Mahbub Shuvo CEO at Core Devs ltd",
+    "others": [
+      {
+        "person": "Faojia Fariha",
+        "title": "Managing Director",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Dcastalia Limited",
+    "domain": "dcastalia.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About/values/vision text contains no personal names",
+    "others": []
+  },
+  {
+    "name": "Dhrubok Infotech Services Ltd.",
+    "domain": "dhrubokinfotech.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About Dhrubok text gives founding year 2013 but no names",
+    "others": []
+  },
+  {
+    "name": "ERA-InfoTech Limited",
+    "domain": "erainfotechbd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Awards and product text only; no leadership names present",
+    "others": []
+  },
+  {
+    "name": "Genie InfoTech",
+    "domain": "genieinfo.tech",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "'Founder Limadi - Denmark' is an unnamed client testimonial, not Genie staff",
+    "others": []
+  },
+  {
+    "name": "IBCS-PRiMAX",
+    "domain": "ibcs-primax.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Only truncated client quotes: '-Md.' and '-said Khandker Md.'",
+    "others": []
+  },
+  {
+    "name": "Inovetix",
+    "domain": "inovetix.com",
+    "person": "Shabbir Chowdhury",
+    "title": "Managing Partner",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Shabbir Chowdhury Managing Partner ... shapes corporate strategy ... at Inovetix",
+    "others": [
+      {
+        "person": "Rafsun Chowdhury",
+        "title": "Software Engineering Director",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Intellier Limited",
+    "domain": "intellier.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Abdullah Hil Rakib is 'managing director of Team Group', the parent, not Intellier",
+    "others": []
+  },
+  {
+    "name": "Intelligent Systems and Solutions Ltd",
+    "domain": "intelligentsystemsltd.com",
+    "person": "Nazifa Tabassum",
+    "title": "Chairman",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "medium",
+    "evidence": "Meet Our Team: Nazifa Tabassum Chairman; no CEO/MD/founder listed on site",
+    "others": [
+      {
+        "person": "Abdul Hamid",
+        "title": "Chief Operating Officer",
+        "linkedin": ""
+      },
+      {
+        "person": "Kawser Hamid",
+        "title": "Chief Technology Officer",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Intellis Idea",
+    "domain": "intellisidea.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Our Story text is first-person plural; no individual named",
+    "others": []
+  },
+  {
+    "name": "Legitforce",
+    "domain": "legitforce.dev",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Services and process copy only; no personal names",
+    "others": []
+  },
+  {
+    "name": "Leznit Software",
+    "domain": "leznit.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About page names no individual; only generic team copy",
+    "others": []
+  },
+  {
+    "name": "MechanixLab",
+    "domain": "mechanixlab.net",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Product/feature documentation only; no leadership names",
+    "others": []
+  },
+  {
+    "name": "Mondaysys",
+    "domain": "mondaysys.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Only client testimonials: 'Elena Petrova CTO, NovaPay', 'Michael Tan Product Director, SnapList'",
+    "others": []
+  },
+  {
+    "name": "Noor Hikmah Ltd.",
+    "domain": "noorhikmah.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About Noor Hikmah Ltd. describes the company only; no names",
+    "others": []
+  },
+  {
+    "name": "Oblivion Solutions Limited",
+    "domain": "oblivionsolutions.net",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About Us, mission, vision and values text; no personal names",
+    "others": []
+  }
+]

@@ -1,0 +1,878 @@
+[
+ {
+  "name": "Cloudflare Capability Center (India) Private Limited",
+  "city": "Bengaluru",
+  "domain": "cloudflare.com",
+  "website": "https://www.cloudflare.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "e Internet. Trusted by millions of Internet properties View case studies Get started free in just 5 minutes. Try Cloudflare today. Get Started Contact"
+  },
+  "jd": {
+   "pages_read": 19,
+   "external_job_boards": [],
+   "jd_chars": 120589,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1,
+   "enterprise": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Smart Placement moves your Worker closer to your data for optimized end-to-end latency."
+   ],
+   "enterprise": [
+    "Cloudflare powers 45% of the Fortune 500 Trusted by the teams you trust.",
+    "Employee benefits We offer a comprehensive benefits package including healthcare, life insurance, short- and long-term disability, pension plans in accordance with the market practice in our locations."
+   ],
+   "owns_product": [
+    "Embrace diversity Value different perspectives and experiences to make Cloudflare and our products better."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "CloudKaptan Consultancy Services Pvt Ltd",
+  "city": "Kolkata",
+  "domain": "cloudkaptan.com",
+  "website": "https://www.cloudkaptan.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ling Customers with Salesforce Platform (force.com)” Custom Application Development Product Development Implementation and Support of Salesforce / ISV"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 14
+  },
+  "site_quotes": {
+   "owns_product": [
+    "They helped us build our platform from scratch and were with us throughout the Launch and Scaling phases of the company.",
+    "We always consult with them on new and advanced features which we want to offer on our platform and try to get their industry knowledge and perspective on such initiatives.",
+    "Their expertise and attention to detail has transformed the velocity of our product releases and support services on the Q2 Cloud Lending Platform."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Coactive IT Solutions Private Limited",
+  "city": "Kolkata",
+  "domain": "coactivesolutions.co.in",
+  "website": "https://coactivesolutions.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ess One SAP E-commerce As a professional retail & eCommerce software development company, we develop exceptionally original eCommerce website developm"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 63562,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 5,
+   "sdlc": 2,
+   "qa": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "+91 9831 296 769 Home About Us Who We Are Learn more about our company Services Meet our services Our Products Explore our products Ready to Talk About Business?",
+    "We’ll design an application that streamlines your tasks and maximizes your productivity."
+   ],
+   "sdlc": [
+    "Fast Pricing Agile execution with transparent pricing models designed for startups, SMEs, and large enterprises.",
+    "Fast, Scalable Project Delivery Agile execution with enterprise-grade quality—on-time delivery without compromising performance or security."
+   ],
+   "qa": [
+    "Speed Without Compromise We deliver fast execution with quality engineering, keeping timelines and budgets predictable while ensuring robust, secure, and scalable implementations."
+   ],
+   "enterprise": [
+    "Our consultants have worked across a wide range of sectors, including manufacturing, retail, finance, healthcare, and more."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Code Evolve And Excel Private Limited",
+  "city": "Hyderabad",
+  "domain": "smartinterviews.in",
+  "website": "https://smartinterviews.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 94,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Smart Interviews The Hive Courses Smart Coder Coding 101 Campus Connect Hire From Us More Placements Contest Leaderboard Leaderboard Referral Program Testimonials Interview Experiences Resume Builder Life at Smart Interviews About Us Blogs menu About us Where have we come from?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Code Garage Tech Private Limited",
+  "city": "Mohali",
+  "domain": "codegaragetech.com",
+  "website": "https://codegaragetech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 47,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "s Contact Us Our Stack Ruby on Rails Laravel NextJS Flutter Android IOS DevOps Wordpress React Native Industries We Serve E-commerce Healthcare Educat"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 3413,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "enterprise": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "We build custom AI solutions including LLM fine-tuning on your proprietary data, RAG pipelines that connect AI to your internal knowledge base, documents and databases, and intelligent chatbots powered by OpenAI and open-source models like LLaMA and Mistral."
+   ],
+   "enterprise": [
+    "Code Garage offers web app development services in various industries, including education, healthcare, travel, real estate, finance, and e-commerce."
+   ],
+   "senior_roles": [
+    "Our Leadership MP Singh AI Consultant & Solution Architect About MP Singh An AI Consultant & Solution Architect at Code Garage Tech."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Code Shastra Private Limited",
+  "city": "Gurugram",
+  "domain": "codeshastra.com",
+  "website": "https://www.codeshastra.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "evelopment that makes you stand out in the market? We offer mobile app development, web development, UI UX design, and AI services to help you take yo"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 6245,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We offer mobile app development, web development, UI UX design, and AI services to help you take your product from concept to completion."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Codeclouds IT Solutions Pvt Ltd",
+  "city": "Kolkata",
+  "domain": "codeclouds.com",
+  "website": "https://www.codeclouds.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 9,
+   "sdlc": 13,
+   "qa": 7,
+   "senior_roles": 4,
+   "enterprise": 1,
+   "cicd": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "CodeClouds Enterprise Services Talent Hire Explore Careers Our Products Enterprise Services Talent Hire Explore Careers Our Products What We Do Services we provide Explore our skills Want to know how we deliver?",
+    "Quality Engineering We provide end-to-end testing to ensure your product is bug-free and running as it should during each stage of development through to its launch.",
+    "By offloading your testing process to us, we help you increase your productivity and allow you to focus what’s important.",
+    "Quality Systems Our key quality engineering services Drive exceptional customer experience and deliver on your product expectations with our quality engineering solutions."
+   ],
+   "sdlc": [
+    "Discover Our Process Talk to us about our plans!",
+    "Let’s Collaborate Our Process Trusted by leading companies and partners Together we solve your technology challenges With a team of 600+ and 16 years experience by your side, we turn ideas into successful digital solutions to solve challenges and drive efficiency, scalability and resilience in your business.",
+    "Unbeatable Quality Our processes ensure we only deliver outstanding results.",
+    "Learn more about our process ."
+   ],
+   "qa": [
+    "Quality Engineering We provide end-to-end testing to ensure your product is bug-free and running as it should during each stage of development through to its launch.",
+    "Refund Policy Privacy Policy Terms of Service Request a Meeting Quality Engineering for Enterprise",
+    "Quality Systems Our key quality engineering services Drive exceptional customer experience and deliver on your product expectations with our quality engineering solutions.",
+    "A beginner's guide to software testing (12 key terms) Read Article More quality engineering services we provide Unit Testing Test and validate each individual unit or component in your software to help identify bugs early in the development cycle."
+   ],
+   "senior_roles": [
+    "Solution Architecture We help organizations transform and develop new architecture to leverage advances in technology for their products.",
+    "Our solution architects and business analysts work closely with you to define scope, timelines, resources, and milestones."
+   ],
+   "enterprise": [
+    "Manufacturing Ecommerce Logistics Healthcare FinTech Enterprise Services AI & Machine Learning We use technology that is built to last Whether it’s one person or an entire team, we have a range of experts who can build your digital software solution right."
+   ],
+   "cicd": [
+    "However, there is an increasingly significant barrier that hinders continuous delivery of software: testing."
+   ],
+   "DQ_support": [
+    "Compatibility Testing It’s crucial for a successful product to be able to run on various operating systems, hardware configurations, networks, devices and more."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Codleo Consulting Private Limited",
+  "city": "Delhi",
+  "domain": "codleo.com",
+  "website": "https://www.codleo.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2019-03-22",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 15592,
+   "signals": {
+    "testing": 2
+   },
+   "quotes": {
+    "testing": [
+     "Perform manual and automated testing of Salesforce applications, utilizing testing frameworks and tools such as Selenium, Apex Test Framework, and Salesforce Test Automation.",
+     "Develop and maintain test data, test environments, and test automation frameworks for Salesforce applications."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "qa": 4,
+   "sdlc": 4,
+   "senior_roles": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Look forward to more projects with them!!\" Healthcare & Life Sciences \"Working with Codleo has been an absolute pleasure.",
+    "I appreciate the teams.\" Healthcare & Life Sciences \"Everyone in the team is knowledgeable and helpful.",
+    "They go above and beyond to make sure that we are well versed with the software use.\" Healthcare & Life Sciences \"Working with Codleo has been an absolute pleasure.",
+    "Look forward to more projects with them!!\" CMO, Healthcare & Life Sciences Industry \"Codleo was very engaged and drove required action necessary to define requirements and gather feedback throughout the project."
+   ],
+   "qa": [
+    "Current openings Salesforce QA Engineer Develop and execute comprehensive test plans, test cases, and test scripts for Salesforce applications, covering functional, integration, regression, and performance testing.",
+    "Perform manual and automated testing of Salesforce applications, utilizing testing frameworks and tools such as Selenium, Apex Test Framework, and Salesforce Test Automation.",
+    "Develop and maintain test data, test environments, and test automation frameworks for Salesforce applications.",
+    "Collaborate with the QA team to establish and maintain a comprehensive library of test assets, including test plans, test cases, and test data."
+   ],
+   "sdlc": [
+    "Participate in agile/scrum ceremonies, providing testing insights and updates on the testing progress.",
+    "Solution Architect experience on implementation projects using Agile and Iterative approach Force.com platform experience, including the limitation of the platform (e.g.",
+    "Get In Touch Our Process QUALITY IS A BY-PRODUCT OF CONSISTENT PROCESS AND HARD WORK Transformation is a process, and as life happens there are tons of ups and downs.",
+    "Our Process is a set of software development practices that combined development and operations to shorten the systems-development life cycle while delivering features, fixes, and updates frequently in close alignment with business objectives."
+   ],
+   "senior_roles": [
+    "Demonstrated track record of major solution architecture contributions in a large enterprise.",
+    "Solution Architect experience on implementation projects using Agile and Iterative approach Force.com platform experience, including the limitation of the platform (e.g."
+   ],
+   "DQ_support": [
+    "Just as industrial robots are remaking the manufacturing industry by generating higher production rates and improved quality, RPA “robots” are revolutionizing the way we think about business processes, IT support & workflow processes, remote infrastructure and back-office work."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Cogentnext Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "cogentnext.com",
+  "website": "https://cogentnext.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 41,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "delivering robust and cost-effective solutions. We provide software solutions for organizations large and small, helping to streamline operations and"
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 79353,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 8,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Development Methodology We are familiar with both Agile & Waterfall methodologies and will adapt to your preferences."
+   ],
+   "DQ_template": [
+    "With an overall experience of delivering dozens of successful ERP implementations globally, I strive hard and take proactive measures to understand your business needs and map them with our pre-defined process & templates."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Cognativ India Private Limited",
+  "city": "Hyderabad",
+  "domain": "cognativinc.com",
+  "website": "https://www.cognativinc.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "xperience that spans strategic responsibility for products, software development, high-volume transaction data processing, consulting, and big/complex"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Michael Golden Executive Director, Catalyst @ Penn GSE View Press Release → Trusted by Agile Service Model Scale at speed."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Cognida Private Limited",
+  "city": "Hyderabad",
+  "domain": "cognida.ai",
+  "website": "https://main.cognida.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "o capture growth, or an enterprise attempting to modernize. Software Development Introducing Composable Products approach utilizing evolutionary archi"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Churn, expansion, pricing, ICP, coaching, RFP Calibrated to the horizon your team can act on Calibrated to the horizon your team can act on Learn More For AI Builders Zunō The accelerator platform.",
+    "Zunō accelerator platform Pre-built evaluation, governance, and deployment substrate."
+   ],
+   "DQ_training": [
+    "Churn, expansion, pricing, ICP, coaching, RFP Calibrated to the horizon your team can act on Calibrated to the horizon your team can act on Learn More For AI Builders Zunō The accelerator platform."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Cognyfy Concept Private Limited",
+  "city": "New Delhi",
+  "domain": "cognyfy.com",
+  "website": "https://www.cognyfy.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Colruyt Group India Private Limited",
+  "city": "Hyderabad",
+  "domain": "colruyt.in",
+  "website": "https://in.colruytgroup.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2006-12-21",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 6594,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Ltd.), specializes in multiple facets of IT such as Consult, Build, Innovate and Operate backed by strong Engineering & QA practices."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "COLT Technology Services India Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "colt.net",
+  "website": "https://www.colt.net/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1996-12-06",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 21464,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Columbus Global Services India Private Limited",
+  "city": "Hyderabad",
+  "domain": "columbusglobal.com",
+  "website": "https://www.columbusglobal.com",
+  "already_in_hubspot": false,
+  "headcount_known": 2506,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "owns_product": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our values are more than words, they are how we work and win together, every day.",
+    "Our six leadership principles guide how we work together, support our customers, and shape the future of Columbus."
+   ],
+   "owns_product": [
+    "People Stories Accelerator meet-up 2025 Accelerator meet-up 2025 Our Accelerators recently met up in Copenhagen, discover what they said about our programme and why they chose to join us.",
+    "People Stories The Accelerator Stories - Part 1 The Accelerator Stories - Part 1 In August 2023 – a great number of young professionals started their career journey at Columbus when they joined our Accelerator Programme."
+   ],
+   "cicd": [
+    "It’s also contributed to improvements in key business areas such as data quality, accuracy and pipeline visibility, helping the sales team to work more efficiently."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Commvault Systems (India) Private Limited",
+  "city": "Bengaluru",
+  "domain": "commvault.com",
+  "website": "https://www.commvault.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 65484,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2,
+   "owns_product": 1,
+   "enterprise": 2,
+   "DQ_training": 1,
+   "vcs": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Restoring Data While Preserving Terraform State: In-Place Recovery with Clumio Backtrack May 8, 2026 Read more about Restoring Data While Preserving Terraform State: In-Place Recovery with Clumio Backtrack Your Identity Infrastructure Is a Target.",
+    "Learn more Try now Backup & Recovery for DevOps Maintain continuous development with reliable backup and fast, granular recovery for Azure DevOps, GitHub, and GitLab."
+   ],
+   "owns_product": [
+    "Explore our platform Become a Partner Who We Are By The Numbers What We Do Why It Matters Our Reach Request Demo About Us Who We Are By The Numbers What We Do Why It Matters Our Reach Request Demo Who We Are Commvault (NASDAQ: CVLT) is redefining what it means to be resilient."
+   ],
+   "enterprise": [
+    "Explore our platform Become a Partner Who We Are By The Numbers What We Do Why It Matters Our Reach Request Demo About Us Who We Are By The Numbers What We Do Why It Matters Our Reach Request Demo Who We Are Commvault (NASDAQ: CVLT) is redefining what it means to be resilient.",
+    "Learn more Request demo Dedicated Instance Dedicated Instance delivers isolation and SaaS agility to help regulated industries protect critical workloads and strengthen regulatory posture ."
+   ],
+   "DQ_training": [
+    "Learn more Try now Archive for Files & Objects Cloud Archive for Files & Objects delivers SaaS resilience and recovery capabilities for intelligent data placement to manage costs and risks while meeting compliance objectives."
+   ],
+   "vcs": [
+    "Learn more Try now Backup & Recovery for DevOps Maintain continuous development with reliable backup and fast, granular recovery for Azure DevOps, GitHub, and GitLab."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Complykaro Services Private Limited",
+  "city": "Mumbai",
+  "domain": "complykaro.com",
+  "website": "https://complykaro.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Constems-AI Systems Private Limited",
+  "city": "Noida",
+  "domain": "constems-ai.com",
+  "website": "https://constems-ai.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "oject today | info@constems-ai.com Search --> Home About Us Our Product Industries Knowledge base Photo Gallery Video Gallery Blog FAQ's --> Brochure"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "It is revolutionizing the Retail sector by providing real-time tracking of stocks and delivering actionable insights to enable the efficient monitoring of Product Availability, Shelf Placement, Planogram Compliances, and Space Planning KPIs in Brick-and-Mortar Retail.",
+    "Planning & Compliance Know optimum placement, planogram of products, consumer engagement and KPI forecasts for retail strategy."
+   ],
+   "DQ_support": [
+    "August 2022 India AI Innovate2Transform: An AI Check For Quality Tobacco Leaves ITC's machine learning model is an efficient use of integrated hardware and highly analytical..."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Corporate Analyst & Consultant Private Limited",
+  "city": "Delhi",
+  "domain": "cac.net.in",
+  "website": "https://www.cac.net.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2012-09-28",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 30510,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Know details Team Renowned for excellence, CAC specializes in accounts and finance, providing expert services in management consulting, investment banking, wealth management, and sustainability for comprehensive and forward-thinking financial solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Corteva Agriscience Services India Private Limited",
+  "city": "Hyderabad",
+  "domain": "dupont.com",
+  "website": "https://www.dupont.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1987-07-27",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Learn more Healthcare solutions and Healthcare packaging --> Enabling advances in medical packaging, medical devices, and pharma manufacturing for trends in patient care: minimally invasive procedures and personalized therapies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

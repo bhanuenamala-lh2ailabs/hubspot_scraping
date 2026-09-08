@@ -1,0 +1,1190 @@
+[
+ {
+  "name": "LoudCloud Systems Private Limited",
+  "city": "Mumbai",
+  "domain": "bnedloudcloud.com",
+  "website": "https://www.bnedloudcloud.com/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "pages_absent": [
+   "careers",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20200601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20200601",
+   "snapshot_quote": ", and advisors equipped with the right tools? At LoudCloud, we build software that helps colleges and universities deliver personalized learning and s",
+   "lookup_note": ""
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "Maersk Global Service Centres (India) Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "maerskline.com",
+  "website": "https://www.maersk.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "pages_absent": [
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "19970112",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "enterprise": 1,
+   "sdlc": 5,
+   "owns_product": 2,
+   "DQ_support": 2,
+   "senior_roles": 1
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "Previous Next FMCG Retail Fashion & Lifestyle Chemicals Perishables Automotive Pharma & Healthcare Technology Latest insights Access the latest articles, trends and research to guide your strategy and keep you updated on what's new in the supply chain world."
+   ],
+   "sdlc": [
+    "Play a key role in coordinating safe, agile air shipments from booking to delivery, collaborating across hubs and partners.",
+    "To deliver a more connected, agile and sustainable future for global logistics.",
+    "One that can support with integrated transport, enhanced visibility, scalable warehousing, and multimodal solutions to keep your supply chains agile and resilient.",
+    "Integrated logistics solutions, proven reliability and cargo safety as well as global reach is key for the segment keeping cloud computing supply chains agile, resilient, and uninterrupted."
+   ],
+   "owns_product": [
+    "Our history is part of our platform for future success and thus intimately linked to our present activities and future goals.",
+    "With Maersk as your logistics partner, your products move on time, intact, and accelerate your growth."
+   ],
+   "DQ_support": [
+    "Smarter logistics to meet your requirements To advance ahead, tech hardware supply chains need a key logistics player that can integrate rapid market access, ensure physical product safety, provide reliable and secure services, and real-time visibility over a global, connected network.",
+    "But this progress depends on a steady flow of advanced hardware - servers, GPUs, networking gear - and critical semiconductors to keep global data centres running."
+   ],
+   "senior_roles": [
+    "Consumer electronics Global growth is on a steady rise, with segments like wearables, PCs, and health tech leading the charge."
+   ]
+  }
+ },
+ {
+  "name": "Marsh Mclennan (India) Private Limited",
+  "city": "Gurugram",
+  "domain": "mercer.co.in",
+  "website": "https://www.mercer.com/en-in/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20220601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20220601",
+   "snapshot_quote": "st employee benefits in India Attract, motivate and retain your workforce by rewarding the right behaviours. With Mercer's employer-reported, robust d",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "cicd": 1,
+   "enterprise": 3,
+   "sdlc": 1,
+   "DQ_training": 1
+  },
+  "evidence_excerpts": {
+   "cicd": [
+    "Design high impact careers using real career paths Intentionally design the Transparency, Control and Velocity of career paths to fulfill both your organization’s need for a ready-now skills pipeline as well as your employees' need to feel they are advancing at the right pace."
+   ],
+   "enterprise": [
+    "Marsh (formerly Marsh McLennan) brings together market-leading, specialised capabilities across risk, reinsurance and capital, people and investments, and management consulting—helping clients build the confidence to thrive through the power of perspective.",
+    "From insurance to self-insurance or captive set-ups, we’ll help you finance your programme in the way that’s right for who you are – and where you are on your benefits journey.",
+    "Interest was strongest among employers in high-tech, manufacturing/construction, and financial services/insurance."
+   ],
+   "sdlc": [
+    "This means developing a strong global structure, with the ability to tailor benefits for simple and agile local execution and employee engagement."
+   ],
+   "DQ_training": [
+    "Local servicing Local policy placement, claims management and employee support means you can improve the employee experience, address local issues and gain efficiencies."
+   ]
+  }
+ },
+ {
+  "name": "MCO MyCompliance India Private Limited",
+  "city": "Hyderabad",
+  "domain": "mco.mycomplianceoffice.com",
+  "website": "https://mco.mycomplianceoffice.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20220601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20220601",
+   "snapshot_quote": "ne No more swivel chair compliance. Complete access to all your work in one place. One portal with one login, one data source and an unprecedented lev",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "enterprise": 3,
+   "prod_eng": 1,
+   "DQ_agency": 1,
+   "owns_product": 4,
+   "qa": 3,
+   "senior_roles": 2,
+   "pr_practice": 1,
+   "cicd": 1,
+   "sdlc": 1
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "Insurance \"The nice thing about this software is that this gives insights into the business but also guidance on how to solve most issues.",
+    "The company develops software products for financial services organisations, so the role requires a strong understanding of security expectations in regulated, audit-driven, enterprise customer environments.",
+    "2024 and beyond Today, the MyComplianceOffice platform delivers better built compliance to firms of all sizes across capital markets, banking, and insurance and throughout North America, Europe and the Asia-Pacific region."
+   ],
+   "prod_eng": [
+    "The CISO will report to the Chief Information Officer (CIO) and will work closely with executive leadership, product engineering, cloud operations, customer-facing teams, legal, procurement, and external auditors to ensure security is embedded in how the organisation builds, operates, sells, and supports its products."
+   ],
+   "DQ_agency": [
+    "Senior Digital Marketing Manager We are seeking a senior-level, performance-driven Senior Manager Digital Marketing with 8 years of B2B experience to lead and optimize our digital channels."
+   ],
+   "owns_product": [
+    "Product Manager (ECOI) MCO’s Employee Conflicts of Interest (ECOI) product suite is the company’s flagship offering and primary revenue driver, serving financial institutions globally with comprehensive compliance solutions for managing employee conduct risk.",
+    "As a privately held company led by Founder and CEO Brian Fahey, we built our platform to monitor the three key sources of potential misconduct: Transactions, Employees and Third Parties, all informed by one trusted source of data.",
+    "2013 - 2021 As our capabilities matured, we expanded our product set to include third party and transactional compliance and our client list to include firms of all sizes across financial services and the globe.",
+    "As a privately held company, our ability to continually invest in our product means that we’re always evolving to meet the compliance needs of the financial services industry."
+   ],
+   "qa": [
+    "QA Lead - Automation We are seeking a highly experienced and technically proficient QA Lead to strengthen our QA team.",
+    "The successful candidate will demonstrate strong expertise in WebdriverIO (WDIO) with TypeScript or JavaScript, Selenium with Java, and Object-Oriented Programming (OOP), along with exposure to AI technologies.",
+    "This role is responsible for aggregating and modelling data from multiple sources (e.g., Jira, Zendesk, DevOps, SharePoint, Excel, SQL, QA, other sources), producing trusted portfolio insights, and enabling decision making."
+   ],
+   "senior_roles": [
+    "The position also requires managing multiple teams, coordinating with Engineering Managers on delivery commitments, providing automation guidance to junior resources, and producing weekly status reports for leadership.",
+    "Reporting to the Performance Engineering Tech Lead, you will contribute to the tooling, scripting standards, and CI/CD integration that the Performance Engineering Centre of Enablement (CoE) is building across MCO."
+   ],
+   "pr_practice": [
+    "The role involves hands-on API testing, manual regression testing, and the use of version control systems to support robust and scalable automation frameworks."
+   ],
+   "cicd": [
+    "Reporting to the Performance Engineering Tech Lead, you will contribute to the tooling, scripting standards, and CI/CD integration that the Performance Engineering Centre of Enablement (CoE) is building across MCO."
+   ],
+   "sdlc": [
+    "Senior Agile Coach Click here for more details and how to apply for this position."
+   ]
+  }
+ },
+ {
+  "name": "MHP India Private Limited",
+  "city": "Bengaluru",
+  "domain": "mhp.com",
+  "website": "https://www.mhp.com/us/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20051023",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "sdlc": 2,
+   "owns_product": 1
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "Close Read More We are an agile project management company, so our recruitment team is as adaptable as the rest of the business.",
+    "We strive for excellence in everything we do – from working daily with our customers, to executing our processes, all the way to driving our strategy."
+   ],
+   "owns_product": [
+    "Application Management Services SLA-based services for the support of all your productive systems."
+   ]
+  }
+ },
+ {
+  "name": "Minutus Computing Private Limited",
+  "city": "Pune",
+  "domain": "minutuscomputing.com",
+  "website": "https://minutuscomputing.com",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "pages_absent": [
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "at We Do PLM Platform Deployment Infrastructure Engineering Application Development & Modernization DevOps Tools & Automation Know More About Us Who W",
+   "lookup_note": ""
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "MorningStar India Private Limited",
+  "city": "Mumbai",
+  "domain": "morningstar.in",
+  "website": "https://www.morningstar.in/",
+  "pages_reached": [
+   "/"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20120118",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "MTAP Technologies Pvt Ltd",
+  "city": "Chennai",
+  "domain": "mtap.in",
+  "website": "https://www.mtap.in/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "pages_absent": [
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20141229",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "owns_product": 10,
+   "cicd": 20,
+   "DQ_agency": 24,
+   "vcs": 10,
+   "sdlc": 13,
+   "pr_practice": 6,
+   "qa": 8,
+   "DQ_bpo": 2,
+   "enterprise": 1,
+   "senior_roles": 1,
+   "DQ_template": 1,
+   "DQ_training": 1
+  },
+  "evidence_excerpts": {
+   "owns_product": [
+    "Identifying the correct decision makers in the companies and setting up the meeting to understand their requirements and how our products can help them.",
+    "Compose product descriptions to promote our products and services.",
+    "Provide information about our product/service.",
+    "Lead a product management team in which you motivate and achieve steady improvements in your area Lead the research and analysis for our products by gathering data, diving deep into customer experiences, and prototyping solutions."
+   ],
+   "cicd": [
+    "Search for new client leads and ability to build a new sales pipeline.",
+    "Actively approach targeted business clients (telephone, email, social networks, events, etc.) Search for new client leads and ability to build a new sales pipeline.",
+    "Strong expertise in B2B sales pipeline management and marketing management.",
+    "Actively approach targeted business clients (telephone, walk-in, email, social networks, events, etc.) Search for new client leads and ability to build a new sales pipeline."
+   ],
+   "DQ_agency": [
+    "Produce content marketing campaigns to drive leads and subscribers.",
+    "Utilize SEO best practices to generate traffic to our website Work together with different departments to create innovative content ideas.",
+    "Excellent understanding of digital marketing strategies including SEO, email marketing and web analytics.",
+    "Use social media marketing tools such as Hootsuite, Buffer, etc."
+   ],
+   "vcs": [
+    "Roles & Responsibilities: Basic knowledge of git workflows.",
+    "Proven expertise in designing and implementing CI/CD pipelines using tools like Jenkins, GitLab CI, or CircleCI.",
+    "Familiarity with Git,Location Tracking, Crashlytics and push notifications systems.",
+    "Role & Responsibilities: Basic knowledge in git workflows Strong and deep understanding in at least one object-oriented language (java/python /javaScript / ruby) Should be able to take full responsibility for the given module."
+   ],
+   "sdlc": [
+    "Practiced understanding of Agile development methodologies &amp; understanding of DevOps Integration.",
+    "Collaborate within Agile Scrum teams to integrate quality assurance early in the development lifecycle.",
+    "Develop comprehensive test plans and strategies for web applications, following Agile best practices.",
+    "Run sprints and help prioritize your team’s workload."
+   ],
+   "pr_practice": [
+    "Be actively involved in the code review process, design discussions, and team planning.",
+    "Code review of team members’ commits as part of CI/CD cycle."
+   ],
+   "qa": [
+    "of Positions: 1 Kindly share your resume at [email protected] Apply Now QA Engineer - Automation Job Brief: ⁠ Perform Web & Mobile Application testing using both manual and automation approaches to ensure software quality.",
+    "Design, develop, and maintain automated test scripts using Selenium (Java), Playwright (JavaScript), and Appium for cross-platform (Web & Mobile) testing.",
+    "Use test-driven development, write clean code, and refactor constantly.",
+    "Practical experience in test-driven development and constant refactoring in a continuous integration environment."
+   ],
+   "DQ_bpo": [
+    "Inside Sales Representative Requirements: Previous experience in an outbound call center or a related sales position preferred.",
+    "Today, MTAP’s platforms support enterprises across corporates, aviation, GCC, IT, BPO, NBFC, and manufacturing sectors, enabling them to manage complex transportation requirements through a single, scalable technology framework."
+   ],
+   "enterprise": [
+    "This is an individual contributor role who will be responsible for CXO level engagement and acquisition of Fortune 500 clients pan India."
+   ],
+   "senior_roles": [
+    "Engineering Manager responsibilities include researching and developing new products, building project budgets and overseeing the successful execution of projects throughout the year."
+   ],
+   "DQ_template": [
+    "To fit this job role, you should have experience in front-end and back-end development, creating WordPress themes and plugins, and handling integrations and regular updates of the CMS."
+   ],
+   "DQ_training": [
+    "Providing leadership, training, coaching, and guidance to junior stakeholders."
+   ]
+  }
+ },
+ {
+  "name": "Nanosecond Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "pice.one",
+  "website": "https://piceapp.com/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "pages_absent": [
+   "careers",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20221207",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "DQ_training": 2,
+   "owns_product": 1
+  },
+  "evidence_excerpts": {
+   "DQ_training": [
+    "Pay via UPI, card or bank transfer Instant digital receipt for every payment High-value payments with business-grade security Tutor & Coaching Payments Pay tutors and coaching institutes in seconds, right from your phone."
+   ],
+   "owns_product": [
+    "Meet Our Founders Our Products Credit Card Bill Payments Track all your Credit Card bills in one place and pay them in one click Invoice management View and manage sales and purchase invoice in one seamless platform GST Payment Paying your GST is now easier than ever with multiple payment options."
+   ]
+  }
+ },
+ {
+  "name": "NCR Corporation India Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "ncr.com",
+  "website": "https://www.ncr.com:443/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "pages_absent": [
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20200601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20200601",
+   "snapshot_quote": "P.O.S. to Expand Hospitality Business More NCR News Explore Our Products Aloha Everything you need to run your restaurant. Silver The easy to use, clo",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "DQ_support": 2,
+   "owns_product": 2
+  },
+  "evidence_excerpts": {
+   "DQ_support": [
+    "Explore services Explore services Hardware From POS and payments to self-service and back-of-house, our hardware portfolio supports critical workflows across retail and restaurants, and is engineered for durability and reliability in fast-paced, high-volume environments.",
+    "Explore hardware Explore hardware Bringing our platform story to life The NCR Voyix Customer Experience Center (CEC) is where our technology moves from slideware to real-world execution."
+   ],
+   "owns_product": [
+    "Explore hardware Explore hardware Bringing our platform story to life The NCR Voyix Customer Experience Center (CEC) is where our technology moves from slideware to real-world execution.",
+    "This allows teams to quickly see how our platform, applications, and services work together in practice."
+   ]
+  }
+ },
+ {
+  "name": "NobleServe Systems Private Limited",
+  "city": "Coimbatore",
+  "domain": "nobleserve.com",
+  "website": "https://nobleserve.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "pages_absent": [
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "ds covered with our services which include mobile, web, and software development. Get Started About Us NobleServe, a company with strong leaders who a",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "enterprise": 8,
+   "sdlc": 2,
+   "DQ_template": 1
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "NobleServe Mortgage Healthcare IT Services About Us Careers Contact Us Get Started Mortgage NobleServe has team of experienced professional who has core experience in the end to end mortgage processes.",
+    "Get Started Healthcare Explore and experience an entire set of services which will have quantifiable business outcomes.",
+    "Mortgage Services Originations Title Settlement Curative Servicing Valuations Healthcare Services Coding Services Revenue Cycle Management IT Services Enterprise Software Development Web Application Development Mobile Application Development Company Privacy Policy Terms & Conditions Follow Us Copyrights Reserved 2021.",
+    "NobleServe Careers Mortgage Healthcare IT Services About Us Careers Contact Us Join our team Our work culture supports creativity, empowerment, and openness."
+   ],
+   "sdlc": [
+    "We have the pioneering technology, management expertise, and end-to-end engagement model to make it happen with any Industry and services you choose with us.",
+    "03 Accelerate With Latest Technology We at NobleServe make sure we enable continuous transformation by helping businesses scale and drive agile innovation."
+   ],
+   "DQ_template": [
+    "We always on the run to face obstacles and have a readymade solution to fix them."
+   ]
+  }
+ },
+ {
+  "name": "NVIDIA Graphics Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "nvidia.in",
+  "website": "https://www.nvidia.com/en-in/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "pages_absent": [
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "is the world’s first AI supercomputer in the cloud, a multi-node AI-training-as-a-service solution optimized for the unique demands of enterprise AI.",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "enterprise": 6,
+   "DQ_support": 3,
+   "owns_product": 2
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "Announcement Enterprise Software Is Going Agentic With NVIDIA From engineering to healthcare, companies gain always-on AI coworkers with NVIDIA’s open stack.",
+    "Quick Links HPC Overview SC22 Event Supercomputing Healthcare Public Sector Energy NVIDIA HPC SDK NVIDIA PhysicsNeMo HPC",
+    "Announcement NVIDIA Jetson Is Agentic-Ready to Unlock Physical AI Frontier JetPack 7.2, NemoClaw make Jetson agentic-ready for robotics, healthcare, industrial automation.",
+    "From healthcare to robots."
+   ],
+   "DQ_support": [
+    "Learn More Hardware Join our hardware team for the opportunity to have real impact in a dynamic, technology-focused company.",
+    "Learn More DLSS Supported Hardware Maximize your performance, responsiveness, and image quality on GeForce RTX GPUs."
+   ],
+   "owns_product": [
+    "Our product lines range from consumer graphics to self-driving cars to the growing field of AI."
+   ]
+  }
+ },
+ {
+  "name": "OIP Robotics Private Limited",
+  "city": "Hyderabad",
+  "domain": "oipinsurtech.com",
+  "website": "https://www.oipinsurtech.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "pages_absent": [
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20240421",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "domain first archived 2024 or later — RED FLAG"
+  },
+  "signal_counts": {
+   "enterprise": 68,
+   "qa": 2,
+   "DQ_bpo": 9,
+   "cicd": 8,
+   "prod_eng": 5,
+   "DQ_template": 2,
+   "sdlc": 2,
+   "senior_roles": 1,
+   "compliance": 1
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "Power up your insurance business New Workflow Intelligence Diagnostic: uncover friction, capacity leaks, and AI opportunities in 8 weeks.",
+    "OIP Insurtech delivers Insurance Operations, Technology Services & AI, built by insurance professionals for insurance professionals.",
+    "Serving: Carriers & Syndicates MGAs / MGUs Retail Agents Let’s Talk Watch Video E&S and Specialty Insurance Operations Insurance Is Getting More Complex.",
+    "Serving: Carriers & Syndicates MGAs / MGUs Retail Agents Let’s Talk Watch Video Trusted by leading Insurance Partners Trusted by leading Insurance Partners THE CHALLENGE The Bottlenecks Are Costing You More Than You Think."
+   ],
+   "qa": [
+    "Cristian Joe CEO By combining insurance expertise with streamlined QA processes, we've helped this client improve product quality, increase testing efficiency, and deliver more reliable releases with confidence.",
+    "DevOps advisory + delivery From container orchestration to automated testing and monitoring setups, we build the tools and workflows that let your developers focus on innovation, not firefighting."
+   ],
+   "DQ_bpo": [
+    "Deepthi Back Office Associate I was part of the first group to join OIP Insurtech.",
+    "I began my career here as a Back Office Associate, and within a year, I was promoted to Team Lead, followed by my current role as a Key Account Manager.",
+    "Some roles, particularly entry-level positions like Insurance Administrative Assistant and Back Office Associate, are continuously open due to our batch hiring model.",
+    "For entry-level positions like Insurance Administrative Assistant or Back Office Associate, we offer a comprehensive 3–4 month training program designed to prepare new team members for long-term success, which is currently not structured as an internship."
+   ],
+   "cicd": [
+    "These roles support our ongoing growth, and maintaining open listings helps us build a steady pipeline of qualified candidates.",
+    "From CI/CD pipelines to multi-environment deployments, we architect for uptime, scalability, and cost efficiency - with full awareness of insurance compliance requirements.",
+    "We bring stability, speed, and structure to your delivery pipelines, blending platform engineering best practices with insurance specific workflows.",
+    "Platform Engineering for Insurance ⌃ CI/CD pipelines built for insurance We implement continuous integration and delivery pipelines that reduce friction, eliminate manual steps, and ensure faster go-lives."
+   ],
+   "prod_eng": [
+    "What we build Platform engineering and DevOps Cloud migration and modernization Managed cloud services Stable Platforms.",
+    "We bring stability, speed, and structure to your delivery pipelines, blending platform engineering best practices with insurance specific workflows.",
+    "Platform Engineering for Insurance ⌃ CI/CD pipelines built for insurance We implement continuous integration and delivery pipelines that reduce friction, eliminate manual steps, and ensure faster go-lives.",
+    "Proof in Practice Platform Engineering and DevOps Implementing CI/CD pipelines for client insurance services significantly improved both software delivery and operational stability."
+   ],
+   "DQ_template": [
+    "Whether it's rate table updates or document template changes, we make deployments safer and smoother.",
+    "60% Reduction in Integration-Related Downtime Standardized API gateway with reusable templates reduced vendor-related instability."
+   ],
+   "sdlc": [
+    "DevOps Enablement Empower teams with modern DevOps practices, tooling, and documented runbooks for operational excellence.",
+    "Fix the Bottlenecks Now that you know what’s wrong and why, you can start improving your process."
+   ],
+   "senior_roles": [
+    "VP of Engineering Specialty Insurance Carrier Cloud Migration and Modernization We successfully migrated clients’ critical systems to a hybrid cloud model, achieving a 40% reduction in operational costs and a 60% boost in processing speed."
+   ],
+   "compliance": [
+    "We operate under strict security and privacy protocols, including ISO 27001 and SOC II compliance."
+   ]
+  }
+ },
+ {
+  "name": "Opcito Technologies Private Limited",
+  "city": "Pune",
+  "domain": "opcito.com",
+  "website": "https://www.opcito.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [
+   "https://medium.com/@OpcitoTechnologies"
+  ],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "DevOps, Cloud Automation, and Full-Stack Engineering Blogs Case Studies What we do By Engagement Models Startup Labs Outsource Product Development Bu",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "cicd": 12,
+   "owns_product": 10,
+   "sdlc": 11,
+   "prod_eng": 9,
+   "compliance": 1,
+   "senior_roles": 4,
+   "enterprise": 3,
+   "qa": 2,
+   "pr_practice": 5
+  },
+  "evidence_excerpts": {
+   "cicd": [
+    "Agile DevOps, Cloud Automation, and Full-Stack Engineering Skip to main content X Our Accelerators Accelerated Innovation Continuously Delivered At Opcito Technologies, our motto is Continuous Innovation and Continuous Delivery.",
+    "Cloud, Containerization, DevOps, and CI/CD are our forte.",
+    "40% to 60% cost saving with a complete roadmap to adopt cloud-native services and container platforms like Kubernetes.",
+    "Opcito Technologies Skip to main content X Our Accelerators Accelerated Innovation Continuously Delivered At Opcito Technologies, our motto is Continuous Innovation and Continuous Delivery."
+   ],
+   "owns_product": [
+    "Agile DevOps, Cloud Automation, and Full-Stack Engineering Skip to main content X Our Accelerators Accelerated Innovation Continuously Delivered At Opcito Technologies, our motto is Continuous Innovation and Continuous Delivery.",
+    "Our focus on cutting-edge research and development has led to a valuable portfolio of accelerators and tools that accelerate the Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and the use of artificial intelligence (AI).",
+    "Opcito Technologies Skip to main content X Our Accelerators Accelerated Innovation Continuously Delivered At Opcito Technologies, our motto is Continuous Innovation and Continuous Delivery."
+   ],
+   "sdlc": [
+    "Agile DevOps, Cloud Automation, and Full-Stack Engineering Skip to main content X Our Accelerators Accelerated Innovation Continuously Delivered At Opcito Technologies, our motto is Continuous Innovation and Continuous Delivery.",
+    "Our focus on cutting-edge research and development has led to a valuable portfolio of accelerators and tools that accelerate the Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and the use of artificial intelligence (AI).",
+    "With agile software development practices, the SDLC is quicker and more efficient than ever.",
+    "Customer-Centric Engagement Models With our customer-centric engagement models, we can innovate faster, more scalable, and highly available software applications with reduced time to market."
+   ],
+   "prod_eng": [
+    "Your journey for cutting-edge product engineering and digital transformation starts here.",
+    "We are a leader in the automation-driven full-stack product engineering services space with a development center in Pune, India, and an office in Milpitas, CA.",
+    "With our team of dedicated professionals, we are pledged to deliver full-stack product engineering excellence globally.",
+    "Sitemap Software Product Engineering"
+   ],
+   "compliance": [
+    "Achieve industry-wide compliances Become HIPPA, SOC2, PCI, and CIS in a guaranteed timeframe with our certified team of engineering experts."
+   ],
+   "senior_roles": [
+    "--> VP Engineering Mobile Internet Technology Company \"Compliance-assured delivery!\" Since we are in healthcare, there are certain international compliances that we expect our partners to follow.",
+    "--> SVP Engineering Personal Health Research and Management Firm Explore Our Insights Stay up-to-date with our latest insights and success stories.",
+    "Pune, Maharashtra More Details Technical Architect Full Time",
+    "PLATFORM & TECHNOLOGIES Software Product Engineering QA Automation / Automation Engineering Cloud DevOps & SRE Our Partners & ecosystem --> Take the next big step in your career, explore job opportunities at Opcito!"
+   ],
+   "enterprise": [
+    "--> VP Engineering Mobile Internet Technology Company \"Compliance-assured delivery!\" Since we are in healthcare, there are certain international compliances that we expect our partners to follow.",
+    "Comprehensive healthcare benefits to cover your basic needs You complete us!",
+    "This keeps you motivated to give your best every day.\" Chetan Kolhe Senior DevOps Engineer CURRENT OPEN POSITIONS BFSI Software Services Sales Executive Full Time"
+   ],
+   "qa": [
+    "However, at the same time, it has created a need for efficient full-stack product engineering and reliable QA and test engineering practices to ensure new product development is world-class, be it a web app development or a mobile app.",
+    "PLATFORM & TECHNOLOGIES Software Product Engineering QA Automation / Automation Engineering Cloud DevOps & SRE Our Partners & ecosystem --> Take the next big step in your career, explore job opportunities at Opcito!"
+   ],
+   "pr_practice": [
+    "There are multiple components such as artifacts repository, source code repository, centralized and distributed version control systems, databases in a DevOps configuration and experts with right set of tools are important to manage it efficiently.",
+    "Our expertise in version controlling, building robust & stable systems, and automatically managing configuration updates reduces overall downtime and helps create robust DevOps processes.",
+    "OPCITO’S DEVOPS CONFIGURATION MANAGEMENT GUARANTEES Version Control We can add visibility to software modifications to stay on top of the version changes for better efficiency and eliminate rework with configuration management teams.",
+    "Reduced Downtime and Faster Recovery We help you minimize downtime with efficient configuration management, helping in managing & minimizing unexpected changes by using code review techniques and version control."
+   ]
+  }
+ },
+ {
+  "name": "Orbitsys Technologies Private Limited",
+  "city": "Gurugram",
+  "domain": "orbitsys.in",
+  "website": "https://orbitsys.in/",
+  "pages_reached": [
+   "/"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20091120",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "compliance": 1
+  },
+  "evidence_excerpts": {
+   "compliance": [
+    "CRM-DMS Providers in India Toggle navigation Home About us Services Contact Us More News Blogs Support DMS Login --> × Request a Demo Submit Cloud Hosted Dealer Management System One World An ISO 27001:2022 Certified Company Request a Demo MULTI-COUNTRY"
+   ]
+  }
+ },
+ {
+  "name": "Outscalepartners India Private Limited",
+  "city": "Gurugram",
+  "domain": "outscalepartners.com",
+  "website": "https://outscalepartners.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20260411",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "domain first archived 2024 or later — RED FLAG"
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "Park Hospitals",
+  "city": "Kolkata",
+  "domain": "neotiahospital.com",
+  "website": "https://neotiahospital.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20080630",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "enterprise": 11
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "With a steadfast commitment to excellence and a nurturing environment, this healthcare institution has emerged as a trusted partner in the journey of maternal, women and child health.",
+    "The company- with its strong forte in real estate, hospitality, healthcare, and education under the leadership of Shri Harshavardhan Neotia – has been responsible for landmark projects in and around Kolkata.",
+    "Read More Booking & Insurance Advance booking is done in case of maternity cases for which the following procedure is to be followed.",
+    "Always seek the advice of your physician or other qualified healthcare professional with questions you may have regarding your medical condition."
+   ]
+  }
+ },
+ {
+  "name": "Pennant Technologies Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "pennanttech.com",
+  "website": "https://www.pennanttech.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20200601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20200601",
+   "snapshot_quote": "ess Application Services Enterprise Application Integration Product Engineering Consulting Technology Expertise Insights News Events View Points Opera",
+   "lookup_note": ""
+  },
+  "signal_counts": {
+   "owns_product": 3,
+   "enterprise": 7,
+   "sdlc": 2,
+   "DQ_template": 1,
+   "prod_eng": 1
+  },
+  "evidence_excerpts": {
+   "owns_product": [
+    "Delight Borrowers Whether you're designing a specialised retail or corporate loan program, or adapting swiftly to evolving market and regulatory changes, our platform empowers you to create solutions that drive your business goals.",
+    "Our platform adapts to your unique needs, enabling efficient and customisable lending products for every requirement while lowering total cost of operations.",
+    "Its proprietary platform and Great Place To Work Model help companies evaluate the experience of every employee, with exemplary workplaces becoming Great Place To Work Certified and receiving recognition on a coveted Best Workplaces list."
+   ],
+   "enterprise": [
+    "Innovation is at the heart of everything we do as we combine deep engineering expertise with domain knowledge in banking and financial services to help financial institutions transform their application landscape, deliver seamless customer experiences, and stay ahead in an ever-evolving digital world.",
+    "Imagine working on cutting-edge products transforming the banking and financial services industry, gaining hands-on experience with the latest technologies, and collaborating with exceptional professionals who inspire and challenge you.",
+    "For generations, banks and non-banking finance companies (NBFCs) have shouldered the...",
+    "Our Story Our Leadership Team We are on a mission to build future-ready products for the global banking and financial services industry."
+   ],
+   "sdlc": [
+    "It inspires us to pursue the highest standards across every aspect of our business, from designing innovative products and delivering exceptional customer experiences to continuously improving our processes and capabilities.",
+    "About Pennant Technologies Pennant Technologies is an agile and innovative financial technology company that empowers banks and financial institutions to transform their lending operations."
+   ],
+   "DQ_template": [
+    "Event-Based Accounting Engine Replicate your chart of accounts and configure accounting templates for various transactions or events to ensure consistent application of accounting rules and standards."
+   ],
+   "prod_eng": [
+    "As Pennant continues its growth journey, it remains committed to fostering a culture of continuous learning, and collaboration, thereby strengthening its position as a preferred destination for professionals aspiring to build long-term careers in the financial technology Product Engineering."
+   ]
+  }
+ },
+ {
+  "name": "Pioneer Design And Engineering Private Limited",
+  "city": "Hyderabad",
+  "domain": "pioneerdesign.in",
+  "website": "https://www.pioneerdesign.in/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "pages_absent": [
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20200601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20200601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "sdlc": 1,
+   "prod_eng": 3
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "Embracing automation as a catalyst for success, we empower our clients to pioneer a new era of streamlined and agile business processes."
+   ],
+   "prod_eng": [
+    "With a focus on client-centricity, engineering excellence, global reach, and competitive pricing, we are committed to setting new standards of quality and innovation in the engineering services domain."
+   ]
+  }
+ },
+ {
+  "name": "Pragma Edge Software Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "pragmaedge.com",
+  "website": "https://pragmaedge.com/",
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "pages_absent": [
+   "careers",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "l .elementor-post__thumbnail__link{display:block}.elementor-portfolio__filter{margin:0;cursor:pointer;padding:8px}.elementor-portfolio-item{align-self",
+   "lookup_note": ""
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "PRGX India Private Limited",
+  "city": "Pune",
+  "domain": "prgx.com",
+  "website": "https://www.prgx.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20230601",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": "20230601",
+   "snapshot_quote": "",
+   "lookup_note": "archived pre-2024 but page did not mention building software"
+  },
+  "signal_counts": {
+   "DQ_training": 6,
+   "compliance": 6,
+   "sdlc": 1,
+   "owns_product": 1
+  },
+  "evidence_excerpts": {
+   "DQ_training": [
+    "UK Placement Program For UK university students looking to jumpstart their careers."
+   ],
+   "compliance": [
+    "FSQS Registered ISO 27001 Certified Privacy Statement Terms of Use Privacy Statement Terms of Use Manage Cookie Consent To provide the best experiences, we use technologies like cookies to store and/or access device information."
+   ],
+   "sdlc": [
+    "The most effective programs combine : Scalable analytics, AI, and automation Deep domain expertise in AP and contract compliance Proven audit governance and supplier engagement models Leading programs incorporate rapidly evolving AI tools that drive both efficiency gains and proactive error prevention."
+   ],
+   "owns_product": [
+    "Our Platforms The Verigon® Solution Suite Here’s how the Verigon® Solution Suite stacks up to deliver an integrated, purpose-built S2P platform to accelerate every aspect of S2P compliance audits and data analysis."
+   ]
+  }
+ },
+ {
+  "name": "Prostarm Info Systems Limited",
+  "city": "Navi Mumbai",
+  "domain": "prostarm.com",
+  "website": "https://prostarm.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "pages_absent": [
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20190808",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "enterprise": 5,
+   "DQ_support": 2,
+   "DQ_agency": 1
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "Let’s start Industries BFSI and ATMs India’s top Banks, NBFCs trust ProstarM UPS; Bank branches, HQs to Data Centers.",
+    "Read more Healthcare and Hospitals Uninterrupted Power for critical healthcare facilities; OTs, High-end Eqpt.",
+    "Read more View all Industries Banking and Financial Sunrise Industries Critical or Sensitive Banking and Financial The UPS System that powers Indian Banking sector Serving the Banking sector is demanding.",
+    "We specialize in power electronics solutions, offering reliable and affordable products to businesses across various sectors and have built a reputation for delivering dependable UPS systems that ensure continuous power availability in critical sectors like banking, finance, and healthcare."
+   ],
+   "DQ_support": [
+    "Read more Security and CCTV Surveillance Systems Range of UPS with 24X7 up time for uninterrupted security.",
+    "Our comprehensive range of value-added services include installation, rental, aftersales services (including warranty and post-warranty services), Annual Maintenance Contracts (“AMC”) which supplements our Power Solution Products, catering to a wide spectrum of customers and their requirements."
+   ],
+   "DQ_agency": [
+    "July 22, 2026 Posted by: Prostarm SEO Category: Industrial UPS No Comments read more Can Indian Industrial UPS Manufacturers Replace Imported Power Backup Systems?"
+   ]
+  }
+ },
+ {
+  "name": "Quest Diagnostics HTAS India Private Limited",
+  "city": "Hyderabad",
+  "domain": "questdiagnostics.com",
+  "website": "https://www.questdiagnostics.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "19981202",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "enterprise": 83,
+   "compliance": 10,
+   "sdlc": 1
+  },
+  "evidence_excerpts": {
+   "enterprise": [
+    "Make a payment Update your insurance Have your current bill handy, as it will be needed to update or review your insurance.",
+    "Update insurance Update your insurance Have your current bill handy, as it will be needed to update or review your insurance.",
+    "Update insurance Insurance lookup tool Is Quest in-network with your health plan?",
+    "Use our convenient insurance lookup tool to find out."
+   ],
+   "compliance": [
+    "Quest Diagnostics Incorporated and certain affiliates are CLIA-certified laboratories that provide HIPAA-covered services.",
+    "Other affiliates operated under the Quest® brand, such as Quest Consumer Inc., do not provide HIPAA-covered services."
+   ],
+   "sdlc": [
+    "Available in a trusted cloud platform that is scalable, agile, and effective."
+   ]
+  }
+ },
+ {
+  "name": "R S Software (India) Ltd",
+  "city": "Kolkata",
+  "domain": "rssoftware.com",
+  "website": "https://www.rssoftware.com/",
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "pages_absent": [],
+  "has_no_careers_blog_or_team": false,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "pre-20200601",
+   "pre2024_software_evidence": true,
+   "snapshot_checked": "20200601",
+   "snapshot_quote": "t.That's why, we've been at the forefront of groundbreaking software solutions for the world's leading payment brands, for over two decades. As we loo",
+   "lookup_note": ""
+  },
+  "signal_counts": {},
+  "evidence_excerpts": {}
+ },
+ {
+  "name": "Rasacode Technologies Private Limited",
+  "city": "Kolkata",
+  "domain": "rasacode.in",
+  "website": "https://rasacode.in/",
+  "pages_reached": [
+   "/"
+  ],
+  "pages_absent": [
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "own_vcs_orgs": [],
+  "npm_packages_on_own_domain": [],
+  "external_blogs": [],
+  "tier_gold_wayback": {
+   "wayback_first_snapshot": "20211222",
+   "pre2024_software_evidence": false,
+   "snapshot_checked": null,
+   "snapshot_quote": "",
+   "lookup_note": "captured pre-2024 but no snapshot fetchable to read"
+  },
+  "signal_counts": {
+   "sdlc": 1,
+   "qa": 1,
+   "DQ_training": 1,
+   "DQ_agency": 1
+  },
+  "evidence_excerpts": {
+   "sdlc": [
+    "Enterprise Software Development CRM Consulting Website Design (Frontend/Backend) API Development & Integration Agile Methodologies Mobile App Development From concept to deployment, we build high-performing mobile applications that function smoothly across platforms."
+   ],
+   "qa": [
+    "QA Strategy & Consulting Application Testing Mobile App Testing OUR WORK Our Excellence is Driven By Client Satisfaction \"Actions speak louder than words\" — Our portfolio presents a curated collection of our collaborations."
+   ],
+   "DQ_training": [
+    "Property App Preview NDMIT NDMIT NDMIT is an NSDC-approved and secure platform we built, offering expert-led and AI-integrated training courses with placement assistance for a future-proof career."
+   ],
+   "DQ_agency": [
+    "Select Service Web Development AI & ML Development UI/UX Design SEO Mobile App Development eCommerce Send Message India Office 119/2/2 B.P.M.B Sarani,Ground Floor, Fl-G-B Bhadrakali, Uttarpara, Hooghly, West Bengal 712232 +91 8100471472 Email connect@rasacode.in FOLLOW US : -->"
+   ]
+  }
+ }
+]

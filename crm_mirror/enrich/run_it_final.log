@@ -1,0 +1,10 @@
+IT dead deals (all owners): 203 (live excluded)
+  reviewed 30/203 -> salvaged 16
+  reviewed 60/203 -> salvaged 23
+  reviewed 90/203 -> salvaged 35
+  reviewed 120/203 -> salvaged 47
+  reviewed 150/203 -> salvaged 59
+  reviewed 180/203 -> salvaged 70
+strict-salvaged dead: 74
+
+FINAL IT AUDIENCE = 187 (net-new 113 + strict-salvaged dead 74) | with_email=59 | NO live deals

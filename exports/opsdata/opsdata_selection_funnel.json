@@ -1,0 +1,16 @@
+{
+ "funnel": {
+  "tracxn rows (funded + unfunded)": 6699,
+  "have a headcount figure": 5830,
+  "headcount 180-500": 583,
+  "India": 574,
+  "not a big corporate / MNC arm": 551,
+  "not listed (IPO)": 548,
+  "founded <= 2022": 541,
+  "minus dupes inside Tracxn": "-0",
+  "minus already a deal in HubSpot (both portals)": "-4",
+  "minus the pulled-back Tracxn pool": "-18",
+  "NET-NEW available": 519
+ },
+ "delivered": 500
+}

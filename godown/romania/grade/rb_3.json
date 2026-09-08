@@ -1,0 +1,1150 @@
+[
+ {
+  "name": "BlueSpark Technologies",
+  "domain": "bluespark.ro",
+  "website": "https://bluespark.ro/",
+  "seed_lead_score": "8",
+  "seed_reason": "Romanian software development company building custom web applications, scalable microservices, e-commerce platforms, data engineering and machine learning.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "cicd": 5,
+   "qa": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "By leveraging tools and metrics, we analyze and optimize your entire resource inventory, implementing Infrastructure as Code (IaC) solutions with Terraform for seamless configuration and deployment.",
+    "We automate UI testing, data validation, and data pipeline monitoring to ensure robust application performance.",
+    "Built on continuous integration (CI) principles, our service incorporates a rich set of libraries and plugins that simplify test development and integration, allowing teams to easily build upon existing frameworks.",
+    "We used Docker and Kubernetes for containerization and orchestration."
+   ],
+   "qa": [
+    "Test Automation as a Service Use out highly qualified test automation services to ensure your solutions are safe and functional Our Test Automation as a Service streamlines and enhances testing across all stages of development, from functional and integration tests to post-deployment and performance validation."
+   ],
+   "sdlc": [
+    "Our agile methodology allows us to adapt to changes quickly, providing you with a solution that evolves along with your business."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [
+   "https://github.com/twbs"
+  ],
+  "_prio": 23
+ },
+ {
+  "name": "Qualysoft",
+  "domain": "qualysoft.com",
+  "website": "https://qualysoft.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "IT consultancy (since 1999) offering consulting and development services, Microsoft cloud/CRM/ERP, test automation, team augmentation and dedicated teams.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 15733,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [
+    "https://jobs.lever.co/qualysoft"
+   ],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "enterprise": 6,
+   "DQ_template": 1,
+   "compliance": 1,
+   "senior_roles": 1,
+   "qa": 4,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Their technical and banking industry expertise enhanced our transaction monitoring capabilities, providing real-time insights and improving operational efficiency in handling security issues.",
+    "Deutsche Telekom Clients Secure Your Competitive Edge with End-To-End Digital Transformation Solutions Industries BFSI (Banking, Financial Services and Insurance) Get a competitive advantage with secure, data-driven platforms.",
+    "Elevate customer experiences, streamline operations, and enable compliant innovation for banks, fintech, and BFSIs worldwide.",
+    "Cross-Industry Experience BFSI (Banking, Financial Services and Insurance) Read more Manufacturing Read more Energy and Utilities Read more Telecom Read more Automotive Read more Tech and IT Read more Every industry benefits from embracing technology to grow, remain competitive, and thrive."
+   ],
+   "DQ_template": [
+    "03 Submitting the Application Documents At this stage, your CV will be formatted into the Qualysoft template and submitted to our partner."
+   ],
+   "compliance": [
+    "Audit-ready ISO 9001, ISO 27001, GDPR compliance in design."
+   ],
+   "senior_roles": [
+    "Application & solution architecture"
+   ],
+   "qa": [
+    "Full compliance & audit readiness 04 Test Automation & QA Services Integrated Manual and Automated Testing Web apps",
+    "Cloud software Services QA Assessment",
+    "QA Consultancy and Optimization Tech Stack Tricentis Tosca",
+    "Tech & IT We help technology companies scale their products and delivery with robust engineering, integrations, QA, automation, and DevOps."
+   ],
+   "cicd": [
+    "Jenkins Outcomes Improved product quality"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 23
+ },
+ {
+  "name": "Uptalen",
+  "domain": "uptalen.com",
+  "website": "https://www.uptalen.com/",
+  "seed_lead_score": "5",
+  "seed_reason": "Tech staffing/recruitment agency supplying freelance software developers and engineering teams via staff augmentation, rather than building software itself.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 21,
+   "cicd": 4,
+   "qa": 2,
+   "DQ_training": 6,
+   "senior_roles": 4,
+   "owns_product": 5,
+   "vcs": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our engagement models Top Advantages of Hiring Freelance Developers via a Tech Staffing Agency Whether you need an individual expert or a project-based team, their specialized skills can help bring your ideas to life efficiently.",
+    "Uptalen supports all engagement models:",
+    "We deliver vetted software developers and tech professionals through flexible engagement models — freelance, contract, and long-term remote placements.",
+    "The problem is that the typical US startup \"contractor\" arrangement looks a lot like employment: the developer works exclusively for them, follows their sprint cadence, and reports to their engineering manager."
+   ],
+   "cicd": [
+    "Zero hassle with CV filtering or slow recruitment pipelines We outperform traditional recruitment agencies in speed, quality, and reliability.",
+    "Augmentation lets you bring in a React Native developer for a mobile sprint, a DevOps engineer for a Kubernetes migration, or an AI/ML specialist for a model integration — and release them cleanly when the work is done.",
+    "Sign 5: You're Scaling a Product or Entering a New Market and Can't Wait for a Full Hire In 2026, staff augmentation platforms cut time-to-first-code-commit to 1–3 weeks, compared to 11–21 weeks via traditional hiring pipelines([Arc.dev](https://arc.dev/employer-blog/staff-augmentation/), 2024).",
+    "This growth reflects an industry-wide shift toward flexible engineering capacity — companies are scaling product teams in weeks, not quarters, by bringing in pre-vetted remote developers rather than waiting out traditional hiring pipelines."
+   ],
+   "qa": [
+    "Uptalen can assemble full remote engineering teams across: Backend Frontend FullStack Mobile QA / Automation DevOps Software Architecture We support both team augmentation and full-team assembly.",
+    "Your senior engineers start writing routine API integrations, handling QA that should be automated, or filling in on project coordination that belongs to a tech lead."
+   ],
+   "DQ_training": [
+    "We deliver vetted software developers and tech professionals through flexible engagement models — freelance, contract, and long-term remote placements.",
+    "If that role has been open for more than four weeks and you're still sifting through CVs, you've likely already spent more in lost productivity than a staff augmentation placement would have cost.",
+    "The gap between a 3-day placement and a 3-week wait comes down to how deeply a partner pre-vets their talent pool before you ever submit a brief."
+   ],
+   "senior_roles": [
+    "The problem is that the typical US startup \"contractor\" arrangement looks a lot like employment: the developer works exclusively for them, follows their sprint cadence, and reports to their engineering manager.",
+    "Your senior engineers start writing routine API integrations, handling QA that should be automated, or filling in on project coordination that belongs to a tech lead.",
+    "If your staff engineer is spending 30% of their week on tickets a mid-level developer could handle, you're effectively burning a significant share of their salary in misallocated hours — and quietly creating a flight risk."
+   ],
+   "owns_product": [
+    "A developer working 40 hours per week on your product, invoicing only you, has a very limited argument for self-employment after December 2026.",
+    "They are the EOR's employee, assigned to support your product.",
+    "The scenario is common: your product just got validated by a major client, or you've closed a funding round with a board expecting a feature set by Q3."
+   ],
+   "vcs": [
+    "Red Flag 3: Integration Into the Company's Organizational Structure Is the developer on your Slack, in your GitHub organization, using your Jira board, attending your all-hands calls?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 23
+ },
+ {
+  "name": "Berg Software",
+  "domain": "berg-software.com",
+  "website": "https://www.berg-software.com/en/",
+  "seed_lead_score": "8",
+  "seed_reason": "Custom software development and outsourcing firm building enterprise web applications across biomedical, retail automation and manufacturing with cloud and cybe",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; proves ownership of a name only",
+   "date": "2017-10-20",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 82158,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "owns_product": 1,
+   "qa": 2,
+   "sdlc": 9,
+   "cicd": 1,
+   "DQ_support": 1,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "IT [Case study: Enterprise BI solution / Fortune 500 Co.]",
+    "Cloud [Case study: Service delivery management application / Fortune 500 Co.]",
+    "read more Service delivery management application / Fortune 500 Co.",
+    "It enables end-to-end management of service delivery for a Fortune 500 company."
+   ],
+   "owns_product": [
+    "Berg Software can build your software product’s technical specifications, choose the right future-proof technology, code the product, perform quality assurance, deliver to your premises or cloud, and maintain and further develop your product."
+   ],
+   "qa": [
+    "Do they offer complementary services such as software design or architecture, QA, UI-UX, documentation, support, and maintenance?",
+    "To be in complete control, you will need comprehensive testing to be done frequently and early in each phase: Automated, high test coverage to discover any risks (unit testing, integration testing, regression testing)."
+   ],
+   "sdlc": [
+    "At Berg Software, we work with agile cost estimates.",
+    "We advise that separate orders have a relatively brief timeframe (from three to six months) to keep it agile.",
+    "Adopt an agile approach with frequent iterations: plan – design – develop – test – deploy – review.",
+    "For further details, check out our article: Agile stakeholder engagement."
+   ],
+   "cicd": [
+    "We adapt to your needs and infrastructure and deploy the standard Continuous Delivery, Continuous Integration, and DevOps methods."
+   ],
+   "DQ_support": [
+    "It supports several business areas (Advertising, Marketing, Merchandising, Administration)."
+   ],
+   "DQ_training": [
+    "To carry out this transaction, AROBS will use part of the capital raised from the BVB investors during the private placement for its shares, which took place in October this year, as well as bank financing.",
+    "In October 2021, AROBS announced the successful closing of the largest private placement in the history of the AeRO market, raising 74.2 million lei from investors."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 22
+ },
+ {
+  "name": "BruteCX",
+  "domain": "brutecx.com",
+  "website": "https://brutecx.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Independent software engineering practice building custom web applications, business systems, SaaS products and the APIs/integrations behind them.",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2025-12-14",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 4810,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "owns_product": 6,
+   "cicd": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "The focus is on web applications, business systems, workflows, SaaS products, and the integrations behind them.",
+    "Web Applications Business Systems SaaS Products APIs & Integrations Describe Your Project Browse Services Services Choose by what needs to be built.",
+    "The article library supports the service and solution pages with practical explanations for build decisions, project scope, automation, integrations, websites, and SaaS products.",
+    "+ BruteCX builds custom web applications, business systems, SaaS products, client portals, dashboards, booking tools, workflow software, APIs, integrations, and websites."
+   ],
+   "cicd": [
+    "05 Resulting State The business gets a controlled pipeline from opportunity to cash collection."
+   ],
+   "enterprise": [
+    "This might be client document submission, internal review, approval workflows, controlled sharing, or regulated record management."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 22
+ },
+ {
+  "name": "Benoli Tech",
+  "domain": "benolitech.com",
+  "website": "https://www.benolitech.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Provides embedded software and systems-engineering services (50+ engineers) for automotive, railway, robotics, semiconductors and industrial IIoT, plus AI.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "BenoliTech --> top of page SensoBlock Industries Web Development Railway Automotive Portfolio About us Our Story Our Activities Management"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_support": 2,
+   "compliance": 3
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "More HW/SW End-to-end hardware and software engineering solutions More Artificial Intelligence We develop and integrate machine learning, computer vision, and predictive analytics technologies to enhance automation, efficiency, and decision-making across industries.",
+    "With years of experience in embedded systems development, we understand the nuances of low-level programming and the hardware-software interaction, ensuring a smooth integration of your system."
+   ],
+   "compliance": [
+    "ISO9001 & ISO27001 certified © 2026 BenoliTech Rights Reserved bottom of page --> About",
+    "ISO9001 & ISO27001 certified © 2026 BenoliTech Rights Reserved bottom of page --> Consulting and Process Definition",
+    "ISO9001 & ISO27001 certified © 2026 BenoliTech Rights Reserved bottom of page"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 22
+ },
+ {
+  "name": "Zeren Software",
+  "domain": "zerensoftware.com",
+  "website": "https://zerensoftware.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "IT/consultancy (16+ years) delivering bespoke software, cloud, data engineering, AI/ML, cybersecurity and SAP via staff augmentation, BOT and agile delivery.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "neering & Consulting Each customer is unique. Tailored made software solutions for YOU Learn more Delivery Models Digital Consultancy Fixed Scope Proj"
+  },
+  "jd": {
+   "jd_chars": 8528,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "sdlc": 19,
+   "cicd": 2,
+   "compliance": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "How we work Two ways to build.",
+    "Geography isn’t a constraint for us – it’s a core component of how we work.",
+    "Explore our services Portfolio Matching talent with context Geography isn't a constraint, it's how we work.",
+    "Leverage global talent Engagement models Pick the model that works best for you The commercial model flexes your project while the talent stays senior and fully engaged."
+   ],
+   "cicd": [
+    "We are also pros in data (database, data science, big data), cloud (CI/CD, migration), enterprise architecture & SAP, cybersecurity & more.",
+    "Faster time to market Iterative cycles and continuous delivery allow for quicker release of functional segments of the product, reducing time to market."
+   ],
+   "compliance": [
+    "• EU & GDPR security - Data protection, IP security and legal certainty inside the European framework.",
+    "Certified Excellence: With ISO 9001, ISO27001, and Sistema IAS Accreditation, we set the bar high for quality and security."
+   ],
+   "DQ_support": [
+    "Our services span a variety of sectors, including software development, information security, hardware, networking, databases, and mobile app development."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 22
+ },
+ {
+  "name": "XCODES DEVELOPMENT",
+  "domain": "xcodesdevelopment.com",
+  "website": "https://xcodes.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Software studio designing, building and deploying tailored AI-native web, mobile and AI products.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ENT XCODES DEVELOPMENT Open main menu Home Company Services Portfolio Contact Building amazing web and mobile apps. Start a project Unique , creative"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "cicd": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "XCODES - Building tailored AI‑native products XCODES Our Products Our Services Our Work About Us Blog Contact us XCODES Our Products Our Services Our Work About Us Blog Contact us Our Services About Us Our Work Blog Our offices Bucharest Blvd.",
+    "We specialize in building tailored AI‑native products — designed around your goals, engineered on modern, structured frameworks, with intelligence built in from day one — so your product launches fast, scales with ease and keeps improving.",
+    "About Us - XCODES XCODES Our Products Our Services Our Work About Us Blog Contact us XCODES Our Products Our Services Our Work About Us Blog Contact us Our Services About Us Our Work Blog Our offices Bucharest Blvd."
+   ],
+   "cicd": [
+    "Cloud Services We deploy your application on cloud using our tools for continuous integration and continuous deployment."
+   ],
+   "qa": [
+    "In order to fulfill these aspects, code must be written as clean as possible, understandable, covered by automated tests, flexible, and maintainable."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [
+   "https://github.com/xcodesdevelopment",
+   "https://github.com/sabinnitu"
+  ],
+  "_prio": 22
+ },
+ {
+  "name": "XCODES",
+  "domain": "xcodes.com",
+  "website": "https://xcodes.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Custom software development company (since 2018) specializing in web apps, mobile apps, AI-powered solutions, cloud services and DevOps.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "cicd": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "XCODES - Building tailored AI‑native products XCODES Our Products Our Services Our Work About Us Blog Contact us XCODES Our Products Our Services Our Work About Us Blog Contact us Our Services About Us Our Work Blog Our offices Bucharest Blvd.",
+    "We specialize in building tailored AI‑native products — designed around your goals, engineered on modern, structured frameworks, with intelligence built in from day one — so your product launches fast, scales with ease and keeps improving.",
+    "About Us - XCODES XCODES Our Products Our Services Our Work About Us Blog Contact us XCODES Our Products Our Services Our Work About Us Blog Contact us Our Services About Us Our Work Blog Our offices Bucharest Blvd."
+   ],
+   "cicd": [
+    "Cloud Services We deploy your application on cloud using our tools for continuous integration and continuous deployment."
+   ],
+   "qa": [
+    "In order to fulfill these aspects, code must be written as clean as possible, understandable, covered by automated tests, flexible, and maintainable."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [
+   "https://github.com/xcodesdevelopment",
+   "https://github.com/sabinnitu"
+  ],
+  "_prio": 22
+ },
+ {
+  "name": "TEC",
+  "domain": "wearetec.com",
+  "website": "https://wearetec.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Builds custom software solutions and live-event technology for sports organizations, federations and brands.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 10741,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "compliance": 4,
+   "enterprise": 1,
+   "prod_eng": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "They helped us simplify our processes with third parties, making them far more manageable."
+   ],
+   "compliance": [
+    "Connect +40 771 35 22 10 hello@wearetec.com ISO GDPR & Privacy Terms of Use Whistleblower Policy Careers ANPC Media — Linkedin Facebook Instagram X © 2026 TEC."
+   ],
+   "enterprise": [
+    "Free Private Healthcare We offer a medical subscription at Regina Maria as a benefit for each team member, plus a discount on new glasses every two years."
+   ],
+   "prod_eng": [
+    "We excel in engineering excellence for sports and events, serving as your partner in the digital journey.",
+    "Sports, events and beyond TEC stands out as a specialist software company with a focus on engineering excellence, particularly in the sports and event sectors ."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 22
+ },
+ {
+  "name": "Devstark",
+  "domain": "devstark.com",
+  "website": "https://www.devstark.com/welcome/",
+  "seed_lead_score": "7",
+  "seed_reason": "Software and AI development firm (Clutch marketplace leader) applying industry best practices with senior talent for its clients.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 6417,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "DQ_template": 3,
+   "owns_product": 2,
+   "sdlc": 3,
+   "enterprise": 6,
+   "DQ_agency": 1,
+   "qa": 3,
+   "pr_practice": 2
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "SpreadSimple SpreadSimple is a nocode website builder that revolutionizes how you create and manage your online store by seamlessly integrating with Google Sheets.",
+    "With the rise of no-code and low-code platforms, it may seem tempting to opt for ready-made solutions.",
+    "Miro Miro is a comprehensive collaboration and whiteboarding platform that offers real-time collaboration, templates and frameworks, whiteboarding, integrations, security, and a mobile app."
+   ],
+   "owns_product": [
+    "Product Team as a Service Build and launch your product with a fully autonomous cross-functional team.",
+    "1 Jun 2026 Viktoriia Poligenko Article / 0029 Fixed price, time and materials, or a dedicated team Choosing the right collaboration approach when partnering with a tech vendor for custom software development can benefit your product by increasing productivity while reducing hiring costs."
+   ],
+   "sdlc": [
+    "We integrate seamlessly with your workflows while maintaining our own delivery standards and leadership when needed Delivery Sprints Tackle specific challenges or validate ideas through focused, short-term engagements.",
+    "Devstark has delivered dozens of features and consistently met sprint commitments."
+   ],
+   "enterprise": [
+    "20 Apr 2026 Maxim Yelisyeyev Article / 008 AI in Knowledge Management: Fortune 500 use cases Find out how Fortune 500 companies are improving knowledge management with the help of AI.",
+    "Our research team has prepared a thorough report on AI adoption among the Fortune 500 companies.",
+    "4 May 2026 Devstark research team, Refat Ametov Article / 0019 Automating administrative tasks in Healthcare with AI AI-powered automation in hospitals is steadily taking the world by storm.",
+    "Dive into an informative article on implementing automated healthcare systems that help hospitals process patient data faster and improve resource management to the point of perfection."
+   ],
+   "DQ_agency": [
+    "20 Apr 2026 Viktoriia Poligenko Article / 0024 AI in digital marketing A complete guide to how artificial intelligence is helping digital marketing specialists become more efficient."
+   ],
+   "qa": [
+    "Playwright Playwright is an open-source Node.js library for automating end-to-end testing of web applications.",
+    "Playwright offers a powerful and flexible testing for web developers, helping them ensure the quality and reliability of their applications.",
+    "Cypress Cypress is an open-source JavaScript-based testing framework that is used for end-to-end testing of web applications."
+   ],
+   "pr_practice": [
+    "It's web-based nature, real-time collaboration, design systems, prototyping, version control, and plugin ecosystem make it a popular choice among designers who want to create high-quality, consistent, and user-friendly designs.",
+    "Framer Framer is a powerful prototyping and design tool with features such as code-based design, interactive prototyping, design system management, collaboration, integration, and version control."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/devstark-com"
+  ],
+  "_prio": 22
+ },
+ {
+  "name": "AROBS",
+  "domain": "arobs.com",
+  "website": "https://arobs.com/",
+  "seed_lead_score": "9",
+  "seed_reason": "Top Romanian software company (since 1998) doing custom software, embedded/automotive/aerospace/medical, cybersecurity, IoT, big data, QA and IT outsourcing.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Custom Software Development Company | AROBS Menu Our Expertise Software Services Automotiv"
+  },
+  "jd": {
+   "jd_chars": 86471,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "enterprise": 15,
+   "sdlc": 8,
+   "senior_roles": 6,
+   "owns_product": 5,
+   "DQ_bpo": 4,
+   "compliance": 2,
+   "DQ_support": 6,
+   "prod_eng": 3,
+   "DQ_template": 1,
+   "qa": 2,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Talk to Our Team See How We Work BVB Listed Company Supported by EBRD 1200+ Engineers in 10 countries Clients in 15+ Countries The partners that trust us Partners of Codingscape Custom Software Development by AROBS Services and Products That Grow Revenue Cut Risk, and Outpace Competition.",
+    "Talk To Our Team See How We Work BVB Listed Company Supported by EBRD 1200+ Engineers in 10 countries Clients in 15+ Countries The clients that trust us Partners of Codingscape Building Great Software Has Never Been More Complex.",
+    "insurance digital ecosystem The main challenges in Avoca’s digital ecosystem are ensuring audit compliance and cybersecurity resilience.",
+    "AROBS helps organisations in banking, retail, logistics, insurance, manufacturing, and telecoms discover where automation creates real value, build it through citizen development and enterprise automation programmes, and sustain it through managed services and Centre of Excellence augmentation."
+   ],
+   "sdlc": [
+    "Talk to Our Team See How We Work BVB Listed Company Supported by EBRD 1200+ Engineers in 10 countries Clients in 15+ Countries The partners that trust us Partners of Codingscape Custom Software Development by AROBS Services and Products That Grow Revenue Cut Risk, and Outpace Competition.",
+    "Talk To Our Team See How We Work BVB Listed Company Supported by EBRD 1200+ Engineers in 10 countries Clients in 15+ Countries The clients that trust us Partners of Codingscape Building Great Software Has Never Been More Complex.",
+    "What engagement models do you offer for the software development process?",
+    "AROBS supports several engagement models, including team augmentation, fixed-price projects, managed capacity, managed services, and outcome-based delivery."
+   ],
+   "senior_roles": [
+    "We then move into delivery through structured Project services: solution architecture, front-to-back business analysis and development, test strategy, and go-live stabilization.",
+    "From process excellence and application modernisation to CoE build-out, our RPA consultants, solution architects, and developers get you from proof of concept to optimised production — fast.",
+    "CTOs & Tech Leaders Let’s talk architecture, team structure, and delivery model.",
+    "Within each software development project, we bring full-stack delivery: programme and project management, solution architecture, front-to-back development across front office, payments, market data, collateral, and analytics domains, plus test strategy, DevOps, and go-live support."
+   ],
+   "owns_product": [
+    "We built our own proprietary products, deployed across Central and Eastern Europe and beyond, each solving an operational problem at scale.",
+    "Regarding all our custom software development projects and our proprietary products, AROBS operates within the security and compliance frameworks required by its clients across financial services, insurance, and other regulated industries.",
+    "In addition to delivering custom software for clients, AROBS develops and operates proprietary products for fleet management , sales and distribution optimization, HR and payroll management , and other business processes .",
+    "Finally, find out more about our products with a click."
+   ],
+   "DQ_bpo": [
+    "Built for FMCG, retail, and distribution companies that can’t afford delays between the field and the back office.",
+    "It also reduces errors in areas such as data entry and processing.",
+    "Data Entry & Data Migration Automating manual input between legacy systems and modern platforms.",
+    "They are typically used in back-office processes such as data entry, invoice processing, or report generation, where tasks are repetitive and rules-based."
+   ],
+   "compliance": [
+    "Many of our clients operate under strict regulatory regimes, such as MiFID II, DORA, GDPR, Solvency II, and sector-specific mandates, depending on geography.",
+    "Regarding security, RPA solutions are secure and compliant, with encrypted data handling, role-based access, and audit trails to support regulations like GDPR and HIPAA."
+   ],
+   "DQ_support": [
+    "Top industry brands in major countries In addition, our expertise in advanced automotive engineering services extends to software and hardware.",
+    "Who We Serve Tier 1 automotive suppliers EV startups and OEMs Mobility service providers ADAS & autonomous tech developers We provide state-of-the-art engineering services, both software, and hardware.",
+    "In automotive, like in other industries, embedded systems security is one of the essential pillars to develop reliable software and hardware.",
+    "Absolutely.We support model-in-the-loop (MIL), software-in-the-loop (SIL), and hardware-in-the-loop (HIL) environments."
+   ],
+   "prod_eng": [
+    "With 25+ years of software engineering excellence and cross-sector business knowledge, we deliver AI-powered solutions that adapt to your operations, with a focus on measurable performance improvements Click Here POC in a Week."
+   ],
+   "DQ_template": [
+    "Customized dashboards, shift templates, leave policies or workflows should be addressed for successful implementation."
+   ],
+   "qa": [
+    "Testing (UAT & QA) Running tests to validate accuracy, data integrity, and functionality is a very important part in the process.",
+    "We have specialized teams who run manual as well as automated testing delivering a bug free product."
+   ],
+   "DQ_training": [
+    "Risks can include data security breaches, bot malfunctions, and the potential for job displacement."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 21
+ },
+ {
+  "name": "RebelDot",
+  "domain": "rebeldot.com",
+  "website": "https://www.rebeldot.com/",
+  "seed_lead_score": "9",
+  "seed_reason": "Top web & mobile development company for Fortune 500 clients (Visa, GEA) doing AI-native product engineering, AI & data solutions and cloud/agentic infrastructu",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Product Design and Development | RebelDot About Us Services Our Work Careers Menu About Us Services Our Work Careers Get a Quote Build the digital pro"
+  },
+  "jd": {
+   "jd_chars": 23765,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "enterprise": 2,
+   "prod_eng": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Learn more We build and run the cloud foundation your product depends on, keeping it reliable, secure, and ready for the demands of AI agents working in real scenarios.",
+    "This only means that the people building your product have already spent years inside process plants."
+   ],
+   "enterprise": [
+    "Premium healthcare coverage Premium healthcare coverage Expert Complete health insurance at Regina Maria, one of the largest health networks in Romania.",
+    "Premium healthcare coverage Expert Complete health insurance at Regina Maria, one of the largest health networks in Romania."
+   ],
+   "prod_eng": [
+    "Deny Accept Privacy Preferences Essential cookies Required Marketing cookies Essential Personalization cookies Essential Analytics cookies Essential Reject all cookies Allow all cookies Save preferences AI-Native Product Engineering"
+   ],
+   "sdlc": [
+    "It also means industrial standards for safety, reliability, and compliance are a core part of how we work."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 21
+ },
+ {
+  "name": "Anfa Engineering",
+  "domain": "anfaengineering.com",
+  "website": "https://anfaengineering.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Engineering company (15+ years) doing electronics design, embedded software development, prototyping/testing and design recovery.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 5826,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "compliance": 2,
+   "DQ_support": 3,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Contact us Name * Email * Phone * Message * GDPR Agreement * I consent to having this website store my submitted information so they can respond to my inquiry."
+   ],
+   "DQ_support": [
+    "Are you a student looking to develop your hardware skills and knowledge?",
+    "With over 15 years of experience in the development of hardware and software services, we are a team that likes challenges.",
+    "Our mission Our mission is to provide electronic hardware and software services for designing, testing and assembling of products at the highest level, to all our customers."
+   ],
+   "owns_product": [
+    "Meanwhile ensuring that both the quality of our products and services is kept high, while respecting the environment."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 21
+ },
+ {
+  "name": "Nearshore Romania",
+  "domain": "nearshore-romania.com",
+  "website": "https://nearshore-romania.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "ROPARDO's software development outsourcing brand (since 1994) doing product development, dedicated teams, MVP, QA, mobile and enterprise portals (Java/.NET) wit",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; proves ownership of a name only",
+   "date": "2010-02-19",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "DQ_support": 1,
+   "cicd": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "DevOps Transform your delivery processes by letting us build an effective collaboration environment and manage your production infrastructure.",
+    "Technology update for our products involved migration of all modules from old VB to modern approach with C#."
+   ],
+   "DQ_support": [
+    "Yet, any specific hardware or 3rd party software required will have to be ensured by you."
+   ],
+   "cicd": [
+    "Web Mobile Cloud Desktop DevOps Testing&QA using Java Python .NET JavaScript PHP Ansible Flexible Decision Making Platform The software platform was installed with success in the forecasted time and costs and it is now used naturally by our staff."
+   ],
+   "qa": [
+    "Web Mobile Cloud Desktop DevOps Testing&QA using Java Python .NET JavaScript PHP Ansible Flexible Decision Making Platform The software platform was installed with success in the forecasted time and costs and it is now used naturally by our staff."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 21
+ },
+ {
+  "name": "DX Software",
+  "domain": "dxsoftware.net",
+  "website": "https://www.dxsoftware.net/",
+  "seed_lead_score": "8",
+  "seed_reason": "Blockchain and software development company building dApps/crypto solutions plus web/mobile/desktop software with DevOps, UI/UX and QA.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "sed applications, cryptocurrency solutions, dApps and more. Software Development Bringing highly-skilled professional team to deal with creating Web,"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "qa": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "DevOps and Infrastructure Helping you to set up the right infrastructure to host your services, support your product development and simplify the software delivery.",
+    "Learn More 03 DevOps and Infrastructure It doesn’t matter how large or small your business is, we can help you set up the right infrastructure to host your services, support your product development and simplify the software delivery."
+   ],
+   "qa": [
+    "Learn More 05 Quality Assurance & Testing QA is always important, and choosing the right testing for your apps can be challenging."
+   ],
+   "sdlc": [
+    "Learn More HOW WE WORK We Are Here For You Every Step of The Way 1 Contact Us First step is for you to contact us through our website’s contact form or through our other contact details from our website."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 21
+ },
+ {
+  "name": "Graffino",
+  "domain": "graffino.com",
+  "website": "https://graffino.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Software architects building custom software, web platforms/portals/apps, AI & smart automation and financial/compliance tech integrations.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "Graffino • Web Development Experts 10 years in the making Web Development Experts Replay See what we"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "vcs": 3,
+   "owns_product": 5,
+   "sdlc": 5,
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "vcs": [
+    "Software Architects Software Architects Replay See what we do best X Github Linkedin We're partnering with startups and enterprises to create profitable digital products and ventures.",
+    "LinkedIn GitHub Personal site Medium Nick Ciolpan Nick co-founded Graffino and leads the technical side of the studio."
+   ],
+   "owns_product": [
+    "Explore use cases 04 Cloud & System Reliability We upgrade your underlying infrastructure to ensure your platforms are blazingly fast, highly secure, and ready to handle massive traffic.",
+    "More details ▾ 2 › Pages 1–2 of 22 book an appointment with us and let us help you execute on your product vision.",
+    "With us, your product will be engineered on a solid foundation, that helps you scale while keeping your application agile and your costs in check."
+   ],
+   "sdlc": [
+    "Visit Website Leadership Meet the founders → Our Process How we work 01 The Reality Audit We start by mapping your current configuration across the Supply Chain and operational realities to locate immediate bottlenecks.",
+    "Open Migro Platform Internal operational platform — Kanban tasks, automated invoicing, role-based reporting and phone-number case lookup.",
+    "With us, your product will be engineered on a solid foundation, that helps you scale while keeping your application agile and your costs in check."
+   ],
+   "DQ_support": [
+    "Open DimCheck From idea to hardware-connected product: Laser-Tape, mobile app and web analysis suite for logistics dimensioning."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/graffino",
+   "https://github.com/Graffino",
+   "https://github.com/zenopopovici"
+  ],
+  "_prio": 21
+ },
+ {
+  "name": "Ketek",
+  "domain": "ketek.ro",
+  "website": "https://www.ketek.ro/",
+  "seed_lead_score": "8",
+  "seed_reason": "Romanian software development outsourcing company (since 2006) handling end-to-end custom development, DevOps and IT integration.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Software Development Outsourcing Company - Ketek Outsourcing: Build your product with us a"
+  },
+  "jd": {
+   "jd_chars": 20951,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "sdlc": 1,
+   "owns_product": 3,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "[email protected] Search for: Home About Us About Mission, Vision and Values Why Choose Us Locations FAQ Careers What We Do IT Services Software Development DevOps Outsourcing Industries Web Development Document Processing Healthcare Travel Technology Printing Technology Case Studies Blog Contact Us Have any questions?",
+    "Ketek provides full stack custom software development services , from business analysis, architecture and user experience design, to coding, and development operations, with focus on solutions for the Cloud and other areas like: Healthcare , Travel Technology , Printing Technology etc.",
+    "Find Out More Our History 2006 Ketek begins life as a consulting provider for General Electric Healthcare."
+   ],
+   "sdlc": [
+    "Explore our services DevOps Reduce time to market, increase productivity and deliver great quality, reliable software by including DevOps practice in your software development process."
+   ],
+   "owns_product": [
+    "Product management We take your product to the next level.",
+    "We are responsible for guiding the success of your product, leading the team that is responsible for improving it.",
+    "We are currently ready to take over new projects, so don’t hesitate to contact us to discuss about outsourcing your product development."
+   ],
+   "cicd": [
+    "Now it is time to use some CI/CD scripts which will deploy our mic..."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 20
+ },
+ {
+  "name": "Momentum Software",
+  "domain": "momentum-software.ro",
+  "website": "https://momentum-software.ro/wp/",
+  "seed_lead_score": "8",
+  "seed_reason": "Custom Java EE software development and IT consulting company doing scalable architecture, performance tuning and BPM.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 3,
+   "qa": 5,
+   "DQ_template": 3,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our consultants are setting up a BPM platform in your enterprise and can model your processes in it.",
+    "Our solution increases also transparency of your processes.",
+    "The information has to flow in your processes from one system to another?"
+   ],
+   "qa": [
+    "We can help you in QA by offering you manual testing services .",
+    "Additionally, our QA automation engineers will help you to automate your functional tests using Bamboo and Selenium WebDriver.",
+    "We may solve bugs, create new features and unit tests.",
+    "Quality assurance services We can help you in QA by offering you manual testing services."
+   ],
+   "DQ_template": [
+    "Privacy policy WordPress Theme"
+   ],
+   "enterprise": [
+    "Industries where BPM is used BPM was successfully implemented in: Banking Insurance Energy Government Healthcare Retail License Our solution is based on open source technology."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 20
+ },
+ {
+  "name": "AFI OPS TECHNOLOGIES",
+  "domain": "afiops.com",
+  "website": "https://afiops.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Software development company doing custom software, big data & analytics, cloud (AWS/Azure/GCP), blockchain/Web3 and dedicated teams.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "AFI OPS TECHNOLOGIES - Software development company Services Services Custom Software Development Creating tailor"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 4,
+   "pr_practice": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "AFI OPS TECHNOLOGIES Services Services Big Data & Analytics Cloud Services Custom Software Development Blockchain & Web3 Technologies Dedicated Teams Portfolio How We Work About Contact Us Connecting You to Technology Contact Us Big Data & Analytics In a data-driven world, we're your navigators.",
+    "View Details HOW WE WORK Discover Planning Design & Develop Testing & Deploy Maintenance 01 Discover In this stage, we work closely with our clients to understand their business goals, target audience, and requirements.",
+    "We use agile development methodologies to ensure that the product is built efficiently and effectively.",
+    "Be agile in responding to client needs, market trends, and technological advancements to deliver flexible and scalable software solutions."
+   ],
+   "pr_practice": [
+    "Focus on thorough testing, code reviews, and adherence to best practices to ensure robust and reliable software."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 20
+ }
+]

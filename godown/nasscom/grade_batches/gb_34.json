@@ -1,0 +1,880 @@
+[
+ {
+  "name": "ExaThought Technology Consulting Private Limited",
+  "city": "Bengaluru",
+  "domain": "exathought.com",
+  "website": "https://www.exathought.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 128,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 4,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Leadership Meet our core team of passionate leaders charting the course to success How We Work Learn about our process, engagement and delivery model Careers Join us and be a change maker Case Studies Blogs Contact Your Digital Transformation Partner for Customer Experience Let’s Connect Design.",
+    "Ashik Peter From Agile to Agentic: How AI Is Quietly Rewriting the Software Development Lifecycle Discover how agentic AI is transforming the software development lifecycle—shifting teams from Agile execution to specification‑first, AI‑orchestrated delivery.",
+    "Technology Blockchain Data Engineering PWA Cross-Platform Mobile Microservices About Our Company How We Work Leadership Insights Careers Contact Us © 2025 ExaThought Technology Consulting Private Limited bottom of page --> How We Work",
+    "Our engagement model We work with our customer's closely to understand their product vision and work hand in hand to turn vision into reality."
+   ],
+   "enterprise": [
+    "Talk to our experts Outcomes, Not Stories All Case Studies Scalable DevOps for Healthcare B2B Platform Enabled a secure, scalable AWS-based DevOps model for Nayonika Eye Care, accelerating releases and ensuring reliable integrations across the healthcare ecosystem.",
+    "For regulated sectors, it introduces a deeper question: can autonomy exist without sacrificing sovereignty?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Exigo Consulting",
+  "city": "Hyderabad",
+  "domain": "exigoconsulting.in",
+  "website": "https://exigoconsulting.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Investment Banking & M&A Insights Skip to content Level 1, Suite # 11, Tourism Plaza, Begumpet, Greenland's-Hyderabad."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Eximious Global Limited",
+  "city": "Ahmedabad",
+  "domain": "eximiousglobal.com",
+  "website": "https://eximiousglobal.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2017-03-18",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 25248,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1,
+   "enterprise": 2,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Both our extensive networks and expertise in executive placements help businesses secure high-caliber leaders to allow organisations to focus on their core activities."
+   ],
+   "enterprise": [
+    "learn more Compliance At Eximious Global, healthcare compliance isn’t just a task—it’s our commitment.",
+    "We understand the complexities of healthcare regulations and how crucial compliance is for nursing agencies."
+   ],
+   "sdlc": [
+    "Excellence We are seen as trusted business advisors to our clients because we prioritise excellence at every step of our process."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "exl Service.com (India) Pvt Ltd",
+  "city": "Noida",
+  "domain": "exlservice.com",
+  "website": "https://www.exlservice.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-03-30",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 55325,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 8
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Learn more Article Agentic AI in the energy industry Read white paper Smarter healthcare starts with better data and AI that delivers We empower healthcare leaders to overcome the most complex challenges in today's evolving landscape.",
+    "Learn more White paper Connect, govern, and activate data for AI Read white paper Helping insurance companies win with data and AI Superior customer experiences.",
+    "Explore jobs in: Select country Australia Bulgaria Canada Colombia Czech Republic India Ireland Mexico Philippines Romania South Africa United Kingdom United States Overview Careers at EXL EXL is the go-to partner for businesses in data-driven industries like insurance, banking, healthcare, retail, and logistics.",
+    "insurance companies and six of the top ten U.S."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Expeditors International (India) Private Limited",
+  "city": "Chennai",
+  "domain": "expeditors.com",
+  "website": "https://www.expeditors.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "utton Capabilities Overview Industries SaaS Offerings Brand Portfolio Services Overview Supply Chain Transportation Customs & Compliance Warehousing &"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 16177,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 10,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Overview Industries Automotive & Mobility Aviation & Aerospace Beer, Wine, & Spirits Energy Healthcare Manufacturing Retail & Fashion Start Ups Technology U.S.",
+    "See career opportunities at Expeditors > Expeditors Pride Minimum tenure of over half our employees Number of years on the Fortune 500 list Locations globally Promotion from Within We value long-term employment because of what it can do for our customers and career satisfaction.",
+    "Industry-Specific Expertise From aerospace and healthcare to retail and automotive, our specialists understand your sector's challenges and opportunities.",
+    "In January 2024, Blake assumed his current position as President of Global Business Development, where he oversees sales, customer implementation, account management, marketing and communications, risk management, insurance and claims management solutions, and Expeditors’ professional and consultative services."
+   ],
+   "cicd": [
+    "She also championed initiatives to strengthen commercial and operational competencies, enabling teams to deliver greater value to customers and drive sustainable market share growth, while building a strong leadership pipeline and fostering a high-performance culture across the region."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Experian Services India (Private Limited)",
+  "city": "Hyderabad",
+  "domain": "experian.com",
+  "website": "https://www.experian.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [
+    "https://join.smartrecruiters.com/Experian/59c50259-c707-4a95-9934-cc6d622b99d1-join-our-community"
+   ],
+   "jd_chars": 34103,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 18,
+   "DQ_support": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "You could save over $1,000 a year on insurance β Never shop for car insurance again.",
+    "Get started Best offer Insurance Carrier Partner Details β Results will vary and some may not see savings.",
+    "Experian offers insurance from a network of top-rated insurance companies through its licensed subsidiary, Gabi Personal Insurance Agency, Inc.",
+    "Banking services provided by CFSB, Member FDIC."
+   ],
+   "DQ_support": [
+    "See all credit support The Experian Smart Money™ Debit Card is issued by Community Federal Savings Bank (CFSB), pursuant to a license from Mastercard International."
+   ],
+   "cicd": [
+    "Take Control of Your Payday Loan Debt Getting stuck in a payday loan cycle can feel overwhelming, but consolidation offers a concrete path forward."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Expleo Solutions Limited",
+  "city": "Chennai",
+  "domain": "expleogroup.com",
+  "website": "https://expleo.com/global/en/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Exponentia.ai Private Limited",
+  "city": "Mumbai",
+  "domain": "exponentia.ai",
+  "website": "https://www.exponentia.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "g Insurance FMCG Telecom Financial Services RESOURCES Blogs Case Studies COMPANY About Us Careers Partners CONTACT US --> AI Tech at Scale KNOW MORE T"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 32,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 19,
+   "cicd": 9,
+   "owns_product": 5,
+   "prod_eng": 1,
+   "sdlc": 12
+  },
+  "site_quotes": {
+   "enterprise": [
+    "As banking institutions expand their financial product lines, relying on legacy on-premise data marts limits processing speeds and restricts cross-departmental alignment.",
+    "Read more Eliminating T-2 Source Delays and Automating 3 Extraction Methodologies via Real-Time Qlik Replicate & Compose Integration Life insurance enterprises require high-speed data availability to satisfy regulatory mandates and maintain efficient daily reporting.",
+    "This case study details the modernization of a prominent IRDAI-registered life insurance provider's data infrastructure.",
+    "Talk to Experts Industries we serve Customized AI Solutions for Every Industry Insurance Rapidly evolving with AI-driven solutions that enhance customer retention, personalize offerings, and detect fraud."
+   ],
+   "cicd": [
+    "This modernized architecture delivers faster data pipelines while creating a future-ready foundation for AI, MLOps, and automated governance.",
+    "Our expertise in data engineering and pipelines helps us build you a strong base that leverages next gen insights.",
+    "ML Ops enables you to automate and streamline the ML pipeline, ensuring quality, reliability, and scalability of your ML solutions.",
+    "Enterprise Processing & Observability Controls Integrated built-in logging structures, operational monitoring dashboards, and concurrent processing engine models to maximize computational efficiency and data pipeline stability at scale."
+   ],
+   "owns_product": [
+    "We leverage our prebuilt accelerators to speed up the deployment process.",
+    "With the help of GenAI automation, we enable faster, cheaper, and more efficient workflows for your business, along with enhancing the quality and value of your products and services.",
+    "We want to be an IP driven consulting organization which leverages its accelerators, frameworks and partner ecosystem to deliver high quality solutions rapidly and economically."
+   ],
+   "prod_eng": [
+    "What started as a bold vision has now evolved into a leading global AI-Consulting firm, acclaimed for our expertise in GenAI, Modernize AI + Data Platforms, AI Product Engineering and AI & Analytics Visualization services and offerings."
+   ],
+   "sdlc": [
+    "Proficient in Waterfall and Agile methodologies, Sanjay has demonstrated exceptional leadership, overseeing applications, budgets, and sizable teams.",
+    "She firmly believes that culture is a company’s greatest differentiator and is helping shape Exponentia.AI into an agile, resilient, and values-led organization—where people and AI thrive together.",
+    "With 18+ years at IBM, Kyndryl, and high-growth firms, he combines enterprise depth with agile execution to position Exponentia as a trusted Data & AI partner.",
+    "He oversees risk management, resource planning, and stakeholder engagement, ensuring delivery is agile and accountable."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "F5 Networks Innovation Private Limited",
+  "city": "Hyderabad",
+  "domain": "f5.com",
+  "website": "https://www.f5.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ation Training Professional Certification Webinars Customer Case Studies Support Support F5 Support Support Portal Professional Services Activate Regi"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 57243,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "owns_product": 3,
+   "DQ_support": 3,
+   "cicd": 5
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Learn more about our culture › Global offices with jobsite flexibility When it comes to how we work, we value community, collaboration, and flexibility above all."
+   ],
+   "owns_product": [
+    "Your product has successfully completed the Department of Defense Information Network (DoDIN) certification process.",
+    "Your product has successfully met the requirements of the Commercial Solutions for Classified (CSfC) program.",
+    "Your product has successfully completed evaluation under the National Information Assurance Partnership (NIAP) ."
+   ],
+   "DQ_support": [
+    "The F5 Application Delivery and Security Platform (ADSP) unifies high-performance traffic management, consistent policy enforcement, and deep visibility across hardware, software, SaaS, and cloud-native environments, enabling NetOps and Platform teams to scale apps and APIs while reducing risk and complexity.",
+    "F5 simplifies distributed environments with hardware and software load balancing plus SaaS deployment flexibility delivering unified traffic management, consistent policy enforcement, and end-to-end visibility across on-premises, cloud, and edge."
+   ],
+   "cicd": [
+    "F5 NGINX One Optimizes, scales, and secures modern apps, Kubernetes clusters, APIs, and AI inference.",
+    "F5 Distributed Cloud DNS Manage and secure API traffic in modern environments with NGINX tooling F5 NGINX One Optimizes, scales, and secures modern apps, Kubernetes clusters, APIs, and AI inference."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "FACC Solutions Private Limited",
+  "city": "Pune",
+  "domain": "facc.com",
+  "website": "https://www.facc.com/en/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1996-04-03",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 48668,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We are member of CDP, Eccos22, EcoVadis & CSR-Dialogforum We are member of CDP, Eccos22, EcoVadis & CSR-Dialogforum We are member of CDP, Eccos22, EcoVadis & CSR-Dialogforum We are member of CDP, Eccos22, EcoVadis & CSR-Dialogforum Our initiatives for ESG Our products and processes positively impact the world."
+   ],
+   "enterprise": [
+    "Being Transparent Investor Publicly listed company Since listing on the Vienna Stock Exchange in 2014, FACC AG has strengthened its financial resources and market position, attracting diverse investors and driving aerospace innovation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Fakhoury Consultants Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "employmentimmigration.com",
+  "website": "https://fakhouryglobal.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-05-22",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 9955,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Fervid Smart Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "fervidsmart.com",
+  "website": "https://www.fervidsmart.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "More Patient Engagement Portals Create interactive portals that empower patients to access their health records, schedule appointments, and communicate with healthcare providers.",
+    "Healthcare Analytics Leverage data analytics to gain insights into patient trends, treatment effectiveness, and operational performance."
+   ],
+   "owns_product": [
+    "--> Our Products --> Our Products We develop state of the art web applications Fervid Smart Solutions provides web application development services to clients in various industries across the globe."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Fidelity Business Services India Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "fidelity.co.in",
+  "website": "https://careers.fidelityinternational.com/locations/india/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ions, insurers and wealth managers, to private individuals. Our Workplace & Personal Financial Health business provides individuals, advisers and empl"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 229152,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 7
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Whether you join as a Graduate or Postgraduate, Intern, Industrial Placement or become an Apprentice, you’ll get the support to grow your skills as well as your experience.",
+    "For our graduate, summer internship, and industrial placements, we accept applications from all subject backgrounds and degree disciplines.",
+    "Ranked 60th at RateMyPlacement’s Best 100 Student Employers 2022-2023 by National Undergraduate Employability (NUE) Awards."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Fifth Generation Technologies India Pvt Ltd",
+  "city": "Chennai",
+  "domain": "fifthgentech.com",
+  "website": "https://www.fifthgentech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Finavi CFO Private Limited",
+  "city": "Bengaluru",
+  "domain": "finavicfo.com",
+  "website": "https://www.finavicfo.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Fitmat Smart Solutions Private Limited",
+  "city": "Pune",
+  "domain": "kreedalabs.com",
+  "website": "https://www.kreedalabs.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2022-08-20",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 325799,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "DQ_support": 2,
+   "owns_product": 1,
+   "prod_eng": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Specialists in GenAI, Agentic AI, AI Chatbots, Computer Vision, and Custom Software — serving clients across Fashion, HR Tech, E-Learning, Supply Chain, Manufacturing, Healthcare, BFSI and more.",
+    "75+ Production Systems shipped across Fashion, HR Tech, Healthcare, Insurance, eLearning, and Supply Chain."
+   ],
+   "DQ_support": [
+    "When the pandemic changed the economics of consumer hardware, we pivoted.",
+    "Hard to scale as B2C hardware in India."
+   ],
+   "owns_product": [
+    "Instead of leaving behind our product-building DNA, we brought it into software engineering services."
+   ],
+   "prod_eng": [
+    "Transformed product engineering DNA into client services — full-stack software, Computer Vision, marketplace platforms.",
+    "With deep Expertise in AI , Product Engineering and Enterprise Technology , he has led the company from a startup to a trusted technology partner delivering production-grade AI solutions for global businesses.",
+    "Founder & CEO Saurabh Bhansali Chief Sales Officer Pavithra Kumar Hardageri Head of Operations Kumaresh Bhuyan Head of Human Resources Anishri Masal Vision To be a global leader in AI-powered product engineering — building smart, scalable solutions that change how companies innovate and grow."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Flipkart Internet Private Limited",
+  "city": "Bengaluru",
+  "domain": "flipkart.com",
+  "website": "https://www.flipkart.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "alme TV Motorola TV OnePlus TVs LG TV TV Sony TV Samsung TV Android Television Iffalcon Tv Mi TV Large Appliances : TV & Appliances End of Season Sale"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Additionally, our Dependable TV and Appliance Store ensures zero transit damage, with a replacement guarantee if anything goes wrong."
+   ],
+   "enterprise": [
+    "UPI, Pay Later, and Flexible Payments: Enjoy ultimate payment flexibility with options like UPI, Pay Later, Credit/Debit Cards, Net Banking."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Flodata Analytics Private Limited",
+  "city": "Delhi",
+  "domain": "flodataanalytics.com",
+  "website": "https://flodataanalytics.com/about-us/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2020-12-25",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 7827,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 2,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "A Team of Experts Our team is composed of highly skilled data scientists, data engineers, developers, GIS experts, solution architects, and analysts."
+   ],
+   "sdlc": [
+    "Problem-Solving Habit We have consciously cultivated an organization-wide habit of engineering solutions through agile development practices, rapid technology adoption, and hyper-collaboration of diversely skilled professionals."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Fluid Analytics Private Limited",
+  "city": "Pune",
+  "domain": "fluidrobotics.com",
+  "website": "https://www.fluidanalytics.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 2,
+   "cicd": 1,
+   "sdlc": 3,
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Learn More CORE CAPABILITIES Predictive Infrastructure Intelligence AI-driven analysis of CCTV, sonar, and historical inspection data to identify structural risk, deterioration trends, and rehabilitation priorities—faster and more consistently than manual methods.",
+    "From autonomous robotic systems and embedded hardware to scalable software platforms and AI-driven analytics, the founding team has repeatedly translated advanced research into deployable systems operating in constrained, high-risk environments."
+   ],
+   "cicd": [
+    "The results from Fluid Analytics AI helped track I&I and exfiltration in the sewer pipelines in Pinellas County, Florida."
+   ],
+   "sdlc": [
+    "Learn More Fluid Analyitcs AI Home Connect with us: info@fluidanalytics.ai USA Mountain View, CA IN Pune, MH Solutions How We Work Deployments About News & Media Contact Us © 2026 Fluid Analytics Inc.",
+    "Fluid Analyitcs AI Home Connect with us: info@fluidanalytics.ai USA Mountain View, CA IN Pune, MH Solutions How We Work Deployments About News & Media Contact Us © 2026 Fluid Analytics Inc.",
+    "bottom of page --> How We Work"
+   ],
+   "prod_eng": [
+    "Founding Team Fluid Analytics was founded by a team that combines deep technical research, product engineering, and real-world infrastructure experience."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "FocusR Consultancy and Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "focusrtech.com",
+  "website": "https://www.focusrtech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 2203,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "DQ_support": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "We deliver tailored ERP solutions that integrate seamlessly with your processes, boosting efficiency and long-term scalability."
+   ],
+   "DQ_support": [
+    "Future Proofing Upgrade If you are looking for application, database, hardware, or middleware upgrades, we are your ideal choice."
+   ],
+   "owns_product": [
+    "Custom Product Development Our product development process is dedicated to creating solutions to match your company's esteemed values by combining market insights, upcoming trends, and customer feedback to drive a range of successes and sales."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

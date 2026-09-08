@@ -1,0 +1,1830 @@
+[
+ {
+  "id": "ACoAAAj7DbUBHy3QESl-E93fITNefMjdpNbQQy0",
+  "publicIdentifier": "azhar-mansuri-89956142",
+  "linkedinUrl": "https://www.linkedin.com/in/azhar-mansuri-89956142",
+  "firstName": "Azhar",
+  "lastName": "Mansuri",
+  "emails": [],
+  "headline": "Founder & CTO at 3Brain Technolabs | Full-Stack Web & Mobile App Development | MERN / MEAN / React / Python / React Native / Node / AWS | Digital Marketing & eCommerce Solutions | Helping Businesses Grow Online",
+  "openToWork": false,
+  "hiring": false,
+  "premium": true,
+  "influencer": false,
+  "memorialized": false,
+  "creator": false,
+  "location": {
+   "linkedinText": "Greater Ahmedabad Area",
+   "countryCode": "IN",
+   "parsed": {
+    "text": "Ahmedabad, India",
+    "countryCode": "IN",
+    "regionCode": null,
+    "country": "India",
+    "countryFull": "India",
+    "state": "Gujarat",
+    "city": "Ahmedabad"
+   }
+  },
+  "objectUrn": "150670773",
+  "registeredAt": "2011-11-04T18:44:01.000Z",
+  "topSkills": [
+   "Node.js",
+   "Artificial Intelligence (AI)",
+   "React.js",
+   "React Native",
+   "Large Language Models (LLM)"
+  ],
+  "connectionsCount": 2966,
+  "followerCount": 2957,
+  "verified": true,
+  "about": "As the Founder & CTO of 3Brain Technolabs, I lead a passionate team of developers, designers, and marketers who transform business ideas into high-performing digital solutions. Our mission is simple — to help companies grow through smart technology, scalable architecture, and result-driven digital strategy.\n\n💡 What We Do at 3Brain Technolabs\nWe specialize in end-to-end development and digital growth across multiple domains:\n🔸 Web Development:\nBuilding responsive, fast, and scalable applications using React, Next.js, Angular, Node.js, and Python (Django, FastAPI) for startups and enterprises.\n🔸 Mobile App Development:\nCreating seamless, cross-platform apps with React Native, Flutter, Android, and iOS — designed for performance, usability, and growth.\n🔸 Cloud & DevOps:\nDeploying and managing cloud infrastructure on AWS, Azure, Firebase, Supabase, and implementing CI/CD pipelines for efficiency and scalability.\n🔸 Digital Marketing & SEO:\nBoosting visibility through on-page/off-page SEO, Google Ads, Meta Ads, and email campaigns that convert leads into loyal customers.\n🔸 eCommerce Solutions:\nDeveloping high-converting online stores on Shopify, Amazon, Flipkart, and other marketplaces, with integrated SEO and paid promotions.\n\n💼 Our Approach\nEvery project is guided by agile methods, data-backed decisions, and a commitment to long-term partnerships. We don’t just deliver code — we deliver results that help businesses scale faster and compete globally.\n\n🌐 Whether you’re looking to build a new product, expand your eCommerce presence, or optimize your digital reach —\nlet’s connect and discuss how 3Brain Technolabs can accelerate your business growth.\n📩 sales@3braintechnolabs.com | 🌍 [www.3braintechnolabs.com]\n",
+  "currentPosition": [
+   {
+    "position": "Chief Technology Officer",
+    "location": "Ahmedabad, Gujarat, India",
+    "employmentType": "Self-employed",
+    "workplaceType": "On-site",
+    "companyName": "3Brain Technolabs Private Limited",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/3brain-technolabs/",
+    "companyId": "14467384",
+    "duration": "2 yrs 5 mos",
+    "description": null,
+    "skills": [
+     "Artificial Intelligence (AI)",
+     "Machine Learning",
+     "Python (Programming Language)",
+     "React.js",
+     "React Native",
+     "Node.js",
+     "Express.js",
+     "MongoDB",
+     "Chatbot Development",
+     "Search Engine Optimization (SEO)",
+     "E-commerce SEO",
+     "Shopify",
+     ".NET",
+     "ASP.NET",
+     "ASP.NET MVC",
+     ".NET Core",
+     "ASP.NET Core",
+     "ASP.NET Web API",
+     "Microsoft Azure",
+     "Azure Functions",
+     "Azure Service Bus",
+     "Azure Virtual Machines",
+     "Azure Data Factory",
+     "Azure Cosmos DB",
+     "Azure"
+    ],
+    "startDate": {
+     "month": "Apr",
+     "year": 2024,
+     "text": "Apr 2024"
+    },
+    "endDate": {
+     "text": "Present"
+    },
+    "companyLogo": {
+     "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFiEBXprvWnuQ/company-logo_400_400/company-logo_400_400/0/1726046938644/3brain_technologies_logo?e=1788998400&v=beta&t=V6bfXJJgfAMHPA4tBY8lxL0dCvWZw1sAIdOYRFHRugk",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFiEBXprvWnuQ/company-logo_400_400/company-logo_400_400/0/1726046938644/3brain_technologies_logo?e=1788998400&v=beta&t=V6bfXJJgfAMHPA4tBY8lxL0dCvWZw1sAIdOYRFHRugk",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFiEBXprvWnuQ/company-logo_200_200/company-logo_200_200/0/1726046938644/3brain_technologies_logo?e=1788998400&v=beta&t=jWE3YbH8Gdgzp96m-KhGkOCsR0hxoAUDFH2cvlc0RDk",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFiEBXprvWnuQ/company-logo_100_100/company-logo_100_100/0/1726046938644/3brain_technologies_logo?e=1788998400&v=beta&t=DZ0mMI2odtJqVCO8S4jmDoZ9wW-dA6sIvpgynt28cBc",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    },
+    "companyUniversalName": "3brain-technolabs"
+   }
+  ],
+  "profileTopEducation": [
+   {
+    "schoolName": "Government Engineering College, Modasa",
+    "schoolLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Government+Engineering+College%2C+Modasa",
+    "schoolId": null,
+    "degree": "Bachelor’s Degree",
+    "fieldOfStudy": "Computer Engineering",
+    "period": "2006 - 2010",
+    "startDate": {
+     "year": 2006,
+     "text": "2006"
+    },
+    "endDate": {
+     "year": 2010,
+     "text": "2010"
+    },
+    "schoolLogo": null
+   }
+  ],
+  "profileActions": [
+   {
+    "label": "View my services",
+    "url": "https://www.linkedin.com/services/page/71595432b0745204a5"
+   }
+  ],
+  "profilePicture": {
+   "url": "https://media.licdn.com/dms/image/v2/D4D03AQHsCP3btbntJg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726224666503?e=1788998400&v=beta&t=YYDsYkvMqKNyELPM1KULGrWe28W-99-12IqJ544ccgw",
+   "sizes": [
+    {
+     "url": "https://media.licdn.com/dms/image/v2/D4D03AQHsCP3btbntJg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726224666503?e=1788998400&v=beta&t=YYDsYkvMqKNyELPM1KULGrWe28W-99-12IqJ544ccgw",
+     "width": 525,
+     "height": 525
+    },
+    {
+     "url": "https://media.licdn.com/dms/image/v2/D4D03AQHsCP3btbntJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726224666422?e=1788998400&v=beta&t=Cfj-9NibQzeOlMAb3ElpU6sbxZeTgBg2FNTxFM0mmPk",
+     "width": 400,
+     "height": 400
+    },
+    {
+     "url": "https://media.licdn.com/dms/image/v2/D4D03AQHsCP3btbntJg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726224666422?e=1788998400&v=beta&t=QQpwDMYCV2JbtNsrGMXu3dvJ8YFnjz-cKCt_fhpQwfI",
+     "width": 200,
+     "height": 200
+    },
+    {
+     "url": "https://media.licdn.com/dms/image/v2/D4D03AQHsCP3btbntJg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1726224666422?e=1788998400&v=beta&t=XWxgKS3QF4_9tUKw2nqnRd82xKE3OXWOlLzYWspx-9M",
+     "width": 100,
+     "height": 100
+    }
+   ]
+  },
+  "coverPicture": {
+   "url": "https://media.licdn.com/dms/image/v2/D4D16AQH6AJ8m1QQsnA/profile-displaybackgroundimage-shrink_350_1400/B4DZgyTrvNHAAY-/0/1753190678464?e=1788998400&v=beta&t=sR46NWna0hJki89ZJRoELULbM92_2JjqzD0-piQP4s8",
+   "sizes": [
+    {
+     "url": "https://media.licdn.com/dms/image/v2/D4D16AQH6AJ8m1QQsnA/profile-displaybackgroundimage-shrink_350_1400/B4DZgyTrvNHAAY-/0/1753190678464?e=1788998400&v=beta&t=sR46NWna0hJki89ZJRoELULbM92_2JjqzD0-piQP4s8",
+     "width": 1400,
+     "height": 350
+    },
+    {
+     "url": "https://media.licdn.com/dms/image/v2/D4D16AQH6AJ8m1QQsnA/profile-displaybackgroundimage-shrink_200_800/B4DZgyTrvNHAAU-/0/1753190678464?e=1788998400&v=beta&t=RmDxuDkxKWl_dW_4DpCUtSVOlsoI2QOq6-A2THLKqR8",
+     "width": 800,
+     "height": 200
+    }
+   ]
+  },
+  "photo": "https://media.licdn.com/dms/image/v2/D4D03AQHsCP3btbntJg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726224666503?e=1788998400&v=beta&t=YYDsYkvMqKNyELPM1KULGrWe28W-99-12IqJ544ccgw",
+  "profileLocales": [
+   {
+    "country": "US",
+    "language": "en"
+   }
+  ],
+  "primaryLocale": {
+   "country": "US",
+   "language": "en"
+  },
+  "multiLocaleHeadline": [
+   {
+    "headline": "Founder & CTO at 3Brain Technolabs | Full-Stack Web & Mobile App Development | MERN / MEAN / React / Python / React Native / Node / AWS | Digital Marketing & eCommerce Solutions | Helping Businesses Grow Online",
+    "locale": "en_US"
+   }
+  ],
+  "services": {
+   "description": "3 Brain Technolabs is a full-stack IT company helping businesses turn ideas into secure, scalable digital products. We specialize in Web & App Development (React, Node, Flutter), Cloud & DevOps (AWS, Azure), eCommerce (Shopify, Amazon), and Digital Marketing. From design to deployment, we deliver performance-driven solutions that help brands grow online.",
+   "media": [],
+   "servicesList": [
+    "Search Engine Optimization (SEO)",
+    "Application Development",
+    "Enterprise Content Management",
+    "Web Development",
+    "iOS Development",
+    "IT Consulting",
+    "Android Development",
+    "Mobile Application Development",
+    "Custom Software Development",
+    "Cloud Management"
+   ],
+   "rating": null,
+   "requestUrl": null
+  },
+  "experience": [
+   {
+    "position": "Chief Technology Officer",
+    "location": "Ahmedabad, Gujarat, India",
+    "employmentType": "Self-employed",
+    "workplaceType": "On-site",
+    "companyName": "3Brain Technolabs Private Limited",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/3brain-technolabs/",
+    "companyId": "14467384",
+    "duration": "2 yrs 5 mos",
+    "description": null,
+    "skills": [
+     "Artificial Intelligence (AI)",
+     "Machine Learning",
+     "Python (Programming Language)",
+     "React.js",
+     "React Native",
+     "Node.js",
+     "Express.js",
+     "MongoDB",
+     "Chatbot Development",
+     "Search Engine Optimization (SEO)",
+     "E-commerce SEO",
+     "Shopify",
+     ".NET",
+     "ASP.NET",
+     "ASP.NET MVC",
+     ".NET Core",
+     "ASP.NET Core",
+     "ASP.NET Web API",
+     "Microsoft Azure",
+     "Azure Functions",
+     "Azure Service Bus",
+     "Azure Virtual Machines",
+     "Azure Data Factory",
+     "Azure Cosmos DB",
+     "Azure"
+    ],
+    "startDate": {
+     "month": "Apr",
+     "year": 2024,
+     "text": "Apr 2024"
+    },
+    "endDate": {
+     "text": "Present"
+    },
+    "companyLogo": {
+     "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFiEBXprvWnuQ/company-logo_400_400/company-logo_400_400/0/1726046938644/3brain_technologies_logo?e=1788998400&v=beta&t=V6bfXJJgfAMHPA4tBY8lxL0dCvWZw1sAIdOYRFHRugk",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFiEBXprvWnuQ/company-logo_400_400/company-logo_400_400/0/1726046938644/3brain_technologies_logo?e=1788998400&v=beta&t=V6bfXJJgfAMHPA4tBY8lxL0dCvWZw1sAIdOYRFHRugk",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFiEBXprvWnuQ/company-logo_200_200/company-logo_200_200/0/1726046938644/3brain_technologies_logo?e=1788998400&v=beta&t=jWE3YbH8Gdgzp96m-KhGkOCsR0hxoAUDFH2cvlc0RDk",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFiEBXprvWnuQ/company-logo_100_100/company-logo_100_100/0/1726046938644/3brain_technologies_logo?e=1788998400&v=beta&t=DZ0mMI2odtJqVCO8S4jmDoZ9wW-dA6sIvpgynt28cBc",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    },
+    "companyUniversalName": "3brain-technolabs"
+   },
+   {
+    "position": "Software Development Lead",
+    "location": "Greater Ahmedabad Area",
+    "employmentType": "Full-time",
+    "workplaceType": null,
+    "companyName": "Affirma Consulting",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/affirma-consulting/",
+    "companyId": "87677",
+    "duration": "7 yrs 11 mos",
+    "description": null,
+    "skills": null,
+    "startDate": {
+     "month": "Jun",
+     "year": 2016,
+     "text": "Jun 2016"
+    },
+    "endDate": {
+     "month": "Apr",
+     "year": 2024,
+     "text": "Apr 2024"
+    },
+    "companyLogo": {
+     "url": "https://media.licdn.com/dms/image/v2/C560BAQFhm9Dhvexx-Q/company-logo_400_400/company-logo_400_400/0/1630646924707/affirma_consulting_logo?e=1788998400&v=beta&t=QLLptdI54QT-Y749OoZdsihMzvmUXJtPDla30OJkalo",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C560BAQFhm9Dhvexx-Q/company-logo_400_400/company-logo_400_400/0/1630646924707/affirma_consulting_logo?e=1788998400&v=beta&t=QLLptdI54QT-Y749OoZdsihMzvmUXJtPDla30OJkalo",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C560BAQFhm9Dhvexx-Q/company-logo_200_200/company-logo_200_200/0/1630646924707/affirma_consulting_logo?e=1788998400&v=beta&t=jDFySnLTh_65tlF_oxpI3XUy3XUHL3loyHrGwE25O1M",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C560BAQFhm9Dhvexx-Q/company-logo_100_100/company-logo_100_100/0/1630646924707/affirma_consulting_logo?e=1788998400&v=beta&t=D6Y0-mLzV2fdh3Wr40uS-8aWmDV7G1bKqDnBMvfYfMo",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    },
+    "companyUniversalName": "affirma-consulting"
+   },
+   {
+    "position": "Sr. Software Engineer",
+    "location": "Ahmedabad, Gujarat, India",
+    "employmentType": null,
+    "workplaceType": null,
+    "companyName": "Digicorp Information Systems Pvt. Ltd.",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/digicorp-info-sys/",
+    "companyId": "219834",
+    "duration": "5 yrs 3 mos",
+    "description": null,
+    "skills": null,
+    "startDate": {
+     "month": "Apr",
+     "year": 2011,
+     "text": "Apr 2011"
+    },
+    "endDate": {
+     "month": "Jun",
+     "year": 2016,
+     "text": "Jun 2016"
+    },
+    "companyLogo": {
+     "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEKAdX4gRX6YQ/company-logo_400_400/company-logo_400_400/0/1664780203354/digicorp_information_systems_pvt_ltd_logo?e=1788998400&v=beta&t=o5PNG65hziyBdcbpgXHRlDU_rN-qsoELUNlAG6_8Wpc",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEKAdX4gRX6YQ/company-logo_400_400/company-logo_400_400/0/1664780203354/digicorp_information_systems_pvt_ltd_logo?e=1788998400&v=beta&t=o5PNG65hziyBdcbpgXHRlDU_rN-qsoELUNlAG6_8Wpc",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEKAdX4gRX6YQ/company-logo_200_200/company-logo_200_200/0/1664780203354/digicorp_information_systems_pvt_ltd_logo?e=1788998400&v=beta&t=TmlSX60YAgVQoO6N09C1QAG74FDkDM-JvmGd1m16YuI",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEKAdX4gRX6YQ/company-logo_100_100/company-logo_100_100/0/1664780203354/digicorp_information_systems_pvt_ltd_logo?e=1788998400&v=beta&t=JLAVet6JD-szEFXa3kKjPvQDVW7X5B8K3WuwwBLfUJs",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    },
+    "companyUniversalName": "digicorp-info-sys"
+   }
+  ],
+  "education": [
+   {
+    "schoolName": "Government Engineering College, Modasa",
+    "schoolLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Government+Engineering+College%2C+Modasa",
+    "schoolId": null,
+    "degree": "Bachelor’s Degree",
+    "fieldOfStudy": "Computer Engineering",
+    "period": "2006 - 2010",
+    "startDate": {
+     "year": 2006,
+     "text": "2006"
+    },
+    "endDate": {
+     "year": 2010,
+     "text": "2010"
+    },
+    "schoolLogo": null
+   }
+  ],
+  "certifications": [
+   {
+    "title": "Microsoft Certified: Azure Fundamentals",
+    "issuedBy": "Microsoft",
+    "issuedAt": "Issued May 2019",
+    "link": "https://www.youracclaim.com/badges/f98d7f20-03b7-4145-8426-53bb4f252bf7/linked_in_profile",
+    "issuedByLink": "https://www.linkedin.com/company/1035/",
+    "issuedByLogo": {
+     "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1788998400&v=beta&t=RrBhiVBJPPZRw1AmNYMyJtRBTjc_rWzhRyiElMO1pTQ",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1788998400&v=beta&t=RrBhiVBJPPZRw1AmNYMyJtRBTjc_rWzhRyiElMO1pTQ",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_200_200/B56ZYQ0mrGGoAM-/0/1744038948046/microsoft_logo?e=1788998400&v=beta&t=kEVxwXac_nks_xciy4kC2CYNsxykQjNCeRpio1A-jGE",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=1788998400&v=beta&t=OL8WesBZFIl2eTtynGmYcq3tl1RgdtyI-Q0sHsmUjiQ",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    }
+   }
+  ],
+  "projects": [],
+  "volunteering": [],
+  "receivedRecommendations": [
+   {
+    "givenBy": "Sagar Shah",
+    "givenByHeadline": "C# .Net | Microsoft Dynamics 365 CRM | Power Platform",
+    "givenAt": "January 1, 2025, Sagar worked with Azhar but on different teams",
+    "givenByLink": "https://www.linkedin.com/in/sshah3813",
+    "description": "Mohammedazhar is a highly skilled professional with deep expertise in React, Node.js, and React Native. His ability to design and deliver efficient, scalable web and mobile applications sets him apart. Mohammedazhar combines technical excellence with a clear understanding of client needs, ensuring every project is both innovative and impactful. His collaborative approach and commitment to quality make him a trusted partner for delivering exceptional results. I wholeheartedly recommend him to anyone seeking reliable and forward-thinking solutions.",
+    "givenByPicture": {
+     "url": "https://media.licdn.com/dms/image/v2/C5603AQEq_X4YrNt-IA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594322342721?e=1788998400&v=beta&t=aEuD7WWT0z4DdC_-LJ9QUF-AEIjx6-xQnNgoxABDZKE",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C5603AQEq_X4YrNt-IA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594322342721?e=1788998400&v=beta&t=aEuD7WWT0z4DdC_-LJ9QUF-AEIjx6-xQnNgoxABDZKE",
+       "width": 800,
+       "height": 800
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C5603AQEq_X4YrNt-IA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594322342721?e=1788998400&v=beta&t=4-5vyk46PpC3X7fAgI688TULYFCeKNNTfUUTs3PZckU",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C5603AQEq_X4YrNt-IA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594322342721?e=1788998400&v=beta&t=EE_MFquZvWnwLo7ajx4IdMLz1k5WqdQKc6aecIt9fy8",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C5603AQEq_X4YrNt-IA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594322342721?e=1788998400&v=beta&t=T3xgx3DRTw2310q0L97sZOSzbv_VLmI8E_FUIfTjHXw",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    }
+   },
+   {
+    "givenBy": "Ravi Mori",
+    "givenByHeadline": "Dynamics 365 CE Consultant | CRM Solution Architect | Power Platform | Power Pages | Salesforce | 15+ Years",
+    "givenAt": "January 1, 2025, Ravi worked with Azhar on the same team",
+    "givenByLink": "https://www.linkedin.com/in/moriravi",
+    "description": "Mohammed Azhar has exceptional expertise in React, Node.js, and React Native. His expertise in building scalable web and mobile applications, combined with a strong problem-solving mindset and collaborative attitude, make him an asset to any project. He consistently delivers high-quality solutions that meet and exceed client expectations, ensuring impactful and reliable results. I highly recommend him for anyone seeking innovative and dependable solutions.",
+    "givenByPicture": {
+     "url": "https://media.licdn.com/dms/image/v2/D4D03AQHfE3iaUWdrxw/profile-displayphoto-crop_800_800/B4DZ8irhveI0AM-/0/1782993266101?e=1788998400&v=beta&t=UkXRy2z_313_0kzm8rujEY-8grwege-gFWGIfYgmYQs",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D03AQHfE3iaUWdrxw/profile-displayphoto-crop_800_800/B4DZ8irhveI0AM-/0/1782993266101?e=1788998400&v=beta&t=UkXRy2z_313_0kzm8rujEY-8grwege-gFWGIfYgmYQs",
+       "width": 800,
+       "height": 800
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D03AQHfE3iaUWdrxw/profile-displayphoto-scale_400_400/B4DZ8irhveI0Ak-/0/1782993266101?e=1788998400&v=beta&t=PKbys6sF7-ICIYIVghdxZnkgoVYGhoPK25QlJrt_zLo",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D03AQHfE3iaUWdrxw/profile-displayphoto-scale_200_200/B4DZ8irhveI0Ag-/0/1782993266101?e=1788998400&v=beta&t=GpIE6RBQC435cI9DnFhgC5ARCPh0isXB1zMq6Z5_fU0",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D03AQHfE3iaUWdrxw/profile-displayphoto-scale_100_100/B4DZ8irhveI0Ac-/0/1782993266101?e=1788998400&v=beta&t=1d5ZbwvIZ6bEVGsmjo1my3nao4yQhe3anJwnHiycX7Y",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    }
+   }
+  ],
+  "skills": [
+   {
+    "name": "Large Language Models (LLM)",
+    "endorsements": "2 endorsements"
+   },
+   {
+    "name": "Artificial Intelligence (AI)",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ],
+    "endorsements": "2 endorsements"
+   },
+   {
+    "name": "Machine Learning",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": "Python (Programming Language)",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": "React Native",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": "Express.js",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": "Chatbot Development",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": "Search Engine Optimization (SEO)",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": "E-commerce SEO",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": "Shopify",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": ".NET Core",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": "ASP.NET Core",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": "ASP.NET Web API",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": "Azure Data Factory",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": "Azure Cosmos DB",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": "Azure",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ]
+   },
+   {
+    "name": "JavaScript",
+    "endorsements": "12 endorsements"
+   },
+   {
+    "name": "MySQL",
+    "endorsements": "12 endorsements"
+   },
+   {
+    "name": "HTML",
+    "endorsements": "14 endorsements"
+   },
+   {
+    "name": "CSS",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "CakePHP",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "PSD to Wordpress",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Project Management",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Web Development",
+    "endorsements": "5 endorsements"
+   },
+   {
+    "name": "Web Services",
+    "endorsements": "3 endorsements"
+   },
+   {
+    "name": "Web Applications",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Programming",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Software Development",
+    "endorsements": "3 endorsements"
+   },
+   {
+    "name": "KnockoutJS",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "jQuery",
+    "endorsements": "9 endorsements"
+   },
+   {
+    "name": "ASP.NET MVC",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ],
+    "endorsements": "7 endorsements"
+   },
+   {
+    "name": "MongoDB",
+    "positions": [
+     "Chief Technology Officer at 3Brain Technolabs Private Limited"
+    ],
+    "endorsements": "3 endorsements"
+   },
+   {
+    "name": "Meteor",
+    "endorsements": "2 endorsements"
+   },
+   {
+    "name": "D3.js",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Microsoft SQL Server",
+    "endorsements": "4 endorsements"
+   },
+   {
+    "name": "photoshop",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Amazon Web Services (AWS)",
+    "endorsements": "1 endorsement"
+   }
+  ],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honorsAndAwards": [
+   {
+    "title": "Awsome Atitude reward from Alept Consulting Pvt. ltd.",
+    "issuedAt": null,
+    "description": "An atitude is a little thing but that makes a great difference. \n\nWorking with a positive atitude will give you the half success of your service. That I maintained here and got the reward.\nAn atitude is a little thing but that makes a great difference. \n\nWorking with a positive atitude will give you the half success of your service. That I maintained here and got the reward.\n\nThank you so much Alept consulting pvt. ltd. for your valuable reward with amazon gift voucher.\nThank you so much Alept consulting pvt. ltd. for your valuable reward with amazon gift voucher.",
+    "associatedWith": null,
+    "associatedWithLink": null
+   }
+  ],
+  "languages": [
+   {
+    "name": "English",
+    "proficiency": "Full professional proficiency"
+   },
+   {
+    "name": "Gujarati",
+    "proficiency": "Native or bilingual proficiency"
+   },
+   {
+    "name": "Hindi",
+    "proficiency": "Professional working proficiency"
+   }
+  ],
+  "organizations": [],
+  "causes": [],
+  "featured": {
+   "images": [],
+   "link": null,
+   "title": null,
+   "subtitle": null,
+   "slides": [
+    {
+     "title": null,
+     "subtitle": null,
+     "description": null,
+     "url": "https://www.linkedin.com/in/azhar-mansuri-89956142/details/experience?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAj7DbUBHy3QESl-E93fITNefMjdpNbQQy0",
+     "image": {
+      "url": null
+     }
+    }
+   ]
+  },
+  "composeOptionType": "UPSELL",
+  "moreProfiles": [
+   {
+    "id": "ACoAACpj7bUBDlTEhs4p-oG5UncS_V9iKyl96cg",
+    "firstName": "Niyomi",
+    "lastName": "Patel",
+    "position": "HR Manager",
+    "publicIdentifier": "niyomi-patel-53121517a",
+    "linkedinUrl": "https://www.linkedin.com/in/niyomi-patel-53121517a"
+   },
+   {
+    "id": "ACoAABeoqRkB2WtKkg3Iaw7KogDmJg_W5W2o_R4",
+    "firstName": "Aarif",
+    "lastName": "Qureshi",
+    "position": "I’m a Founder & CEO at 3Brain Technolabs | 10+ years | 200+ global clients | React.js · Node.js · React Native",
+    "publicIdentifier": "aarif-qureshi-561b20b0",
+    "linkedinUrl": "https://www.linkedin.com/in/aarif-qureshi-561b20b0"
+   },
+   {
+    "id": "ACoAACNo6j0BrgjwmjkxKNKbpjabzBLpiAuuxpY",
+    "firstName": "Monika",
+    "lastName": "Rajput",
+    "position": "Human resource Executive",
+    "publicIdentifier": "monika-rajput-365b57146",
+    "linkedinUrl": "https://www.linkedin.com/in/monika-rajput-365b57146"
+   },
+   {
+    "id": "ACoAAB5M8_sBBsEAJGz1u1yzW5DIn4OeC9hxaTM",
+    "firstName": "Surbhi",
+    "lastName": "Patel",
+    "position": "Sr SEO Executive at 3Brain Technolabs Private Limited",
+    "publicIdentifier": "surbhi-chothani",
+    "linkedinUrl": "https://www.linkedin.com/in/surbhi-chothani"
+   },
+   {
+    "id": "ACoAAC7-1tEBvrMnHZrC-QGX57PTjsWzqoBwyaE",
+    "firstName": "Nidhi",
+    "lastName": "Verma",
+    "position": "Sr SEO Executive| Content Creator | Digital Marketer",
+    "publicIdentifier": "nidhi-verma90",
+    "linkedinUrl": "https://www.linkedin.com/in/nidhi-verma90"
+   },
+   {
+    "id": "ACoAAChTl28BRkrO4ZOOHpSffa1paC4cCr2okaw",
+    "firstName": "Bhavik",
+    "lastName": "Patel",
+    "position": "React Native Developer | 5+ Years Building Cross-Platform Mobile & Web Apps | React · JavaScript",
+    "publicIdentifier": "bhavik-patel-9276b716a",
+    "linkedinUrl": "https://www.linkedin.com/in/bhavik-patel-9276b716a"
+   },
+   {
+    "id": "ACoAABXyEl0BdR3VZAYd5Nh2a4AjVzpPwXO39Tc",
+    "firstName": "Disha",
+    "lastName": "Parikh",
+    "position": "SEO Executive | SEM Executive | Digital Marketer",
+    "publicIdentifier": "disha-parikh-6a537aa3",
+    "linkedinUrl": "https://www.linkedin.com/in/disha-parikh-6a537aa3"
+   },
+   {
+    "id": "ACoAADl06WMB25UGVpsMf1u5UapPzeHe7KfPrzE",
+    "firstName": "Jagdish",
+    "lastName": "Yadav",
+    "position": "Software Developer | React Native Developer | Fullstack Developer",
+    "publicIdentifier": "jagdishky",
+    "linkedinUrl": "https://www.linkedin.com/in/jagdishky"
+   },
+   {
+    "id": "ACoAACDNf2IBhu-55HTFG9PBJKRz7piGChlbYA8",
+    "firstName": "Gopi",
+    "lastName": "Ikhar",
+    "position": "Seo Analyst at 3Brain Technologies",
+    "publicIdentifier": "gopi-ikhar-a56382134",
+    "linkedinUrl": "https://www.linkedin.com/in/gopi-ikhar-a56382134"
+   },
+   {
+    "id": "ACoAADIknhIBl-eS0Q8C-c2nZ3mjNdR85URbsTg",
+    "firstName": "Jahanvi",
+    "lastName": "Bhatt",
+    "position": "Software Developer ",
+    "publicIdentifier": "jahanvibhatt",
+    "linkedinUrl": "https://www.linkedin.com/in/jahanvibhatt"
+   },
+   {
+    "id": "ACoAAGGIr8QBLyM31LAW62kB0P26CZ0Znx4pIu8",
+    "firstName": "Živorad",
+    "lastName": "Ilić",
+    "position": "--",
+    "publicIdentifier": "%C5%BEivorad-ili%C4%87-684014398",
+    "linkedinUrl": "https://www.linkedin.com/in/%C5%BEivorad-ili%C4%87-684014398"
+   },
+   {
+    "id": "ACoAAGvngYEBr7M7GMLVuSaEzpwJsupiUF0sxko",
+    "firstName": "Nadja",
+    "lastName": "Karovic",
+    "position": "--",
+    "publicIdentifier": "nadja-karovic-05533b426",
+    "linkedinUrl": "https://www.linkedin.com/in/nadja-karovic-05533b426"
+   },
+   {
+    "id": "ACoAAGxgs1cBYgE_TND4Dpq0g4gBWps3XShxGUE",
+    "firstName": "darijo",
+    "lastName": "undefined",
+    "position": "--",
+    "publicIdentifier": "darijo-undefined-55bb2b428",
+    "linkedinUrl": "https://www.linkedin.com/in/darijo-undefined-55bb2b428"
+   },
+   {
+    "id": "ACoAAGw0S6cBJy7Si2PUhiXHgwaHBQ-6WWMhe2g",
+    "firstName": "Natalija",
+    "lastName": "Marinkovic",
+    "position": "--",
+    "publicIdentifier": "natalija-marinkovic-433b67427",
+    "linkedinUrl": "https://www.linkedin.com/in/natalija-marinkovic-433b67427"
+   },
+   {
+    "id": "ACoAAGxkW70BvssMXtHNveUaHEeX0-PKB_1uUjQ",
+    "firstName": "Misa",
+    "lastName": "Bugarinovic",
+    "position": "--",
+    "publicIdentifier": "misa-bugarinovic-225026429",
+    "linkedinUrl": "https://www.linkedin.com/in/misa-bugarinovic-225026429"
+   },
+   {
+    "id": "ACoAAGuiZPABC2rzANxwPVnnA5JGqVKqART_x9Q",
+    "firstName": "Verica",
+    "lastName": "Stojiljkovic",
+    "position": "--",
+    "publicIdentifier": "verica-stojiljkovic-b00915424",
+    "linkedinUrl": "https://www.linkedin.com/in/verica-stojiljkovic-b00915424"
+   },
+   {
+    "id": "ACoAAF4V60oBFmtDSXn4hVLlf6cft7I_41YLzwk",
+    "firstName": "Aleksandar",
+    "lastName": "Manojlović",
+    "position": "--",
+    "publicIdentifier": "aleksandar-manojlovi%C4%87-94a774380",
+    "linkedinUrl": "https://www.linkedin.com/in/aleksandar-manojlovi%C4%87-94a774380"
+   },
+   {
+    "id": "ACoAAGvlyd0BwlS5HJIAZvOnWnGLR0tcP96XTdA",
+    "firstName": "Systemerror",
+    "lastName": "undefined",
+    "position": "--",
+    "publicIdentifier": "systemerror-undefined-aa52a5426",
+    "linkedinUrl": "https://www.linkedin.com/in/systemerror-undefined-aa52a5426"
+   },
+   {
+    "id": "ACoAAGvYoswBmkCpGx-pNdvejRzoKgHQ9cTx3as",
+    "firstName": "Jelica",
+    "lastName": "Ugljesic",
+    "position": "--",
+    "publicIdentifier": "jelica-ugljesic-0b8b4b425",
+    "linkedinUrl": "https://www.linkedin.com/in/jelica-ugljesic-0b8b4b425"
+   },
+   {
+    "id": "ACoAAGt_KhsBc1q_u2c99LYY8hHv0o3XdFuIyJY",
+    "firstName": "Vesna",
+    "lastName": "Vasic",
+    "position": "--",
+    "publicIdentifier": "vesna-vasic-963ba1423",
+    "linkedinUrl": "https://www.linkedin.com/in/vesna-vasic-963ba1423"
+   }
+  ],
+  "interests": [
+   {
+    "interestName": "Top Voices",
+    "elements": [
+     {
+      "title": "Mark Ross",
+      "subtitle": "Dragin.io AI Deal Automation | Career Coach | Former Morgan Stanley VP | Bestselling Author of Mark’s Guide to Sales & Trading and Resume Rebels",
+      "link": "https://www.linkedin.com/in/markrossmfe",
+      "caption": "82,079 followers",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/D4E03AQFDi6SnKeOhhA/profile-displayphoto-crop_800_800/B4EZhXNsAxGUBU-/0/1753809867954?e=1788998400&v=beta&t=jOpZDcXkJ_d7dKhsV5247HaNo8rfIjn3bM79fSySN2w"
+      }
+     },
+     {
+      "title": "Shradha Sharma",
+      "subtitle": "Founder & CEO at The Bharat Project, YourStory Media, \nMember, the National Startup Advisory Council, \nCo-Chair, S20 in G20 on inclusive growth, \nContributor, Startup India policy",
+      "link": "https://www.linkedin.com/in/sharmashradha",
+      "caption": "2,195,223 followers",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/D5603AQFi1M4OvL2rdg/profile-displayphoto-crop_800_800/B56aAePoDvGsAI-/0/1787213808549?e=1788998400&v=beta&t=sLeY7cwTlZf1DplipXqFIbP6iFDNtQGxm-kqWSjljtE"
+      }
+     }
+    ]
+   },
+   {
+    "interestName": "Companies",
+    "elements": [
+     {
+      "title": "Oracle",
+      "subtitle": null,
+      "link": "https://www.linkedin.com/company/1028/",
+      "caption": "11,521,113 followers",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1788998400&v=beta&t=U47zQnSHexQLJ4REjMBQgifMkyCcFE5ApofVH3CokjA"
+      }
+     },
+     {
+      "title": "Microsoft",
+      "subtitle": null,
+      "link": "https://www.linkedin.com/company/1035/",
+      "caption": "28,950,075 followers",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1788998400&v=beta&t=RrBhiVBJPPZRw1AmNYMyJtRBTjc_rWzhRyiElMO1pTQ"
+      }
+     }
+    ]
+   },
+   {
+    "interestName": "Groups",
+    "elements": [
+     {
+      "title": "Digital Marketing & AI: SEO, Ecommerce, Content Marketing, Social Media, Email Marketing, AI & More",
+      "subtitle": null,
+      "link": "https://www.linkedin.com/groups/2751091",
+      "caption": "308,676 members",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/C4D07AQFnj6ROs_iyTg/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1631002218788?e=1788260400&v=beta&t=npMjxko7AniIrGzxFqGi7x9ivaV2L--jgx02XYy2liA"
+      }
+     },
+     {
+      "title": "Startup-India for Startup - The Community For Entrepreneurs",
+      "subtitle": null,
+      "link": "https://www.linkedin.com/groups/7041748",
+      "caption": "78,801 members",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/C4E07AQFmLwOPM-pOIg/group-logo_image-shrink_92x92/group-logo_image-shrink_92x92/0/1631366231037?e=1788260400&v=beta&t=W15w8uS_-Bw1CJ1rovLSnqj2b8lkkFw3LkbwaQI0HLk"
+      }
+     }
+    ]
+   },
+   {
+    "interestName": "Newsletters",
+    "elements": [
+     {
+      "title": "AI & Future Tech Trends",
+      "subtitle": "Follow for the latest on Artificial Intelligence, Metaverse, Web3 and other tech trends.",
+      "link": "https://www.linkedin.com/newsletters/6511122508790394880",
+      "caption": "Published weekly",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/D4E12AQGJqggtLbnr-A/series-logo_image-shrink_300_300/series-logo_image-shrink_300_300/0/1727517897554?e=1788998400&v=beta&t=D29SCwHlQtRWiZ2IeUW05wSMnp5Q24fWbM5Io0Khjkk"
+      }
+     },
+     {
+      "title": "The Future is Agile",
+      "subtitle": "Execution Integrity, Human Debt™, and how organisations adapt and thrive in the age of AI.",
+      "link": "https://www.linkedin.com/newsletters/6506407395235815424",
+      "caption": "Published weekly",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/C4E12AQGrtrJ85JKDYg/series-logo_image-shrink_300_300/series-logo_image-shrink_300_300/0/1587706984934?e=1788998400&v=beta&t=yyFxHn8yfCFlpmEjDzfOnZWvx2cBY6KDeT5YwWYn91s"
+      }
+     }
+    ]
+   }
+  ],
+  "originalQuery": {
+   "query": "https://www.linkedin.com/in/azhar-mansuri-89956142"
+  }
+ },
+ {
+  "id": "ACoAABSHOvUBjGb5pOzcYYDhfJ5HQP1-XZsN9EU",
+  "publicIdentifier": "vijayvamja",
+  "linkedinUrl": "https://www.linkedin.com/in/vijayvamja",
+  "firstName": "Vijay",
+  "lastName": "Vamja",
+  "emails": [],
+  "headline": "CEO & Co-Founder @Ciphernutz | Helping Businesses Scale with AI Automation, SaaS & Custom Software Engineering",
+  "openToWork": false,
+  "hiring": false,
+  "premium": true,
+  "influencer": false,
+  "memorialized": false,
+  "creator": false,
+  "location": {
+   "linkedinText": "Surat, Gujarat, India",
+   "countryCode": "IN",
+   "parsed": {
+    "text": "Surat, India",
+    "countryCode": "IN",
+    "regionCode": null,
+    "country": "India",
+    "countryFull": "India",
+    "state": "Gujarat",
+    "city": "Surat"
+   }
+  },
+  "objectUrn": "344406773",
+  "registeredAt": "2014-05-14T12:56:43.467Z",
+  "topSkills": [
+   "IT Consulting",
+   "Software Development",
+   "SaaS Development",
+   "Artificial Intelligence (AI)",
+   "Team Management"
+  ],
+  "connectionsCount": 2103,
+  "followerCount": 2146,
+  "verified": true,
+  "about": "As an entrepreneur, I believe software isn’t just about code, it’s about creating ecosystems that empower businesses to scale.\n\nOver the years, I’ve led Ciphernutz from an ambitious idea into a global technology partner, building SaaS products, AI-powered solutions, and automation systems that drive real impact.\n\nI create long-term partnerships where innovation meets execution. Whether it’s helping a startup launch its MVP or enabling enterprises to embrace AI and automation, my focus is on delivering measurable value.\n\nWith a vision of “Made in India, Built for the World,” I’m driven to position Ciphernutz as a trusted partner for businesses worldwide, helping them transform ideas into impactful digital solutions.",
+  "currentPosition": [
+   {
+    "position": "Chief Executive Officer",
+    "location": null,
+    "employmentType": "Full-time",
+    "workplaceType": null,
+    "companyName": "Ciphernutz IT Services",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/ciphernutz-it-services/",
+    "companyId": "70257717",
+    "duration": "7 yrs",
+    "description": "Helping startups and enterprises across the US, UK, and Middle East build scalable SaaS products, AI agents, workflow automation systems, and custom digital platforms.\n\nLeading a team focused on:\n• AI Automation & AI Agents\n• SaaS Product Development\n• Web & Mobile Application Development\n• Generative AI Solutions\n• Dedicated Development Teams\n\nWorking with modern technologies, including:\nn8n, LangGraph, React, Node.js, Next.js, MERN Stack, Supabase, OpenAI, GCP, and workflow automation tools.\n\nFocused on delivering:\n→ Faster product launches\n→ Operational automation\n→ AI-powered business workflows\n→ Scalable product engineering",
+    "skills": null,
+    "startDate": {
+     "month": "Sep",
+     "year": 2019,
+     "text": "Sep 2019"
+    },
+    "endDate": {
+     "text": "Present"
+    },
+    "companyLogo": {
+     "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH3svmf0kocSg/company-logo_400_400/company-logo_400_400/0/1689930085560/ciphernutz_it_services_logo?e=1788998400&v=beta&t=8HrNCMa3Y0-6ZxYipLWN28eQ15eWieLFIhNzLBrfQQo",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH3svmf0kocSg/company-logo_400_400/company-logo_400_400/0/1689930085560/ciphernutz_it_services_logo?e=1788998400&v=beta&t=8HrNCMa3Y0-6ZxYipLWN28eQ15eWieLFIhNzLBrfQQo",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH3svmf0kocSg/company-logo_200_200/company-logo_200_200/0/1689930085559/ciphernutz_it_services_logo?e=1788998400&v=beta&t=VNKEXn39ExZNNfVFfbXqzpWV1LPgCpFjA79nN-B2YEY",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH3svmf0kocSg/company-logo_100_100/company-logo_100_100/0/1689930085560/ciphernutz_it_services_logo?e=1788998400&v=beta&t=eaAeZ0lDqtX92FewBtb58djza4Gm8XPOOFjP7V79f-I",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    },
+    "companyUniversalName": "ciphernutz-it-services"
+   }
+  ],
+  "profileTopEducation": [
+   {
+    "schoolName": "UKA TARSADIA UNIVERSITY",
+    "schoolLinkedinUrl": "https://www.linkedin.com/company/15128401/",
+    "schoolId": "15128401",
+    "degree": "Master’s Degree",
+    "fieldOfStudy": "Computer Software Engineering",
+    "period": "2013 - 2015",
+    "startDate": {
+     "year": 2013,
+     "text": "2013"
+    },
+    "endDate": {
+     "year": 2015,
+     "text": "2015"
+    },
+    "schoolLogo": null
+   }
+  ],
+  "profileActions": [
+   {
+    "label": "Visit my website",
+    "url": "https://ciphernutz.com/"
+   }
+  ],
+  "profilePicture": {
+   "url": "https://media.licdn.com/dms/image/v2/D4D03AQGfXF9Y9QpTxw/profile-displayphoto-crop_800_800/B4DZl2mxQZGwAI-/0/1758631505608?e=1788998400&v=beta&t=T75pFiBHdRxwUo31Ggc1GfHMyzJtO6NhNeifjRHUrDY",
+   "sizes": [
+    {
+     "url": "https://media.licdn.com/dms/image/v2/D4D03AQGfXF9Y9QpTxw/profile-displayphoto-crop_800_800/B4DZl2mxQZGwAI-/0/1758631505608?e=1788998400&v=beta&t=T75pFiBHdRxwUo31Ggc1GfHMyzJtO6NhNeifjRHUrDY",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://media.licdn.com/dms/image/v2/D4D03AQGfXF9Y9QpTxw/profile-displayphoto-scale_400_400/B4DZl2mxQZGwAg-/0/1758631505694?e=1788998400&v=beta&t=3mWUz9Ynikl9JpM6Ku1lvLL_kZSw90Yxe-4vvp2CyXw",
+     "width": 400,
+     "height": 400
+    },
+    {
+     "url": "https://media.licdn.com/dms/image/v2/D4D03AQGfXF9Y9QpTxw/profile-displayphoto-scale_200_200/B4DZl2mxQZGwAY-/0/1758631505694?e=1788998400&v=beta&t=8f05ToHEPU4cmmXdyY5t8BXM-09-H18-KkRz2iRl6Hg",
+     "width": 200,
+     "height": 200
+    },
+    {
+     "url": "https://media.licdn.com/dms/image/v2/D4D03AQGfXF9Y9QpTxw/profile-displayphoto-scale_100_100/B4DZl2mxQZGwAc-/0/1758631505694?e=1788998400&v=beta&t=McFfXh8t8E9LWNmDNePfyDIv0Mf29mFB2EcYu7mAC1w",
+     "width": 100,
+     "height": 100
+    }
+   ]
+  },
+  "coverPicture": {
+   "url": "https://media.licdn.com/dms/image/v2/D4D16AQG_R9Pt5rWjkg/profile-displaybackgroundimage-shrink_350_1400/B4DZ4_.eWCH4AY-/0/1779189802616?e=1788998400&v=beta&t=-Fb30lwqyKnAPBnlqGYxRistN5QwrnhKjpE-ZIa3Rj0",
+   "sizes": [
+    {
+     "url": "https://media.licdn.com/dms/image/v2/D4D16AQG_R9Pt5rWjkg/profile-displaybackgroundimage-shrink_350_1400/B4DZ4_.eWCH4AY-/0/1779189802616?e=1788998400&v=beta&t=-Fb30lwqyKnAPBnlqGYxRistN5QwrnhKjpE-ZIa3Rj0",
+     "width": 1400,
+     "height": 349
+    },
+    {
+     "url": "https://media.licdn.com/dms/image/v2/D4D16AQG_R9Pt5rWjkg/profile-displaybackgroundimage-shrink_200_800/B4DZ4_.eWCH4AU-/0/1779189802616?e=1788998400&v=beta&t=zQ6v2czgvLpLRJI4nbmP1NOd02sMSVwCL42sOV-Oz8A",
+     "width": 800,
+     "height": 199
+    }
+   ]
+  },
+  "photo": "https://media.licdn.com/dms/image/v2/D4D03AQGfXF9Y9QpTxw/profile-displayphoto-crop_800_800/B4DZl2mxQZGwAI-/0/1758631505608?e=1788998400&v=beta&t=T75pFiBHdRxwUo31Ggc1GfHMyzJtO6NhNeifjRHUrDY",
+  "profileLocales": [
+   {
+    "country": "US",
+    "language": "en"
+   }
+  ],
+  "primaryLocale": {
+   "country": "US",
+   "language": "en"
+  },
+  "multiLocaleHeadline": [
+   {
+    "headline": "CEO & Co-Founder @Ciphernutz | Helping Businesses Scale with AI Automation, SaaS & Custom Software Engineering",
+    "locale": "en_US"
+   }
+  ],
+  "services": {
+   "description": "At Ciphernutz, we help businesses turn ideas into scalable digital products with end-to-end technology solutions. Our core services include:\n\n↳ Custom Web & Mobile App Development\n↳ SaaS Application Development\n↳ AI & Automation Solutions\n↳ IT Staff Augmentation\n↳ Startup Consulting",
+   "media": [],
+   "servicesList": [
+    "Custom Software Development",
+    "SaaS Development",
+    "Web Development",
+    "Mobile Application Development",
+    "IT Consulting"
+   ],
+   "rating": null,
+   "requestUrl": "https://www.linkedin.com/in/vijayvamja/opportunities/services/request-proposal?servicePageVanityName=768365330553821b5b"
+  },
+  "experience": [
+   {
+    "position": "Chief Executive Officer",
+    "location": null,
+    "employmentType": "Full-time",
+    "workplaceType": null,
+    "companyName": "Ciphernutz IT Services",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/ciphernutz-it-services/",
+    "companyId": "70257717",
+    "duration": "7 yrs",
+    "description": "Helping startups and enterprises across the US, UK, and Middle East build scalable SaaS products, AI agents, workflow automation systems, and custom digital platforms.\n\nLeading a team focused on:\n• AI Automation & AI Agents\n• SaaS Product Development\n• Web & Mobile Application Development\n• Generative AI Solutions\n• Dedicated Development Teams\n\nWorking with modern technologies, including:\nn8n, LangGraph, React, Node.js, Next.js, MERN Stack, Supabase, OpenAI, GCP, and workflow automation tools.\n\nFocused on delivering:\n→ Faster product launches\n→ Operational automation\n→ AI-powered business workflows\n→ Scalable product engineering",
+    "skills": null,
+    "startDate": {
+     "month": "Sep",
+     "year": 2019,
+     "text": "Sep 2019"
+    },
+    "endDate": {
+     "text": "Present"
+    },
+    "companyLogo": {
+     "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH3svmf0kocSg/company-logo_400_400/company-logo_400_400/0/1689930085560/ciphernutz_it_services_logo?e=1788998400&v=beta&t=8HrNCMa3Y0-6ZxYipLWN28eQ15eWieLFIhNzLBrfQQo",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH3svmf0kocSg/company-logo_400_400/company-logo_400_400/0/1689930085560/ciphernutz_it_services_logo?e=1788998400&v=beta&t=8HrNCMa3Y0-6ZxYipLWN28eQ15eWieLFIhNzLBrfQQo",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH3svmf0kocSg/company-logo_200_200/company-logo_200_200/0/1689930085559/ciphernutz_it_services_logo?e=1788998400&v=beta&t=VNKEXn39ExZNNfVFfbXqzpWV1LPgCpFjA79nN-B2YEY",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH3svmf0kocSg/company-logo_100_100/company-logo_100_100/0/1689930085560/ciphernutz_it_services_logo?e=1788998400&v=beta&t=eaAeZ0lDqtX92FewBtb58djza4Gm8XPOOFjP7V79f-I",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    },
+    "companyUniversalName": "ciphernutz-it-services"
+   },
+   {
+    "position": "Founding VP Engineering",
+    "location": null,
+    "employmentType": null,
+    "workplaceType": null,
+    "companyName": "CollarUp AI",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/collarupai/",
+    "companyId": "106359035",
+    "duration": "1 yr 3 mos",
+    "description": "Leading engineering and product execution for AI-powered solutions focused on automation, scalable architecture, and intelligent workflows.\n\nResponsible for:\n• Product architecture & technical strategy\n• AI workflow implementation\n• Engineering team leadership\n• Scalable frontend/backend systems\n• Product delivery & innovation",
+    "skills": null,
+    "startDate": {
+     "month": "Jun",
+     "year": 2025,
+     "text": "Jun 2025"
+    },
+    "endDate": {
+     "text": "Present"
+    },
+    "companyLogo": {
+     "url": "https://media.licdn.com/dms/image/v2/D560BAQGzMCgUEWPBVg/company-logo_400_400/B56ZdeSNemGQAY-/0/1749633522088/collarupai_logo?e=1788998400&v=beta&t=DXZ2cR2js2ELt7kAAHLitFocKh4IGm38pQI1DYIptCA",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D560BAQGzMCgUEWPBVg/company-logo_400_400/B56ZdeSNemGQAY-/0/1749633522088/collarupai_logo?e=1788998400&v=beta&t=DXZ2cR2js2ELt7kAAHLitFocKh4IGm38pQI1DYIptCA",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D560BAQGzMCgUEWPBVg/company-logo_200_200/B56ZdeSNemGQAI-/0/1749633522088/collarupai_logo?e=1788998400&v=beta&t=7E0a252ElH7O4psX8_8PaEiF8EDmaRda_QttMvag5jQ",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D560BAQGzMCgUEWPBVg/company-logo_100_100/B56ZdeSNemGQAQ-/0/1749633522088/collarupai_logo?e=1788998400&v=beta&t=KFbeB69vyORW9v6SXjnNHpP8m81XcbqsSLmHEXkJqSc",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    },
+    "companyUniversalName": "collarupai"
+   },
+   {
+    "position": "Sr. Web Developer",
+    "location": "Surat Area, India",
+    "employmentType": null,
+    "workplaceType": null,
+    "companyName": "La Net Team Software Solution Pvt Ltd.",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/lanetteamsurat/",
+    "companyId": "2774829",
+    "duration": "4 yrs 5 mos",
+    "description": null,
+    "skills": null,
+    "startDate": {
+     "month": "Jan",
+     "year": 2015,
+     "text": "Jan 2015"
+    },
+    "endDate": {
+     "month": "May",
+     "year": 2019,
+     "text": "May 2019"
+    },
+    "companyLogo": {
+     "url": "https://media.licdn.com/dms/image/v2/C510BAQHsySNiVzSsSw/company-logo_400_400/company-logo_400_400/0/1630624511748/la_net_team_software_solution_pvt_ltd__logo?e=1788998400&v=beta&t=Ptq9OzrSWlSKJDEhKM04gOchm05BujRwyt7mj6YzOK8",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C510BAQHsySNiVzSsSw/company-logo_400_400/company-logo_400_400/0/1630624511748/la_net_team_software_solution_pvt_ltd__logo?e=1788998400&v=beta&t=Ptq9OzrSWlSKJDEhKM04gOchm05BujRwyt7mj6YzOK8",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C510BAQHsySNiVzSsSw/company-logo_200_200/company-logo_200_200/0/1630624511748/la_net_team_software_solution_pvt_ltd__logo?e=1788998400&v=beta&t=K8mQhB9zYmLKkIp5s5ffRcqZk8PrKW427rTfatqh6dE",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C510BAQHsySNiVzSsSw/company-logo_100_100/company-logo_100_100/0/1630624511748/la_net_team_software_solution_pvt_ltd__logo?e=1788998400&v=beta&t=0FF81mF8Axu2yuVhDV0osxusZ5w_1xlcV7ujdYHE9Vk",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    },
+    "companyUniversalName": "lanetteamsurat"
+   }
+  ],
+  "education": [
+   {
+    "schoolName": "UKA TARSADIA UNIVERSITY",
+    "schoolLinkedinUrl": "https://www.linkedin.com/company/15128401/",
+    "schoolId": "15128401",
+    "degree": "Master’s Degree",
+    "fieldOfStudy": "Computer Software Engineering",
+    "period": "2013 - 2015",
+    "startDate": {
+     "year": 2013,
+     "text": "2013"
+    },
+    "endDate": {
+     "year": 2015,
+     "text": "2015"
+    },
+    "schoolLogo": null
+   }
+  ],
+  "certifications": [],
+  "projects": [],
+  "volunteering": [],
+  "receivedRecommendations": [
+   {
+    "givenBy": "Francisco Aldana",
+    "givenByHeadline": "Senior Project Manager | Data & Analytics Delivery | Cloud, Databricks, Azure | Enterprise Data Platforms | Driving Cross-Functional Teams & Strategic Initiatives",
+    "givenAt": "September 24, 2019, Francisco managed Vijay directly",
+    "givenByLink": "https://www.linkedin.com/in/faldana",
+    "description": "I had the pleasure of working with Vijay in a few projects. He is very professional, extremely efficient, and he's motivated by his quality of work and ensuring project exceeds clients expectations. Will be happy to work with him any day of the week.",
+    "givenByPicture": {
+     "url": "https://media.licdn.com/dms/image/v2/D4E03AQEO4aKzVlUwoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714732005954?e=1788998400&v=beta&t=rg9D2LhgePuVljzN8IwvYy_7JGUajmHthhJQHxUnf5s",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4E03AQEO4aKzVlUwoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714732005954?e=1788998400&v=beta&t=rg9D2LhgePuVljzN8IwvYy_7JGUajmHthhJQHxUnf5s",
+       "width": 800,
+       "height": 800
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4E03AQEO4aKzVlUwoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1714732005954?e=1788998400&v=beta&t=zrHcUf8F9jwsAAOHP8eiUvsiAPr8JJKG4YGg5AK8ZE4",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4E03AQEO4aKzVlUwoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1714732005954?e=1788998400&v=beta&t=Ikh8QkoGbIwe6-KfZ63inifeNucyhHerQwBmUM0fjB8",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4E03AQEO4aKzVlUwoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1714732005954?e=1788998400&v=beta&t=uVfw-GGV_x9vOh13NIS7oDDl2UsqUsum-KR7-eALWXI",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    }
+   },
+   {
+    "givenBy": "Ankit Goyani",
+    "givenByHeadline": "Actively looking a software engineer position",
+    "givenAt": "March 23, 2019, Ankit worked with Vijay on the same team",
+    "givenByLink": "https://www.linkedin.com/in/ankit-goyani-a61b65aa",
+    "description": "I know Vijay as an Expert Javascript developer for more than 2 years. He is very passionate and focused towards his work. If you want to get your work done then he will be perfect match for your job.",
+    "givenByPicture": {
+     "url": "https://media.licdn.com/dms/image/v2/C5103AQHBM_QpBCtmhw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1521774840941?e=1788998400&v=beta&t=IGbMLfWfNvEWW70jHzzL5QwN5IwtUvBoZgkHvcc8GeE",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C5103AQHBM_QpBCtmhw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1521774840941?e=1788998400&v=beta&t=IGbMLfWfNvEWW70jHzzL5QwN5IwtUvBoZgkHvcc8GeE",
+       "width": 500,
+       "height": 500
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C5103AQHBM_QpBCtmhw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1521774841038?e=1788998400&v=beta&t=KBzrbF3rNvCDQlf1ozkBxCrV1EHeDwZNIIV13f-Y8nI",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C5103AQHBM_QpBCtmhw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1521774840880?e=1788998400&v=beta&t=wTDztEybLnlpFWHxSi1PRIAuMZ5-K4-99awcPpt7UTs",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C5103AQHBM_QpBCtmhw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1521774840762?e=1788998400&v=beta&t=YujFdcMASzb5iEU2_Bz7RMH2Bb-n-fk3-5rq2QTehe4",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    }
+   },
+   {
+    "givenBy": "Kunjal Tandel",
+    "givenByHeadline": "Senior Software Engineer at Eximietas Design",
+    "givenAt": "June 23, 2018, Kunjal worked with Vijay on the same team",
+    "givenByLink": "https://www.linkedin.com/in/kunjal-tandel",
+    "description": "If you are looking for great leader and team member who can suggest a best way to find the solution for problem, and on top of it He is the best guy to work with. I can say he is JavaScript guy who knows it, better then most of  your surrounding devops.",
+    "givenByPicture": {
+     "url": "https://media.licdn.com/dms/image/v2/C4E03AQF28FACZd4Pmg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636541920312?e=1788998400&v=beta&t=NDGDqTSUCprTPlYX726wrDpUdMX_D4B5esa7o-5G1bY",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C4E03AQF28FACZd4Pmg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636541920312?e=1788998400&v=beta&t=NDGDqTSUCprTPlYX726wrDpUdMX_D4B5esa7o-5G1bY",
+       "width": 800,
+       "height": 800
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C4E03AQF28FACZd4Pmg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1636541920312?e=1788998400&v=beta&t=T7vHZQVg_LFO7JoqhNByECfq_ecMcEJE6nILcoOYZOY",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C4E03AQF28FACZd4Pmg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1636541920312?e=1788998400&v=beta&t=uKf1hhys-TimBKa4XdUijFkaEqu6gPZhITrpNvFEr-0",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/C4E03AQF28FACZd4Pmg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1636541920312?e=1788998400&v=beta&t=1xnfhM6Uqy9L36FWIaEK0diM9DL3Vkdu2zRRo6bXwSw",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    }
+   },
+   {
+    "givenBy": "Brijesh Bhakta",
+    "givenByHeadline": "Full Stack Developer",
+    "givenAt": "June 23, 2018, Brijesh worked with Vijay on the same team",
+    "givenByLink": "https://www.linkedin.com/in/brijeshbhakta",
+    "description": "Vijay is an excellent resource for a team. He can work as a developer, a mentor and a leader in a team and is excellent in them. He can be an excellent asset for the team. Having great expertise in JavaScript he also have good experience in .Net",
+    "givenByPicture": {
+     "url": "https://media.licdn.com/dms/image/v2/D4D03AQHUmYeBg7yaIg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708441868034?e=1788998400&v=beta&t=V6YdWHnqrXIZU9m9cOiiewkQq1hpbhv3fFijp15C2dY",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D03AQHUmYeBg7yaIg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708441868034?e=1788998400&v=beta&t=V6YdWHnqrXIZU9m9cOiiewkQq1hpbhv3fFijp15C2dY",
+       "width": 800,
+       "height": 800
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D03AQHUmYeBg7yaIg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1708441868034?e=1788998400&v=beta&t=gT460MxOOwH-FasPfHUE-UvtGCGYRadTdsIY65Fwxx8",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D03AQHUmYeBg7yaIg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1708441868034?e=1788998400&v=beta&t=PcsPmGT3EAeleVNUp0kIMaTWoJJUwAFaM6U2rhmT7bc",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D03AQHUmYeBg7yaIg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1708441868033?e=1788998400&v=beta&t=B6bITtrr2KvlZ3ahmeuJxd0iPsa7M2z0O83OoLUHsho",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    }
+   },
+   {
+    "givenBy": "Divyeshkumar Pujari",
+    "givenByHeadline": "Lead Software Development Engineer @ mavQ | 4x GCP Certified | Built 4+ Scalable Enterprise Products | Transforming Ideas into High-Growth Platforms | Microservices • Spring Boot • Full-Stack",
+    "givenAt": "June 23, 2018, Divyeshkumar worked with Vijay on the same team",
+    "givenByLink": "https://www.linkedin.com/in/divyeshpujari",
+    "description": "Vijay is a very smart and dedicated engineer. He could always find innovative ways to solve problems. He showed his excellent problem analysis skill when we worked on some tough bugs found on customers' live web sites. Vijay is also an obliging person and a great team player. When I got a chance to work with him, Vijay helped me a lot on learning the code and tools that were brand new to me. It was really a pleasure to work with him",
+    "givenByPicture": {
+     "url": "https://media.licdn.com/dms/image/v2/D4D03AQHBsSOA6moBmg/profile-displayphoto-crop_800_800/B4DZ9rjtHBIEAI-/0/1784215951521?e=1788998400&v=beta&t=S3OLE8lGaimyJFR345sh-cfG_nkHuSzJsqsVTwb9yKQ",
+     "sizes": [
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D03AQHBsSOA6moBmg/profile-displayphoto-crop_800_800/B4DZ9rjtHBIEAI-/0/1784215951521?e=1788998400&v=beta&t=S3OLE8lGaimyJFR345sh-cfG_nkHuSzJsqsVTwb9yKQ",
+       "width": 800,
+       "height": 800
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D03AQHBsSOA6moBmg/profile-displayphoto-scale_400_400/B4DZ9rjtHBIEAg-/0/1784215951521?e=1788998400&v=beta&t=uDwjs2OgXhR2vPziZJGbZLVzmbPUtnUdwY7Uy1gXIcQ",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D03AQHBsSOA6moBmg/profile-displayphoto-scale_200_200/B4DZ9rjtHBIEAc-/0/1784215951521?e=1788998400&v=beta&t=Dts-xXri1Ruw4hVDuf1KFOFEDGT2Ih2Uf0O7nkt0YTI",
+       "width": 200,
+       "height": 200
+      },
+      {
+       "url": "https://media.licdn.com/dms/image/v2/D4D03AQHBsSOA6moBmg/profile-displayphoto-scale_100_100/B4DZ9rjtHBIEAY-/0/1784215951521?e=1788998400&v=beta&t=G4HCPDrxGzW4dcA6UHexA59IZ3iuim37p3cYdphXhOY",
+       "width": 100,
+       "height": 100
+      }
+     ]
+    }
+   }
+  ],
+  "skills": [
+   {
+    "name": "IT Consulting",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Software Development",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "SaaS Development",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Artificial Intelligence (AI)",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Startup Development",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Web Application Development",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Mobile Application Development",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Team Management",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Software as a Service (SaaS)",
+    "endorsements": "1 endorsement"
+   },
+   {
+    "name": "Angular",
+    "endorsements": "8 endorsements"
+   },
+   {
+    "name": "Vue.js",
+    "endorsements": "7 endorsements"
+   },
+   {
+    "name": "Node.js",
+    "endorsements": "9 endorsements"
+   },
+   {
+    "name": "MongoDB",
+    "endorsements": "5 endorsements"
+   },
+   {
+    "name": "JavaScript",
+    "endorsements": "7 endorsements"
+   },
+   {
+    "name": "PostgreSQL",
+    "endorsements": "4 endorsements"
+   },
+   {
+    "name": "MySQL",
+    "endorsements": "4 endorsements"
+   },
+   {
+    "name": "HTML",
+    "endorsements": "4 endorsements"
+   },
+   {
+    "name": "React.js",
+    "endorsements": "1 endorsement"
+   }
+  ],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honorsAndAwards": [],
+  "languages": [],
+  "organizations": [],
+  "causes": [],
+  "featured": null,
+  "composeOptionType": "UPSELL",
+  "moreProfiles": [
+   {
+    "id": "ACoAACOQ3wkBbTyOPEzvxoutqQA52xK7_QoCYX8",
+    "firstName": "Gaurav",
+    "lastName": "Talesara",
+    "position": "Head of Engineering at Ciphernutz IT Services",
+    "publicIdentifier": "gaurav-talesara-8099ba147",
+    "linkedinUrl": "https://www.linkedin.com/in/gaurav-talesara-8099ba147"
+   },
+   {
+    "id": "ACoAAB1HPucBmZapxH8XGkukiXuT4jQQLMLrlc8",
+    "firstName": "Pintu",
+    "lastName": "Soliya",
+    "position": "Co-Founder @ Ciphernutz IT Services",
+    "publicIdentifier": "pintu-soliya",
+    "linkedinUrl": "https://www.linkedin.com/in/pintu-soliya"
+   },
+   {
+    "id": "ACoAADF2k08BFEkgkkghVMj3CNFrX9DiNJPscbU",
+    "firstName": "Shiv",
+    "lastName": "Ghariwala",
+    "position": "Team Lead | Software Engineer | AI Automation Engineer | Building AI-Driven Solutions",
+    "publicIdentifier": "shiv-ghariwala",
+    "linkedinUrl": "https://www.linkedin.com/in/shiv-ghariwala"
+   },
+   {
+    "id": "ACoAAEJ2TZcBKZHPSuhq2DFraK0xMq6VxKlL5pg",
+    "firstName": "Dhaivat",
+    "lastName": "Thummar",
+    "position": "React Native Developer at Ciphernutz IT Services",
+    "publicIdentifier": "dhaivatthummar",
+    "linkedinUrl": "https://www.linkedin.com/in/dhaivatthummar"
+   },
+   {
+    "id": "ACoAAGkX_KsBXWCB_-qgI889qP6V5Ngx7o7mGsU",
+    "firstName": "Fatima",
+    "lastName": "M",
+    "position": "I help businesses eliminate manual work and scale operations with AI Automation & Intelligent Agents | CEO @ A Digital Company | Workflow Automation | AI Consulting",
+    "publicIdentifier": "fatima-ai-automation",
+    "linkedinUrl": "https://www.linkedin.com/in/fatima-ai-automation"
+   },
+   {
+    "id": "ACoAACy9MXQBDRljOH1ZDpvekcL0C70adSsS_Mo",
+    "firstName": "Dhara",
+    "lastName": "Sohaliya",
+    "position": "Frontend Developer at Ciphernutz IT Services",
+    "publicIdentifier": "dhara-sohaliya-b5845818b",
+    "linkedinUrl": "https://www.linkedin.com/in/dhara-sohaliya-b5845818b"
+   },
+   {
+    "id": "ACoAABeYhUQBiVXjzQQFfOkTW4y7QeZMcEfpG3I",
+    "firstName": "Parth",
+    "lastName": "Vadodariya",
+    "position": "Co-Founder of Shreenath Developers",
+    "publicIdentifier": "parth-vadodariya-4046b0b0",
+    "linkedinUrl": "https://www.linkedin.com/in/parth-vadodariya-4046b0b0"
+   },
+   {
+    "id": "ACoAACZnVv0B5Nl4B3Xbnb7xwtEqg3V1EY9i5Vc",
+    "firstName": "Meet",
+    "lastName": "Bhure",
+    "position": "Senior Software Engineer | Building Scalable AI Solutions | Devops | Data engineering | Product management",
+    "publicIdentifier": "meet-bhure-7b993a15b",
+    "linkedinUrl": "https://www.linkedin.com/in/meet-bhure-7b993a15b"
+   },
+   {
+    "id": "ACoAAED3FNUB8l2VzVc6Z6eK6XHU1KyMFF_KTy4",
+    "firstName": "Bhavesh",
+    "lastName": "Patel",
+    "position": "NodeJs | Next Js | REST API | Socket io | javascript | Typescript | MongoDB | Redis|Postgres sql",
+    "publicIdentifier": "bhavesh-patel-1b1025265",
+    "linkedinUrl": "https://www.linkedin.com/in/bhavesh-patel-1b1025265"
+   },
+   {
+    "id": "ACoAAEHZVtUBNJF1Sl0Gtwa31gKwZPem5XIZrXw",
+    "firstName": "Ashita",
+    "lastName": "Vasani",
+    "position": "Attended Creative Design & Multimedia Institute",
+    "publicIdentifier": "ashita-vasani-245b96269",
+    "linkedinUrl": "https://www.linkedin.com/in/ashita-vasani-245b96269"
+   },
+   {
+    "id": "ACoAAGwzIdEBfgGUI_O78hO59CItIw-Gi2qOe1s",
+    "firstName": "Rahwa",
+    "lastName": "Hagos",
+    "position": "--",
+    "publicIdentifier": "rahwa-hagos-295b2b427",
+    "linkedinUrl": "https://www.linkedin.com/in/rahwa-hagos-295b2b427"
+   },
+   {
+    "id": "ACoAAFebWo8BKaCJIBM47oHog6hoZGB7qQHBEg4",
+    "firstName": "Karen",
+    "lastName": "Jackson",
+    "position": "--",
+    "publicIdentifier": "karen-jackson-1a7296350",
+    "linkedinUrl": "https://www.linkedin.com/in/karen-jackson-1a7296350"
+   },
+   {
+    "id": "ACoAAGu_LngB_Pd8ZKzdug3CNkSwk4uYP5X6mBU",
+    "firstName": "Zoe",
+    "lastName": "Malempre",
+    "position": "--",
+    "publicIdentifier": "zoe-malempre-848485425",
+    "linkedinUrl": "https://www.linkedin.com/in/zoe-malempre-848485425"
+   },
+   {
+    "id": "ACoAAGx5q6AB3lblHLykphv5-xMO_kD33dAnQu0",
+    "firstName": "svetlana",
+    "lastName": "albazi",
+    "position": "--",
+    "publicIdentifier": "svetlana-albazi-56859a429",
+    "linkedinUrl": "https://www.linkedin.com/in/svetlana-albazi-56859a429"
+   },
+   {
+    "id": "ACoAAGwBqXoBQCyGSLqRiQvZbw5tT-pNnfCt558",
+    "firstName": "Fatimah",
+    "lastName": "Almosa",
+    "position": "--",
+    "publicIdentifier": "fatimah-almosa-04aa27426",
+    "linkedinUrl": "https://www.linkedin.com/in/fatimah-almosa-04aa27426"
+   },
+   {
+    "id": "ACoAAGxnnNwBMviTytBwcr8L3C1dsjam2TnIuVE",
+    "firstName": "Marra",
+    "lastName": "Z",
+    "position": "--",
+    "publicIdentifier": "marra-z-738109429",
+    "linkedinUrl": "https://www.linkedin.com/in/marra-z-738109429"
+   },
+   {
+    "id": "ACoAAGukSm8B0NqV1JGRJk7wbIOsNW7XQGi31AY",
+    "firstName": "Caroline",
+    "lastName": "Zeitoun",
+    "position": "--",
+    "publicIdentifier": "caroline-zeitoun-a13975424",
+    "linkedinUrl": "https://www.linkedin.com/in/caroline-zeitoun-a13975424"
+   },
+   {
+    "id": "ACoAAGw21bABGJYEWZDSqt4KEP8SBByavP2M7dE",
+    "firstName": "Shane",
+    "lastName": "Tremayne",
+    "position": "--",
+    "publicIdentifier": "shane-tremayne-7a8027428",
+    "linkedinUrl": "https://www.linkedin.com/in/shane-tremayne-7a8027428"
+   },
+   {
+    "id": "ACoAAGvzQ2cB7OoLa7l0WEdP37o8L4rKYH8w3aQ",
+    "firstName": "Rebekah",
+    "lastName": "Miller",
+    "position": "--",
+    "publicIdentifier": "rebekah-miller-b47650426",
+    "linkedinUrl": "https://www.linkedin.com/in/rebekah-miller-b47650426"
+   },
+   {
+    "id": "ACoAAGwQc5oBiyBmpeM5xqjIeqeiDLid_Q0MVUg",
+    "firstName": "Ashlyn",
+    "lastName": "Dawson",
+    "position": "--",
+    "publicIdentifier": "ashlyn-dawson-b36213427",
+    "linkedinUrl": "https://www.linkedin.com/in/ashlyn-dawson-b36213427"
+   }
+  ],
+  "interests": [
+   {
+    "interestName": "Top Voices",
+    "elements": [
+     {
+      "title": "Becky Owen",
+      "subtitle": "CMO, Billion Dollar Boy | Founder, FiveTwoNine | Creator Economy | Ex Meta & Disney",
+      "link": "https://www.linkedin.com/in/becky-owen-0289a615",
+      "caption": "8,269 followers",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/D4E03AQErNLInJuXWyg/profile-displayphoto-crop_800_800/B4EZsO7aOHIIAI-/0/1765482014693?e=1788998400&v=beta&t=QXH9F9DgRblqox5_-ibi2bbvVGO0Mhcb6fjevHWJDD0"
+      }
+     },
+     {
+      "title": "Andrew Ng",
+      "subtitle": "DeepLearning.AI, AI Fund and AI Aspire",
+      "link": "https://www.linkedin.com/in/andrewyng",
+      "caption": "2,602,770 followers",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/C5603AQF8paxRmnuJxg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517556809521?e=1788998400&v=beta&t=LFfVsRczQ3cp3MltAcJKoTIAtFPDBlPL_roryjpE2sI"
+      }
+     }
+    ]
+   },
+   {
+    "interestName": "Companies",
+    "elements": [
+     {
+      "title": "Gartner",
+      "subtitle": null,
+      "link": "https://www.linkedin.com/company/2078/",
+      "caption": "2,247,412 followers",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/D4E0BAQH2JgFZ-PkBGw/company-logo_400_400/B4EZrf8gJIGoAY-/0/1764693771187/gartner_logo?e=1788998400&v=beta&t=r12SZrtVDU87ysB1nBVMdeRM90CerUjuGqSkkiNWg-M"
+      }
+     },
+     {
+      "title": "Y Combinator",
+      "subtitle": null,
+      "link": "https://www.linkedin.com/company/167872/",
+      "caption": "1,794,163 followers",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1788998400&v=beta&t=oSAObkeEAlIY2a9H2WXshtjk6nmsbc9Z1CGA0U0HgF8"
+      }
+     }
+    ]
+   },
+   {
+    "interestName": "Groups",
+    "elements": [
+     {
+      "title": "VueJs Club - Developers, Professionals & Enthusiasts ",
+      "subtitle": null,
+      "link": "https://www.linkedin.com/groups/10428091",
+      "caption": "10,051 members",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/C5107AQFaVC5rhA3t1g/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1630996887231?e=1788260400&v=beta&t=n19x_Q673gZC7Xgm8Cfu2yi_rKgo-Efegp0C-oPe6L0"
+      }
+     },
+     {
+      "title": "Angular Club - Developers, Professionals & Enthusiasts ( AngularJS 1.x to Angular8 )",
+      "subtitle": null,
+      "link": "https://www.linkedin.com/groups/12135868",
+      "caption": "15,222 members",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/C5107AQEZ0WIJClFULw/group-logo_image-shrink_92x92/group-logo_image-shrink_92x92/0/1550555443093?e=1788260400&v=beta&t=3p3Ix73kotSIJBFZCsrfKYSn9qvOyZ0skYkvMqjuRpE"
+      }
+     }
+    ]
+   },
+   {
+    "interestName": "Newsletters",
+    "elements": [
+     {
+      "title": "AI and Chill",
+      "subtitle": "AI & Chill ~ looking at the ways everyday people can transform their business and creative work with AI. ",
+      "link": "https://www.linkedin.com/newsletters/7000587679700549632",
+      "caption": "Published biweekly",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/D4E12AQHRfOyJolmu1g/series-logo_image-shrink_300_300/B4EZdVsIO9HIAU-/0/1749489321315?e=1788998400&v=beta&t=Lz03QyaHwUy3P91UqkrSI0DkhNDMgJ00B8NY9RmGh90"
+      }
+     },
+     {
+      "title": "Create Possibilities",
+      "subtitle": "Tips, tricks, and resources for members who want to grow their community, increase engagement, and create great content.",
+      "link": "https://www.linkedin.com/newsletters/7026669590701035521",
+      "caption": "Published monthly",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/D4E12AQH7I--OnPIryg/series-logo_image-shrink_300_300/series-logo_image-shrink_300_300/0/1704731644888?e=1788998400&v=beta&t=xEkVw3vO-Bz6g8NqBjTrYQwHpL3ZxIThdMwFbHiRzlo"
+      }
+     }
+    ]
+   },
+   {
+    "interestName": "Schools",
+    "elements": [
+     {
+      "title": "GrowthX®",
+      "subtitle": null,
+      "link": "https://www.linkedin.com/school/31004424/",
+      "caption": "96,500 followers",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/D560BAQHatzOv4VrxwA/company-logo_400_400/B56ZvluHNnHAAY-/0/1769085630135?e=1788998400&v=beta&t=MXTH-Z5VNnuBsKFFbIDG7Tw9oLsJDj4ml3IT1y75R14"
+      }
+     },
+     {
+      "title": "Y Combinator",
+      "subtitle": null,
+      "link": "https://www.linkedin.com/school/167872/",
+      "caption": "1,794,163 followers",
+      "image": {
+       "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1788998400&v=beta&t=oSAObkeEAlIY2a9H2WXshtjk6nmsbc9Z1CGA0U0HgF8"
+      }
+     }
+    ]
+   }
+  ],
+  "originalQuery": {
+   "query": "https://www.linkedin.com/in/vijayvamja"
+  }
+ }
+]

@@ -1,0 +1,1335 @@
+[
+ {
+  "name": "Techindia Infoway Pvt Ltd",
+  "city": "Chennai",
+  "domain": "techindia.com",
+  "website": "https://www.techindia.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 19351,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 20,
+   "DQ_support": 4,
+   "compliance": 4,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Remote Patient Monitoring Services, Cardiac Event Monitoring Services for Hospitals & Healthcare Industry - Techindia --> --> Platform Products AP Holter Cutting-edge cloud-native AI-powered solution for arrhythmia analysis.",
+    "What Is Mobile Cardiac Telemetry (MCT) and How Is It Used in Modern Healthcare?",
+    "Providing world-class enterprise healthcare management solutions.",
+    "Top-tier healthcare education along with advanced technology."
+   ],
+   "DQ_support": [
+    "What Is Remote ICU Monitoring and How Does It Support Modern Critical Care?"
+   ],
+   "compliance": [
+    "Aligning with HIPAA to safeguard and secure our client's data."
+   ],
+   "owns_product": [
+    "Our platform, products, and services comply with all relevant regulations and standards, and we are confident in our ability to meet the highest standards of excellence in everything we do."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 8
+ },
+ {
+  "name": "VERSUP InfoTech Private Limited",
+  "city": "New Delhi",
+  "domain": "versupinfotech.com",
+  "website": "https://versupinfotech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ce planning (ERP) is business process management software  Custom Software Development Customized Design, Development and Maintenance of Enterprise W"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 12037,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 4
+  },
+  "site_quotes": {
+   "compliance": [
+    "2, WeWork Eldeco Centre, Block A, Shivalik Colony, Malviya Nagar, Delhi - 110017, India e-Mailbox: business[at]versupinfotech[dot]com Tel.: +91-9999-666-960 An ISO 9001:2015 Certified Company Web Policies Privacy Policy CSR Blog Careers Contact Us © VERSUP InfoTech 2026."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 8
+ },
+ {
+  "name": "Cloudastra Technologies (OPC) Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "cloudastra.co",
+  "website": "https://cloudastra.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Cloudastra - Asia #1 Choice for IT/ Cloud Services Case Studies Services Cloud DevOps Web Devlopment UI / UX Design App Devlopment Blogs Abou"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 2161,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 4,
+   "owns_product": 4,
+   "cicd": 7,
+   "enterprise": 6,
+   "sdlc": 6,
+   "DQ_template": 1,
+   "qa": 3,
+   "pr_practice": 2,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "AI-First Product Engineering RAG systems, AI agents, and intelligent automation engineered into your product core.",
+    "Production-Grade, End to End From AI product engineering to cloud, DevOps, and design, our work holds to a single standard: secure, scalable, production-ready software, delivered without the wait.",
+    "AI-First Product Engineering Ongoing feature delivery with AI in the loop, end to end."
+   ],
+   "owns_product": [
+    "AI-First Product Engineering RAG systems, AI agents, and intelligent automation engineered into your product core.",
+    "Explore Services AI-First Cloud AI Development AI-First DevOps AI-First Web Apps AI Automation AI-First Design Our Products Products built to ship.",
+    "AI adoption Add AI to your product Ship AI features into an existing product with engineers who build with AI every day."
+   ],
+   "cicd": [
+    "Engineered a lead intelligence and sales pipeline platform that helps teams qualify, route and close prospects faster.",
+    "Our DevOps Managed Services accelerate software delivery by automating build, test and deployment pipelines, improving release frequency and reducing manual errors.",
+    "We bring infrastructure-as-code, continuous integration, continuous deployment and proactive monitoring so your team can ship faster while staying reliable and secure.",
+    "We design and deliver AI solutions tailored to your business: large language model integrations, intelligent automation, computer vision pipelines, predictive analytics and agent-based workflows."
+   ],
+   "enterprise": [
+    "Madhusudhan ML Altcase They revolutionized our insurance services with an AI-based bot, streamlining customer interactions and significantly reducing costs.",
+    "We partner with clients across finance, healthcare, retail, logistics, media, education and the public sector.",
+    "We have embedded with teams across regulated, data-heavy and high-growth sectors.",
+    "Fintech and Banking Healthcare eCommerce and Retail Education Energy and CleanTech SaaS and Platforms Insurance Fintech and Banking Healthcare eCommerce and Retail Education Energy and CleanTech SaaS and Platforms Insurance Frequently Asked Have questions?"
+   ],
+   "sdlc": [
+    "We’re here to help you understand how we work.",
+    "Every solution is built around your data, your processes and your guardrails, not a generic template.",
+    "Proof path Validate before you commit Start with a focused sprint and see real output before scaling the engagement.",
+    "3 Weeks 1-4 AI sprint build Specialized agents build in parallel under senior engineering oversight."
+   ],
+   "DQ_template": [
+    "Every solution is built around your data, your processes and your guardrails, not a generic template."
+   ],
+   "qa": [
+    "Output of several developers Start in days Production-grade Book a Call Explore our services CLOUDASTRA AI-First Engineer One engineer, the whole team Product Design Code QA DevOps Security ID · ENG-001 Conductor + orchestra One engineer directs a team of specialized AI agents.",
+    "QA Engineer AI-powered testing Generates and runs test suites for strong coverage so regressions are caught early.",
+    "4 Final days QA and launch Automated testing, hardening and deployment to your environment."
+   ],
+   "pr_practice": [
+    "Full-Stack Developer Production-grade code Builds front end and back end with clean architecture and code review on every change.",
+    "Every change goes through code review and AI-powered testing for strong coverage, with CI/CD and security scanning built into the workflow."
+   ],
+   "senior_roles": [
+    "Technical Excellence Our solution architects and certified engineers offer vast experience on cloud technologies, DevOps Services, AI development the modern development stack."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 8
+ },
+ {
+  "name": "CyberSRC Consultancy Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "cybersrcc.com",
+  "website": "https://www.cybersrcc.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "CT SUCCESSFULLY EXECUTED 5000 + NUMBER OF IT ASSETS SECURED Case Studies & Solutions We assure you high quality deliveries every time and on time! VIE"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 29037,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 5,
+   "compliance": 4,
+   "cicd": 2,
+   "enterprise": 2,
+   "DQ_support": 8,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "New Chat Visit Website Our Services Our Products Book a Demo Contact Us © 2026 CyberSRC® V.E.N.I."
+   ],
+   "compliance": [
+    "SOC 2 Certified ISO 27001 24/7 SOC SRC-TI® Threat Intelligence Suite SRC-TI® is a Digital Threat Intelligence and Response platform that proactively detects and mitigates cyber risks in real time.",
+    "We are an ISO 27001, ISO 9001, and SOC II certified organization, attaining significant recognition through our empanelment under the Indian CERT (Computer Emergency Response Team).",
+    "We are an ISO 27001, ISO 9001 & SOC II certified organization, attaining significant dominance by achieving empanelment under the Indian CERT (Computer Emergency Response Team), and backed by a very diverse and dynamic team which have a combined experience of 75+ years under the belt.",
+    "ISO 27001 Certified Achievement milestone by being empanelled by CERT-in as Security Auditing Organization."
+   ],
+   "cicd": [
+    "Integrated with CI/CD pipelines, SRC-iSBOM™ provides real-time visibility into third-party components, ensuring your software remains secure, compliant, and resilient against emerging risks."
+   ],
+   "enterprise": [
+    "The transition is particularly relevant for financial institutions, fintech companies, e-commerce platforms, healthcare organizations and technology companies that depend on consent-driven processing, extensive data ecosystems and third-party service providers.",
+    "Remote Delhi NCR Full-Time Apply Now Cloud Security Architect Design and implement secure cloud infrastructures for enterprise clients across multiple platforms."
+   ],
+   "DQ_support": [
+    "The addresses belonged to owners of Coldcard hardware wallets — devices marketed on the premise of air-gapped, offline key generation, precisely the profile of asset presumed safest from remote compromise.",
+    "Galaxy Research mapped the sweep to a firmware flaw traced to a March 2021 firmware integration error that routed seed generation to a deterministic software pseudorandom number generator instead of the STM32 hardware random number generator.",
+    "Because the macro was defined as 0 rather than left undefined, the guard passed, the build succeeded, and the rng_get() call fell through to MicroPython's Yasmarang software fallback instead of erroring out or invoking the intended hardware generator.",
+    "Critically, the system had no fail-safe: nothing in the seed-generation flow asserted that the hardware TRNG had actually been invoked, and nothing flagged the discrepancy between the intended and actual entropy source at build, boot, or seed-creation time."
+   ],
+   "DQ_template": [
+    "Email Templates & Landing Pages: Custom-crafted templates and benign tracking pages to capture simulated outcomes safely."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 8
+ },
+ {
+  "name": "Innovative Logic Lab Private Limited",
+  "city": "Jaipur",
+  "domain": "innologic.in",
+  "website": "https://www.innologic.in",
+  "already_in_hubspot": true,
+  "headcount_known": 1,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 6563,
+   "signals": {
+    "vcs_generic": 2,
+    "testing": 2
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Use Git and SVN for version control, ensuring efficient management of code changes and collaboration within the development team.",
+     "Hands-on experience with version control systems like Git and SVN."
+    ],
+    "testing": [
+     "Write and maintain unit tests using Jest and React Testing Library to ensure code quality and application stability.",
+     "Experience with unit testing using Jest and React Testing Library."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1,
+   "sdlc": 8,
+   "qa": 2,
+   "pr_practice": 2,
+   "vcs": 2,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "It allows Marine training institutes to create engaging, interactive, and enhanced versions of social learning experiences for students."
+   ],
+   "sdlc": [
+    "It also helps in skill enhancement, career counselling, leadership development, work performance and succession planning Read more Project Management Software Innobt is an agile project management tool that supports any agile methodology, be it scrum, kanban, or your own unique ...",
+    "From agile boards, backlogs, roadmaps, reports, to integrations and add-ons you can plan, track, and manage all your agile software development projects from a single tool.",
+    "Understanding of software development processes, including agile methodologies (e.g., Scrum, Kanban).",
+    "Agile Methodologies: Participate actively in Agile development processes, including sprint planning, daily stand-ups, and iterative delivery of features."
+   ],
+   "qa": [
+    "Unit Testing: Write and maintain unit tests using Jest and React Testing Library to ensure code quality and application stability.",
+    "Experience with unit testing using Jest and React Testing Library."
+   ],
+   "pr_practice": [
+    "Version Control: Use Git and SVN for version control, ensuring efficient management of code changes and collaboration within the development team.",
+    "Hands-on experience with version control systems like Git and SVN."
+   ],
+   "vcs": [
+    "Version Control: Use Git and SVN for version control, ensuring efficient management of code changes and collaboration within the development team.",
+    "Hands-on experience with version control systems like Git and SVN."
+   ],
+   "senior_roles": [
+    "Deliverables Technical Architecture Documentation Flow Design + Wireframes Development We work in two-week sprints, so you’re always up to speed with the status."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 8
+ },
+ {
+  "name": "LN Webworks Private Limited",
+  "city": "Ludhiana",
+  "domain": "lnwebworks.com",
+  "website": "https://www.lnwebworks.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 91,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Drupal Company | Drupal Web Development Company | LN Webworks Skip to main content Menu Services Drupal Drupal Dev"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 31835,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 13,
+   "owns_product": 2,
+   "compliance": 4,
+   "sdlc": 3,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "AI-Enabled Digital Platform Engineering",
+    "Company About Us Insight Women At Work Case Studies Career Privacy Contact Our Services Platform Modernization Product Engineering Data Integration Al & Automation Experience Design Digital Commerce Performance Services Managed Support We are using cookies to give you the best experience on our website.",
+    "Company About Us Insight Women At Work Case Studies Career Privacy Contact Solutions --> Our Services Platform Modernization Product Engineering Data Integration Al & Automation Experience Design Digital Commerce Performance Services Managed Support We are using cookies to give you the best experience on our website.",
+    "Enable or Disable Cookies Enabled Disabled Enable All Reject All Save Changes Product Engineering Services"
+   ],
+   "owns_product": [
+    "Their specialists are reliable, personable, and manage work in a structured, professional way.” Blaire Fernandez CEO, Marengo “LN Webworks migrated our platform from Drupal 7 with CiviCRM to Drupal 11, exceeding our expectations.",
+    "Web application, portal, and SaaS product engineering."
+   ],
+   "compliance": [
+    "Close GDPR Cookie Banner Accept Reject Settings Close GDPR Cookie Banner Close GDPR Cookie Settings Privacy Overview Strictly Necessary Cookies Powered by GDPR Cookie Compliance Privacy Overview This website uses cookies so that we can provide you with the best user experience possible."
+   ],
+   "sdlc": [
+    "Culture & Foundations LN is built on values and principles that shape how we work, collaborate, and grow together.",
+    "Mentorship is embedded into how we work, not reserved for senior roles.",
+    "Integrations between the product and other systems are fragile Onboarding, lifecycle, and reporting depend on manual sync."
+   ],
+   "enterprise": [
+    "From a modest start, we have grown into a trusted global digital solutions partner delivering web, mobile, and AI-powered platforms for startups, scale-ups, and enterprises across industries like SaaS, eCommerce, healthcare, retail, education, and tourism."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 8
+ },
+ {
+  "name": "TQ Network Private Limited",
+  "city": "Kochi",
+  "domain": "talentzq.io",
+  "website": "https://www.talentzq.io",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 4192,
+   "signals": {
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Change log for requisitions and jobs Version control on critical fields Real-time tracking of edits Audit reports for compliance Custom Scorecards & Job Flows Tailor the evaluation flow and criteria for each job."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "cicd": 3,
+   "DQ_template": 2,
+   "pr_practice": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "TalentzQ keeps your data safe and your process compliant — every step, every time."
+   ],
+   "cicd": [
+    "While most ATS tools focus only on tracking, TalentzQ goes beyond — offering smart filtering, requisition budgeting, pipeline visibility, structured workflows, and candidate engagement tools, all powered by an AI-first architecture.",
+    "Attach custom evaluation scorecards Role-specific assessment stages Pre-configured workflows Consistent evaluation across panels Other Helpful Features Candidate Pipeline Management Track, manage, and act on your entire hiring pipeline - all from a single screen."
+   ],
+   "DQ_template": [
+    "One-to-one or one-to-many mapping Custom JD templates Attach job-specific workflows Central linkage to original requisition Change Tracking & Auditability Track every update - no more confusion on who changed what."
+   ],
+   "pr_practice": [
+    "Change log for requisitions and jobs Version control on critical fields Real-time tracking of edits Audit reports for compliance Custom Scorecards & Job Flows Tailor the evaluation flow and criteria for each job."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 8
+ },
+ {
+  "name": "Artha Data Solutions India Private Limited",
+  "city": "Hyderabad",
+  "domain": "thinkartha.com",
+  "website": "https://www.thinkartha.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230106",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 68498,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 16,
+   "owns_product": 4,
+   "cicd": 8,
+   "compliance": 6,
+   "qa": 1,
+   "sdlc": 2,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "TARGET INDUSTRIES Manufacturing BFSI Retail & E-Commerce Healthcare & Life Sciences Utilities & Energy Hospitality & Travel Telecommunications Resources FEATURED RESOURCES Data Quality Guide Clean, consistent, and well-governed data to drive your business success.",
+    "Healthcare Patient Care & Data Interoperability Build robust patient identities, resolve cross-system sharing blocks, and run secure voice QA scoring under strict HIPAA and GDPR standards.",
+    "BFSI Risk Management & Active Compliance Deploy ML-based customer identity resolution, automate security controls, and protect transaction assets against model drift and bias.",
+    "TIME Aug 21, 2025 9:00 AM IST Hotel Sofitel, BKC, Mumbai LEARN MORE → Event Future Bank India Conclave 2025: Data, Compliance & AI for Banks A banking leadership forum focused on the data, compliance, and AI foundations required for resilient, trusted, and modern financial services."
+   ],
+   "owns_product": [
+    "Download Paper Explore Accelerators Govern, Audit, and Trust Your Enterprise Data Build trust, reduce risk, and simplify compliance with automated data governance, sensitive data protection, and end-to-end lineage across your enterprise data ecosystem.",
+    "Commercial Accelerator AI SniffleGaurd Active Cost & Security Middleware Ensure LLM API calls are cost-efficient and compliant.",
+    "TIME Nov 27, 2025 4:00 PM Bengaluru, India LEARN MORE → Webinar Accelerating Migration from Informatica with B'etl Watch the on-demand session on accelerating Informatica to Qlik Talend migration with B'etl, Artha's automation-driven ETL migration accelerator.",
+    "Use essential only ETL Tool Migrator & Accelerator"
+   ],
+   "cicd": [
+    "Data Governance Data Strategy AI Readiness Implementation Implementation that Turns Plans into Outcomes We put data strategy into action through practical delivery: connecting systems, improving data quality, modernizing pipelines, and accelerating trusted AI adoption.",
+    "Data Management Data Quality Data Insights Platform B'etl Support Support that Keeps Business Value Running We provide ongoing monitoring, issue resolution, performance tuning, and governance upkeep across applications, cloud platforms, data products, and pipelines.",
+    "Unclear Information Untrustworthy pipelines, silent schema drift, and poor metadata cataloging leave enterprise models operating on bad or obsolete datasets.",
+    "Our framework integrates data ingestion pipelines directly with custom RAG indexes, fine-tuning scripts, and automated action loops."
+   ],
+   "compliance": [
+    "Explore Service Data Governance Establish role-based access controls, active data lineage tracking, and automated GDPR/CCPA masking rules.",
+    "Healthcare Patient Care & Data Interoperability Build robust patient identities, resolve cross-system sharing blocks, and run secure voice QA scoring under strict HIPAA and GDPR standards.",
+    "Request a Demo Explore Features GDPR & CCPA Ready AI-Driven Rules 40+ Connectors Real-time Insights DIP · Data Governance Console Live 1B+ Records/day 85% Validation Acc.",
+    "GDPR CCPA HIPAA Master Data Management (MDM) for Customer 360 With MDM capabilities, DIP unifies disparate customer data sources to create a single, authoritative view."
+   ],
+   "qa": [
+    "Healthcare Patient Care & Data Interoperability Build robust patient identities, resolve cross-system sharing blocks, and run secure voice QA scoring under strict HIPAA and GDPR standards."
+   ],
+   "sdlc": [
+    "Built-In Agility: Adopt scalable solutions and stay agile with cutting-edge AI and automation.",
+    "Boosting Performance & Productivity By addressing performance bottlenecks in legacy systems and optimizing Talend implementations, the migrator enhances team productivity and accelerates development cycles, enabling agile practices."
+   ],
+   "DQ_agency": [
+    "Full white-label branding with your company logo and color scheme Reseller licensing model with tiered pricing for your client engagements Dedicated partner onboarding and co-selling support from Artha's team Become a Partner Your Brand."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 8
+ },
+ {
+  "name": "Botminds AI Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "botminds.ai",
+  "website": "https://www.botminds.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2017-12-15",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 23757,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "DQ_bpo": 1,
+   "senior_roles": 1,
+   "compliance": 7,
+   "DQ_support": 1,
+   "DQ_template": 1,
+   "prod_eng": 3,
+   "owns_product": 1,
+   "sdlc": 2,
+   "cicd": 4
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Underwriting Credit underwriting first — and the same governed engine reads insurance files too: applications, loss runs, policies.",
+    "Jul 29, 2024 4 min read Transform Your Revenue Cycle Management with Botminds-Agentic AI Where healthcare revenue cycle management breaks down under manual work — extraction, coding, claims, denials — and what governed document AI fixes at each stage.",
+    "LinkedIn → Pankaj Dhingra Chief Operating Officer & Chief Strategy Officer 25+ years of global leadership across Microsoft, Salesforce, Tableau and GE Healthcare, and former CTO at Lighthouse Global."
+   ],
+   "DQ_bpo": [
+    "Watch how it works · 90 seconds The platform Purpose-built agents for credit Not a copilot bolted onto a viewer — a platform of agents that do the work of the credit back office, under your rules."
+   ],
+   "senior_roles": [
+    "Jul 17, 2026 Full-time Chennai Engineering Solution Architect Solution architect role: deeply understand enterprise customer problems and design fantastic, governed AI architectures on top of the Botminds platform."
+   ],
+   "compliance": [
+    "Aug 25, 2025 4 min read Privacy by Design: How Botminds AI Guarantees Data Security Without Compromise How privacy by design works at Botminds: zero-trust access, AES-256 encryption, continuous monitoring, and GDPR, HIPAA, and ISO 27001 alignment.",
+    "Aug 6, 2025 5 min read Botminds AI: Secure, Compliant & Scalable AI for Enterprises Enterprise AI security at Botminds: AES-256 encryption, role-based access, immutable audit logs, SOC 2 Type II, ISO 27001, no training on customer data.",
+    "Dec 9, 2022 2 min read Botminds achieves ISO27001:2013 Certification Botminds is ISO 27001:2013 certified for information security management, adding to SOC 2 Type II — what the audit covered and why it matters for customer data.",
+    "is now SOC 2 Type II compliant Botminds completed a SOC 2 Type II audit across Security, Confidentiality, and Availability — what the certification covers and how to get the report."
+   ],
+   "DQ_support": [
+    "Feb 3, 2025 5 min read Transform Your Internal Helpdesk with AI: Instant Employee Support How Botminds rebuilds internal helpdesk operations: chatbot answers from the knowledge base, context-aware ticket routing, and far fewer routine tickets."
+   ],
+   "DQ_template": [
+    "Aug 12, 2024 5 min read Streamlining Protocol Validation with Botminds AI How Botminds speeds pharmaceutical protocol validation: template-independent document understanding, connected data sources, and fewer SME bottlenecks."
+   ],
+   "prod_eng": [
+    "LinkedIn → Ansari Ismail CTO & Co-Founder Leads the AI and platform engineering team building the agentic platform — agents, collections, experiences and governance.",
+    "Product engineering and delivery run from Chennai, India — one team shipping and supporting the platform across North American and APAC business hours.",
+    "Chennai, India Our product engineering and delivery hub — where the platform is built, and the anchor of our APAC presence."
+   ],
+   "owns_product": [
+    "Chennai, India Our product engineering and delivery hub — where the platform is built, and the anchor of our APAC presence."
+   ],
+   "sdlc": [
+    "How we work Four pillars, one governed loop Everything we ship — and everything a customer builds — runs on the same four pillars.",
+    "Pages assemble from cards; cards bind to collections and agents — so your process reaches your screen the day you shape it, without a frontend project."
+   ],
+   "cicd": [
+    "XFlows — when the pipeline must be deterministic A visual DAG of typed nodes: agents, conditions, loops, webhooks, transforms.",
+    "Reach for an XFlow when the pipeline must be deterministic and replayable, with conditions, loops and mixed node types.",
+    "GO DEEPER · ACADEMY A10 XFlows & pipelines A11 Teams & mesh A13 Library & bots R4 XFlow node reference Layer 2 · reach Tools, skills & the MCP surface Tools are what an agent can do ; skills are what it knows about how to work .",
+    "Re-run yesterday's pipeline and get yesterday's answer — or a diff you can explain."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 8
+ },
+ {
+  "name": "Kryptos Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "kryptostech.com",
+  "website": "https://kryptostech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "tisfaction High Skilled Professionals Read More 100 Experts Case Studies Azure Site Recovery Website Recovery Azure Web Solution Web Solution Backup M"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 18551,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 1,
+   "DQ_bpo": 1,
+   "enterprise": 1,
+   "compliance": 36,
+   "sdlc": 4,
+   "cicd": 3
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "BPO Industry Thanks to your team for design/support in technical architecture and their extensive support toward successful migration of data center services on a short notice."
+   ],
+   "DQ_bpo": [
+    "BPO Industry Thanks to your team for design/support in technical architecture and their extensive support toward successful migration of data center services on a short notice."
+   ],
+   "enterprise": [
+    "Global Education Provider Kryptos has the quality and depth of management to become a leading provider of infrastructure management service to Fortune 500 companies."
+   ],
+   "compliance": [
+    "Cookie Duration Description cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\".",
+    "cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin."
+   ],
+   "sdlc": [
+    "We offer flexible learning options on hundreds of topics from public speaking to Agile project management, and we pay for certifications in the world's top technology platforms.",
+    "Kryptos Cloud Practice team uses Cloud-native technologies to develop applications packaged in containers that are deployed as microservices and manage infrastructure through agile DevOps processes and continuous delivery workflows.",
+    "Smart solutions Your Trusted MSP for all IT & Business needs Catering to Constant Information Technology needs and challenges with our innovative and agile service offerings.",
+    "Optimize your processes, enhance customer experience, and discover new opportunities."
+   ],
+   "cicd": [
+    "Kryptos Cloud Practice team uses Cloud-native technologies to develop applications packaged in containers that are deployed as microservices and manage infrastructure through agile DevOps processes and continuous delivery workflows.",
+    "By leveraging continuous integration, delivery, and cloud-native development tools, Our DevOps improves the frequency of new updates, time to market, reduce bugs and issues, enhance performance, and increase collaboration.",
+    "Read more Application Modernization Transform Legacy Applications to next-gen and drive digital adoption The business benefit of modernizing applications is its ability to ensure the continuous delivery of best-case end user experiences, regardless of how technology changes over time."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 8
+ },
+ {
+  "name": "MCO MyCompliance India Private Limited",
+  "city": "Hyderabad",
+  "domain": "mco.mycomplianceoffice.com",
+  "website": "https://mco.mycomplianceoffice.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ne No more swivel chair compliance. Complete access to all your work in one place. One portal with one login, one data source and an unprecedented lev"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 24037,
+   "signals": {
+    "cicd": 2,
+    "vcs_generic": 2,
+    "testing": 2
+   },
+   "quotes": {
+    "cicd": [
+     "Reporting to the Performance Engineering Tech Lead, you will contribute to the tooling, scripting standards, and CI/CD integration that the Performance Engineering Centre of Enablement (CoE) is building across MCO.",
+     "Reporting to the Performance Engineering Tech Lead, you will contribute to the tooling, scripting standards, and CI/CD integration that the Performance Engineering Centre of Enablement (CoE) is building across MCO."
+    ],
+    "vcs_generic": [
+     "The role involves hands-on API testing, manual regression testing, and the use of version control systems to support robust and scalable automation frameworks.",
+     "The role involves hands-on API testing, manual regression testing, and the use of version control systems to support robust and scalable automation frameworks."
+    ],
+    "testing": [
+     "The successful candidate will demonstrate strong expertise in WebdriverIO (WDIO) with TypeScript or JavaScript, Selenium with Java, and Object-Oriented Programming (OOP), along with exposure to AI technologies.",
+     "The successful candidate will demonstrate strong expertise in WebdriverIO (WDIO) with TypeScript or JavaScript, Selenium with Java, and Object-Oriented Programming (OOP), along with exposure to AI technologies."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "prod_eng": 1,
+   "DQ_agency": 1,
+   "owns_product": 4,
+   "qa": 3,
+   "senior_roles": 2,
+   "pr_practice": 1,
+   "cicd": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Insurance \"The nice thing about this software is that this gives insights into the business but also guidance on how to solve most issues.",
+    "The company develops software products for financial services organisations, so the role requires a strong understanding of security expectations in regulated, audit-driven, enterprise customer environments.",
+    "2024 and beyond Today, the MyComplianceOffice platform delivers better built compliance to firms of all sizes across capital markets, banking, and insurance and throughout North America, Europe and the Asia-Pacific region."
+   ],
+   "prod_eng": [
+    "The CISO will report to the Chief Information Officer (CIO) and will work closely with executive leadership, product engineering, cloud operations, customer-facing teams, legal, procurement, and external auditors to ensure security is embedded in how the organisation builds, operates, sells, and supports its products."
+   ],
+   "DQ_agency": [
+    "Senior Digital Marketing Manager We are seeking a senior-level, performance-driven Senior Manager Digital Marketing with 8 years of B2B experience to lead and optimize our digital channels."
+   ],
+   "owns_product": [
+    "Product Manager (ECOI) MCO’s Employee Conflicts of Interest (ECOI) product suite is the company’s flagship offering and primary revenue driver, serving financial institutions globally with comprehensive compliance solutions for managing employee conduct risk.",
+    "As a privately held company led by Founder and CEO Brian Fahey, we built our platform to monitor the three key sources of potential misconduct: Transactions, Employees and Third Parties, all informed by one trusted source of data.",
+    "2013 - 2021 As our capabilities matured, we expanded our product set to include third party and transactional compliance and our client list to include firms of all sizes across financial services and the globe.",
+    "As a privately held company, our ability to continually invest in our product means that we’re always evolving to meet the compliance needs of the financial services industry."
+   ],
+   "qa": [
+    "QA Lead - Automation We are seeking a highly experienced and technically proficient QA Lead to strengthen our QA team.",
+    "The successful candidate will demonstrate strong expertise in WebdriverIO (WDIO) with TypeScript or JavaScript, Selenium with Java, and Object-Oriented Programming (OOP), along with exposure to AI technologies.",
+    "This role is responsible for aggregating and modelling data from multiple sources (e.g., Jira, Zendesk, DevOps, SharePoint, Excel, SQL, QA, other sources), producing trusted portfolio insights, and enabling decision making."
+   ],
+   "senior_roles": [
+    "The position also requires managing multiple teams, coordinating with Engineering Managers on delivery commitments, providing automation guidance to junior resources, and producing weekly status reports for leadership.",
+    "Reporting to the Performance Engineering Tech Lead, you will contribute to the tooling, scripting standards, and CI/CD integration that the Performance Engineering Centre of Enablement (CoE) is building across MCO."
+   ],
+   "pr_practice": [
+    "The role involves hands-on API testing, manual regression testing, and the use of version control systems to support robust and scalable automation frameworks."
+   ],
+   "cicd": [
+    "Reporting to the Performance Engineering Tech Lead, you will contribute to the tooling, scripting standards, and CI/CD integration that the Performance Engineering Centre of Enablement (CoE) is building across MCO."
+   ],
+   "sdlc": [
+    "Senior Agile Coach Click here for more details and how to apply for this position."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 8
+ },
+ {
+  "name": "QuasarCyberTech Private Limited",
+  "city": "Nashik",
+  "domain": "quasarcybertech.com",
+  "website": "https://quasarcybertech.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2024-07-10",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 25922,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 4,
+   "cicd": 3,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "compliance": [
+    "Compliance & Assurance Compliance RBI compliance, DPDP Act readiness, ISO 27001, SOC2, and comprehensive regulatory gap assessments.",
+    "Standards-Aligned Approach Our methodology aligns with ISO 27001, NIST, SOC 2, PCI-DSS, and regional frameworks for comprehensive compliance.",
+    "Compliance & Assurance Compliance & Assurance RBI compliance, DPDP Act readiness, ISO 27001, SOC2, and comprehensive regulatory gap assessments."
+   ],
+   "cicd": [
+    "Cloud & Infrastructure Security Cloud Security Kubernetes security, cloud posture management (CSPM), and hybrid infrastructure hardening.",
+    "Cloud & Infrastructure Security Cloud & Infrastructure Security Kubernetes security, cloud posture management (CSPM), and hybrid infrastructure hardening."
+   ],
+   "enterprise": [
+    "Cross-Industry Exposure Work with clients across banking, FinTech, healthcare, SaaS, and enterprise manufacturing across 15+ countries.",
+    "Healthcare & HealthTech Deep security for hospitals, medical networks, and healthcare technology providers."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 8
+ },
+ {
+  "name": "InitiateFirst Information Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "initiatefirst-is.com",
+  "website": "https://www.initiatefirst-is.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nced Analytics Data Engineering BI & Visualization Insights Case Studies About Careers Accelerating Digital Transformation for Your Business Discover"
+  },
+  "jd": {
+   "pages_read": 16,
+   "external_job_boards": [],
+   "jd_chars": 95677,
+   "signals": {
+    "quality_gate": 1,
+    "cicd": 1,
+    "testing": 2
+   },
+   "quotes": {
+    "quality_gate": [
+     "Black Duck, Prisma Cloud, Qualys, Snyk, Coverity, SonarQube, Burpsuite (Anyone) DevOps Stack:"
+    ],
+    "cicd": [
+     "Jenkins, Kubernetes, Helm, Docker Programming:"
+    ],
+    "testing": [
+     "Should be able to automate the unit tests for the UI pages.",
+     "Good knowledge of unit testing and code quality tools."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 4
+  },
+  "site_quotes": {
+   "cicd": [
+    "For efficient data transfers, we build robust data pipelines, making it easy for our clients to store, view, access, analyze, transfer and integrate data easily without any hassles.",
+    "Also, we propose an optimal course of action so that the transformation process does not seem to be too overwhelming for our clients."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 7
+ },
+ {
+  "name": "Mundrisoft Solutions Private Limited",
+  "city": "Pune",
+  "domain": "mundrisoft.com",
+  "website": "https://mundrisoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 14,
+   "external_job_boards": [],
+   "jd_chars": 43906,
+   "signals": {
+    "cicd": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Skills 2+ years of hands-on .NET web development experience Proficient in C#, ASP.NET MVC/Core, Entity Framework, SQL Server Comfortable with CI/CD pipelines and version control (Git) Basic understanding of HTML, CSS, and JavaScript Strong debugging and problem-solving abilities Nice to have:"
+    ],
+    "vcs_generic": [
+     "Skills 2+ years of hands-on .NET web development experience Proficient in C#, ASP.NET MVC/Core, Entity Framework, SQL Server Comfortable with CI/CD pipelines and version control (Git) Basic understanding of HTML, CSS, and JavaScript Strong debugging and problem-solving abilities Nice to have:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "qa": 3,
+   "sdlc": 4,
+   "cicd": 3,
+   "pr_practice": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Get to know us Our Products Our Product Suite Mundrisoft’s product suite offers a comprehensive range of solutions, from AI-powered platforms to advanced Training Management Systems.",
+    "Product Development Embed computer vision, NLP, and generative AI models directly into your products and services for smarter user experiences."
+   ],
+   "qa": [
+    "From automated test creation to skill-based insights, AI does the heavy lifting so you can focus on what matters, learning impact.",
+    "Home Blogs Quality Assurance (QA) Effective Strategies to Prevent App Crashes and Improve Debugging Mechanisms March 3, 2025 Mobile applications are integral to modern digital experiences, but frequent crashes can frustrate users, lead to...",
+    "AI-Driven Testing Speed up QA cycles using AI-generated test cases, visual regression tracking, and pattern-based anomaly detection."
+   ],
+   "sdlc": [
+    "Optimizing Learning Efficiency Micro-Learning We support your micro-learning goals by equipping you with the right tech stack, ensuring seamless delivery of focused, just-in-time learning that keeps your team agile and empowered.",
+    "DevOps Delivery We decipher DevOps tools which is the right fit for you to enable Agile Delivery.",
+    "We decipher which one is the right fit for you to enable Agile Delivery.",
+    "Engagement Model Whether you need staff augmentation, dedicated AI teams, or end-to-end product delivery, we offer flexible engagement models to suit your business goals and scale."
+   ],
+   "cicd": [
+    "Continuous Integration Get quality code by exposing issues early on in the process.",
+    "Faster Deployments Automation Automated, error free faster deployment Single click continuous deployment Single tool deployment for all environments USA 7901 4th St.",
+    "DevOps Optimization Use machine learning to identify bottlenecks in CI/CD pipelines, optimize test coverage, and improve release velocity."
+   ],
+   "pr_practice": [
+    "Intelligent Code Review Automate code quality checks using AI-assisted code review tools to improve delivery speed and reduce technical debt."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 7
+ },
+ {
+  "name": "Xbattery Energy Private Limited",
+  "city": "Hyderabad",
+  "domain": "xbattery.energy",
+  "website": "https://xbattery.energy/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2024-07-22",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 14824,
+   "signals": {
+    "cicd": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Contribute to continuous integration (CI) and continuous deployment (CD) pipelines for seamless software updates."
+    ],
+    "vcs_generic": [
+     "Experience with version control systems (e.g., Git)."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 14,
+   "compliance": 2,
+   "enterprise": 2,
+   "cicd": 4,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "The challenge is deploying these models in the constrained embedded environments where BMS hardware actually operates, without introducing cloud dependence that adds latency, bandwidth costs, and single points of failure.",
+    "Edge AI addresses this challenge by executing ML inference directly on low-power hardware co-located with the battery pack.",
+    "Edge AI moves ML inference to a processor physically co-located with the BMS hardware, conferring four fundamental advantages.",
+    "Hardware Deployment: The Next-Generation Neural Decision Processor The full value of the Edge AI BMS stack described in preceding sections can only be realised if it is deployable on hardware that fits within the power, size, and cost envelope of an embedded BMS module."
+   ],
+   "compliance": [
+    "This is particularly important under data protection regulations such as GDPR and in fleet applications where operational data is commercially sensitive."
+   ],
+   "enterprise": [
+    "An LSTM cell maintains a cell state C_t and hidden state h_t, regulated by three multiplicative gates."
+   ],
+   "cicd": [
+    "The CNN-GRU-TCN architecture maps naturally to a linear pipeline of fused operators with well-defined tensor shapes.",
+    "7.3 Real-Time Inference Pipeline In the embedded BMS application, the neural decision processor executes the following continuous pipeline."
+   ],
+   "owns_product": [
+    "Visit BharatBMS to explore India’s first scalable high-voltage Battery Management System and learn more about our products."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 7
+ },
+ {
+  "name": "Bebo Technologies Pvt Ltd",
+  "city": "Chandigarh(CH)",
+  "domain": "bebotechnologies.com",
+  "website": "http://www.bebotechnologies.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "rojects. India Careers Mexico Careers Our Services Software Product Engineering Methodologies bebo Technologies provides teams of dedicated and experi"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 560813,
+   "signals": {
+    "cicd": 1,
+    "vcs_generic": 1,
+    "testing": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Collaborate with DevOps teams to support CI/CD pipelines, containerization, and cloud deployments"
+    ],
+    "vcs_generic": [
+     "Experience with version control systems (Git) Show More Apply Now Refer a Friend Our Aguascalientes, Mexico team is seeking talented professionals with software and IT experience who want to be a part of an international presence."
+    ],
+    "testing": [
+     "Drive test-driven development practices using JUnit, Mockito, and automated testing frameworks Job Requirements:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 5,
+   "prod_eng": 1,
+   "DQ_training": 1,
+   "cicd": 1,
+   "pr_practice": 1,
+   "vcs": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Innovation Meets Quality Empowering Businesses With Exceptional IT Solutions At bebo, we deliver world-class application QA and testing services, software development, product support, and technical support.",
+    "Explore the future of QA with us.",
+    "Our goal is to optimize our clients’ software development lifecycle while meeting all of their QA and testing objectives and schedules.",
+    "Development 9 Data Scientist 2 Quality Engineering 3 Development Principal Software Engineer Level 1 Mulesoft 5 - 8 Years bebo Technologies is a leading complete software solution provider."
+   ],
+   "prod_eng": [
+    "Explore Careers Contact Us bebo Technologies is dedicated to providing high-caliber offshore software product engineering services overseen by a local management team with a proven record of success."
+   ],
+   "DQ_training": [
+    "Learning Area College Placement Drive Reconnect Meet Academia Industry Meet Expert Sessions Plantation Drive Our Institute - BTES This non profitable organization was started with the sole objective to serve the community by training candidates in the northern region and providing them career placement opportunities."
+   ],
+   "cicd": [
+    "Collaborate with DevOps teams to support CI/CD pipelines, containerization, and cloud deployments"
+   ],
+   "pr_practice": [
+    "Experience with version control systems (Git) Show More Apply Now Refer a Friend Our Aguascalientes, Mexico team is seeking talented professionals with software and IT experience who want to be a part of an international presence."
+   ],
+   "vcs": [
+    "Experience with version control systems (Git) Show More Apply Now Refer a Friend Our Aguascalientes, Mexico team is seeking talented professionals with software and IT experience who want to be a part of an international presence."
+   ],
+   "sdlc": [
+    "We implement cutting-edge DevOps practices and AI technology to deliver quality series to our clients globally."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 7
+ },
+ {
+  "name": "Capital Engineering College",
+  "city": "Bhubaneswar",
+  "domain": "collegedunia.com",
+  "website": "https://collegedunia.com/college/13162-capital-engineering-college-cec-khorda",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 41280,
+   "signals": {
+    "cicd": 3
+   },
+   "quotes": {
+    "cicd": [
+     "Conceptualise, architect and build automated deployment pipelines in a CI/CD environment like Jenkins.",
+     "Work with developers & QA to institute a policy of Continuous Integration with Automated testing Architect, build and manage dashboards to provide visibility into delivery, production application functional and performance status.",
+     "Application Deployment Systems Continuous Integration tools (Ansible)."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 14,
+   "DQ_template": 1,
+   "cicd": 5,
+   "qa": 1,
+   "enterprise": 5,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Capital Engineering College Khorda: Fees, Admission 2026, Courses, Cutoff, Ranking, Placement Select Goal & City Select Goal Search for Colleges, Exams, Courses and More..",
+    "All Rights Reserved Capital Engineering College Khorda: Fees, Admission 2026, Courses, Cutoff, Ranking, Placement Select Goal & City Select Goal Search for Colleges, Exams, Courses and More..",
+    "All Rights Reserved BPUT: Fees, Admission 2026, Courses, Cutoff, Ranking, Placement Select Goal & City Select Goal Search for Colleges, Exams, Courses and More..",
+    "Check BPUT Admission 2024 Table of Content BPUT Important Dates BPUT Key Points BPUT Courses & Fees BPUT Placement BPUT Scholarships BPUT Result BPUT FAQs BPUT Key Points Biju Patnaik University of Technology offers 950+ courses across 12 streams."
+   ],
+   "DQ_template": [
+    "Youll be the one to shape the visual aspects of website banners, social media posts, templates for emailers, exhibitions and more."
+   ],
+   "cicd": [
+    "Proven end to end sales skills - prospecting, pipeline management, closing and negotiation (this role requires end to end sales management).",
+    "Conceptualise, architect and build automated deployment pipelines in a CI/CD environment like Jenkins.",
+    "Conceptualise, architect and build a containerised infrastructure using Docker, Kubernetes, Mesosphere or similar SaaS platforms.",
+    "Work with developers & QA to institute a policy of Continuous Integration with Automated testing Architect, build and manage dashboards to provide visibility into delivery, production application functional and performance status."
+   ],
+   "qa": [
+    "Work with developers & QA to institute a policy of Continuous Integration with Automated testing Architect, build and manage dashboards to provide visibility into delivery, production application functional and performance status."
+   ],
+   "enterprise": [
+    "BENEFITS: Tools of the trade - MacBook, Latest Softwares Monthly compensation on time Health Insurance Sabbatical leave Best learning and development opportunities A chance to have a big impact early in your career APPLY NOW React Native Developer 1-6 Years experience No.",
+    "Benefits Tools of the trade - MacBook, Latest Softwares Monthly compensation on time Health Insurance Sabbatical leave Best learning and development opportunities A chance to have a big impact early in your career APPLY NOW Key Account Manager 2-7 Years experience No.",
+    "Benefits Monthly compensation on time Health Insurance Best learning opportunities A chance to have a big impact early in your career APPLY NOW Entrepreneur in Residence 2-7 Years experience No.",
+    "Read About BPUT Affiliated Colleges The varsity has signed a MoU with UIICL & OICL to provide students with insurance in case of accidents and health issues."
+   ],
+   "DQ_agency": [
+    "Key Accounts Management Experience (Recommended) Digital Marketing Exposure (Recommended) Proven experience in negotiating deals/implementing programs at scale."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 7
+ },
+ {
+  "name": "ACA Global Capability Center (India) Private Limited",
+  "city": "Pune",
+  "domain": "acaglobal.com",
+  "website": "https://www.acaglobal.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "and Other Investment Companies Private Equity Sponsors and Portfolio Companies Private Markets Insights Compliance Cybersecurity and Risk ESG Perform"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 59226,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "DQ_training": 1,
+   "owns_product": 4,
+   "compliance": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Industry Coverage 0 + We serve 6,350+ clients across diverse sectors, including asset management, banking, insurance, and fintech.",
+    "Government Shutdown Means for Regulated Firms We break down how the SEC and CFTC are affected by the U.S.",
+    "view more Article How AI Is Changing the Rules of Cyber Insurance Explore how AI risk is changing cyber insurance coverage and what firms can do to avoid exclusions."
+   ],
+   "DQ_training": [
+    "ACA is firmly committed to a policy of nondiscrimination, which applies to recruiting, hiring, placement, promotions, training, discipline, terminations, layoffs, recall, transfers, leaves of absence, compensation and all other terms and conditions of employment."
+   ],
+   "owns_product": [
+    "Our platform enables shared access to compliance, risk, and legal data—supporting effective communication and alignment across departments and facilitating joint decision-making.",
+    "Our platform is updated regularly to reflect changes in regulations, ensuring compliance by adjusting workflows and processes.",
+    "Book a Meeting Leading Financial Services Clients 0 + Trusted by top firms to protect and grow their business, with client insights driving our product evolution.",
+    "Boost your productivity and efficiency by integrating our services with ACA’s Managed Services for a comprehensive approach to compliance and oversight."
+   ],
+   "compliance": [
+    "Our solution uses data encryption, access controls, and compliance with privacy regulations such as GDPR to ensure the data sovereignty and protection of sensitive client and financial data.",
+    "view more Article The SEC Reopens Registration Pathway for Swiss Investment Advisers The SEC has lifted its moratorium on Swiss investment adviser registrations, resolving GDPR-related barriers.",
+    "ComplianceAlpha is a secure, cloud-based platform that complies with SOC 2, GDPR, and other standards."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 6
+ },
+ {
+  "name": "Adamma Info Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "adamma.in",
+  "website": "https://www.adamma.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "compliance": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Brand safety 05 Compliance with legal requirements In healthcare, finance, and education, background verification is often legally mandated.",
+    "02 BFSI Driven by digital transformation, rising incomes, and regulatory reforms — a strategic contributor to economic stability.",
+    "--> 05 Healthcare Poised to unlock $200B+ in incremental economic value over the next 10 years across India's healthcare industry."
+   ],
+   "compliance": [
+    "CRM & API access included — zero additional charges ever ISO 27001 Certified 04 We are an ISO 27001 certified BGV company We follow the leading ISO standard for pre-employment verification, ensuring you hire only the right candidates.",
+    "Under ISO 27001 process, we check all key details of every applicant with rigorous, standardised checks.",
+    "Certified to the global gold standard for information security NDA-bound team 05 Assurance of data security Our ISO 27001 Certified Data Security Compliance Policy keeps your data and your employees' data in a safe, secured environment."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 6
+ },
+ {
+  "name": "Atyeti IT Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "atyeti.com",
+  "website": "https://www.atyeti.com/en-in/",
+  "already_in_hubspot": false,
+  "headcount_known": 502,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "rojects. Our Global team of experts in Cloud, DevOps, Agile Software development and Data Science will accompany you during every stage of your cloud"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9227,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 3,
+   "DQ_bpo": 2,
+   "compliance": 5,
+   "enterprise": 3,
+   "qa": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our Global team of experts in Cloud, DevOps, Agile Software development and Data Science will accompany you during every stage of your cloud journey combining consulting, development, testing and migration.",
+    "Learn More Application and Data Modernization Modern businesses demand agile applications.",
+    "Resources Teams Ready to Go Technical Expertise Skilled Resources Managing Employee Turnover Agile/QA Superior quality product Better control- Reduced risks Improved project predictability Increased flexibility Continuous improvement Domain Expertise Good understanding of the Business."
+   ],
+   "DQ_bpo": [
+    "Learn More Business Process and Operations Atyeti Business process outsourcing (BPO) services leverages its IT-intensive business processes capability to administer and manage selected processes.Our Performance is based on defined and measurable performance metrics.",
+    "Finance and Accounting Cyber Security Functional expertise Data and Analytics Risk and Compliance Banker Productivity Capital Markets BPO Home Business Process Services Case Studies Business process Benchmarking Atyeti is managing the process of onboarding these indices onto an Index aggregator platform."
+   ],
+   "compliance": [
+    "ISO 27001:2022 Certified Honoree for 2012",
+    "Compensation Life and disability Paid time off Medical insurance Retirement plans Flexible work-life balance Relocation options Ongoing training programs ISO 27001:2022 Certified Honoree for 2012",
+    "Evaluate Early and Often Governance and Metrics Measure and Report Performance SLA Measurement and Enforcement Escalation of Missed Milestones Clear Success Criteria Cost Efficiency Global delivery model Managed Services/ Managed Capacity ISO 27001:2022 Certified Honoree for 2012",
+    "Read More ISO 27001:2022 Certified Honoree for 2012"
+   ],
+   "enterprise": [
+    "Atyeti allows you to work in a fast growing exciting company, while being able to work with industry leading Fortune 500 companies doing a lot of digital transformation work.",
+    "Compensation Life and disability Paid time off Medical insurance Retirement plans Flexible work-life balance Relocation options Ongoing training programs ISO 27001:2022 Certified Honoree for 2012",
+    "Read More Business process Solving Complex Business Challenges Our teams work in all segments of financial services including investment banking-( front office, middle office and b..."
+   ],
+   "qa": [
+    "Resources Teams Ready to Go Technical Expertise Skilled Resources Managing Employee Turnover Agile/QA Superior quality product Better control- Reduced risks Improved project predictability Increased flexibility Continuous improvement Domain Expertise Good understanding of the Business."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 6
+ }
+]

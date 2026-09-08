@@ -1,0 +1,848 @@
+[
+ {
+  "name": "DSekai Technologies LLP",
+  "city": "Bhubaneswar",
+  "domain": "dsekai.com",
+  "website": "https://www.dsekai.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 1235,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "E Square System & Technologies Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "estpl.in",
+  "website": "https://estpl.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "sformation | System Integration Services Now Hiring: Sr. ASP.NET DEVELOPER 0674-6615699 #707-709, DLF Cyber City, Patia, Bhubaneswar, Odisha Let's Tal"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 13675,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Efftronics Systems Private Limited",
+  "city": "Guntur",
+  "domain": "efftronics.com",
+  "website": "https://www.efftronics.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 34906,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1,
+   "DQ_support": 8
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Get in touch with the HRD Department at hr@efftronics.com for applying for Campus Placements."
+   ],
+   "DQ_support": [
+    "Troubleshoot hardware and software errors by running diagnostics, documenting problems and resolutions, prioritizing problems, and assessing impact of issues.",
+    "Lead desktop and helpdesk support efforts, making sure all desktop applications, workstations, and related equipment problems are resolved in a timely manner with limited disruptions.",
+    "Was responsible for planning, commissioning and maintenance of conventional & modern railway signaling systems Bhavani Shankar Talluri Founding VP - R&D Over 36+ years of Industrial Experience in Hardware and Software from concept to realizing the Products and Systems.",
+    "Ramasamy S.R.T Founding VP - R&D Over 36 years of Industrial Experience in Hardware and Software, from concept to realizing the Products and Systems."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Elixr Labs Technologies Private Limited",
+  "city": "Thiruvananthapuram",
+  "domain": "theelixrlabs.com",
+  "website": "https://www.theelixrlabs.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our Products Banyan Healthverse CareConnect Banyan Banyan is a modular, cloud-native Clinical Communication and Collaboration (CC&C) solution designed for healthcare organizations of all sizes, including hospitals, ambulatory care centers, and private practices."
+   ],
+   "enterprise": [
+    "Our Products Banyan Healthverse CareConnect Banyan Banyan is a modular, cloud-native Clinical Communication and Collaboration (CC&C) solution designed for healthcare organizations of all sizes, including hospitals, ambulatory care centers, and private practices."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ellow Technologies Private Limited",
+  "city": "Kochi",
+  "domain": "ellow.io",
+  "website": "https://www.ellow.io/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "trust Quick Contact Name Email Message Send Top Developers Node.js Developers React.js Developers Python Developers Java Developers IOS Developers An"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "AI Will Transform How We Work We help forward-thinking companies build the future faster using AI and top tier talents."
+   ],
+   "senior_roles": [
+    "Tech leaders trust ellow to quickly source qualified talent Build Amazing Teams, On Demand Quickly assemble the teams you need, exactly when you need them."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Elysium Technologies Pvt Ltd",
+  "city": "Madurai",
+  "domain": "elysiumgroups.com",
+  "website": "https://elysiumgroups.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "From project management to customer relationship management, their solutions have enhanced our productivity and customer satisfaction."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Esteplogic IT Solutions Private Limited",
+  "city": "Punjab",
+  "domain": "esteplogic.com",
+  "website": "https://www.esteplogic.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "e navigation Home About us Services Our Services Web design Web Development Mobile Apps Development Server Administration Search Engine Optimization S"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 7539,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 5,
+   "compliance": 1,
+   "enterprise": 3,
+   "DQ_bpo": 1,
+   "qa": 1,
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Production-grade quality All of our products have production-level quality.",
+    "In every case, our products help you make quicker and better business decisions, as well as enhance your operational efficiency by differentiating your business from competitors using Machine Learning and Cognitive Computing to achieve your goals.",
+    "All of our products are built for speed, seamless integration, and high levels of user engagement and provide both an operational impact and help to build customer loyalty.",
+    "02 Enterprise-grade quality All of our products are built to enterprise-grade quality standards - thus ensuring maximum reliability, security, and performance - and are built to scale with your business while meeting your organization's real-world operational requirements."
+   ],
+   "compliance": [
+    "Healthcare We develop AI-driven diagnostic tools and secure patient management systems for healthcare organizations to help them meet their HIPAA regulatory requirements, provide access to legacy systems, and coordinate care and services among their disparate technology systems."
+   ],
+   "enterprise": [
+    "Healthcare We develop AI-driven diagnostic tools and secure patient management systems for healthcare organizations to help them meet their HIPAA regulatory requirements, provide access to legacy systems, and coordinate care and services among their disparate technology systems.",
+    "We have been serving businesses and brands across varied industries starting from healthcare, education, eCommerce, financial services to FMCG, DTC, Wellness brands, and a lot more.",
+    "While every project is different, our experience spans a wide range of domains, including: eCommerce Healthcare Food Services Shipping & Logistics Real Estate Education Others Our approach stays the same across industries - understand the business deeply, then build technology that actually moves it forward."
+   ],
+   "DQ_bpo": [
+    "Food services Our team creates supply chain visibility platforms and IoT-enabled inventory management solutions that solve traceability, waste reduction, and ordering from multiple locations' complexities through a unified flow of data between back office and front office clients."
+   ],
+   "qa": [
+    "Opportunities across multiple roles We offer career paths across engineering, data, QA, content, marketing, sales, and strategy."
+   ],
+   "DQ_support": [
+    "From custom software and enterprise platforms to cloud, web, and mobile solutions, we design technology that works as hard as the businesses it supports."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Eurosia BIM Services Private Limited",
+  "city": "Thiruvananthapuram",
+  "domain": "eurosia.eu",
+  "website": "https://www.eurosia.eu",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "FDC Web Technologies Private Limited",
+  "city": "Ernakulam",
+  "domain": "financial.com",
+  "website": "https://www.financial.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Market Monitor Corporate Portal Reporting Client Portal ESG Portfolio Evaluation Compliance PRIIPs / KIDs SFDR / ESG Refinitiv Widgets Widget Capabili"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Our solutions and widgets are operated 24/7 in international data centers and supported by a multilingual helpdesk in all time zones."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Finastra Software Solutions (India) Private Limited",
+  "city": "Trivandrum",
+  "domain": "dh.com",
+  "website": "https://www.finastra.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 101100,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 13,
+   "senior_roles": 1,
+   "qa": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Universal Banking Banking software solutions that satisfy the demands of digital-savvy consumers in a fast-evolving market Finastra Loan IQ Loan IQ is the market's leading loan servicing platform that can support the full spectrum of lending on a modern, unified platform.",
+    "Payments Hubs --> Product Details Finastra Essence Next-gen core banking solution that uniquely combines rich, broad, and deep banking functionality with advanced technology.",
+    "Payments Hubs, Payments as a Service --> Product Details Finastra Essence Analytics Turn raw banking data into actionable insights with real‑time dashboards, predictive models, and an AI‑ready analytics foundation.",
+    "Digital Banking (Lending), Corporate Lending, Trade and Supply Chain Finance --> Product Details Finastra Loan IQ Nexus A modern integration layer that reduces complexity, accelerates innovation and improves data flow across the loan lifecycle."
+   ],
+   "senior_roles": [
+    "Finastra is both a global fintech leader and software innovator."
+   ],
+   "qa": [
+    "21 Nov 2025 Maria Enache, Senior QA Manager, highlights the importance of teamwork and having a supportive environment Employee Story"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Fingent Global Solutions Private Limited",
+  "city": "Kochi",
+  "domain": "fingent.com",
+  "website": "https://www.fingent.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Software Development Company in USA with Top Software Services Skip to content Search for:"
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 158511,
+   "signals": {
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "vcs_generic": [
+     "SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE */ /* * Default theme - Owl Carousel CSS File */ .owl-carousel .owl-nav { width:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "senior_roles": 1,
+   "cicd": 3,
+   "enterprise": 6,
+   "compliance": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Jack CEO, Spectrum Exchange Corporation Camp Verde, Arizona 5.0 Quality 5.0 Schedule 4.5 Cost 4.0 Willing to Refer 5.0 Our Products A People Development Platform that builds a holistic learning culture for enterprises to improve their productivity levels."
+   ],
+   "senior_roles": [
+    "Today, I am the Tech Lead of a vibrant team that’s empowering clients globally with top Odoo solutions."
+   ],
+   "cicd": [
+    "Whether it’s optimizing your data pipelines, enabling real-time analytics, or ensuring seamless cloud integration, we deliver solutions that drive measurable impact.",
+    "A data pipeline is a series of processes that automate the flow of data from various sources to a destination, such as a database, data warehouse, or analytics platform.",
+    "Our data engineering services include building ETL/ELT pipelines that automate data collection, cleansing, and transformation, ensuring seamless integration from multiple sources into a central repository for easy access and analysis."
+   ],
+   "enterprise": [
+    "Trusted by leading enterprises and Fortune 500 companies.",
+    "Schedule A Free Consultation Featured Insights Data Analytics in Financial Services and Banking Read More Data Visualization vs.",
+    "With the ongoing COVID-19 pandemic, the healthcare industry is spiraling at an unexpected speed and is continuously inventing healthcare solutions to drive streamlined operations.",
+    "x Our Successful Stories Light-touch AI Solution For Legal Player US Insurance Challenge A franchise legal player took years to process claims, costing the employer a hefty amount of lost time and resources."
+   ],
+   "compliance": [
+    "We implement best-in-class security measures, including encryption, access controls, and compliance frameworks like GDPR, HIPAA, and SOC 2."
+   ],
+   "DQ_agency": [
+    "Let Us Help You 05 Digital Marketing Assets & Social Media Digital Marketing Assets & Social Media Be irresistible in the crowded social media supermarket."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Fiserv India Pvt Ltd",
+  "city": "Gautam Buddha Nagar",
+  "domain": "fiserv.com",
+  "website": "https://www.fiserv.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 6295,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6
+  },
+  "site_quotes": {
+   "enterprise": [
+    "--> Financial Services Technology, Mobile Banking, Payments",
+    "Learn more Fiserv is a global leader uniting commerce and finance Fiserv is the largest fintech at the intersection of banking and commerce, powering sustained growth and innovation at scale for financial institutions and businesses around the world.",
+    "Read more Register Now for Forum 2O26, the Fiserv Client Conference Join us to explore what's next in banking and commerce.",
+    "From the checkout counter to the banking app, embedded finance is changing how people manage their money."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "GeoNxt Info Solutions Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "geonxt.in",
+  "website": "https://geonxt.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Iaaxin Tech Labs (India) Private Limited",
+  "city": "Karur",
+  "domain": "iaaxin.com",
+  "website": "https://iaaxin.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2012-09-22",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 3263,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "We Bring Expertise, Passion, and a Genuine Commitment to Making your Business Thrive Agile & Scalable Our flexible solutions grow with your business, adapting quickly to changing market demands and ensuring your technology infrastructure scales seamlessly."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "IBS Software Private Limited",
+  "city": "Trivandrum",
+  "domain": "ibsplc.com",
+  "website": "https://www.ibsplc.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "IBS Software: Airline, IT & Aviation Software Solutions Solutions Products All Aviation Airline Operations Solutions Air Cargo"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "DQ_template": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Ops & Crew Solutions Loyalty Management Solutions Loyalty Management Solutions Highly configurable, iLoyal maximizes member engagement revenues by accelerating value delivery through easy partner integration and agile offer deployment."
+   ],
+   "DQ_template": [
+    "It facilitates the configuration of customizable display templates to align with operational necessities, with support for rich graphics.",
+    "The platform also supports the intuitive integration of videos into templates."
+   ],
+   "DQ_support": [
+    "Furthermore, it supports dynamic pricing of airport resources, allowing airports to adjust usage charges based on various parameters, providing flexibility to enhance or incentivize usage charges according to airport preferences."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ilogitron Technologies Private Limited",
+  "city": "Agartala",
+  "domain": "ilogitron.com",
+  "website": "https://ilogitron.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "grow with the advancement of technologies across the globe. Web Development We create customed websites for each segment of your audience to help adve"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1247,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "--> --> --> 🏥 Hospital Management System Streamline healthcare management and patient care using a robust, secure, and data-driven hospital management platform."
+   ],
+   "DQ_template": [
+    "Is your software fully custom or based on templates?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "InApp Information Technologies (India) Private Limited",
+  "city": "Thiruvananthapuram",
+  "domain": "inapp.com",
+  "website": "https://inapp.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 898492,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Indorient Financial Services Limited",
+  "city": "Bhubaneswar",
+  "domain": "indorient.in",
+  "website": "https://indorient.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 8
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Management Buy-In (MBI) NOTE: \" This activity is not regulated by SEBI or any other Financial Sector Regulator (FSR).",
+    "Accordingly none of the SEBI Investor protection mechanism will be available for any grievances or disputes arising out of or pertaining to non-SEBI regulated activities.",
+    "NOTE: \" This activity is not regulated by SEBI or any other Financial Sector Regulator (FSR).",
+    "Accordingly none of the SEBI Investor protection mechanism will be available for any grievances or disputes arising out of or pertaining to non-SEBI regulated activities .\" Debt Advisory We provide independent advice across the full spectrum of the debt markets."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "InfoCepts Technologies Private Limited",
+  "city": "Nagpur",
+  "domain": "infocepts.com",
+  "website": "https://www.infocepts.ai/",
+  "already_in_hubspot": true,
+  "headcount_known": 1429,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 19279,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "sdlc": 3,
+   "cicd": 8,
+   "owns_product": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "For over two decades, global enterprises across Retail, Media, Life Sciences, Banking, and Manufacturing have chosen Infocepts as their trusted partner in data-driven transformation.",
+    "Financial Services Risk analytics, regulatory reporting, customer intelligence, and financial data platforms for banks, insurers, and asset managers - with a focus on governed AI deployment in regulated environments.",
+    "Chief Technology Officer Leading Healthcare Solutions Provider Ready to Engineer Your Data Platform?",
+    "As a trusted advisor to CXOs of several Fortune 500 companies, he has..."
+   ],
+   "sdlc": [
+    "Build To Last Since our beginning, we chose to chart our course with a long view to build an agile firm on foundations that can adapt to changing markets and internal realities.",
+    "Maximize Efficiency, Scale & Success with Infocepts Business Process Improvement Consulting Services Infocepts transforms your business processes by unlocking hidden financial benefits within your processes.",
+    "Utilizing data, Al, and automation, we infuse intelligence throughout your processes for swift, impactful results and a lasting competitive edge."
+   ],
+   "cicd": [
+    "Data engineering and integration is the discipline of designing, building, and maintaining data pipelines that move data from source systems into your analytics platform – reliably, securely, and efficiently.",
+    "Efficient Data Management Infocepts integrates extensive data engineering expertise with a deep understanding of the modern data stack to transform your data pipeline into an efficient pathway for transformative analysis.",
+    "Our services encompass developing data pipelines, implementing data governance strategies, enhancing data literacy , and ensuring data quality .",
+    "We recognize the crucial role of data quality and reliability in deriving meaningful insights and offer comprehensive management of data pipelines, architecture, pilots, storage, and APIs."
+   ],
+   "owns_product": [
+    "Through a structured, client-centric approach, we anticipate challenges, co-create solutions via crowdsourcing, and launch breakthrough ideas at Infocepts Innovation Day, held every April and October—many evolving into industry-leading accelerators and packaged solutions."
+   ],
+   "DQ_support": [
+    "Tech & IT Support Our business process services revolutionize your IT help desk experience, enhancing quality and response times."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Infotech Education Society",
+  "city": "Bhopal",
+  "domain": "iesbpl.ac.in",
+  "website": "http://www.iesbpl.ac.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Top placement college in bhopal",
+    "ABOUT IES IES IN THE NEWS CAMPUS LIFE Awards & Ranking INDUSTRY PARTNERSHIPS PLACEMENT PEDAGOGY PHOTO GALLERY --> --> Campus @ IES -> --> latest updates 30 Open Campus Drive Asahi India Glass Ltd for BE- 2018/2019 Ba......"
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ }
+]

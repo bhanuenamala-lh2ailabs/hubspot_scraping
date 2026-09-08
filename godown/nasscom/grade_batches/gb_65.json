@@ -1,0 +1,898 @@
+[
+ {
+  "name": "Techno Developers Group",
+  "city": "Siliguri",
+  "domain": "technodg.com",
+  "website": "https://www.technodg.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 151739,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 1,
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "The mails can be templated or customized."
+   ],
+   "enterprise": [
+    "The system can serve any medical clinic, multi-specialty hospital or a healthcare center with customized modules for specific needs.",
+    "Posted on 1 year(s) ago Microsoft will be releasing its AI app, Dragon Copilot exclusively for the healthcare."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "TECHNOPARK (Electronics Technology Parks - Kerala)",
+  "city": "Thiruvananthapuram",
+  "domain": "technopark.org",
+  "website": "https://technopark.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "are taken care of.\" - S. Rama Rao, General Manager, Gemini Software Solutions Pvt. Ltd., Technopark (A division of the Yusuf Bin Ahmed Kanoo Group, B"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 1218,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "A Hub of Excellence The State of Kerala, acclaimed globally as “God’s Own Country,” is well known for its educational excellence, outstanding healthcare standards, rich tourist destinations, and model social cohesion.",
+    "Graced with scenic surroundings, the city rightfully boasts world-class healthcare, prestigious educational facilities and invigorating fresh air."
+   ],
+   "cicd": [
+    "29th Oct 2024 Mr Wilhelm Pfeifer Chairman, TelcoTech Solutions Hub An excellent innings in a wonderful organisation like Technopark."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "TechSheel Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "techsheel.com",
+  "website": "https://www.techsheel.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "echnology Clients Partners About Us Contact Request A Quote We Build Digital Products That Help Your Business Scale Intership OVERVIEW VIDEO --> Get e"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "sdlc": 2,
+   "DQ_training": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "From startups to enterprise clients, we bring the same rigour and creativity to every engagement, leveraging cutting-edge technology stacks and proven engineering practices.",
+    "🎯 Precision Detail-obsessed engineering ⚡ Speed Agile delivery, fast iterations 🔒 Trust Transparent communication 🌱 Growth Scalable from day one 50+ Successful Projects Delivered 6+ Years Active 20+ Engineers 15+ Enterprise Clients 5★ Avg."
+   ],
+   "sdlc": [
+    "🎯 Precision Detail-obsessed engineering ⚡ Speed Agile delivery, fast iterations 🔒 Trust Transparent communication 🌱 Growth Scalable from day one 50+ Successful Projects Delivered 6+ Years Active 20+ Engineers 15+ Enterprise Clients 5★ Avg.",
+    "Learn more → 04 👥 Staffing Services Agile talent solutions — we match specialised engineers and designers with the precise needs of your business."
+   ],
+   "DQ_training": [
+    "Learn more → 06 🎓 Internship Programme Structured, hands-on internships for aspiring engineers — work on real products with experienced senior mentors."
+   ],
+   "owns_product": [
+    "f 𝕏 ▶ in Company About Us Services Clients Contact Resources Blog Library Support Live Webinars Solutions Consumer Apps Financial Services SaaS Products Infrastructure © 2024 TechSheel Pvt."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Texelq Engineering India Pvt Ltd",
+  "city": "Sriperumbudur",
+  "domain": "texelq.com",
+  "website": "https://texelq.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Tilicho Labs LLP",
+  "city": "Visakhapatnam",
+  "domain": "tilicho.in",
+  "website": "https://tilicho.in/",
+  "already_in_hubspot": true,
+  "headcount_known": 71,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "used and loved by thousands of users around the globe. Read case study We are a digital product studio that transforms ideas into incredible products!"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 17635,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 7,
+   "cicd": 2,
+   "senior_roles": 1,
+   "enterprise": 3,
+   "qa": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "AISDLC is our attempt to codify how intelligent systems should be engineered.",
+    "Explore AISDLC → HOW WE ENGINEER Engineering Intelligent Systems Traditional SDLCs were designed for deterministic systems.",
+    "AISDLC is our attempt to codify these concerns into an engineering discipline for intelligent systems.",
+    "Explore AISDLC → With Google Cloud Bringing token economics to agentic Gemini Enterprise."
+   ],
+   "cicd": [
+    "Model Orchestration Multiple models, one governed pipeline.",
+    "You’ll design orchestration, retrieval and evaluation pipelines, route work across model tiers for cost and quality, and ship intelligence that survives real enterprise load."
+   ],
+   "senior_roles": [
+    "Visakhapatnam · Hyderabad · Vijayawada · 3–6 years · Full-time · On-site → Full Stack Tech Lead Own a system end to end — and the small senior team that builds it."
+   ],
+   "enterprise": [
+    "11 years · 100+ engagements · 70 engineers · Fortune 500 to high-growth startups · IN THEIR WORDS What our team says 4.8 ★★★★★ Glassdoor · 20 reviews ↗ 4.9 ★★★★★ AmbitionBox ↗ “ The best place I’ve found to grow — not just as an engineer, but as a person.",
+    "Over eleven years, Tilicho has helped organizations solve increasingly difficult operational problems across energy, healthcare, learning, financial services, industrial automation and autonomy.",
+    "Operating domains Energy Healthcare Learning Financial Services Industrial Autonomy · OUR JOURNEY From apps to intelligence."
+   ],
+   "qa": [
+    "— QA Engineer “ I came to learn how the software industry actually works."
+   ],
+   "DQ_support": [
+    "We believe software succeeds only when the business it supports succeeds."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Transtrack Aeroservices Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "transtrack.co.in",
+  "website": "https://transtrack.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ading providers of IT consultation, Staff Augmentation, and software development services. We combine technology capabilities, value-drive services an"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "senior_roles": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "BFSI We Provide Banking, Financial services, and Insurance (BFSI) sector range of financial products/services."
+   ],
+   "senior_roles": [
+    "Bhanupratap Senior Solution Architect The Transtrack team works really hard to ensure high level of quality I discovered @Transtrack by chance on the Internet to find a suitable IT resource-augmentation company.",
+    "Gourav Solution Architect The Transtrack team works really hard to ensure high level of quality IT service is not an easy path to follow."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Travanleo Info Solutions India Private Limited",
+  "city": "Thiruvananthapuram",
+  "domain": "travanleo.com",
+  "website": "https://travanleo.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 53,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Top Software Development Company in USA and India – Travanleo Product, Custom Software, SAP Ho"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 6,
+   "owns_product": 4,
+   "sdlc": 3,
+   "enterprise": 2,
+   "qa": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Explore SAP AI Solutions 000 + Total Projects About Travanleo Engineering SAP® AI for Real Business Outcomes We are a focused SAP® technology and product engineering company, specializing in SAP® development, integration, and technical services, with deep expertise in SAP®-centric AI and intelligent automation.",
+    "Software Engineer/Technical Lead – Java Posted on: October 30, 2025 Apply Marketing Manager Posted on: October 27, 2025 Apply Travanleo is a boutique, innovative software company with over 15 years of proven excellence in SAP®, AI innovation, and product engineering, now reimagined for the AI era.",
+    "Read More GCC-based Food Manufacturing Company streamlines GRI Reporting across its Operations Read More Our Partners Travanleo is a boutique, innovative software company with over 15 years of proven excellence in SAP®, AI innovation, and product engineering, now reimagined for the AI era.",
+    "Our Partners Travanleo is a boutique, innovative software company with over 15 years of proven excellence in SAP®, AI innovation, and product engineering, now reimagined for the AI era."
+   ],
+   "owns_product": [
+    "Our platform-led delivery model is designed to deliver open, standards-based, enterprise-grade AI solutions—especially AI agents—faster and more cost-effectively, helping organizations move from AI ideas to real, measurable business outcomes.",
+    "Acting as an extension of our internal team, Travanleo brings valuable insights, technical expertise, and a practical approach that drive transparency, trust, and measurable results in our products and services.",
+    "Our UX team works with you to understand your products, users and your goals to craft the user journey and design best in class UX for your software products or custom applications, Contact Us to avail the services of our team of Human Factors International® (HFI) certified User Experience specialists."
+   ],
+   "sdlc": [
+    "As an agile, engineering-led team, we bring together SAP® expertise, strong product thinking, and modern AI technologies to drive operational efficiency, improve customer experiences, and build sustainable competitive advantage.",
+    "Our Customer-centric Engagement Model defines how we do engage with you, offering specialized services and solutions that meet the distinct needs of your business."
+   ],
+   "enterprise": [
+    "The SAP Banking interface they developed for us to connect with Canara Bank has significantly improved our banking processes, offering excellent functionality at a very cost-effective price point.",
+    "with over 53 happy Enterprise clients, we are looking for dynamic and creative individuals who are willing to dedicate themselves to providing innovative products and services for our clients."
+   ],
+   "qa": [
+    "To apply for a position which is not listed here, please email your resume to careers@travanleo.com Talent Acquisition Lead Posted on: December 19, 2025 Apply Offshore SAP CFIN Functional QA Tester (Consultant) Posted on: November 7, 2025 Apply SAP Full Stack Developer Posted on: November 7, 2025 Apply Sr."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Triton Tech Labs Private Limited",
+  "city": "Tirunelveli",
+  "domain": "tritonlabs.in",
+  "website": "https://www.tritonlabs.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Outcomes Solution architecture blueprint Technology stack and implementation roadmap 03 Step 03 2–4 weeks AI-Accelerated Prototyping We rapidly validate ideas through AI-accelerated prototyping, testing feasibility and demonstrating early value before full-scale commitment."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Truworth Health Technologies Private Limited",
+  "city": "Jaipur",
+  "domain": "truworthwellness.com",
+  "website": "https://www.truworthwellness.com:443/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 43304,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 21,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Outcomes-Based Approach Embrace a happier workforce and bottom line through increased retention, reduced healthcare costs and improved health outcomes.",
+    "Managing GLP-1 Costs: Building A Sustainable Corporate Metabolic Health Strategy For Indian Enterprises The rapid emergence of Glucagon-Like Peptide-1 (GLP-1) receptor agonists has fundamentally altered the landscape of modern corporate healthcare in India.",
+    "For Human Resources leaders and benefits managers, this creates two main problems: rapidly rising health insurance costs due to lifestyle diseases, and ongoing issues with employee burnout.",
+    "Lower Health Risks and Insurance Claims Lifestyle-related conditions make up a large share of corporate medical insurance claims."
+   ],
+   "DQ_training": [
+    "All-in-One Digital Wellness App: A user-friendly platform with gamified step challenges, health assessments, nutrition tracking, and lifestyle coaching."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "UBN Software Solutions Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "ubnsoft.com",
+  "website": "https://www.ubnsoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2011-06-23",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 12607,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "sdlc": 6,
+   "prod_eng": 7,
+   "qa": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Read more Testimonials ASP.NET_MVC (Healthcare) - - We are very satisfied and happy to have found UBNSoft as our offshore development partner.",
+    "Java (Healthcare) - - UBNSoft wonderful service is what makes us come back to them each time.",
+    "They are offered competitive salaries along with a healthy benefit package including: Life Insurance Health Insurance Disability Insurance Dental Insurance Training Paid Vacation H1 and Green Card Sponsorship UBNSoft is a company committed to integrity and responsibility."
+   ],
+   "sdlc": [
+    "1st Floor, Left Wing, IDCO Tower-2000 Mancheswar Industrial Estate Bhubaneswar - 751010, Orissa, India Quick Links Engagement Models Blogs Sitemap Careers Blog Posts UBNSoft @ CeBIT India 8th December 2016 UBNSoft Launches SaMICRM Beta Version 1st November 2016 #7 Predictions – Where is Cloud Computing Headed in 2016?"
+   ],
+   "prod_eng": [
+    "8th June 2016 Services Software Product Engineering Enterprise ADM Enterprise Mobility Business Intelligence and Analytics Data Warehouse CRM Solutions Copyright © 2019 ubnsoft - By ubnsoft.com .",
+    "Privacy Policy --> --> --> --> Scroll Software Product Engineering Services & Solutions"
+   ],
+   "qa": [
+    "What we do: System Architecture Design Software Development QA & Testing Language Localization Project Management Our long-term collaboration with clients has enabled us to understand the requirements, launch new versions and develop new products swiftly."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Uniconverge Technologies Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "uniconvergetech.in",
+  "website": "https://www.uniconvergetech.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "we have a solid understanding of your technical needs and your work environment. Read More --> Client Reviews What Our Clients Says Divya Chabra Rati"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 7087,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "owns_product": 2,
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Smart Healthcare Improve patient outcomes with IoT-powered monitoring and diagnostic tools.",
+    "We serve smart industries, agriculture, energy monitoring, asset tracking, healthcare, predictive maintenance, and industrial automation use cases.",
+    "We have expertise in ‘Wireless Communication' and 'Internet of Things, product development and consulting services to companies working in Small Cells, Mobile Platforms, Healthcare, Medical Devices, Logistics, Transportation and Manufacturing domains.",
+    "We serve agriculture, manufacturing, healthcare, and logistics industries."
+   ],
+   "owns_product": [
+    "Our product range includes IoT modules, LoRaWAN gateways, and plug-and-play node devices."
+   ],
+   "DQ_support": [
+    "We combine hardware, connectivity, dashboard integration, and deployment support so customers can move from concept to field implementation with fewer gaps.",
+    "Yes, we develop tailored IoT solutions based on specific business requirements, including custom hardware, software, sensor integration, and deployment strategies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Urolime Solutions Private Limited",
+  "city": "Ernakulam",
+  "domain": "urolime.com",
+  "website": "https://www.urolime.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "UROLIME - Software Development Company | DevOps & AWS Consulting Company About Why Urolime Services"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 11,
+   "qa": 1,
+   "sdlc": 1,
+   "DQ_training": 1,
+   "DQ_support": 6,
+   "prod_eng": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Let's Discuss Kubernetes Consulting Services Improve operational efficiency and scalability to drive agility and portability with Kubernetes Strategy.",
+    "We help businesses leverage the incredible benefits of automation to deploy their software projects in a way characterized by Continuous Integration and Continuous Delivery.",
+    "From AI-based applications and microservices to multicloud as well as edge computing, Kubernetes is at the center of digital transformation.",
+    "But implementing and managing Kubernetes solutions requires a set of […] Read More P DevOps , Platform Engineering August 3, 2026 Platform Engineering vs."
+   ],
+   "qa": [
+    "Microservices Salesforce Native App Development Hybrid App Development QA & Testing Services Staff Augmentations RPA/AI/ML/IoT Start-up Services Modernization A Quick Introduction Urolime IT enable all kinds of B2B, B2C interactions and internal operations."
+   ],
+   "sdlc": [
+    "DevOps focuses on the rapid delivery of software services through an agile and lean practice."
+   ],
+   "DQ_training": [
+    "Our many years of experience include the implementation, upgrades, platform replacement, customization, and customer-specific support for wide range of technologies."
+   ],
+   "DQ_support": [
+    "It's critical that every IT decision you make for your business helps reduce IT support calls and issues.",
+    "With 24-hour IT support, successful projects globally, and industry-wide expertise, you receive more than just IT support and know-how.",
+    "Nathanial Gardner Senior Business Director Senior Business Director --> We've been using Urolime's IT Support Services, Managed Services, and Cloud Services for 6+ years and I can assure you that you will not find better services or a more competent, dedicated, and cost effective support team anywhere.",
+    "Forest Cassidy Senior Business Director Company Name --> We have always received excellent IT support and professional services from Urolime."
+   ],
+   "prod_eng": [
+    "But implementing and managing Kubernetes solutions requires a set of […] Read More P DevOps , Platform Engineering August 3, 2026 Platform Engineering vs."
+   ],
+   "owns_product": [
+    "In 2026, Kubernetes is no longer identified as a preferred orchestration platform for containers, rather it’s the operational backbone for AI applications, digital platforms, SaaS products, as well as enterprise modernization initiatives."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Utkal Labs Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "utkallabs.com",
+  "website": "https://utkallabs.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 784,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Prava is proactive, always ready for new challenges, and we sincerely appreciate her dedication as we continue improving our platform.",
+    "Thanks to your persistence and dedication, we are now well-positioned to take our product to market."
+   ],
+   "cicd": [
+    "Helmut (Germany) Get Newsletter From Utkal Labs Want to look at the most coveted serial publication of Utkal Labs that not only keeps track of our entire eventful journey of us but also enumerates our day-in and day out every month, giving us a chance to introspect and rejoice in our past."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "V I Point Solutions Private Limited",
+  "city": "Ernakulam",
+  "domain": "vipointsolutions.net",
+  "website": "https://vipointsolutions.net/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "4050 222 Toggle navigation VIPoint Solutions Home services Software Development Web Development Mobile App Development AI and Robotics Chatbots Serve"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 22638,
+   "signals": {
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Describe your WordPress troubleshooting experience Portfolio / LinkedIn / GitHub URL Expected Salary (Monthly, INR) Notice Period Select Immediate 15 days 30 days 60 days 90 days How did you hear about us?"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "DEVOPS End-to-end DevOps services: CI/CD pipelines, Docker, Kubernetes & infrastructure automation to ship faster and deploy smarter."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Valiance Analytics Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "valiancesolutions.com",
+  "website": "https://valiancesolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "puter Vision Company About Us News Careers Partners AWS GCP Case Studies Resources Blogs Our Learnings Hub Research Papers White Papers Contact us Rec"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 50086,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "While working at Valiance you get to: Work across diverse projects in AI, Data Analytics & Cloud Create IP’s/accelerators that can drive value for our clients Contribute to POC’s alongside your primary work Why Work With Us Looking For a High Growth Career?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "ValueMentor InfoSec Private Limited",
+  "city": "Kochi",
+  "domain": "valuementor.com",
+  "website": "https://valuementor.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ntity and Access Management LogPoint Service Insights Blogs Case Studies Careers Contact Us Global UAE UK USA Canada Egypt Saudi Arabia India Search f"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 558884,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Veriday Technologies India Private Limited",
+  "city": "Kochi",
+  "domain": "veriday.com",
+  "website": "https://veriday.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 11026,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Manufacturing Banking & Finance Insurance Healthcare Services Utilities Energy Retail Telecom Others Use Cases in Manufacturing Engineering & Product Development: Engineering Innovation, Packaging and Labeling Product Launch and Lifecycle Management & more.",
+    "Book a Consultation Use Cases in Banking and Finance New Business and Deal Lifecycle: Deal Pipeline Management, Legal Entity Management & more.",
+    "Book a Consultation Use Cases in Insurance Marketing, Sales and Distribution: Agent Lifecycle and Performance Management, Agent and Broker Channel Automation, Sales Automation and Marketing Management & more.",
+    "Policy Underwriting and Service Ops: Connected Underwriting, Complex Policy Quotation, Life Insurance Underwriting, Underwriter Case Management, Customer Complaint Management & more."
+   ],
+   "cicd": [
+    "Book a Consultation Use Cases in Banking and Finance New Business and Deal Lifecycle: Deal Pipeline Management, Legal Entity Management & more."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Vitsinco Global Consulting Private Limited",
+  "city": "Ghaziabad",
+  "domain": "vitsinco.in",
+  "website": "https://www.vitsinco.in/contact-us/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 2397,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Vittree Professional Insights LLP",
+  "city": "Kochi",
+  "domain": "vittreebi.com",
+  "website": "https://vittreebi.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 31935,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 6
+  },
+  "site_quotes": {
+   "sdlc": [
+    "How We Work We combine cutting-edge tools and industry expertise to transform raw data into actionable insights."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Web.Com (India) Pvt Ltd",
+  "city": "Guwahati",
+  "domain": "webcomindia.biz",
+  "website": "https://www.webcomindia.biz/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "s --> About Us Who we are Why Choose Us Services Enterprise Software Development Web Development App Development Website Designing Products Clients Ca"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ }
+]

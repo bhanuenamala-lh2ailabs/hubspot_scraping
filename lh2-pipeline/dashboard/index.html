@@ -1,0 +1,515 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LH2 · Dashboards</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#fafafa; --panel:#ffffff; --line:#e7e7e9; --line2:#f0f0f2;
+    --txt:#171717; --mut:#737373; --mut2:#a1a1a1;
+    --blue:#1447e6; --sky:#3d96ff; --amber:#f99c00; --purple:#ac4bff; --cyan:#0ea5e9; --green:#12b76a;
+    --shadow:0 1px 2px rgba(16,24,40,.04),0 4px 16px rgba(16,24,40,.05);
+    --r:14px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:'Manrope',system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);
+     color:var(--txt);min-height:100vh;display:flex;-webkit-font-smoothing:antialiased}
+  ::-webkit-scrollbar{width:9px;height:9px}::-webkit-scrollbar-thumb{background:#dcdce0;border-radius:8px}
+
+  aside{width:236px;flex-shrink:0;background:var(--panel);border-right:1px solid var(--line);
+     padding:20px 14px;position:sticky;top:0;height:100vh}
+  .brand{display:flex;align-items:center;gap:10px;padding:2px 8px 20px}
+  .logo{width:36px;height:36px;border-radius:10px;background:var(--txt);color:#fff;
+     display:grid;place-items:center;font-weight:800;font-size:12.5px;letter-spacing:-.3px}
+  .brand b{font-size:15px;letter-spacing:-.2px}.brand span{font-size:11px;color:var(--mut);display:block}
+  .navlbl{font-size:10.5px;text-transform:uppercase;letter-spacing:1.2px;color:var(--mut2);margin:14px 10px 7px;font-weight:600}
+  .nav a{display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:9px;color:var(--mut);
+     text-decoration:none;font-size:13.5px;font-weight:600;cursor:pointer;transition:.14s}
+  .nav a .ic{width:17px;text-align:center}
+  .nav a:hover{background:var(--bg);color:var(--txt)}
+  .nav a.on{background:#eef2ff;color:var(--blue)}
+  .nav a.soon{opacity:.5;cursor:not-allowed}
+  .nav a.soon::after{content:'soon';margin-left:auto;font-size:9px;background:var(--line);color:var(--mut);padding:2px 6px;border-radius:6px;letter-spacing:.4px}
+
+  main{flex:1;padding:24px 30px 50px;max-width:1240px;margin:0 auto;width:100%}
+  .head{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;margin-bottom:18px}
+  .head h1{font-size:23px;font-weight:800;letter-spacing:-.5px}
+  .head p{color:var(--mut);font-size:13px;margin-top:3px}
+  .pill{display:inline-flex;align-items:center;gap:7px;background:var(--panel);border:1px solid var(--line);
+     padding:7px 12px;border-radius:9px;font-size:12px;color:var(--mut);box-shadow:var(--shadow)}
+  .dot{width:7px;height:7px;border-radius:50%;background:var(--green)}
+
+  .controls{display:flex;gap:14px;flex-wrap:wrap;align-items:flex-end;background:var(--panel);
+     border:1px solid var(--line);border-radius:var(--r);padding:14px 16px;margin-bottom:20px;box-shadow:var(--shadow)}
+  .ctl{display:flex;flex-direction:column;gap:5px}
+  .ctl label{font-size:10px;text-transform:uppercase;letter-spacing:.8px;color:var(--mut2);font-weight:600}
+  select,input[type=date]{background:#fff;border:1px solid var(--line);color:var(--txt);
+     padding:9px 11px;border-radius:9px;font-size:13px;font-family:inherit;outline:none;cursor:pointer;font-weight:600}
+  select:focus,input:focus{border-color:var(--blue)}
+  .seg{display:inline-flex;background:var(--bg);border:1px solid var(--line);border-radius:8px;overflow:hidden}
+  .seg button{background:none;border:none;color:var(--mut);padding:6px 12px;font-size:12px;cursor:pointer;font-family:inherit;font-weight:600;transition:.14s}
+  .seg button.on{background:var(--blue);color:#fff}
+
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:0}
+  /* Inputs are what the person controls; outcomes are what it produced. Keeping them in
+     one undifferentiated strip loses that distinction, which is the point of the split. */
+  .mgrp{margin-bottom:20px}
+  .mgrplbl{display:flex;align-items:center;gap:9px;font-size:10.5px;text-transform:uppercase;
+     letter-spacing:1.1px;color:var(--mut2);font-weight:700;margin:0 2px 10px}
+  .mgrplbl::after{content:'';flex:1;height:1px;background:var(--line)}
+  .kpi{background:var(--panel);border:1px solid var(--line);border-radius:var(--r);padding:17px 18px;
+     position:relative;overflow:hidden;box-shadow:var(--shadow)}
+  .kpi::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:var(--accent)}
+  .kpi .ic{width:36px;height:36px;border-radius:10px;display:grid;place-items:center;font-size:16px;
+     background:var(--accentbg);color:var(--accent);margin-bottom:13px}
+  .kpi .lbl{font-size:12px;color:var(--mut);font-weight:600}
+  .kpi .val{font-size:32px;font-weight:800;letter-spacing:-1px;margin:2px 0 5px;line-height:1;color:var(--txt)}
+  .kpi .sub{font-size:11.5px;color:var(--mut)}
+  .kpi .sub b{color:var(--txt);font-weight:700}
+
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  .hdt{width:100%;border-collapse:collapse;font-size:12px;min-width:900px}
+  .hdt th{background:#1447e6;color:#fff;font-size:10px;text-transform:uppercase;letter-spacing:.3px;padding:6px 8px;text-align:left;white-space:nowrap}
+  .hdt td{padding:6px 8px;border-bottom:1px solid #eef1f6;vertical-align:top}
+  .hdt tr:nth-child(even) td{background:#f7f9fd}
+  .hdt tr.won td{background:#eafaf0}
+  .hdt td.nm{font-weight:700;color:#0b1220;white-space:nowrap}
+  .hdt td.vr{font-size:11px;color:#404a5c;max-width:150px}
+  .hdt td.note{font-size:11px;color:#5b6472;min-width:220px;max-width:340px;white-space:normal;line-height:1.35}
+  .hdt a{color:#1447e6;font-weight:600;text-decoration:none}
+  .pill{font-size:10px;font-weight:700;padding:2px 7px;border-radius:10px;white-space:nowrap}
+  .pill.p{background:#e8eefc;color:#1447e6} .pill.w{background:#d6f5e3;color:#15803d} .pill.d{background:#fdecec;color:#b91c1c}
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--r);padding:18px 20px;box-shadow:var(--shadow)}
+  .phead{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:16px}
+  .phead h3{font-size:14px;font-weight:700}
+  .phead .psub{font-size:11.5px;color:var(--mut2);margin-top:2px}
+  .chartwrap{position:relative}
+  svg{width:100%;display:block;overflow:visible}
+  .axlbl{fill:var(--mut2);font-size:10px;font-family:inherit}
+  .tip{position:absolute;background:var(--txt);color:#fff;border-radius:7px;padding:6px 9px;font-size:12px;
+     pointer-events:none;opacity:0;transition:.1s;white-space:nowrap;z-index:5;font-weight:600}
+  .empty{color:var(--mut2);font-size:12.5px;text-align:center;padding:44px 12px;line-height:1.7}
+
+  /* CEO */
+  .cardhead{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-bottom:16px}
+  .statrow{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:16px}
+  .statrow.three{grid-template-columns:repeat(3,1fr)}
+  .ministat{background:var(--bg);border:1px solid var(--line);border-radius:11px;padding:13px 14px}
+  .ministat .i{font-size:14px;margin-bottom:8px}
+  .ministat .l{font-size:11px;color:var(--mut);font-weight:600}
+  .ministat .v{font-size:23px;font-weight:800;letter-spacing:-.6px;margin-top:3px}
+  .target{background:var(--bg);border:1px solid var(--line);border-radius:11px;padding:15px}
+  .target .tt,.trow .tt{display:flex;justify-content:space-between;align-items:baseline;gap:14px;
+     font-size:12.5px;color:var(--mut);margin-bottom:8px}
+  .target .tt b,.trow .tt b{color:var(--txt);font-weight:700;white-space:nowrap}
+  .trow{padding:14px 16px;background:var(--bg);border:1px solid var(--line2);border-radius:11px}
+  .trow+.trow{margin-top:12px}
+  .trow .tlbl{font-weight:700;color:var(--txt);font-size:13px}
+  .trow .tsub{font-size:11px;color:var(--mut2);margin-top:7px}
+  .tgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px}
+  .tgrid .trow+.trow{margin-top:0}
+  .tbar{height:16px;border-radius:8px;background:#ececef;overflow:hidden;border:1px solid var(--line)}
+  .tbar .tf{height:100%;border-radius:8px;background:linear-gradient(90deg,var(--blue),var(--sky));transition:width .6s}
+  .bkt{display:flex;align-items:center;gap:12px;margin-bottom:11px;font-size:12.5px}
+  .bkt .bl{width:88px;color:var(--mut);flex-shrink:0;font-weight:600}
+  .bkt .bb{flex:1;height:13px;background:var(--bg);border-radius:7px;overflow:hidden;border:1px solid var(--line2)}
+  .bkt .bf{height:100%;background:var(--purple);border-radius:7px;transition:.5s;min-width:2px}
+  .bkt .bn{width:30px;text-align:right;font-weight:700}
+  .awaiting{color:var(--mut2);font-size:12.5px;text-align:center;padding:28px 12px;border:1px dashed var(--line);border-radius:11px;line-height:1.7}
+
+  @media(max-width:900px){
+    body{flex-direction:column}
+    aside{width:100%;height:auto;position:static;padding:12px 14px;border-right:none;border-bottom:1px solid var(--line)}
+    .brand{padding:2px 4px 12px}.nav{display:flex;flex-direction:row;gap:8px;overflow-x:auto}
+    .nav a{white-space:nowrap;flex-shrink:0}.nav a.soon{display:none}
+    /* Hide the section label only. This previously also carried
+       `aside .nav:last-of-type{display:none}` to drop the Scope toggle on mobile — but once
+       that toggle was removed, #dashnav became the last .nav and the rule hid the dashboard
+       switcher itself, leaving no way to change panel on a phone. */
+    aside .navlbl{display:none}
+    main{padding:16px 14px 40px}.kpis,.statrow,.statrow.three,.grid2{grid-template-columns:1fr 1fr}
+    .grid2{grid-template-columns:1fr}
+  }
+  @media(max-width:520px){.kpis,.statrow,.statrow.three{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<aside>
+  <div class="brand"><div class="logo">LH2</div><div><b>LH2 AI Labs</b><span>Sales Intelligence</span></div></div>
+  <div class="navlbl">Dashboards</div>
+  <div class="nav" id="dashnav">
+    <a data-d="team" class="on"><span class="ic">📊</span> Team Activity</a>
+    <a data-d="ceo"><span class="ic">📈</span> Executive (CEO)</a>
+  </div>
+</aside>
+
+<main>
+  <div class="head">
+    <div><h1 id="dttl">Team Activity</h1><p id="subttl"></p></div>
+    <div class="pill"><span class="dot"></span> Live from HubSpot · <span id="freshness"></span></div>
+  </div>
+
+  <div class="controls">
+    <div class="ctl"><label>Member</label><select id="member"></select></div>
+    <div class="ctl"><label>Date range</label>
+      <select id="preset"><option value="all">All time</option><option value="mtd">This month</option>
+        <option value="30">Last 30 days</option><option value="wtd">This week (from Mon)</option>
+        <option value="lastweek">Last week</option><option value="1">Today</option>
+        <option value="yesterday">Yesterday</option><option value="custom">Custom…</option></select></div>
+    <div class="ctl" id="fromwrap" style="display:none"><label>From</label><input type="date" id="from"></div>
+    <div class="ctl" id="towrap" style="display:none"><label>To</label><input type="date" id="to"></div>
+  </div>
+
+  <div id="analystView">
+    <div class="kpis" id="kpis"></div>
+    <div id="targets"></div>
+    <div class="grid2" id="graphs"></div>
+  </div>
+
+  <div id="ceoView" style="display:none">
+    <div class="panel" style="margin-bottom:16px">
+      <div class="phead"><div><h3>August Sprint Campaign</h3>
+        <div class="psub">Weekly LoC targets vs procured · Mon–Fri sprint weeks</div></div></div>
+      <div style="overflow-x:auto"><div id="sprint"></div></div>
+    </div>
+    <div class="panel" style="margin-bottom:16px">
+      <div class="cardhead">
+        <div><h3>Portfolio Value</h3><div class="psub" style="font-size:11.5px;color:var(--mut2)">Code assets acquired to date · won deals only</div></div>
+
+      </div>
+      <div class="statrow three" id="pvstats"></div>
+    </div>
+    <div class="grid2">
+      <div class="panel"><div class="phead"><div><h3>Code Size Distribution</h3><div class="psub" style="font-size:11.5px;color:var(--mut2)">Deals bucketed by lines of code</div></div></div><div id="locbuckets"></div></div>
+      <div class="panel"><div class="phead"><div><h3>Won Economics</h3><div class="psub" style="font-size:11.5px;color:var(--mut2)">Cost efficiency of closed-won deals</div></div></div>
+        <div class="statrow three" id="wonstats"></div><div class="chartwrap"><div class="tip" id="tip3"></div><div id="scatter"></div></div></div>
+    </div>
+    <div class="panel" style="margin-top:16px">
+      <div class="phead"><div><h3>Hot &amp; Won Deals</h3><div class="psub" style="font-size:11.5px;color:var(--mut2)">Live and won deals to date · dead deals only from this week</div></div></div>
+      <div style="overflow-x:auto"><div id="hotdeals"></div></div>
+    </div>
+  </div>
+</main>
+
+<script>
+const F={data:null,dash:'team',tcad:'daily',gran:['day','day','day','day','day','day']};
+const A={blue:{c:'#1447e6',bg:'#eef2ff'},sky:{c:'#3d96ff',bg:'#eaf3ff'},amber:{c:'#f99c00',bg:'#fff4e5'},purple:{c:'#ac4bff',bg:'#f5ecff'},green:{c:'#12A150',bg:'#e8f7ee'},rose:{c:'#e5484d',bg:'#fdecec'}};
+
+// Every metric is a count of TIMES A DEAL ENTERED a qualifying stage, on the day it
+// entered — not how many sit there now. `f` indexes the per-deal event lists the builder
+// emits. Scraped and Campaign are combined; there is no pipeline scope any more.
+const DASHBOARDS={
+  // The GTM-analyst / lead-manager / lead-closer split was retired on 2026-08-14 - everyone
+  // works the funnel end to end, so there is ONE activity dashboard showing every metric for
+  // whoever is selected. Per-role targets went with it: a quota written for a role nobody holds
+  // any more measures nothing, and a caller who spent the day on script results would have
+  // shown as failing a dial quota.
+  team:{name:'Team Activity',sub:'',def:'all',
+    inputs:[
+      {lbl:'Cold-Call Leads Assigned',f:'asg',icon:'\u{1F4E5}',...A.blue},
+      {lbl:'Calls Attempted',f:'att',icon:'\u{1F4DE}',...A.sky},
+      {lbl:'Calls Connected',f:'conn',icon:'\u{1F91D}',...A.amber},
+      {lbl:'VCs Setup',f:'gm',icon:'\u{1F4C5}',...A.purple},
+      {lbl:'VCs Attended',f:'vc',icon:'\u{1F3A5}',...A.green}],
+    outcomes:[
+      {lbl:'Scripts Shared',f:'ss',icon:'\u{1F4E4}',...A.blue},
+      {lbl:'Script Outputs Received',f:'rr',icon:'\u{1F4E5}',...A.sky},
+      {lbl:'Script Evaluations',f:'ev',icon:'\u{1F50D}',...A.amber},
+      {lbl:'Negotiation Calls',f:'neg',icon:'\u{1F4AC}',...A.rose},
+      {lbl:'Contracts Signed',f:'dcs',icon:'\u{270D}',...A.purple},
+      {lbl:'Deals Closed/Won',f:'won_d',icon:'\u{1F3C6}',...A.green}],
+    graphs:'auto',
+    // Buckets from the free-text notes, the same ones the 6:30pm mail reports. These capture
+    // work that moves no stage - a call-back that rang out, a number that turned out dead -
+    // which stage metrics cannot see at all.
+    notes:true},
+  ceo:{name:'Executive Summary',sub:'',def:'all',ceo:true},
+};
+
+// dates on which this deal satisfied metric `f`. Always an array, so KPI and chart code
+// never has to care whether a metric fires once or many times.
+function events(r,f,mem){
+  mem=mem||'all';
+  // ASSIGNMENT metrics — owner-based. These genuinely ask "who was this handed to",
+  // so the deal's current owner is the right answer.
+  if(f==='asg') return (mem==='all'||r.o===mem)?(r.asg||[]):[];
+  // GMeets Assigned is the SAME event as GMeets Fixed, seen from the receiving end.
+  // Booking a GMeet and handing the deal over is one action, so the two metrics must total
+  // identically — they differ only in who gets credited: the analyst who booked it, versus
+  // the manager it landed on. Hence same `gm` events, owner-attributed instead of actor-.
+  if(f==='gma') return (mem==='all'||r.o===mem)?(((r.m&&r.m.gm)||[]).map(e=>e[0])):[];
+  if(f==='c')   return (mem==='all'||r.o===mem)?(r.c?[r.c]:[]):[];
+  // ACTIVITY metrics — actor-based. Credit whoever actually made the move, not whoever
+  // owns the deal now; otherwise a handoff silently moves the work onto the next person.
+  const ev=(r.m&&r.m[f])||[];
+  return ev.filter(e=>mem==='all'||e[1]===mem).map(e=>e[0]);
+}
+const CEO_TARGET_LOC=40000000;
+
+// August sprint. Targets are in millions of LoC and are PER WEEK, not cumulative.
+// `from`/`to` are the Mon–Fri sprint windows exactly as written on the campaign sheet.
+const SPRINT=[
+  {n:1,label:'27 Jul – 31 Jul',from:'2026-07-27',to:'2026-07-31',target:40},
+  {n:2,label:'3 Aug – 7 Aug',  from:'2026-08-03',to:'2026-08-07',target:60},
+  {n:3,label:'10 Aug – 14 Aug',from:'2026-08-10',to:'2026-08-14',target:80},
+  {n:4,label:'17 Aug – 21 Aug',from:'2026-08-17',to:'2026-08-21',target:100},
+  {n:5,label:'23 Aug – 28 Aug',from:'2026-08-23',to:'2026-08-28',target:120},
+];
+// Which field counts as "procured". `won_any` = hit Closed/Won by ANY route, human or
+// API — the asset is ours regardless of who moved the stage. Change this key to re-base.
+const SPRINT_BASIS='won_any';
+
+function renderSprint(rows,el){
+  const today=iso(new Date());
+  const body=SPRINT.map(w=>{
+    const loc=rows.reduce((a,r)=>a+((r[SPRINT_BASIS]||[])
+        .some(x=>x>=w.from&&x<=w.to)?(r.loc||0):0),0)/1e6;
+    const pct=w.target?loc/w.target*100:0;
+    const future=w.from>today;
+    const live=w.from<=today&&today<=w.to;
+    const col=pct>=100?'var(--green)':pct>=60?'var(--amber)':'var(--blue)';
+    return `<tr${live?' style="background:#eef2ff"':''}>
+      <td style="text-align:center">${w.n}</td>
+      <td class="nm">${w.label}${live?' <span class="pill p">this week</span>':''}</td>
+      <td style="text-align:right">${w.target}</td>
+      <td style="text-align:right">${future?'—':loc.toFixed(2)}</td>
+      <td style="min-width:170px">${future?'<span style="color:var(--mut2)">not started</span>':
+        `<div style="display:flex;align-items:center;gap:9px">
+           <div class="tbar" style="flex:1;height:12px"><div class="tf" style="width:${Math.min(100,pct)}%;background:${col}"></div></div>
+           <b style="color:${col};min-width:52px;text-align:right">${pct.toFixed(2)}%</b></div>`}</td>
+    </tr>`;}).join('');
+  const done=SPRINT.filter(w=>w.from<=today);
+  const gotT=done.reduce((a,w)=>a+rows.reduce((b,r)=>b+((r[SPRINT_BASIS]||[])
+        .some(x=>x>=w.from&&x<=w.to)?(r.loc||0):0),0),0)/1e6;
+  const wantT=done.reduce((a,w)=>a+w.target,0);
+  document.getElementById(el||'sprint').innerHTML=`<table class="hdt">
+    <thead><tr><th style="width:44px">S.No.</th><th>Week</th><th style="text-align:right">Target LoC (Mn)</th>
+      <th style="text-align:right">Actual LoC procured</th><th>Achievement</th></tr></thead>
+    <tbody>${body}</tbody>
+    <tfoot><tr style="background:#f7f9fd;font-weight:700">
+      <td></td><td class="nm">To date</td><td style="text-align:right">${wantT}</td>
+      <td style="text-align:right">${gotT.toFixed(2)}</td>
+      <td><b>${wantT?(gotT/wantT*100).toFixed(2):0}%</b></td></tr></tfoot></table>`;
+}
+
+function iso(d){return d.toISOString().slice(0,10);}
+function weekKey(s){const d=new Date(s+'T00:00:00');const wd=(d.getDay()+6)%7;d.setDate(d.getDate()-wd);return iso(d);}
+function pkey(s,g){return g==='week'?weekKey(s):s;}
+function plabel(k,g){const d=new Date(k+'T00:00:00');return d.toLocaleDateString('en',{month:'short',day:'numeric'});}
+function rangeBounds(){
+  const p=document.getElementById('preset').value,t=new Date();let from=null,to=iso(t);
+  if(p==='all')return[null,null];
+  if(p==='custom')return[document.getElementById('from').value||null,document.getElementById('to').value||null];
+  if(p==='yesterday'){const y=new Date(t);y.setDate(t.getDate()-1);const s=iso(y);return[s,s];}
+  if(p==='lastweek'){const wd=(t.getDay()+6)%7;const mon=new Date(t);mon.setDate(t.getDate()-wd-7);const sun=new Date(mon);sun.setDate(mon.getDate()+6);return[iso(mon),iso(sun)];}
+  if(p==='mtd')from=iso(new Date(t.getFullYear(),t.getMonth(),1));
+  else if(p==='wtd'){const wd=(t.getDay()+6)%7;const mon=new Date(t);mon.setDate(t.getDate()-wd);from=iso(mon);}
+  else{const d=new Date(t);d.setDate(d.getDate()-(parseInt(p)-1));from=iso(d);}
+  return[from,to];
+}
+function inRange(v,from,to){return v&&(!from||v>=from)&&(!to||v<=to);}
+function selMember(){return document.getElementById('member').value;}
+function filteredMembers(){
+  // NOT filtered by member — attribution is per-event, decided inside events().
+  // Lead type is no longer a filter either: every view is all types, always.
+  return F.data.rows;
+}
+function fmtBig(n){n=+n||0;const s=n<0?'-':'';n=Math.abs(n);
+  if(n>=1e9)return s+(n/1e9).toFixed(2)+'B';if(n>=1e6)return s+(n/1e6).toFixed(2)+'M';
+  if(n>=1e3)return s+(n/1e3).toFixed(1)+'k';return s+Math.round(n).toLocaleString();}
+
+function render(){
+  const dash=DASHBOARDS[F.dash];
+  document.getElementById('analystView').style.display=dash.ceo?'none':'block';
+  document.getElementById('ceoView').style.display=dash.ceo?'block':'none';
+  if(dash.ceo){renderCEO();return;}
+  renderAnalyst();
+}
+function renderAnalyst(){
+  const dash=DASHBOARDS[F.dash],rows=filteredMembers();const[from,to]=rangeBounds();
+  const _mm=selMember();
+  const card=m=>{
+    const snap=!!m.snap;
+    const v=snap?rows.filter(r=>(_mm==='all'||r.o===_mm)&&r[m.snap]).length
+                :rows.reduce((a,r)=>a+events(r,m.f,_mm).filter(v=>inRange(v,from,to)).length,0);
+    const sub=snap?'pending — not date-filtered':'';
+    return `<div class="kpi" style="--accent:${m.c};--accentbg:${m.bg}">
+      <div class="ic">${m.icon}</div><div class="lbl">${m.lbl}</div>
+      <div class="val">${v.toLocaleString()}</div>${sub?`<div class="sub">${sub}</div>`:''}</div>`;
+  };
+  const grp=(t,list)=>(list&&list.length)?`<div class="mgrp"><div class="mgrplbl">${t}</div>
+      <div class="kpis">${list.map(card).join('')}</div></div>`:'';
+  document.getElementById('kpis').className='';
+  document.getElementById('kpis').innerHTML=
+      grp('Input matrix · per day',dash.inputs)+grp('Outcome matrix · per day',dash.outcomes);
+  renderNoteKPIs(dash,rows,from,to);
+  if(dash.sprint){                       // weekly LoC volume target, same source as Executive
+    const box=document.getElementById('targets');
+    box.insertAdjacentHTML('beforeend',
+      `<div class="panel" style="margin-bottom:16px"><div class="phead"><div>
+         <h3>Weekly Target Volume (LoC)</h3>
+         <div class="psub">August sprint · procured against weekly target</div></div></div>
+       <div style="overflow-x:auto"><div id="sprint2"></div></div></div>`);
+    renderSprint(F.data.rows,'sprint2');
+  }
+  const g=(dash.graphs==='auto')?[...(dash.inputs||[]),...(dash.outcomes||[])]
+        .map(m=>({t:m.lbl,f:m.f})):dash.graphs;
+  document.getElementById('graphs').innerHTML=g.map((gr,i)=>`
+    <div class="panel">
+      <div class="phead"><div><h3>${gr.t}</h3><div class="psub"></div></div>
+        <div class="seg" data-gi="${i}"><button data-g="day" class="${F.gran[i]==='day'?'on':''}">Day</button><button data-g="week" class="${F.gran[i]==='week'?'on':''}">Week</button></div></div>
+      <div class="chartwrap"><div class="tip" id="tip${i}"></div><div id="chart${i}"></div></div>
+    </div>`).join('');
+  g.forEach((gr,i)=>drawBars('chart'+i,'tip'+i,rows,gr.f,F.gran[i]||'day',from,to,gr.t,selMember()));
+  document.querySelectorAll('#graphs .seg').forEach(seg=>{const gi=+seg.dataset.gi;
+    seg.querySelectorAll('button').forEach(b=>b.onclick=()=>{seg.querySelectorAll('button').forEach(x=>x.classList.remove('on'));b.classList.add('on');F.gran[gi]=b.dataset.g;render();});});
+}
+// Working days in the range. Weekends are excluded deliberately: a quota of 40 connected
+// calls a day is a quota for days somebody works. Counting Saturdays would make every
+// target unreachable and the bar meaningless.
+function workingDays(from,to,rows){
+  if(!from||!to){                       // "All time" — fall back to the data's own span
+    let lo=null,hi=null;
+    rows.forEach(r=>{
+      const all=[...(r.asg||[]),...Object.values(r.m||{}).flat().map(e=>Array.isArray(e)?e[0]:e)];
+      all.forEach(d=>{if(d){if(!lo||d<lo)lo=d;if(!hi||d>hi)hi=d;}});});
+    from=from||lo; to=to||hi;
+    if(!from||!to) return 1;
+  }
+  let n=0;const d=new Date(from+'T00:00:00'),end=new Date(to+'T00:00:00');
+  while(d<=end){const wd=d.getDay();if(wd!==0&&wd!==6)n++;d.setDate(d.getDate()+1);}
+  return Math.max(1,n);
+}
+
+function renderNoteKPIs(dash,rows,from,to){
+  const box=document.getElementById('targets');
+  if(!dash.notes){box.innerHTML='';return;}
+  const mem=selMember(),tally={};let total=0;
+  rows.forEach(r=>{(r.nb||[]).forEach(function(e){
+    var day=e[0],who=e[1],bucket=e[2];
+    if(mem!=='all'&&who!==mem)return;
+    if(day&&((from&&day<from)||(to&&day>to)))return;
+    tally[bucket]=(tally[bucket]||0)+1;total++;
+  });});
+  const items=Object.entries(tally).sort(function(x,y){return y[1]-x[1];});
+  if(!items.length){
+    box.innerHTML='<div class="panel" style="margin-bottom:16px"><div class="phead"><div>'+
+      '<h3>Note activity</h3><div class="psub">No notes in this range</div></div></div></div>';return;}
+  box.innerHTML='<div class="panel" style="margin-bottom:16px"><div class="phead"><div>'+
+    '<h3>Note activity <span style="color:var(--mut2);font-weight:500">('+total+')</span></h3>'+
+    '<div class="psub">Work recorded in notes that moves no stage &mdash; same buckets as the 6:30pm mail</div>'+
+    '</div></div><div class="statrow" style="flex-wrap:wrap;gap:10px">'+
+    items.map(function(kv){return '<div class="target" style="flex:1 1 150px;min-width:150px">'+
+      '<div class="tt"><span>'+kv[0]+'</span><b>'+kv[1]+'</b></div></div>';}).join('')+
+    '</div></div>';
+}
+
+function drawBars(el,tipId,rows,field,gran,from,to,label,mem){
+  const map=new Map();
+  rows.forEach(r=>events(r,field,mem).forEach(v=>{if(inRange(v,from,to)){const k=pkey(v,gran);map.set(k,(map.get(k)||0)+1);}}));
+  const keys=[...map.keys()].sort();const box=document.getElementById(el);
+  if(!keys.length){box.innerHTML='<div class="empty">No '+label.toLowerCase()+' in this range.</div>';return;}
+  const W=560,H=210,pad={l:30,r:10,t:12,b:26},iw=W-pad.l-pad.r,ih=H-pad.t-pad.b;
+  const mx=Math.max(...keys.map(k=>map.get(k)),1);
+  const stepv=Math.max(1,Math.ceil(mx/4)),tickN=Math.ceil(mx/stepv),top=stepv*tickN;
+  const xstep=iw/keys.length,bw=Math.max(6,Math.min(42,xstep*.6));
+  let grid='';for(let i=0;i<=tickN;i++){const y=pad.t+ih-ih*i/tickN;grid+=`<line x1="${pad.l}" y1="${y}" x2="${W-pad.r}" y2="${y}" stroke="#eee"/><text x="${pad.l-6}" y="${y+3}" text-anchor="end" class="axlbl">${i*stepv}</text>`;}
+  let bars='',lbls='';const every=Math.ceil(keys.length/12);
+  keys.forEach((k,i)=>{const cx=pad.l+xstep*i+xstep/2,x=cx-bw/2,v=map.get(k),h=ih*(v/top),y=pad.t+ih-h;
+    bars+=`<rect x="${x}" y="${y}" width="${bw}" height="${h}" rx="3" fill="#1447e6" data-k="${plabel(k,gran)}" data-v="${v}" onmousemove="showT('${tipId}',evt,'${label}')" onmouseleave="hideT('${tipId}')"/>`;
+    bars+=`<text x="${cx}" y="${y-4}" text-anchor="middle" style="fill:#171717;font-size:10px;font-weight:700;font-family:inherit">${v}</text>`;
+    if(i%every===0)lbls+=`<text x="${pad.l+xstep*i+xstep/2}" y="${H-8}" text-anchor="middle" class="axlbl">${plabel(k,gran)}</text>`;});
+  box.innerHTML=`<svg viewBox="0 0 ${W} ${H}">${grid}${bars}${lbls}</svg>`;
+}
+function showT(id,e,label){const t=e.target,tip=document.getElementById(id);
+  tip.innerHTML=`<b>${t.dataset.k}</b> · ${t.dataset.v} ${label.toLowerCase()}`;
+  const w=t.closest('.chartwrap').getBoundingClientRect(),b=t.getBoundingClientRect();
+  tip.style.left=(b.left-w.left+b.width/2-tip.offsetWidth/2)+'px';tip.style.top=(b.top-w.top-32)+'px';tip.style.opacity=1;}
+function hideT(id){document.getElementById(id).style.opacity=0;}
+
+function switchDash(d){
+  F.dash=d;
+  document.querySelectorAll('#dashnav a[data-d]').forEach(a=>a.classList.toggle('on',a.dataset.d===d));
+  document.getElementById('dttl').textContent=DASHBOARDS[d].name;
+  const _st=document.getElementById('subttl');
+  _st.textContent=DASHBOARDS[d].sub||'';
+  _st.style.display=DASHBOARDS[d].sub?'block':'none';
+  const sel=document.getElementById('member');
+  if([...sel.options].some(o=>o.value===DASHBOARDS[d].def))sel.value=DASHBOARDS[d].def;
+  render();
+}
+
+/* ---- CEO ---- */
+function miniStat(l,i,v){return `<div class="ministat"><div class="i">${i}</div><div class="l">${l}</div><div class="v">${v}</div></div>`;}
+function renderCEO(){
+  renderSprint(F.data.rows);
+  const _m=document.getElementById('member').value;   // Executive view spans ALL tags (member filter only)
+  const rows=F.data.rows.filter(r=>(_m==='all'||r.o===_m));
+  // Won only — "portfolio" means what we actually hold, not what might yet land.
+  const set=rows.filter(r=>r.won);
+  const sum=k=>set.reduce((a,r)=>a+(r[k]||0),0);
+  document.getElementById('pvstats').innerHTML=[['Lines of Code','📏',fmtBig(sum('loc'))],
+    ['Pull Requests','🔀',fmtBig(sum('pr'))],['Projects','📦',fmtBig(sum('pj'))]]
+    .map(a=>miniStat(...a)).join('');
+  const wl=rows.filter(r=>r.loc>0),lb=document.getElementById('locbuckets');
+  if(!wl.length)lb.innerHTML='<div class="awaiting">Awaiting LoC inputs.<br>Buckets fill once deals carry code sizes.</div>';
+  else{const B=[['<50k',0,5e4],['50–100k',5e4,1e5],['100–250k',1e5,2.5e5],['250–500k',2.5e5,5e5],['500k–1M',5e5,1e6],['1M+',1e6,Infinity]];
+    const c=B.map(b=>wl.filter(r=>r.loc>=b[1]&&r.loc<b[2]).length),mx=Math.max(...c,1);
+    lb.innerHTML=B.map((b,i)=>`<div class="bkt"><span class="bl">${b[0]}</span><span class="bb"><span class="bf" style="width:${c[i]/mx*100}%"></span></span><span class="bn">${c[i]}</span></div>`).join('');}
+  const won=rows.filter(r=>r.won),tC=won.reduce((a,r)=>a+(r.amt||0),0),tL=won.reduce((a,r)=>a+(r.loc||0),0),cph=tL?tC/tL*1e6:0;
+  document.getElementById('wonstats').innerHTML=[['Deals Won','🏆',won.length],['Total Cost','💰',tC?'$'+fmtBig(tC):'—'],
+    ['Cost / 1M LoC','⚖️',cph?'$'+fmtBig(cph):'—']].map(a=>miniStat(...a)).join('');
+  const pts=won.filter(r=>r.amt>0&&r.loc>0).map(r=>({x:r.amt,y:r.amt/(r.loc/1e6)})),sc=document.getElementById('scatter');
+  if(!pts.length)sc.innerHTML='<div class="awaiting">Awaiting won deals with cost + LoC.<br>Each plots as cost/deal (x) vs cost per 1M LoC (y).</div>';
+  else{const W=540,H=230,pad={l:52,r:14,t:12,b:32},iw=W-pad.l-pad.r,ih=H-pad.t-pad.b;
+    const mx=Math.max(...pts.map(p=>p.x))*1.1,my=Math.max(...pts.map(p=>p.y))*1.1;
+    let g='';for(let i=0;i<=4;i++){const y=pad.t+ih-ih*i/4,x=pad.l+iw*i/4;
+      g+=`<line x1="${pad.l}" y1="${y}" x2="${W-pad.r}" y2="${y}" stroke="#eee"/><text x="${pad.l-6}" y="${y+3}" text-anchor="end" class="axlbl">$${fmtBig(my*i/4)}</text><text x="${x}" y="${H-10}" text-anchor="middle" class="axlbl">$${fmtBig(mx*i/4)}</text>`;}
+    const dots=pts.map(p=>`<circle cx="${pad.l+iw*(p.x/mx)}" cy="${pad.t+ih-ih*(p.y/my)}" r="5" fill="#f99c00" stroke="#fff"/>`).join('');
+    sc.innerHTML=`<svg viewBox="0 0 ${W} ${H}">${g}<text x="${pad.l+iw/2}" y="${H}" text-anchor="middle" class="axlbl">cost / deal →</text>${dots}</svg>`;}
+  // Hot & Won deals table
+  const STG={0:'Cold Call',1:'No Pickup',2:'Interested',3:'GMeet Fixed',4:'Script Shared',5:'Script Results',6:'Commercial Nego',7:'Contract Signed',8:'Data Migration',9:'Metadata Matched',10:'Payment Init',11:'Closed/Won'};
+  const esc=s=>(s||'').replace(/[<>&"]/g,c=>({'<':'&lt;','>':'&gt;','&':'&amp;','"':'&quot;'}[c]));
+  // Live and won deals show cumulatively — the portfolio is the whole history. Dead ones
+  // show ONLY if they died in the current week: a dead deal is news while it is fresh, and
+  // a permanent list of every loss buries the deals someone can still act on.
+  const _t=new Date(), _wd=(_t.getDay()+6)%7;
+  const _mon=new Date(_t); _mon.setDate(_t.getDate()-_wd);
+  const weekFrom=iso(_mon), weekTo=iso(_t);
+  const diedThisWeek=r=>{
+    const days=Object.values(r.m||{}).flat().map(e=>Array.isArray(e)?e[0]:e);
+    return days.some(d=>d>=weekFrom&&d<=weekTo);
+  };
+  const hd=rows.filter(r=>(r.r>=5||r.won)&&(!r.dead||diedThisWeek(r)))
+               .sort((a,b)=>(b.won-a.won)||(b.r-a.r)||(b.loc-a.loc));
+  const hdt=document.getElementById('hotdeals');
+  if(!hd.length)hdt.innerHTML='<div class="awaiting">No deals carry code metadata yet.</div>';
+  else hdt.innerHTML='<table class="hdt"><thead><tr><th>Deal</th><th>Stage</th><th>Proj</th><th>LoC</th><th>PRs</th><th>LoC/PR</th><th>Price</th><th>Value range</th><th>Link</th><th>Note</th></tr></thead><tbody>'+
+    hd.map(r=>{const ratio=r.pr>0?Math.round(r.loc/r.pr).toLocaleString():'';const won=r.won,dead=r.dead;
+      return `<tr class="${won?'won':''}"><td class="nm">${esc(r.nm)||'—'}</td>`+
+      `<td><span class="pill ${won?'w':(dead?'d':'p')}">${won?'Won':(dead?'Dead':(STG[r.r]||'—'))}</span></td>`+
+      `<td>${r.pj||'—'}</td><td>${r.loc?fmtBig(r.loc):'—'}</td><td>${r.pr?fmtBig(r.pr):'—'}</td>`+
+      `<td>${ratio||'—'}</td><td>${r.amt?'$'+fmtBig(r.amt):'—'}</td>`+
+      `<td class="vr">${esc(r.dvr)||'—'}</td>`+
+      `<td>${r.ml?`<a href="${esc(r.ml)}" target="_blank" rel="noopener">open ↗</a>`:'—'}</td>`+
+      `<td class="note" title="${esc(r.note)}">${esc(r.note)||'—'}</td></tr>`;}).join('')+'</tbody></table>';
+}
+
+function init(){
+  const sel=document.getElementById('member');
+  sel.innerHTML='<option value="all">All members</option>'+F.data.core.map(([id,nm])=>`<option value="${id}">${nm}</option>`).join('');
+  document.getElementById('freshness').textContent=F.data.generated||'—';
+  document.getElementById('preset').onchange=e=>{const c=e.target.value==='custom';
+    document.getElementById('fromwrap').style.display=c?'flex':'none';document.getElementById('towrap').style.display=c?'flex':'none';render();};
+  ['member','from','to'].forEach(id=>document.getElementById(id).onchange=render);
+  document.querySelectorAll('#dashnav a[data-d]').forEach(a=>a.onclick=()=>switchDash(a.dataset.d));
+  render();
+}
+fetch('./dashboard_data.json?_='+Date.now()).then(r=>r.json()).then(d=>{F.data=d;init();})
+  .catch(()=>{document.querySelector('main').innerHTML='<p style="color:#e11;padding:40px">Could not load dashboard_data.json — serve over http, not file://.</p>';});
+</script>
+</body>
+</html>

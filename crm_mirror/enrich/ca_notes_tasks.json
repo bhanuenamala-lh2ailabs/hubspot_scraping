@@ -1,0 +1,4179 @@
+[
+ {
+  "deal_id": "335922425584",
+  "name": "3ELIXIR SOLUTIONS",
+  "owner": "Ishpreet Sood",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-20",
+    "by": "Ishpreet Sood",
+    "text": "luhar ramilla- did not pick up the call suthar sachin- incoming calls blocked right now, he is was invovled in tech in the company luhar is Founder and Suthar is CTO at their joint new venture"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954041591",
+  "name": "Alliedge Technologies Pvt Ltd",
+  "owner": "(unassigned)",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-20",
+    "by": "Ishpreet Sood",
+    "text": "did not connect, it's a IT service firm started in 2022, low chances of projects without vibe coding"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954041592",
+  "name": "Aktiv Software",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954042559",
+  "name": "ALEAIT SOLUTIONS PVT. LTD.",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-21",
+    "by": "Shreyas Boosnoor",
+    "text": "megha busy Ashutosh wrong number"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954042569",
+  "name": "Aavatto",
+  "owner": "(unassigned)",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-21",
+    "by": "Shreyas Boosnoor",
+    "text": "need to call himback in 1 hour called he didint pick up"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "call back 7pm today ",
+    "status": "COMPLETED",
+    "due": "2026-07-21",
+    "type": "CALL",
+    "body": "asked to call back after 1 hour that is 7pm",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042571",
+  "name": "Airo Global Software",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954042573",
+  "name": "Ambab Infotech Pvt. Ltd.",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-22",
+    "by": "Shreyas Boosnoor",
+    "text": "9769766964 need to call bhavik as cimpany s closed called no response"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954042579",
+  "name": "Aalpha Information Systems India Pvt. Ltd.",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954042581",
+  "name": "7Span",
+  "owner": "(unassigned)",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954042597",
+  "name": "Airovo Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954043579",
+  "name": "Allianze Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954043581",
+  "name": "Aimbeat",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954043586",
+  "name": "Akili Systems",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954043590",
+  "name": "Alcax Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954043601",
+  "name": "Absolute App Labs",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954043603",
+  "name": "AlterSquare",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954043604",
+  "name": "Ambiguous Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-21",
+    "by": "Shreyas Boosnoor",
+    "text": "+91 79274 30343 fromlinkedin"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954041587",
+  "name": "APSTIA PRIVATE LIMITED",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954041588",
+  "name": "ARD Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954041589",
+  "name": "Ascent24 Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954042560",
+  "name": "Apagen Solutions Pvt. Ltd.",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954042575",
+  "name": "Ascomp Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954042582",
+  "name": "App India",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954042585",
+  "name": "Aquadsoft",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954042588",
+  "name": "Arramton Infotech Pvt Ltd",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-20",
+    "by": "Shreyas Boosnoor",
+    "text": "asked to call tomorrow 21st july didit he call back didnt pick up"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "call back",
+    "status": "COMPLETED",
+    "due": "2026-07-21",
+    "type": "CALL",
+    "body": "he asked to call back tomorrow",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042600",
+  "name": "Arkatiss",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954042604",
+  "name": "Appstean",
+  "owner": "(unassigned)",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-07-28",
+  "notes": [
+   {
+    "at": "2026-07-20",
+    "by": "Shreyas Boosnoor",
+    "text": "anila jain wrong no atul need to call again"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954042605",
+  "name": "Appsimity Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-20",
+    "by": "Shreyas Boosnoor",
+    "text": "need to call back tomorrow"
+   },
+   {
+    "at": "2026-07-21",
+    "by": "Shreyas Boosnoor",
+    "text": "called today , messaged to will call back later"
+   },
+   {
+    "at": "2026-07-21",
+    "by": "Shreyas Boosnoor",
+    "text": "called again no response"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "call back",
+    "status": "COMPLETED",
+    "due": "2026-07-21",
+    "type": "CALL",
+    "body": "need to call her like she asked",
+    "by": "Shreyas Boosnoor"
+   },
+   {
+    "subject": "meenakshi from appsimity solutions",
+    "status": "COMPLETED",
+    "due": "2026-07-28",
+    "type": "TODO",
+    "body": "she will call back lataer",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954042608",
+  "name": "Apptians",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-21",
+    "by": "Shreyas Boosnoor",
+    "text": "+91 96104 26447 his no from linkedin"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954043578",
+  "name": "Aron Web Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043588",
+  "name": "Apptware",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043589",
+  "name": "Appscomp Widgets Pvt Ltd.,",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "335954043594",
+  "name": "Appther Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-07-28",
+  "notes": [
+   {
+    "at": "2026-07-20",
+    "by": "Shreyas Boosnoor",
+    "text": "automated call inbox"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "335954043596",
+  "name": "Appic Softwares",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-20",
+    "by": "Shreyas Boosnoor",
+    "text": "call shubham as i called the other person and asked me to call him"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "335929619181",
+  "name": "Askgalore Digital",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Pipeline",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "336726947572",
+  "name": "Onato",
+  "owner": "Ishpreet Sood",
+  "pipeline": "Scraped",
+  "lead_source": "LH2 Distress",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-21",
+    "by": "Ishpreet Sood",
+    "text": "number out of service"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "337570133717",
+  "name": "AnAr Solutions Pvt Ltd",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "337557537472",
+  "name": "Angular Minds",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-22",
+    "by": "Yash Wani",
+    "text": "sent an email and whatsapp to him."
+   },
+   {
+    "at": "2026-07-22",
+    "by": "Yash Wani",
+    "text": "call abhijit again"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Angular Minds - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "EMAIL",
+    "body": "Regarding note logged on Wednesday, July 22, 2026 6:17 PM",
+    "by": "Yash Wani"
+   },
+   {
+    "subject": "Follow up on Angular Minds - Codebase Acquisition",
+    "status": "COMPLETED",
+    "due": "2026-07-22",
+    "type": "CALL",
+    "body": "Regarding note logged on Wednesday, July 22, 2026 4:36 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337562917578",
+  "name": "Appzia Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337532053182",
+  "name": "Ariston IT Services",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337559331517",
+  "name": "Banao Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337561116398",
+  "name": "Biz4Solutions LLC",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337561116400",
+  "name": "Boston Technology Corporation",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337633848034",
+  "name": "Bpointer Technologies",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-23",
+    "by": "Yash Wani",
+    "text": "call didnt go through to Ketki, call back"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Bpointer Technologies - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-23",
+    "type": "CALL",
+    "body": "Regarding note logged on Thursday, July 23, 2026 1:06 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337559331523",
+  "name": "Brainmine Web Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337635638975",
+  "name": "Cloute Technologies Pvt Ltd",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [
+   {
+    "at": "2026-07-23",
+    "by": "Yash Wani",
+    "text": "number switched off, reattempt calling"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Cloute Technologies Pvt Ltd - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "CALL",
+    "body": "Regarding note logged on Thursday, July 23, 2026 4:31 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337524844278",
+  "name": "Codingmart Technologies Private Limited",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [
+   {
+    "at": "2026-07-23",
+    "by": "Yash Wani",
+    "text": "call didnt go through, call again on Monday"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Codingmart Technologies Private Limited - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "CALL",
+    "body": "Regarding note logged on Thursday, July 23, 2026 4:17 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337562919659",
+  "name": "Creware Technologies Pvt",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [
+   {
+    "at": "2026-07-23",
+    "by": "Yash Wani",
+    "text": "call attempted to GR Soni, didnt go through"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Creware Technologies Pvt - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "Regarding note logged on Thursday, July 23, 2026 3:37 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337476427487",
+  "name": "Custom-Soft",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337614161604",
+  "name": "Cybersapient",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [
+   {
+    "at": "2026-07-23",
+    "by": "Yash Wani",
+    "text": "Spoke with Nijin, he has asked for company credentials. Have sent email and whatsapp."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Cybersapient - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "CALL",
+    "body": "Regarding note logged on Thursday, July 23, 2026 4:50 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337506222779",
+  "name": "Day One Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337524845249",
+  "name": "Digiapt Software Technologies Pvt Ltd",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [
+   {
+    "at": "2026-07-23",
+    "by": "Yash Wani",
+    "text": "call didnt go through, dropped an email - call again on Monday."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Digiapt Software Technologies Pvt Ltd - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "CALL",
+    "body": "Regarding note logged on Thursday, July 23, 2026 4:11 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337474609895",
+  "name": "EC Infosolutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337508034297",
+  "name": "Euphoric Thought Technologies",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [
+   {
+    "at": "2026-07-23",
+    "by": "Yash Wani",
+    "text": "call didnt go through"
+   },
+   {
+    "at": "2026-07-23",
+    "by": "Yash Wani",
+    "text": "called twice, didnt go through. Sentwhatsapp text and cold email"
+   },
+   {
+    "at": "2026-07-23",
+    "by": "Yash Wani",
+    "text": "called twice, didnt pick up, sent whatsapp and cold email."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Euphoric Thought Technologies - Codebase Acquisition",
+    "status": "COMPLETED",
+    "due": "2026-07-23",
+    "type": "TODO",
+    "body": "Regarding note logged on Thursday, July 23, 2026 11:48 AM",
+    "by": "Yash Wani"
+   },
+   {
+    "subject": "Follow up on Euphoric Thought Technologies - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "EMAIL",
+    "body": "Regarding note logged on Thursday, July 23, 2026 3:21 PM",
+    "by": "Yash Wani"
+   },
+   {
+    "subject": "Follow up on Euphoric Thought Technologies - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "EMAIL",
+    "body": "Regarding note logged on Thursday, July 23, 2026 3:22 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337612384967",
+  "name": "Evenion Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-07-29",
+    "by": "Shreyas Boosnoor",
+    "text": "called no response"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "follow up 27th july MON",
+    "status": "COMPLETED",
+    "due": "2026-07-28",
+    "type": "TODO",
+    "body": "interested , he needs details and discuss with his technical team sent mail and whatsapp",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337561117431",
+  "name": "Exaltare Technologies Pvt Ltd",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [
+   {
+    "at": "2026-07-23",
+    "by": "Yash Wani",
+    "text": "He was not sure if he can use codebases from client work, to check and get back. Follow up in two days."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Exaltare Technologies Pvt Ltd - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "CALL",
+    "body": "Regarding note logged on Thursday, July 23, 2026 4:00 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337570136779",
+  "name": "Fastcurve",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-22",
+    "by": "Yash Wani",
+    "text": "call Ankit at 6pm today."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Fastcurve - Codebase Acquisition",
+    "status": "COMPLETED",
+    "due": "2026-07-22",
+    "type": "TODO",
+    "body": "Regarding note logged on Wednesday, July 22, 2026 4:11 PM",
+    "by": "Yash Wani"
+   },
+   {
+    "subject": "Follow up with Fastcurve - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "Regarding note logged on Wednesday, July 22, 2026 4:11 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337478216408",
+  "name": "Gird technologies",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [
+   {
+    "at": "2026-07-23",
+    "by": "Yash Wani",
+    "text": "call didnt go through, number mentioned is wrong. Sent him an email."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Gird technologies - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "EMAIL",
+    "body": "Regarding note logged on Thursday, July 23, 2026 3:42 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337571931896",
+  "name": "GSA Techworld",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [
+   {
+    "at": "2026-07-23",
+    "by": "Yash Wani",
+    "text": "sent an email, follow up on Monday"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on GSA Techworld - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "EMAIL",
+    "body": "Regarding note logged on Thursday, July 23, 2026 5:39 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337481790151",
+  "name": "HotelKey",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-23",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337577161436",
+  "name": "iAssure International Technologies Pvt. Ltd",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-22",
+    "by": "Yash Wani",
+    "text": "Ashish Naik - wrong number, Asheesh Dixit is not related to the company."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "337481790176",
+  "name": "Ideesys",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "CALL",
+    "body": "switched off so call tomorrow",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337592762070",
+  "name": "Inceptive Technologies",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-22",
+    "by": "Yash Wani",
+    "text": "call back in morning"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Inceptive Technologies - Codebase Acquisition",
+    "status": "COMPLETED",
+    "due": "2026-07-23",
+    "type": "CALL",
+    "body": "Regarding note logged on Wednesday, July 22, 2026 3:41 PM",
+    "by": "Yash Wani"
+   },
+   {
+    "subject": "Follow up with Inceptive Technologies - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "CALL",
+    "body": "Regarding note logged on Wednesday, July 22, 2026 3:41 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337592762075",
+  "name": "Indglobal Digital",
+  "owner": "Yash Wani",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-22",
+    "by": "Yash Wani",
+    "text": "call back"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Indglobal Digital - Codebase Acquisition",
+    "status": "NOT_STARTED",
+    "due": "2026-07-23",
+    "type": "CALL",
+    "body": "Regarding note logged on Wednesday, July 22, 2026 3:35 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "337825875656",
+  "name": "Invimatic Technologies Pvt. Ltd.",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "337800342231",
+  "name": "Lobotus Technology Pvt Ltd",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "337804722878",
+  "name": "Mitroz Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "337818897103",
+  "name": "NexSemi Systems Pvt. Ltd.",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "337843573467",
+  "name": "OpenXcell",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "337854325475",
+  "name": "Pace Wisdom Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "337808167667",
+  "name": "Perfios",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-28",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337806520017",
+  "name": "Pickcel",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337778294489",
+  "name": "Probey Services",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337689907917",
+  "name": "Progton Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-27",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337739491034",
+  "name": "QED42",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-28",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "Shreyas Boosnoor",
+    "text": "2 nd call attempt no resposne"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "337854340853",
+  "name": "Qualityze Inc",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-29",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "337806520057",
+  "name": "SmartX Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-29",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "338964131516",
+  "name": "Tech4biz Solutions Private Limited",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "338983744212",
+  "name": "Addon Solutions Pvt Ltd.",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339172007624",
+  "name": "Advantal Technologies Pvt Ltd",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "338917057216",
+  "name": "Appventurez",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "338981936848",
+  "name": "Arobit Business Solutions Pvt. Ltd",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339022105316",
+  "name": "Bigscal Technologies Pvt Ltd",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "338917060340",
+  "name": "Bit Canny Technologies Pvt. Ltd.",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-31",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "338927909609",
+  "name": "BrainMobi",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-31",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "338927912691",
+  "name": "Calibraint",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-31",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339011309263",
+  "name": "Chamunda Tech-Net Services Pvt.Ltd",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-31",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "338898555629",
+  "name": "Consagous Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-31",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339018478308",
+  "name": "Crescentek",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "Shreyas Boosnoor",
+    "text": "9836900840 rajesh bajaj by Pavitra"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-29",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "338884130499",
+  "name": "Deft Infosystems (P) Ltd",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "338898557688",
+  "name": "Destm Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "338965982939",
+  "name": "Elicit Digital",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-29",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "338927933176",
+  "name": "Epixel Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339011322594",
+  "name": "Esolz Technologies Pvt. Ltd.",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "GoodFirms",
+  "modified": "2026-07-29",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339213523673",
+  "name": "Sharat Kaul",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-29",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Awaiting Reply Request sent: 2026-07-24 04:53 Accepted: 2026-07-24 10:21 Sender account: Shobit Gupta Sheet status: Call attempted Remarks: did not pickup"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339291843292",
+  "name": "Anivar A Aravind",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-29",
+    "by": "Yash Wani",
+    "text": "not connected, try again"
+   },
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Awaiting Reply Request sent: 2026-07-24 09:58 Accepted: 2026-07-24 14:44 Sender account: Shobit Gupta"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Anivar A Aravind",
+    "status": "NOT_STARTED",
+    "due": "2026-07-29",
+    "type": "CALL",
+    "body": "Regarding note logged on Wednesday, July 29, 2026 1:26 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "339342448372",
+  "name": "Amol Manohar Pardeshi",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Request Sent | Reply: Not Contacted Request sent: 2026-07-28 05:51 Sender account: Ashish Ranjan"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339338859207",
+  "name": "Shivam Chhuneja",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Replied Request sent: 2026-07-27 07:15 Accepted: 2026-07-27 07:57 Replied: 2026-07-27 07:57 Reply: \"Hi Shobit, interesting idea. Could you explain a bit what you had in mind?\" Sender account: Shobit Gupta Sheet status: Call attempted Remarks: He's not a tech founder, have just dropped him a text"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339224810189",
+  "name": "Shivendra Soni",
+  "owner": "Yuktha Anand",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-08-05",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Replied Request sent: 2026-07-28 07:39 Accepted: 2026-07-28 07:45 Replied: 2026-07-28 07:45 Reply: \"Hi Shobhit, When you say you are aquiring pre-2024 codebases are you specifically talking about org level codebases or personal projects as well?\" Sender account: Shobit Gupta"
+   },
+   {
+    "at": "2026-08-05",
+    "by": "Yuktha Anand",
+    "text": "Relevant and semi-interested"
+   },
+   {
+    "at": "2026-08-05",
+    "by": "Yuktha Anand",
+    "text": "Incoming call not allowed"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339272327885",
+  "name": "Mudit Aggarwal",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-29",
+    "by": "Yash Wani",
+    "text": "call back"
+   },
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Awaiting Reply Request sent: 2026-07-23 07:58 Accepted: 2026-07-25 14:30 Sender account: Ashish Ranjan"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Mudit Aggarwal",
+    "status": "NOT_STARTED",
+    "due": "2026-07-29",
+    "type": "CALL",
+    "body": "Regarding note logged on Wednesday, July 29, 2026 1:35 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "339226579674",
+  "name": "Ramprasad Subramanian",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Awaiting Reply Request sent: 2026-07-23 10:53 Accepted: 2026-07-23 11:17 Sender account: Shobit Gupta Sheet status: Call attempted Remarks: did not pickup"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339275876028",
+  "name": "Kapil Tomar",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Awaiting Reply Request sent: 2026-07-24 07:31 Accepted: 2026-07-27 16:04 Sender account: Shobit Gupta Sheet status: Call attempted Remarks: did not pickup"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339226579692",
+  "name": "Gurmukh Singh Chauhan",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Awaiting Reply Request sent: 2026-07-24 10:25 Accepted: 2026-07-24 17:31 Sender account: Ashish Ranjan Sheet status: Call attempted Remarks: Didnt connect, Call back on 29"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339324796623",
+  "name": "Bikash Dash",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Awaiting Reply Request sent: 2026-07-27 05:24 Accepted: 2026-07-27 06:16 Sender account: Shobit Gupta Sheet status: Call attempted Remarks: Didnt connect, Call back on 29"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339230203630",
+  "name": "Vikas Singh",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Awaiting Reply Request sent: 2026-07-24 08:53 Accepted: 2026-07-26 01:23 Sender account: Shobit Gupta Sheet status: Call attempted Remarks: Didnt connect, Call back on 29th"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Vikas Singh: follow up — Didnt connect, Call back on 29th",
+    "status": "NOT_STARTED",
+    "due": "2026-07-29",
+    "type": "TODO",
+    "body": "Didnt connect, Call back on 29th",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "339328386799",
+  "name": "Ashay Tamhane",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Awaiting Reply Request sent: 2026-07-24 06:45 Accepted: 2026-07-24 07:57 Sender account: Ashish Ranjan Sheet status: Call attempted Remarks: did not pickup"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339261636299",
+  "name": "Niyati Agarwal",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Awaiting Reply Request sent: 2026-07-24 06:57 Accepted: 2026-07-24 07:45 Sender account: Shobit Gupta Sheet status: Call attempted Remarks: She was busy, she will call back in evening"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Niyati Agarwal: follow up — She was busy, she will call back in evening",
+    "status": "NOT_STARTED",
+    "due": "2026-07-28",
+    "type": "TODO",
+    "body": "She was busy, she will call back in evening",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "339282850544",
+  "name": "Sahana Srinivasan",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Awaiting Reply Request sent: 2026-07-23 10:42 Accepted: 2026-07-25 10:57 Sender account: Ashish Ranjan Sheet status: Call attempted Remarks: Didnt connect, Call back on 29"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339224813242",
+  "name": "Rahul N.",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Unknown | Reply: Not Contacted Sender account: Yash Choudhary"
+   },
+   {
+    "at": "2026-07-29",
+    "by": "Yash Wani",
+    "text": "number mentioned on apollo is wrong."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339293590220",
+  "name": "Kushagra Tyagi",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Awaiting Reply Request sent: 2026-07-22 07:29 Accepted: 2026-07-22 09:11 Sender account: Ashish Ranjan"
+   },
+   {
+    "at": "2026-07-29",
+    "by": "Yash Wani",
+    "text": "call didnt go through, call back."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Kushagra Tyagi",
+    "status": "NOT_STARTED",
+    "due": "2026-07-30",
+    "type": "CALL",
+    "body": "Regarding note logged on Wednesday, July 29, 2026 4:39 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "339190596334",
+  "name": "Aditya Dwivedi",
+  "owner": "Yuktha Anand",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-08-05",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Connected | Reply: Replied Request sent: 2026-07-23 05:04 Accepted: 2026-07-23 08:27 Replied: 2026-07-24 05:29 Reply: \"Hi Shobit Apologies I couldn’t get back to you, should we connect on the weekend? \" Sender account: Shobit Gupta"
+   },
+   {
+    "at": "2026-08-05",
+    "by": "Yuktha Anand",
+    "text": "Relevant"
+   },
+   {
+    "at": "2026-08-05",
+    "by": "Yuktha Anand",
+    "text": "Asked to call post 4 to finalise call timing for tomorrow"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Callback",
+    "status": "NOT_STARTED",
+    "due": "2026-08-05",
+    "type": "CALL",
+    "body": "Call back to confirm G-meet timing",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "339252174529",
+  "name": "Kedar Swadi",
+  "owner": "Yash Wani",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-28",
+    "by": "",
+    "text": "[OutFlo Outreach — India] Connection: Unknown | Reply: Not Contacted Sender account: Yash Choudhary"
+   },
+   {
+    "at": "2026-07-29",
+    "by": "Yash Wani",
+    "text": "call back"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow up on Kedar Swadi",
+    "status": "NOT_STARTED",
+    "due": "2026-07-30",
+    "type": "CALL",
+    "body": "Regarding note logged on Wednesday, July 29, 2026 2:28 PM",
+    "by": "Yash Wani"
+   }
+  ]
+ },
+ {
+  "deal_id": "339358668503",
+  "name": "koinearth",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339356862175",
+  "name": "OfficePulse",
+  "owner": "Ishpreet Sood",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339230787318",
+  "name": "SUMERU DIGITAL SOLUTIONS",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339191216846",
+  "name": "Talentica Software",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb at evening",
+    "status": "NOT_STARTED",
+    "due": "2026-07-30",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "339191216851",
+  "name": "Assimilate Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339258674895",
+  "name": "Doshaheen",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339258674896",
+  "name": "BCC UNITED",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339369928381",
+  "name": "ADTECH Corp.",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-30",
+    "by": "Shreyas Boosnoor",
+    "text": "automated inbox"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339191216854",
+  "name": "Fusion Informatics Limited",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339191216856",
+  "name": "Biztech Consulting & Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-01",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339219974890",
+  "name": "eQuest Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-30",
+    "by": "Shreyas Boosnoor",
+    "text": "asked to drop a mail to info@equestsolutions.net and sent WA"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339311934190",
+  "name": "Communication Crafts",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-30",
+    "by": "Shreyas Boosnoor",
+    "text": "disturbance in call"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339230788320",
+  "name": "Appentus Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-31",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "cb",
+    "status": "NOT_STARTED",
+    "due": "2026-07-31",
+    "type": "TODO",
+    "body": "",
+    "by": "Shreyas Boosnoor"
+   }
+  ]
+ },
+ {
+  "deal_id": "339360446177",
+  "name": "Neuphony",
+  "owner": "Ishpreet Sood",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339342989014",
+  "name": "PokerDangal",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-03",
+    "by": "Yuktha Anand",
+    "text": "Busy- called on alt number ( 91 99303 31031)"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call Back",
+    "status": "NOT_STARTED",
+    "due": "2026-08-04",
+    "type": "CALL",
+    "body": "Need to call back",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "339318055671",
+  "name": "BlueLearn",
+  "owner": "Ishpreet Sood",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339258676958",
+  "name": "FanGame Live",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Called by Ishpreet. Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "339274908347",
+  "name": "Brosis Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-31",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339310170841",
+  "name": "Codestore Technologies Pvt Ltd",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-31",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339378384587",
+  "name": "Bhadani Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-30",
+    "by": "Shreyas Boosnoor",
+    "text": "."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339322025705",
+  "name": "ARM Worldwide",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [
+   {
+    "at": "2026-07-30",
+    "by": "Shreyas Boosnoor",
+    "text": "spoc is an employee for now sent WA to be forwaded to the concerned person"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339352183502",
+  "name": "Envigo",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339370139329",
+  "name": "Ackrolix innovations",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-01",
+  "notes": [
+   {
+    "at": "2026-07-30",
+    "by": "Shreyas Boosnoor",
+    "text": "no website"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339276634819",
+  "name": "Constient Global Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339191432902",
+  "name": "Fegno Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339358812916",
+  "name": "Brainium Information Technologies",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339227366133",
+  "name": "Codebuddy Pvt. Ltd.",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339265953504",
+  "name": "Capanicus",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339278356171",
+  "name": "Differenz System",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339227366137",
+  "name": "Foogle Tech Software",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339278356172",
+  "name": "EnactOn Technologies Private Limited",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339343159002",
+  "name": "CREST Infosystems Pvt Ltd",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339360607981",
+  "name": "Dignizant Technologies LLP",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-07-30",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339288971984",
+  "name": "Totality Corp",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339253001935",
+  "name": "Cosmic Payments",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-05",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-05",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "339390786286",
+  "name": "Rooba Finance",
+  "owner": "Ishpreet Sood",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339390786287",
+  "name": "Xuriti",
+  "owner": "Ishpreet Sood",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339276635868",
+  "name": "Convosight",
+  "owner": "Ishpreet Sood",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [
+   {
+    "at": "2026-08-03",
+    "by": "Ishpreet Sood",
+    "text": "hung up, also both his companies are still running"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339352218330",
+  "name": "Salesforce",
+  "owner": "Yuktha Anand",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-08-05",
+  "notes": [
+   {
+    "at": "2026-08-05",
+    "by": "Yuktha Anand",
+    "text": "Relevant"
+   },
+   {
+    "at": "2026-08-05",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "339325590220",
+  "name": "Snapmint",
+  "owner": "Yuktha Anand",
+  "pipeline": "Campaign",
+  "lead_source": "Outflo Outreach - India",
+  "modified": "2026-08-05",
+  "notes": [
+   {
+    "at": "2026-08-05",
+    "by": "Yuktha Anand",
+    "text": "number from signal hire is of co-founder, Omik Dahat Was in a meeting, asked to call back after a while"
+   },
+   {
+    "at": "2026-08-05",
+    "by": "Yuktha Anand",
+    "text": "Relevant and Interested"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back",
+    "status": "NOT_STARTED",
+    "due": "2026-08-05",
+    "type": "CALL",
+    "body": "",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "340119593684",
+  "name": "Wissen Technology",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339991739099",
+  "name": "Zyple Software Solutions Pvt Ltd",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340073829056",
+  "name": "Thinkitive Technologies Pvt. Ltd.",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340106497771",
+  "name": "Zelite",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339984513774",
+  "name": "Hidden Brains InfoTech",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340112021238",
+  "name": "Simform",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [
+   {
+    "at": "2026-08-03",
+    "by": "Shreyas Boosnoor",
+    "text": "wrong no"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340111983333",
+  "name": "Brainerhub",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340106498751",
+  "name": "Technorizen Software",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340095068874",
+  "name": "Systweak Software",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340119617233",
+  "name": "SDLC Corp",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339984514755",
+  "name": "Mindfire Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340112004851",
+  "name": "RV Solutions Pvt Ltd",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340119594691",
+  "name": "Flexsin",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340095070920",
+  "name": "Globtier Infotech Limited",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "339950954210",
+  "name": "MetaDesign Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340080117476",
+  "name": "Dev IT Serv",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340108473074",
+  "name": "NexGen Tech Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340111949518",
+  "name": "Futuresoft India",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340112022252",
+  "name": "Mobiloitte",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340068299512",
+  "name": "OptiSol Business Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340111942365",
+  "name": "TVS Next",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340119653050",
+  "name": "Infognana Solutions",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340111986398",
+  "name": "Nimap Infotech",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340111986407",
+  "name": "Capital Numbers",
+  "owner": "Shreyas Boosnoor",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": []
+ },
+ {
+  "deal_id": "340164702946",
+  "name": "Crejo.Fun",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-03",
+    "by": "Yuktha Anand",
+    "text": "Called on +91 80100 61042- no response"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back",
+    "status": "NOT_STARTED",
+    "due": "2026-08-04",
+    "type": "CALL",
+    "body": "Call back founder",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "340119782096",
+  "name": "Crater",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-03",
+    "by": "Yuktha Anand",
+    "text": "Signal hire number invalid. Alternate number 8884047977- No response"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back",
+    "status": "NOT_STARTED",
+    "due": "2026-08-04",
+    "type": "CALL",
+    "body": "Call back founder",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "340138510073",
+  "name": "Lido",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-03",
+    "by": "Yuktha Anand",
+    "text": "No response to call- +91 98672 33014"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back ",
+    "status": "NOT_STARTED",
+    "due": "2026-08-04",
+    "type": "CALL",
+    "body": "Call back founder",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "340166512346",
+  "name": "Resilient AI Solutions",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back",
+    "status": "NOT_STARTED",
+    "due": "2026-08-04",
+    "type": "CALL",
+    "body": "",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "340186312414",
+  "name": "Sachiko Gaming",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-05",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Whatsapp Message in 1 day",
+    "status": "NOT_STARTED",
+    "due": "2026-08-04",
+    "type": "TODO",
+    "body": "They sold the company. Send a whatsapp message asking if they still own the codebase even if they have sold.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340082085609",
+  "name": "Bueno Finance",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-05",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-05",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "339972543219",
+  "name": "Juleo",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-05",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-05",
+    "type": "CALL",
+    "body": "Called by Ishpreet. Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340151871189",
+  "name": "Fokuz",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-05",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-05",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340150056666",
+  "name": "Frenzi",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-05",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-05",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340117820136",
+  "name": "Railofy",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-05",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-05",
+    "type": "CALL",
+    "body": "Did not pick up",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340117820152",
+  "name": "Insane AI",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-05",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-05",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340184504045",
+  "name": "QTalk",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-03",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340188269259",
+  "name": "Oga",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-03",
+    "by": "Yuktha Anand",
+    "text": "SignalHire number is invalid. Alt no: 9003031256- no response"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back",
+    "status": "NOT_STARTED",
+    "due": "2026-08-04",
+    "type": "CALL",
+    "body": "Call back founder",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "339972589244",
+  "name": "Alle",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-03",
+    "by": "Yuktha Anand",
+    "text": "Signal hire number - international Tried alt number- 7899021114 (no response)"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back",
+    "status": "NOT_STARTED",
+    "due": "2026-08-04",
+    "type": "CALL",
+    "body": "Call back",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "340186376942",
+  "name": "Singularity Automation",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back",
+    "status": "NOT_STARTED",
+    "due": "2026-08-04",
+    "type": "CALL",
+    "body": "Call back",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "340168680123",
+  "name": "BridgeUp",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back",
+    "status": "NOT_STARTED",
+    "due": "2026-08-04",
+    "type": "CALL",
+    "body": "Call back",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "340122885864",
+  "name": "Satyukt",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Asked to sent WA message"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340168665828",
+  "name": "Gamitronics",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Asked to mail info@gamitronics.com"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340080250607",
+  "name": "Explorex",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340136734440",
+  "name": "TraceX",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340104715998",
+  "name": "AbleCredit",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340168680150",
+  "name": "Clik",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Number invalid"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340168680155",
+  "name": "Heliware",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340117861059",
+  "name": "Zocket",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Wrong number"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340134940356",
+  "name": "factors.ai",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340168595170",
+  "name": "Xeeed IO",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Not interested."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340188288751",
+  "name": "GroMo",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340168738544",
+  "name": "MedPay",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340136748767",
+  "name": "4Fin",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340188317416",
+  "name": "Circle Health",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Friend of Upneet. Will get in touch with him.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340119857913",
+  "name": "Seekho",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340080264951",
+  "name": "RevFin",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up. Left a voice message.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340188357340",
+  "name": "JustDeliveries",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Follow up in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "TODO",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340168742612",
+  "name": "FamApp",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up. Left a voice message.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "339984651976",
+  "name": "Mykare Health",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up. Left a voice message.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340095209203",
+  "name": "SmartCheck",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "(none)",
+  "modified": "2026-08-04",
+  "notes": [],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Line was busy",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340302711490",
+  "name": "Finzy",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Finzy Sector wave: P2P Lending / Fintech NBFC Shut down: ~2024 Raised: - Status: Dead/frozen (RBI show-cause notice) Founder(s) on this deal: Abhinav Sherwal (Founder); Amit More (Founder & CEO); Apoorv Gawde (CIO & Head Of Products); Vishwas Dixit (Co-Founder & CMO) How to open the call: they founded Finzy, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340250628800",
+  "name": "Truebil",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Shubh- Is busy now Suraj- Number is invalid Shanu- No response"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Shanu- Asked to send message on WA- will get back on timing for call"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Truebil Sector wave: Used Car Marketplaces Shut down: 2020 Raised: ~$27M Status: Acquired-dead (Spinny, Aug 2020) Founder(s) on this deal: Rakesh Raman (Co Founder and Chief of Product & ); Shanu Vivek (Co-Founder & Digital Marketing Hea); Suraj Kalwani (Co-founder and CEO); Shubh Bansal (Co-Founder) How to open the call: they founded Truebil, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Check for Call",
+    "status": "NOT_STARTED",
+    "due": "2026-08-04",
+    "type": "CALL",
+    "body": "Check to see if open to hopping on a call",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "340317897417",
+  "name": "GrocShop",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-05",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: GrocShop Sector wave: Hyperlocal grocery Shut down: 2016 Raised: small Status: Dead (clean) Founder(s) on this deal: Ayush Garg (Founder & CEO); Manphul Budania (Founder); Dinesh Meena (Co-Founder) How to open the call: they founded GrocShop, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back ",
+    "status": "NOT_STARTED",
+    "due": "2026-08-05",
+    "type": "CALL",
+    "body": "Said he has a call and will call back later",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340228051665",
+  "name": "MyWash",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Abhinav- no response Silus- Invalid number Vikram- no response"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: MyWash Sector wave: Hyperlocal Laundry Shut down: ~2016/17 Raised: small Status: Acquired-dead (Housejoy) Founder(s) on this deal: Vikramsimha Reddy Kallam (Founding Member); Silus Reddy Chintapalli (Co-Founder); Abhinav Pandey (Founding Team Member | Operations ) How to open the call: they founded MyWash, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340242491096",
+  "name": "OneClickWash",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: OneClickWash Sector wave: Hyperlocal Laundry Shut down: ~2016/17 Raised: small Status: Acquired-dead (PickMyLaundry) Founder(s) on this deal: Vivek Iyer (Founder and CEO); Saurav Killa (Chief Operating Officer (Co-Founde); Srinivas Nudurupati (Co Founder) How to open the call: they founded OneClickWash, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340259601136",
+  "name": "ZuperMeal",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: ZuperMeal Sector wave: Foodtech Shut down: 2016 Raised: seed only Status: Dead (clean) Founder(s) on this deal: Prabhakar Banerjee (Co-Founder, Chief of Product and M); Ramyakant D (Co-founder & CTO); Balasubramanian Anantha Narayanan (Co-founder & COO) How to open the call: they founded ZuperMeal, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Line was busy",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340231703276",
+  "name": "Coindelta",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Coindelta Sector wave: Crypto/Web3 Exchanges Shut down: ~2019 Raised: - Status: Dead (clean) Founder(s) on this deal: Manish K. (Co-Founder); Rajdeep Singh (CEO & Co-founder) How to open the call: they founded Coindelta, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340316098269",
+  "name": "Dazo",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Dazo (fka TapCibo) Sector wave: Foodtech Shut down: 2015 Raised: ~$235K+ Status: Dead (clean) Founder(s) on this deal: Shashaank Shekhar Singhal (Co-Founder & CEO); Monica Rastogi (Founder & CTO - DAZO) How to open the call: they founded Dazo (fka TapCibo), which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340317898426",
+  "name": "Doormint",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Doormint Sector wave: Hyperlocal Home Services Shut down: 2016 Raised: Helion/Kalaari-backed Status: Dead (assets -> Wassup) Founder(s) on this deal: Abhinav Agarwal (Co Founder & CEO); Naga Chokkanathan (Founder) How to open the call: they founded Doormint, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340250629845",
+  "name": "Dunzo",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Dunzo Sector wave: Quick Commerce Shut down: 2025 Raised: $450M+ (incl. Reliance $200M) Status: Dead (clean, Jan 2025) Founder(s) on this deal: Kabeer Biswas (Works at); Dalvir Suri (Cofounder) How to open the call: they founded Dunzo, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340331855560",
+  "name": "FindYahan",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Snehil- No response"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: FindYahan Sector wave: Hyperlocal Home Services Shut down: 2016 Raised: small Status: Acquired-dead (Zimmber) Founder(s) on this deal: Rachit Mathur (Founder and CEO); Snehil Khanor (Co-Founder & Chief Product Officer) How to open the call: they founded FindYahan, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340345914091",
+  "name": "Housejoy",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Housejoy Sector wave: Hyperlocal Home Services Shut down: ~2019 Raised: ~$27M Status: Dead/pivoted (construction) Founder(s) on this deal: Sunil Goel (Founder); Saran Chatterjee (CoFounder/CEO) How to open the call: they founded Housejoy, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340254278347",
+  "name": "Pluss",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Pluss Sector wave: Online Pharmacy Shut down: 2016 Raised: ~$1M Status: Acquired-dead (Netmeds) Founder(s) on this deal: Atit Jain (Co-Founder & CEO); Tarun Lawadia (Co Founder & COO) How to open the call: they founded Pluss, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   },
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Busy"
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340312550089",
+  "name": "Rang De",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Rang De Sector wave: P2P Lending / Fintech NBFC Shut down: ~2024 Raised: - Status: Halted withdrawals (RBI action) Founder(s) on this deal: Smita Ram (Co-founder & CEO / Co-founder & Ma); Aroj George (CTO) How to open the call: they founded Rang De, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up. Left a voice message.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340288400074",
+  "name": "SuperLearn",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: SuperLearn Sector wave: Edtech Shut down: 2022 Raised: varies Status: Dead (clean) Founder(s) on this deal: Ricky Gupta (Co-Founder); Akash Suresh (Chief Technology Officer) How to open the call: they founded SuperLearn, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340205664987",
+  "name": "TaxiForSure",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Raghu- number invalid Aprameya- No response"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: TaxiForSure Sector wave: Mobility Shut down: 2016 Raised: ~$40M Status: Acquired-dead (Ola 2015) Founder(s) on this deal: Aprameya Radhakrishna (Founder and Director); Raghunandan G (Founder and Director) How to open the call: they founded TaxiForSure, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340272953075",
+  "name": "Townrush",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Townrush (grocery) Sector wave: Hyperlocal grocery Shut down: 2016 Raised: small Status: Dead (clean) Founder(s) on this deal: Tushar Bisht (Co-founder); Nishanth S. (Founding Member) How to open the call: they founded Townrush (grocery), which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340330066656",
+  "name": "Udayy",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Udayy Sector wave: Edtech Shut down: 2022 Raised: varies Status: Dead (clean) Founder(s) on this deal: Saumya Yadav (Co-Founder & CEO); Karan Varshney (Co-Founder & CTO) How to open the call: they founded Udayy, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340242492104",
+  "name": "1K Kirana",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: 1K Kirana (1K Stores) Sector wave: Quick Commerce Shut down: 2024 Raised: ~$36M Status: Dead (near-bankruptcy) Founder(s) on this deal: Sachin Sharma (Lead (Senior Business Data Analyst) How to open the call: they founded 1K Kirana (1K Stores), which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up. Called the founder Kumar Sangeetesh since Sachin's LinkedIn says Business analyst.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340214639332",
+  "name": "Flashdoor",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-05",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Was in a meeting"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Flashdoor Sector wave: Hyperlocal Laundry Shut down: ~2016/17 Raised: small Status: Dead Founder(s) on this deal: Ankit Agarwal (Co-Founder, CEO) How to open the call: they founded Flashdoor, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back",
+    "status": "NOT_STARTED",
+    "due": "2026-08-05",
+    "type": "CALL",
+    "body": "Call back",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "340316101351",
+  "name": "FrontRow",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: FrontRow Sector wave: Edtech Shut down: 2023 Raised: ~$14M Status: Dead (clean, considered returning $2.5M) Founder(s) on this deal: Ishaan Preet Singh (Co-founder) How to open the call: they founded FrontRow, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340272956120",
+  "name": "Opinio",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Incoming call not allowed"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Opinio Sector wave: Hyperlocal Delivery/Logistics Shut down: 2016 Raised: ~$8.3M Status: Dead (clean; assets later to Cult.fit) Founder(s) on this deal: Lokesh Jangid (Co-founder/CTO (Acquired by Curefi) How to open the call: they founded Opinio, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340330071756",
+  "name": "Otipy",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Otipy Sector wave: Quick Commerce Shut down: ~2025 Raised: ~$40M Status: Dead Founder(s) on this deal: Varun Khurana (Founder & CEO) How to open the call: they founded Otipy, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back in 2 days",
+    "status": "NOT_STARTED",
+    "due": "2026-08-06",
+    "type": "CALL",
+    "body": "Did not pick up.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340177116894",
+  "name": "Parcelled",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Parcelled Sector wave: Hyperlocal Delivery/Logistics Shut down: 2016 Raised: ~$5M Status: Dead (clean) Founder(s) on this deal: Xitij Kothi ⚡️ (Founder and CEO) How to open the call: they founded Parcelled, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340242496198",
+  "name": "Taggle",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Taggle Sector wave: Daily Deals / Group Buying Shut down: - Raised: - Status: Dead (clean) Founder(s) on this deal: Rutvik Doshi (CEO and Chief Product Officer) How to open the call: they founded Taggle, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340231707375",
+  "name": "Urban Dhobi",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Urban Dhobi Sector wave: Hyperlocal Laundry Shut down: ~2017 Raised: ~$18K Status: Dead/dormant Founder(s) on this deal: Satyam Mishra (CEO & Co Founder) How to open the call: they founded Urban Dhobi, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340316102332",
+  "name": "Zansaar",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "No response"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: Zansaar Sector wave: Furniture & Home Decor E-comm Shut down: ~2015 Raised: ~$6M Status: Dead (clean) Founder(s) on this deal: Jawad Ayaz (Founder & CEO) How to open the call: they founded Zansaar, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": []
+ },
+ {
+  "deal_id": "340302716619",
+  "name": "mChemist",
+  "owner": "Yuktha Anand",
+  "pipeline": "Scraped",
+  "lead_source": "Deadpool Waves",
+  "modified": "2026-08-04",
+  "notes": [
+   {
+    "at": "2026-08-04",
+    "by": "Yuktha Anand",
+    "text": "Travelling right now- asked to call back on Monday"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "Shobit Gupta",
+    "text": "Company is still active"
+   },
+   {
+    "at": "2026-08-04",
+    "by": "",
+    "text": "DEADPOOL WAVE LEAD — this company is DEAD. Do not pitch it as a live business. Company: mChemist Sector wave: Online Pharmacy Shut down: - Raised: small Status: Dead/dormant Founder(s) on this deal: Vikas Singhal (Co-Founder, CTO) How to open the call: they founded mChemist, which shut down. They have moved on and almost certainly consider the code worthless. That is the opening — we pay for a pre-2024 codebase they have already written off. There is no board, no customers and no ongoing business to protect, so the decision is theirs alone. Be respectful about the shutdown; it is often a sore subject. Contact source: SignalHire-verified mobile (this batch was 100% mobile, no switchboards). Numbers came from SignalHire only, never a spreadsheet."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call back",
+    "status": "NOT_STARTED",
+    "due": "2026-08-11",
+    "type": "CALL",
+    "body": "Asked to call back on Monday",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "340273536751",
+  "name": "Justifi.World",
+  "owner": "Ishpreet Sood",
+  "pipeline": "Campaign",
+  "lead_source": "LinkedIn Lead-Gen Form - Jul 31 2026",
+  "modified": "2026-08-05",
+  "notes": [
+   {
+    "at": "2026-08-05",
+    "by": "Shobit Gupta",
+    "text": "He's raising external capital for his firm, so can't run this process as of now; we'll have to connect back early September"
+   },
+   {
+    "at": "2026-08-05",
+    "by": "",
+    "text": "LinkedIn Lead-Gen Form ' Form - Jul 31, 2026 ' (Bhanu split), submitted 5 Aug 2026. INBOUND — he filled the form himself. Co-founder Justifi.World; CEO Dozen Diamonds Technologies; also Logimetrix Techsolutions and B4b.ai. Multiple ventures — ask which entities hold pre-2024 code. Phone +918017506074 is from the form and validates as an Indian mobile. This form asks NO qualifying questions (no company age, no dormant-project count), so qualify on the call: does he own a company, and does it hold client code written before 2024?"
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Call him to check if he's ready for licensing now",
+    "status": "NOT_STARTED",
+    "due": "2026-09-07",
+    "type": "CALL",
+    "body": "",
+    "by": "Yuktha Anand"
+   }
+  ]
+ },
+ {
+  "deal_id": "340394456799",
+  "name": "SIDANA VENTURES",
+  "owner": "Lamiya Saleem",
+  "pipeline": "Campaign",
+  "lead_source": "OutFlo Replied - Relevance Check",
+  "modified": "2026-08-05",
+  "notes": [
+   {
+    "at": "2026-08-05",
+    "by": "Lamiya Saleem",
+    "text": "Relevant lead. messaged him to book slot, no response yet"
+   },
+   {
+    "at": "2026-08-05",
+    "by": "",
+    "text": "RELEVANCE CHECK — read the LinkedIn profile, then mark relevant or irrelevant. Do not call. There is no phone on this deal yet, on purpose: we enrich only the ones you mark relevant, so no credits are spent on leads that turn out not to fit. Person: Rakesh Sidana Title: Founder Company: SIDANA VENTURES Location: Gurugram, Haryana, India LinkedIn: https://www.linkedin.com/in/rakeshsidana Headline: Family Office | DeepTech Venture Studio | Founder of Multiple Businesses | Investor | Director | Author | Mentor | Pre-IPO Investments Source: OutFlo India campaign — this person REPLIED to our LinkedIn outreach (sender: Ashish Ranjan). Last action: 2026-08-04T07:41:51.917Z. What makes it relevant: an Indian IT-services firm or product company that could own pre-2024 client code, with this person senior enough to decide. Irrelevant: an employee at a large corporate (Accenture, PwC, Shell, Uber and the like) who cannot sell company IP, a student, or a recruiter. Write your verdict in the deal notes — we read those to decide what to enrich next."
+   }
+  ],
+  "tasks": [
+   {
+    "subject": "Follow-up on linkedin/call",
+    "status": "NOT_STARTED",
+    "due": "2026-08-10",
+    "type": "TODO",
+    "body": "Messaged to book a slot. Follow-up if not already done.",
+    "by": "Lamiya Saleem"
+   }
+  ]
+ },
+ {
+  "deal_id": "340343171782",
+  "name": "Userology",
+  "owner": "Yuktha Anand",
+  "pipeline": "Campaign",
+  "lead_source": "OutFlo Replied - Relevance Check",
+  "modified": "2026-08-05",
+  "notes": [
+   {
+    "at": "2026-08-05",
+    "by": "Yuktha Anand",
+    "text": "Relevant and Interested Ishpreet already in touch"
+   },
+   {
+    "at": "2026-08-05",
+    "by": "Yuktha Anand",
+    "text": "Open to hopping on a call tomorrow, will get back with time slots today"
+   },
+   {
+    "at": "2026-08-05",
+    "by": "",
+    "text": "RELEVANCE CHECK — read the LinkedIn profile, then mark relevant or irrelevant. Do not call. There is no phone on this deal yet, on purpose: we enrich only the ones you mark relevant, so no credits are spent on leads that turn out not to fit. Person: Shrey Khokhra Title: Co-Founder Company: Userology Location: India LinkedIn: https://www.linkedin.com/in/shrey-khokhra-8320a7127 Headline: Founder | ex- Revolut, Snapdeal | BITS-pilani Source: OutFlo India campaign — this person REPLIED to our LinkedIn outreach (sender: Ishpreet Sood). Last action: 2026-08-03T09:11:51.327Z. What makes it relevant: an Indian IT-services firm or product company that could own pre-2024 client code, with this person senior enough to decide. Irrelevant: an employee at a large corporate (Accenture, PwC, Shell, Uber and the like) who cannot sell company IP, a student, or a recruiter. Write your verdict in the deal notes — we read those to decide what to enrich next."
+   }
+  ],
+  "tasks": []
+ }
+]

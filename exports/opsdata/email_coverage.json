@@ -1,0 +1,9 @@
+{
+ "total": 500,
+ "with_email": 443,
+ "kinds": {
+  "person (Tracxn)": 204,
+  "person (SignalHire)": 45,
+  "company generic": 194
+ }
+}

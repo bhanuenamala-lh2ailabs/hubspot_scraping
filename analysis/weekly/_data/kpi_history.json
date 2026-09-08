@@ -1,0 +1,60 @@
+{
+ "2026-W31": {
+  "goodfirms_scrape": {
+   "label": "goodfirms_scrape",
+   "n": 393,
+   "n_mature": 106,
+   "QR": 62.1,
+   "CR": 87.5,
+   "ULR": 55.5,
+   "FAR": 0.0,
+   "FAR_n": 60,
+   "ER": 20.3,
+   "MR": 1.9,
+   "AFD": 0.92,
+   "WR": 0.0
+  },
+  "codebase_tracker": {
+   "label": "codebase_tracker",
+   "n": 32,
+   "n_mature": 0,
+   "QR": 93.8,
+   "CR": 84.4,
+   "ULR": 78.1,
+   "FAR": null,
+   "FAR_n": 0,
+   "ER": null,
+   "MR": null,
+   "AFD": null,
+   "WR": null
+  },
+  "scrape_legacy_sub50": {
+   "label": "scrape_legacy_sub50",
+   "n": 140,
+   "n_mature": 68,
+   "QR": 60.7,
+   "CR": 90.7,
+   "ULR": 53.6,
+   "FAR": 0.0,
+   "FAR_n": 35,
+   "ER": 20.4,
+   "MR": 1.5,
+   "AFD": 0.88,
+   "WR": 0.0
+  },
+  "scrape_gated_50plus": {
+   "label": "scrape_gated_50plus",
+   "n": 253,
+   "n_mature": 38,
+   "QR": 62.8,
+   "CR": 85.8,
+   "ULR": 56.5,
+   "FAR": 0.0,
+   "FAR_n": 25,
+   "ER": 20.0,
+   "MR": 2.6,
+   "AFD": 1.0,
+   "WR": 0.0
+  }
+ }
+}

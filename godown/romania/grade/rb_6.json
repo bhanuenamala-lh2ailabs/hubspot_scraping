@@ -1,0 +1,830 @@
+[
+ {
+  "name": "Kheprix",
+  "domain": "kheprix.com",
+  "website": "https://www.kheprix.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Custom software development firm (since 2006) doing full-stack desktop and web application development (C#/.NET/Python/C++/Delphi) with Docker/SSIS/SSAS.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Kheprix - Your Trusted Partner in Custom Software Development since 2006 - Kheprix Kheprix Archives November 2024 Categories"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "MySQL, MariaDB, AuroraDB, Oracle, MS SQL Server, SQLite, MongoDB, Postgres, Firebase Realtime Database, Interbase, Firebird Data Modeling, Optimization, Security How We Work Using an Agile process, we work closely with you—offering solution options, reviewing drafts together, and delivering quality-assured results.",
+    "Our process involves a continuous loop between the developer and tester until all issues are eliminated."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "Xentient Labs",
+  "domain": "xentient.io",
+  "website": "https://xentient.io/",
+  "seed_lead_score": "8",
+  "seed_reason": "Industrial software engineering firm bridging OT/IT with automation platforms, OPC UA & FDI integration and custom device-communication stacks.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "vcs": 1
+  },
+  "site_quotes": {
+   "vcs": [
+    "Services Automation Architecture OPC UA Integration Device Communication System Integration Company About Us Expertise Contact Careers Connect office@xentient.io LinkedIn GitHub © 2025 Xentient Labs."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [
+   "https://github.com/Xentient-Labs"
+  ],
+  "_prio": 16
+ },
+ {
+  "name": "Sensidev",
+  "domain": "sensidev.com",
+  "website": "https://sensidev.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Custom software development company building web/mobile apps and AI-driven automation with dedicated teams from ideation to deployment.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Sensidev | Web & Mobile App Development Company We build with care With strategic foresight and great enthu"
+  },
+  "jd": {
+   "jd_chars": 26188,
+   "signals": {
+    "vcs_generic": 1,
+    "testing": 1
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Proficient in using version control systems like Git."
+    ],
+    "testing": [
+     "Good knowledge of quality standards and professional methodologies in software development, such as Clean Code, TDD, SOLID Principles, etc."
+    ]
+   },
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "enterprise": 1,
+   "sdlc": 1,
+   "pr_practice": 1,
+   "DQ_agency": 3
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Custom software development company - Sensidev Home About us Services Portfolio Careers Podcast Blog Get in touch Custom software development company We build with care and equip you with the right development team to build and scale your product.",
+    "Do you want to take your product, team, or business efficiency to the next level?"
+   ],
+   "enterprise": [
+    "Industry-Specific Solutions: We have a proven track record in various industries, such as healthcare, IoT, fintech, and e-commerce, enabling us to understand and address the unique challenges of your business sector."
+   ],
+   "sdlc": [
+    "Agile and Collaborative Approach: Our team of developers and project managers work closely with clients, ensuring transparent communication and agile methodologies that adapt to your specific requirements and feedback."
+   ],
+   "pr_practice": [
+    "The quality of these developers was good so they were easy to onboard and the code reviews by senior devs helped us to shorten our time -to -market significantly ."
+   ],
+   "DQ_agency": [
+    "2021 Fresh branding, fresh site, fresh everything."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "Soluzyapp SRL",
+  "domain": "soluzy.app",
+  "website": "https://soluzy.app/",
+  "seed_lead_score": "8",
+  "seed_reason": "Builds reliable custom business software systems, automation platforms and AI integrations/agents with system integrations for European clients.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ogin Register Copyright © 2021 - 2023 Cutting-edge business software solutions for next level success. we help you digitize and modernize your operati"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "CANARY TECHNOLOGY INNOVATIONS S.R.L.",
+  "domain": "canarytech.ro",
+  "website": "https://canarytech.ro/",
+  "seed_lead_score": "8",
+  "seed_reason": "Builds and maintains web, mobile and cloud services with an AI & HealthTech engineering focus.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 194,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "Oves Enterprise",
+  "domain": "ovesenterprise.com",
+  "website": "https://ovesenterprise.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Global software engineering company providing senior dedicated developer teams for software services, space & defence and cybersecurity.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "Artificially",
+  "domain": "artificially.io",
+  "website": "https://artificially.io/",
+  "seed_lead_score": "8",
+  "seed_reason": "UK-founded (2020) enterprise software & AI company developing web and mobile solutions with a focus on AI-based optimizations.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 259,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "Adonis Software",
+  "domain": "adonissoft.com",
+  "website": "https://adonissoft.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Full-service iOS/Android mobile app development agency with business analysis, QA/testing and UI/UX design.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Mobile App Development Agency | iOS and Android development Services OUR WORK ABOUT US CAR"
+  },
+  "jd": {
+   "jd_chars": 26309,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "qa": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "qa": [
+    "QA & testing Studies show that low rankings in the app stores are usually a result of the users’ frustration with the bugs."
+   ],
+   "enterprise": [
+    "Our client is Kare Partners, a healthcare company that operates across the US offering home-therapy services.",
+    "VIEW STORY Docbook With Docbook, you can easily make appointments with your healthcare provider."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "SoftwareWatch",
+  "domain": "softwarewatch.ro",
+  "website": "https://www.softwarewatch.ro/",
+  "seed_lead_score": "7",
+  "seed_reason": "Provides custom nearshore software solutions spanning the whole software development lifecycle plus software consultancy.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "@softwarewatch.ro SOFTWAREWATCH We provide custom nearshore software solutions that span across the whole software development lifecycle. SOME OF OUR"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Get in Touch POC AND MVP DEVELOPMENT If you have a promising idea but feel overwhelmed about how to kick-start your project, we're here to assist."
+   ],
+   "owns_product": [
+    "Our expertise lies in rapidly developing Proof of Concepts (POCs) and Minimum Viable Products (MVPs) that enable you to refine and validate your product concept efficiently."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "Around25",
+  "domain": "around25.com",
+  "website": "https://www.around25.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Full-stack development team (since 2006) taking startups from idea to MVP to growth with team extension/remote teams, though also doing product and marketing.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 4072,
+   "signals": {
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Open source Check out some of our projects on Github.",
+     "Open source Check out some of our projects on Github."
+    ]
+   },
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": true
+  },
+  "site_signals": {
+   "vcs": 5,
+   "owns_product": 2,
+   "DQ_agency": 1,
+   "cicd": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "vcs": [
+    "Open source Check out some of our projects on Github.",
+    "Read post Software Engineering 7 min read How to do CI/CD in GitLab Create a CI/CD pipeline using GitLab pages and GitLab pipelines."
+   ],
+   "owns_product": [
+    "Learn more Validation Take tried and tested methods to validating if your startup has a market in demand that is eager to use your product.",
+    "We build, monitor and improve your product continuously."
+   ],
+   "DQ_agency": [
+    "Testimonials Log in Contact us Technical Blog We empower our team members to share their know-how with the world View All Product Software Engineering Software Engineering 6 min read How to improve SEO for JavaScript-heavy Websites Unclutter Javascript-based websites by reducing bundle size."
+   ],
+   "cicd": [
+    "Read post Software Engineering 8 min read Horizontal Pod Autoscaler in Kubernetes Implement HPA in Kubernetes to save on running costs without impacting the availability of your services.",
+    "Read post Software Engineering 7 min read How to do CI/CD in GitLab Create a CI/CD pipeline using GitLab pages and GitLab pipelines."
+   ],
+   "enterprise": [
+    "Build your team Proven trackrecord Consistently making an impact Over the last 15+ years we helped startups grow from simple MVPs to products used by Fortune 500 companies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/Around25"
+  ],
+  "_prio": 16
+ },
+ {
+  "name": "Statescu.net",
+  "domain": "statescu.net",
+  "website": "https://statescu.net/",
+  "seed_lead_score": "6",
+  "seed_reason": "Freelance full-stack developer/indie hacker building AI-powered apps and SaaS end-to-end (React Native, NestJS, AI pipelines) — real engineering but solo.",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; proves ownership of a name only",
+   "date": "2014-10-27",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "cicd": 3,
+   "DQ_training": 4
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Razvan Statescu — Founder & Indie Hacker RS About Projects Stack Contact // Razvan Statescu Building products from idea to launch I build and ship AI-powered apps and SaaS products from idea to launch."
+   ],
+   "cicd": [
+    "Most recently I built Preplo, an AI-powered cooking companion — solo, end to end: React Native frontend, NestJS backend, AI pipeline, App Store launch.",
+    "Solo build: React Native, NestJS, AI pipeline."
+   ],
+   "DQ_training": [
+    "I also give back to the developer community through bootcamps, hackathon mentoring, and technical writing on Medium .",
+    "Also ran 10 developer bootcamps, co-organised hackathons, and created open-source tools and technical content.",
+    "10+ developer bootcamps and education programs Hackathon builder and mentor Open-source contributor and technical content creator // contact Let's build something I'm open to collaborations, consulting, and interesting projects."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 16
+ },
+ {
+  "name": "ABIT Technologies",
+  "domain": "abittechnologies.com",
+  "website": "https://abittechnologies.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Romanian software developer offering end-to-end custom development, staff augmentation, build-operate-transfer, cloud web/mobile apps and AI services.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "a Software Services Agency specialized in Web Applications, Custom Software Development and Staff Augmentation. We have the necessary expertise to pro"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "DQ_bpo": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Whether you need to automate specific workflows, train predictive-maintenance models, implement a voice call center, build natural-language pipelines, or embed chatbots directly into your existing platforms, we deliver scalable, secure, and ethically grounded AI that grows with your business."
+   ],
+   "DQ_bpo": [
+    "Whether you need to automate specific workflows, train predictive-maintenance models, implement a voice call center, build natural-language pipelines, or embed chatbots directly into your existing platforms, we deliver scalable, secure, and ethically grounded AI that grows with your business."
+   ],
+   "sdlc": [
+    "Our team provides clear reports and regular updates every step of the way, keeping you in control as we progress by working in an agile environment that gives you clear visibility throughout the entire process cycle."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 15
+ },
+ {
+  "name": "Xsure",
+  "domain": "xsure.io",
+  "website": "https://xsure.io/",
+  "seed_lead_score": "7",
+  "seed_reason": "Full-stack software development outsourcing firm (UK/Romania/USA) providing dedicated developers across PHP/Java/JS/Angular/Vue/React.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "our expert in outsourcing Let us help you Home Technologies PHP development outsource JAVA development outsource JAVASCRIPT development outsource ANGU"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We will turn your product development into a competitive advantage."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 15
+ },
+ {
+  "name": "FIT Software",
+  "domain": "fitsoftware.ro",
+  "website": "https://www.fitsoftware.ro/",
+  "seed_lead_score": "7",
+  "seed_reason": "Builds web applications for complex business scenarios and cross-platform mobile apps (Flutter/Ionic/Xamarin).",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "y software See more Previous Next WHAT WE HAVE TO OFFER WEB APPLICATION DEVELOPMENT We build web applications using a large set of technologies. From"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Having this in mind, we keep you in the loop at every stage of the development process, presenting you the possibilities for your product as we try to understand better the product’s business field."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 15
+ },
+ {
+  "name": "WeCodePixels",
+  "domain": "wecodepixels.com",
+  "website": "https://wecodepixels.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "Full-stack developers/designers (10+ years) building web, mobile and enterprise applications (B2C/B2B, custom APIs, SaaS, CRMs).",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Web development projects from idea to launch - WeCodePixels Toggle navigation Hello Portfo"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "sdlc": 1,
+   "senior_roles": 1,
+   "vcs": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "View Our Products Our Expertise Web Development We build modern websites that bring your ideas to life, ranging from magazines and CRMs to eCommerce and tailor-made solutions, all while using the latest technologies and best practices."
+   ],
+   "sdlc": [
+    "How we work Our goal is to provide you with the absolute best solutions for your project and business."
+   ],
+   "senior_roles": [
+    "Imran Lone Site Reliability Engineer Recent Work BarVirgin University For this project we have created a completely customized training platform based on Symfony2 and Sylius (a modern approach to e-commerce), plus an iOS companion app."
+   ],
+   "vcs": [
+    "After a little searching, I found that Twitter, GitHub, Duolingo, Firefox, Thunderbird, MailChimp and others had animals that represented them.",
+    "Get started GitHub Behance Facebook © 2014-2026 WeCodePixels Privacy and Cookie Policy"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [
+   "https://github.com/WeCodePixels",
+   "https://github.com/liviucmg"
+  ],
+  "_prio": 15
+ },
+ {
+  "name": "InDevLab",
+  "domain": "indevlab.com",
+  "website": "https://indevlab.com/",
+  "seed_lead_score": "7",
+  "seed_reason": "International IT outsourcing company (100 specialists, 15 years) delivering process automation, cybersecurity, cloud solutions and R&D projects.",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "enterprise": 13,
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Details Blockchain technology, BigData, AI, Machine Learning We analyze and offer the best modern solutions for your product and business, which will become your competitive advantage and help you occupy a leading position in the market."
+   ],
+   "enterprise": [
+    "Details OUR PARTNERS OUR CASES Secure Medical Data Exchange Software and hardware development in healthcare.",
+    "Detail Decentralized Vehicle Insurance Platform Blockchain development from InDevLab.",
+    "Experience in Finance, Healthcare and GovTech.",
+    "Proven expertise in FinTech and banking solutions."
+   ],
+   "DQ_support": [
+    "Details OUR PARTNERS OUR CASES Secure Medical Data Exchange Software and hardware development in healthcare.",
+    "Contact Us OUR PARTNERS OUR CASES Secure Medical Data Exchange Software and hardware development in healthcare."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 15
+ },
+ {
+  "name": "Ontegra",
+  "domain": "ontegra.com",
+  "website": "https://ontegra.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Delivers high-end custom software, platform modernization/migration, AI & automation and MVP development plus IT outsourcing/staff augmentation for enterprises.",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "evelopment, Product development, Application modernization, Custom software development, Application maintanance Skip to content Services Product deve"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "DQ_support": 1,
+   "enterprise": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "With AI now part of our process, we deliver working prototypes in days, not months - engineering your success."
+   ],
+   "DQ_support": [
+    "We help businesses grow by delivering tailored software solutions, modernizing outdated systems, and providing expert IT support."
+   ],
+   "enterprise": [
+    "We work with a wide range of industries, including healthcare, logistics, finance, education, and government."
+   ],
+   "DQ_agency": [
+    "Tag placeholder 4 Read more  Published on October 28, 2025 4 min read SEO Strategies for Your CMS Learn how to enhance your website's SEO using a CMS."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "Appsmart",
+  "domain": "appsmart.ro",
+  "website": "https://appsmart.ro/",
+  "seed_lead_score": "8",
+  "seed_reason": "Software development company with senior developers covering the full lifecycle (business analysis, UI/UX, development, testing, deployment, support).",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ome appsmart Services Solutions Contact Partners , not just clients We are a software development company with a successful track record of delivered"
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "Components Front Office - Cash Desk Back Office - Management Film Programming Digital Signage Mobile App Website Ophthalmology EMR Software solution to handle digital transformation in Ophthalmology clinics."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "Mevoro",
+  "domain": "mevoro.com",
+  "website": "https://mevoro.com/",
+  "seed_lead_score": "8",
+  "seed_reason": "Custom software company (since 2012) building web, AI/ML and IoT/Edge solutions, apps and automation (OCR document processing, smart parking, clinic software).",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "archived pre-2024, snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "For large projects, we collaborate with our long-term branding and marketing partners at Blinker.rocks A Message from Our Team As humanity sets its sights on flying to Mars, we're pushing the boundaries of what's possible."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "public_vcs_links": [],
+  "_prio": 14
+ },
+ {
+  "name": "Team Extension SA",
+  "domain": "teamextension.ro",
+  "website": "https://teamextension.ro/",
+  "seed_lead_score": "7",
+  "seed_reason": "Nearshoring/offshoring technology company providing dedicated developers across mobile, backend, frontend, AI, IoT and cybersecurity.",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot; .ro domains are absent from RDAP entirely, so no domain age exists — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "external_job_boards": [],
+   "meets_tier_a": false,
+   "has_careers_page": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "2008 · Standardul Team Extension® Angajează programatori dedicați în România Construim și gestionăm echipe de inginerie dedicate pentru companii Fortune 500 și afaceri în creștere rapidă care trebuie să se miște rapid.",
+    "Fortune 500 și start-up-urile aleg dezvoltatorii Team Extension pentru proiectele lor software de tip critic."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "public_vcs_links": [],
+  "_prio": 14
+ }
+]

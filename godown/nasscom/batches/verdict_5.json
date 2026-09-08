@@ -1,0 +1,272 @@
+[
+ {
+  "name": "zCon Solutions Pvt Ltd",
+  "domain": "zconsolutions.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "AI product engineering, SaaS builds and legacy modernization for enterprises",
+  "evidence": "We build intelligent SaaS platforms, modernize legacy estates, AI Product Engineering & SaaS"
+ },
+ {
+  "name": "ZingWorks LLP",
+  "domain": "zingworks.in",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "custom web, mobile and cloud application development for clients",
+  "evidence": "AI powered software development company; Mobile & Web Development, from MVPs to enterprise applications"
+ },
+ {
+  "name": "AB Infoways",
+  "domain": "abinfoways.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "service",
+  "founded_year": 2005,
+  "what_they_do": "IT infrastructure, networking, CCTV supplier with small website/software line",
+  "evidence": "Software Solutions & Website Development listed among networking, CCTV, data centre supplies"
+ },
+ {
+  "name": "Altius Strategic Consulting Private Limited",
+  "domain": "altius.us",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": 2019,
+  "what_they_do": "management advisory to private equity funds and portfolio companies",
+  "evidence": "premier global advisory firm to Private Equity funds; due diligence to value creation"
+ },
+ {
+  "name": "ASPECT Integrated IT Pvt Ltd",
+  "domain": "aspectiit.co.in",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "service",
+  "founded_year": 2009,
+  "what_they_do": "web/app development plus e-governance, HR outsourcing and compliance services",
+  "evidence": "Digital Marketing Agency & Software Development Company; Software Development & E-governance services"
+ },
+ {
+  "name": "Bookingjini Labs.Private Limited",
+  "domain": "bookingjini.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "own hotel SaaS: booking engine, channel manager, PMS, CRM",
+  "evidence": "Our Products Booking Engine Channel Manager PMS CRM; all-in-one platform for hotels"
+ },
+ {
+  "name": "Ceymox Technologies Private Limited",
+  "domain": "ceymox.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "Magento and Shopify ecommerce development, PWA and mobile commerce apps",
+  "evidence": "Magento Development Company; custom storefronts, Hyvä theme development, Magento mobile applications"
+ },
+ {
+  "name": "Credence Redefined Services Private Limited",
+  "domain": "justverified.in",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "employee background verification and field investigation services",
+  "evidence": "specialized in conducting Employee Background Verification and Investigations across India"
+ },
+ {
+  "name": "Dayforce India Private Limited",
+  "domain": "ceridian.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "own cloud HCM platform: HR, payroll, time, talent, analytics",
+  "evidence": "Dayforce - Global HCM Software; single AI-powered people platform, 7 million users"
+ },
+ {
+  "name": "DSekai Technologies LLP",
+  "domain": "dsekai.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "website and mobile app development, ERP/CRM/ecommerce builds",
+  "evidence": "web design and development, tailor made applications, ERPs, CRMs, e-commerce solutions"
+ },
+ {
+  "name": "Epsum Labs Private Limited",
+  "domain": "epsumlabs.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "own AI/IoT industrial platforms plus Industry 4.0 solution delivery",
+  "evidence": "three purpose-built platforms — epsumthings, fleetcue, filegenix — built on AI and IoT"
+ },
+ {
+  "name": "Gadgeon Smart Systems Pvt Ltd",
+  "domain": "gadgeon.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "product/embedded engineering, cloud and mobile app development, own IoT platforms",
+  "evidence": "Product Engineering and Enterprise Application Development; Native Cloud Apps, Mobile Apps, Firmware Engineering"
+ },
+ {
+  "name": "iLeaf Solutions Private Limited",
+  "domain": "ileafsolutions.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "offshore custom software, web and mobile product engineering for overseas clients",
+  "evidence": "Offshore Software Development Company; we specialize in product engineering, system architecture, integrations"
+ },
+ {
+  "name": "KRO Brandpeck Private Limited",
+  "domain": "thetechnovate.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "custom app and web development alongside digital marketing services",
+  "evidence": "Application development... Web Development: responsive website and web application development"
+ },
+ {
+  "name": "ManiWindTek",
+  "domain": "maniwind.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "builds SCADA systems and condition monitoring software for renewable plants",
+  "evidence": "SCADA Development Software Development; we design, deploy, and support SCADA systems"
+ },
+ {
+  "name": "Muvi Entertainment Private Limited",
+  "domain": "muvi.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "own OTT/video streaming SaaS platform, apps, DRM and monetization",
+  "evidence": "No-Code platform to build websites/apps like Netflix; Muvi streaming platform solutions"
+ },
+ {
+  "name": "NetAmbit ValueFirst Services Private Limited",
+  "domain": "netambit.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "sales process outsourcing, call centre and contract staffing services",
+  "evidence": "Managed Sales Process, Call Centre Services, Staffing Solutions; sales process outsourcing teams"
+ },
+ {
+  "name": "Oasys Tech Solutions Private Limited",
+  "domain": "oasystspl.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "mobile/web app, website and custom CRM development for government and corporates",
+  "evidence": "App Development... Website Development... Customized CRM: bespoke CRM solutions"
+ },
+ {
+  "name": "PHi Business Solutions Ltd",
+  "domain": "phi.co.in",
+  "relevant": false,
+  "confidence": "medium",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "data digitization, prepress, ePublishing, eLearning content and translation",
+  "evidence": "Data Digitization, PrePress, ePublishing, Content Creation, Translation; legacy data conversion services"
+ },
+ {
+  "name": "PromptTech Global Private Limited",
+  "domain": "prompttechsolutions.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "enterprise solutions bundling software, hardware, insurance and business support",
+  "evidence": "fusing Software, Hardware, Enterprise Insurance, and Business Support into a single framework"
+ },
+ {
+  "name": "Ranosys Technologies Private Limited",
+  "domain": "ranosys.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "ecommerce and product engineering builds on Salesforce, Adobe, Shopify platforms",
+  "evidence": "helping businesses drive eCommerce, digital transformation and product engineering; web and mobile apps"
+ },
+ {
+  "name": "SAG Infotech Pvt Ltd",
+  "domain": "saginfotech.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "own tax, GST, payroll and ROC filing software sold to CAs",
+  "evidence": "CA tax-friendly software development firm; Genius, Gen GST, Gen Payroll, Gen Complaw"
+ },
+ {
+  "name": "Shard Center for Innovation Private Limited",
+  "domain": "scilindia.org",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "STEM training courses in AI, robotics, drones and 3D printing",
+  "evidence": "our AI programs empower the participants; Admissions; AI, Robotics & Innovation Lab classes"
+ },
+ {
+  "name": "Sopra Banking Software Solutions India Private Limited",
+  "domain": "sbs-software.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "own core banking, lending and payments software products for banks",
+  "evidence": "Software for banks & lenders; SBS Digital Core, SBS Lending Suite, SBS Payments"
+ },
+ {
+  "name": "SunTec Business Solutions Pvt Ltd",
+  "domain": "suntecgroup.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "own pricing, billing and revenue management platform for banks",
+  "evidence": "our platform SunTec Xelerate empowers banks; Launches Enhanced Deal Management Product"
+ },
+ {
+  "name": "TechBrein Solutions Private Limited",
+  "domain": "techbrein.com",
+  "relevant": false,
+  "confidence": "medium",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "cloud consulting, managed cloud infrastructure and Linux server management",
+  "evidence": "Managed Service Provider, Cloud Consultant; Managed Cloud Services, Managed Linux Servers, CloudOps"
+ },
+ {
+  "name": "TestingXperts Private Limited",
+  "domain": "testingxperts.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "QA and quality engineering services plus own QXcel testing platform",
+  "evidence": "pure-play Quality Engineering companies; QXcel GenAI-Powered QE Platform; Building Future-Ready Digital Products"
+ }
+]

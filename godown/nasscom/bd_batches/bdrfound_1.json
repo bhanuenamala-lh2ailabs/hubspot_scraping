@@ -1,0 +1,288 @@
+[
+  {
+    "name": "KAZ Software Limited",
+    "domain": "kaz.com.bd",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Nascenia",
+    "domain": "nascenia.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Vivasoft Limited",
+    "domain": "vivasoftltd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Andgate Technologies",
+    "domain": "andgatetech.net",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Bangladesh Software Solution",
+    "domain": "bssoln.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "BJIT Group",
+    "domain": "bjitgroup.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "info@bjitgroup.com",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Cookietech LTD.",
+    "domain": "cookietechltd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "D-SAi",
+    "domain": "d-sai.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Datazo InfoTech",
+    "domain": "datazoinfotech.com.bd",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Devxhub Limited",
+    "domain": "devxhub.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Dynamic Solution Innovators Ltd. (DSi)",
+    "domain": "dsinnovators.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Enosis Solutions",
+    "domain": "enosisbd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Impala Intech Limited",
+    "domain": "impalaintech.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "ImplevistaBD",
+    "domain": "implevista.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "iXora Solution Ltd.",
+    "domain": "ixorasolution.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": [
+      {
+        "person": "Md. Ziaur Rahman",
+        "title": "CTO - iXora Solution Ltd.",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "MicroXen Technology",
+    "domain": "microxen.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Nagorik Technologies",
+    "domain": "nagorik.tech",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Ontik Technology",
+    "domain": "ontiktechnology.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Riseup Labs",
+    "domain": "riseuplabs.com",
+    "person": "Ershadul Hoque",
+    "title": "Founder & CEO",
+    "linkedin": "https://www.linkedin.com/in/ershadul-hoque/",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Ershadul Hoque Founder & CEO",
+    "others": [
+      {
+        "person": "Md. Rafiquzzaman",
+        "title": "Director, Product & Technology",
+        "linkedin": ""
+      },
+      {
+        "person": "Ariful Islam Shakil",
+        "title": "Director, Business Development",
+        "linkedin": ""
+      },
+      {
+        "person": "Enamul Hoque Ratul",
+        "title": "Head of Operations",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "SofGent",
+    "domain": "sofgent.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "Solyntra",
+    "domain": "solyntra.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  },
+  {
+    "name": "3DEVS IT LTD",
+    "domain": "3-devs.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "",
+    "others": []
+  }
+]

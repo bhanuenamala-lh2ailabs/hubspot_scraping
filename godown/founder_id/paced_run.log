@@ -1,0 +1,1099 @@
+/Users/bhanu/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+queue: 1073 companies | size=5 | pace=even (151.6s) | call_budget=570 (gated 513) | profile_budget=1461 (gated 1314)
+    [event] run_start: 1073 queued, size=5, pace=even
+    [event] recovery: first 200 after 402 — measured gap 5.26h
+  [1/1073] MadTom Lab                        2p  PASS
+  [2/1073] Avaantra Global                   0p  no decision-maker found
+  [3/1073] KM Soft                           0p  no decision-maker found
+  [4/1073] Coppermax Technologies            0p  no decision-maker found
+  [5/1073] Nxtbyts MVP Studio                0p  no decision-maker found
+  [6/1073] Techmakers                        5p  PASS
+  [7/1073] Harvee Technologies               1p  PASS
+  [8/1073] Aarti Web Technology              1p  PASS
+  [9/1073] Joolet                            0p  no decision-maker found
+  [10/1073] Sparkify Social                   3p  skip - no +91 mobile
+  [11/1073] ARPtech                           0p  no decision-maker found
+  [12/1073] Pinsout Innovation                1p  no decision-maker found
+  [13/1073] Bitsshadow LLP                    2p  PASS
+  [14/1073] CADFEM India Pvt. Ltd.            5p  skip - no +91 mobile
+  [15/1073] ThiriSoft Consultancy Services    1p  skip - no +91 mobile
+  [16/1073] Advent Global Solutions Ltd       1p  no decision-maker found
+  [17/1073] IBS Software Private Limited      2p  PASS
+  [18/1073] GRM Technologies Private Limited  2p  no decision-maker found
+  [19/1073] Metlife Global Operations Suppor  0p  no decision-maker found
+  [20/1073] Pioneer Design And Engineering P  5p  skip - no +91 mobile
+  [21/1073] Esri India Technologies Private   1p  no decision-maker found
+  [22/1073] PTC Circle IT Services Private L  3p  skip - no +91 mobile
+  [23/1073] I-Tech Lance Information Technol  0p  no decision-maker found
+  [24/1073] Artihcus Global Private Limited   0p  no decision-maker found
+  [25/1073] Tatras Data Services Private Lim  0p  no decision-maker found
+  [26/1073] Congruent Info-Tech Pvt Ltd       0p  no decision-maker found
+  [27/1073] Delta Technology & Management Se  5p  PASS
+  [28/1073] Erginous Technologies             5p  PASS
+  [29/1073] RCV Technologies                  5p  PASS
+  [30/1073] E-Merge Tech Global Services Pri  0p  no decision-maker found
+  [31/1073] Chip Web Technologies             3p  skip - no +91 mobile
+  [32/1073] Zectagon Technologies             2p  skip - no +91 mobile
+  [33/1073] ITTI Private Limited              4p  PASS
+  [34/1073] aQb Solutions Private Limited     0p  no decision-maker found
+  [35/1073] Transtrack Aeroservices Private   1p  no decision-maker found
+  [36/1073] RMgX Technologies                 4p  PASS
+  [37/1073] Blue Santos Technologies Private  1p  skip - no +91 mobile
+  [38/1073] Hinditron                         5p  PASS
+  [39/1073] Codezin Technology Solutions Pri  5p  PASS
+  [40/1073] Synaptic Technologies Pvt. Ltd.   4p  PASS
+  [41/1073] Pinnacle Human Resource Private   0p  no decision-maker found
+  [42/1073] BDO India Limited Liability Part  0p  no decision-maker found
+  [43/1073] EliteEvince Technologies          5p  no decision-maker found
+  [44/1073] RHOMBUS INFOTECH PVT LTD          0p  no decision-maker found
+  [45/1073] Orbit Infotech                    5p  skip - no +91 mobile
+  [46/1073] Network Redux India Private Limi  0p  no decision-maker found
+  [47/1073] Profusion Systems                 4p  no decision-maker found
+  [48/1073] iQor India Services Pvt Ltd       5p  no decision-maker found
+  [49/1073] AXISCADES Technologies Limited    5p  PASS
+  [50/1073] uSiS Technologies Private Limite  0p  no decision-maker found
+  [51/1073] Murata Vios Private Limited       0p  no decision-maker found
+  [52/1073] Renault Nissan Technology & Busi  5p  no decision-maker found
+  [53/1073] Softnotions Technologies Pvt Ltd  1p  no decision-maker found
+  [54/1073] Intelliob Technologies Pvt Ltd    0p  no decision-maker found
+  [55/1073] GUS Education India LLP           0p  no decision-maker found
+  [56/1073] Intellobots Technologies Private  0p  no decision-maker found
+  [57/1073] NAV Fund Services (India) Privat  1p  no decision-maker found
+  [58/1073] Electrodrive Powertrain Solution  5p  skip - no +91 mobile
+  [59/1073] Unimity Solutions Private Limite  5p  PASS
+  [60/1073] MYtech Consulting Services        2p  PASS
+  [61/1073] BitCoding Solutions Pvt Ltd       2p  skip - no +91 mobile
+  [62/1073] MitizTechnologies                 0p  no decision-maker found
+  [63/1073] Chella Software Pvt Ltd           2p  skip - no +91 mobile
+  [64/1073] Bizople Solutions Pvt. Ltd.       4p  PASS
+  [65/1073] Vara Technology Private Limited   2p  PASS
+  [66/1073] Genextwebs Technologies           2p  PASS
+  [67/1073] ASW Technologies Pvt. Ltd.        1p  skip - no +91 mobile
+  [68/1073] UTI Infrastructure Technology an  5p  PASS
+  [69/1073] Inspire Brands Global Innovation  0p  no decision-maker found
+  [70/1073] Linkfields Innovations Private L  0p  no decision-maker found
+  [71/1073] ThinkNEXT Technologies Private L  5p  PASS
+  [72/1073] ITSYS Solutions Pvt Ltd           0p  no decision-maker found
+  [73/1073] iSpace Software Solutions India   0p  no decision-maker found
+  [74/1073] Alisons Infomatics Pvt Ltd        5p  PASS
+  [75/1073] Athos technologies                1p  PASS
+  [76/1073] Kintu Designs Pvt. Ltd.           3p  PASS
+  [77/1073] Steg IT Solutions                 0p  no decision-maker found
+  [78/1073] Peoplefy InfoSolutions Private L  1p  no decision-maker found
+  [79/1073] Wrexim Infotech                   5p  PASS
+  [80/1073] Aagnia Technologies               5p  skip - no +91 mobile
+  [81/1073] Medtronic Minimed India Private   0p  no decision-maker found
+  [82/1073] Prismatic Softwares Private Limi  3p  skip - no +91 mobile
+  [83/1073] Garuda Aerospace Private Limited  5p  skip - no +91 mobile
+  [84/1073] Cognet HR Solutions Pvt Ltd       0p  no decision-maker found
+  [85/1073] Ilogitron Technologies Private L  1p  no decision-maker found
+  [86/1073] Akaal WebSoft Pvt. Ltd            1p  no decision-maker found
+  [87/1073] HyTech Professionals India Pvt L  1p  no decision-maker found
+  [88/1073] Lulu Tech Park Private Limited    0p  no decision-maker found
+  [89/1073] Litmus7 Systems Consulting Priva  0p  no decision-maker found
+  [90/1073] Techstar Software Devlopment Ind  0p  no decision-maker found
+  [91/1073] Amista Solutions India Private L  0p  no decision-maker found
+  [92/1073] Orbitsys Technologies Private Li  0p  no decision-maker found
+  [93/1073] MDG Information Services Private  0p  no decision-maker found
+  [94/1073] Zeal Education Society            5p  skip - no +91 mobile
+  [95/1073] Invisalign India LLP              1p  no decision-maker found
+  [96/1073] VFS Global Services Pvt Ltd       5p  PASS
+  [97/1073] Congruent Solutions Pvt Ltd       3p  PASS
+  [98/1073] Datavail Infotech Pvt Ltd         0p  no decision-maker found
+  [99/1073] Chubb Business Services India Pr  0p  no decision-maker found
+  [100/1073] Sasken Technologies Limited       5p  PASS
+  [101/1073] Sagent M&C India Private Limited  0p  no decision-maker found
+  [102/1073] Wefe Technology Private Limited   5p  PASS
+  [103/1073] Broadridge Financial Solutions (  5p  no decision-maker found
+  [104/1073] one.com India Private Limited     1p  no decision-maker found
+  [105/1073] DTCC Enterprise Services India P  0p  no decision-maker found
+  [106/1073] Caresoft Inc. India               0p  no decision-maker found
+  [107/1073] Embassy Office Parks Management   1p  no decision-maker found
+  [108/1073] PayPal India Private Limited      5p  no decision-maker found
+  [109/1073] MIH Internet India Private Limit  0p  no decision-maker found
+  [110/1073] Fifth Generation Technologies In  0p  no decision-maker found
+  [111/1073] SureSoft Systems Pvt Ltd          1p  no decision-maker found
+  [112/1073] Professional Softec Private Limi  5p  PASS
+  [113/1073] Avineon India Private Limited     2p  skip - no +91 mobile
+  [114/1073] Oremus Corporate Services Privat  5p  PASS
+  [115/1073] Volkswagen Group Digital Solutio  2p  no decision-maker found
+  [116/1073] Karma Management Global Consulti  2p  no decision-maker found
+  [117/1073] iTraitz IT Solutions Private Lim  0p  no decision-maker found
+  [118/1073] Adrenalin eSystems Ltd            5p  PASS
+  [119/1073] Sembridge Outsourcing Services P  0p  no decision-maker found
+  [120/1073] Tholons Knowledge Management Pvt  0p  no decision-maker found
+  [121/1073] Crimson Interactive Pvt Ltd       3p  no decision-maker found
+  [122/1073] Zoho Corporation Pvt Ltd          5p  skip - no +91 mobile
+  [123/1073] Kalpatharu Software Limited       3p  PASS
+  [124/1073] Lazer Ken IT Services India Pvt   5p  PASS
+  [125/1073] InMobi Technology Services Priva  2p  skip - no +91 mobile
+  [126/1073] Infotech Education Society        5p  PASS
+  [127/1073] Prevaj Consultants Private Limit  0p  no decision-maker found
+  [128/1073] Cinepolis India Private Limited   5p  no decision-maker found
+  [129/1073] 4i Apps Solutions Pvt Ltd         0p  no decision-maker found
+  [130/1073] Assurant Warranty Solutions (Ind  0p  no decision-maker found
+  [131/1073] Greytrix India Private Limited    2p  no decision-maker found
+  [132/1073] Relativity Management Solutions   5p  no decision-maker found
+  [133/1073] VISCO Information Technology Ser  0p  no decision-maker found
+  [134/1073] Asista Software Solutions Privat  1p  no decision-maker found
+  [135/1073] Zestwings Informatics Private Li  0p  no decision-maker found
+  [136/1073] Actualize Consulting Engineers (  1p  no decision-maker found
+  [137/1073] SBL Knowledge Services Private L  3p  no decision-maker found
+  [138/1073] Concord Technosoft Private Limit  1p  skip - no +91 mobile
+  [139/1073] ivinfotech                        3p  skip - no +91 mobile
+  [140/1073] Ashley Furniture India Private L  0p  no decision-maker found
+  [141/1073] Som Imaging Informatics Pvt Ltd   5p  PASS
+  [142/1073] Arithra Business Consulting Priv  1p  PASS
+  [143/1073] Ushta Te Consultancy Services LL  5p  PASS
+  [144/1073] Quant Art Market Solutions Priva  0p  no decision-maker found
+  [145/1073] Corient Business Solutions Priva  5p  no decision-maker found
+  [146/1073] Aptagrim Consulting Private Limi  0p  no decision-maker found
+  [147/1073] Innostrat Technologies Private L  0p  no decision-maker found
+  [148/1073] Betamonks Technology Factory Pri  2p  PASS
+  [149/1073] VM EDUlife Private Limited        1p  no decision-maker found
+  [150/1073] Strad Hosting & Development LLP   0p  no decision-maker found
+  [151/1073] Skybits Technologies Pvt Ltd      5p  PASS
+  [152/1073] A-Plus Tree Systems Private Limi  0p  no decision-maker found
+  [153/1073] ESF Labs Limited                  3p  skip - no +91 mobile
+  [154/1073] Digital Core Technologies Privat  0p  no decision-maker found
+  [155/1073] XfilesPro Labs Private Limited    0p  no decision-maker found
+  [156/1073] Whiz Consulting Private Limited   1p  no decision-maker found
+  [157/1073] Jupiter Orison Private Limited    1p  PASS
+  [158/1073] Cruzze Solutions LLP              5p  skip - no +91 mobile
+  [159/1073] Infocruise Solutions Private lim  0p  no decision-maker found
+  [160/1073] Logic Systems & Solutions         1p  skip - no +91 mobile
+  [161/1073] ESIGO Consulting Private Limited  0p  no decision-maker found
+  [162/1073] Handy Online Solutions Private L  5p  no decision-maker found
+  [163/1073] Cognativ India Private Limited    0p  no decision-maker found
+  [164/1073] Infomate 360 Solutions India Pri  2p  no decision-maker found
+  [165/1073] Avvanz India Private Limited      0p  no decision-maker found
+  [166/1073] Quintes Global Private Limited    5p  no decision-maker found
+  [167/1073] LoudCloud Systems Private Limite  0p  no decision-maker found
+  [168/1073] Aclire Information Services Priv  0p  no decision-maker found
+  [169/1073] Visibility Gurus                  5p  PASS
+  [170/1073] My Analysers                      0p  no decision-maker found
+  [171/1073] Raspberry Infosystems Private Li  0p  no decision-maker found
+  [172/1073] Kaizen Secure Voiz Private Limit  2p  PASS
+  [173/1073] PiZone Infotech Solution Private  0p  no decision-maker found
+  [174/1073] Web3Passion                       0p  no decision-maker found
+  [175/1073] ENEL X Services India Private Li  0p  no decision-maker found
+  [176/1073] Egnoto Technologies LLP           0p  no decision-maker found
+  [177/1073] Bridgen Tech Consulting LLP       0p  no decision-maker found
+  [178/1073] Scaleios Private Limited          2p  PASS
+  [179/1073] Negocio Technologies Private Lim  0p  no decision-maker found
+  [180/1073] Slash Software                    4p  skip - no +91 mobile
+  [181/1073] Arcitech                          4p  PASS
+  [182/1073] MyData Insights                   5p  PASS
+  [183/1073] Netforce Infotech                 5p  no decision-maker found
+  [184/1073] LBM Solutions                     5p  PASS
+  [185/1073] W2X Labs                          1p  skip - no +91 mobile
+  [186/1073] Navyug.ai                         0p  no decision-maker found
+  [187/1073] Nivedita infosystem               0p  no decision-maker found
+  [188/1073] ITS Data-Solutions Pvt Ltd        5p  PASS
+  [189/1073] Pruthatech Technologies           0p  no decision-maker found
+  [190/1073] Unicorn Soft Labs Private Limite  0p  no decision-maker found
+  [191/1073] WEB3CREATIONS                     2p  skip - no +91 mobile
+  [192/1073] Goognu                            5p  PASS
+  [193/1073] Phoeniixx Designs Pvt Ltd         0p  no decision-maker found
+  [194/1073] Goldenmace IT Solutions           5p  PASS
+  [195/1073] Softhub Technologies              4p  skip - no +91 mobile
+  [196/1073] Webkathir software solutions pvt  0p  no decision-maker found
+  [197/1073] CrossAce Digi World Private Limi  3p  skip - no +91 mobile
+  [198/1073] SoftQuake Systems Pvt. Ltd.       2p  skip - no +91 mobile
+  [199/1073] AVGI Solutions                    3p  skip - no +91 mobile
+  [200/1073] Web Soft Valley                   3p  PASS
+  [201/1073] twoiq LLP                         1p  no decision-maker found
+  [202/1073] Rococo Consultant Pvt. Ltd        4p  PASS
+  [203/1073] Uniqtech Solutions                4p  skip - no +91 mobile
+  [204/1073] Gyan Host Technologies Private L  0p  no decision-maker found
+  [205/1073] Purchase Commerce                 0p  no decision-maker found
+  [206/1073] Logiclegends                      0p  no decision-maker found
+  [207/1073] TekCetra                          0p  no decision-maker found
+  [208/1073] Popular Digital AI                2p  PASS
+  [209/1073] Flamingo BPO Technology Solution  5p  PASS
+  [210/1073] PairBytes                         3p  PASS
+  [211/1073] Hyreo Technology Solutions Priva  0p  no decision-maker found
+  [212/1073] Hitachi Vantara Software Service  0p  no decision-maker found
+  [213/1073] WiztekIT Solutions Private Limit  0p  no decision-maker found
+  [214/1073] Classic Network and Computers     2p  PASS
+  [215/1073] Xbattery Energy Private Limited   0p  no decision-maker found
+  [216/1073] Pennywise Solutions Pvt Ltd       5p  PASS
+  [217/1073] Freedom BTD Private Limited       0p  no decision-maker found
+  [218/1073] DigiVend Technologies             5p  PASS
+  [219/1073] NRConsulting Services Private Li  0p  no decision-maker found
+  [220/1073] Epiq Systems India Private Limit  0p  no decision-maker found
+  [221/1073] Kellogg Brown & Root Engineering  1p  no decision-maker found
+  [222/1073] Synycs Enterprises Private Limit  5p  no decision-maker found
+  [223/1073] JSbot                             0p  no decision-maker found
+  [224/1073] Sate Gaming                       0p  no decision-maker found
+  [225/1073] RealtyDigi                        0p  no decision-maker found
+  [226/1073] Kautech Services Private Limited  1p  skip - no +91 mobile
+  [227/1073] Qloron Pvt Ltd                    5p  PASS
+  [228/1073] Variant Spark                     3p  PASS
+  [229/1073] Black Kite Technologies           4p  PASS
+  [230/1073] Panacea                           5p  PASS
+  [231/1073] A-Two Cloud                       2p  skip - no +91 mobile
+  [232/1073] Codeflash Infotech                3p  skip - no +91 mobile
+  [233/1073] Cannyfore Technology Solutions P  1p  PASS
+  [234/1073] Axess Technology                  4p  skip - no +91 mobile
+  [235/1073] Benori KPO Private Limited        0p  no decision-maker found
+  [236/1073] Seven Mentor & Training Private   5p  no decision-maker found
+  [237/1073] Amazon Web Services India Privat  5p  PASS
+  [238/1073] Dhandhania Infotech Private Limi  0p  no decision-maker found
+  [239/1073] Omninos solutions                 5p  PASS
+  [240/1073] ImmersiveData.AI                  2p  PASS
+  [241/1073] Webshot Digital Pvt. Ltd.         1p  no decision-maker found
+  [242/1073] Altumind AI                       0p  no decision-maker found
+  [243/1073] Cloud Software Solution           5p  PASS
+  [244/1073] BrainADZ Marketing                0p  no decision-maker found
+  [245/1073] Ecarter Technologies Pvt Ltd      0p  no decision-maker found
+  [246/1073] Nibble Software Technologies      5p  PASS
+  [247/1073] OnPoint Insights                  3p  no decision-maker found
+  [248/1073] WebAmplifi                        0p  no decision-maker found
+  [249/1073] Opseazy                           5p  skip - no +91 mobile
+  [250/1073] Envision Enterprise Solutions Lt  5p  PASS
+  [251/1073] Vixplor Analytics Private Limite  0p  no decision-maker found
+  [252/1073] Gray Matrix Solutions Pvt Ltd     0p  no decision-maker found
+  [253/1073] TechRover Solutions               5p  PASS
+  [254/1073] Eqaim Technology & Services Pvt.  0p  no decision-maker found
+  [255/1073] eHash                             2p  skip - no +91 mobile
+  [256/1073] Digitide Solutions Limited        5p  no decision-maker found
+  [257/1073] VFact Services Private Limited    2p  no decision-maker found
+  [258/1073] AATRAL                            5p  PASS
+  [259/1073] SmartShift Logistics Solutions P  3p  no decision-maker found
+  [260/1073] Nestack technologies Pvt Ltd      0p  no decision-maker found
+  [261/1073] FindErnest                        5p  PASS
+  [262/1073] C&K Management Limited            5p  skip - no +91 mobile
+  [263/1073] Easy Design Systems Private Limi  1p  PASS
+  [264/1073] Technopark Technology Business I  1p  no decision-maker found
+  [265/1073] IKN Chase Check Services Private  3p  no decision-maker found
+  [266/1073] Appworx IT Solutions Private Lim  1p  no decision-maker found
+  [267/1073] Tekdi Technologies Private Limit  1p  skip - no +91 mobile
+  [268/1073] Spy Verification Services         1p  PASS
+  [269/1073] Sisipi Technologies Private Limi  0p  no decision-maker found
+  [270/1073] Backwater Analytics Private Limi  0p  no decision-maker found
+  [271/1073] Viacon Marketing & Technologies   5p  PASS
+  [272/1073] Cosmonet Solutions Pvt. Ltd.      2p  no decision-maker found
+  [273/1073] Techconfer Technologies Pvt ltd   5p  no decision-maker found
+  [274/1073] iShore Software Solutions         2p  skip - no +91 mobile
+  [275/1073] NEC Corporation India             5p  PASS
+  [276/1073] ZingWorks LLP                     5p  skip - no +91 mobile
+  [277/1073] Prilities Technologies Private L  1p  no decision-maker found
+  [278/1073] Technomatz IT Solutions           5p  skip - no +91 mobile
+  [279/1073] Seaquid Technology India Private  2p  no decision-maker found
+  [280/1073] ETERNITY GLOBAL TECHNOLONGY SOLU  0p  no decision-maker found
+  [281/1073] Hepmade                           1p  PASS
+  [282/1073] WebservX                          1p  PASS
+  [283/1073] Uptitude Cloud Private Limited    0p  no decision-maker found
+  [284/1073] SVG SoftTech                      0p  no decision-maker found
+  [285/1073] Hudbil Private Limited            1p  skip - no +91 mobile
+  [286/1073] Computer LAB                      5p  PASS
+  [287/1073] KG Invicta Services Private Limi  3p  no decision-maker found
+  [288/1073] Codegres                          3p  PASS
+  [289/1073] Widen Digital Service             0p  no decision-maker found
+  [290/1073] Bilight Solutions LLP             0p  no decision-maker found
+  [291/1073] Xander Consulting and Advisory P  0p  no decision-maker found
+  [292/1073] Gossiph IT Solution               1p  no decision-maker found
+  [293/1073] Zylen Solutions                   1p  skip - no +91 mobile
+  [294/1073] Miracify IT Company               0p  no decision-maker found
+  [295/1073] Vitsinco Global Consulting Priva  0p  no decision-maker found
+  [296/1073] Jamtion                           5p  PASS
+  [297/1073] AV Technosys                      5p  PASS
+  [298/1073] DIGISCULPT TECHNOLOGIES PVT. LTD  5p  no decision-maker found
+  [299/1073] Webtrix Solutions Pvt. Ltd.       1p  PASS
+  [300/1073] Triosoft Technologies Pvt Ltd     1p  skip - no +91 mobile
+  [301/1073] EDCI                              1p  skip - no +91 mobile
+  [302/1073] TechStaunch                       3p  no decision-maker found
+  [303/1073] Minutus Computing Private Limite  0p  no decision-maker found
+  [304/1073] Binary Waves Solutions Private L  0p  no decision-maker found
+  [305/1073] Evision Software Solutions Pvt.   0p  no decision-maker found
+  [306/1073] Minutes Technology                4p  skip - no +91 mobile
+  [307/1073] UCFER                             3p  PASS
+  [308/1073] DSekai Technologies LLP           0p  no decision-maker found
+  [309/1073] Maren Solutions Private Limited   0p  no decision-maker found
+  [310/1073] Softprime Consulting Private Lim  0p  no decision-maker found
+  [311/1073] Code Crafters                     5p  skip - no +91 mobile
+  [312/1073] Applix Solutions Private Limited  0p  no decision-maker found
+  [313/1073] SixJuly                           2p  no decision-maker found
+  [314/1073] Endeavour ERP Solutions India Pr  0p  no decision-maker found
+  [315/1073] Fulambri Text Com Private Limite  1p  PASS
+  [316/1073] Progressive Video Private Limite  0p  no decision-maker found
+  [317/1073] Interropac Private Limited        0p  no decision-maker found
+  [318/1073] Virtuous Screening Private Limit  0p  no decision-maker found
+  [319/1073] GERP Technologies Private Limite  0p  no decision-maker found
+  [320/1073] ShubhiTech (OPC) Private Limited  2p  no decision-maker found
+  [321/1073] Euphonious Innovation Private Li  0p  no decision-maker found
+  [322/1073] Vachi Ventures LLP                0p  no decision-maker found
+  [323/1073] Syskey Softlabs Private Limited   0p  no decision-maker found
+  [324/1073] Whistlemind Technologies LLP      0p  no decision-maker found
+  [325/1073] Secure Source Surveillance Pvt L  0p  no decision-maker found
+  [326/1073] Inzuscene Technologies Private L  0p  no decision-maker found
+  [327/1073] Cognyfy Concept Private Limited   0p  no decision-maker found
+  [328/1073] Triton Tech Labs Private Limited  0p  no decision-maker found
+  [329/1073] Provalidate Services Private Lim  0p  no decision-maker found
+  [330/1073] Credessentials Services Private   0p  no decision-maker found
+  [331/1073] TechSheel Private Limited         0p  no decision-maker found
+  [332/1073] Speed Engineering Solutions Priv  0p  no decision-maker found
+  [333/1073] WorkBuds                          5p  skip - no +91 mobile
+  [334/1073] Cognida Private Limited           0p  no decision-maker found
+  [335/1073] Digizra Technologies Private Lim  0p  no decision-maker found
+  [336/1073] Botman Networks Private Limited   1p  PASS
+  [337/1073] A Plus B Infrastructure Private   0p  no decision-maker found
+  [338/1073] MatrixOne Tech Solutions          1p  PASS
+  [339/1073] Adamas Tech Consulting Private L  1p  PASS
+  [340/1073] Dadu Verification Technologies P  0p  no decision-maker found
+  [341/1073] Caligne Private Limited           5p  skip - no +91 mobile
+  [342/1073] Talent Shine India Private Limit  0p  no decision-maker found
+  [343/1073] Xponential Systems Private Limit  0p  no decision-maker found
+  [344/1073] PRT Software Solutions LLP        0p  no decision-maker found
+  [345/1073] Vinmaya Consultancy Services Pri  0p  no decision-maker found
+  [346/1073] PSPTech Hub Services Private Lim  0p  no decision-maker found
+  [347/1073] Avante Spaces Limited             2p  PASS
+  [348/1073] Cubiksoft Technologies Private L  0p  no decision-maker found
+  [349/1073] SixOFour Solutions Private Limit  0p  no decision-maker found
+  [350/1073] Codeguardian Tech International   0p  no decision-maker found
+  [351/1073] Cerify Auditing Solutions Privat  0p  no decision-maker found
+  [352/1073] One Oath Educational Research an  0p  no decision-maker found
+  [353/1073] Cypros Technologies Private Limi  0p  no decision-maker found
+  [354/1073] Go Brilliant Technologies Privat  5p  PASS
+  [355/1073] GK Cloud Solutions Private Limit  0p  no decision-maker found
+  [356/1073] Works Applications (India) Priva  0p  no decision-maker found
+  [357/1073] Techmeridian Solutions Private L  0p  no decision-maker found
+  [358/1073] Robotics For Sure                 1p  no decision-maker found
+  [359/1073] Mig Arch                          2p  skip - no +91 mobile
+  [360/1073] Indsys Holdings                   2p  skip - no +91 mobile
+  [361/1073] Inferwise LLP                     0p  no decision-maker found
+  [362/1073] Cliniv Health Tech                2p  skip - no +91 mobile
+  [363/1073] Sysquo Innovation Pvt Ltd         0p  no decision-maker found
+  [364/1073] Elrising Technology Services Pvt  2p  skip - no +91 mobile
+  [365/1073] Jointworks Solutions LLP          3p  PASS
+  [366/1073] elint AI                          2p  PASS
+  [367/1073] PeopleApps Technologies           5p  PASS
+  [368/1073] Lead Squre Tech Pvt. Ltd.         0p  no decision-maker found
+  [369/1073] UnireTech Private limited         0p  no decision-maker found
+  [370/1073] Infostork Technolabs              2p  PASS
+  [371/1073] Aspira Global Technologies        1p  PASS
+  [372/1073] Trudosys                          1p  skip - no +91 mobile
+  [373/1073] Spinach Experience Design and De  0p  no decision-maker found
+  [374/1073] BeBetterr Technologies            0p  no decision-maker found
+  [375/1073] Technolize                        0p  no decision-maker found
+  [376/1073] PulseHub Enterprise Pvt. Ltd.     0p  no decision-maker found
+  [377/1073] Azusys Technologies Private Limi  2p  PASS
+  [378/1073] OpenUI                            3p  PASS
+  [379/1073] Unizoy                            4p  skip - no +91 mobile
+  [380/1073] RISING IT SOLUTIONS               2p  PASS
+  [381/1073] DesignDemonz                      2p  PASS
+  [382/1073] Beta Byte Technologies            3p  skip - no +91 mobile
+  [383/1073] ELITIST SOFTWARE SOLUTIONS LLP    3p  PASS
+  [384/1073] M2N IT TECHNOLOGY                 0p  no decision-maker found
+  [385/1073] MunchTechnoZ                      3p  skip - no +91 mobile
+  [386/1073] TechWalking                       0p  no decision-maker found
+  [387/1073] Appsync Labs                      0p  no decision-maker found
+  [388/1073] Vedx Solutions Pvt ltd            0p  no decision-maker found
+  [389/1073] Indegene Limited                  5p  no decision-maker found
+  [390/1073] Net Access India Limited          5p  skip - no +91 mobile
+  [391/1073] Consilio India Private Limited    0p  no decision-maker found
+  [392/1073] Mass Mutual Global Business Serv  0p  no decision-maker found
+  [393/1073] Wiz Digital Services Private Lim  0p  no decision-maker found
+  [394/1073] Acuver Consulting Private Limite  0p  no decision-maker found
+  [395/1073] Verity Global Solutions Private   0p  no decision-maker found
+  [396/1073] Vodafone India Services Private   5p  no decision-maker found
+  [397/1073] Dezdok                            2p  PASS
+  [398/1073] Seasmartz Technologies LLP        0p  no decision-maker found
+  [399/1073] Betadrix Tech                     1p  skip - no +91 mobile
+  [400/1073] Networked Energy Services Techno  0p  no decision-maker found
+  [401/1073] Cybexel Technologies Private Lim  0p  no decision-maker found
+  [402/1073] Vihatech Software solutions pvt   0p  no decision-maker found
+  [403/1073] Top tech software solutions       1p  no decision-maker found
+  [404/1073] Digiflux Technologies Private Li  2p  skip - no +91 mobile
+  [405/1073] Nipralo Technologies              3p  PASS
+  [406/1073] INDIBUS Softwares Solutions Pvt   5p  PASS
+  [407/1073] RADD India                        2p  skip - no +91 mobile
+  [408/1073] codezens soft solutions           0p  no decision-maker found
+  [409/1073] Sunday Labs                       2p  no decision-maker found
+  [410/1073] Bluelupin Technologies Pvt. Ltd.  2p  PASS
+  [411/1073] Logic ERP Solutions Private Limi  0p  no decision-maker found
+  [412/1073] Codious Technologies              0p  no decision-maker found
+  [413/1073] epikDoc AI Technologies Private   0p  no decision-maker found
+  [414/1073] GrindX Technologies               0p  no decision-maker found
+  [415/1073] WebMobi 360                       2p  no decision-maker found
+  [416/1073] Techventrix                       3p  skip - no +91 mobile
+  [417/1073] Viral Tactix                      1p  no decision-maker found
+  [418/1073] Treeventus Technology Private Li  1p  skip - no +91 mobile
+  [419/1073] trAIlique technologies            0p  no decision-maker found
+  [420/1073] UNIHOX                            1p  no decision-maker found
+  [421/1073] Rootbix Infotech Private Limited  0p  no decision-maker found
+  [422/1073] Tangle Design                     0p  no decision-maker found
+  [423/1073] ERP Peers                         3p  PASS
+  [424/1073] Argus Infotech                    4p  skip - no +91 mobile
+  [425/1073] BLACK CHERIE TECHNOLOGIES         0p  no decision-maker found
+  [426/1073] Hostmud                           1p  PASS
+  [427/1073] Aascent InfoSolutions             4p  PASS
+  [428/1073] Kodegurus                         1p  no decision-maker found
+  [429/1073] BLACKBUGS TECHNOLOGIES LLP        0p  no decision-maker found
+  [430/1073] ABB Global Industries & Services  5p  no decision-maker found
+  [431/1073] kash info solutions pvt Ltd.      5p  PASS
+  [432/1073] TQ Network Private Limited        0p  no decision-maker found
+  [433/1073] Micromitti Real Estate Ventures   0p  no decision-maker found
+  [434/1073] SFCPrisms Solutions Private Limi  0p  no decision-maker found
+  [435/1073] AagatiServe Private Limited       0p  no decision-maker found
+  [436/1073] Octagona India Private Limited    5p  PASS
+  [437/1073] Avalon Labs Private Limited       0p  no decision-maker found
+  [438/1073] Shyro Health Private Limited      5p  PASS
+  [439/1073] Walkover Technologies Private Li  0p  no decision-maker found
+  [440/1073] Finacct Technologies Private Lim  0p  no decision-maker found
+  [441/1073] SquareRoots.AI Innovation Labs P  0p  no decision-maker found
+  [442/1073] SSM SecAI Technology and R&D Ser  1p  PASS
+  [443/1073] Hexagon Capability Hub India Pri  0p  no decision-maker found
+  [444/1073] Aupertz Services Private Limited  0p  no decision-maker found
+  [445/1073] Operforce Technologies Private L  0p  no decision-maker found
+  [446/1073] NimbleLogik Private Limited       0p  no decision-maker found
+  [447/1073] Netsourcing (A division of Abund  0p  no decision-maker found
+  [448/1073] ThinkSurf Media LLP               1p  no decision-maker found
+  [449/1073] Zettawise Consulting Private Lim  0p  no decision-maker found
+  [450/1073] V-CHQ Business services India Pr  0p  no decision-maker found
+  [451/1073] Namma Office Private Limited      0p  no decision-maker found
+  [452/1073] Rasacode Technologies Private Li  2p  PASS
+  [453/1073] Jupito Deeptech Private Limited   0p  no decision-maker found
+  [454/1073] Cyberion Software Solutions Priv  0p  no decision-maker found
+  [455/1073] Spherical-Lab Innovation Private  0p  no decision-maker found
+  [456/1073] ManiWindTek                       0p  no decision-maker found
+  [457/1073] Advaya Networks Private Limited   1p  PASS
+  [458/1073] Agno Talents Private Limited      0p  no decision-maker found
+  [459/1073] GoAvocado AI Private Limited      0p  no decision-maker found
+  [460/1073] Upway Skills Private Limited      0p  no decision-maker found
+  [461/1073] Netflix Entertainment Services I  0p  no decision-maker found
+  [462/1073] A-Factor Private Limited          0p  no decision-maker found
+  [463/1073] Almamate Info Tech Pvt Ltd        0p  no decision-maker found
+  [464/1073] Crayonsys IT Services Private Li  0p  no decision-maker found
+  [465/1073] Deepsense Digital Solutions Priv  0p  no decision-maker found
+  [466/1073] Digitalis Technologies Private L  0p  no decision-maker found
+  [467/1073] Frontierwox Tech Private Limited  3p  PASS
+  [468/1073] InnoFissionAI (Assistorix System  0p  no decision-maker found
+  [469/1073] Lean Impeccable Technologies Pri  0p  no decision-maker found
+  [470/1073] Modern Ballistic Solutions Priva  0p  no decision-maker found
+  [471/1073] Nlite Informatics and Staffing P  2p  no decision-maker found
+  [472/1073] Transcosmos India Private Limite  0p  no decision-maker found
+  [473/1073] Versuche Technologies Pvt Ltd     2p  skip - no +91 mobile
+  [474/1073] Hopnet Communications LLP         3p  skip - no +91 mobile
+  [475/1073] Appmena                           0p  no decision-maker found
+  [476/1073] Cocoon Studios                    0p  no decision-maker found
+  [477/1073] Brewed @ The Lab Technologies Pv  0p  no decision-maker found
+  [478/1073] ERachana Technologies             1p  skip - no +91 mobile
+  [479/1073] TeleTalkApps                      0p  no decision-maker found
+  [480/1073] Hays Business Solutions Private   3p  PASS
+  [481/1073] MOAR Advisory Services            1p  PASS
+  [482/1073] Health Watch Tele Diagnostics Pv  0p  no decision-maker found
+  [483/1073] Technogen India Private Limited   0p  no decision-maker found
+  [484/1073] SERP Axis                         0p  no decision-maker found
+  [485/1073] NextGenya Solutions               0p  no decision-maker found
+  [486/1073] CodeQlik IT Solutions             0p  no decision-maker found
+  [487/1073] UpGlocal                          1p  no decision-maker found
+  [488/1073] Lionsverify Tech Private Limited  2p  no decision-maker found
+  [489/1073] Web Convoy                        0p  no decision-maker found
+  [490/1073] KrafNext                          4p  skip - no +91 mobile
+  [491/1073] SNB Innovations                   5p  PASS
+  [492/1073] eDelta Technologies               1p  skip - no +91 mobile
+  [493/1073] Techsopi Global Pvt Ltd           5p  PASS
+  [494/1073] OpuloTech                         2p  PASS
+  [495/1073] Acelan Technologies Private Limi  0p  no decision-maker found
+  [496/1073] Q-Dat IT Solutions                5p  PASS
+  [497/1073] Varishtha Infotech Services Priv  0p  no decision-maker found
+    GATE[calls]: 513/513 calls, 836/1314 profiles in trailing 24.0h — waiting 86.2 min for a slot (until 18:50:36)
+    GATE[calls]: 513/513 calls, 836/1314 profiles in trailing 24.0h — waiting 71.2 min for a slot (until 18:50:36)
+    GATE[calls]: 513/513 calls, 836/1314 profiles in trailing 24.0h — waiting 56.2 min for a slot (until 18:50:36)
+    GATE[calls]: 513/513 calls, 836/1314 profiles in trailing 24.0h — waiting 41.2 min for a slot (until 18:50:36)
+    GATE[calls]: 513/513 calls, 836/1314 profiles in trailing 24.0h — waiting 26.2 min for a slot (until 18:50:36)
+    GATE[calls]: 513/513 calls, 836/1314 profiles in trailing 24.0h — waiting 11.2 min for a slot (until 18:50:36)
+  [498/1073] Prognos Labs                      2p  PASS
+  [499/1073] Velura Labs                       1p  skip - no +91 mobile
+  [500/1073] Synforce Technologies             0p  no decision-maker found
+  [501/1073] NTeos                             1p  PASS
+  [502/1073] Reintenspark Technology Private   2p  PASS
+    GATE[calls]: 513/513 calls, 827/1314 profiles in trailing 24.0h — waiting 3.7 min for a slot (until 19:07:02)
+  [503/1073] RootRace Software Solutions Pvt   0p  no decision-maker found
+    GATE[calls]: 513/513 calls, 826/1314 profiles in trailing 24.0h — waiting 6.5 min for a slot (until 19:16:03)
+  [504/1073] Microsoft Corporation (I) Pvt Lt  3p  no decision-maker found
+  [505/1073] Zobyt Technologies                0p  no decision-maker found
+    GATE[calls]: 513/513 calls, 825/1314 profiles in trailing 24.0h — waiting 0.0 min for a slot (until 19:21:08)
+  [506/1073] Heights ItSolutions               0p  no decision-maker found
+    GATE[calls]: 513/513 calls, 820/1314 profiles in trailing 24.0h — waiting 0.1 min for a slot (until 19:23:45)
+  [507/1073] Geegatechnologies                 0p  no decision-maker found
+    GATE[calls]: 513/513 calls, 819/1314 profiles in trailing 24.0h — waiting 0.0 min for a slot (until 19:26:18)
+  [508/1073] Mind Merge Soft Tech Private Lim  2p  PASS
+  [509/1073] Tech Kodainya                     1p  no decision-maker found
+  [510/1073] CODER DEVISE                      0p  no decision-maker found
+  [511/1073] Ciphershield Technologies Privat  1p  PASS
+  [512/1073] gatewAI Integrated Services Priv  0p  no decision-maker found
+  [513/1073] ALTECiSyS Pvt. Ltd.               0p  no decision-maker found
+    GATE[calls]: 513/513 calls, 821/1314 profiles in trailing 24.0h — waiting 34.6 min for a slot (until 20:16:12)
+    GATE[calls]: 513/513 calls, 821/1314 profiles in trailing 24.0h — waiting 19.6 min for a slot (until 20:16:12)
+    GATE[calls]: 513/513 calls, 821/1314 profiles in trailing 24.0h — waiting 4.6 min for a slot (until 20:16:12)
+  [514/1073] oneclickitsolution                0p  no decision-maker found
+    GATE[calls]: 513/513 calls, 819/1314 profiles in trailing 24.0h — waiting 0.0 min for a slot (until 20:18:45)
+  [515/1073] venusgeo                          5p  PASS
+  [516/1073] TRIVAND TECHNOLOGIES PRIVATE LIM  0p  no decision-maker found
+  [517/1073] Pixdynamics                       5p  PASS
+  [518/1073] krify                             5p  PASS
+  [519/1073] princetonits                      0p  no decision-maker found
+  [520/1073] Focaloid Technologies Private Li  5p  PASS
+  [521/1073] VENDEEP TECHNOIDENTITY SOLUTIONS  0p  no decision-maker found
+  [522/1073] TransGraph Consulting Private Li  0p  no decision-maker found
+  [523/1073] Travancore Analytics Pvt. Ltd.    2p  skip - no +91 mobile
+  [524/1073] kiwiqa                            5p  no decision-maker found
+  [525/1073] triforce-inc                      3p  PASS
+  [526/1073] Trenser Technology Solutions (P)  5p  PASS
+  [527/1073] KAB Educational Services Pvt. Lt  0p  no decision-maker found
+  [528/1073] teleysia                          5p  PASS
+  [529/1073] iSQUARE Business Solution Privat  0p  no decision-maker found
+  [530/1073] ALTOS Technologies                5p  no decision-maker found
+  [531/1073] c-metric                          5p  no decision-maker found
+  [532/1073] disruptivetechsolutions           0p  no decision-maker found
+  [533/1073] Revyrie Global                    5p  skip - no +91 mobile
+  [534/1073] Terrific Minds                    5p  PASS
+  [535/1073] phycaresolutionsinc               0p  no decision-maker found
+  [536/1073] Teknokraaft Info Systems Pvt. Lt  2p  no decision-maker found
+  [537/1073] KLIVOLKS PRIVATE LIMITED          3p  PASS
+  [538/1073] Innvectra Info Solutions Pvt. Lt  2p  skip - no +91 mobile
+  [539/1073] Kony India Pvt. Ltd.              3p  skip - no +91 mobile
+  [540/1073] pmcretail                         0p  no decision-maker found
+  [541/1073] thecolourmoon                     0p  no decision-maker found
+  [542/1073] Triniti Advanced Software Labs P  2p  PASS
+  [543/1073] vdnetworks                        0p  no decision-maker found
+  [544/1073] IBEE Hosting                      1p  no decision-maker found
+  [545/1073] tusker                            5p  PASS
+  [546/1073] SnippetCommerce360 Pvt Ltd        0p  no decision-maker found
+  [547/1073] Cloudium Software Pvt. Ltd.       0p  no decision-maker found
+  [548/1073] Braddock Infotech Pvt. Ltd.       0p  no decision-maker found
+  [549/1073] Carol Solutions                   3p  skip - no +91 mobile
+  [550/1073] 42Square Technologies             4p  PASS
+  [551/1073] MADHEES TECHNO CONSULTING PRIVAT  0p  no decision-maker found
+  [552/1073] Techno Kreeyaa Pvt Ltd            0p  no decision-maker found
+  [553/1073] sweken                            5p  skip - no +91 mobile
+  [554/1073] augmentedtechlabs                 0p  no decision-maker found
+  [555/1073] glidemtech                        0p  no decision-maker found
+  [556/1073] Triassic Solutions Private Limit  1p  PASS
+  [557/1073] Simplogics Solutions Pvt. Ltd.    3p  skip - no +91 mobile
+  [558/1073] MAGANTI IT SOLUTIONS PRIVATE LIM  3p  skip - no +91 mobile
+  [559/1073] Tetrasoft India Pvt Ltd           1p  PASS
+  [560/1073] Innovature Software Labs (P) Ltd  0p  no decision-maker found
+  [561/1073] CCS Technologies (P) Ltd          5p  skip - no +91 mobile
+  [562/1073] Pinmicro India Pvt.Ltd.           0p  no decision-maker found
+  [563/1073] Neork Technologies                2p  PASS
+  [564/1073] Vinga Software Solutions Private  0p  no decision-maker found
+  [565/1073] Apps Team Technologies Pvt.Ltd.   0p  no decision-maker found
+  [566/1073] Advenser Engineering Services Pr  1p  PASS
+  [567/1073] Embien Technologies India Privat  0p  no decision-maker found
+  [568/1073] Silverbloom Technologies          1p  PASS
+  [569/1073] Dot Com Infoway                   5p  no decision-maker found
+  [570/1073] Yatnam Technologies               5p  skip - no +91 mobile
+  [571/1073] Zinbay India Pvt.Ltd.             0p  no decision-maker found
+  [572/1073] Abilytics Consulting Pvt Ltd      0p  no decision-maker found
+  [573/1073] Codegnan IT solutions             2p  PASS
+  [574/1073] matrixcomsec                      2p  skip - no +91 mobile
+  [575/1073] TGH Software Solutions Private L  0p  no decision-maker found
+  [576/1073] Intellect Design Arena            5p  PASS
+  [577/1073] Silicon Labs                      5p  skip - no +91 mobile
+  [578/1073] cognisive                         5p  skip - no +91 mobile
+  [579/1073] Mitsogo                           5p  skip - no +91 mobile
+  [580/1073] REQOLENT QUALITY LABS PVT LTD     0p  no decision-maker found
+  [581/1073] Verisk Analytics India Private L  0p  no decision-maker found
+  [582/1073] Technaureus Info Solutions Priva  1p  no decision-maker found
+  [583/1073] emugtech                          0p  no decision-maker found
+  [584/1073] etechgs                           1p  skip - no +91 mobile
+  [585/1073] primusglobal                      0p  no decision-maker found
+  [586/1073] Smart IMS India Pvt Ltd           0p  no decision-maker found
+  [587/1073] Kagool Data Pvt. Ltd.             0p  no decision-maker found
+  [588/1073] devrabbit                         3p  PASS
+  [589/1073] Tredence Inc                      5p  PASS
+  [590/1073] novelpatent                       0p  no decision-maker found
+  [591/1073] HYBCLOUD TECHNOLOGIES (CLOUD CON  0p  no decision-maker found
+  [592/1073] MARLABS SOFTWARE                  5p  no decision-maker found
+  [593/1073] Milestone Technologies            5p  PASS
+  [594/1073] Amplitude Software Systems Pvt L  1p  no decision-maker found
+  [595/1073] Classic Technologies & Business   0p  no decision-maker found
+  [596/1073] Airpay Financial Technologies Pv  0p  no decision-maker found
+  [597/1073] Loginsoft Pvt. Ltd.               2p  no decision-maker found
+  [598/1073] Experion Technologies India Pvt.  1p  PASS
+  [599/1073] czargroup                         4p  skip - no +91 mobile
+  [600/1073] IPIX Tech Services Pvt Ltd        0p  no decision-maker found
+  [601/1073] cardlytics                        1p  PASS
+  [602/1073] FIX FLYER INFORMATION TECHNOLOGI  1p  no decision-maker found
+  [603/1073] azilen                            5p  PASS
+  [604/1073] miraclesoft                       3p  no decision-maker found
+  [605/1073] Saven Nova Technologies Pvt Ltd   0p  no decision-maker found
+  [606/1073] Tryzens India Pvt Ltd             0p  no decision-maker found
+  [607/1073] Model N India Software Pvt. Ltd.  1p  PASS
+  [608/1073] Visual IT Solutions Private Limi  0p  no decision-maker found
+  [609/1073] Toonz Animation India Pvt. Ltd.   5p  PASS
+  [610/1073] CONVERGEONE INDIA PRIVATE LIMITE  0p  no decision-maker found
+  [611/1073] CrossShores Infotech              2p  PASS
+  [612/1073] silvertouch                       5p  PASS
+  [613/1073] indianservers                     1p  skip - no +91 mobile
+  [614/1073] Techstas Info Solutions           1p  no decision-maker found
+  [615/1073] drcsystems                        0p  no decision-maker found
+  [616/1073] promptdairytech                   1p  no decision-maker found
+  [617/1073] IDENTIS TECH SOLUTIONS PVT LTD    2p  skip - no +91 mobile
+  [618/1073] GEMINI Software Solutions Pvt. L  5p  PASS
+  [619/1073] hiringhood                        5p  PASS
+  [620/1073] shreetripada                      0p  no decision-maker found
+  [621/1073] HFS Research India Private Limit  0p  no decision-maker found
+  [622/1073] Mobatia Technology Pvt. Ltd.      0p  no decision-maker found
+  [623/1073] Diagnal Technologies Private Lim  0p  no decision-maker found
+  [624/1073] Infoview Systems Incorporated     0p  no decision-maker found
+  [625/1073] SignitivesIT Solutions Private L  0p  no decision-maker found
+  [626/1073] N LABS AI PRIVATE LIMITED         5p  skip - no +91 mobile
+  [627/1073] Deepija Telecom Pvt. Ltd.         5p  PASS
+  [628/1073] Bourntec Solutions Pvt Ltd        1p  no decision-maker found
+  [629/1073] Informatica Business Solutions P  2p  PASS
+  [630/1073] Zestybeanz Technologies           2p  skip - no +91 mobile
+  [631/1073] Applexus Technologies Pvt. Ltd.   1p  no decision-maker found
+  [632/1073] earthsyscom                       0p  no decision-maker found
+  [633/1073] Kennedys Kognitive Computing Pri  0p  no decision-maker found
+  [634/1073] konze                             5p  skip - no +91 mobile
+  [635/1073] nyros                             5p  PASS
+  [636/1073] The Magazine Manager              0p  no decision-maker found
+  [637/1073] Speridian Technologies Pvt Ltd    3p  skip - no +91 mobile
+  [638/1073] Larch Technologies                1p  no decision-maker found
+  [639/1073] AMIYON SOLUTIONS PVT LTD.         0p  no decision-maker found
+  [640/1073] JTSi Technologies India Private   1p  skip - no +91 mobile
+  [641/1073] Infintor Solutions LLP            0p  no decision-maker found
+  [642/1073] Seeroo IT Solutions               5p  PASS
+  [643/1073] Uplogic Technologies PVT LTD      5p  PASS
+  [644/1073] Dynactionize India Pvt Ltd        0p  no decision-maker found
+  [645/1073] Qubeslab Technologies Private Li  1p  PASS
+  [646/1073] MindLabs Consultancy Services LL  1p  skip - no +91 mobile
+  [647/1073] Aceware Fintech Services Pvt Ltd  1p  no decision-maker found
+  [648/1073] evincedev                         0p  no decision-maker found
+  [649/1073] ManVision Technologies Pvt Ltd    0p  no decision-maker found
+  [650/1073] QRC ASSURANCE AND SOLUTIONS PRIV  1p  no decision-maker found
+  [651/1073] SATRA Services and Solutions Pri  5p  no decision-maker found
+  [652/1073] Wattlecorp Cybersecurity Labs     5p  PASS
+  [653/1073] symbiosystech                     0p  no decision-maker found
+  [654/1073] Livares Technologies Pvt. Ltd.    4p  skip - no +91 mobile
+  [655/1073] CDK Global (India) Pvt. Ltd.      3p  PASS
+  [656/1073] nordsinew                         0p  no decision-maker found
+  [657/1073] Infor (India) Private Limited     4p  PASS
+  [658/1073] lotuswireless                     2p  no decision-maker found
+  [659/1073] Vtrio Solutions Private Limited   0p  no decision-maker found
+  [660/1073] fin-soft                          5p  PASS
+  [661/1073] Netisoft Consultants Pvt. Ltd.    0p  no decision-maker found
+  [662/1073] Convey Tech Labs India Private L  0p  no decision-maker found
+  [663/1073] TOSIL Systems Private Limited     2p  PASS
+  [664/1073] Inteq Software LLP                5p  PASS
+  [665/1073] Fin Infocom Pvt. Ltd.             5p  no decision-maker found
+  [666/1073] Mirox Cyber Security & Technolog  1p  PASS
+  [667/1073] Orisys                            5p  skip - no +91 mobile
+  [668/1073] excelglobalsolution               0p  no decision-maker found
+  [669/1073] EJGates Global Private Limited    2p  skip - no +91 mobile
+  [670/1073] i-tax                             5p  PASS
+  [671/1073] Verbat Technologies (India) Pvt.  0p  no decision-maker found
+  [672/1073] quantsystemsindia                 0p  no decision-maker found
+  [673/1073] NetElixir Digital Marketing Solu  0p  no decision-maker found
+  [674/1073] IBIL SOLUTIONS PRIVATE LIMITED    0p  no decision-maker found
+  [675/1073] FOCUS IT TECH SYSTEMS PRIVATE LI  0p  no decision-maker found
+  [676/1073] Eliscription Pvt Ltd              5p  no decision-maker found
+  [677/1073] precistat                         5p  no decision-maker found
+  [678/1073] COGNITIVZEN TECHNOLOGIES PRIVATE  1p  no decision-maker found
+  [679/1073] Vinvish Technologies Pvt. Ltd.    5p  PASS
+  [680/1073] IMPAQTIVE TECHNOLOGIES INDIA PRI  0p  no decision-maker found
+  [681/1073] IMPAXIVE SOLUTIONS PRIVATE LIMIT  0p  no decision-maker found
+  [682/1073] sunraisesolutions                 0p  no decision-maker found
+  [683/1073] iplanme                           0p  no decision-maker found
+  [684/1073] sevenhillsehealth                 0p  no decision-maker found
+  [685/1073] 21cssindia                        0p  no decision-maker found
+  [686/1073] accuratepms                       0p  no decision-maker found
+  [687/1073] ADAPTIVE CYBER LABS (ACL)         0p  no decision-maker found
+  [688/1073] Ahuja Engineering Services Pvt L  4p  skip - no +91 mobile
+  [689/1073] Aufait Technologies               5p  skip - no +91 mobile
+  [690/1073] Azinova Technologies Pvt. Ltd.    0p  no decision-maker found
+  [691/1073] Crazydes - UX UI Design, CX, Pro  0p  no decision-maker found
+  [692/1073] EI Dupont Services Center India   0p  no decision-maker found
+  [693/1073] Fischer Systems India Pvt. Ltd.   3p  PASS
+  [694/1073] fractal31                         5p  no decision-maker found
+  [695/1073] Futuremug(REVELADO INNOVATIONS P  0p  no decision-maker found
+  [696/1073] iHits Technologies Pvt. Ltd.      4p  PASS
+  [697/1073] incufiers                         0p  no decision-maker found
+  [698/1073] indiesemic                        4p  PASS
+  [699/1073] infinityradar                     0p  no decision-maker found
+  [700/1073] Informatics India                 5p  PASS
+  [701/1073] Infinite Open Source Solutions L  5p  PASS
+  [702/1073] manuhtech                         0p  no decision-maker found
+  [703/1073] Palnar Transmedia Pvt. Ltd.       3p  PASS
+  [704/1073] Quinoid Business Solutions Priva  0p  no decision-maker found
+  [705/1073] REVOLUTION ENTERTAINMENT SERVICE  0p  no decision-maker found
+  [706/1073] TECHMAVEN IT SOLUTIONS PRIVATE L  0p  no decision-maker found
+  [707/1073] ThoughtLine Technologies Pvt. Lt  1p  no decision-maker found
+  [708/1073] NTT Data Global Delivery Service  5p  PASS
+  [709/1073] Wings Infonet Private Limited     5p  PASS
+  [710/1073] AV Zero Touch Pvt. Ltd            0p  no decision-maker found
+  [711/1073] InerG Software Innovations Pvt.L  0p  no decision-maker found
+  [712/1073] Tech Aventure                     5p  PASS
+  [713/1073] Navicater Solutions India Pvt Lt  0p  no decision-maker found
+  [714/1073] MindLabs Systems Pvt Ltd          4p  PASS
+  [715/1073] adesso India Private Ltd          0p  no decision-maker found
+  [716/1073] 2Hats Logic Solutions Pvt. Ltd.   0p  no decision-maker found
+  [717/1073] Zapare Technologies Private Limi  1p  no decision-maker found
+  [718/1073] GIS AXIOM Pvt. Ltd.               1p  PASS
+  [719/1073] Origent Technologies              0p  no decision-maker found
+  [720/1073] Prevalent AI                      5p  PASS
+  [721/1073] BS Teknology Private Limited      4p  PASS
+  [722/1073] Pagematics India Pvt. Ltd.        0p  no decision-maker found
+  [723/1073] Distinct Infotech Solutions       5p  skip - no +91 mobile
+  [724/1073] Gizmeon Technologies Private Lim  0p  no decision-maker found
+  [725/1073] iCanD ( VIRUDHUNAGAR SOFTWARE AN  0p  no decision-maker found
+  [726/1073] Zamorins Solutions (P) Ltd        0p  no decision-maker found
+  [727/1073] Yavun Technologies                1p  skip - no +91 mobile
+  [728/1073] Zlendo Technologies Private Limi  0p  no decision-maker found
+  [729/1073] GALTech Technologies Pvt Ltd      4p  no decision-maker found
+  [730/1073] Aarbee Structures Pvt.Ltd         0p  no decision-maker found
+  [731/1073] Admaren Tech Pvt Ltd              0p  no decision-maker found
+  [732/1073] Techware Lab Pvt.Ltd.             0p  no decision-maker found
+  [733/1073] CHISQUARE LABS                    5p  no decision-maker found
+  [734/1073] AVENTUS INFORMATICS               5p  PASS
+  [735/1073] Glitz IT Solutions                1p  PASS
+  [736/1073] Pumex InfoTech Pvt Ltd            5p  PASS
+  [737/1073] Obidos Technologies (P) Ltd       1p  skip - no +91 mobile
+  [738/1073] Tecnostac Systems Private Limite  0p  no decision-maker found
+  [739/1073] Niche Techies                     3p  skip - no +91 mobile
+  [740/1073] RUBY SEVEN STUDIOS                4p  skip - no +91 mobile
+  [741/1073] Datum Innovation                  1p  PASS
+  [742/1073] Amla Consultancy Pvt Ltd          1p  no decision-maker found
+  [743/1073] Appadore Private Limited          2p  no decision-maker found
+  [744/1073] BroadTech IT Solutions Pvt Ltd    5p  skip - no +91 mobile
+  [745/1073] CodeDesign Technologies Pvt Ltd   2p  PASS
+  [746/1073] BJ Corps Technologies (OPC) Priv  0p  no decision-maker found
+  [747/1073] CareRevenue Technology Pvt. Ltd.  0p  no decision-maker found
+  [748/1073] CEREIV Advisory LLP               0p  no decision-maker found
+  [749/1073] Crossgen Technologies             5p  skip - no +91 mobile
+  [750/1073] Aalpha Net Solutions              0p  no decision-maker found
+  [751/1073] Analytics Aura Private Limited    0p  no decision-maker found
+  [752/1073] Avgira Technologies India Privat  3p  skip - no +91 mobile
+  [753/1073] Balanetra Technologies            1p  PASS
+  [754/1073] Dot In Technologies               1p  PASS
+  [755/1073] EMATRIX SOFTWARE PRIVATE LIMITED  0p  no decision-maker found
+  [756/1073] Eqsoft Business Solutions Pvt Lt  2p  no decision-maker found
+  [757/1073] Intbrains Private Limited         0p  no decision-maker found
+  [758/1073] iTianz (Software Solution)        0p  no decision-maker found
+  [759/1073] Voyager IT Solutions Pvt Ltd      5p  no decision-maker found
+  [760/1073] Mantra IT Solutions               5p  PASS
+  [761/1073] Maxxion Systems Private Limited   0p  no decision-maker found
+  [762/1073] Meditechnos Solutions Private li  0p  no decision-maker found
+  [763/1073] Onesoft Technologies LLP          0p  no decision-maker found
+  [764/1073] Ravenan Technologies              1p  PASS
+  [765/1073] RedBlack Technologies Private Li  0p  no decision-maker found
+  [766/1073] Retyn Business Solution Pvt. Ltd  0p  no decision-maker found
+  [767/1073] Rextech Studios                   1p  PASS
+  [768/1073] SCMAI Digital                     2p  PASS
+  [769/1073] Techgentsia Software Technologie  4p  PASS
+  [770/1073] Enfin Technologies India Pvt. Lt  3p  PASS
+  [771/1073] Vuchi Media Pvt. Ltd.             0p  no decision-maker found
+  [772/1073] ARS Traffic and Transport Techno  1p  no decision-maker found
+  [773/1073] tamminainfotech                   0p  no decision-maker found
+  [774/1073] Plural Technology Private Limite  2p  PASS
+  [775/1073] hvinfotech                        0p  no decision-maker found
+  [776/1073] SimplyBiz Private Limited         1p  PASS
+  [777/1073] cheggindia                        1p  no decision-maker found
+  [778/1073] datapro                           5p  skip - no +91 mobile
+  [779/1073] Cybrosys Techno Solutions Pvt. L  3p  no decision-maker found
+  [780/1073] odoo                              5p  PASS
+  [781/1073] tek7services                      0p  no decision-maker found
+  [782/1073] Tranzmeo                          5p  PASS
+  [783/1073] SupportHub360                     5p  no decision-maker found
+  [784/1073] Techmango IT Solutions            0p  no decision-maker found
+  [785/1073] Inspite Technologies Pvt.Ltd      0p  no decision-maker found
+  [786/1073] Technowave ID Systems PVT.LTD.    0p  no decision-maker found
+  [787/1073] Techmango Consulting Services Pr  0p  no decision-maker found
+  [788/1073] Violet Frames                     1p  PASS
+  [789/1073] Pearlsoft Technologies LLP        0p  no decision-maker found
+  [790/1073] Dee and Lee Services              0p  no decision-maker found
+  [791/1073] Vaisesika Consulting Private Lim  1p  skip - no +91 mobile
+  [792/1073] Windfall Productions Pvt.Ltd.     0p  no decision-maker found
+  [793/1073] Testing Mavens Software Pvt Ltd   0p  no decision-maker found
+  [794/1073] Zealogics IT Solutions            1p  no decision-maker found
+  [795/1073] Hackett Group (India) Ltd.        0p  no decision-maker found
+  [796/1073] wns                               5p  PASS
+  [797/1073] Agora Labs India Pvt Ltd          0p  no decision-maker found
+  [798/1073] ALB Technologies Pvt Ltd          0p  no decision-maker found
+  [799/1073] Pinetech IT Solutions P Ltd       0p  no decision-maker found
+  [800/1073] Wazeefa1 Technologies Pvt. Ltd.   0p  no decision-maker found
+  [801/1073] Mattel Global Business Services   0p  no decision-maker found
+  [802/1073] FEUJI SOFTWARE SOLUTIONS PVT LTD  0p  no decision-maker found
+  [803/1073] turiyasoftech                     0p  no decision-maker found
+  [804/1073] infinite                          5p  PASS
+  [805/1073] nsiqinfotech                      0p  no decision-maker found
+  [806/1073] Aveva Software India Pvt. Ltd.    0p  no decision-maker found
+  [807/1073] nuv                               5p  PASS
+  [808/1073] Amdrodd Technologies Private Lim  0p  no decision-maker found
+  [809/1073] ProLedger Consulting LLP          5p  skip - no +91 mobile
+  [810/1073] Micron Technology Operations Ind  0p  no decision-maker found
+  [811/1073] intelliflo                        5p  PASS
+  [812/1073] Helius Computech India Private L  1p  no decision-maker found
+  [813/1073] Bosch Global Software Technologi  4p  PASS
+  [814/1073] imegcorp                          0p  no decision-maker found
+  [815/1073] TALENT JOIN CRAFTERS HR PRIVATE   0p  no decision-maker found
+  [816/1073] Koncepts Lab                      5p  PASS
+  [817/1073] stridelysolutions                 0p  no decision-maker found
+  [818/1073] serpentcs                         0p  no decision-maker found
+  [819/1073] TM INPUTS AND SERVICES PRIVATE L  0p  no decision-maker found
+  [820/1073] INMAR TECHNOLOGIES PRIVATE LIMIT  0p  no decision-maker found
+  [821/1073] LMonk Educational and Training S  2p  PASS
+  [822/1073] xtratrust                         5p  PASS
+  [823/1073] SMEC Automation Pvt Ltd           3p  PASS
+  [824/1073] Linnk Outsource Solutions India   0p  no decision-maker found
+  [825/1073] Orestes Technologies Pvt Ltd      5p  PASS
+  [826/1073] Aspire Systems Digital Private L  0p  no decision-maker found
+  [827/1073] Applied Payments Technology Pvt   0p  no decision-maker found
+  [828/1073] BIMEX Engineers                   4p  PASS
+  [829/1073] Apro IT Solutions Pvt Ltd         2p  skip - no +91 mobile
+  [830/1073] Incede Technologies Pvt Ltd       0p  no decision-maker found
+  [831/1073] skynettechnologies                0p  no decision-maker found
+  [832/1073] paruluniversity                   0p  no decision-maker found
+  [833/1073] Rimini Street India Operations P  0p  no decision-maker found
+  [834/1073] Digitally Empowered Contact Cent  0p  no decision-maker found
+  [835/1073] Promantra Synergy Solutions Ltd.  5p  no decision-maker found
+  [836/1073] SHIPCONSOLE Private Limited       0p  no decision-maker found
+  [837/1073] valuemomentum                     5p  PASS
+  [838/1073] RamInfo Limited                   5p  PASS
+  [839/1073] Oorwin Labs India PVT LTD.        1p  no decision-maker found
+  [840/1073] Transcend Street India Private L  0p  no decision-maker found
+  [841/1073] ARCH GLOBAL SERVICES (INDIA) PRI  0p  no decision-maker found
+  [842/1073] glssystems                        2p  PASS
+  [843/1073] eLogicTech Solutions India Priva  0p  no decision-maker found
+  [844/1073] ProArch IT Solutions Pvt Ltd      3p  skip - no +91 mobile
+  [845/1073] Ospyn Technologies Pvt. Ltd.      5p  PASS
+  [846/1073] Guidehouse India Private Limited  2p  no decision-maker found
+  [847/1073] Argano Software Pvt. Ltd.         0p  no decision-maker found
+  [848/1073] PEAKIN LEARNING TECHNOLOGIES PVT  1p  PASS
+  [849/1073] Anion Health Care Services        0p  no decision-maker found
+  [850/1073] 9Commerce Technologies LLP        0p  no decision-maker found
+  [851/1073] Mastech Digital Private Limited   0p  no decision-maker found
+  [852/1073] STEADFAST BUSINESS CONSULTING LL  4p  PASS
+  [853/1073] Blackbaud Solutions India Privat  0p  no decision-maker found
+  [854/1073] Serole Info Technologies India P  2p  skip - no +91 mobile
+  [855/1073] qxglobalgroup                     0p  no decision-maker found
+  [856/1073] Motivity Labs Private Limited     1p  no decision-maker found
+  [857/1073] Techversant Infotech Pvt. Ltd.    1p  PASS
+  [858/1073] Noon Technologies                 3p  PASS
+  [859/1073] edz                               5p  PASS
+  [860/1073] bookandhost                       0p  no decision-maker found
+  [861/1073] ganeshhousing                     0p  no decision-maker found
+  [862/1073] Softland India Limited            5p  PASS
+  [863/1073] sandcupstudio                     0p  no decision-maker found
+  [864/1073] Exceloid Soft Systems Private Li  0p  no decision-maker found
+  [865/1073] dilytics                          5p  skip - no +91 mobile
+  [866/1073] Computershare Business Support S  0p  no decision-maker found
+  [867/1073] Moschip Technologies Limited      3p  no decision-maker found
+  [868/1073] Zaggle Prepaid Ocean Services Pv  5p  PASS
+  [869/1073] TTEC Digital Innovation Studio    0p  no decision-maker found
+  [870/1073] PACT SOFTWARE SERVICES PRIVATE L  0p  no decision-maker found
+  [871/1073] ease                              5p  PASS
+  [872/1073] CADVision Engineers Pvt Ltd       1p  no decision-maker found
+  [873/1073] ethosindia                        0p  no decision-maker found
+  [874/1073] OSI Digital                       5p  PASS
+  [875/1073] Lex Nimble Solutions Ltd.         1p  no decision-maker found
+  [876/1073] Emblix Solutions                  5p  PASS
+  [877/1073] Cadeploy Engineering Pvt Ltd      5p  skip - no +91 mobile
+  [878/1073] FINT SOLUTIONS PRIVATE LIMITED    1p  no decision-maker found
+  [879/1073] myvi                              1p  no decision-maker found
+  [880/1073] Zoondia Software Pvt. Ltd.        4p  skip - no +91 mobile
+  [881/1073] Deccan AI Automation Private Lim  0p  no decision-maker found
+  [882/1073] Plume Design India Private Limit  0p  no decision-maker found
+  [883/1073] Husys Consulting Limited          3p  no decision-maker found
+  [884/1073] hrfirst                           5p  no decision-maker found
+  [885/1073] PROITCON SOLUTIONS LLP            0p  no decision-maker found
+  [886/1073] ODC APTS ISO Certifications Serv  0p  no decision-maker found
+  [887/1073] reveation                         5p  skip - no +91 mobile
+  [888/1073] tej9                              0p  no decision-maker found
+  [889/1073] virtualheight                     0p  no decision-maker found
+  [890/1073] Times World Media & Technology S  0p  no decision-maker found
+  [891/1073] Lera Technologies Pvt. Ltd.       1p  no decision-maker found
+  [892/1073] Targetorate Consulting LLP        1p  no decision-maker found
+  [893/1073] sesatsolutions                    0p  no decision-maker found
+  [894/1073] juhnu                             1p  skip - no +91 mobile
+  [895/1073] MA IT Solution Pvt. Ltd.          0p  no decision-maker found
+  [896/1073] mvgrce                            0p  no decision-maker found
+  [897/1073] synchrony                         5p  PASS
+  [898/1073] ICE Data Services India Pvt. Ltd  1p  no decision-maker found
+  [899/1073] vectramind                        4p  PASS
+  [900/1073] visionempowertrust                0p  no decision-maker found
+  [901/1073] Greenworld International Enterpr  0p  no decision-maker found
+  [902/1073] VVDN Technologies Pvt Ltd         5p  no decision-maker found
+  [903/1073] MarketBytes WebWorks Private Lim  0p  no decision-maker found
+  [904/1073] Focal ME Design Solutions Pvt Lt  0p  no decision-maker found
+  [905/1073] Tech Gazebo Solutions Private Li  0p  no decision-maker found
+  [906/1073] TouchWorld Technology             5p  no decision-maker found
+  [907/1073] Zellis HR India Pvt.Ltd.          0p  no decision-maker found
+  [908/1073] Regent Global Services (India) P  0p  no decision-maker found
+  [909/1073] Extravelmoney Technosol Private   0p  no decision-maker found
+  [910/1073] Exponential Digital Solutions Pv  0p  no decision-maker found
+  [911/1073] DSS Private Limited               5p  PASS
+  [912/1073] Kakapo Systems India Private Lim  0p  no decision-maker found
+  [913/1073] Wink Technologies                 0p  no decision-maker found
+  [914/1073] Pueblo Shades Pvt.Ltd             0p  no decision-maker found
+  [915/1073] Jachoos Technologies Private Lim  0p  no decision-maker found
+  [916/1073] ThoughtMinds System Pvt Ltd       0p  no decision-maker found
+  [917/1073] LINXAS IT CONSULTING PRIVATE LIM  0p  no decision-maker found
+  [918/1073] Techpullers Technology Solutions  0p  no decision-maker found
+  [919/1073] MERP Systems Private Limited      2p  skip - no +91 mobile
+  [920/1073] Opshore Talent Solutions Pvt.Ltd  0p  no decision-maker found
+  [921/1073] EPI-USE India Pvt.Ltd.            0p  no decision-maker found
+  [922/1073] Ynot Infosolutions                2p  PASS
+  [923/1073] KnowBe4 India Private Limited     0p  no decision-maker found
+  [924/1073] Woxro                             3p  PASS
+  [925/1073] Roberts Design Services           0p  no decision-maker found
+  [926/1073] Mantle Solutions Private Limited  1p  no decision-maker found
+  [927/1073] Voxtron Solutions LLP             0p  no decision-maker found
+  [928/1073] Cavli Wireless                    5p  PASS
+  [929/1073] Ayata Commerce Tech Solutions Pv  0p  no decision-maker found
+  [930/1073] Beth Soft Technologies India Pri  3p  PASS
+  [931/1073] CodeNext Technologies Pvt. Ltd.   4p  PASS
+  [932/1073] Accelray Technologies Pvt Ltd     2p  skip - no +91 mobile
+  [933/1073] Cascade Revenue Management Pvt.   3p  no decision-maker found
+  [934/1073] Bhooshan's Junior                 0p  no decision-maker found
+  [935/1073] ContactPoint 360                  5p  PASS
+  [936/1073] EQS WEB TECHNOLOGIES PRIVATE LIM  0p  no decision-maker found
+  [937/1073] Waybeo Technology Solutions Pvt.  1p  no decision-maker found
+  [938/1073] clovetech                         0p  no decision-maker found
+  [939/1073] Global Outlook Pvt. Ltd.          2p  no decision-maker found
+  [940/1073] Planful Software India Private L  0p  no decision-maker found
+  [941/1073] Vertafore India Pvt Ltd           0p  no decision-maker found
+  [942/1073] Founding Minds Software Pvt. Ltd  1p  no decision-maker found
+  [943/1073] Auropro Soft Systems Private Lim  0p  no decision-maker found
+  [944/1073] itechops                          5p  skip - no +91 mobile
+  [945/1073] atomgeo                           5p  skip - no +91 mobile
+  [946/1073] S2Tech.Com India Pvt. Ltd.        0p  no decision-maker found
+  [947/1073] BrandFell Technologies PVT LTD    0p  no decision-maker found
+  [948/1073] APPEN AI INDIA PRIVATE LIMITED    0p  no decision-maker found
+  [949/1073] vsoft                             5p  PASS
+  [950/1073] Acheron Software Consultancy Pvt  3p  PASS
+  [951/1073] Externetworks India Pvt. Ltd.     0p  no decision-maker found
+  [952/1073] Alokin Software Pvt. Ltd.         3p  skip - no +91 mobile
+  [953/1073] CATALYCA                          5p  PASS
+  [954/1073] ORGANO ECO HABITATS PRIVATE LIMI  0p  no decision-maker found
+  [955/1073] microhard                         5p  PASS
+  [956/1073] Zyxware Technologies Pvt. Ltd.    1p  no decision-maker found
+  [957/1073] DISPATCHTRACK INDIA PVT LTD       0p  no decision-maker found
+  [958/1073] Learnpedia Edutech Pvt. Ltd.      5p  no decision-maker found
+  [959/1073] IdeaGCS Pvt Ltd                   0p  no decision-maker found
+  [960/1073] State Street Corporate Services   1p  no decision-maker found
+  [961/1073] Xcubated Business Solutions Pvt.  0p  no decision-maker found
+  [962/1073] Technocuz Software Solutions Pvt  0p  no decision-maker found
+  [963/1073] MAVEN FACILITY MANAGEMENT SERVIC  0p  no decision-maker found
+  [964/1073] Unisontech Services India Pvt Lt  0p  no decision-maker found
+  [965/1073] Daiviksoft Technologies Private   0p  no decision-maker found
+  [966/1073] Colruyt It Consultancy India Pvt  5p  no decision-maker found
+  [967/1073] Innoneur IT Ventures Private Lim  0p  no decision-maker found
+  [968/1073] People Prime Worldwide Private L  2p  no decision-maker found
+  [969/1073] SBase Technologies                5p  PASS
+  [970/1073] Algoleap Technologies Private Li  5p  PASS
+  [971/1073] Syntrio Technologies              2p  PASS
+  [972/1073] FAYA Innovations Pvt. Ltd.        0p  no decision-maker found
+  [973/1073] SCIENTIFIC VISION PRIVATE LIMITE  2p  PASS
+  [974/1073] ZERO PIXELS TECHNOLOGIES PRIVATE  0p  no decision-maker found
+  [975/1073] Alamy Images India Pvt. Ltd.      0p  no decision-maker found
+  [976/1073] codingsastra                      0p  no decision-maker found
+  [977/1073] mylastech                         0p  no decision-maker found
+  [978/1073] AEONX TECHNOLOGY SOLUTIONS PRIVA  0p  no decision-maker found
+  [979/1073] technosoftsolutions               0p  no decision-maker found
+  [980/1073] Beagle Security                   0p  no decision-maker found
+  [981/1073] Exacore IT Solutions Pvt Ltd      0p  no decision-maker found
+  [982/1073] jkssofttech                       0p  no decision-maker found
+  [983/1073] Bcdc cloud centers Pvt ltd        0p  no decision-maker found
+  [984/1073] Callaway Digital Technologies Pv  0p  no decision-maker found
+  [985/1073] CoolMinds Technologies Pvt. Ltd.  0p  no decision-maker found
+  [986/1073] MCDONALDS CAPABILITY CENTER (I)   0p  no decision-maker found
+  [987/1073] INFOPEOPLE GLOBAL                 0p  no decision-maker found
+  [988/1073] Digital Equity                    0p  no decision-maker found
+  [989/1073] motadata                          0p  no decision-maker found
+  [990/1073] E-Team Informatica Pvt. Ltd.      0p  no decision-maker found
+  [991/1073] Finakon Technologies Pvt Ltd      0p  no decision-maker found
+  [992/1073] CPZ TECH Private Limited          0p  no decision-maker found
+  [993/1073] IDEALABS FUTURETECH VENTURES      0p  no decision-maker found
+  [994/1073] techbium                          0p  no decision-maker found
+  [995/1073] Revalsys Technologies India Priv  0p  no decision-maker found
+  [996/1073] fedserv                           0p  no decision-maker found
+  [997/1073] garudaengineering                 0p  no decision-maker found
+  [998/1073] PHOENIX INFRATECH (INDIA) PRIVAT  0p  no decision-maker found
+  [999/1073] CONCEPTNXT TECHNOLOGIES LLP       0p  no decision-maker found
+  [1000/1073] seeddatasystems                   0p  no decision-maker found
+  [1001/1073] Jiva Internet Solutions Pvt. Ltd  0p  no decision-maker found
+  [1002/1073] Fortuler Business Solutions Priv  0p  no decision-maker found
+  [1003/1073] Grid Engineering Services Pvt. L  0p  no decision-maker found
+  [1004/1073] Millennium Infologic              5p  PASS
+  [1005/1073] DEVORKS SOLUTIONS PVT LTD         2p  no decision-maker found
+  [1006/1073] RSGP Consulting Private Limited   0p  no decision-maker found
+  [1007/1073] MANOMAY CONSULTANCY SERVICES IND  0p  no decision-maker found
+  [1008/1073] indigenius                        5p  skip - no +91 mobile
+  [1009/1073] TRIBHUJA TECHNOLOGIES PRIVATE LI  0p  no decision-maker found
+  [1010/1073] anyemi                            2p  PASS
+  [1011/1073] Ontash India Technologies Pvt Lt  0p  no decision-maker found
+  [1012/1073] XRG Consulting Pvt Ltd            5p  PASS
+  [1013/1073] Infospica Consultancy Services L  0p  no decision-maker found
+  [1014/1073] sgtechsolutions                   0p  no decision-maker found
+  [1015/1073] claaps                            3p  skip - no +91 mobile
+  [1016/1073] honeylabs                         0p  no decision-maker found
+  [1017/1073] Assuretech Business Solutions Pv  2p  skip - no +91 mobile
+  [1018/1073] NSSK Corporate Advisors Pvt Ltd   1p  no decision-maker found
+  [1019/1073] Expeed Software Private Limited   0p  no decision-maker found
+  [1020/1073] KOTT SOFTWARE PRIVATE LIMITED     0p  no decision-maker found
+  [1021/1073] Unilaw Global Private Limited     0p  no decision-maker found
+  [1022/1073] Ormeon IT Consulting Pvt Ltd      5p  PASS
+  [1023/1073] In-Tech Group India Private Limi  4p  no decision-maker found
+  [1024/1073] Vinga Software Solutions Private  0p  no decision-maker found
+  [1025/1073] Verteil Technologies Private Lim  0p  no decision-maker found
+  [1026/1073] Vivish Technologies Private Limi  0p  no decision-maker found
+  [1027/1073] Flycatch Infotech Pvt. Ltd.       0p  no decision-maker found
+  [1028/1073] Privo TechCorp Private Limited    0p  no decision-maker found
+  [1029/1073] iDatalytics Pvt. Ltd.             0p  no decision-maker found
+  [1030/1073] Rainybits Technology Pvt Ltd      0p  no decision-maker found
+  [1031/1073] Hatio Innovations Private Limite  2p  PASS
+  [1032/1073] Spiderline Technologies           1p  PASS
+  [1033/1073] Digiora Technologies Pvt.Ltd.     0p  no decision-maker found
+  [1034/1073] Difinity Digital                  4p  skip - no +91 mobile
+  [1035/1073] Portrave Solutions Pvt Ltd        3p  skip - no +91 mobile
+  [1036/1073] Thangamayil Limited               5p  PASS
+  [1037/1073] Telious Technologies Pvt Ltd      0p  no decision-maker found
+  [1038/1073] Clevero India Pvt. Ltd.           1p  PASS
+  [1039/1073] Facade Global Pvt. Ltd.           4p  PASS
+  [1040/1073] CloudHouse Technologies Pvt.Ltd   0p  no decision-maker found
+  [1041/1073] UFours IT Solution Private Limit  2p  PASS
+  [1042/1073] Viewy Digital P(Ltd)              0p  no decision-maker found
+  [1043/1073] Satsang Technologies              3p  PASS
+  [1044/1073] Fat Mac Technologies              0p  no decision-maker found
+  [1045/1073] Fine Destination                  5p  no decision-maker found
+  [1046/1073] DBiz AI Solutions Pvt. Ltd.       0p  no decision-maker found
+  [1047/1073] A T Video Networks Pvt Ltd        5p  PASS
+  [1048/1073] ANT Solution                      4p  PASS
+  [1049/1073] TEMPLE CITY TECHNOLOGIES PRIVATE  1p  no decision-maker found
+  [1050/1073] Carnegie Worldwide Services Pvt   0p  no decision-maker found
+  [1051/1073] Skybertech IT Innovation Pvt Ltd  0p  no decision-maker found
+  [1052/1073] Penguin Data Centre Pvt.Ltd.      0p  no decision-maker found
+  [1053/1073] INFOCYLANZ PVT. LTD.              0p  no decision-maker found
+  [1054/1073] Inspired Software Development (I  2p  PASS
+  [1055/1073] TECFORZ INNOVATIONS               2p  skip - no +91 mobile
+  [1056/1073] Titan Tech Emirates Pvt Ltd       0p  no decision-maker found
+  [1057/1073] Ace Labs                          5p  PASS
+  [1058/1073] Amara Raja Design Alpha Private   1p  PASS
+  [1059/1073] Soulxes Technologies Pvt Ltd      3p  no decision-maker found
+  [1060/1073] MapleTech Space Pvt Ltd           0p  no decision-maker found
+  [1061/1073] TNP Consultancy Private Limited   0p  no decision-maker found
+  [1062/1073] Gravity Business Process Private  0p  no decision-maker found
+  [1063/1073] WOC Branding Systems Pvt Ltd      2p  PASS
+  [1064/1073] JohnTuringWatson Software Soluti  1p  no decision-maker found
+  [1065/1073] Redux (Network Redux)             1p  no decision-maker found
+  [1066/1073] ELEMMENT FAÇADE Pvt Ltd           0p  no decision-maker found
+  [1067/1073] Noa Infosolutions LLP             5p  skip - no +91 mobile
+  [1068/1073] BlueGenie Technologies Private L  0p  no decision-maker found
+  [1069/1073] Softop Solutions Pvt Ltd          0p  no decision-maker found
+  [1070/1073] Tuttifrutti Games Pvt Ltd         1p  no decision-maker found
+  [1071/1073] TECHGENE SOLUTIONS PVT LTD        2p  no decision-maker found
+  [1072/1073] SAAS Softpro Leaders Private Lim  0p  no decision-maker found
+  [1073/1073] Lisbell Technologies Pvt Ltd      0p  no decision-maker found
+    [event] run_end: 1073 calls made, 262 PASS this run
+
+calls 1073 | PASS 262
+
+--apply: hand off to the existing push step:
+  python3 searchq_enrich.py --apply   (pushes any PASS rows not yet in searchq_pushed.json)

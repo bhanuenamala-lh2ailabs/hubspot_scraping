@@ -1,0 +1,849 @@
+[
+ {
+  "name": "Acquisy Solutions Private Limited",
+  "city": "Ahmedabad",
+  "domain": "acquisysolutions.com",
+  "website": "https://www.acquisysolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Adagrad Private Limited",
+  "city": "Pune",
+  "domain": "adagrad.ai",
+  "website": "https://www.adagrad.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "CUDA for NVIDIA devices OpenVINO for Intel CPUs NNPACK for Android, and much more Technology Stack A highlight of our expertise in diverse array of f"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 3,
+   "owns_product": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Computer Vision AI To Discover We're Adagrad AI Scalable AI Architects For End-to-end Enterprise Applications As Scalable AI Architects , we're leveraging hardware-accelerated algorithms, enhanced Computer Vision applications, and NLP & Deep Learning to develop and deploy Scalable Solutions .",
+    "Advanced Computer Vision like Occlusion-aware Face Detection and thermal AI Characteristic defined search and real-time inference Unparallel image processing algorithm Hardware Optimizers Our models are specifically optimized for the hardware they’re deployed on, besides being platform agnostic.",
+    "We accelerate Hardware leveraging: CUDA for NVIDIA devices OpenVINO for Intel CPUs NNPACK for Android, and much more Technology Stack A highlight of our expertise in diverse array of frameworks and platforms."
+   ],
+   "owns_product": [
+    "Learn More Tech-cellerator Advantage In-house Accelerators And Expertise Of AI/ML Modelling The Supernova Platform An Intelligent video analytics and inference platform with a suite of AI tools to track activities across various environments and provide crucial insights."
+   ],
+   "enterprise": [
+    "Financial Services Simplifying complex banking system for stakeholders, executives, and end-users - from intelligent voice assistants to document scanning to analyze data with ML algorithms."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Advaya Networks Private Limited",
+  "city": "Gurugram",
+  "domain": "advayanet.ai",
+  "website": "https://www.advayanet.ai",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2025-03-27",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "AgilizTech Software Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "agiliztech.com",
+  "website": "https://www.agiliztech.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "d. Home About Us Services Enterprise Digital Transformation Application Development Mobile App Development Application Maintenance Cloud Analytics Int"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 39111,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 3,
+   "qa": 3,
+   "enterprise": 3,
+   "senior_roles": 3,
+   "sdlc": 14,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Explore AI Product Engineering End-to-end development of AI-native products—from discovery and MVPs to scalable platforms—combining UX, data, and intelligence into cohesive solutions."
+   ],
+   "qa": [
+    "Explore Quality Engineering & AI Testing Validation of AI systems for accuracy, safety, performance, and reliability across models, agents, and workflows."
+   ],
+   "enterprise": [
+    "Supply Chain & Procurement Healthcare & Life Sciences Banking & Financial Services Retail & E-Commerce Manufacturing & Industrial Insight-Driven Procurement Intelligence."
+   ],
+   "senior_roles": [
+    "Engineering Manager Build Direct “We are very proud to be associated with AgilizTech team."
+   ],
+   "sdlc": [
+    "Request a Demo Transform your business with Agentic AI Talk to our Experts We're a leading award-winning, agile technology partner that renders bespoke IT services by embedding user-centricity into each step of the value chain.",
+    "We adopt agile work processes to design, develop and deliver innovative digital solutions for our clientele.",
+    "System Software Senior Engineer P3 Hyderabad (On-site) Full-time Posted Recently Software Engineering View details Senior engineering role focused on applying AI across the SDLC and delivering secure, scalable, cloud-native business applications.",
+    "AgilizTech AI Solutions Industry Case Studies Blog About Us Careers Talk to our Experts About Us Leading award-winning , agile technology partner Rendering bespoke IT services by embedding user-centricity within each step of the value chain."
+   ],
+   "owns_product": [
+    "Your ideas shape our products."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Agno Talents Private Limited",
+  "city": "Chennai",
+  "domain": "agnotalents.com",
+  "website": "https://agnotalents.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2025-06-03",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Arun Hari Software Tester The team helped me with skill assessment, interview prep, and final placement."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "AGS Health Private Limited",
+  "city": "Chennai",
+  "domain": "agshealth.com",
+  "website": "https://www.agshealth.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "eZ(0);}.jet-progress-bar__percent-value{line-height:1;}.jet-portfolio{position:relative;}.jet-portfolio__filter-item{-webkit-user-select:none;-moz-use"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 13167,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Health Information Management Our team of coding experts, with a deep understanding of the healthcare industry and its specialties, paired with smart technology creates a tangible, positive impact on cash flow."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ahex Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "ahex.co",
+  "website": "https://ahex.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 22009,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "AIRBNB Global Capability Centre Private Limited",
+  "city": "Gurugram",
+  "domain": "airbnb.co.in",
+  "website": "https://www.airbnb.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 7417,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Akzo Nobel Global Business Services LLP",
+  "city": "Pune",
+  "domain": "akzonobel.com",
+  "website": "https://www.akzonobel.com/en",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ng we do starts with People. Planet. Paint. Our world class portfolio of brands – including Dulux, International, Sikkens and Interpon – is trusted by"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 23560,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our businesses Our purpose Strategy Our brands End-user segments Sustainability We’re always finding new and exciting ways to make our products more sustainable and longer lasting."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Albatroz (India) Private Limited",
+  "city": "Coimbatore",
+  "domain": "albatrozsolutions.com",
+  "website": "https://albatrozsolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "es We provide services on enterprise solutions in Project & Portfolio Management, Automation & DevOps. Read More Business Intelligence & Data Science"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 21194,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 3,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Ease of Doing Business Nimble engagement model, Flexibility, Competitive Rates, Uncompromising Integrity & Ethical business standards.",
+    "--> Ease of Doing Business Our nimble & flexible engagement model, competitive rates, uncompromising integrity & ethical business standards places us as the most valued & trusted partner with our clients."
+   ],
+   "owns_product": [
+    "Read More Automic Automation Automic Automation is a product suite that provides workload automation for IT services across diverse platfor..."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Alcon Laboratories (India) Private Limited",
+  "city": "Bengaluru",
+  "domain": "alcon.com",
+  "website": "https://www.alcon.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 55343,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2,
+   "owns_product": 3,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "SEARCH OPEN ROLES JOIN OUR TALENT COMMUNITY 25K+ Associates Globally $10.3B 2025 Net Sales $990M 2025 R&D Investment 140+ Countries Served 74+ Pipeline Products 27+ Countries Recognized as Great Place to Work/Top Employer Life At Alcon At Alcon, we want you to get the most out of your experience.",
+    "Our robust pipeline is shaped by the goals of advancing optimal patient outcomes and offering tailored, impactful solutions for today’s Eye Care Professionals and patients."
+   ],
+   "owns_product": [
+    "Supply Chain Alcon Supply Chain professionals ensure our products are delivered efficiently and effectively through logistics, inventory management, and supply chain analytics.",
+    "Quality & Regulatory Affairs As a Quality associate, your activities ensure that our products are in compliance with global, local, and other internal regulations where applicable.",
+    "As the connection between our products and Eye Care Professionals, you'll be critical in delivering the sight-saving, vision-restoring, and often life-changing innovation we offer to the more than 260 million patients we serve around the world."
+   ],
+   "DQ_training": [
+    "Patient Assistance Programs 1969 Alcon’s surgical division is formed with seven associates 1971 With sales of $31 million, Alcon goes public, with a listing on the New York Stock Exchange 1989 Launch of NewVue (Focus), Alcon’s first soft contact lens exclusively for periodic replacement 1994 The U.S."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Alfa Laval India Private Limited",
+  "city": "Pune",
+  "domain": "alfalaval.com",
+  "website": "https://www.alfalaval.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ss as Alfa Laval’s equipment and process solutions improve your productivity and food and beverage quality. Food, Dairy and Beverage Production Alfa L"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 14557,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "sdlc": 3,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Explore Food, Dairy and Beverage Enjoy the taste of success as Alfa Laval’s equipment and process solutions improve your productivity and food and beverage quality."
+   ],
+   "sdlc": [
+    "Our components and systems optimize your processes.",
+    "Biotech and Pharmaceuticals Service Extending the performance of your equipment Service Water and Wastewater Treatment Alfa Laval offers a variety of solutions for on-site water and waste treatment plus recovery of water, heat and even products from your process.",
+    "It is a record of how we work with customers and partners to shape a better future for industries and communities worldwide."
+   ],
+   "DQ_training": [
+    "Water and Wastewater Treatment Lifetime support We support your entire equipment lifecycle from installation and maintenance to replacement, delivering proactive solutions to maximize performance, ensure reliability, and reduce total cost of ownership."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Alight Services India Private Limited",
+  "city": "Gurugram",
+  "domain": "alight.com",
+  "website": "https://www.alight.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ite Papers Research Reports Library Assessments Calculators Case Studies Guides Product/Solution Info Videos Alight Blog In focus Era of the employee"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 6541,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "We partner with a majority of the Fortune 100 and a significant number of Fortune 500 companies to transform the way they work.",
+    "See all 3 reasons employers need an independent navigation solution in 2026 Here are three reasons an independent healthcare navigation solution is essential to protect both the employer and their employees.",
+    "See all Case Study DIRECTV beams in a better benefits experience and healthcare savings with Alight DIRECTV delivered a better benefits experience with Alight Benefits Administration and Healthcare Navigation, via the Alight Worklife® platform.",
+    "Health Benefits Article 2026 Leave Law update: New Jersey FLA, TDI & FLI amendments New Jersey has enacted significant amendments to the New Jersey Family Leave Act (FLA) and the state Temporary Disability Insurance (TDI) and Family Leave Insurance (FLI) programs via Assembly Bill 3451."
+   ],
+   "sdlc": [
+    "Our values are core to how we work with our clients, stakeholders, communities, and with each other Champion our people We practice empathy and create a place where everyone belongs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "AllCloud Enterprise Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "allcloud.in",
+  "website": "https://www.allcloud.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1832,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 7,
+   "enterprise": 3,
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Loan Management Lending software built to accelerate and automate Debt Recovery make your loan collection process automated, agile, and swift Co-Lending Associate with more partners, and offer better credits to borrowers.",
+    "Request For Demo Empowering the Core of Lending Our agile, flexible and fast Loan Management System combines the most comprehensive tools and solutions to manage and seamlessly service multiple loan products."
+   ],
+   "enterprise": [
+    "News View All November 10, 2025 RBI Opens the Vault: Loans Against Silver Now a Reality in India October 31, 2025 Lending Everywhere: How Embedded Credit Is Transforming Banking October 28, 2025 Gold Rush 2025: Leveraging Unified Lending Tech to Manage Volatility and Boost NBFC Growth Quality Articles.",
+    "Mission To revolutionize the banking industry by introducing automation and cutting-edge technologies to eliminate inefficiencies and errors, delivering smarter and more efficient financial services to our clients.",
+    "Ankith Khadloya Co-founder, Ex-Infosys Ankith has more than 9 years of experience in Banking technology and product development."
+   ],
+   "DQ_support": [
+    "It supports: · Personal loans · MSME and business loans · Vehicle and auto loans · Microfinance (group and individual loans) · Gold loans Each product can have separate servicing logic, repayment structures, delinquency rules, and compliance configurations, all managed within the same Loan Management software.",
+    "It supports: · Audit-ready reports · CIC and regulatory reporting · Complete traceability of servicing, collections, and recovery actions ‍ This ensures lenders remain compliant without relying on manual checks or post-facto reconciliations."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Allegion India Private Limited",
+  "city": "Bengaluru",
+  "domain": "allegion.com",
+  "website": "https://www.allegion.com/corp/en/index.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 32943,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Learn more about our culture, our people and our products with the resources below."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Alliantgroup India Talent Private Limited",
+  "city": "Hyderabad",
+  "domain": "alliantgroup.com",
+  "website": "https://alliantglobal.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "179D Estimate Your Deduction Whitepaper Allocation Process Case Studies Why alliantgroup for 179D ERC Estimate Your Credit Whitepaper Nonprofit Organ"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 8735,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Alphaleo Technology Private Limited",
+  "city": "Hyderabad",
+  "domain": "alphaleo.tech",
+  "website": "https://alphaleo.tech/",
+  "already_in_hubspot": true,
+  "headcount_known": 40,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 43651,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 13,
+   "owns_product": 12,
+   "qa": 1,
+   "cicd": 3,
+   "DQ_template": 1,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Insurance Private Health Manufacturing​ Intelligent, connected manufacturing on Salesforce.",
+    "Healthcare Connected healthcare for better outcomes Pharma & Life Sciences Solutions Intelligent, Compliant, and Patient-Centric Transformation with Salesforce Success Stories Where Strategy Meets Execution and Results Follow.",
+    "Healthcare Connected healthcare for better outcomes Pharma & Life Sciences Solutions Intelligent, Compliant, and Patient-Centric Transformation with Salesforce Our Partners & Technical Competency Stronger Together, Delivering Greater Value."
+   ],
+   "owns_product": [
+    "Our AI Labs turn bold ideas in vision, automation, and intelligent operations into reusable solutions and accelerators that plug into your core platforms.",
+    "Our boutique approach blends large-firm depth with specialist agility, crafting CX strategies, custom apps, end-to-end deployments, and AI accelerators via Alphaleo Labs.",
+    "Learn More Alphaleo Labs From experimentation to innovation, Alphaleo Labs builds AI-driven accelerators and future-ready solutions for evolving enterprises."
+   ],
+   "qa": [
+    "TestBelt TestBelt is Alphaleo’s AIdriven test and quality engineering platform, designed to reduce release risk while accelerating software delivery."
+   ],
+   "cicd": [
+    "Governance, Security & DevOps Guardrails for reuse, security, performance, and lifecycle management, including CI/CD pipelines for lowcode assets.",
+    "Thanks to their support, we now have complete visibility into our sales pipeline and faster deal closures.\" Chief Digital Officer, A Manufacturing Major in Australia \"Working with Alphaleo on our AI and Data initiatives was truly transformative."
+   ],
+   "DQ_template": [
+    "Prebuilt components, templates, and integration patterns reduce delivery effort and speed up subsequent initiatives."
+   ],
+   "sdlc": [
+    "We are now much more agile and responsive to business changes.\" Let’s Solve What’s Next Your toughest tech challenges in data, digital, AI, or Salesforce?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Amadeus Software Labs India Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "amadeus.com",
+  "website": "https://amadeus.com/en",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1992-11-30",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 29523,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Amentum International Business Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "amentum.com",
+  "website": "https://www.amentum.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Chain Managed Bandwidth & Secure Network Solutions Training Portfolio Menu Toggle Projects Contracting Vehicles About Menu Toggle Culture & Values Men"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 25955,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 10,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Agile Delivery Process Amentum applies a customized Agile lifecycle processes to ITSM with disciplined performance, incident, change, configuration and release management.",
+    "Amentum’s approach is driven by innovation, leveraging the latest advancements in technology to provide agile, adaptable solutions that meet evolving defense and security needs."
+   ],
+   "DQ_training": [
+    "These deceptive and unauthorised individuals are soliciting money, promising placement in a position with Amentum.",
+    "Amentum will never ask for a placement fee or any other fee to expedite the hiring process."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "American Express India Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "americanexpress.co.in",
+  "website": "https://www.americanexpress.com/en-in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2003-12-31",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 147697,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 30,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Check out American Express for Business Travel Travel Services Travel Insurance Travelers Cheques Travel Benefits Airport Lounges Travel with My Points Help With Travel Can I use my Card abroad?",
+    "Explore more Insurance Top Links Insurance Homepage Insure Myself Health Insurance Personal Accident Insurance Life Insurance Critical Illness Insurance Travel Insurance Insure My Possessions Car Insurance Bike Insurance Help With Insurance How do I make an insurance claim?",
+    "Do I need to be a Cardmember to purchase insurance?",
+    "View All FAQs Travel Travel Services Travel Insurance Travelers Cheques Travel Benefits Airport Lounges Travel with My Points Help With Travel Can I use my Card abroad?"
+   ],
+   "DQ_training": [
+    "Request for a replacement Learn about Card Security Our features and tips, all designed to help you stay safe."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

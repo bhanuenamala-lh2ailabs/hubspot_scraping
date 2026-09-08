@@ -1,0 +1,891 @@
+[
+ {
+  "name": "Savills Property Services (India) Private Limited",
+  "city": "Gurugram",
+  "domain": "savills.in",
+  "website": "https://www.savills.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 109035,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 6,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "More Information How we work Our integrity, honesty and professionalism is what gives our clients, colleagues, investors and business partners the confidence to work with us.",
+    "Follow Us on Social Media Twitter LinkedIn Instagram Facebook YouTube How We Work - Savills India --> Cookies are a small file saved on your computer that help store preferences and other information that’s used on the web pages you visit."
+   ],
+   "cicd": [
+    "Browse jobs Campus Hiring Programme Our management and graduate programme are expanding talent outreach into tier II & III cities to build a strong pipeline of young future leaders."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Saxo Group India Private Limited",
+  "city": "Gurugram",
+  "domain": "saxobank.com",
+  "website": "https://www.home.saxo/?int_cmpid=saxobank-redir",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 42962,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 6,
+   "sdlc": 1,
+   "enterprise": 3
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Third-party tools and APIs View third-party tools available for integration with our platform, including TradingView.",
+    "Check our predictions Demo account Sign up for a 20-day demo account to try out trading in our platform with a simulated USD 100,000."
+   ],
+   "sdlc": [
+    "If you're ready to thrive in a fast-paced, agile and collaborative environment that values your drive, creativity and desire to learn, find out more about careers at Saxo."
+   ],
+   "enterprise": [
+    "As a fully regulated and licensed independent provider, our clients have secure access to more than 71,000 financial instruments.",
+    "Our clients enjoy regulated and reliable access to over 71,000 financial instruments on our industry-leading platforms.",
+    "A Fortune 500 company names an AI model as CEO Can AI be trusted to take over in the boardroom?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "SCA Technologies India Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "scatech.com",
+  "website": "https://www.scatech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 11023,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "The coming of SaaS SCA was one of the first supply chain innovators to launch a SaaS product for customers and suppliers in 2010, and became a major player in the foodservice industry when its SCA Planner platform was adopted by McDonald’s and RSCS/YUM!"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Scalable Consulting & Solutions Private Limited",
+  "city": "Pune",
+  "domain": "scalablesolutions.in",
+  "website": "https://scalablesolutions.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "--> --> --> --> --> --> --> --> --> Road-Map for your SaaS Application Development From Communicate with flexible tools that go where your team goes"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 3,
+   "owns_product": 8,
+   "sdlc": 1,
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Learn More Dedicated Testing/QA Services Ensure your application’s flawless performance across browsers and devices with Scalable Solutions.",
+    "Our automated testing and QA services address functionality, usability, compatibility, and security issues, protecting your business reputation."
+   ],
+   "owns_product": [
+    "Blog Building Scalable SaaS Products: Key Considerations from Idea to MVP Blog Cross-Browser and Cross-Platform Testing: Why It’s Crucial for Your SaaS Application View all blogs Get started now!",
+    "Request a quote Quick Link Our Capabilities Our Products Case Studies Blog Contact Us Get In Touch C1 403 & 404, Saudamini Commercial Complex, Right Bhusari Colony, Paud Road, Kothrud Depot, Pune, India – 411038 ContactUs@ScalableSolutions.co +91-20-41237788 Copyright © 2021 Scalable Consulting & Solutions Pvt.",
+    "Our platform engineering eliminates infrastructure and maintenance challenges, delivering fast, scalable, and energy-efficient platforms that enhance customer experiences and drive competitive advantage."
+   ],
+   "sdlc": [
+    "Skilled in Agile and DevOps, our team specializes in digital testing for mobile and web applications."
+   ],
+   "prod_eng": [
+    "Our platform engineering eliminates infrastructure and maintenance challenges, delivering fast, scalable, and energy-efficient platforms that enhance customer experiences and drive competitive advantage."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Sequel Integrated Solutions Private Limited",
+  "city": "Gurugram",
+  "domain": "hono.ai",
+  "website": "https://www.hono.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "esources (Demo) --> \"> Resources --> Resources Events Blogs Case Studies E Books Newsletter Schedule Demo Schedule Demo --> --> --> --> --> Unlock the"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 27800,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "DQ_template": 2,
+   "cicd": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "helpdesk@honohr.in Apply Now Enterprise HR, finally invisible."
+   ],
+   "DQ_template": [
+    "August 11, 2026 Read more HRMS HR Software 10 Salary Increment Letter Templates For HR & Employees Pick the salary increment letter for your scenario.",
+    "10 templates for HR, a request letter sample for employees."
+   ],
+   "cicd": [
+    "August 7, 2026 Read more HRMS Payroll One Pipeline, Three Domains: How HONO Uses the Same AI Architecture for Timesheets, Payroll and Support Discover how HONO uses one seven-stage AI pipeline for contractor timesheets, payroll explanations, and support tickets by configuring—not rebuilding—the architecture."
+   ],
+   "sdlc": [
+    "Flip back Amandeep Singh Minhas Head of Operations, EMEA View bio Amandeep Singh Minhas Head of Operations, EMEA With 22+ years across HR Tech, SaaS, Consulting and Agile program management, Amandeep ensures clients experience seamless deployment and measurable outcomes across every stage of the HR-tech journey."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Serosoft Solutions Private Limited",
+  "city": "Indore",
+  "domain": "serosoft.com",
+  "website": "https://serosoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "19 Finalist in SIS Category Knowledge Center Product Sheets Case Studies Info Videos Team in Action Media Coverage Awards & Accolades Blog Popular Sea"
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 125012,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2,
+   "enterprise": 3
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "End-to-End Institutional Automation From enquiry to graduation, Academia automates every workflow - admissions, attendance, exams, fees, hostels, placements & more.",
+    "With a truly global footprint, Serosoft serves 400+ institutions spanning universities, colleges, schools, training institutes, and vocational education providers across 32 countries and 4 continents - collectively empowering more than 1 million learners and educators worldwide."
+   ],
+   "enterprise": [
+    "IIM Calcutta Purdue University JP Morgan --> Siddharth Badjatiya COO & Director Technology and operations leader with deep expertise in education, manufacturing and banking.",
+    "Rich expertise across education, manufacturing, and banking domains."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Seventhsense Technologies Pvt Ltd",
+  "city": "Chennai",
+  "domain": "7stl.com",
+  "website": "http://www.7stl.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 330,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our integrated platforms combine low-code technology, robotic process automation, and AI assistants to streamline operations, reduce manual effort, and accelerate decision-making, ensuring your business stays agile and innovative."
+   ],
+   "owns_product": [
+    "Discover how to seamlessly blend technology and human effort for maximum impact Quick Links Home Products Practices Services Careers Contact Our Products e10 Food e10 Skycats e10 Onboard Sales e10 AEMS e10 POS e10 FICO e10 CMSI e10 HCM e10 B2B e10 IFM e10 Logistics Copyright © 2001- Seventhsense Technologies Pvt."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "SFCPrisms Solutions Private Limited",
+  "city": "Pune",
+  "domain": "cloudprism.co",
+  "website": "https://cloudprism.co/us",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 3831,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "DQ_template": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "With 100+ experienced developers and 420+ successful projects, we help companies move faster through smarter systems, agile execution, and high-performing teams."
+   ],
+   "DQ_template": [
+    "Our solutions are tailored, not templated—designed to reduce costs, speed up delivery, and align technology with real business goals."
+   ],
+   "enterprise": [
+    "Expand RESEARCH REPORT CloudPrism Helps Equiti Health Unify Operations and Streamline Service Delivery with Salesforce Equiti Health was formed through the merger of Cloudbreak Health and Voyce Global, both leading names in healthcare language access services."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Shimento India LLP",
+  "city": "Hyderabad",
+  "domain": "shimentox.ai",
+  "website": "https://shimentox.ai/",
+  "already_in_hubspot": true,
+  "headcount_known": 89,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 15320,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "qa": 3,
+   "prod_eng": 2,
+   "senior_roles": 2,
+   "owns_product": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Let’s Get Started – Your Data Awaits Expertise that Shapes the Future of Industries Banking and Financial Services Our AI-driven analytics and ML solutions enable financial institutions to maintain compliance while fueling business growth.",
+    "Expertise that Shapes the Future of Industries Banking and Financial Services Our AI-driven analytics and ML solutions enable financial institutions to maintain compliance while fueling business growth."
+   ],
+   "qa": [
+    "By blending human ingenuity with the transformative power of advanced code generation, automated testing and seamless DevOps automation, we enable rapid prototyping, lightning-fast iterations and flawless deployments.",
+    "Start Now DevOps and SRE Platform Engineering UI/Design Quality Engineering DevOps and SRE: Driving Agility and Reliability We elevate DevOps and Site Reliability Engineering (SRE) with solutions designed to enhance agility, reliability and seamless operations.",
+    "Quality Engineering We integrate advanced automation, intelligent testing and user-centric methodologies to deliver faster, more robust software that empowers your business to lead in a competitive digital landscape."
+   ],
+   "prod_eng": [
+    "Start Now DevOps and SRE Platform Engineering UI/Design Quality Engineering DevOps and SRE: Driving Agility and Reliability We elevate DevOps and Site Reliability Engineering (SRE) with solutions designed to enhance agility, reliability and seamless operations.",
+    "Platform Engineering Inspired by Product Mindset and relentless drive for excellence, our engineering teams design and develop secure, high-performance platforms built to handle the most complex demands."
+   ],
+   "senior_roles": [
+    "Start Now DevOps and SRE Platform Engineering UI/Design Quality Engineering DevOps and SRE: Driving Agility and Reliability We elevate DevOps and Site Reliability Engineering (SRE) with solutions designed to enhance agility, reliability and seamless operations.",
+    "Start Now Custom Solutions for Unique Needs We craft tailored DevOps and SRE strategies aligned to your specific goals and challenges, delivering scalable, adaptable solutions that grow with your business."
+   ],
+   "owns_product": [
+    "Performance Optimization Supercharge your platform with pinpoint performance tuning, eliminating bottlenecks and maximizing efficiency."
+   ],
+   "cicd": [
+    "CI/CD Implementation Deliver faster, smarter deployments with customized Continuous Integration and Continuous Delivery pipelines that keep you competitive."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Shivamtech Engineering Design Private Limited",
+  "city": "Pune",
+  "domain": "shivamtech.com",
+  "website": "https://shivamtech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "lysis services, pune, CAD/CAM/CAE training pune Home E-Mail Case Study We have wide range of Showcase material to offer. know more > Training and Deve"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 122109,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 6,
+   "enterprise": 1,
+   "cicd": 2,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Know more>> Leaders in Product Engineering Shivamtech is a trailblazer in product engineering , harnessing a blend of creativity, technical prowess, and market insight to conceive and realize ground breaking innovations .",
+    "+91 20 6712 2000 info@shivamtech.com Menus Digital Engineering Product Engineering Plant Engineering Case Studies Contact Us Links About Us Why Us Partner with Us News Career Copyright © 2026 Shivamtech, All rights reserved."
+   ],
+   "enterprise": [
+    "Employee Benefits Shivamtech offers competitive employee benefits, including health insurance, retirement plans, paid time off, and other perks."
+   ],
+   "cicd": [
+    "Mandatory Skills: Maintain and develop pipeline of eligible candidates for future open positions.",
+    "Mandatory Skills: Maintain and develop pipeline of eligible candidates..."
+   ],
+   "DQ_training": [
+    "Whether it’s short-term project-based assignments or long-term strategic placements, ShivamTech’s commitment to excellence ensures that clients have access to the best talent in the field, empowering them to drive innovation, overcome challenges, and achieve success in today’s dynamic business landscape."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Signalchip Innovations Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "signalchip.com",
+  "website": "https://www.signalchip.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 9089,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 5,
+   "DQ_support": 8
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Security accelerators, trusted boot and secure zone.",
+    "Interfacing with physical layer, hardware accelerators, other peripherals or interfacing with (embedded Linux) networking applications, gateways, IPSec etc.",
+    "Digital IC Design Engineer Roles & Responsibilities: Accountable for specification, design and verification of different peripherals, interconnects, network accelerators, signal processing accelerators and SOC hardware IP based on different standards.",
+    "This culture is evident in the way our team thinks and executes projects which are exemplified by the performance levels that our products showcase."
+   ],
+   "DQ_support": [
+    "Interfacing with physical layer, hardware accelerators, other peripherals or interfacing with (embedded Linux) networking applications, gateways, IPSec etc.",
+    "Work closely with the team to implement and verify different algorithms in hardware and software.",
+    "Digital IC Design Engineer Roles & Responsibilities: Accountable for specification, design and verification of different peripherals, interconnects, network accelerators, signal processing accelerators and SOC hardware IP based on different standards.",
+    "Firmware Engineer Roles & Responsibilities: Develop software (in 'C') to manage and control digital hardware blocks to implement wireless communication standards physical layer."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Simple Telecom Private Limited",
+  "city": "Mumbai",
+  "domain": "simple2call.com",
+  "website": "https://simple2call.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2001-02-11",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Simpliigence Private Limited",
+  "city": "Bengaluru",
+  "domain": "simpliigence.com",
+  "website": "https://simpliigence.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 886217,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "DQ_training": 7,
+   "owns_product": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Salesforce Services, By Design​ As a leading Salesforce consulting partner, we deliver Salesforce consulting services and Salesforce implementation services through engagement models that reflect how real businesses evolve and scale."
+   ],
+   "DQ_training": [
+    "Learn MORE Placement By Design Access talent exactly when and how you need it, with professionals who understand both technology and your business context.",
+    "Quick Links About Us Customers Insights Careers Our Services Enterprise By Design Concierge By Design Placement By Design Salesforce By Design Newsletter Subscription Form Δ Subscribe © 2026 Simpliigence.",
+    "Dynamic Resource Model Strategic talent placement ensuring rapid delivery and sustained growth."
+   ],
+   "owns_product": [
+    "From Salesforce for construction to Salesforce manufacturing solutions and Salesforce financial services consulting, our cross-industry expertise means we understand your business before we touch your platform."
+   ],
+   "senior_roles": [
+    "Talk to a Solution Architect Transformation, By Design."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Skill Instill Technologies",
+  "city": "Chennai",
+  "domain": "skillinstill.com",
+  "website": "https://www.skillinstill.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 1211,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Skill-Up Tech India Private Limited",
+  "city": "Noida",
+  "domain": "skillup.tech",
+  "website": "https://skillup.tech/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "across the learning Lifecycle and backed up by our diverse portfolio. We’re agile and cost-effective We use a road-tested, agile engagement approach"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "We’re agile and cost-effective We use a road-tested, agile engagement approach to apply our expertise to today’s blended learning world."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Skilliantech India Private Limited",
+  "city": "Hyderabad",
+  "domain": "skillrecruit.com",
+  "website": "https://www.skillrecruit.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 2393,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "SkillSoft Software Services India Private Limited",
+  "city": "Hyderabad",
+  "domain": "skillsoft.com",
+  "website": "https://www.skillsoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ing platforms, courses, and programs designed to transform your workforce. Leadership & Business Leadership Development and Business Skills Grow leade"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 13717,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 4,
+   "senior_roles": 3,
+   "sdlc": 3
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Beyond AI assistants: what AI coaching looks like Activate Learning 3 minute read Skillsoft Continue Reading Search Search all posts Filter Filter by topic All No posts found.",
+    "Compliance Training Skillsoft Coaching Skillsoft Coaching consists of human and AI coaches, enhanced targeted top-tier content and technology that helps to transform people and organizations to drive lasting and measurable outcomes.",
+    "Skillsoft’s Codecademy Skillsoft Coaching Skillsoft Coaching consists of human and AI coaches, enhanced targeted top-tier content, and technology that helps to transform people and organizations to drive lasting and measurable outcomes.",
+    "Skillsoft Leadership Coaching Compliance Training Custom legal, ethics and compliance training with tailored course materials to align with your organization’s unique objectives."
+   ],
+   "senior_roles": [
+    "Source ${ number } % of IT Skills and Salary survey respondents believe team communication is the most important skill for tech leaders to have.",
+    "Source For Tech Leaders Overcome your organization’s most critical tech challenges Bridge Skill Gaps to Drive Business Growth Two-thirds of IT leaders say their teams struggle with skill gaps.",
+    "Read More Developing Future Tech Leaders at DB Systel Faced with a growing skills gap, DB Systel partnered with Skillsoft to launch the Sprint Starter program, an initiative designed to recruit and upskill recent graduates in critical areas like DevOps and networking automation."
+   ],
+   "sdlc": [
+    "Start Here Develop Future-Fit Leaders Agile and effective leaders aren’t built overnight.",
+    "By prioritizing upskilling through interactive learning experiences, tech teams become not only agile but also prepared to drive innovation and leadership in today’s fast-paced digital landscape.",
+    "Read More Developing Future Tech Leaders at DB Systel Faced with a growing skills gap, DB Systel partnered with Skillsoft to launch the Sprint Starter program, an initiative designed to recruit and upskill recent graduates in critical areas like DevOps and networking automation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Skilrock Technologies Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "skilrock.com",
+  "website": "https://www.skilrock.com:443/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 2,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "The system integrates with legacy hardware and supports various POS, VLTs, ITVMs, and slot machines for seamless modernization.",
+    "The platform is highly customizable and compatible, supporting an extensive range of platforms, including web, mobile, POS, and legacy hardware."
+   ],
+   "enterprise": [
+    "Physical Scratch-off Ticket eInstants Know More Sports Bringing Sports to Life Across Betting and Lottery Formats Skilrock's Sports Betting and Sports Lottery solutions are built for regulated markets, delivering secure, scalable, and engaging experiences.",
+    "These solutions serve national lotteries, private operators, and government-regulated entities alike."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Skybits Technologies Pvt Ltd",
+  "city": "Kolkata",
+  "domain": "sky-bits.com",
+  "website": "https://www.sky-bits.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "1 Home About Us About Company Contact Us Solutions Products Case Study Resources Blog Partners Gallery Request Demo Get in Touch Get in Touch Contact"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "The company, since its inception has worked in almost all major sectors, like Banking, Transportation, Sports, Education, Government, to name a few, for clients like Johnson & Johnson, State Bank of India, the Government of India, Alchemy, CyberSecurity(Malaysia), and many more."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Smartail Private Limited",
+  "city": "Bengaluru",
+  "domain": "smartail.ai",
+  "website": "https://smartail.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 22325,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "India UAE Singapore United Kingdom Key Achievements Backed by World-Class Programs Edu-Evidence Research Backed Accelerating at Google AI First Accelerator program Part of Nvidia Inception program Recognized by IndiaAI"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

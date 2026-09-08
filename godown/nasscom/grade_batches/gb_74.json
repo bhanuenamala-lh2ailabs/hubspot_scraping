@@ -1,0 +1,1196 @@
+[
+ {
+  "name": "Outbooks Outsourcing Private Limited",
+  "city": "Gurugram",
+  "domain": "outbooks.com",
+  "website": "https://outbooks.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 55701,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "enterprise": 1,
+   "DQ_support": 3,
+   "cicd": 3,
+   "DQ_agency": 1,
+   "DQ_bpo": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "4 Competitive Pricing You can choose the best affordable option from our flexible engagement model based on your unique needs, and you can be sure you will get the best return on your investment without sacrificing quality."
+   ],
+   "enterprise": [
+    "Outbooks is a BSI-accredited and ISI-regulated organization."
+   ],
+   "DQ_support": [
+    "This role is ideal for a fresher who is eager to build a strong foundation in IT support, systems coordination, and user assistance.",
+    "The successful candidate will help maintain smooth functioning of hardware, software, and internal IT processes.",
+    "Entry-level candidates with academic exposure to IT support, networking, or system administration are welcome."
+   ],
+   "cicd": [
+    "The position is ideal for a seasoned professional who can identify opportunities, build pipelines, and deliver commercial outcomes.",
+    "Required Skills Strong sales, negotiation, and client acquisition skills; experience in pipeline management, lead generation, and business development; excellent communication and presentation ability; commercial awareness and target-driven mindset; degree in Business, Marketing, or related field preferred.",
+    "Pipeline management and sales forecasting."
+   ],
+   "DQ_agency": [
+    "Required Experience 2-3 years of experience in digital marketing, content marketing, or campaign execution."
+   ],
+   "DQ_bpo": [
+    "Unrecorded transactions, timing differences, and data entry errors are common, and without a structured reconciliation process, these issues are difficult to identify and correct before reporting deadlines."
+   ],
+   "compliance": [
+    "+ Reputable providers hold certifications such as ISO 27001 and use secure access protocols, encrypted data transfers, and strict confidentiality agreements to protect sensitive financial information."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Ozonetel Communications Private Limited",
+  "city": "Hyderabad",
+  "domain": "ozonetel.com",
+  "website": "https://ozonetel.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "uture of AI-Driven Contact Centers with Ozonetel. Optimize Your Workflows Built for Contact Centers of Every Size Our full stack software is plug-and-"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 117129,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2,
+   "enterprise": 2,
+   "owns_product": 1,
+   "DQ_bpo": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Learn More 80% faster query resolution 58% improvement in call quality scores AGENT PERFORMANCE Elevate Agent Effectiveness with Personalized Coaching Train your agents with detailed insights from conversations.",
+    "Surface key moments, track sentiment, and deliver personalized coaching to improve sales & service outcomes."
+   ],
+   "enterprise": [
+    "Best CX in Non-Banking Sector Read More Automated 50% of queries, streamlined onboarding, and empowered agents to deliver cohesive experiences.",
+    "2000 + Enterprise Clients 50000 + Agents 150 + Countries 2 Billion Calls Today, we give SMBs and large-scale companies in the U.S."
+   ],
+   "owns_product": [
+    "Organizations leveraging our platform have transformed CX into measurable metrics of conversion, retention, loyalty, and customer lifetime value."
+   ],
+   "DQ_bpo": [
+    "Our full-stack customer experience software was built from the ground up to solve the practical problems that keep call centers worldwide from making the most of their communications platform."
+   ],
+   "DQ_support": [
+    "We offer the industry’s fastest deployment times and easiest CRM, helpdesk, and auto-dialer integrations."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Pegasystems Worldwide India Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "pega.com",
+  "website": "https://www.pega.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 14,
+   "external_job_boards": [],
+   "jd_chars": 124961,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 9,
+   "enterprise": 4,
+   "DQ_training": 1,
+   "cicd": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "For workflows & app design Reimagine your processes and turn any workflow into a build-ready application with confidence.",
+    "And this is being accelerated by many factors like low code and generative AI , as we are always trending toward more agile apps and application development.",
+    "Agile tools allow stakeholders to provide application feedback and requirements from directly within the case, eliminating business–IT communication gaps.",
+    "Design Agents Design Agents AI agents that unleash transformation Transform your processes without starting from scratch."
+   ],
+   "enterprise": [
+    "Pega teams work across industries such as financial services, healthcare, and government.",
+    "Pega’s award-winning benefits package includes everything from core benefits like medical, dental, vision, life, disability, and retirement to best-in-class innovations like expanded employee assistance program, back up care, pet insurance, and more.",
+    "Pega’s works with global enterprises in financial services, healthcare, telecommunications, and government, where its technology supports large-scale transformation and customer engagement.",
+    "Business activities can include: insurance claims , patient records, loan applications, identity theft investigations, customer requests, and adding new customers."
+   ],
+   "DQ_training": [
+    "Our award-winning internship program gives students hands-on experience working on projects that shape how global organizations operate."
+   ],
+   "cicd": [
+    "Leveraging consistent field best practices focused on encapsulation and extensibility of reusable assets will increase delivery velocity, lower TCO, and support continuous delivery and autonomy of distributed teams."
+   ],
+   "DQ_bpo": [
+    "Whether that’s orchestrating bots , connecting front and back offices, or accelerating your ability to scale through reuse, case management helps streamline operations to help employees be more productive and deliver experiences that customers demand."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "PineQ Technology Labs Private Limited",
+  "city": "Noida",
+  "domain": "pineqlab.com",
+  "website": "https://pineqlab.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 56,
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2022-10-17",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9634,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1,
+   "enterprise": 12,
+   "sdlc": 6,
+   "senior_roles": 2,
+   "cicd": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Know Our Story We help organizations, across industries and geographies, scale faster with tailored talent strategies, from permanent placements to volume-based, contract, and managed service hiring models."
+   ],
+   "enterprise": [
+    "We serve a wide spectrum of industries including Information Technology, BFSI, Healthcare, E-commerce, Pharma, Manufacturing, Logistics, and SaaS.",
+    "Manish Arora Talent Acquisition Lead, BFSI Enterprise A dependable partner for high-volume hiring.",
+    "Nandita Verma HR Business Partner, Healthcare Tech Firm Flexible, fast, and incredibly aligned with our culture.",
+    "We serve a wide range of industries including IT & SaaS, Banking & Financial Services (BFSI), Healthcare, E-commerce, Manufacturing, Logistics, and Pharma."
+   ],
+   "sdlc": [
+    "Flexible Engagement Models Choose the model that works for you: contract, contract-to-hire, or full-time.",
+    "We offer flexible engagement models including permanent, contractual, and contract-to-hire hiring to match your business needs and budget.",
+    "By offering expert-backed resourcing and agile delivery support, PineQ enables operators and vendors to optimize spectrum usage, elevate QoS benchmarks, and stay ahead in a hyper-connected world.",
+    "Partner with PineQ to scale your telecom workforce and optimize next-gen network delivery – with expert staffing, agile support, and technical depth across RF & 5G layers."
+   ],
+   "senior_roles": [
+    "Testimonial What Our Clients Say About Us Voices of Impact Saurav Mehta Head of Engineering, Global SaaS Company PineQ has completely changed how we scale our teams."
+   ],
+   "cicd": [
+    "24–48 Hour Resume Submission Accelerated candidate pipelines for urgent hiring and volume-based role fulfillment, ensuring business continuity without delay."
+   ],
+   "DQ_agency": [
+    "Employer Branding & Candidate Experience We enhance candidate engagement with branded outreach, transparent communication, and a smooth interview-to-offer journey."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Polestar Solutions and Services India Private Limited",
+  "city": "Noida",
+  "domain": "polestarllp.com",
+  "website": "https://www.polestaranalytics.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 691,
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2012-04-17",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 30879,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 1,
+   "cicd": 3,
+   "owns_product": 2,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Customizable interface for seamless adoption Easily tailor the UI to match your branding, and user preferences-no coding required."
+   ],
+   "cicd": [
+    "Talk to our GCC Experts Delivering Measurable Outcomes for Global Capability Centres 60-80% Faster Data Onboarding Accelerate onboarding and integration of new data sources 60-80% faster using automated pipelines, metadata-driven ingestion, and low-code capabilities.",
+    "Reliable data pipelines with monitoring and observability Self-serve BI and standardized reporting for faster insights Metadata, lineage, and data quality governance for audit-ready data Intelligence & Optimization Turn data into decisions while optimizing cost and performance.",
+    "With automated pipelines and real-time analytics, GCCs gain a single source of truth to drive collaboration and insight-led actions."
+   ],
+   "owns_product": [
+    "70% Faster, Leaner Data & AI Ecosystem Achieve faster ecosystem integration by unifying data, analytics, and AI on 1Platform our proprietary platform , reducing vendor sprawl and eliminating redundant platforms across multi-cloud environments.",
+    "Our accelerators ensure standardized models, reusable assets, and operational excellence across regions."
+   ],
+   "sdlc": [
+    "Flexible Engagement Models Choose the engagement model that fits your goals.",
+    "Our analytics frameworks drive real-time decisions across finance, operations, marketing, and more-fuelling agile, insight-led organizations."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Pristine Pro Tech Private Limited",
+  "city": "Pune",
+  "domain": "pristineprotech.com",
+  "website": "https://www.pristineprotech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 7,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ous every time you release a product update..? Do you miss your product release deadlines frequently...? Do you lose sleep over showcasing buggy produ"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1210,
+   "signals": {
+    "testing": 1
+   },
+   "quotes": {
+    "testing": [
+     "Join Us Apply Here Current Openings Looking for a full time Cypress Test Automation Engineer --- We have ongoing requirements and your application would be considered."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 18,
+   "cicd": 1,
+   "owns_product": 1,
+   "DQ_support": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Pristine Pro top of page Home Services Process Automation (+ AI Solutions) Software QA Case Studies Process Automation Software QA Resource Articles Videos Testimonials About Us About Pristine Pro Tech How we do it Our Team Engage with us Contact Us Join us More Use tab to navigate through the menu items.",
+    "Core Capabilities The way we move work forward Case Studies Manual and automated testing, CI/CD test integration, and a robust QA system that scales with your product.",
+    "Solutions The problem we solve What we help you achieve Core Capabilities Our 4-step approch Case-Studies The peace of mind from a trusted QA colleague and team, helps me deliver strong and consistent application enhancements for clients across industries...",
+    "- Mervin Hernandez (Technology & Software Operations Leader) Read all Testimonials Software QA Accelerating Success Through QA & Automation Process Automation Discover Identify opportunities and define goals."
+   ],
+   "cicd": [
+    "Core Capabilities The way we move work forward Case Studies Manual and automated testing, CI/CD test integration, and a robust QA system that scales with your product."
+   ],
+   "owns_product": [
+    "Core Capabilities The way we move work forward Case Studies Manual and automated testing, CI/CD test integration, and a robust QA system that scales with your product."
+   ],
+   "DQ_support": [
+    "Integrations that stick CRMs, helpdesks, data stores, internal tools, and custom APIs."
+   ],
+   "DQ_bpo": [
+    "Core capabilities Core Capabilities (PA) Tech we work with Python, JS, J2EE & AWS Bedrock, N8N etc frameworks AI steps Text classification, summarization, intent detection, entity extraction, Video/ Audio transcription (Whisper AI) sentiment, auto-reply drafts, RAG retrieval for internal knowledge, and translation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "QuickPlay Media Pvt Ltd",
+  "city": "Chennai",
+  "domain": "quickplay.com",
+  "website": "https://quickplay.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 12746,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2,
+   "DQ_training": 1,
+   "DQ_agency": 1,
+   "DQ_template": 3
+  },
+  "site_quotes": {
+   "cicd": [
+    "‍ A content pipeline that scales without rebuilding.",
+    "That means cloud-native microservices, AI pipelines that process and activate media at scale, and orchestration infrastructure that connects CMS, MAM, and ad systems into a single automated workflow."
+   ],
+   "DQ_training": [
+    "Quickplay led a full end-to-end replacement."
+   ],
+   "DQ_agency": [
+    "We also work on server-side rendering and SEO optimization across that full device ecosystem."
+   ],
+   "DQ_template": [
+    "Get this template Unlock 160+ templates Similar templates More templates Kreascape Kreatryx Bloomava Quickplay Blog",
+    "Get this template Unlock 160+ templates Similar templates More templates Kreascape Kreatryx Bloomava About Quickplay",
+    "Get this template Unlock 160+ templates Similar templates More templates Kreascape Kreatryx Bloomava"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Qylis Cloud Data & Cyber Security Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "qylis.com",
+  "website": "https://qylis.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 8044,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "prod_eng": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "He founded Talentsprint, an EdTech startup acquired by the National Stock Exchange of India."
+   ],
+   "prod_eng": [
+    "He led security implementation initiatives for complex technical projects and provided leadership in product engineering."
+   ],
+   "DQ_agency": [
+    "Sailesh Bandi Head of Marketing Sailesh Bandi Head of Marketing Sailesh Bandi is a seasoned MarTech professional with over a decade of experience in strategy, marketing research, digital marketing, marketing automation, CRM systems, customer data platforms, and brand management."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Revature Consultancy Services Private Limited",
+  "city": "Chennai",
+  "domain": "revature.com",
+  "website": "https://www.revature.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 1320,
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 8044,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 6,
+   "sdlc": 6,
+   "cicd": 4,
+   "senior_roles": 1,
+   "DQ_training": 1,
+   "DQ_agency": 1,
+   "enterprise": 3
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Revature For Companies For Companies Forward Deployed Engineer Accelerator Deploy AI-native engineers who deliver outcomes across systems, architecture, and business driving faster execution, reducing handoffs, and enabling enterprise-scale impact from day one.",
+    "Talent Deployment Forward Deployed Engineer Accelerator Revature delivers AI-native Forward Deployed Engineers with faster deployment readiness, minimal transition friction, 4–10x delivery acceleration, and reduced PoC-to-production risk through validated execution.",
+    "Explore FDE Accelerator Talent Deployment Emerging Talent Program Revature delivers entry-level talent through a Hire-Train-Deploy model, reducing time-to-productivity, filling critical skill gaps, enabling cost-efficient scaling, and ensuring consistency through structured, Revature-led training.",
+    "Launch Your AI-Native Career For Companies For Companies Forward Deployed Engineer Accelerator Deploy AI-native engineers who deliver outcomes across systems, architecture, and business driving faster execution, reducing handoffs, and enabling enterprise-scale impact from day one."
+   ],
+   "sdlc": [
+    "System first training with AI native SDLC execution, not isolated tool learning.",
+    "RAG Pipelines & LLM Orchestration SRE & Reliability Mindset AI-Native Development (agents, prompts) Domain Context Fluency End-to-end SDLC Ownership Full Stack Developer (FSD) Builds products against defined requirements from product teams.",
+    "Frontend & Backend Web Development REST APIs & Database Design React, Node, or similar frameworks Code quality & sprint velocity Assigned product scope delivery Who This Is For Designed for experienced engineers ready to accelerate into AI-native, high-impact roles.",
+    "We equip individuals with the skills to thrive in tech and empower businesses with the agile, future-ready talent they need to grow, innovate, and lead."
+   ],
+   "cicd": [
+    "Scalable pipeline of entry-level talent ready to contribute to real enterprise projects.",
+    "RAG Pipelines & LLM Orchestration SRE & Reliability Mindset AI-Native Development (agents, prompts) Domain Context Fluency End-to-end SDLC Ownership Full Stack Developer (FSD) Builds products against defined requirements from product teams.",
+    "\"Our team is devoted to transforming the way tech talent works, and our efforts empower our customers to build sustainable, more diverse talent pipelines while simultaneously creating career opportunities in technology for candidates from all different backgrounds,\" said Ashwin Bharath, CEO and co-founder of Revature.",
+    "New capstone project frameworks: Applies GenAI to real client use cases, such as vector search and RAG pipeline design."
+   ],
+   "senior_roles": [
+    "RAG Pipelines & LLM Orchestration SRE & Reliability Mindset AI-Native Development (agents, prompts) Domain Context Fluency End-to-end SDLC Ownership Full Stack Developer (FSD) Builds products against defined requirements from product teams."
+   ],
+   "DQ_training": [
+    "This policy applies to all terms and conditions of employment, including but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, benefits, compensation, and training."
+   ],
+   "DQ_agency": [
+    "Revature was recognized as a silver winner in the Best Newsjacking Campaign category for its joint campaign with REQ, a digital marketing and public relations agency, to educate the market on the opportunity gap in tech and how emerging tech talent can kick start their careers in the industry."
+   ],
+   "enterprise": [
+    "‍ About Revature Revature is a leading talent enablement organization and the talent development partner of choice for Fortune 500 companies, government organizations and top systems integrators.",
+    "“Our upgraded workforce development solution enables Fortune 500 companies to close critical talent gaps, accelerate AI-driven transformation and achieve measurable impact from day one.",
+    "‍ About Revature Revature is bridging the IT skills gap and accelerating technology workforces for mid-to-large organizations worldwide – from Fortune 500 companies to the federal government and leading system integrators."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Rupeeseed Technology Ventures Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "rupeeseed.com",
+  "website": "https://www.rupeeseed.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "olutions Company - Rupeeseed Technology Ventures Home About Our Work Product Open menu Rupee MF RupeeWealth RupeeWeb MobiRupee RapidRupee RupeeRobo Ru"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [
+    "https://rupeeseed.zohorecruit.in/jobs/Careers"
+   ],
+   "jd_chars": 889443,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "owns_product": 2,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Digital Onboarding Complete KYC, reKYC, and CRM solutions within the BFSI ecosystem, ensuring compliance and enhancing capabilities of broker’s customer management."
+   ],
+   "owns_product": [
+    "In addition to our current offerings, this acquisition enhances our product range, facilitating seamless integration between front and back office applications.",
+    "We offer customized solutions, including trading platforms, e-KYC platforms, and risk and order management systems, tailored to the specific needs Elevate Your Platform Offerings with Rupeeseed's Robust and Scalable Solutions."
+   ],
+   "DQ_bpo": [
+    "In addition to our current offerings, this acquisition enhances our product range, facilitating seamless integration between front and back office applications."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Sasken Technologies Limited",
+  "city": "Bengaluru",
+  "domain": "sasken.com",
+  "website": "https://www.sasken.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Product Engineering and Digital Transformation Services | Sasken --> --> --> Investors Car"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 10,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "DQ_agency": 2,
+   "prod_eng": 3,
+   "DQ_support": 3,
+   "qa": 1,
+   "enterprise": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Learn More → DevOps Accelerating your development lifecycle through automation, collaboration, and continuous integration/delivery pipelines."
+   ],
+   "DQ_agency": [
+    "Explore Transform Your Digital Marketing Landscape : Unleashing Sasken's Analytical Prowess BUSINESS PROBLEM Effectively measure the success of digital marketing initiatives an...",
+    "Explore --> Transform Your Digital Marketing Landscape : Unleashing Sasken's Analytical Prowess BUSINESS PROBLEM Effectively measure the success of digital marketing initiatives an..."
+   ],
+   "prod_eng": [
+    "CORPORATE HEADQUARTERS Sasken Technologies Ltd 139/25, Ring Road, Domlur, Bengaluru 560071, India CIN# L72100KA1989PLC014226 Blog Careers Contact Us INVESTORS News © Sasken Technologies Ltd 1989 - 2025 Terms Of Use Privacy Policy Cookie Policy Product Engineering Services and Solutions",
+    "Sasken is a specialist in Product Engineering and Digital Transformation providing concept-to-market, chip-to-cognition R&D services to global leaders in Semiconductor, Automotive, Industrials, Smart Devices & Wearables, Enterprise Grade Devices, Satcom and Transportation industries.",
+    "CONTACT US Sasken is a specialist in Product Engineering and Digital Transformation providing concept-to-market, chip-to-cognition R&D services to global leaders in Semiconductor, Automotive, Industrials, Smart Devices & Wearables, Enterprise Grade Devices, Satcom and Transportation industries."
+   ],
+   "DQ_support": [
+    "We are able to ‘connect the dots’ and help customers create new products due to our unrivalled understanding of the entire stack right from semiconductor platforms and hardware to wireless standards, multimedia, connectivity and testing services.",
+    "This process involves regular maintenance to protect hardware investments and reduce the total cost of ownership.",
+    "Which hardware chipsets are supported for Android security updates?"
+   ],
+   "qa": [
+    "Sasken provides a host of testing services that include Test Automation, Consultancy, Test Specifications, Product Testing and Application Testing which prove invaluable to companies seeking to optimize the cost of maximizing their investments through the product development lifecycle."
+   ],
+   "enterprise": [
+    "Through the last three decades, Sasken’s deep engineering capabilities and technology patents have helped transform over a hundred Fortune 500 clients and powered more than a billion digital devices from its state-of-the-art facilities in India, Finland, Germany, and Japan."
+   ],
+   "compliance": [
+    "Sasken’s solutions are backed by CMMI-DEV-V2.0-ML3, ISO 9001 (Quality), ISO/IEC 27001 (Information security), and ISO/IEC 27701 (Privacy) certifications."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Sonoco India Performance Hub Private Limited",
+  "city": "Hyderabad",
+  "domain": "sonoco.com",
+  "website": "https://www.sonoco.com/sonoco-hyderabad",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 37032,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "DQ_agency": 1,
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our Products and Services Explore our vast range of packaging solutions designed to enhance both your product and customer experiences.",
+    "Fast forward almost 25 years and we continued to grow our product line and plant locations around the country.",
+    "Learn More about the paper cone We Become Sonoco Nearly five years removed from World War I, the world was dramatically more globalized, and we were pushing to diversify our product offerings."
+   ],
+   "DQ_agency": [
+    "In a rebranding move that was ahead of its time, CEO Charles W."
+   ],
+   "enterprise": [
+    "Larger Than Life Fortune 500 Debut Sonoco made its debut on the Fortune 500 list, becoming the only company in South Carolina to achieve this distinction.",
+    "Visit Sonoco Metal Packaging EMEA 2025 Accolades & Awards View All Awards Sonoco Returns to the FORTUNE 500 List.",
+    "Joachimczyk previously served as Senior Vice President, Chief Financial Officer and Corporate Secretary of American Woodmark Corporation (NASDAQ: AMWD), one of the nation’s largest cabinet manufacturers based in Winchester, Virginia.",
+    "Prior to that, he was Vice President of Finance for TopBuild Corporation, a construction services and distribution company based in Daytona Beach, Florida and held finance leadership positions with Stanley Black & Decker and General Electric’s Healthcare and Capital Markets divisions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Straive Private Limited",
+  "city": "Mumbai",
+  "domain": "learningmate.com",
+  "website": "https://learningmate.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 2184,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 26239,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 4,
+   "DQ_agency": 1,
+   "prod_eng": 6,
+   "owns_product": 3,
+   "cicd": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "It is defined by our core values and principles, which drive what we do every day and how we work together amongst ourselves and with customers.",
+    "We’re agile, fast, and powerful, bringing decades of collective education and technology experience to bear on even the biggest of challenges.",
+    "Here's an example of our process.",
+    "Learners demand personalization, businesses need agile workforces, and institutions must embrace digital-first models."
+   ],
+   "DQ_agency": [
+    "Human Resource Leadership Jolvin Rodrigues Global Head, Human Resources Sanchari Banerjee Vice President, People Practices & Employer Branding Kakul Jain Director, People Practices Join our team Curious to learn where a LearningMate career path may take you?"
+   ],
+   "prod_eng": [
+    "LearningMate is a Straive Company Scroll To Top Product Engineering - LearningMate Skip to content LearningMate was acquired by Straive.",
+    "Awards & Recognition Contact Us Straive Contact Us Straive Product Engineering We push groundbreaking advances in new technologies, giving our clients the ability to be at the leading edge of transformational change.",
+    "Capabilities Our Commitment Client Stories Product Engineering Leadership Custom-built, bespoke education technology products & platforms We will confidently navigate any engineering challenge you face, walking with you through the entire process.",
+    "From AI infrastructure to custom application development to ongoing dev ops, we will supercharge your product engineering."
+   ],
+   "owns_product": [
+    "From AI infrastructure to custom application development to ongoing dev ops, we will supercharge your product engineering.",
+    "We’re your personal behind-the-scenes tech wizards, keeping your solutions humming along for the life of your product.",
+    "Now, I am the lead designer for all our products, including Frost and Kadal."
+   ],
+   "cicd": [
+    "Our DevOps approach is cyclical, including continuous integration and delivery, automated testing, and efficient management of infrastructure."
+   ],
+   "qa": [
+    "Our DevOps approach is cyclical, including continuous integration and delivery, automated testing, and efficient management of infrastructure."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Strategic Research Insights LLP",
+  "city": "Chennai",
+  "domain": "srinsights.com",
+  "website": "https://www.srinsights.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 69650,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "DQ_agency": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Best Consulting Firm in Life Sciences Industry – Drive pharma success with SRI — a leading healthcare market research firm combining AI and expert insight to power data-driven decisions.",
+    "Get in Touch Explore Our Solutions Who We Are Strategic Research Insights (SRI) offers a unique blend of custom primary market research and secondary data analytics solutions for the pharmaceutical, biotech, and healthcare sectors.",
+    "Join a team where expertise is valued and your contribution influences global healthcare decisions.",
+    "Princeton, NJ Read More Associate, Healthcare Consulting Working in small teams to guide pharmaceutical sales and marketing strategies, Associates will manage projects, develop research, extract insights, and present to clients, requiring strong data interpretation skills but no statistical software expertise."
+   ],
+   "DQ_agency": [
+    "Read More Testing and Optimizing Concepts, Messages, and Branding In the pharmaceutical landscape, every communication must be precise and clinically credible."
+   ],
+   "cicd": [
+    "Contact us to Learn More Why SRI Our Leadership: Expertise You Can Trust At the helm of SRI is a distinguished leadership team with advanced academic credentials and over 20 years of expansive experience in research and analytics."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Sunstone Education Technology Private Limited",
+  "city": "Gurugram",
+  "domain": "sunstone.in",
+  "website": "https://sunstone.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 4725,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 14,
+   "DQ_agency": 1,
+   "enterprise": 1,
+   "owns_product": 1,
+   "senior_roles": 1,
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Sunstone: Best UG/PG Courses in India With 100% Placement Support Register for N-SAT",
+    "0 Cost EMI available Up to 100% scholarship available Get 200+ assured opportunities with Placement Opportunity Program Check Eligibility Now *Terms & conditions apply APPLY FOR UG AND PG PROGRAMS Enter a world of Possibilities Apply for graduate or postgraduate program and shape your career now!",
+    "Which management schools in India offer direct placements in tech companies?",
+    "Sunstone's School of Management offers a top management program with direct placement support in leading tech companies."
+   ],
+   "DQ_agency": [
+    "Avoid colleges that claim new age branding without employer partnerships."
+   ],
+   "enterprise": [
+    "Sunstone have 20+ partner campuses across India, connecting students with 1,200+ recruiters across IT, BFSI, retail, and e-commerce."
+   ],
+   "owns_product": [
+    "With his keen understanding of market trends, user needs, and emerging technologies, he plays a pivotal role in steering our product roadmap toward unparalleled success."
+   ],
+   "senior_roles": [
+    "Akash Sourav Head of Engineering A B.Tech graduate from PTU Chandigarh, Akash has over 14 years of experience leading technology across various domains, including market research and education."
+   ],
+   "prod_eng": [
+    "At Sunstone, he drives large-scale product engineering and innovation, building scalable solutions with strong team leadership."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Tatras Data Services Private Limited",
+  "city": "New Delhi",
+  "domain": "tatrasdata.com",
+  "website": "https://tatrasdata.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2015-11-21",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 4240,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 4,
+   "DQ_agency": 1,
+   "DQ_bpo": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Implementation Tatras Data developed a pipeline that uses GenAI to select key features and describe customer subgroups, paired with unsupervised ML clustering to identify segments within a larger cohort.",
+    "Implementation Tatras Data developed a deep learning pipeline that detects brand logos in live or recorded video, classifies impressions, and links them to viewership data to quantify ROI.",
+    "Let's discuss how our pipeline can accelerate your path to production."
+   ],
+   "DQ_agency": [
+    "Sarabjot Singh Anand Co-Founder & Chief Data Scientist Amitabh Lahiri Chief Operating Officer Noah has spent 25 years building technology companies across publishing, e-commerce, and digital marketing."
+   ],
+   "DQ_bpo": [
+    "Before After The Challenge Manual processing is killing your efficiency Problem Slow Processing Manual data entry creates bottlenecks that delay decisions and frustrate customers waiting for answers."
+   ],
+   "compliance": [
+    "Data Encryption AES-256 at rest and in transit Access Controls Role-based permissions and SSO SOC 2 Type II Certified compliance Audit Trails Complete activity logging SOC 2 Type II Certified 99.9% Uptime SLA ISO 27001 Certified Ready to build your AI system?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Tholons Knowledge Management Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "tholons.com",
+  "website": "https://www.tholons.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": ", real estate, public equities debt and foundation. Tholons portfolio funds include, Tholons Capital, Saha Fund and StrongHer Ventures. Thought Leader"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "owns_product": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "This strategic shift builds resilience, provides access to specialized global talent, and fosters continuous innovation, ensuring your business stays agile and competitive for sustainable growth."
+   ],
+   "owns_product": [
+    "Access to Tholons Innovation Network: Connect with a curated ecosystem of accelerators, incubators, system integrators, universities, and founder networks."
+   ],
+   "DQ_bpo": [
+    "This model involves partnering with external service providers or System Integrators for specific IT or Business Process Outsourcing (BPO) functions, allowing you to prioritize flexibility, speed, and access to specialized expertise without the need for direct operational management."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Toshal Infotech Private Limited",
+  "city": "Surat",
+  "domain": "toshalinfotech.com",
+  "website": "https://www.toshalinfotech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Offshore Software Development Outsourcing Company & Service Provider Home About Us Our Vision & Mis"
+  },
+  "jd": {
+   "pages_read": 12,
+   "external_job_boards": [],
+   "jd_chars": 89421,
+   "signals": {
+    "vcs_generic": 2,
+    "testing": 2
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Agile development methodology Experience with GIT Experience with JavaScript frameworks - angular.js, backbone, ember.js, etc...",
+     "Experience with the automated build process[Continous Integration] and source code version control tools [GIT and / or SVN] Expert level Knowledge of Javascript Fundamentals."
+    ],
+    "testing": [
+     "Doing development in TDD (Test Driven Development) manner with all possible agility.",
+     "Mocha, Jest, Jasmine or Enzyme."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 2,
+   "owns_product": 1,
+   "cicd": 3,
+   "qa": 26,
+   "DQ_agency": 1,
+   "DQ_template": 7,
+   "sdlc": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Whether it’s product engineering or system integration, our focus is to deliver scalable, smart, and secure solutions.",
+    "Product Engineering End-to-end product development — from concept to deployment."
+   ],
+   "owns_product": [
+    "We bring your product ideas to life using scalable architecture, cloud-native stacks, and AI-enabled modules."
+   ],
+   "cicd": [
+    "03 Smart & Scalable Development From idea to intelligent product — our development pipeline uses automation, version-aware builds, and AI integrations to deliver reliable, modular, and future-proof systems.",
+    "02 Automation Testing Build automated test suites that improve testing speed and support continuous integration pipelines.",
+    "They integrate with your developers, sprint planning, CI/CD pipelines, issue tracking tools, and release processes."
+   ],
+   "qa": [
+    "QA - Test Software testing related questions will be there.",
+    "Tester / QA A Tester / QA with excellent knowledge of analytical skills.",
+    "Hire QA Testing Engineers",
+    "Book a Free Consultation Why Hire Qa Testing Engineers Without Dedicated QA Engineers More Production Bugs Critical defects reach customers, impacting user experience and business operations."
+   ],
+   "DQ_agency": [
+    "Digital Marketing - Test All questions related to SEO and Digital Marketing will be covered."
+   ],
+   "DQ_template": [
+    "Words from our clients \"Toshal Infotech helped me launch my MVP in 4 weeks.",
+    "Toshal Infotech knows startups.\" — Rahul Verma, Tech Entrepreneur \"Launching a market-ready MVP in 30 days sounded too good to be true—until Toshal Infotech made it happen.",
+    "Read More > Words from our clients \"Toshal Infotech helped me launch my MVP in 4 weeks."
+   ],
+   "sdlc": [
+    "They integrate with your developers, sprint planning, CI/CD pipelines, issue tracking tools, and release processes."
+   ],
+   "enterprise": [
+    "Medical & Life Insurance Your medical bills are no more yours!",
+    "We are here with a solution for all of our associates We care about the well being of our associates, we do provide you the medical and life insurance."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Tungsten Development Private Limited",
+  "city": "Hyderabad",
+  "domain": "tungstenautomation.com",
+  "website": "https://www.tungstenautomation.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 18761,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 9,
+   "DQ_bpo": 1,
+   "DQ_training": 1,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "We provide professional development programs, tuition reimbursement programs and onsite training, along with competitive benefits, depending on the country, such as health insurance, meal vouchers, pension plan, car allowance, etc.",
+    "Benefits APAC Australia Private Health Insurance – Eligibility begins on the first day of employment.",
+    "Health insurance covers employee and up to 5 dependents; cashless at network hospitals; corporate buffer available on approval.",
+    "Financial services Insurance Healthcare Government Business process outsourcing --> ESG ESG Our commitment to sustainability At Tungsten Automation, we prioritize responsibility and sustainability, nurturing a global work environment that values empowerment, diversity, and inclusiveness."
+   ],
+   "DQ_bpo": [
+    "Reynolds was previously CEO of Unibase Systems, Inc., a private company that revolutionized the data entry market by providing software and systems on industry standard, open platforms."
+   ],
+   "DQ_training": [
+    "When he’s not talking tech on a big stage, you’ll find Adam behind a camera lens, writing, playing fast-pitch softball, motorcycling, skiing, raising money in support of veterans’ causes, or coaching youth sports."
+   ],
+   "DQ_template": [
+    "A library of pre-built form templates and applications , complimented by a wizard that guides users through creating data models, forms, and workflows."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Ucodesoft Solutions Private Limited",
+  "city": "Mohali",
+  "domain": "ucodesoft.com",
+  "website": "https://ucodesoft.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2013-07-09",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 3972,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 1,
+   "enterprise": 1,
+   "prod_eng": 1,
+   "owns_product": 1,
+   "qa": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Joren Mackenroth Independent Contractor, Software Development & SEO Services 5.0 They deliver items on time and are very responsive to my questions and needs."
+   ],
+   "enterprise": [
+    "Learn more → BookDoc BookDoc connects users with healthcare professionals, allowing them to book appointments, access teleconsultations, and maintain a healthier lifestyle with fitness tracking and wellness rewards."
+   ],
+   "prod_eng": [
+    "--> Product Engineering & Development"
+   ],
+   "owns_product": [
+    "Whether you're creating your product from scratch, modernizing it, or continuously improving it, we have the required expertise for your business."
+   ],
+   "qa": [
+    "Explore → Software QA & Testing Ensuring software quality through rigorous testing and validation processes to deliver reliable and bug-free products."
+   ],
+   "sdlc": [
+    "Being an 100% agile team, we develop solutions to fit in your business and budget From startup to enterprise level, from simple to complex projects, we navigate the intricacies for best custom software design and development."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ }
+]

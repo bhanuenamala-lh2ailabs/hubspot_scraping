@@ -1,0 +1,877 @@
+[
+ {
+  "name": "embedUR systems (India) Private Limited",
+  "city": "Chennai",
+  "domain": "embedur.com",
+  "website": "https://www.embedur.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "Assure Services Expertise Wireless Access IoT/Cloud Clients Case Studies About You Blog/News Company Company Our Culture Leadership Careers Career Dev"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [
+    "https://embedur.zohorecruit.in"
+   ],
+   "jd_chars": 899581,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 12,
+   "owns_product": 1,
+   "prod_eng": 1,
+   "cicd": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Proven Dependable Partner Trusted by Fortune 500 companies for new product development and sustenance for entire product lines.",
+    "Helped significantly accelerate product's launch Read Full Story Connectivity Transformed agricultural fleet management with M2M for a Fortune 500 machinery maker Innovative M2M solution using BATMAN-ADV protocol drives diverse wireless communication use cases for agricultural leader.",
+    "A.T VP, Product Management, Fortune 500 Company We keep coming back to embedUR, because they have mature leaders managing projects, and the team has the drive to get it done, whatever it takes.",
+    "A.C Senior Director of Engineering, Fortune 500 Company embedUR has excelled again."
+   ],
+   "owns_product": [
+    "Visit Page Enhancements Elevate your products through next-gen enhancements."
+   ],
+   "prod_eng": [
+    "I value the supportive environment which has helped me deepen my knowledge in product engineering and services."
+   ],
+   "cicd": [
+    "Learn More SQA and Testing Our state-of-the-art test labs with test platforms for complete end-to-end product validation help our clients scale SQA and test resources rapidly, preventing delays from overwhelmed in-house labs."
+   ],
+   "DQ_support": [
+    "We cater to a diverse clientele ranging from start-ups to Fortune 500 giants in industries spanning Telecom, Networking, Automotive, Healthcare, Information Technology (hardware manufacturing), Energy and more."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Emerson Innovation Center - Pune (A Div. of Emerson Electric Company (I) Pvt Ltd)",
+  "city": "Pune",
+  "domain": "emerson.com",
+  "website": "https://www.emerson.com/en/corporate",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 86685,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "cicd": 2,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Explore Measurement Instrumentation Test & Measurement Unlock insights, reduce complexity and drive innovation with our AI-powered, integrated hardware and software test platform."
+   ],
+   "cicd": [
+    "Learn More Lifecycle Management Why Integrating Real-Time Pipeline Monitoring is Critical See how real-time monitoring and advanced leak detection can prevent pipeline incidents before they occur.",
+    "Connective, enterprise-level software like AMS Optics empowers plant teams to transform overwhelming data into actionable insights."
+   ],
+   "DQ_training": [
+    "Emerson's Wireless Network Planning Tool lets you upload an aerial image of your site and design a network using industry best practices for device density, gateway placement, and coverage.",
+    "Then use Emerson's Wireless Network Planning Tool to design a network using industry best practices for device density, gateway placement, and coverage."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Empower Global Business Services India Private Limited",
+  "city": "Bengaluru",
+  "domain": "greatwest.com",
+  "website": "https://www.empower.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1997-05-14",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 13333,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 16
+  },
+  "site_quotes": {
+   "enterprise": [
+    "High-yield Cash Account A high-interest cash account with no account fees, no minimums, direct deposit, and aggregate FDIC insurance up to $5 million.",
+    "EAG is a registered investment adviser with the Securities and Exchange Commission (SEC) and an indirect subsidiary of Empower Annuity Insurance Company of America.",
+    "“EMPOWER” and all associated logos, and product names are trademarks of Empower Annuity Insurance Company of America.",
+    "©2026 Empower Annuity Insurance Company of America."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Emprotek Software Solutions Private Limited",
+  "city": "Pune",
+  "domain": "emprotek.com",
+  "website": "https://emprotek.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2015-12-03",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 5563,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Endeavour ERP Solutions India Private Limited",
+  "city": "Hyderabad",
+  "domain": "etsglobal.in",
+  "website": "https://etsglobal.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2026-05-16",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Engie Energy and Services India Private Limited",
+  "city": "Pune",
+  "domain": "engieindia.com",
+  "website": "https://engieindia.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ensonic Computech Private Limited",
+  "city": "Kolkata",
+  "domain": "ekin.net.in",
+  "website": "https://ekin.net.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nd understanding of requirement and concern of the End user Our Product/Solutions are easy to use and maintain. Easily adoptable to even novice user W"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 4
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "We provide sophisticated solutions that can be integrated with existing hardware to ensure optimal utilization of resources.",
+    "READ MORE Our Work Process 01 Understand your Requirements 02 Design a Customized Solution 03 Book a Virtual Demo 04 Delivery, Installation & Training Interactive Flat Panel - Advanced AI Royal Series High-Performance Hardware paired with AI-powered software for enhanced productivity and intuitive user experience.",
+    "This integrated approach not only ensures the reliability of our hardware but also enables us to provide prompt and effective after-sales service and support under our Customer First policy.",
+    "Ekin Vision Our vision is to provide simple, easy-to-use, cost-effective, and high-quality IT hardware solutions for Smart Classes, Virtual Classes, Video Conferencing, and Recording Studio that simplify the end-user experience."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ensono Technologies LLP",
+  "city": "Pune",
+  "domain": "ensono.com",
+  "website": "https://www.ensono.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 81344,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "sdlc": 8,
+   "prod_eng": 1,
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "From banks and insurers to governments and global enterprises, Fortune 500 clients trust Ensono to turn IT into an advantage—delivering faster, smarter, safer outcomes that move business forward.",
+    "Proven success across highly regulated, mission-critical sectors.",
+    "Learn more Insurance Empowering insurers to accelerate claims and deliver customer experiences built on trust and resilience.",
+    "Learn more Healthcare Supporting healthcare providers in amplifying technology, data, insights and collaboration to improve patient experiences."
+   ],
+   "sdlc": [
+    "See how we work with clients What We Do : Modern IT services powered by relentless allyship Driving faster, safer, better outcomes for your customers and business.",
+    "Let’s talk Deliver Better Business Outcomes Faster with a Team of Agile Cloud Experts As your company continues with the digital transformation to meet the demands of a digital economy, using cloud technologies can accelerate new revenue streams, increase operational efficiencies, reduce costs.",
+    "Ensono Flex Cloud Engineering makes your organization more agile and flexible, enter new markets more quickly, and deliver new technologies to help you serve your customers better.",
+    "Agile Management Agile helps drive discipline and iterative approaches."
+   ],
+   "prod_eng": [
+    "Cloud Platform Engineering Leveraging our technical cloud patterns and practices to design and implement a project that results in new or improved cloud capabilities."
+   ],
+   "DQ_support": [
+    "RIM mainframe and midrange services allow you to retain ownership of the hardware and software while leveraging our expertise and deep partnerships.",
+    "Hardware remains in your facility You retain ownership Ensono manages and supports your infrastructure Reduce costs, speed transition Lower your expenses immediately by moving to an Opex management model."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Entrata India Private Limited",
+  "city": "Pune",
+  "domain": "entrata.com",
+  "website": "https://www.entrata.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 11911,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6,
+   "sdlc": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Military Built for secure, structured, and government-regulated housing needs.",
+    "Affordable Embedded compliance logic supports regulated workflows and budget constraints."
+   ],
+   "sdlc": [
+    "Cost codes Set up job cost codes and categories so they work with your processes."
+   ],
+   "owns_product": [
+    "Prioritize different perspectives Our success depends on embracing different perspectives that enhance our products and team."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Eone Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "eonetechnologies.com",
+  "website": "https://www.eonetechnologies.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "> Home About Us Services Process People Technology Delivery WE BUILD ENTERPRISE GRADE WEB AND MOBILE APPLICATIONS USING OUTSYSTEMS , THE #1 LOW-CODE P"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 9344,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 12,
+   "DQ_template": 6,
+   "cicd": 3
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Learn more about us Our Success is in Our 4 SPRINT Process At EONE Technologies Outsystems partners in india, we’ve honed our processes to ensure that every project we undertake is a success.",
+    "Our 4 SPRINT agile process, is designed to keep your project on track and on budget.",
+    "By breaking down the development process into manageable sprints, we can quickly adapt to changes, deliver incremental results, and ensure that the final product exceeds your expectations.",
+    "Chennai Full time Apply Now Outsystems UI/UX We are looking to add a OutSystems UI/UX Designer to our growing team Delhi Full time Apply Now Outsystems Developer We are looking for a qualified OutSystems Engineer, familiar with SDLC process; have exposure working with multiple teams."
+   ],
+   "DQ_template": [
+    "For mobile apps, you can also use ready-made plugins from the OutSystems Forge.",
+    "Read More June 13, 2025 Enhancing OutSystems with Ultimate PDF Integration Ultimate PDF enables developers to create dynamic PDF documents by merging customizable templates with data from their OutSystems applications.",
+    "With flexible templates, businesses can tailor outputs to their specific needs."
+   ],
+   "cicd": [
+    "The feedback we have received from both the business and customers has been overwhelmingly positive, and I am so proud of the impact you are making.” Sharaf DG “Hi Mythily, Appreciate the hard work done by Deepak and you on the project."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Epicor Software India Private Limited",
+  "city": "Bengaluru",
+  "domain": "epicor.com",
+  "website": "https://www.epicor.com/en/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-01-11",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 122204,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Standardizing on Epicor and moving to the cloud have made us more agile and proactive.\" Nicholas Mueller"
+   ],
+   "DQ_support": [
+    "Lakewood Ace Hardware Epicor Solution: Epicor Propello Success Stories How Can We Help?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "EQT Partners India Private Limited",
+  "city": "Bengaluru",
+  "domain": "eqtgroup.com",
+  "website": "https://eqtgroup.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ownership is EQT's way of creating value for investors, in portfolio companies and to society at large. Responsibility Featured investments EQT Value"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 30019,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "How we build better The full story Carving out an overlooked healthcare business and more than doubling EBITDA An overlooked healthcare division sat inside one of India's largest conglomerates.",
+    "A dependable vendor became an expert in healthcare operations serving U.S.",
+    "An Inflection Point for Private Wealth Peter Aliprantis Partner, Head of Americas Private Wealth Turning Avoided Emissions into Commercial Gain Katherine Kitson Director, Impact Healthcare The Startups Meeting the Challenge of Dementia Better begins by getting in touch.",
+    "Workday’s recent agreement to acquire Sana means the company now has access to more than 75 million users at over 65 percent of the Fortune 500."
+   ],
+   "sdlc": [
+    "Open forum discussions make it easy to share ideas and apply AI in ways that enhance how we work.",
+    "Read more From aging highways to crumbling dams, America’s infrastructure backbone is alarmingly fragile."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Equinox Software And Services Pvt Ltd",
+  "city": "Pune",
+  "domain": "equinoxweb.co.in",
+  "website": "https://www.rediffmailpro.com/cgi-bin/login.cgi",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2006-02-13",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "ESF Labs Limited",
+  "city": "Hyderabad",
+  "domain": "esflabs.com",
+  "website": "https://www.esflabs.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Esri India Technologies Private Limited",
+  "city": "Noida",
+  "domain": "esri.in",
+  "website": "https://www.esri.in/en-in/home",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 4699,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "DQ_training": 1,
+   "DQ_template": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Read the story Road Network Analysis RSAC-UP Optimizes Green Organ Corridor Route with ArcGIS The Road Network Analysis helped in finding the best route to healthcare facilities among the four possible routes."
+   ],
+   "DQ_training": [
+    "Those who use AI as a thinking partner — to challenge their ideas, stress-test their reasoning, explore possibilities they hadn’t considered — and those who use it as a thinking replacement."
+   ],
+   "DQ_template": [
+    "Choose from a variety of focused app templates and create an app in just a few clicks.",
+    "Select from a variety of ready-to-use templates."
+   ],
+   "owns_product": [
+    "Previous Next Get in touch with us Product Information Get answers for your product, industry or technical inquiries Request Product Information Contact Us Share your details with us Contact Esri India Give us a call Talk over the phone 1800-102-1918 opens in new window"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ethnus Consultancy Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "ethnus.com",
+  "website": "https://ethnus.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 3
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Skilling for Students Ethnus integrates industry-certified training in emerging technologies like Cloud Computing, IoT, Cyber Security, Full Stack, and more with hands-on learning, projects, and placement guidance - all in a seamless experience geared to make students proficient.",
+    "The program was good as it was highly professional, they trained us in all aspects, they trained us to become industry-ready, and they also provided placement assistance.",
+    "The way they teach is really well understood, and 100% placements have been given here."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "ETS Assessment Services Private Limited",
+  "city": "Gurugram",
+  "domain": "ets.org",
+  "website": "https://www.ets.org/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 29068,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "EUI Limited",
+  "city": "Gurugram",
+  "domain": "admiral.com",
+  "website": "https://www.admiral.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ot more than just car insurance. Find out more about us and our products, including what we stand for as a brand, what it’s like to work for us and ho"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 34,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Find out more Business Get the Admiral App Help and Support Breakdown Call-Out A daily chance to win a £500 gift card for existing customers Get home insurance for your chance to win.",
+    "The best car insurance on the market!",
+    "EUI Limited is a subsidiary of Admiral Group plc and is authorised and regulated by the Financial Conduct Authority (Firm reference number: 309378).",
+    "EUI Limited acts for, and on behalf of, other regulated insurance companies."
+   ],
+   "owns_product": [
+    "She looks after our landlord strategy, leads our product development, and is all about growing our landlord business."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Euphonious Innovation Private Limited",
+  "city": "Bengaluru",
+  "domain": "curl.tech",
+  "website": "https://www.curl.tech/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "atizing Technology Find Out More AI + Blockchain + Robotics We Build Products, Custom Solutions and Provide Niche Services using Emerging Technologies"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "DQ_support": 3,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Start a conversation → See how we work Who we are Complexity is not the enemy.",
+    "How we work From scatter to signal."
+   ],
+   "DQ_support": [
+    "We operate as a one-stop shop — hardware, software, firmware, integrations, and everything in between.",
+    "IoT & Hardware Custom sensor hardware, edge computing platforms, firmware, and AI-powered connected device ecosystems.",
+    "02 Converge with intelligence We build systems that bring fragmented data streams — across hardware, software, edge and cloud — into alignment."
+   ],
+   "enterprise": [
+    "02 — Banking & Financial Services Intelligence at the speed of markets Financial services demand precision, speed, and compliance in equal measure."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Evoke Technologies Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "evoketechnologies.com",
+  "website": "https://www.evoketechnologies.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Evoke Technologies - Custom Software Development & IT Services Company Careers News & Events Blog Contact Us Se"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 28860,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 5,
+   "owns_product": 4,
+   "enterprise": 3,
+   "cicd": 5,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Learn more Quality Engineering From advisory and planning to process optimisation, we help enterprises make better decisions and achieve business agility.",
+    "Our solutions help organizations manage large volumes of data, enhance application management, employ digital transformation, and ensure premium quality engineering.",
+    "Learn more Automation Accelerate releases with scalable, maintainable and AI-enhanced test automation strategies.",
+    "Learn more Quality Engineering Our cloud migration services can spur your business."
+   ],
+   "owns_product": [
+    "Learn more Learn more Quality Assurance Our quality assurance services offer you benefits that last beyond your product lifecycle.",
+    "Learn more Quality Assurance Our quality assurance services offer you benefits that last beyond your product lifecycle.",
+    "The Question Is Whether Your Platform Is Learn more Share --> 8 min read SAP SAP The Last SAP Deadline That Will Ever Move Learn more Share --> 5 min read SAP SAP SAP Greenfield vs Brownfield vs Selective Migration: Choosing the Right S/4HANA Path Learn more Share --> BLOG What’s new?",
+    "The Question Is Whether Your Platform Is Learn more Share 8 min read SAP SAP The Last SAP Deadline That Will Ever Move Learn more Share 5 min read SAP SAP SAP Greenfield vs Brownfield vs Selective Migration: Choosing the Right S/4HANA Path Learn more Share View More Blogs Ready to Transform your Business?"
+   ],
+   "enterprise": [
+    "BFSI Powering BFSI institutions to automate compliance, digitize workflows, and personalize customer experiences.",
+    "Healthcare Offering solutions that streamline clinical operations and improve patient outcomes.",
+    "Our services include comprehensive data services, healthcare app management, and inventory management."
+   ],
+   "cicd": [
+    "Our engineers have built many data pipelines from data sources to target storage/applications.",
+    "Evoke Data Engineers help our customers in developing near real-time data pipelines to provide decision makers with more current data.",
+    "Our Modern data pipelines approach relies on the cloud to enable customers to automatically scale compute and storage resources up or down.",
+    "Usually for Modern data pipelines, we design a distributed architecture that provides immediate failover and alerts users in the event of node failure, application failure, and failure of certain other services."
+   ],
+   "sdlc": [
+    "A modernized cloud data warehouse can handle high volumes of structured and unstructured data using agile methodology to unify disparate data sources in the customer’s technology ecosystem."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

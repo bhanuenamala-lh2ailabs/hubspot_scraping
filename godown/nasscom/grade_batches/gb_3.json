@@ -1,0 +1,1606 @@
+[
+ {
+  "name": "Lexplosion Solutions Pvt Ltd",
+  "city": "Kolkata",
+  "domain": "lexplosion.in",
+  "website": "https://lexplosion.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "age, analyse and control all contractual risk Find out more Our Product Portfolio All legal tech products are designed and developed by lawyers with i"
+  },
+  "jd": {
+   "pages_read": 13,
+   "external_job_boards": [],
+   "jd_chars": 37151,
+   "signals": {
+    "private_repo_host": 1,
+    "cicd": 3,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Familiarity with CodeCommit/Git, CI/CD, and cloud platforms like AWS is an advantage Key Responsibilities:"
+    ],
+    "cicd": [
+     "Familiarity with CodeCommit/Git, CI/CD, and cloud platforms like AWS is an advantage Key Responsibilities:",
+     "Must have experience with Docker, Jenkins, CI/CD pipelines and Python scripting for build, deployment and automation.",
+     "Good to have knowledge of Kubernetes and Argo CD along with MySQL administration and implementation."
+    ],
+    "vcs_generic": [
+     "Familiarity with CodeCommit/Git, CI/CD, and cloud platforms like AWS is an advantage Key Responsibilities:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "sdlc": 1,
+   "compliance": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "A non-banking subsidiary of an American multinational investment bank and financial services having operations in India Matrimony.com, the leading online matrimony company, operates with offices across several cities in India.",
+    "CitiusTech Healthcare Technology Private Limited Everyone in our team has expressed a good feedback in terms of receiving the updates on time.",
+    "A non-banking subsidiary of an American multinational investment bank and financial services having operations in India- A non-banking subsidiary of an American multinational investment bank and financial services having operations in India Thanks Lex team for your continued support.",
+    "CitiusTech Healthcare Technology Private Limited Komrisk is the most user friendly tool in the market."
+   ],
+   "sdlc": [
+    "In conclusion, we're exceptionally satisfied with Komlit as its reliable and efficient tool significantly enhancing our processes."
+   ],
+   "compliance": [
+    "ISO 27001 Excellence in Legal Tech Solutions 2023-24 & 2024-25 - ET Legal World Legal Tech company of the year 2023 - UBS Forums News & Updates Stay Updated with the Latest Legal News & Blogs August 6, 2026",
+    "Enterprise-Grade Security Built with the latest cybersecurity standards like ISO 27001, VAPT, ethical hacking and penetration testing, Komrisk ensures your compliance data is always secure."
+   ],
+   "DQ_support": [
+    "It is interesting to see how product landscape now exceeds the limit of software and finds synergy in hardware and other bodies of science."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 73
+ },
+ {
+  "name": "Alumnus Software Limited",
+  "city": "Kolkata",
+  "domain": "alumnux.com",
+  "website": "https://www.alumnux.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "in providing the entire range of services pertaining to the Application development including Business workflow automations, Client server application"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 75270,
+   "signals": {
+    "review_gate": 1,
+    "cicd": 4,
+    "vcs_generic": 4,
+    "testing": 5
+   },
+   "quotes": {
+    "review_gate": [
+     "Conduct code reviews and provide constructive feedback to peers."
+    ],
+    "cicd": [
+     "CSS Git DevOps HTML JavaScript Jenkins Web API SQL Server Blazor Graph DBMS OOP Web Development ADO.Net Minimal API Department:",
+     "Understand basic deployment pipelines and contribute to CI/CD processes .",
+     "Basic understanding of DevOps pipelines , including Jenkins and deployment workflows."
+    ],
+    "vcs_generic": [
+     "Proficiency in Git Repository management .",
+     "CSS Git DevOps HTML JavaScript Jenkins Web API SQL Server Blazor Graph DBMS OOP Web Development ADO.Net Minimal API Department:",
+     "Knowledge of version control systems like Git."
+    ],
+    "testing": [
+     "Key Responsibilities Develop and deliver work items within stipulated time after Unit testing.",
+     "The candidate should have a strong background in manual and automation testing , especially using Robot Framework (Python) and Playwright (JavaScript) .",
+     "Design, develop, and maintain automated test scripts using Robot Framework (Python) and Playwright (JavaScript)."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 2
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "They grew up inside our culture of engineering excellence and ownership, and they carry it forward in their own way.",
+    "Over the years, he has built several of the company’s largest client relationships and takes pride in fostering a culture where engineering excellence and deep problem-solving define how Alumnus works."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 72
+ },
+ {
+  "name": "Azalio Technologies Private Limited",
+  "city": "Mohali",
+  "domain": "azalio.io",
+  "website": "https://www.azalio.io/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 14,
+   "external_job_boards": [],
+   "jd_chars": 120089,
+   "signals": {
+    "review_gate": 3,
+    "cicd": 4,
+    "testing": 3
+   },
+   "quotes": {
+    "review_gate": [
+     "Ensure code quality through unit testing, integration testing, and code reviews.",
+     "Ensure code quality through unit testing, integration testing, and code reviews.",
+     "Ensure code quality through unit testing, integration testing, and code reviews."
+    ],
+    "cicd": [
+     "OpenShift implementation/upgrade/migration and platform operations Telco + IT operations automation (runbooks, orchestration, CI/CD, observability/AIOps) GenAI-led automation (agentic workflows for operations, ticket triage, knowledge automation, analytics, reporting) This is a quota-carrying role with high ownership:",
+     "Expertise in cloud-native architecture – Kubernetes, Docker, microservices, CI/CD pipelines.",
+     "Working knowledge of automation & orchestration tools (Kafka, Ansible, Terraform, Jenkins)."
+    ],
+    "testing": [
+     "Ensure code quality through unit testing, integration testing, and code reviews.",
+     "Ensure code quality through unit testing, integration testing, and code reviews.",
+     "Ensure code quality through unit testing, integration testing, and code reviews."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "cicd": 3,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Our experts provide infrastructure and networking solutions to connect, optimise, and manage private, public, and hybrid cloud solutions across leading platforms, including AWS, Azure, GCP, and RedHat RHOSP."
+   ],
+   "cicd": [
+    "Ansible Automation Platform: Azalio team expertise in Red Hat Ansible Automation Platform allows you to deploy your telecom and banking applications reliably and consistently, all from one common framework.",
+    "Ansible Playbooks make your installations, upgrades and day-to-day management repeatable and reliable.",
+    "read more New agentic compute patterns Cloud For a decade, Kubernetes was the right answer."
+   ],
+   "enterprise": [
+    "Ansible Automation Platform: Azalio team expertise in Red Hat Ansible Automation Platform allows you to deploy your telecom and banking applications reliably and consistently, all from one common framework."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 72
+ },
+ {
+  "name": "Karkinos Healthcare Private Limited",
+  "city": "Mumbai",
+  "domain": "karkinos.in",
+  "website": "https://www.karkinos.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ncer/ 5. National Health Mission: https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=1122&lid=640 What Is Cancer? Cancer is the uncontrolled growt"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [
+    "https://hrkare.darwinbox.in/ms/candidate/careers"
+   ],
+   "jd_chars": 13428,
+   "signals": {
+    "private_repo_host": 2,
+    "cicd": 4,
+    "testing": 2
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Migrate code from TFS to Azure DevOps;",
+     "Migrate code from TFS to Azure DevOps;"
+    ],
+    "cicd": [
+     "Developing ‘Idealized’ automated CI/CD processes, and working with teams to implement those processes in SSGA’s DevOps technology stack;",
+     "Implement automation tools and frameworks (CI/CD pipelines).",
+     "Developing ‘Idealized’ automated CI/CD processes, and working with teams to implement those processes in SSGA’s DevOps technology stack;"
+    ],
+    "testing": [
+     "Develop Junit tests to support code coverage as part of the CI / CD pipeline;",
+     "Develop Junit tests to support code coverage as part of the CI / CD pipeline;"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 32,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Obituary of Dr Sankar IIT Madras Unveils Bharat Cancer Genome Atlas (BCGA) to Revolutionise Cancer Research in India Navigating the Healthcare Landscape: A Comprehensive Report on the Role of Health Insurance in Cancer Care Can pre-emptive germline testing and genomics help resolve challenges in cervical cancer?",
+    "Now all of India is joining my quest for world-saving innovation’ Karkinos Platform: Integrating Fragmented Cancer Care Continuum Testimonials I referred one of my patients to Karkinos Healthcare.",
+    "Krishnakumar MG Department of Dental and Maxillofacial surgery Badr Alsamaa Hospital, Alkhoud, Muscat Our heartfelt thanks to Karkinos Healthcare for hand holding my brother Dr.",
+    "Sister of a cancer patient treated at Karkinos Healthcare I underwent hemithyroidectomy surgery on 6th April 2022 at Sree Sudheendra Medical Mission Hospital, which was led by Karkinos’ senior cancer surgeon and his team."
+   ],
+   "DQ_training": [
+    "Recent Posts Breast Cancer Hormone Therapy vs Menopause Hormone Replacement Therapy: What’s the difference?",
+    "Read More Recent Posts Breast Cancer Hormone Therapy vs Menopause Hormone Replacement Therapy: What’s the difference?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 72
+ },
+ {
+  "name": "Soft Suave Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "softsuave.com",
+  "website": "https://www.softsuave.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Software Development Outsourcing Company In India --> contact@softsuave.com Soft Suave Con"
+  },
+  "jd": {
+   "pages_read": 17,
+   "external_job_boards": [],
+   "jd_chars": 106247,
+   "signals": {
+    "review_gate": 1,
+    "testing": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "unit testing, code reviews, design documentation, quality assurance)."
+    ],
+    "testing": [
+     "unit testing, code reviews, design documentation, quality assurance)."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "prod_eng": 14,
+   "owns_product": 3,
+   "sdlc": 17,
+   "cicd": 3,
+   "qa": 6,
+   "pr_practice": 2,
+   "compliance": 3,
+   "DQ_agency": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "From real-time fraud detection to hyper-personalized banking, we drive the future of digital finance.",
+    "Know More HealthTech HealthTech Elevate healthcare with next-gen advanced AI solutions that refine patient outcomes, optimize clinical workflows, and streamline operations.",
+    "Aviation --> Aviation Enhancing efficiency in airline operations, maintenance, and overall management for seamless workflows FinTech --> FinTech Driving digital transformation in banking and finance with advanced analytics, fraud prevention, and secure financial platforms.",
+    "HealthTech --> HealthTech Improving healthcare efficiency with AI-powered diagnostics, operational automation, and seamless patient management systems."
+   ],
+   "prod_eng": [
+    "Enterprise Product Engineering Build scalable digital products with AI-enabled engineering teams focused on long-term innovation.",
+    "Get Free Estimate Software Product Engineering Services Company in India --> --> --> --> --> contact@softsuave.com Soft Suave Contacts For Business Inquiry +1 (410) 220-6301 +44 7403 646450 +91 99527 32708 ( & ) contact@softsuave.com (If we don’t pick up, drop inquiry.",
+    "💬 New messages 1 Home Software Development Product Engineering Services Looking for Product Engineering Services ?",
+    "Soft Suave is a starling Product Engineering Services Company that transforms your ideas into products."
+   ],
+   "owns_product": [
+    "Augmented Engineering Teams Build dedicated engineering teams aligned with your product vision, delivery goals, and innovation roadmap.",
+    "Our Product Engineering Services Soft Suave provides end-to-end product engineering solutions that unlock the potential in the emerging market.",
+    "We combine targeted user’s expectation with our product strategy to deliver eye-catching and engaging designs that are compatible with desktops, mobiles, and tablets."
+   ],
+   "sdlc": [
+    "Agile development is the methodology that helps us to create robust products and solutions, we follow the same method here.",
+    "Development Plan different sprints and schedule iterative development for each sprint.",
+    "We follow an iterative scrum development cycle using razor-edge technologies ensuring faster time to market, robustness, and flexibility.",
+    "It involves various sprints, designs, feedback, implementation, testing, and support for every iteration and releases."
+   ],
+   "cicd": [
+    "Deployment Perform continuous integration and deployment of the product.",
+    "We ensure client to focus on fluctuating market conditions and user demand by continuous integration.",
+    "CI (Continuous integration) and testing allow catching problems early."
+   ],
+   "qa": [
+    "Product Testing & Delivery We perform unit testing on small units of the application without disturbing any other code which helps to improve the quality of application during the development process.",
+    "Automated QA testing allows cost saving, adding new test cases and can be run along with ongoing development process to increase test coverage of the application.",
+    "Wide Service Scope: Services can range from software architecture to QA testing, DevOps, or ongoing support.",
+    "Focus on Quality Assurance and Security Strong QA and security practices avoid costly errors."
+   ],
+   "pr_practice": [
+    "Code reviews: Peer review ensures the code is cleaner and more efficient.",
+    "Solution: Have a strong Quality Assurance (QA) process in place along with regular code reviews and milestone-based checks."
+   ],
+   "compliance": [
+    "Data security: Ensure compliance with regulations like GDPR or HIPAA, depending on your industry.",
+    "Data Security and Compliance Companies are at risk of data leaks and theft of intellectual property and non-compliance with regulations like GDPR or HIPAA when they collaborate across teams located beyond their borders.",
+    "Compliance frameworks (such as GDPR, HIPAA, and ISO Certifications) are being adopted by vendors."
+   ],
+   "DQ_agency": [
+    "04 Operations Excellence To ensure the smooth operation of your GCC, we handle ongoing activities such as employee value propositions (EVP), employer branding, onsite support, and workspace management."
+   ],
+   "DQ_support": [
+    "Tech firms leverage India’s talent pool for R&D, software development, and IT support, accelerating growth."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 72
+ },
+ {
+  "name": "Varutra Consulting Private Limited",
+  "city": "Pune",
+  "domain": "varutra.com",
+  "website": "https://www.varutra.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 13,
+   "external_job_boards": [],
+   "jd_chars": 38542,
+   "signals": {
+    "review_gate": 11,
+    "quality_gate": 3
+   },
+   "quotes": {
+    "review_gate": [
+     "The work involves Test Case Creation, Penetration Testing, Source code reviews, Report Creation & presentation to stakeholders along with operation and construction of tools to assist in these tasks.",
+     "Source Code Reviews Well versed in Java Secure Code Review.",
+     "Well versed in OWASP Code Review concepts & identifiers."
+    ],
+    "quality_gate": [
+     "Static Code Analysis/ Secure Code Review.",
+     "Static Code Analysis/ Secure Code Review.",
+     "Application Security Testing/Penetration Testing (Web-based, Thick client, web services, Mobile) Network Security Testing/Penetration Testing (Network, OS, Databases etc) Static Code Analysis/ Secure Code Review Apply for this position Full Name * Email * Phone * Cover Letter * Upload CV/Resume * Allowed Type(s):"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Explore the Network Security and its components: Hardware, Software, and Cloud security."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 72
+ },
+ {
+  "name": "QR Solutions (India) Private Limited",
+  "city": "Trichy",
+  "domain": "qrsolutions.in",
+  "website": "http://qrsolutions.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "p companies to improve their business outcomes. Want to try our products and services? let’s go for Free Demo NEED A HAND IN DECIDING THE BEST IN BUSI"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 74255,
+   "signals": {
+    "private_repo_host": 3,
+    "cicd": 4,
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Technical Skills Strong hands-on experience with AWS Cloud services EC2 S3 IAM RDS Elastic Beanstalk CDN SSL Experience implementing and managing CI/CD pipelines using Bitbucket Pipelines or similar tools.",
+     "DevOps & CI/CD Build, maintain, and optimize CI/CD pipelines using Bitbucket Pipelines and related automation tools.",
+     "EC2 S3 IAM RDS Elastic Beanstalk Experience implementing and managing CI/CD pipelines using Bitbucket Pipelines or similar tools."
+    ],
+    "cicd": [
+     "Technical Skills Strong hands-on experience with AWS Cloud services EC2 S3 IAM RDS Elastic Beanstalk CDN SSL Experience implementing and managing CI/CD pipelines using Bitbucket Pipelines or similar tools.",
+     "The ideal candidate should possess strong expertise in AWS services, CI/CD implementation, containerization, Linux administration, and production environment management.",
+     "DevOps & CI/CD Build, maintain, and optimize CI/CD pipelines using Bitbucket Pipelines and related automation tools."
+    ],
+    "vcs_generic": [
+     "Experience with Git-based version control workflows.",
+     "Experience with Git-based version control workflows."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "cicd": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our process in providing solutions spans across the automobile, commercial, government and other industries with strategic partnerships with top class vendors."
+   ],
+   "cicd": [
+    "SLA Adherence 24×7 Global Support Infrastructure Augmentation Automation Maintenance and Monitoring Network Security Management Infrastructure as Code Cost Optimization VIEW THE OFFERING QRS Capabilities To know more about our facilities and services, talk to our experts at +61280045244 .",
+    "Supports Docker containers for distributed applications those operate on microservers and permits developers to define rules for remote Elastic Compute Cloud (EC2) instances ."
+   ],
+   "enterprise": [
+    "The entirety of backup activities and updates is regulated by AWS Managed Services to upgrade resources to the current environment."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 72
+ },
+ {
+  "name": "Checkmarx India Technology Services Private Limited",
+  "city": "Mumbai",
+  "domain": "checkmarx.com",
+  "website": "https://checkmarx.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 999,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "us—particularly since nearly 85% of our code is written in Java.\" Read More > News & Updates May 23, 2023 Blog Checkmarx Named a Leader in the 2023 G"
+  },
+  "jd": {
+   "pages_read": 15,
+   "external_job_boards": [],
+   "jd_chars": 128017,
+   "signals": {
+    "review_gate": 4
+   },
+   "quotes": {
+    "review_gate": [
+     "Support some of our top-tier customers in conducting security-focused code reviews using the Checkmarx Platform.",
+     "+7 years experience in security-focused code review covering some market standards AppSec Frameworks like OWASP Web/API/Mobile Top 10, PCI-DSS, etc.",
+     "For security related certifications for proven experience with security-focused code review using Checkmarx technologies The fine print:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "enterprise": 3,
+   "sdlc": 2,
+   "cicd": 5,
+   "vcs": 1,
+   "pr_practice": 2,
+   "DQ_template": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "800B + Lines of Code Analyzed Monthly 40% + of the Fortune 500 11% Higher True-Positive Rate 2.5x Higher F1 Score than Average SAST Tools A Gartner® Magic Quadrant Leader™ A Forrester Wave Leader™ SOC 2 Type II Certified ISO 27001 Certified FedRAMP Authorized 01 Exploits don’t wait."
+   ],
+   "enterprise": [
+    "800B + Lines of Code Analyzed Monthly 40% + of the Fortune 500 11% Higher True-Positive Rate 2.5x Higher F1 Score than Average SAST Tools A Gartner® Magic Quadrant Leader™ A Forrester Wave Leader™ SOC 2 Type II Certified ISO 27001 Certified FedRAMP Authorized 01 Exploits don’t wait.",
+    "He is on the Operating Committee of Genesys, a Director of Pharmaceutical Product Development and Checkmarx, and was formerly on the Board of Directors of CarProof and Sheridan Healthcare and active in the Firm’s investments in Sprinklr, Applied Systems and AlixPartners.",
+    "Prior to joining TPG in 2011, Art worked in the technology investment banking group at Morgan Stanley, where he advised on and executed corporate finance transactions."
+   ],
+   "sdlc": [
+    "High-fidelity findings, validated prioritization, and governed remediation — delivered through a hybrid engine built for every stage of the AI-driven SDLC.",
+    "Tailor Your Program Find the right partnership for your business goals with our tiered partnership levels and flexible engagement models."
+   ],
+   "cicd": [
+    "Code Creation Developer Security NG SAST and IaC scanning catch issues as code is written, in the IDE.",
+    "SAST, Secrets Detection, IaC Security, and API Security — built into the IDE and CI/CD where developers already work.",
+    "Checkmarx covers code creation, CI/CD, AI supply chain, and runtime — with MCP, IDE, and PR hooks that enforce security at every agentic control point.",
+    "Checkmarx inventories and governs every model, MCP server, agent, SDK, dataset, prompt, and AI dependency in your pipeline — before it becomes a blind spot."
+   ],
+   "vcs": [
+    "Commit Developer Security Secrets Detection blocks credentials before they enter Git."
+   ],
+   "pr_practice": [
+    "Pull Request Developer Security Triage Assist surfaces what matters; Remediation Assist proposes the fix.",
+    "Code Review & Merge Supply Chain Security SCA and Malicious Package Protection flag risky dependencies before merge."
+   ],
+   "DQ_template": [
+    "🎯 Your career, your way Work with your manager on a path that fits your goals — not a template."
+   ],
+   "owns_product": [
+    "Our platform offers seamless integrations through developer-friendly APIs, enabling resilient software delivery without slowing engineering velocity."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 70
+ },
+ {
+  "name": "Contata Solutions Private Limited",
+  "city": "Noida",
+  "domain": "contata.com",
+  "website": "https://www.contata.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Data Science, Application Development & IT Consulting Services US & Europe Inspiring ideas and unlocking"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 19454,
+   "signals": {
+    "review_gate": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Actively participate and manage design and code reviews."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 10,
+   "pr_practice": 1,
+   "sdlc": 4,
+   "enterprise": 4,
+   "qa": 3,
+   "prod_eng": 5,
+   "compliance": 3
+  },
+  "site_quotes": {
+   "cicd": [
+    "This allows us to build a continuous integration and deployment system that fits your unique requirements.",
+    "Developer (Data) Noida, India Delivery 1-4 yrs Apply Now As a Data Developer, you will be responsible for designing, developing, and maintaining robust database systems and data pipelines.",
+    "Implement data quality checks, validation rules, and exception handling in ETL pipelines.",
+    "Schedule and manage ETL jobs and data pipelines using workflow orchestration tools (e.g., SQL Agent, Airflow, or cloud schedulers)."
+   ],
+   "pr_practice": [
+    "Actively participate and manage design and code reviews."
+   ],
+   "sdlc": [
+    "Good to Have Skills: Understands agile project development concepts like sprint/scrum etc.",
+    "Participate actively in Agile/Scrum ceremonies, sprint planning, and daily stand-ups.",
+    "Deliver user stories and tasks in time-bound sprints with quality and adherence to coding standards.",
+    "Proven ability to work within an Agile development environment, participating in sprints and iterative delivery."
+   ],
+   "enterprise": [
+    "Family Medical Insurance.",
+    "Personal Accidental Insurance."
+   ],
+   "qa": [
+    "Application Development Application Development Overview Digital Transformation QA Services Cloud Development Product Engineering Oil & Gas Software Featured Case Studies Digital Transformation Digital transformation to avoid time-consuming and resource-intensive manual handling of data."
+   ],
+   "prod_eng": [
+    "Application Development Application Development Overview Digital Transformation QA Services Cloud Development Product Engineering Oil & Gas Software Featured Case Studies Digital Transformation Digital transformation to avoid time-consuming and resource-intensive manual handling of data.",
+    "Download Subscribe Newsletter --> ← Previous Next → --> Post navigation Real-time Climate Monitoring & Forecasting Solution for a Mountain Trek Organizer Product Engineering for an IP & Law firm Seeking an Advanced Search Option to Filter Results Interested to know more?",
+    "Download Subscribe Newsletter --> ← Previous Next → --> Post navigation Product Engineering for an IP & Law firm Seeking an Advanced Search Option to Filter Results How Contata’s Shrinkage Calculations and Diluent Allocation Module Saves Up to 43% Interested to know more?"
+   ],
+   "compliance": [
+    "Privacy Policy The privacy and cookie policy has been updated in alignment with the GDPR."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 70
+ },
+ {
+  "name": "Ishttaa TechCraft Private Limited",
+  "city": "Bengaluru",
+  "domain": "ishttaa.com",
+  "website": "https://ishttaa.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "LATFORM FOR MACHINES VIEW MORE WE CRAFT POSSIBILITIES USING OUR PRODUCTS AND SOLUTIONS VIEW MORE We are experts ishttaa TechCraft is an Innovative pro"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 21691,
+   "signals": {
+    "review_gate": 1,
+    "cicd": 2,
+    "vcs_generic": 2,
+    "testing": 2
+   },
+   "quotes": {
+    "review_gate": [
+     "Conduct code reviews and provide constructive feedback to peers."
+    ],
+    "cicd": [
+     "- Implementing automated testing platforms and unit tests - Proficient understanding of code versioning tools (such as Git, SVN, and Mercurial) - Familiarity with continuous integration.",
+     "- Implementing automated testing platforms and unit tests - Proficient understanding of code versioning tools (such as Git, SVN, and Mercurial) - Familiarity with continuous integration."
+    ],
+    "vcs_generic": [
+     "- Implementing automated testing platforms and unit tests - Proficient understanding of code versioning tools (such as Git, SVN, and Mercurial) - Familiarity with continuous integration.",
+     "- Implementing automated testing platforms and unit tests - Proficient understanding of code versioning tools (such as Git, SVN, and Mercurial) - Familiarity with continuous integration."
+    ],
+    "testing": [
+     "- Implementing automated testing platforms and unit tests - Proficient understanding of code versioning tools (such as Git, SVN, and Mercurial) - Familiarity with continuous integration.",
+     "- Implementing automated testing platforms and unit tests - Proficient understanding of code versioning tools (such as Git, SVN, and Mercurial) - Familiarity with continuous integration."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 1,
+   "prod_eng": 7,
+   "owns_product": 1,
+   "DQ_support": 4,
+   "sdlc": 8,
+   "vcs": 2,
+   "cicd": 2,
+   "qa": 2,
+   "pr_practice": 1,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "READ MORE Platform Based Solutions Using readymade platforms in the project/ products reduces the development costs and substantially the time."
+   ],
+   "prod_eng": [
+    "READ MORE Product Engineering Services Our skills in product engineering across industrial automation and industrial IT products helps us to deliver world class products and services.",
+    "Our Approaches Strategic Engagements Platform Based Solutions Product Engineering Services Training & Development Newsletter © 2026 ishttaa TechCraft Pvt Ltd."
+   ],
+   "owns_product": [
+    "YOUR PRODUCT Getting Acquainted We focus on doing things right at the first attempt."
+   ],
+   "DQ_support": [
+    "Software as service, No investment on hardware, easy/quick updates on software application, scalability, positive return on… Written on Wednesday, 18 March 2015 07:26 Technology in Use !!",
+    "Desired Skills · Execution of necessary design calculations for pipe, hardware, and fitting sizing.",
+    "Collaborate with hardware engineers to integrate software with embedded systems.",
+    "Optimize software performance for embedded hardware constraints."
+   ],
+   "sdlc": [
+    "Appreciate the unconditional support.” Global Leader, Leading MNC Company Map Address About Company ishttaa TechCraft®️ is an innovative and agile product company based in Bangalore, India.",
+    "· Completion and approval of user stories planned for that Sprint · Concepts of process automation.",
+    "Exposure Agile Methodology and practices Exposure to DevOps or Build activities.",
+    "Send us your profile to joinus@ishttaa.com About Company ishttaa TechCraft®️ is an innovative and agile product company based in Bangalore, India."
+   ],
+   "vcs": [
+    "- Implementing automated testing platforms and unit tests - Proficient understanding of code versioning tools (such as Git, SVN, and Mercurial) - Familiarity with continuous integration."
+   ],
+   "cicd": [
+    "- Implementing automated testing platforms and unit tests - Proficient understanding of code versioning tools (such as Git, SVN, and Mercurial) - Familiarity with continuous integration."
+   ],
+   "qa": [
+    "- Implementing automated testing platforms and unit tests - Proficient understanding of code versioning tools (such as Git, SVN, and Mercurial) - Familiarity with continuous integration."
+   ],
+   "pr_practice": [
+    "Conduct code reviews and provide constructive feedback to peers."
+   ],
+   "DQ_training": [
+    "Support for after-market technical queries, part obsolescence, replacement, and Windchill change processes."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 70
+ },
+ {
+  "name": "MKS Vision Private Limited",
+  "city": "Hyderabad",
+  "domain": "mksvision.com",
+  "website": "https://www.mksvision.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 33,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [
+    "https://www.naukri.com/job-listings-rpg-developer-mks-vision-hyderabad-secunderabad-coimbatore-5-to-8-years-210223006917?src=jobsearchDesk&sid=16915023868458296&xp=2&px=1",
+    "https://www.naukri.com/job-listings-windows-administrator-mks-vision-hyderabad-secunderabad-coimbatore-tamil-nadu-5-to-10-years-080823009696?src=jobsearchDesk&sid=16915020437909134&xp=6&px=1&nignbevent_src=jobsearchDesk",
+    "https://www.naukri.com/job-listings-data-scientist-mks-vision-hyderabad-secunderabad-coimbatore-tamil-nadu-3-to-6-years-170723004403?src=jobsearchDesk&sid=16915028136157675_2&xp=4&px=3&nignbevent_src=jobsearchDeskGNB",
+    "https://www.naukri.com/job-listings-windows-administrator-mks-vision-hyderabad-secunderabad-coimbatore-tamil-nadu-5-to-10-years-080823009696?src=jobsearchDesk&sid=16915018328905234&xp=2&px=1&nignbevent_src=jobsearchDeskGNB",
+    "https://www.naukri.com/job-listings-cad-customization-engineer-mks-vision-hyderabad-secunderabad-coimbatore-tamil-nadu-3-to-5-years-080823009530?src=jobsearchDesk&sid=16915016871232188&xp=5&px=1",
+    "https://www.naukri.com/job-listings-senior-data-analyst-mks-vision-pvt-ltd-hyderabad-secunderabad-coimbatore-5-to-10-years-200521003034?src=jobsearchDesk&sid=16246974000646114&xp=17&px=1",
+    "https://www.naukri.com/job-listings-senior-quality-analyst-mks-vision-pvt-ltd-hyderabad-secunderabad-6-to-11-years-040621002428?src=jobsearchDesk&sid=16246974000646114&xp=19&px=1",
+    "https://www.naukri.com/job-listings-open-shift-cicd-7-13yrs-mks-vision-pvt-ltd-hyderabad-secunderabad-coimbatore-7-to-12-years-150621006764?src=jobsearchDesk&sid=1624698767328593&xp=6&px=1",
+    "https://www.naukri.com/job-listings-senior-devops-engineer-mks-vision-pvt-ltd-hyderabad-secunderabad-coimbatore-7-to-12-years-150621004722?src=jobsearchDesk&sid=1624698767328593&xp=9&px=1",
+    "https://www.naukri.com/job-listings-windows-system-engineer-7-14yrs-mks-vision-pvt-ltd-hyderabad-secunderabad-coimbatore-7-to-12-years-260521002703?src=jobsearchDesk&sid=1624698767328593&xp=12&px=1",
+    "https://www.naukri.com/job-listings-mechanical-design-engineer-autodesk-inventor-hvac-mks-vision-pvt-ltd-hyderabad-secunderabad-coimbatore-5-to-10-years-010621005011?src=jobsearchDesk&sid=1624698767328593&xp=19&px=1",
+    "https://www.naukri.com/job-listings-senior-solution-architect-mks-vision-pvt-ltd-hyderabad-secunderabad-coimbatore-10-to-15-years-250521002071?src=jobsearchDesk&sid=1624698767328593&xp=13&px=1",
+    "https://www.naukri.com/job-listings-lead-java-microservice-developer-mks-vision-pvt-ltd-hyderabad-secunderabad-coimbatore-3-to-5-years-250521001998?src=jobsearchDesk&sid=1624698767328593&xp=14&px=1",
+    "https://www.naukri.com/job-listings-sr-network-engineer-palo-alto-7-14yrs-mks-vision-pvt-ltd-hyderabad-secunderabad-coimbatore-7-to-12-years-150621006801?src=jobsearchDesk&sid=1624698767328593&xp=5&px=1",
+    "https://www.naukri.com/job-listings-sr-network-engineer-f5-ltm-gtm-asm-waf-7-14yrs-mks-vision-pvt-ltd-hyderabad-secunderabad-coimbatore-7-to-12-years-150621006858?src=jobsearchDesk&sid=1624698767328593&xp=4&px=1",
+    "https://www.naukri.com/job-listings-senior-cad-customization-engineer-6-10yrs-mks-vision-pvt-ltd-hyderabad-secunderabad-coimbatore-6-to-11-years-220621004582?src=jobsearchDesk&sid=16246974000646114&xp=3&px=1"
+   ],
+   "jd_chars": 9734,
+   "signals": {
+    "review_gate": 1,
+    "cicd": 2,
+    "testing": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Support the co-automation engineers and perform code review tasks."
+    ],
+    "cicd": [
+     "Jenkins, Bamboo, CI/CD tools,AWS.",
+     "Experience in Migrating Bamboo Pipelines to Jenkins."
+    ],
+    "testing": [
+     "Good knowledge on coding standards, design patterns, unit testing."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "pr_practice": 1,
+   "cicd": 6,
+   "sdlc": 3,
+   "senior_roles": 1,
+   "qa": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "pr_practice": [
+    "Support the co-automation engineers and perform code review tasks."
+   ],
+   "cicd": [
+    "Read more Apply Senior Devops Engineer 8 Years Previous experience with software development, infrastructure development, or development and operations Previous experience in deploying Java based Microservices Architecture over Kubernetes and/or OpenShift Platforms.",
+    "Jenkins, Bamboo, CI/CD tools,AWS.",
+    "Experience in Migrating Bamboo Pipelines to Jenkins.",
+    "Experience in CI / CD Pipeline."
+   ],
+   "sdlc": [
+    "Scrum/Kanban/SAFe Agile workflow methodologies.",
+    "Experience of leading agile teams in implementing large scale digital solutions Strong interpersonal skills.",
+    "Flexible business engagement models."
+   ],
+   "senior_roles": [
+    "Read more Apply Senior Solution Architect 5+ Years 5+ years of experience in Java/J2EE technologies."
+   ],
+   "qa": [
+    "Good knowledge on coding standards, design patterns, unit testing."
+   ],
+   "enterprise": [
+    "Satisfied Customers in healthcare, finance, manufacturing, energy, consumer products, industrial machinery, and more!"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 70
+ },
+ {
+  "name": "Movate Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "movate.com",
+  "website": "https://www.movate.com:443/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 39510,
+   "signals": {
+    "review_gate": 6,
+    "cicd": 2,
+    "vcs_generic": 4,
+    "testing": 2
+   },
+   "quotes": {
+    "review_gate": [
+     "ingestion, embedding, and retrieval Write agent evaluation test cases and contribute to the evaluation harness Participate in code reviews and prompt review processes Required Skills:",
+     "retry, compensation, and human-in-the-loop gates Own enterprise integrations end-to-end from contract to production Build automation frameworks and script libraries Conduct code reviews and mentor JL1 engineers Contribute to CI/CD pipeline quality gates Required Skills 4–6 years backend engineering;",
+     "maintain code coverage standards Participate in code reviews and sprint ceremonies Required Skills:"
+    ],
+    "cicd": [
+     "retry, compensation, and human-in-the-loop gates Own enterprise integrations end-to-end from contract to production Build automation frameworks and script libraries Conduct code reviews and mentor JL1 engineers Contribute to CI/CD pipeline quality gates Required Skills 4–6 years backend engineering;",
+     "retry, compensation, and human-in-the-loop gates Own enterprise integrations end-to-end from contract to production Build automation frameworks and script libraries Conduct code reviews and mentor JL1 engineers Contribute to CI/CD pipeline quality gates Required Skills 4–6 years backend engineering;"
+    ],
+    "vcs_generic": [
+     "system prompts, few-shot, structured outputs Git-based workflows Nice to have:",
+     "1–3 years backend engineering experience REST API design and implementation Git-based workflows and PR practices Test-driven development fundamentals Node.js and/or Python PostgreSQL or equivalent relational database Basic Docker and containerization knowledge Nice to have:",
+     "system prompts, few-shot, structured outputs Git-based workflows Nice to have:"
+    ],
+    "testing": [
+     "Develop REST APIs and backend services per specification Implement workflow logic using durable workflow engines Build integrations with enterprise communication and monitoring tools Write unit and integration tests;",
+     "Develop REST APIs and backend services per specification Implement workflow logic using durable workflow engines Build integrations with enterprise communication and monitoring tools Write unit and integration tests;"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 7,
+   "sdlc": 8,
+   "pr_practice": 1,
+   "cicd": 4,
+   "owns_product": 1,
+   "prod_eng": 1,
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "qa": [
+    "Powered by a fleet of specialized AI agents, it autonomously drives planning, coding, and quality engineering across the SDLC, accelerating releases, improving efficiency, and enabling a self-optimizing ecosystem built to meet evolving customer demands.",
+    "Agent capabilities The creator’s suite: Code generators and unit test case creators handle the boilerplate, while code documenters ensure maintainability.",
+    "Quality engineering (QE) agency Pervasive testing powered by autonomous validation QE twin : A unified intelligence layer that aligns across the lifecycle to ensure test coverage against business requirements & code changes and quality outcomes.",
+    "Mova iO engineering is an AI-driven software delivery approach that automates planning, coding, and quality engineering."
+   ],
+   "sdlc": [
+    "Powered by a fleet of specialized AI agents, it autonomously drives planning, coding, and quality engineering across the SDLC, accelerating releases, improving efficiency, and enabling a self-optimizing ecosystem built to meet evolving customer demands.",
+    "Agent capabilities The sprint suite: Sprint plan creators and optimizers work with ROM estimators and sprint risk analyzers to build predictable, high-velocity delivery cycles.",
+    "It enables faster releases, improved quality, and a self-optimizing SDLC ecosystem.",
+    "It involves special AI agents that can automatically manage important phases in the SDLC, including planning, programming, and testing."
+   ],
+   "pr_practice": [
+    "The quality guard: Code reviewers, code hotspot detectors, and defect fix advisors provide real-time feedback to developers to prevent bugs before they reach staging."
+   ],
+   "cicd": [
+    "DevOps & app modernization agencies Streamlining the path to production and the journey to the cloud DevOps & modernization twins: Oversees the health of pipelines and the readiness of legacy transformations.",
+    "Agent capabilities Pipeline automation : CI/CD pipeline code generators, IaC generators, and deployment code generators automate the “plumbing” of modern software delivery.",
+    "They streamline deployment pipelines and modernize legacy systems for cloud readiness.",
+    "Automated pipelines and security-first approaches ensure faster and safer releases."
+   ],
+   "owns_product": [
+    "Besides offering managed IT and CX services , we leverage our five AI-powered proprietary platforms to provide best-in-class results."
+   ],
+   "prod_eng": [
+    "But with shorter development cycles, the demand for product engineering, proactive IT management, experience consumerization, and increasingly sophisticated cyber threats, staying ahead is no easy feat."
+   ],
+   "DQ_support": [
+    "Predictive Hardware Maintenance A single unexpected hardware failure can bring operations to a grinding halt.",
+    "Whether it’s software, hardware, or digital services, Movate AI transforms data into actionable insights to build deeper consumer connections and brand gravity."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 70
+ },
+ {
+  "name": "zCon Solutions Pvt Ltd",
+  "city": "Pune",
+  "domain": "zconsolutions.com",
+  "website": "https://www.zconsolutions.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 132,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ty Platform/ Database Migrations Enriched Applications with Angular JS Business Solutions with Azure Customer Engagement AGILE Methodology Delivery Ma"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 21088,
+   "signals": {
+    "review_gate": 3
+   },
+   "quotes": {
+    "review_gate": [
+     "zCon uses reusable agentic workflows, AI-assisted code generation, code review, QA planning, UI preview, and release governance to shorten delivery cycles while keeping engineering controls visible.",
+     "zCon uses reusable agentic workflows, AI-assisted code generation, code review, QA planning, UI preview, and release governance to shorten delivery cycles while keeping engineering controls visible.",
+     "zCon uses reusable agentic workflows, AI-assisted code generation, code review, QA planning, UI preview, and release governance to shorten delivery cycles while keeping engineering controls visible."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 5,
+   "sdlc": 1,
+   "prod_eng": 3,
+   "pr_practice": 2,
+   "qa": 5,
+   "enterprise": 2,
+   "owns_product": 1,
+   "compliance": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Agentic Workflows Rapid prototyping with natural-language development and autonomous AI agents wired directly into your agile pipeline.",
+    "Deep expertise in Docker, Ollama and vLLM.",
+    "We integrate vector databases and RAG pipelines seamlessly alongside traditional SQL/NoSQL stores.",
+    "Typical stacks include React, Next.js, .NET, Node.js, Python, Azure, SQL and NoSQL databases, vector databases, RAG pipelines, and API integrations."
+   ],
+   "sdlc": [
+    "Agentic Workflows Rapid prototyping with natural-language development and autonomous AI agents wired directly into your agile pipeline."
+   ],
+   "prod_eng": [
+    "What we do Capabilities that span the full lifecycle AI Product Engineering & SaaS Intelligent platforms from concept to production.",
+    "zCon is a fit when teams need AI-first product engineering, SaaS delivery, legacy modernization, knowledge graph systems, or dedicated engineering capacity with senior delivery governance.",
+    "Product Build Notes Before starting AI product engineering Clarify product scope, stack fit, delivery controls, and the first release path."
+   ],
+   "pr_practice": [
+    "zCon uses reusable agentic workflows, AI-assisted code generation, code review, QA planning, UI preview, and release governance to shorten delivery cycles while keeping engineering controls visible.",
+    "In zCon's AI-first delivery model, he helps teams apply reusable AI delivery skills, code review practices, QA planning, and release governance so products move faster without losing engineering control."
+   ],
+   "qa": [
+    "zCon uses reusable agentic workflows, AI-assisted code generation, code review, QA planning, UI preview, and release governance to shorten delivery cycles while keeping engineering controls visible.",
+    "AI helps convert requirements into build plans, generate repeatable code patterns, create UI previews, cross-check acceptance criteria, and speed up review and QA while senior engineers retain control.",
+    "Teamwork Design, engineering, QA, and delivery leaders working as one accountable team.",
+    "In zCon's AI-first delivery model, he helps teams apply reusable AI delivery skills, code review practices, QA planning, and release governance so products move faster without losing engineering control."
+   ],
+   "enterprise": [
+    "zCon works across manufacturing and supply chain, real estate and PropTech, healthcare technology, and pharma and life sciences.",
+    "Enterprise Impact Your code will power Fortune 500 manufacturing floors, real-estate platforms, and enterprise financial systems."
+   ],
+   "owns_product": [
+    "Talk to our Chief Architects to map out your product strategy."
+   ],
+   "compliance": [
+    "20+ Years of Delivery 100+ Global Customers 1000+ Partner Network Resources ISO 9001:2015 Quality Certified Our Mission Turn complex ideas into reliable business outcomes."
+   ],
+   "senior_roles": [
+    "In every role, from project lead to technical lead, technical architect and technical analyst jobs, he continually expanded and refined his considerable skill in delivering information technology solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 70
+ },
+ {
+  "name": "Fluentgrid Limited",
+  "city": "Visakhapatnam",
+  "domain": "fluentgrid.com",
+  "website": "https://fluentgrid.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "s Updates Awards Recognition Event Updates GridX Newsletter Case Studies Support Join Us Contact Us Company About Fluentgrid Why Fluentgrid? Creating"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 122973,
+   "signals": {
+    "review_gate": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Participate in code reviews and contribute to continuous improvement initiatives."
+    ],
+    "vcs_generic": [
+     "Familiarity with Git and build tools like Maven or Gradle."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 18,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Cookie Duration Description cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\".",
+    "cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin."
+   ],
+   "cicd": [
+    "DevOps Services We help you adapt to the new age continuous delivery paradigm leveraging DevOps by bringing together the business users, developers, and IT teams in a way that you can quickly respond to continuously changing customer needs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 70
+ },
+ {
+  "name": "InLogic Technologies Pvt Ltd",
+  "city": "Chennai",
+  "domain": "inlogic.in",
+  "website": "https://inlogic.in/",
+  "already_in_hubspot": false,
+  "headcount_known": 7,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Culture Partners & Alliances Application Services Overview Application Development Websites, Portals, E-Commerce Mobile Microsoft Workplace Productiv"
+  },
+  "jd": {
+   "pages_read": 12,
+   "external_job_boards": [],
+   "jd_chars": 105794,
+   "signals": {
+    "private_repo_host": 2,
+    "cicd": 3,
+    "vcs_generic": 1,
+    "testing": 1
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Experience in Azure App Services, Azure functions, Azure Logic Apps, Azure storage and API Gateway Experience in cloud-native microservices Experience performing continuous integration and continuous deployment using Azure DevOps Candidate should be good in the ASP.",
+     "Experience in Azure App Services, Azure functions, Azure Logic Apps, Azure storage and API Gateway Experience in cloud-native microservices Experience performing continuous integration and continuous deployment using Azure DevOps Candidate should be good in the ASP."
+    ],
+    "cicd": [
+     "Experience in Azure App Services, Azure functions, Azure Logic Apps, Azure storage and API Gateway Experience in cloud-native microservices Experience performing continuous integration and continuous deployment using Azure DevOps Candidate should be good in the ASP.",
+     "Experience in Azure App Services, Azure functions, Azure Logic Apps, Azure storage and API Gateway Experience in cloud-native microservices Experience performing continuous integration and continuous deployment using Azure DevOps Candidate should be good in the ASP.",
+     "Developing using CI/CD DevOps models."
+    ],
+    "vcs_generic": [
+     "C#, MS-SQL, MVC, SOAP, REST, GitHub, JavaScript, CSS, JSON, XML, etc."
+    ],
+    "testing": [
+     "Knowledge of unit testing methodologies and frameworks."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 6,
+   "enterprise": 22,
+   "cicd": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "READ MORE Digital Transformation & Modernisation Driving efficiency, scalability, and innovation with modern tech & agile cloud solutions.",
+    "Our Approach How We Work: Agile, Aligned, Outcome-Driven.",
+    "Collaborative Delivery – We work as your extended team — responsive, agile, and always aligned.",
+    "Reliable Tech Support Digital Transformation Services Smart Business Solutions EXPLORE MORE Our Approach How We Work: Agile, Aligned, Outcome-Driven At Inlogic, we pair innovation with proven delivery frameworks to ensure every solution we deploy is scalable, reliable, and aligned with your evolving business goals."
+   ],
+   "enterprise": [
+    "Robust system development for healthcare needs.",
+    "Inlogic partners with Manage My Health to revolutionize digital healthcare for over 1.85 million New Zealanders.",
+    "Community health empowerment through accessible healthcare technology.",
+    "Bespoke, user-friendly healthcare software solutions."
+   ],
+   "cicd": [
+    "AI with Governance: We implement RAG, SLMS, and secure pipelines."
+   ],
+   "DQ_support": [
+    "We offer end-to-end digital solutions, including application development, cloud migration, cybersecurity, testing, data engineering, AI integration, and managed IT support — all built to scale with your business."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 69
+ },
+ {
+  "name": "Space Inventive Private Limited",
+  "city": "Hyderabad",
+  "domain": "spaceinventive.com",
+  "website": "https://spaceinventive.com",
+  "already_in_hubspot": false,
+  "headcount_known": 186,
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 48172,
+   "signals": {
+    "review_gate": 2,
+    "cicd": 3
+   },
+   "quotes": {
+    "review_gate": [
+     "Participate in code reviews, technical documentation, and architecture discussions.",
+     "Participate in code reviews, technical documentation, and architecture discussions."
+    ],
+    "cicd": [
+     "Build and maintain CI/CD pipelines for automated testing and deployment.",
+     "Build and maintain CI/CD pipelines for automated testing and deployment.",
+     "Eligibility Criteria Familiarity with MLOps practices, CI/CD pipelines, model deployment, and monitoring frameworks."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "cicd": 3,
+   "sdlc": 1,
+   "owns_product": 12
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Healthcare Education Banking Manufacturing Finance Insurance Transportation and Logistics Construction Contact Sales Resources Access valuable insights and resources to empower your business decisions.",
+    "Healthcare Education Banking Manufacturing Finance Construction Transportation and Logistics Insurance All Industries Healthcare Education Banking Manufacturing Finance Construction Transportation and Logistics Insurance All Industries Why Us Data Security We understand that data security is paramount.",
+    "This case study demonstrates our commitment to delivering innovative data solutions that drive positive impact in the healthcare industry."
+   ],
+   "cicd": [
+    "We leverage cutting-edge data engineering tools and methodologies to build efficient data pipelines that deliver the data you need, when you need it, for advanced analytics and actionable business intelligence.",
+    "80% Increased Efficiency 55% Enhanced Decision Making Life sciences and pharmaceutical companies are overwhelmed with data from various sources – clinical trials, research papers, market reports, regulatory filings, and more.",
+    "Our solution leveraged Azure Kubernetes Service (AKS) to create a scalable and cost-effective environment for model development, training, and deployment."
+   ],
+   "sdlc": [
+    "Why Us Agile Approach At Space, we embrace an agile data engineering approach."
+   ],
+   "owns_product": [
+    "Amplify Your Business Product Management and Engineering Our combined product management and engineering services unlock the full potential of your product vision.",
+    "Amplify Your Business Our Partners Product ​Management and​ Engineering​​ Services Unleashing the full potential of your product vision requires a harmonious blend of strategic planning and meticulous engineering execution.",
+    "Here's a glimpse into how we leverage our expertise to elevate your product development: Conceptualization of New Products Market Opportunity Identification & Concept Validation: Leverage our data-driven market analysis to pinpoint lucrative opportunities.",
+    "By leveraging this analysis, we propose strategic add-ons that enhance your product's functionality and elevate the user experience."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 69
+ },
+ {
+  "name": "RealPage India Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "realpage.com",
+  "website": "https://www.realpage.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "prise Business Continuity Plan COVID-19 Resources Resources Case Studies COVID-19 eBooks Podcasts Testimonials Videos Webcasts ANALYTICS BLOG REALPAGE"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 145189,
+   "signals": {
+    "review_gate": 4
+   },
+   "quotes": {
+    "review_gate": [
+     "Investment Management Enable reliable insights and portfolio-wide visibility to help you make more informed decisions, streamline the capital-raising process, and improve investor interactions.",
+     "Investment Management Enable reliable insights and portfolio-wide visibility to help you make more informed decisions, streamline the capital-raising process, and improve investor interactions.",
+     "Investment Management Enable reliable insights and portfolio-wide visibility to help you make more informed decisions, streamline the capital-raising process, and improve investor interactions."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 51,
+   "DQ_support": 8,
+   "owns_product": 5,
+   "compliance": 5,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Featured Products CRM AI Leasing Agent Online Leasing Screening Prequalification Insurance Payments Deposit Alternatives Contact Center Resident Experience One journey across leasing, moving, living, payments, and rewards designed to reduce friction and strengthen retention.",
+    "Featured Products LOFT Resident Portal Payments Insurance Loyalty Rewards AI Resident Agent Rent Reporting Contact Center Leasing Smart Building Transform your properties with the multifamily industry's first, true connected living platform.",
+    "Featured Products LOFT Resident Portal Payments Insurance Loyalty Rewards AI Resident Agent Rent Reporting Contact Center Leasing Property Operations Optimize, automate and centralize your property management operations with data-driven insights that maximize NOI for the entire portfolio.",
+    "Insurance Protect your community, safeguard residents and drive ancillary revenue with a full range of insurance and security deposit solutions."
+   ],
+   "DQ_support": [
+    "It supports an open, connected multifamily ecosystem—driving efficiency, responsiveness, and a more customer-focused experience.",
+    "It supports operators managing conventional multifamily, student, affordable housing, tax credit, military, and senior living properties.",
+    "SSRT provides a comprehensive evaluation of your community’s current technology systems and contracts, including internet, CCTV, audio/video and more, as well as any plans and budgets for future improvements."
+   ],
+   "owns_product": [
+    "Our customers use our platform to gain transparency into asset performance, leverage data insights and monetize space to create incremental yields.",
+    "In addition to our products’ success, our growth is supported by acquisitions that enhance our product development and sales and marketing efforts and expand the types of rental housing properties we serve.",
+    "Our Products Our suite of solutions benefits owners and managers of various rental property types, including conventional, affordable, military, student, single-family, senior and vacation housing.",
+    "We’ve evolved our products from the desktop to the cloud, with many available both online and for mobile devices."
+   ],
+   "compliance": [
+    "GDPR Data Privacy Framework"
+   ],
+   "DQ_bpo": [
+    "Improve Staffing Efficiency: Reduce duplicate data entry and manual handoffs so teams can spend less time reconciling work across systems and more time supporting residents and property performance."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 68
+ },
+ {
+  "name": "Heera Software Private Limited",
+  "city": "Pune",
+  "domain": "heerasoftware.com",
+  "website": "https://heerasoftware.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "vider for Distribution Management & Sales Force Automation. Our products & solutions are successfully delivered to and used by more than 10 + multinat"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 36399,
+   "signals": {
+    "private_repo_host": 2,
+    "cicd": 2,
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Responsibilities Design, implement, and maintain CI/CD pipelines using Azure DevOps (classical and YAML pipelines).",
+     "Strong experience with Azure DevOps:"
+    ],
+    "cicd": [
+     "Responsibilities Design, implement, and maintain CI/CD pipelines using Azure DevOps (classical and YAML pipelines).",
+     "Work with ArgoCD for GitOps-based deployment strategies."
+    ],
+    "vcs_generic": [
+     "Implement Git-based workflows and maintain Azure Repos.",
+     "Strong understanding of Git version control."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our platform ensures smooth adoption with minimal disruption, offering flexible integration with existing systems—be it for pricing, schemes, or inventory."
+   ],
+   "compliance": [
+    "With enterprise-grade security protocols including ISO 27001 certification, SOC 1 Type 2 & SOC 2 Type 2 compliances, the platform guarantees data integrity, user privacy, and secure operations—making it future-ready for evolving business needs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 68
+ },
+ {
+  "name": "Testrig Technologies Private Limited",
+  "city": "Pune",
+  "domain": "testrigtechnologies.com",
+  "website": "https://www.testrigtechnologies.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230117",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 146044,
+   "signals": {
+    "private_repo_host": 9,
+    "vcs_generic": 10,
+    "testing": 24
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Experience using bug tracking and project management tools such as Jira or Azure DevOps 11.",
+     "You are well experienced in bug reporting tools like Jira, Azure DevOps, and API testing tools like Postman, Swagger, SoapUI, etc.",
+     "Good hands-on exposure to Programming Languages like Java/JS/TypeScript/Python/C# You are well experienced in bug reporting tools like Jira, Azure DevOps, and API testing tools like Postman, Swagger, SoapUI, etc."
+    ],
+    "vcs_generic": [
+     "Playwright + MCP for AI-Assisted Test Automation with GitHub Copilot & Claude Code — Register Now Skip to main content Hit enter to search or ESC to close Close Search Menu Services Our Services Unleash the full potential of your digital transformation with Us!",
+     "Hands-on experience with AI-assisted test automation tools such as Claude, OpenAI Codex, or GitHub Copilot to build:",
+     "Playwright + MCP for AI-Assisted Test Automation with GitHub Copilot & Claude Code — Register Now Skip to main content Hit enter to search or ESC to close Close Search Menu Services Our Services Unleash the full potential of your digital transformation with Us!"
+    ],
+    "testing": [
+     "Playwright + MCP for AI-Assisted Test Automation with GitHub Copilot & Claude Code — Register Now Skip to main content Hit enter to search or ESC to close Close Search Menu Services Our Services Unleash the full potential of your digital transformation with Us!",
+     "Our Tools inner Playwright Cypress JMeter k6 Appium Selenium RestAssured Industries Industries we offer Our expertise lies in delivering top-notch engineering and software testing solutions tailored to various industries.",
+     "Hands-on experience with AI-assisted test automation tools such as Claude, OpenAI Codex, or GitHub Copilot to build:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "vcs": 7,
+   "qa": 165,
+   "cicd": 21,
+   "owns_product": 15,
+   "sdlc": 6,
+   "DQ_support": 1,
+   "pr_practice": 2
+  },
+  "site_quotes": {
+   "vcs": [
+    "Best Software Testing company 🎙️ Live Webinar: Playwright + MCP for AI-Assisted Test Automation with GitHub Copilot & Claude Code — Register Now Skip to main content Hit enter to search or ESC to close Close Search Menu Services Our Services Unleash the full potential of your digital transformation with Us!",
+    "Blogs Search Search Automation Testing Blogs August 4, 2026 AI-Powered Playwright Test Automation: A Guide to GitHub Copilot, Claude Code & Playwright MCP For years, test automation has followed a familiar pattern.",
+    "CI/CD Pipeline Integration for Continuous Testing Seamlessly integrated with Jenkins and Bitbucket, our framework enables automated test execution for every code commit, pull request, and scheduled test run, ensuring rapid feedback.",
+    "Scalable Environment & Repository Management Using configuration files and environment variables, we manage multiple environments (development, staging, production), while Bitbucket ensures version control, collaboration, and continuous integration."
+   ],
+   "qa": [
+    "Best Software Testing company 🎙️ Live Webinar: Playwright + MCP for AI-Assisted Test Automation with GitHub Copilot & Claude Code — Register Now Skip to main content Hit enter to search or ESC to close Close Search Menu Services Our Services Unleash the full potential of your digital transformation with Us!",
+    "Testrig Technologies is the world’s leading Quality Assurance and Quality Engineering partner.",
+    "Our Tools inner Playwright Cypress JMeter k6 Appium Selenium RestAssured Industries Industries we offer Our expertise lies in delivering top-notch engineering and software testing solutions tailored to various industries.",
+    "DevOps Testing We embed QA into DevOps with test automation services tailored for CI/CD—accelerating releases, enabling shift-left testing, and driving collaboration across development pipelines."
+   ],
+   "cicd": [
+    "DevOps Testing We embed QA into DevOps with test automation services tailored for CI/CD—accelerating releases, enabling shift-left testing, and driving collaboration across development pipelines.",
+    "Automation Testing Delivering Automation Testing services using Appium, Cypress, Playwright, etc., designed for test creation, CI/CD scalability, and more.",
+    "The result: engineering teams that build, verify, and scale AI with confidence, using QA/QE services that integrate natively with existing tech stack and CI/CD pipeline, no framework migration required, delivering faster releases, stronger governance, and measurable outcomes.",
+    "We offer customizable engagement models, advanced test automation frameworks, and deep integration with CI/CD pipelines, enabling faster, smarter, and scalable QA delivery."
+   ],
+   "owns_product": [
+    "Parimal really cares about the project winning and puts in discretionary effort, and THAT'S the kind of players we want on our team.\" Cameron Clancy (CEO) Avorra \" We selected Testrig as our QA partner over 16 months ago and they have been a key addition to our product team.",
+    "They have worked closely with our development team and consistently tested our product by providing both Manual and Automation Testing with Selenium.",
+    "Parimal really cares about the project winning and puts in discretionary effort, and THAT’S the kind of players we want on our team.” Cameron Clancy(CEO) Avorra “ We selected Testrig as our QA partner over 16 months ago and they have been a key addition to our product team.",
+    "Software QA Testing Services We Offer AI-ML Testing IoT Testing Mobile Testing API Testing Performance Testing Security Testing Ultimately – ‘Flawless’ Is The Pillar Of Our Success “ “ We selected Testrig as our QA partner over 16 months ago and they have been a key addition to our product team."
+   ],
+   "sdlc": [
+    "As a leading software testing company, Testrig Technologies stands out with its AI-powered automation, domain-specific testing expertise, and agile-driven approach.",
+    "We offer customizable engagement models, advanced test automation frameworks, and deep integration with CI/CD pipelines, enabling faster, smarter, and scalable QA delivery."
+   ],
+   "DQ_support": [
+    "Strong Authentication Support It supports various authentication mechanisms, including OAuth, OAuth 2.0, and Basic Authentication, making secure API testing effortless."
+   ],
+   "pr_practice": [
+    "CI/CD Pipeline Integration for Continuous Testing Seamlessly integrated with Jenkins and Bitbucket, our framework enables automated test execution for every code commit, pull request, and scheduled test run, ensuring rapid feedback.",
+    "Scalable Environment & Repository Management Using configuration files and environment variables, we manage multiple environments (development, staging, production), while Bitbucket ensures version control, collaboration, and continuous integration."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 68
+ },
+ {
+  "name": "Sparx IT Solutions Pvt Ltd",
+  "city": "Noida",
+  "domain": "sparxitsolutions.com",
+  "website": "https://www.sparxitsolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Leading App And Web Development Company | Sparx IT Solutions Over 500+ satisfied customers from SMB’s to F"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 63209,
+   "signals": {
+    "private_repo_host": 1,
+    "cicd": 3,
+    "vcs_generic": 2,
+    "testing": 1
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Familiar with git and/or git-flow, Bitbucket, JIRA, Confluence, Bitrise, Opsgenie, Bugfender."
+    ],
+    "cicd": [
+     "CI/CD Development Improve software quality with automated testing and deployment.",
+     "CI/CD Development Improve software quality with automated testing and deployment.",
+     "Consumer Web Development Experience for High-Traffic, Public Facing web applications Experience with cloud technologies also a plus Creating secure RESTful-based web services in XML and JSON, Javascript, JQuery Continuous integration (Jenkins/Hudson) and version control (SVN, Git) Apply Profile:"
+    ],
+    "vcs_generic": [
+     "Familiar with git and/or git-flow, Bitbucket, JIRA, Confluence, Bitrise, Opsgenie, Bugfender.",
+     "Consumer Web Development Experience for High-Traffic, Public Facing web applications Experience with cloud technologies also a plus Creating secure RESTful-based web services in XML and JSON, Javascript, JQuery Continuous integration (Jenkins/Hudson) and version control (SVN, Git) Apply Profile:"
+    ],
+    "testing": [
+     "Good experience with writing unit tests, preferably TDD and BDD."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 56,
+   "owns_product": 40,
+   "cicd": 30,
+   "sdlc": 32,
+   "qa": 49,
+   "compliance": 28,
+   "enterprise": 28,
+   "senior_roles": 2,
+   "vcs": 1,
+   "DQ_agency": 8,
+   "DQ_template": 1,
+   "DQ_support": 4
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Product Engineering Product Discovery & Strategy Define your product vision with market-ready inventions.",
+    "Software Product Engineering Build an enterprise-grade scalable product with precision engineering.",
+    "Build & Secure Digital Transformation Product Engineering Data & AI Cloud & DevOps Quality Engineering Cybersecurity Digital Transformation Legacy Software Modernization Revitalize your legacy systems to improve performance and security.",
+    "I worked with experts at SparxIT for varied projects, including website modernization, end-to-end product engineering, customer experience (CX), and more."
+   ],
+   "owns_product": [
+    "Product Engineering Product Discovery & Strategy Define your product vision with market-ready inventions.",
+    "PLM Services Manage your product lifecycle from concept to commercialization seamlessly.",
+    "Product Development Product Discovery & Strategy Define your product vision with market-ready inventions.",
+    "Build Your Product Trusted Guardians of Global Brands Key Benefits of Digital Product Engineering Services for Businesses Our custom software product engineering services help businesses upgrade their portfolio using the latest trends without compromising quality."
+   ],
+   "cicd": [
+    "DevOps Automation Services Rationalize your development pipeline for faster delivery processes.",
+    "CI/CD Development Improve software quality with automated testing and deployment.",
+    "Let’s Talk clientsupport@sparxit.com +91 9810-230650 Contact AI Solutions for Enterprise Innovation & Growth Designing, building systems, and deploying algorithms, data pipelines, and workflows that convert unstructured data into ready-to-use products.",
+    "Plan, setup execute the demand generation programs to generate new leads and increase pipeline velocity through organic and paid marketing campaigns."
+   ],
+   "sdlc": [
+    "DevSecOps Services Integrate security into your SDLC for faster and safer releases.",
+    "Talk to an Expert Explore Future-Proof Your Business with Legacy Software Modernization Deriving full cloud value and outcomes with agile migration and strategic planning while transferring existing legacy systems to fuel innovations and increase resilience.",
+    "Request Quote Explore Safeguard Your Business with Robust Cybersecurity Solutions Building proactive defenses and antifragile businesses to defend against cyber threats and attacks.",
+    "Your strong knowledge of both Agile and Waterfall methodologies, along with a deep understanding of the latest trends in the market, will enable you to make informed decisions and effectively lead your team."
+   ],
+   "qa": [
+    "CI/CD Development Improve software quality with automated testing and deployment.",
+    "Quality Engineering Performance Testing Measure and optimize application performance for peak efficiency.",
+    "Quality Engineering Deliver flawless user experiences with assured product quality.",
+    "Build & Secure Digital Transformation Product Engineering Data & AI Cloud & DevOps Quality Engineering Cybersecurity Digital Transformation Legacy Software Modernization Revitalize your legacy systems to improve performance and security."
+   ],
+   "compliance": [
+    "Industry Compliance Compliances HIPAA Avoid penalties and protect against data breaches with HIPAA-compliant apps.",
+    "GDPR Protect user’s personal data & build trust with GDPR-compliant apps.",
+    "Industry Compliance Compliances Compliances HIPAA Avoid penalties and protect against data breaches with HIPAA-compliant apps.",
+    "Healthcare With product engineering services, we develop HIPAA-compliant applications for secure patient data management, EHR systems, medical device integrations, telehealth solutions, and AI-powered diagnostics."
+   ],
+   "enterprise": [
+    "Check tech stack clientsupport@sparxit.com +91 9810-230650 Industries Industries Healthcare Improve patient care with streamlined digital health solutions.",
+    "Insurance Streamline claims, compliance, & personalize policyholder experience.",
+    "BFSI Optimize financial processes, reduce costs, and enhance security.",
+    "Connect With Product Engineers Our Portfolio of Enterprise Software Product Engineering Enhanced Technical Documentation & Cloud Integration for a Healthcare Company SparxIT implemented a centralized, cloud-based documentation system and integrated it with existing healthcare platforms, improving accessibility."
+   ],
+   "senior_roles": [
+    "Rakesh Kumar, Senior Solution Architect --> We have streamlined our business goals to carve unique strategies to deal with complex challenges in the traditional process architecture.",
+    "UI/UX Design and Technical Architecture Our designers craft intuitive interfaces while architects plan the technical foundation."
+   ],
+   "vcs": [
+    "Familiar with git and/or git-flow, Bitbucket, JIRA, Confluence, Bitrise, Opsgenie, Bugfender."
+   ],
+   "DQ_agency": [
+    "As the Digital Marketing Head at our company, you will be responsible for setting up, implementing and managing the overall company's digital marketing strategy, you should have in-depth marketing experience and a passion for growth, marketing, branding & lead generation.",
+    "Digital marketing strategies are extremely important to our company's success, so your role will play a crucial role in achieving our business goals and objectives.",
+    "We are expecting you to have experience and a big passion for digital technologies and various digital marketing channels.",
+    "Key Responsibilities: Ability to design end-to-end digital marketing campaign journeys and bring them to life in the way of focused multi-touch demand generation campaigns, utilizing various platforms."
+   ],
+   "DQ_template": [
+    "Custom Mobile App Development SparxIT delivers custom mobile app development services built around your workflows, not templates."
+   ],
+   "DQ_support": [
+    "React Native Mobile Apps Our react native mobile app development services use Swift for iOS and Kotlin for Android, tapping directly into each platform's hardware and APIs.",
+    "Hybrid apps suit content-driven products and internal tools where speed to market matters more than deep hardware integration.",
+    "These apps monitor device data in real time and let users control connected hardware remotely.",
+    "Comprehensive Quality Assurance Before launch, our quality engineering team runs functional, performance, security, and device-compatibility tests on real hardware."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 67
+ }
+]

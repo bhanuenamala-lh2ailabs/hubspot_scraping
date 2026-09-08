@@ -1,0 +1,956 @@
+[
+ {
+  "name": "InnoFissionAI (Assistorix Systems Private Limited)",
+  "city": "Kolkata",
+  "domain": "innofissionai.com",
+  "website": "https://www.innofissionai.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "prod_eng": 2,
+   "sdlc": 5,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Industries Banking · Insurance · Telecom · Gov Offerings Consulting, Implementation & Managed Platforms & Partners Pega · Cloud · AI platforms Explore Enterprise Automation & AI Applied AI Engineering AI product development for mid-market innovators.",
+    "Industries Neo-Banking · Health · Insurance Solutions End-to-end AI product builds Engineering Services 9 specialised practices Explore Applied AI Engineering InnoFissionAI Not sure where to start?",
+    "Industries Banking · Insurance · Telecom · Gov Offerings Consulting, Implementation & Managed Platforms & Partners Pega · Cloud · AI platforms Explore Enterprise Automation & AI Applied AI Engineering AI product development built to your exact needs."
+   ],
+   "prod_eng": [
+    "Strategy & Prototyping Custom Product Engineering AI Ops & Product Evolution All Services Nine services.",
+    "Start a conversation Enterprise-grade AI automation and applied AI product engineering."
+   ],
+   "sdlc": [
+    "We run tight PoC and MVP sprints that test feasibility and user value in weeks — not months.",
+    "We provide ongoing engineering capacity — embedded in your roadmap, accountable to your sprint cycles — to design, build, and deploy new AI features on a continuous basis.",
+    "AI feature roadmap design and prioritisation Sprint-based feature delivery A/B testing and feature flagging for AI features Learn more 1 / 9 Not sure where to start?",
+    "Most projects start with a discovery sprint."
+   ],
+   "owns_product": [
+    "Ongoing model quality evaluation and benchmarking Fine-tuning on your domain data Prompt engineering and optimisation Learn more AI Ops & Product Evolution Continuous Feature Engineering We act as your extended engineering team, designing and rolling out new AI features to keep your product ahead of the curve."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Innoshri Private Limited",
+  "city": "Pune",
+  "domain": "innoshri.com",
+  "website": "https://www.innoshri.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 26239,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Innostrat Technologies Private Limited",
+  "city": "Kolkata",
+  "domain": "innostrat.in",
+  "website": "https://innostrat.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Consult with us --> Trusted by Fortune 500 Companies Delivering Innovative Solutions with Proven Excellence and Reliability.",
+    "+ We have collaborated with a wide range of industries, including IT, retail, audiology, healthcare, finance, manufacturing, and more, delivering customized solutions for every unique project."
+   ],
+   "sdlc": [
+    "With a customer-centric approach and agile mindset, we collaborate with leading brands to create seamless digital learning solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "INPW Technologies Private Limited",
+  "city": "Kolkata",
+  "domain": "inspiroworks.com",
+  "website": "https://inspiroworks.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 12461,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2,
+   "qa": 3,
+   "DQ_support": 1,
+   "compliance": 1,
+   "enterprise": 1,
+   "owns_product": 2,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "DevOps & CI/CD We modernize Salesforce development with continuous integration, automated testing, and streamlined deployments.",
+    "Sales Cloud Drive revenue from pipeline to paycheck with Sales Cloud a unified growth platform that blends human expertise and automation at every sales stage."
+   ],
+   "qa": [
+    "DevOps & CI/CD We modernize Salesforce development with continuous integration, automated testing, and streamlined deployments.",
+    "Salesforce QA Kolkata (Hybrid) View Details Apply Now At least 2 years of QA experience in Salesforce with a focus on Salesforce testing.",
+    "Experience with manual and automated testing methodologies."
+   ],
+   "DQ_support": [
+    "It supports one time and subscription sales, automates revenue operations, and enables rapid product launches, ensuring efficient and scalable business growth."
+   ],
+   "compliance": [
+    "Healthcare Optimize patient care, improve data security, and manage operations efficiently with our HIPAA-compliant Salesforce implementations."
+   ],
+   "enterprise": [
+    "Healthcare Optimize patient care, improve data security, and manage operations efficiently with our HIPAA-compliant Salesforce implementations."
+   ],
+   "owns_product": [
+    "Homegrown Accelerators We provide in-house solutions without any additional cost to the customer for improving their operational efficiency."
+   ],
+   "DQ_agency": [
+    "Strong knowledge of SEO best practices and tools."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Inspire Brands Global Innovation Center India Private Limited",
+  "city": "Hyderabad",
+  "domain": "inspirebrands.com",
+  "website": "https://inspirebrands.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "heir own. Learn More Our Brands We aim to curate and grow a portfolio of distinct, highly-valued brands. 32,000 Restaurants 650,000 + Company and Fran"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 28,
+   "cicd": 7,
+   "prod_eng": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "In that role, she collaborated closely with Fortune 500 CEOs, anchors, and reporters, and business executives on breaking news, corporate and political coverage, IPO reporting, and in-depth executive interviews while also contributing written pieces to CNBC.com.",
+    "Brown is active in the community, serving as chairman of the board of directors of Children’s Healthcare of Atlanta.",
+    "In this role, she oversaw global financial planning and analysis, accounting, financial reporting, tax, treasury, enterprise risk management, payments, insurance, and demand planning functions.",
+    "Grainger, Inc., a Fortune 500 B2B business."
+   ],
+   "cicd": [
+    "Rosen has over 25 years of retail and e-commerce experience having previously served as executive vice president and president of Levi Strauss Americas at Levi Strauss & Co., leading commercial operations for Levi's®, Dockers®, Signature by Levi by Levi Strauss & Co.TM, and Denizen® brands across all channels.",
+    "Prior to that role, Meline served as Vice President of Brand Management at Buffalo Wild Wings, where he developed the brand’s innovation strategy and pipeline, oversaw calendar planning, and directed advertising initiatives."
+   ],
+   "prod_eng": [
+    "Anwar oversees product engineering, data engineering, technology operations, architecture, cybersecurity, enterprise applications, infrastructure and development operations, and the Office of the Chief Technology Officer."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Institute for Development and Research in Banking Technology (IDRBT)",
+  "city": "Hyderabad",
+  "domain": "idrbt.ac.in",
+  "website": "https://www.idrbt.ac.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 39062,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "IDRBT Journal of Banking and Financial Technology – Vol.",
+    "9, Issue 2 – October 2025 Research Centres In line with the changes in the Banking and Financial Technology landscape as well as to effectively bring in the benefits of newer and emerging technologies for the Indian Banking and Financial Sector, the Institute has restructured its Research Centres."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Institute for Information Industry (India Branch Office)",
+  "city": "Chennai",
+  "domain": "iii.org.tw",
+  "website": "https://www.iii.org.tw/zh-TW",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 35147,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Intec Infra-Technologies Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "intecinfocom.com",
+  "website": "https://www.intecinfra.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 38613,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 2,
+   "DQ_support": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Ensure all BIM deliverables align with internal QA/QC procedures.",
+    "Ensures the BIM deliverables are in line with the QA process."
+   ],
+   "DQ_support": [
+    "Lead large-scale ELV systems (Fire Alarm, CCTV/IP Video, Access Control, PA, Intrusion Detection, Networking) ensuring compliance with NEC, IEC, TIA/EIA, ISO standards."
+   ],
+   "enterprise": [
+    "Outstanding knowledge in architectural projects like residential, commercial, hospitality, healthcare etc."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Integrated Information Services Pvt Ltd",
+  "city": "Noida",
+  "domain": "iiservz.com",
+  "website": "https://www.iiservz.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2009-09-18",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 5181,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "enterprise": [
+    "01 --> Insurance Claim Investigation Thorough claim verification to detect fraud and ensure genuine settlements.",
+    "03 300+ Enterprise Clients Trusted by leading organizations across industries with a strong track record of client satisfaction.",
+    "Build trust and expanded client base across industries Strengthened operational scale & quality frameworks Insurance Claims investigation Positioned as a reliable risk mitigation partner 2021 – Present Global Expansion & Technology From local strength to global reach.",
+    "With over 25 years of cross-functional experience, Nitin specializes in key account management and in setting up end-to-end operational processes and teams for large enterprise clients."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Integrity Tech Solutions Private Limited",
+  "city": "Chennai",
+  "domain": "integritytechsolutions.in",
+  "website": "http://integritytechsolutions.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2020-03-03",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "Wide Boxed Frame Color Schemes Which template color you want to use?"
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Intellinez Systems Private Limited",
+  "city": "Mohali",
+  "domain": "intellinez.com",
+  "website": "https://www.intellinez.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Software Development Company | IT Consulting | Intellinez Systems Skip to content Services"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 139707,
+   "signals": {
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "vcs_generic": [
+     "How AI Full-Stack Generators are Changing the Game Table of Contents In the previous blog (AI Code Editor) in this series, we explored how AI code editors like GitHub Copilot and Cursor are revolutionizing software development by helping developers code, debug, and optimize faster than ever.",
+     "How AI Full-Stack Generators are Changing the Game Table of Contents In the previous blog (AI Code Editor) in this series, we explored how AI code editors like GitHub Copilot and Cursor are revolutionizing software development by helping developers code, debug, and optimize faster than ever."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 14,
+   "sdlc": 4,
+   "DQ_template": 3,
+   "senior_roles": 4,
+   "enterprise": 12
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Monthly-Milestone Model Time and Resource Contract Fixed Cost Projects Talk to Our Experts Our Products Back Our Products Our Innovative EdTech Products Mera Tutor AI LegiCred Welcome the future of education by adopting our EdTech products based on the latest technologies.",
+    "Innovative & Personalized Custom SaaS Product Development Empower your business with tailored SaaS solutions designed to meet your unique requirements.",
+    "Our expert team specializes in creating scalable, secure, and high-performance SaaS products that streamline operations and enhance user experiences.",
+    "People are using them to build full-scale CRMs, SaaS products, finance dashboards, creative tools, and other applications and platforms that once would’ve required weeks (or months) of manual coding."
+   ],
+   "sdlc": [
+    "Agile & Skilled Staff Augmentation Our Staff Augmentation service provides flexible, scalable, and expert talent solutions to meet your business needs.",
+    "Our Memberships & Affiliations Hide Previous Next Engagement Models Your capital and our talent are both finite resources."
+   ],
+   "DQ_template": [
+    "Published Date 5 May, 2025 Low-Code 8 Proven Best Practices for Integrating Low-Code Platforms in Enterprise IT Low-code platforms provide a visual development environment where users can build apps using drag-and-drop components and pre-built templates, rather than writing traditional lines of code."
+   ],
+   "senior_roles": [
+    "The lead project engineer, solution architect, Read More Read More Automatic Data population from PDF files to Azure Database for Insurance Company Abstract Insurance service providers operate in a highly competitive environment wherein customers and stakeholders expect on-demand settlement of claims.",
+    "The lead project engineer, solution architect, Read More Read More Automated Data Transfer from PDF files to Azure Database for Insurance Company 2022-23 Abstract Insurance service providers operate in a highly competitive environment wherein customers and stakeholders expect on-demand settlement of claims."
+   ],
+   "enterprise": [
+    "The lead project engineer, solution architect, Read More Read More Automatic Data population from PDF files to Azure Database for Insurance Company Abstract Insurance service providers operate in a highly competitive environment wherein customers and stakeholders expect on-demand settlement of claims.",
+    "Despite digitization of processes, the insurance industry is prone to delay in grievance handling and claims processing resulting into rise in frauds and a dissatisfied consumer.",
+    "One of the unresolved bottlenecks here is the errors in Read More Read More Azure Migration for a Healthcare Tech Company 2022-23 Customer Background The customer is a renowned healthcare technology company in the United States.",
+    "The lead project engineer, solution architect, Read More Read More Automated Data Transfer from PDF files to Azure Database for Insurance Company 2022-23 Abstract Insurance service providers operate in a highly competitive environment wherein customers and stakeholders expect on-demand settlement of claims."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "International SOS Services (India) Private Limited",
+  "city": "Mumbai",
+  "domain": "internationalsos.com",
+  "website": "https://www.internationalsos.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "wse all Services Events Newsroom Insights Featured Insights Case Studies Podcast Risk Outlook All Insights About Us Who We Are Our Locations Our Partn"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [
+    "https://careers.smartrecruiters.com/Iqarus"
+   ],
+   "jd_chars": 9804,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1,
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Mentorship and Coaching: Employees can benefit from mentorship and coaching programs that provide guidance and support for their career growth."
+   ],
+   "enterprise": [
+    "From a healthcare perspective, reconfirm any medical care that is scheduled in the coming days.",
+    "Access to healthcare and essential support.",
+    "As well as contributing to your Duty of Care and sustainability agenda, these steps can reduce costs and insurance claims.",
+    "91,000 Network Providers across security, healthcare, and aviation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Interpolitan Global Private Limited",
+  "city": "Mumbai",
+  "domain": "interpolitanmoney.com",
+  "website": "https://www.interpolitanmoney.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [
+    "https://apply.workable.com/interpolitan-money/?lng=en"
+   ],
+   "jd_chars": 122851,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 22
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Apply now Powering opportunities in 160+ countries We build strong client relationships and tailor alternative banking solutions and escrow services to suit complex business plans and bold long-term goals.",
+    "FCA-regulated alternative banking solutions.",
+    "Open account Solutions that break barriers Stay flexible in a shifting global landscape with our alternative banking services.",
+    "Custom solutions FCA regulated Our multi-currency accounts bring your financial dreams to life."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Interropac Private Limited",
+  "city": "Bengaluru",
+  "domain": "karboncard.com",
+  "website": "https://www.karboncard.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2019-03-10",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Sign Up Learn More Note: We work only with PACB-licensed players and regulated banks for inward and outward flows Who Is Karbon Built For?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Invesco (India) Private Limited",
+  "city": "Hyderabad",
+  "domain": "invesco.com",
+  "website": "https://www.invescomutualfund.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1995-01-04",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 762601,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "owns_product": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "We continuously improve how we work, embracing effective ways to deliver value every day."
+   ],
+   "owns_product": [
+    "Our product portfolio is managed by individually focused management teams to create optimum balance and results."
+   ],
+   "enterprise": [
+    "IndusInd International Holdings Limited (IIHL) - Originally versed in the banking sector, IndusInd has, over the years, invested in a wide range of financial services across several jurisdictions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Invisalign India LLP",
+  "city": "Hyderabad",
+  "domain": "aligntech.com",
+  "website": "https://www.aligntech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 575,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "DQ_support": 1,
+   "DQ_training": 1,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Initial Public Offering (NASDAQ: ALGN) January 01, 2001 Initial public offering of 10,000,000 shares of common stock offered by the company, trading on the NASDAQ National Market under the ticker symbol ALGN on January 26, 2001.",
+    "Align will also donate personal protective equipment (PPE) such as N95 masks and is working with partners to source supplies for any additional PPE to help hospitals and healthcare providers that are treating patients with COVID-19.",
+    "(Nasdaq: ALGN) as the winner of the “Best New Technology Solution for Dentistry” award for its iTero Element® 5D Imaging System (“iTero Element 5D”) in its fourth annual MedTech Breakthrough Awards program.",
+    "MedTech Innovator matches healthcare industry leaders with innovative medtech startups for mentorship and support."
+   ],
+   "DQ_support": [
+    "New iTero scanner January 01, 2013 The imaging system is now made available as a single hardware platform with software options for restorative or orthodontic procedures."
+   ],
+   "DQ_training": [
+    "Align University Training Institute Opens in Shanghai, China March 20, 2019 The company announced the opening of the Align University Training Institute in Shanghai, China."
+   ],
+   "owns_product": [
+    "Align Technology Announces Partnership with MedTech Innovator Asia Pacific, Industry's Leading Nonprofit Startup Accelerator June 18, 2020 Announced a partnership with MedTech Innovator, the premier nonprofit startup accelerator in the medical technology industry.",
+    "We achieve this by continued focus and execution of our strategic growth drivers: International expansion In order to provide the millions of consumers’ access to a better smile, we continue increasing our presence globally by making our products available in more markets."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "IonIdea Enterprise Solutions Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "ionidea.com",
+  "website": "https://www.ionidea.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-11-18",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 11256,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 3,
+   "prod_eng": 6,
+   "owns_product": 6,
+   "sdlc": 3,
+   "qa": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Good to have Configuration Management tools (e.g., Ansible, Puppet, Chef).",
+    "Will use Terraform, Terragrunt, and Cloudformation Infrastructure automation.",
+    "Will use Java, Javascript, Pearl, Ruby, Python, PHP, Bash, and Ansible Scripting languages."
+   ],
+   "prod_eng": [
+    "--> --> Expert Product Engineering Services",
+    "Our Product Engineering services, now powered with AI, exemplify this commitment.",
+    "Our product engineering process is built on open communication and iterative feedback loops.",
+    "Our Product Engineering Services Include Product Ideation and Strategy"
+   ],
+   "owns_product": [
+    "Our Product Engineering services, now powered with AI, exemplify this commitment.",
+    "Our product engineering process is built on open communication and iterative feedback loops.",
+    "Our Product Engineering Services Include Product Ideation and Strategy",
+    "Future-proofing your product Explore Our QuickStart Packages --> We understand that every project is unique."
+   ],
+   "sdlc": [
+    "This commitment enhances our processes, ensuring efficiency, productivity, and superior quality for you.",
+    "Seamless and intuitive user experiences Agile Development",
+    "Our agile approach allows us to adapt swiftly to changes and opportunities."
+   ],
+   "qa": [
+    "Automated testing for efficiency"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "iQor India Services Pvt Ltd",
+  "city": "Noida",
+  "domain": "iqor.com",
+  "website": "https://www.iqor.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2004-07-14",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2949,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 4
+  },
+  "site_quotes": {
+   "cicd": [
+    "WIN creates real pathways for career advancement and helps us build a diverse leadership pipeline that makes our organization stronger at every level.",
+    "13 When Q1 Slips: Redesigning Revenue Under Pressure Jarron Vosburg · Feb 23, 2026 Discover why revenue leaders can’t out-hustle structural gaps and how redesigning the system, not increasing pressure, restores pipeline velocity.",
+    "Discover five critical checkpoints revenue leaders must optimize to accelerate pipeline, conversion, and predictable growth."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "IRIS Software Pvt Ltd",
+  "city": "New Delhi",
+  "domain": "irissoftware.com",
+  "website": "https://www.irissoftware.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "ment & Support Services Menu SERVICES Professional Services Application development Application Maintenance & Support Testing & Quality Assurance Prod"
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 102461,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 11,
+   "enterprise": 15,
+   "prod_eng": 2,
+   "owns_product": 1,
+   "DQ_training": 1,
+   "sdlc": 3
+  },
+  "site_quotes": {
+   "qa": [
+    "--> Services Services --> Automation Cloud Data & Analytics Application Managed Services Generative AI Quality Engineering Integrations Interactive Gen AI platform offers future-ready capabilities Generative AI platform offers future-ready AI capabilities and roadmaps for the risk and business teams at a leading bank.",
+    "SAVE & ACCEPT GenAI-Powered Quality Engineering",
+    "--> Contact --> Contact --> Celebrating 35 Years of Iris Explore the Journey × --> Quality evolution drives enterprise resilience Quality Engineering (QE) is at an inflection point, with Gen AI and Agentic AI driving speed, resilience, and confidence at scale.",
+    "Quality evolution drives enterprise resilience Quality Engineering (QE) is at an inflection point, with Gen AI and Agentic AI driving speed, resilience, and confidence at scale."
+   ],
+   "enterprise": [
+    "Modern insurance product data services platform A unified, secure, scalable architecture for product data access and publishing with seamless downstream integration.",
+    "Iris Sponsors Mutual Insurance Convention Join Iris and industry insurance leaders at Mid-Atlantic Mutual Advantage Convention 2026 to examine AI and other trends.",
+    "Explore Gen AI Solutions Engineering the Future of Banking & Financial Services Trusted by global financial institutions to modernize platforms, strengthen compliance, and accelerate digital transformation.",
+    "Explore our Expertise Recognized as a Leader in IT Services Named a Leader in the Banking & Financial Services IT Services Specialists PEAK Matrix® Assessment by Everest Group."
+   ],
+   "prod_eng": [
+    "A Journey Defined by Milestones, Driven by Vision For 35 years, Iris has partnered with global enterprises to deliver engineering excellence and innovation.",
+    "Discover the Story Latest Videos Celebrating engineering excellence that transforms ideas into impact."
+   ],
+   "owns_product": [
+    "View all industries Elevate customer experience Get your enterprise future-ready with our suite of technology services, accelerators and software engineering competencies."
+   ],
+   "DQ_training": [
+    "Each participant receives dedicated one-on-one coaching, and expert-led sessions from IIM-Bangalore to enhance strategic thinking and management skills."
+   ],
+   "sdlc": [
+    "Our employees are passionate, resourceful, and agile.",
+    "View all leaders Our Partners View all partners What makes Iris special and unique We provide a value-driven approach with a unique blend of highly-skilled specialists, software engineering expertise and flexible engagement models."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "iSpace Software Solutions India Private Limited",
+  "city": "Hyderabad",
+  "domain": "elipticosolutions.com",
+  "website": "https://ispace.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2015-03-29",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1733,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 1,
+   "enterprise": 5
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Application Development & Modernization Cloud & Platform Engineering Designing scalable cloud platforms across AWS, Azure, and GCP with modern architecture and automation."
+   ],
+   "enterprise": [
+    "Data Engineering & DataOps Healthcare Platforms & Solutions Delivering platforms and intelligent operations across payer, provider, and revenue cycle ecosystems.",
+    "Healthcare Platforms & Solutions AI-Powered Business Operations AI-enabled operations combining automation and expert teams to run and optimize business processes at scale.",
+    "Our clients We partner with enterprise clients across technology, healthcare, financial services, automotive, entertainment and other sectors throughout the United States.",
+    "Suresh has over 25 years of experience in building global companies specializing in information technology, business process services, and healthcare sectors."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

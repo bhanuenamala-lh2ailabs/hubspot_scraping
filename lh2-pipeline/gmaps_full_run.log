@@ -1,0 +1,92 @@
+=== Google Maps Tier 2/3 IT Company Discovery ===
+
+auth: api_key
+budget: 1200 this run | 4000 for 2026-08 (already used 169)
+  Coimbatore           software development company in Coimbatore      40 results (+40 new)
+  Coimbatore           IT company in Coimbatore                         0 results (+0 new)
+  Coimbatore           web development company in Coimbatore            0 results (+0 new)
+  Coimbatore           mobile app development company in Coimbatore     0 results (+0 new)
+  Coimbatore           custom software company in Coimbatore            0 results (+0 new)
+  Indore               software development company in Indore           0 results (+0 new)
+  Indore               IT company in Indore                             0 results (+0 new)
+  Indore               web development company in Indore                0 results (+0 new)
+  Indore               mobile app development company in Indore         0 results (+0 new)
+  Indore               custom software company in Indore                0 results (+0 new)
+  Kochi                software development company in Kochi            0 results (+0 new)
+  Kochi                IT company in Kochi                              0 results (+0 new)
+  Kochi                web development company in Kochi                 0 results (+0 new)
+  Kochi                mobile app development company in Kochi          0 results (+0 new)
+  Kochi                custom software company in Kochi                 0 results (+0 new)
+    tile saturated (60) -> subdividing at depth 1
+    tile saturated (60) -> subdividing at depth 2
+    tile saturated (60) -> subdividing at depth 2
+  Mohali               software development company in Mohali         474 results (+297 new)
+    tile saturated (60) -> subdividing at depth 1
+    tile saturated (60) -> subdividing at depth 2
+  Mohali               IT company in Mohali                           356 results (+170 new)
+    tile saturated (60) -> subdividing at depth 1
+    tile saturated (60) -> subdividing at depth 2
+    tile saturated (60) -> subdividing at depth 2
+  Mohali               web development company in Mohali              514 results (+166 new)
+    tile saturated (60) -> subdividing at depth 1
+    tile saturated (60) -> subdividing at depth 2
+    tile saturated (60) -> subdividing at depth 2
+  Mohali               mobile app development company in Mohali       314 results (+31 new)
+  Mohali               custom software company in Mohali                0 results (+0 new)
+  Mysuru               software development company in Mysuru           0 results (+0 new)
+  Mysuru               IT company in Mysuru                             0 results (+0 new)
+  Mysuru               web development company in Mysuru                0 results (+0 new)
+  Mysuru               mobile app development company in Mysuru         0 results (+0 new)
+  Mysuru               custom software company in Mysuru                0 results (+0 new)
+  Surat                software development company in Surat            0 results (+0 new)
+  Surat                IT company in Surat                              0 results (+0 new)
+  Surat                web development company in Surat                 0 results (+0 new)
+  Surat                mobile app development company in Surat          0 results (+0 new)
+  Surat                custom software company in Surat                 0 results (+0 new)
+  Bhopal               software development company in Bhopal           0 results (+0 new)
+  Bhopal               IT company in Bhopal                             0 results (+0 new)
+  Bhopal               web development company in Bhopal                0 results (+0 new)
+  Bhubaneswar          software development company in Bhubaneswar      0 results (+0 new)
+  Bhubaneswar          IT company in Bhubaneswar                        0 results (+0 new)
+  Bhubaneswar          web development company in Bhubaneswar           0 results (+0 new)
+  Lucknow              software development company in Lucknow          0 results (+0 new)
+  Lucknow              IT company in Lucknow                            0 results (+0 new)
+  Lucknow              web development company in Lucknow               0 results (+0 new)
+  Mangaluru            software development company in Mangaluru        0 results (+0 new)
+  Mangaluru            IT company in Mangaluru                          0 results (+0 new)
+  Mangaluru            web development company in Mangaluru             0 results (+0 new)
+  Nagpur               software development company in Nagpur           0 results (+0 new)
+  Nagpur               IT company in Nagpur                             0 results (+0 new)
+  Nagpur               web development company in Nagpur                0 results (+0 new)
+  Thiruvananthapuram   software development company in Thiruvananth     0 results (+0 new)
+  Thiruvananthapuram   IT company in Thiruvananthapuram                 0 results (+0 new)
+  Thiruvananthapuram   web development company in Thiruvananthapura     0 results (+0 new)
+  Vadodara             software development company in Vadodara         0 results (+0 new)
+  Vadodara             IT company in Vadodara                           0 results (+0 new)
+  Vadodara             web development company in Vadodara              0 results (+0 new)
+  Vizag                software development company in Vizag            0 results (+0 new)
+  Vizag                IT company in Vizag                              0 results (+0 new)
+  Vizag                web development company in Vizag                 0 results (+0 new)
+  Chandigarh           software development company in Chandigarh       0 results (+0 new)
+    ... run 100/1200 | 2026-08 total 269/4000
+  Chandigarh           IT company in Chandigarh                         0 results (+0 new)
+  Hubli                software development company in Hubli            0 results (+0 new)
+  Hubli                IT company in Hubli                              0 results (+0 new)
+  Kolkata              software development company in Kolkata          0 results (+0 new)
+  Kolkata              IT company in Kolkata                            0 results (+0 new)
+  Rajkot               software development company in Rajkot           0 results (+0 new)
+  Rajkot               IT company in Rajkot                             0 results (+0 new)
+  Trichy               software development company in Trichy           0 results (+0 new)
+  Trichy               IT company in Trichy                             0 results (+0 new)
+  Vijayawada           software development company in Vijayawada       0 results (+0 new)
+  Vijayawada           IT company in Vijayawada                         0 results (+0 new)
+
+API calls made:      132 / 1,200 budget
+Traceback (most recent call last):
+  File "C:\Users\naani\OneDrive\Desktop\hubspot\lh2-pipeline\gmaps_scraper.py", line 469, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\naani\OneDrive\Desktop\hubspot\lh2-pipeline\gmaps_scraper.py", line 449, in main
+    print(f"Estimated cost:      ${budget.estimated_cost:.2f} "
+                                   ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'BudgetTracker' object has no attribute 'estimated_cost'

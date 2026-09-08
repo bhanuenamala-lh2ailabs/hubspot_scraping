@@ -1,0 +1,84 @@
+initialised 
+C:\Users\naani\OneDrive\Desktop\hubspot\godown\shutdown-radar\data\radar.sqlite
+ingest-manual
+ STK-7:
+  18-Batch-STK7-412-20240313 (1).pdf: stated 412, extracted 412 [PASS]
+  767-Companies-20260513.pdf: stated 767, extracted 765 [PASS]
+  Companie-for-gazette-680-20260701.pdf: stated 680, extracted 680 [PASS]
+  Companies-927-20260625.pdf: stated 927, extracted 927 [PASS]
+  Gazette-file-19-Batch-Final-STK7-20240313.pdf: stated ?, extracted 313 
+  Notice-of-665-Companies-20260702.pdf: stated 665, extracted 665 [PASS]
+  STK-7-1028-Companies-20260715.pdf: stated 1028, extracted 1028 [PASS]
+  STK-7-Companies-903-20260729.pdf: stated 903, extracted 903 [PASS]
+  STK-7-Notice-444-20260722.pdf: stated 444, extracted 444 [PASS]
+  companies-194-20250113.pdf: stated 194, extracted 196 [PASS]
+  llps-909-20260527.pdf: stated 909, extracted 909 [PASS]
+  stk-7-819-Companies-20260616.pdf: stated 819, extracted 819 [PASS]
+ IBBI:
+C:\Users\naani\OneDrive\Desktop\hubspot\lh2-pipeline\.venv\Lib\site-packages\openpyxl\worksheet\header_footer.py:48: UserWarning: Cannot parse header or footer so it will be ignored
+  warn("""Cannot parse header or footer so it will be ignored""")
+  ibbi 2025-07-30 16_45_39-2f9407c2aa0865db1cd130bf661d9dbd (1).xlsx: 2758 
+rows, as-of 2025-07-30, 2734 with CIN
+  ibbi newsletter 62bde7e8797a6a91abc577742098b840.pdf: aggregates only — no 
+entity extraction (per spec §2c)
+ data.gov.in CSVs:
+  datagovin: no per-state CSVs in data/manual/datagovin/ — registry status will
+come from the API only (slower, but correct)
+ DPIIT:
+  dpiit: none supplied (optional)
+ entities in registry index: 10,794
+discover
+  seeds: 45 known shutdowns loaded (zero network)
+  google news: 320 monthly buckets
+  gdelt: 160 buckets
+    Inc42: 0
+    YourStory: 0
+    Moneycontrol: 0
+    Mint: 0
+    ET Tech: 0
+  discovery totals: {'google_news': 26, 'gdelt': 1, 'media_rss': 0, 'tracker': 
+0} = 27
+  !! SANITY GATE: only 27 news candidates (expected 300-1500). Regex or 
+bucketing may be broken.
+resolve
+  entity index: 10,794 CINs
+  unresolved candidates: 87
+  resolve: {'override': 2, 'exact': 0, 'fuzzy_confirmed': 3, 'review': 1, 
+'none': 81}
+verify
+  !! datagovin probe FAILED: None
+liveness
+  checking 82 unconfirmed candidates
+    ...40/82
+    ...80/82
+  liveness done: 24/82 look dead
+score
+  tiers: {'probable': 8044, 'confirmed': 2732, 'possible': 12, 'noise': 73}  | 
+IBBI bonus withheld on 0 (currency guard)
+prequal  (scorecard from filterCriteria.md)
+  scoring 400 confirmed/probable candidates
+    ...50/400
+    ...100/400
+    ...150/400
+    ...200/400
+    ...250/400
+    ...300/400
+    ...350/400
+    ...400/400
+  routing: {'dont_pursue_but_unscored': 400}
+  fast-track (45+): 0 | cold-call (25-44): 0 | below 25: 400 (of which 400 only
+because criteria were UNSCORED)
+  export: 10795 rows -> {'csv': 
+'C:\\Users\\naani\\OneDrive\\Desktop\\hubspot\\godown\\shutdown-radar\\data\\ou
+t\\india_startup_shutdowns_20260804.csv', 'json': 
+'C:\\Users\\naani\\OneDrive\\Desktop\\hubspot\\godown\\shutdown-radar\\data\\ou
+t\\india_startup_shutdowns_20260804.json', 'xlsx': 
+'C:\\Users\\naani\\OneDrive\\Desktop\\hubspot\\godown\\shutdown-radar\\data\\ou
+t\\india_startup_shutdowns_20260804.xlsx'}
+  review queue -> 
+C:\Users\naani\OneDrive\Desktop\hubspot\godown\shutdown-radar\data\out\review_q
+ueue.csv
+  run report   -> 
+C:\Users\naani\OneDrive\Desktop\hubspot\godown\shutdown-radar\data\out\run_repo
+rt.md
+run-all complete in 0:40:35.085562

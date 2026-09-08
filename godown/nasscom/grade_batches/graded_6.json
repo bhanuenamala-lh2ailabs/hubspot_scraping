@@ -1,0 +1,430 @@
+[
+ {
+  "name": "Precise Testing Solution Private Limited",
+  "domain": "precisetestingsolution.com",
+  "score": 35,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 35,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06 snapshot: 'A Pure Software Testing Company'",
+  "evidence": [
+   "Wayback 2023-06: 'A Pure Software Testing Company' (tier_gold_evidence)",
+   "Site: automation testing, Selenium, test case management service lines",
+   "16k chars of careers text yielded no repo host, no review gate",
+   "Site: compliance audits (PCI DSS, HIPAA, ISO 27001) sold as services"
+  ],
+  "why_this_rank": "A pure third-party QA/audit house: it tests and certifies other people's software rather than owning a codebase, so the acquisition thesis does not apply even though its pre-2024 evidence is clean. The ISO/PCI/HIPAA hits are audits they sell, not their own change-control certification, so no compliance points."
+ },
+ {
+  "name": "Sagility Limited",
+  "domain": "sagilityhealth.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [],
+  "pre2024_basis": "UNKNOWN - no snapshot and no RDAP record; missing, not absent",
+  "evidence": [
+   "Site: 'end-to-end healthcare operations partner', payer/provider back-office",
+   "Site: '7 of 10 Top Health Plans Served', '25+ Years Healthcare Expertise'",
+   "Only compliance hit is a GDPR cookie-banner string",
+   "13k chars of careers text with zero engineering signals"
+  ],
+  "why_this_rank": "Healthcare-operations BPO at listed-company scale (claims, payer/provider admin), not a firm that builds and sells software; headcount is blank in the bundle but the site's own scale claims put it far past the giant threshold. Excluded on business model, not on the thin score."
+ },
+ {
+  "name": "Sify Technologies Ltd",
+  "domain": "sifycorp.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [],
+  "pre2024_basis": "DOMAIN_ONLY - domain from 2000-07-18, no snapshot of software work",
+  "evidence": [
+   "Site: 'CMMI Development V2.0 - Level 5' own certification",
+   "Site: 'All of India's inter-banking transactions' run on Sify infrastructure",
+   "Site: data centre, network and managed services are the core business",
+   "Careers page never reached; jd_chars 13"
+  ],
+  "why_this_rank": "A national data-centre, network and managed-ICT operator far past the giant threshold - not an acquirable mid-size software shop. Only three pages were crawled and the careers page was never reached, so the CMMI 5 line is the sole scoreable signal."
+ },
+ {
+  "name": "Silverskills Pvt Ltd",
+  "domain": "silverskills.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 10,
+  "raw_before_caps": 45,
+  "caps_applied": [
+   "BPO/BPM core business -> cap 20"
+  ],
+  "pre2024_basis": "PROVEN - 2020-06 snapshot advertised engineering services and case studies",
+  "evidence": [
+   "Site: 'first BPM company accredited with ISO 27001 certification by BSI'",
+   "Site: healthcare RCM, mortgage, insurance and accounting processing lines",
+   "Site: 'Software Engineering' and 'DevOps' listed as secondary offerings",
+   "65k chars of careers text with zero engineering signals"
+  ],
+  "why_this_rank": "Self-describes as a BPM company; healthcare revenue-cycle, mortgage and accounting processing are the core, with software engineering and DevOps as adjacent service lines. The BPO cap takes a raw 45 down to 20. If the engineering arm is materially separate, it deserves a re-crawl of that unit alone."
+ },
+ {
+  "name": "Smartncode Technologies Private Limited",
+  "domain": "smartncode.com",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 25,
+  "tier_c_points": 0,
+  "raw_before_caps": 50,
+  "caps_applied": [
+   "Generalist-agency signature (dev bundled with SEO/digital marketing) -> cap 30"
+  ],
+  "pre2024_basis": "PROVEN - 2023-06 snapshot listed software, web and mobile development",
+  "evidence": [
+   "Site tech stack: 'Docker, Kubernetes, Jenkins, Git, Ansible, Terraform'",
+   "Site: 'ISO 9001:2015' and 'ISO 27001:2022 certified' own certifications",
+   "Wayback 2023-06 menu: 'Software Development ... SEO Digital Marketing It Outs[ourcing]'",
+   "Careers page not reached; jd_chars 0"
+  ],
+  "why_this_rank": "The agency cap was fired on their own archived service menu (Software Development, Web, Mobile, SEO, Digital Marketing, IT Outsourcing) because the crawl never reached a current services or careers page - the live crawl found no DQ evidence either way. Without that call it scores 50 and lands in Secondary, so it is worth re-checking whether SEO is still sold."
+ },
+ {
+  "name": "Trusted Support Services Private Limited",
+  "domain": "tsspl.org",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [],
+  "pre2024_basis": "UNKNOWN - no snapshot and no RDAP record; missing, not absent",
+  "evidence": [
+   "Site: 'ISO 9001:2005 and ISO 27001:2003 certified company' own certifications",
+   "31k chars of careers text produced zero engineering signals",
+   "Site content is quotes, testimonials and ISO badges only",
+   "Client testimonial praises 'their service and support'"
+  ],
+  "why_this_rank": ""
+ },
+ {
+  "name": "Valuecent Consultancy Private Limited",
+  "domain": "valuecent.in",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 2023-06 without software wording",
+  "evidence": [
+   "Site: 'ISO 27001:2022 certified and GDPR-compliant organization'",
+   "41k chars of careers text produced zero engineering signals",
+   "headcount_known = 4",
+   "No CI/CD, VCS, QA or product signal anywhere on site"
+  ],
+  "why_this_rank": "Four employees on record - a consultancy rather than a development shop, and too small to be carrying a codebase worth buying. 41k chars of careers text with not one engineering keyword makes the zero Tier A a real absence here, not a crawl gap."
+ },
+ {
+  "name": "Xiarch Solutions Pvt Ltd",
+  "domain": "xiarch.com",
+  "score": 35,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 35,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06 snapshot advertised network security and GRC services",
+  "evidence": [
+   "Site: 'CERT-IN Empanelled & ISO 9001-2015, 27001-2013 certified' firm",
+   "Wayback 2023-06: network security and GRC service portfolio",
+   "37k chars of careers text with zero engineering signals",
+   "headcount_known = 48; already in HubSpot"
+  ],
+  "why_this_rank": "A CERT-In empanelled VAPT and GRC consultancy - the 'software work' its pre-2024 snapshot advertises is security auditing, so there is no client codebase behind it. 48 people, already in HubSpot."
+ },
+ {
+  "name": "Yotta Infrastructure Solutions LLP",
+  "domain": "yotta.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06 snapshot advertised cloud and cybersecurity portfolio",
+  "evidence": [
+   "Site: data centre, GPU cloud and managed cybersecurity offerings",
+   "Site: 'Sovereign Hybrid Cloud as a Service', 'DRaaS' product lines",
+   "78k chars of careers text plus a Darwinbox board: zero engineering signals",
+   "Compliance hits are a staff bio and a managed-SOC service line"
+  ],
+  "why_this_rank": "A data-centre and cloud-infrastructure operator (Hiranandani group scale), not a software-services firm - it sells capacity, not delivered codebases. Notably its 78k-char careers crawl, including an external Darwinbox board, produced no repo, CI/CD or review signal at all."
+ },
+ {
+  "name": "Arcite Technical Education Solutions Private Limited",
+  "domain": "arcite.in",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 35,
+  "caps_applied": [
+   "Training business -> cap 30"
+  ],
+  "pre2024_basis": "PROVEN - 2020-06 snapshot, but it advertises Certiport certification programs",
+  "evidence": [
+   "Site: 'ISO 9001-2015 certified institution' providing training programs",
+   "Site: founded 2015 to provide 'quality and affordable training programs'",
+   "Wayback 2020-06: Certiport certification portfolio, Microsoft Office Specialist",
+   "11k chars of careers text with zero engineering signals"
+  ],
+  "why_this_rank": "A technical-training institute and Certiport certification centre. Its PROVEN pre-2024 flag rests on a training-programme snapshot, not software delivery, so the full +25 overstates it; the training cap holds it at 30 regardless."
+ },
+ {
+  "name": "Aress Software & Education Technologies Private Limited",
+  "domain": "aress.com",
+  "score": 53,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 18,
+  "raw_before_caps": 53,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2022-06 snapshot advertised AWS, mobile and custom web development",
+  "evidence": [
+   "Site: 'ISO, CMMi Level 3 Processes' and 'ISO 27001:2022' own certifications",
+   "Site: 'How we work - Software Development Process' with defined stages",
+   "Site: 'GenAI Accelerators'; insurance and claims case studies",
+   "92k chars of careers text produced zero engineering signals"
+  ],
+  "why_this_rank": "The highest-fit business model in the batch (offshore custom development since pre-2022, CMMI 3, real case studies) but it scores on positioning alone: 92k chars of careers text contained no Git, CI/CD, repo host or review-gate wording, which is why Tier A is zero and confidence is Inferred. One caveat for the thesis - the site advertises 'Source Code Delivery to Clients'."
+ },
+ {
+  "name": "Benzfab Technologies Private Limited",
+  "domain": "benzfab.com",
+  "score": 35,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 35,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2020-06 snapshot advertised IT solutions and IT infrastructure",
+  "evidence": [
+   "Site: 'ISO 9001:2008 Certified IT System Integrator founded ... in 1998'",
+   "Site: clients in finance, government, oil & gas, aviation",
+   "15k chars of careers text with zero engineering signals",
+   "Site sdlc quotes are 'capability to be agile' marketing lines"
+  ],
+  "why_this_rank": "A 1998 IT system integrator - infrastructure deployment rather than software authorship. Its agile/SDLC prose was judged decorative (two sentences claiming adaptability, no process detail), so no Tier C fired despite the signal counter showing twelve sdlc hits."
+ },
+ {
+  "name": "Bulwark Systems",
+  "domain": "bulwarks.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 20,
+  "caps_applied": [],
+  "pre2024_basis": "UNKNOWN - no snapshot and no RDAP record; missing, not absent",
+  "evidence": [
+   "Site: 'ISO 9001:2008 and ISO 27001:2005 accredited company' own certifications",
+   "All site quotes are the same About Us sentence repeated",
+   "7k chars of careers text with zero engineering signals",
+   "Team page not reached"
+  ],
+  "why_this_rank": ""
+ },
+ {
+  "name": "Crossbow Labs LLP",
+  "domain": "crossbowlabs.com",
+  "score": 35,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 35,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2022-06 snapshot with intrusion-detection case study content",
+  "evidence": [
+   "Site: aligns with 'CREST, PCI, ISO, CERT-IN, GDPR' as an assessor",
+   "Site: PCI DSS v4.0 migration and security assessment offerings",
+   "Careers page never reached; jd_chars 0, only 3 pages crawled",
+   "Site: 'designing, building and maintaining systems ... secure from cyber threats'"
+  ],
+  "why_this_rank": "A PCI QSA / security assessment practice rather than a software builder, so the pre-2024 credit sits on audit content. The crawl reached only three pages and no careers page at all, so its zero Tier A is missing evidence rather than proven absence - but the business model rules it out either way."
+ },
+ {
+  "name": "Eastern Software Solutions Private Limited",
+  "domain": "essindia.com",
+  "score": 48,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 13,
+  "raw_before_caps": 48,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2020-06 snapshot advertised ERP software solutions",
+  "evidence": [
+   "Site: 'CMM Level 5 and ISO 9001:2015 company for more than a decade'",
+   "Owns ebizframe ERP: 'Our platform unifies operations across industries'",
+   "Site: Oracle Forms upgrade and migration engagements",
+   "50k chars of careers text produced zero engineering signals"
+  ],
+  "why_this_rank": "Two points short of Secondary, and arguably the most acquirable asset profile here: ebizframe is a long-lived, self-owned ERP codebase with CMM Level 5 process behind it. It cannot clear 50 only because 50k chars of careers text carried no Git, CI/CD or code-review wording. Recommend a manual look rather than taking the Skip at face value."
+ },
+ {
+  "name": "Netweb Software Pvt Ltd",
+  "domain": "netweb.biz",
+  "score": 38,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 18,
+  "raw_before_caps": 38,
+  "caps_applied": [],
+  "pre2024_basis": "DOMAIN_ONLY - domain from 2005-04-19, no snapshot of software work",
+  "evidence": [
+   "Site: 'ISO 9001:2015' and 'ISO 27001:2022 Certified' own certifications",
+   "Own product NEXUS AI: 'Unified Agentic AI at Scale' whitepaper",
+   "Site: 'From startups to Fortune 500 companies, our clients trust us'",
+   "29k chars of careers text produced zero engineering signals"
+  ],
+  "why_this_rank": "Loses 15 points purely on pre-2024 basis: the domain dates to 2005 but no snapshot proves what was built, and the current site has been rewritten around agentic AI ('AI-Led Software Engineering', NEXUS AI), which makes the pre-2024 codebase question harder rather than easier. A wayback check could move this materially."
+ },
+ {
+  "name": "Suyog Computech Pvt Ltd",
+  "domain": "suyogindia.com",
+  "score": 60,
+  "band": "Secondary",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 25,
+  "tier_c_points": 10,
+  "raw_before_caps": 60,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06 snapshot advertised software and mobile app development",
+  "evidence": [
+   "JD: 'Should know versioning tools such as Git, Mercurial, or SVN'",
+   "Site: 'Agile methodologies, DevSecOps, and CI/CD pipelines' service line",
+   "Site: e-governance, eExam and SmartQ delivered platforms",
+   "Site: 'microservices architecture, containerization, and DevOps practices'"
+  ],
+  "why_this_rank": "Top of the batch, but on weak footing: the only genuine JD line naming Git belongs to an 'HTML to WordPress Conversion' role, and the DevSecOps/CI-CD wording is service-page copy the careers crawl happened to pick up. No repo host and no review gate anywhere, and no named CI/CD tooling, so substantive-DevOps points were withheld and confidence stays Inferred."
+ },
+ {
+  "name": "Techhalo Media and Operations Services LLP",
+  "domain": "neeev.ai",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06 snapshot referenced its AI-education products and partnerships",
+  "evidence": [
+   "Site: AI education product and curriculum for schools, universities, corporates",
+   "Wayback 2023-06: 'democratizing AI education and building India as the global AI hub'",
+   "Only compliance hit is a footer 'GDPR Compliance' policy link",
+   "27k chars of careers text produced zero engineering signals"
+  ],
+  "why_this_rank": "An AI-education product and curriculum business selling to schools and universities, not a firm that builds and sells software for clients. Tier C could not fire because there is no Tier A or B signal to corroborate its owns-product hits."
+ },
+ {
+  "name": "ThoughtSpheres Technologies Private Limited",
+  "domain": "thoughtspheres.com",
+  "score": 40,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 10,
+  "raw_before_caps": 45,
+  "caps_applied": [
+   "No careers page, no blog and no team page -> cap 40"
+  ],
+  "pre2024_basis": "PROVEN - 2023-06 snapshot titled software development company, offshore development centre",
+  "evidence": [
+   "Site: 'ISO 9001:2015 & ISO 27001:2022 certified' own certifications",
+   "Site: 'Product Engineering & Platform - we engineer high performing digital products'",
+   "Site: 'SRE driven operations'; CoEs for AI, Cloud, Enterprise Applications",
+   "Only home and about pages reached; jd_chars 0"
+  ],
+  "why_this_rank": "The cap-at-40 is authoritative per has_no_careers_blog_or_team, but the crawl only reached two pages, so it reflects crawl coverage as much as the firm. Its own 2023 title - 'Software Development Company in India | Offshore Development Center' - is the right profile, so a re-crawl of careers is worth it before dismissing."
+ },
+ {
+  "name": "Zentech Info Solutions Private Limited",
+  "domain": "zentechinfo.com",
+  "score": 35,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "raw_before_caps": 35,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023-06 snapshot: CMMI Level 5, ISO 9001, 1000+ software consultants",
+  "evidence": [
+   "Site: 'SEI-CMMI Level 5 and ISO-certified global IT consulting' since 2007",
+   "Wayback 2023-06: '1000+ software consultants working full time across 4 del[ivery centres]'",
+   "Site: 'local account managers and solution architects' delivery model",
+   "20k chars of careers text produced zero engineering signals"
+  ],
+  "why_this_rank": "CMMI Level 5 with 1,000+ consultants across four delivery centres is real scale that the score does not show, but 20k chars of careers text carried no Git, CI/CD or review evidence, so it scores on compliance alone. Reads as staff-augmentation consulting; still under the giant threshold, so a re-crawl of its job listings could change the picture."
+ }
+]

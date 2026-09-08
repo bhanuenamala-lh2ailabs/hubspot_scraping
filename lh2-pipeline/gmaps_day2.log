@@ -1,0 +1,18 @@
+=== Google Maps Tier 2/3 IT Company Discovery ===
+
+auth: api_key
+budget: 95 this run | 4000 for 2026-08 (already used 301)
+  Coimbatore           software development company in Coimbatore      40 results (+40 new)
+  Coimbatore           IT company in Coimbatore                         0 results (+0 new)
+
+!! stopped early (budget or API error)
+
+API calls made:      1 / 95 budget
+Traceback (most recent call last):
+  File "C:\Users\naani\OneDrive\Desktop\hubspot\lh2-pipeline\gmaps_scraper.py", line 485, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\naani\OneDrive\Desktop\hubspot\lh2-pipeline\gmaps_scraper.py", line 465, in main
+    print(f"Estimated cost:      ${budget.estimated_cost:.2f} "
+                                   ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'BudgetTracker' object has no attribute 'estimated_cost'

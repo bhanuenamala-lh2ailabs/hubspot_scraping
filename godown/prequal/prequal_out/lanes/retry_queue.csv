@@ -1,0 +1,659 @@
+﻿source,name,city,website,domain,founded_year,size_band,band_label,headcount,headcount_unknown,whale_candidate,staffing_mix,lane_reason
+goodfirms,Aguai Solutions Pvt Ltd,"Bengaluru, India",http://www.aguaisolutions.com,aguaisolutions.com,2013,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Ombrulla,"Bengaluru, India",https://www.ombrulla.com/ai-visual-inspection,ombrulla.com,2022,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Recrosoft Technologies Pvt. Ltd,"Bengaluru, India",http://recro.io/,recro.io,2012,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Tech Automation Solutions,"Bengaluru, India",https://techautomationsolutions.com/,techautomationsolutions.com,,,,,True,False,False,home:URLError
+goodfirms,SLK Software,"Bengaluru, India",https://www.slksoftware.com/,slksoftware.com,2000,250+,250+,,False,True,False,home:URLError
+goodfirms,One Byte Labs,"Bengaluru, India",https://onebytelabs.in,onebytelabs.in,2018,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Codelinear Software Solutions Pvt Ltd,"Bengaluru, India",https://codelinear.com,codelinear.com,2022,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Geeksynergy Technologies Private Limited,"Bengaluru, India",https://geeksynergy.com/,geeksynergy.com,2015,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Altorum Leren Pvt Ltd,"Bengaluru, India",https://www.altorumleren.com/,altorumleren.com,2017,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Wawbiz,"Bengaluru, India",https://wawbiz.com/,wawbiz.com,2019,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Softica,"Bengaluru, India",https://www.softicatechnologies.com/,softicatechnologies.com,2011,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Techinflo solution pvt ltd,"Bengaluru, India",https://www.techinflo.com/,techinflo.com,,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Greypath Solutions,"Bengaluru, India",https://www.greypathsolutions.com/,greypathsolutions.com,2004,10-49,10-49,,False,False,False,home:timeout
+goodfirms,Criador Design Labs Pvt Ltd,"Bengaluru, India",https://www.criadorlabs.com/,criadorlabs.com,2017,10-49,10-49,,False,False,False,home:timeout
+goodfirms,Nexzon Tech,"Bengaluru, India",https://www.nexzon.tech,nexzon.tech,,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Sitefy,"Bengaluru, India",https://sitefy.co,sitefy.co,2021,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Zeksta Technology,"Bengaluru, India",https://www.zeksta.com,zeksta.com,,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Brilln,"Bengaluru, India",https://www.brilln.com,brilln.com,2022,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Claritiz Innovations Private LImited,"Bengaluru, India",http://www.claritiz.com/,claritiz.com,2015,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,PradeepIT Consulting Services Pvt Ltd,"Bengaluru, India",https://pradeepit.com,pradeepit.com,2016,250+,250+,,False,True,False,home:HTTPError
+goodfirms,Ijona technologies,"Bengaluru, India",https://ijonaservices.com/,ijonaservices.com,2014,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Go2hire,"Bengaluru, India",https://www.Go2hire.com,go2hire.com,2011,50-249,50-249,,False,False,True,home:URLError
+goodfirms,QuadLogix Technologies Pvt. Ltd.,"Pune, India",https://www.quadlogix.com/,quadlogix.com,2009,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Company Bench,"Pune, India",https://companybench.com/c/home,companybench.com,2020,250+,250+,,False,True,False,home:HTTPError
+goodfirms+nasscom,AbhinavDCS,"Pune, India",https://abhinavdcs.com/,abhinavdcs.com,2012,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Austere Systems Pvt Ltd,"Pune, India",http://austeresystems.com,austeresystems.com,2015,50-249,50-249,,False,False,False,home:URLError
+goodfirms,WebCogitate Technologies,"Pune, India",http://www.webcogitate.com,webcogitate.com,2018,10-49,10-49,,False,False,False,home:URLError
+goodfirms,VPM Technologies Pvt Ltd,"Pune, India",https://www.vpmtech.co/website-design-companies-in-pune.html,vpmtech.co,2012,50-249,50-249,,False,False,False,home:timeout
+goodfirms,Zeplinix Technologies,"Pune, India",https://zeplinix.com/,zeplinix.com,2020,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,"Extentia, a Merkle Company","Pune, India",http://www.extentia.com/,extentia.com,1998,250+,250+,,False,True,False,home:URLError
+goodfirms,Synthesis World,"Pune, India",http://www.synthesisworld.com,synthesisworld.com,2004,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Seven Of Spade Technologies Pvt. Ltd.,"Pune, India",https://www.sevenofspade.com/,sevenofspade.com,2016,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Wargstech,"Pune, India",https://wargstech.com,wargstech.com,2018,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Geekyworks,"Pune, India",https://geekyworks.com/,geekyworks.com,2011,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Fintalk Software Labs,"Pune, India",https://fintalklabs.com/,fintalklabs.com,2019,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Sterling Technolabs Private Limited,"Pune, India",http://sterlingtechnolabs.com/,sterlingtechnolabs.com,2019,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Connexis Technology Pvt. Ltd.,"Pune, India",https://www.connexistech.com,connexistech.com,2017,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Oxcytech System,"Pune, India",https://oxcytech.com/,oxcytech.com,2005,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Shellcode Solutions,"Pune, India",https://www.shellcode.co.in/,shellcode.co.in,2021,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Senwell Solutions Pvt. Ltd,"Pune, India",https://senwellsys.com/,senwellsys.com,2020,10-49,10-49,,False,False,True,home:URLError
+goodfirms,INDIBA BUSINESS SOLUTIONS,"Pune, India",http://www.ibsl-it.com,ibsl-it.com,2017,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Lipon Technologies,"Pune, India",https://lipontech.com/,lipontech.com,2021,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms+nasscom,mTouchlabs PVT LTD,"Hyderabad, India",http://mtouchlabs.com/,mtouchlabs.com,2011,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,TechEFolks,"Hyderabad, India",https://techefolks.com,techefolks.com,2020,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Insta9 Innovative Technologies Pvt Ltd,"Hyderabad, India",http://insta9.in/,insta9.in,2013,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Manteio IT solutions,"Hyderabad, India",https://manteio.in/,manteio.in,2018,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,SearchEngineLabs,"Hyderabad, India",http://www.searchenginelabs.in/,searchenginelabs.in,2014,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,RoundCodeBox,"Hyderabad, India",http://www.roundcodebox.com/,roundcodebox.com,,50-249,50-249,,False,False,False,home:timeout
+goodfirms,9and9 DigiSoft Insights Private Limited,"Hyderabad, India",https://9and9.com/,9and9.com,,10-49,10-49,,False,False,False,home:timeout
+goodfirms,Rational Technologies,"Hyderabad, India",https://www.rationaltechnologies.com,rationaltechnologies.com,2006,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Infosprint Technologies,"Hyderabad, India",https://infosprint.com/,infosprint.com,2022,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Zyclyx Consulting Services Pvt. Ltd.,"Hyderabad, India",https://www.zyclyx.com/,zyclyx.com,2018,250+,250+,,False,True,False,home:timeout
+goodfirms,TechExtensor PVT LTD,"Ahmedabad, India",http://www.techextensor.com,techextensor.com,2015,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,WebClues Infotech,"Ahmedabad, India",http://www.webcluesinfotech.com/,webcluesinfotech.com,2014,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Tecxar Consultants,"Ahmedabad, India",https://tecxar.io/,tecxar.io,2019,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Digicorp Information Systems Pvt.Ltd,"Ahmedabad, India",http://www.digi-corp.com,digi-corp.com,2004,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,EliteWebHub,"Ahmedabad, India",https://elitewebhub.com/,elitewebhub.com,2022,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Sadhi Infotech,"Ahmedabad, India",http://sadhiinfotech.com/,sadhiinfotech.com,2016,10-49,10-49,,False,False,False,home:timeout
+goodfirms,iPOP Solution,"Ahmedabad, India",https://www.ipopsolution.com/,ipopsolution.com,2014,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,NorthLogics,"Ahmedabad, India",https://northlogics.tech,northlogics.tech,,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Krishang Technolab,"Ahmedabad, India",https://www.krishangtechnolab.com/,krishangtechnolab.com,2015,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Excellent Webworld,"Ahmedabad, India",http://excellentwebworld.com/,excellentwebworld.com,2011,250+,250+,,False,True,False,home:HTTPError
+goodfirms,VNJ INNOVATIONS,"Ahmedabad, India",https://www.vnjinnovations.com,vnjinnovations.com,2017,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Virmati Group,"Ahmedabad, India",http://www.virmati.com,virmati.com,1997,50-249,50-249,,False,False,False,home:URLError
+goodfirms,iPreside IT Service Private Limited,"Ahmedabad, India",http://www.ipreside.com/,ipreside.com,2016,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,LivBix Technologies,"Ahmedabad, India",https://www.livbix.com/,livbix.com,2019,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Artifex-Online,"Ahmedabad, India",https://www.artifex-online.com/,artifex-online.com,2012,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,DOT Infotech(Digital Ocean Technologies),"Ahmedabad, India",https://www.dotinfo.tech,dotinfo.tech,2017,10-49,10-49,,False,False,True,home:URLError
+goodfirms,AIXTOR Technologies,"Ahmedabad, India",https://aixtor.com/,aixtor.com,2017,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Sublime Data Systems,"Ahmedabad, India",https://sublimedatasys.com/,sublimedatasys.com,,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,The Gateway Corp,"Ahmedabad, India",https://thegatewaycorp.com/,thegatewaycorp.com,1997,250+,250+,,False,True,False,home:HTTPError
+goodfirms,SatyamevInfotech,"Ahmedabad, India",https://satyamevinfotech.com/,satyamevinfotech.com,2015,10-49,10-49,,False,False,False,home:
+goodfirms,CodnestX,"Ahmedabad, India",https://codnestx.com/,codnestx.com,2019,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Positiwise Software Pvt Ltd,"Ahmedabad, India",https://positiwise.com/,positiwise.com,2005,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,I Can Infotech,"Ahmedabad, India",http://www.icaninfotech.com,icaninfotech.com,2009,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Webs Optimization Software Solution,"Ahmedabad, India",https://www.websoptimization.com/,websoptimization.com,2013,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Finlite Technologies,"Ahmedabad, India",http://www.finlitetech.com,finlitetech.com,,10-49,10-49,,False,False,False,home:URLError
+goodfirms,KNP Technologies Private Limited,"Ahmedabad, India",http://www.knp-tech.com,knp-tech.com,2019,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Elderberry Tech,"Indore, India",http://www.elderberrytech.com/,elderberrytech.com,2015,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Protonshub Technologies,"Indore, India",https://www.protonshub.com/top-mobile-application-development-company?utm_source=Goodfirm&utm_medium=Company-Profile&utm_campaign=Goodfirm-Directory,protonshub.com,2018,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Vinfotech,"Indore, India",http://www.vinfotech.com,vinfotech.com,1999,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Zeeweesoft LLP,"Indore, India",https://www.zeeweesoft.com/,zeeweesoft.com,2018,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Innogent Technologies,"Indore, India",https://innogent.in/,innogent.in,2020,50-249,50-249,,False,False,False,home:URLError
+goodfirms,MobilePundits,"Indore, India",http://www.mobilepundits.com/,mobilepundits.com,2003,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Mobitplus Technologies,"Indore, India",http://mobitplus.com/,mobitplus.com,2017,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Amcorp Infovent Pvt Ltd,"Indore, India",https://www.amcorpinfovent.com/,amcorpinfovent.com,2016,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Ment Tech Labs,"Indore, India",https://www.ment.tech/,ment.tech,2019,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Homepage Infotech Solutions LLP,"Indore, India",http://www.homepageit.net/,homepageit.net,,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,WordPress Development India,"Indore, India",http://www.wordpressdevelopmentindia.com/,wordpressdevelopmentindia.com,2014,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Quazma Techno Solutions,"Indore, India",https://quazma.com/,quazma.com,2014,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,RISHUS INFOTECH,"Indore, India",https://www.vyanwebs.com/,vyanwebs.com,2023,10-49,10-49,,False,False,False,home:timeout
+goodfirms,TechnoTronixs,"Indore, India",https://www.technotronixs.com/,technotronixs.com,2015,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Codeready Software,"Indore, India",https://codereadysoftware.com/,codereadysoftware.com,2000,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Pushcam Solution,"Indore, India",https://www.pushcam-solution.com/,pushcam-solution.com,2023,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,TechventureSoft Pvt Ltd,"Indore, India",https://techventuresoft.com/,techventuresoft.com,2019,50-249,50-249,,False,False,False,home:URLError
+goodfirms,10th Gate Solutions Pvt Ltd.,"Indore, India",https://10thgatesolutions.com/,10thgatesolutions.com,2022,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms+nasscom,Octal IT Solution,"Jaipur, India",http://www.octalsoftware.com/?utm_source=Goodfirms&utm_medium=PaidLinks&utm_campaign=GoodfirmsPro,octalsoftware.com,2007,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Kotibox Global Technologies,"Jaipur, India",https://kotiboxglobal.com/,kotiboxglobal.com,2023,10-49,10-49,,False,False,False,home:URLError
+goodfirms,CMITEXPERTS SOFTECH LLP,"Jaipur, India",https://cmitexperts.com,cmitexperts.com,2018,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Volyo Solutions,"Jaipur, India",http://volyo.in/,volyo.in,2019,10-49,10-49,,False,False,False,home:URLError
+goodfirms,D5 WebSoft Pvt. Ltd.,"Jaipur, India",http://www.d5websoft.com,d5websoft.com,2017,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Creato Software,"Jaipur, India",https://www.creatosoftware.com/,creatosoftware.com,2010,10-49,10-49,,False,False,False,home:URLError
+goodfirms,ABJIMA IT CONSULTING PVT LTD,"Jaipur, India",https://abjima.com/,abjima.com,2021,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Techno Softwares,"Jaipur, India",https://technosoftwares.com,technosoftwares.com,2005,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Cauri Softech Pvt. Ltd. India,"Jaipur, India",https://caurisoftech.com/,caurisoftech.com,2017,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Integritygrove technology,"Jaipur, India",https://integritygrove.tech,integritygrove.tech,2023,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Prixaro,"Jaipur, India",https://www.prixaro.com,prixaro.com,2020,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Indeses Business Ventures Pvt.Ltd,"Jaipur, India",http://indeses.com/,indeses.com,2014,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Ixooweb IT Solution,"Jaipur, India",https://www.ixooweb.co.in/,ixooweb.co.in,2018,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Digi Grow Infotech,"Jaipur, India",https://digigrowinfotech.com/,digigrowinfotech.com,2020,10-49,10-49,,False,False,False,home:URLError
+goodfirms,W3Panda,"Jaipur, India",https://w3panda.com/,w3panda.com,,10-49,10-49,,False,False,False,home:URLError
+goodfirms,The Indian IT Technology,"Jaipur, India",https://www.theindiantechnology.com,theindiantechnology.com,2022,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Netgleam Consulting Pvt. Ltd.,"Jaipur, India",https://netgleam.com/,netgleam.com,,10-49,10-49,,False,False,False,home:URLError
+goodfirms,COADAL,"Jaipur, India",https://www.coadal.com/index.html,coadal.com,2023,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Syrakal,"Jaipur, India",https://syrakal.com/,syrakal.com,2013,10-49,10-49,,False,False,False,home:URLError
+goodfirms,InnoApps Technologies Pvt. Ltd,"Noida, India",https://www.innoappstech.com/,innoappstech.com,2016,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,18Pixels India Pvt Ltd.,"Noida, India",http://www.18pixels.com/,18pixels.com,2012,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms+nasscom,Logix Shapers Offshore Services Pvt. Ltd.,"Noida, India",https://logixshapers.com/,logixshapers.com,2014,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,CodeAegis Private Limited,"Noida, India",https://www.codeaegis.com,codeaegis.com,2016,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Trieffects Technologies Pvt Ltd,"Noida, India",https://www.trieffects.com/,trieffects.com,2013,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,IDS Logic,"Noida, India",https://www.idslogic.com/,idslogic.com,2007,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Gensofts Infosolution Pvt. Ltd.,"Noida, India",https://www.gensoftsindia.com/,gensoftsindia.com,2009,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Logo Design Matix,"Noida, India",https://logodesignmatix.com/,logodesignmatix.com,2021,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Milkyway Multidimensional Services,"Noida, India",https://www.milkywayservices.in/,milkywayservices.in,2016,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Websparrows Solutions Pvt. Ltd.,"Noida, India",http://www.websparrows.com,websparrows.com,2016,10-49,10-49,,False,False,False,home:URLError
+goodfirms,GC Digital,"Noida, India",https://www.gcdigital.in/,gcdigital.in,2017,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Rajlav Animation And VFX,"Noida, India",https://rajlavanimation.in/,rajlavanimation.in,2022,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Botgo Technologies Pvt. Ltd.,"Noida, India",https://botgo.io/,botgo.io,2023,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Solcare Technologies,"Noida, India",https://www.solcaretechnologies.in/,solcaretechnologies.in,2019,50-249,50-249,,False,False,False,home:timeout
+goodfirms,Digital Apex Technology Pvt. Ltd.,"Noida, India",https://digitalizedapex.com/,digitalizedapex.com,2022,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Todquest Enterprises Pvt Ltd,"Noida, India",https://todquestenterprises.com/,todquestenterprises.com,2019,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Code Cyper Private Limited,"Noida, India",https://codecyper.com/,codecyper.com,2023,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Virtuzo Infosystems Pvt Ltd,"Noida, India",https://www.virtuzo.in,virtuzo.in,2012,10-49,10-49,,False,False,False,home:timeout
+goodfirms,VERTS Services India Pvt Ltd,"Noida, India",https://www.verts.co.in/,verts.co.in,2012,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Ubicoapps Technologies,"Noida, India",https://www.ubicoapps.com,ubicoapps.com,,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Agio Support Solutions,"Noida, India",https://www.agiosupport.com/social-media-marketing-services,agiosupport.com,,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Techshian Software Pvt Ltd,"Noida, India",http://www.techshian.com,techshian.com,2018,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Make India Smart Pvt. Ltd.,"Noida, United States",http://www.makeindiasmart.in/,makeindiasmart.in,2008,250+,250+,,False,True,False,home:URLError
+goodfirms,Ethane Web Technologies,"Noida, India",https://www.ethanetechnologies.com/,ethanetechnologies.com,2008,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,PawaSys Technologies,"Noida, India",https://www.pawasystechnologies.com,pawasystechnologies.com,2016,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Hire Web Developer,"Noida, India",https://www.hirewebdeveloper.com/,hirewebdeveloper.com,2015,250+,250+,,False,True,False,home:HTTPError
+goodfirms,Drabito Technologies,"Noida, India",https://www.drabito.com/,drabito.com,2016,10-49,10-49,,False,False,False,home:URLError
+goodfirms,RB Web Solution,"Noida, India",https://www.rbwebsolution.com/,rbwebsolution.com,,10-49,10-49,,False,False,False,home:URLError
+goodfirms,LetsLance,"Noida, India",https://letslancetech.com/,letslancetech.com,2023,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Aanaxagorasr Software Pvt Ltd,"Noida, India",http://www.aanaxagorasr.com/,aanaxagorasr.com,2013,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Appinteg Private Limited,"Noida, India",https://www.appinteg.com,appinteg.com,2021,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Max Value Per Click (MVPC),"Noida, India",https://mvpc.in/,mvpc.in,2018,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Peritos Solutions,"Noida, India",https://peritossolutions.com/,peritossolutions.com,2015,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Web Initiate Systems Pvt. Ltd.,"Noida, India",http://www.webinitiate.com/,webinitiate.com,2011,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Value Creatives,"Noida, India",http://valuecreatives.com/,valuecreatives.com,2014,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Arvaan solutions,"Noida, India",http://www.arvaansolutions.com/,arvaansolutions.com,2017,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Victorious Infotech Pvt. Ltd.,"Noida, India",https://www.victoriousinfotech.com,victoriousinfotech.com,2017,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Aximo Infotech Pvt. Ltd.,"Noida, India",https://aximoinfotech.com/,aximoinfotech.com,2019,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Droot,"Noida, India",https://www.droot.in,droot.in,2020,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Microflair Technologies,"Noida, India",https://microflair.net/,microflair.net,2013,10-49,10-49,,False,False,False,home:
+goodfirms,WebInfoMart,"Gurgaon, India",http://webinfomart.com,webinfomart.com,2011,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Strawberry Infotech,"Gurgaon, India",https://strawberryinfotech.com/hire-full-stack-developers/,strawberryinfotech.com,2009,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Mioneer Pvt Ltd,"Gurgaon, India",https://mioneer.in,mioneer.in,2023,10-49,10-49,,False,False,False,home:URLError
+goodfirms+nasscom,Vaco Binary Semantics LLP,"Gurgaon, India",https://www.vacobinary.in/,vacobinary.in,2017,250+,250+,,False,True,False,home:URLError
+goodfirms,Digital Unicon,"Gurgaon, India",http://digitalunicon.com/,digitalunicon.com,2017,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Sampark Solutions Pvt. Ltd.,"Gurgaon, India",http://www.samparksolutions.com,samparksolutions.com,2008,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,ReactJS India,"Gurgaon, India",http://www.reactjs.co.in/,reactjs.co.in,2014,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Linea Digitech,"Delhi, India",https://lineadigitech.com/,lineadigitech.com,2015,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Shataki,"Delhi, India",https://shataki.com/,shataki.com,,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Websoles Strategic Digital Solutions,"Delhi, India",https://www.websoles.com,websoles.com,2013,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Trimwebsolutions,"Delhi, India",http://trimwebsolutions.com,trimwebsolutions.com,,,,,True,False,False,home:HTTPError
+goodfirms,Suntist Labs,"Delhi, India",https://suntist.com/,suntist.com,2016,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,MS AURA IT HOST PRIVATE LIMITED,"Delhi, India",https://auraithost.in/,auraithost.in,2021,10-49,10-49,,False,False,False,home:timeout
+goodfirms,Escape System Consultants,"Delhi, India",http://www.fcasoft.in/,fcasoft.in,2001,50-249,50-249,,False,False,False,home:timeout
+goodfirms,Speetrance Transformation,"Delhi, India",https://speetrance.com/,speetrance.com,2021,10-49,10-49,,False,False,False,home:
+goodfirms,Pantelwar,"Delhi, India",https://www.pantelwar.com,pantelwar.com,2016,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Technocrypt,"Delhi, India",https://technocrypt.co/,technocrypt.co,2020,10-49,10-49,,False,False,False,home:timeout
+goodfirms,Agnith,"Delhi, India",http://www.agnithtechnologies.com/#,agnithtechnologies.com,,10-49,10-49,,False,False,False,home:URLError
+goodfirms,ASH IT Service,"Delhi, India",https://www.ashitservice.com/,ashitservice.com,2023,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,DigiLogic Infocom,"Delhi, India",https://www.digilogicinfocom.com,digilogicinfocom.com,2018,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Sunlightsol Technologies,"Delhi, India",https://sunlightsol.com/,sunlightsol.com,2016,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Jmd Web Solutionss,"Delhi, India",https://www.jmdwebsolutionss.com,jmdwebsolutionss.com,2011,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Appfodev,"Delhi, India",https://appfodev.com,appfodev.com,2021,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Saivion Technologies,"Delhi, India",https://www.saiviontech.com/,saiviontech.com,2013,50-249,50-249,,False,False,True,home:URLError
+goodfirms,Green Apple Solutions,"Delhi, India",https://www.greenapplesolutions.com/,greenapplesolutions.com,2009,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,SoftiCation Technology,"Delhi, India",https://softication.com/,softication.com,2018,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,ZplusRanking,"Delhi, India",https://zplusranking.com,zplusranking.com,2020,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Das Galerie,"Delhi, India",https://dasgalerie.com/,dasgalerie.com,2021,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Zaigo Infotech Software Solutions,"Chennai, India",https://www.zaigoinfotech.com/,zaigoinfotech.com,2015,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Dexterity Solution,"Chennai, India",http://www.dexteritysolution.com/,dexteritysolution.com,2004,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Infiniti Software Solutions,"Chennai, India",http://infinitisoftware.net/,infinitisoftware.net,,250+,250+,,False,True,False,home:timeout
+goodfirms,NFN Labs,"Chennai, India",http://nfnlabs.in,nfnlabs.in,2011,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Bytize,"Chennai, India",https://bytize.org,bytize.org,2017,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Ajira Tech,"Chennai, India",http://www.ajira.tech/,ajira.tech,2015,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Wrexa Technologies LLC,"Chennai, India",https://wrexa.com/,wrexa.com,2022,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Snowtech Global Software (SGS),"Chennai, India",https://www.sgstechsolutions.com,sgstechsolutions.com,2020,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Catchy Technologies,"Chennai, India",https://catchytechnologies.com,catchytechnologies.com,2016,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,F22 Labs,"Chennai, India",http://f22labs.com/,f22labs.com,2014,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Vaeto Technologies,"Chennai, India",https://vaeto.in/index.html,vaeto.in,2019,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Synic Systems Pvt Ltd,"Chennai, India",http://synicsys.com/,synicsys.com,2009,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Tecnovators Software Solutions,"Chennai, India",https://tecnovators.com/,tecnovators.com,2014,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Chennai Web Design Company,"Chennai, India",https://www.chennaiwebdesigncompany.co.in,chennaiwebdesigncompany.co.in,2010,10-49,10-49,,False,False,False,home:URLError
+goodfirms,MobiWhiz.com,"Chennai, India",https://www.mobiwhiz.com,mobiwhiz.com,2015,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Merkat Intellekt Technologies Private Limited,"Chennai, India",https://www.merkatintellekt.com/,merkatintellekt.com,2017,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Flywheel Infotech,"Chennai, India",https://www.flywheelinfotech.com,flywheelinfotech.com,2021,10-49,10-49,,False,False,False,home:URLError
+goodfirms,MS IT PARK,"Coimbatore, India",https://msitpark.org/,msitpark.org,2020,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Webnox software,"Coimbatore, India",https://webnoxsoftware.com/,webnoxsoftware.com,2006,50-249,50-249,,False,False,False,home:URLError
+goodfirms,a Cosmic Realm,"Coimbatore, India",https://www.acosmicrealm.in,acosmicrealm.in,2011,10-49,10-49,,False,False,False,home:URLError
+goodfirms,KPK Technology,"Coimbatore, India",https://kpktechnology.com/,kpktechnology.com,2018,10-49,10-49,,False,False,False,home:URLError
+goodfirms,ICore Software Technologies,"Coimbatore, India",https://www.icore.net.in/,icore.net.in,2010,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms+nasscom,AlignMinds Technologies,"Kochi, India",https://alignminds.com/,alignminds.com,2009,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,SayOne Technologies,"Kochi, India",https://www.sayonetech.com/,sayonetech.com,2011,50-249,50-249,,False,False,False,home:URLError
+goodfirms,SparkSupport Pvt Ltd,"Kochi, India",https://sparksupport.com/,sparksupport.com,2005,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Web Development India,"Mumbai, India",http://www.webdevelopmentindia.biz/,webdevelopmentindia.biz,2014,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Suflon Tech LLP,"Mumbai, India",https://suflon.com/,suflon.com,2015,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,INOTRO MULTISERVICES PRIVATE LIMITED,"Mumbai, India",HTTPS://INOTRO.CO.IN,inotro.co.in,2015,10-49,10-49,,False,False,False,home:timeout
+goodfirms,Ervon Technology Pvt Ltd,"Mumbai, India",https://ervon.tech/,ervon.tech,2020,10-49,10-49,,False,False,False,home:URLError
+goodfirms,e10.in,"Mumbai, India",https://e10.in/,e10.in,2007,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Schbang Q,"Mumbai, India",https://www.schbang-q.com,schbang-q.com,2020,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Betasource.Tech,"Mumbai, India",https://betasource.tech/,betasource.tech,2004,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Kwebmaker Digital,"Mumbai, India",https://www.kwebmaker.com,kwebmaker.com,1998,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,InfusAi,"Mumbai, India",https://infusai.com/,infusai.com,2019,250+,250+,,False,True,False,home:timeout
+goodfirms,MCANSEY IT Services & Consulting Pvt Ltd,"Mumbai, India",https://www.mcansey.com/,mcansey.com,2020,50-249,50-249,,False,False,False,home:URLError
+goodfirms,ace360degree,"Mumbai, India",https://ace360degree.com/,ace360degree.com,2009,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Growth Loops Technology Pvt Ltd,"Kolkata, India",https://growth-loop.io/?utm_source=Goodfirms&utm_medium=referral,growth-loop.io,2022,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Logicwerk,"Kolkata, India",https://www.logicwerk.com/,logicwerk.com,2023,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Wordsys Information technology,"Kolkata, India",https://wordsystech.com/,wordsystech.com,2011,250+,250+,,False,True,False,home:URLError
+goodfirms,OGMA IT CONCEPTIONS PVT LTD,"Kolkata, India",http://www.ogmaconceptions.com,ogmaconceptions.com,2013,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Dael Technologies Pvt Ltd,"Kolkata, India",http://www.daeltechnologies.com/,daeltechnologies.com,2018,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Fusiontechlab,"Kolkata, India",https://www.fusiontechlab.com/,fusiontechlab.com,2015,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,RedoQ,"Kolkata, India",https://redoq.com/,redoq.com,2012,50-249,50-249,,False,False,False,home:URLError
+goodfirms,CodeZiro,"Kolkata, India",https://www.codeziro.in/,codeziro.in,2021,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,clfsofttech private limited,"Kolkata, India",https://clfsofttech.com/,clfsofttech.com,2015,50-249,50-249,,False,False,False,home:URLError
+goodfirms,ArkOne Softwares,"Kolkata, India",https://arkone.dev,arkone.dev,2021,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Ionexplus Infotech,"Kolkata, India",https://www.ionexplus.com,ionexplus.com,2019,10-49,10-49,,False,False,False,home:URLError
+goodfirms,WIFT Cap Solutions Pvt. Ltd.,"Kolkata, India",http://wiftcap.com,wiftcap.com,2016,10-49,10-49,,False,False,False,home:timeout
+goodfirms,Transolution,"Kolkata, India",https://www.tran-solution.net/,tran-solution.net,2003,50-249,50-249,,False,False,False,home:URLError
+goodfirms,Voyantt Consultancy Services,"Kolkata, India",https://www.voyantcs.com/,voyantcs.com,2008,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,A1 Future Technologies Pvt. Ltd.,"Kolkata, India",https://www.a1future.com/,a1future.com,1997,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Zealsoft Systems Private Limited,"Mohali, India",https://zealsoftsystems.com,zealsoftsystems.com,2011,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Coditi Labs Private Limited,"Mohali, India",https://coditi.com/,coditi.com,2023,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Endurance Softwares,"Mohali, India",http://endurancesoftwares.com/,endurancesoftwares.com,2019,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Duple IT Solutions Pvt. Ltd.,"Mohali, India",https://www.dupleit.com,dupleit.com,2015,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Claxa Marketing,"Mohali, India",https://www.claxamarketing.com/,claxamarketing.com,2021,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Brilliants web,"Mohali, India",https://brilliantsweb.in/,brilliantsweb.in,2020,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Skynox Tech,"Mohali, India",https://skynox.tech,skynox.tech,2018,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms+nasscom,billionX,"Mohali, India",https://www.facebook.com/billionxofficial,facebook.com,2022,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Scientia Infotech and Engineering Solutions,"Mohali, India",https://scientiabusiness.online/,scientiabusiness.online,2019,50-249,50-249,,False,False,False,home:URLError
+goodfirms,EME Technologies,"Mohali, India",https://www.emetechnologies.com/,emetechnologies.com,2010,10-49,10-49,,False,False,False,home:URLError
+goodfirms,IWEBCODE,"Mohali, India",https://iwebcode.design/,iwebcode.design,2020,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,WHMCS Smarters,"Mohali, India",https://www.whmcssmarters.com/,whmcssmarters.com,2014,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,AppTech Mobi,"Mohali, India",https://apptech.mobi/,apptech.mobi,2015,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Kodion Softwares Pvt. Ltd.,"Mohali, India",http://www.kodionsoftwares.com/,kodionsoftwares.com,2017,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,MABZONE TECHNOLOGIES PRIVATE LIMITED,"Mohali, India",http://www.mabzone.com/,mabzone.com,2022,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Klocrix Business Solutions Pvt Ltd,"Mohali, India",http://klocrix.com,klocrix.com,2019,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Trycyfer Technologies,"Mohali, India",https://www.trycyfer.com/,trycyfer.com,2020,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Digidest,"Mohali, India",https://digidest.in/,digidest.in,2019,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Coruscate Solutions Pvt Ltd,"Surat, India",https://www.coruscatesolution.com/,coruscatesolution.com,2013,50-249,50-249,,False,False,False,home:HTTPError
+goodfirms,Qwesys Digital Solutions,"Surat, India",http://www.qwesys.com/,qwesys.com,,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Prilancers infotech,"Surat, India",https://www.prilancers-infotech.com,prilancers-infotech.com,2019,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Growwork Infotech,"Surat, India",https://growworkinfotech.com,growworkinfotech.com,2022,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,CODEEDOC,"Surat, India",https://codeedoc.com/,codeedoc.com,2018,10-49,10-49,,False,False,True,home:HTTPError
+goodfirms,Trakshym,"Surat, India",https://trakshym.com,trakshym.com,2022,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Team Unibrains,"Surat, India",https://teamunibrains.com/,teamunibrains.com,2021,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,qodors,"Surat, India",http://www.qodors.com,qodors.com,2010,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Zerotwo Solutions,"Surat, India",https://www.zerotwosolutions.com/,zerotwosolutions.com,2022,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,The Hyper Tech,"Surat, India",https://thehypertech.in/,thehypertech.in,2019,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Cypher Tech,"Surat, India",https://cypherinsights.com/,cypherinsights.com,,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Propelius Technologies,"Surat, India",https://www.propelius.tech/,propelius.tech,2020,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Codely infotech,"Surat, India",https://codelyinfotech.com/,codelyinfotech.com,2019,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Viva Tech Services,"Surat, India",https://www.vivatechservices.in/,vivatechservices.in,,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Sabhaya Solutions LLP,"Surat, India",https://sabhayasolutions.com,sabhayasolutions.com,2023,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Whitelion Infosystems,"Surat, India",https://www.whitelioninfosystems.com/,whitelioninfosystems.com,2020,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Svastsys Technology,"Surat, India",http://svastsys.com/,svastsys.com,2021,10-49,10-49,,False,False,False,home:HTTPError
+goodfirms,Dual Infotech Group,"Vadodara, India",https://dualinfotechgroup.com/,dualinfotechgroup.com,2012,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Vardaam Web Solutions Pvt. Ltd.,"Vadodara, India",https://www.vardaam.com/,vardaam.com,2010,10-49,10-49,,False,False,False,home:URLError
+goodfirms,Infoservops,"Vadodara, India",https://www.infoservops.com/,infoservops.com,2017,10-49,10-49,,False,False,False,home:URLError
+goodfirms,TechJain IT Solutions,"Bhopal, India",https://techjain.com/,techjain.com,2022,10-49,10-49,,False,False,False,home:URLError
+nasscom,BDS Global Inc.,Ambala,http://info@bdsglobalinc.com,info@bdsglobalinc.com,,,,,True,False,False,home:URLError
+nasscom,DHL Information Services (India) LLP,Chennai,https://www.dpdhl.com/en.html,dpdhl.com,,,,,True,False,False,home:timeout
+nasscom,Kripya Solutions Private Limited,Chennai,https://www.kripya.com,kripya.com,,,,,True,False,False,home:HTTPError
+nasscom,Grindwell Norton Limited (INDEC),Mumbai,https://www.saint-gobain.co.in/indec,saint-gobain.co.in,,,,,True,False,False,home:HTTPError
+nasscom,Northern Tool & Equipment India LLP,Hyderabad,https://www.northerntool.com/,northerntool.com,,,,,True,False,False,home:HTTPError
+nasscom,Sankalp Technology Services,Vadodara,https://sankalptechnology.com/,sankalptechnology.com,,,,,True,False,False,home:
+nasscom,Excelize AI Private Limited,Aurangabad,https://excelize.ai/#,excelize.ai,,,,,True,False,False,home:URLError
+nasscom,Four Corners Technologies Private Limited,Bengaluru,https://www.smartdigitwin.com,smartdigitwin.com,,,,,True,False,False,home:URLError
+nasscom,Basal Analytics Private Limited,Bengaluru,https://basalanalytics.com/,basalanalytics.com,,,,,True,False,False,home:URLError
+nasscom,BPO Convergence Private Limited,Bhubaneswar,https://bpoconvergence.com/,bpoconvergence.com,,,,,True,False,False,home:HTTPError
+nasscom,Qualizeal Technologies India Private Limited,Hyderabad,https://qualizeal.com/,qualizeal.com,,,,,True,False,False,home:HTTPError
+nasscom,ServiceNow Software Development India Private Limited,Hyderabad,https://www.servicenow.com,servicenow.com,,,,,True,False,False,home:timeout
+nasscom,Crown Worldwide Private Limited,Navi Mumbai,https://www.crownrms.com/in/,crownrms.com,,,,,True,False,False,home:HTTPError
+nasscom,Spera Digital Consulting Services Private Limited,Kolkata,http://www.speradigital.com,speradigital.com,,,,,True,False,False,home:HTTPError
+nasscom,Interloop Consulting LLP,Faridabad,https://www.interlooptechnologies.com/about-us/,interlooptechnologies.com,,,,,True,False,False,home:URLError
+nasscom,Acabes International Private Limited,Ernakulam,http://www.acbesinternational.com,acbesinternational.com,,,,,True,False,False,home:URLError
+nasscom,Ecolab Global Services Private Limited,Bengaluru,http://ecolabdigitalcenter.in,ecolabdigitalcenter.in,,,,,True,False,False,home:timeout
+nasscom,Multisoft Communications Private Limited,Cuttack,http://multisoftodisha.com/,multisoftodisha.com,,,,,True,False,False,home:URLError
+nasscom,ISPG Technologies India Private Limited,Ernakulam,https://www.ispg.co/,ispg.co,,,,,True,False,False,home:HTTPError
+nasscom,McDonald's Capability Center India Private Limited,Hyderabad,https://www.mcdonalds.com/us/en-us.html,mcdonalds.com,,,,,True,False,False,home:timeout
+nasscom,Vervent Technologies Private Limited,Bengaluru,https://www.vervent.com/,vervent.com,,,,,True,False,False,home:HTTPError
+nasscom,Winqualis Consulting Private Limited,New Delhi,x,x,,,,,True,False,False,home:URLError
+nasscom,Kimberly-Clark India Private Limited,Bengaluru,https://www.kimberly-clark.com,kimberly-clark.com,,,,,True,False,False,home:HTTPError
+nasscom,Growthrive Private Limited,Gurugram,https://www.kalido.me,kalido.me,,,,,True,False,False,home:HTTPError
+nasscom,Caliper Business Solutions Private Limited,Bengaluru,https://sclen.ai/,sclen.ai,,,,,True,False,False,home:URLError
+nasscom,Viztar Business Solutions Private Limited,Navi Mumbai,https://www.viztarinternational.com/viztar_at_glance.php,viztarinternational.com,,,,,True,False,False,home:HTTPError
+nasscom,Srisattva Business Support and Growth Strategy Private Limited,Chennai,https://www.srisattvagroup.com,srisattvagroup.com,,,,,True,False,False,home:URLError
+nasscom,DeepHealth Technologies Private Limited,Bengaluru,https://deephealth.com/,deephealth.com,,,,,True,False,False,home:HTTPError
+nasscom,Cimware Technologies Private Limited,Bengaluru,https://www.cimware.tech/,cimware.tech,,,,,True,False,False,home:URLError
+nasscom,Kreateworks India Private Limited,Chennai,https://www.kreateworks.com,kreateworks.com,,,,,True,False,False,home:HTTPError
+nasscom,Geeta Eservices Private Limited,Mumbai,https://geetaeservices.com,geetaeservices.com,,,,,True,False,False,home:
+nasscom,Krones Digital Solutions India Private Limited,Bengaluru,https://www.krones.com/en/career/krones.digital/location-india.php,krones.com,,,,,True,False,False,home:HTTPError
+nasscom,Aimb System LLP,Ahmedabad,https://www.aimbsystem.com,aimbsystem.com,,,,,True,False,False,home:HTTPError
+nasscom,Decision Tree Solutions Private Limited,Kochi,https://www.dtree.ai,dtree.ai,,,,,True,False,False,home:URLError
+nasscom,Shilabs Private Limited,Bhubaneswar,https://www.shilabs.digita,shilabs.digita,,,,,True,False,False,home:URLError
+nasscom,RPM Global Business Capability Center Private Limited,Coimbatore,http://www.rpmperformancecoatings.com/,rpmperformancecoatings.com,,,,,True,False,False,home:URLError
+nasscom,CSG Systems International (India) Private Limited,Bengaluru,http://www.csgi.com,csgi.com,,,,,True,False,False,home:HTTPError
+nasscom,MKS Vision Private Limited,Hyderabad,http://www.mksvision.com/,mksvision.com,,,resolved:33,33,False,False,False,home:timeout
+nasscom,Civica Resource Private Limited,Vadodara,http://www.civica.com,civica.com,,,,,True,False,False,home:HTTPError
+nasscom,Mouktik Consulting Services Private Limited,Hyderabad,http://www.mouktikconsulting.com,mouktikconsulting.com,,,,,True,False,False,home:HTTPError
+nasscom,SmallDay IT Services Private Limited,Bengaluru,http://www.smalldaytech.com,smalldaytech.com,,,,,True,False,False,home:HTTPError
+nasscom,Mastec India LLP,Bengaluru,https://www.mastecnetworksolutions.com/,mastecnetworksolutions.com,,,,,True,False,False,home:URLError
+nasscom,WTW Global Delivery and Solutions India Private Limited,Mumbai,https://www.willistowerswatson.com/,willistowerswatson.com,,,,,True,False,False,home:HTTPError
+nasscom,Roche Information Solutions India Private Limited,Pune,http://www.viewics.com,viewics.com,,,,,True,False,False,home:URLError
+nasscom,CME India Private Limited,Bengaluru,http://www.cmegroup.com,cmegroup.com,,,,,True,False,False,home:HTTPError
+nasscom,Centific Global Technologies India Private Limited,Hyderabad,http://www.pactera-edge.com,pactera-edge.com,,,,,True,False,False,home:URLError
+nasscom,Mizuho Global Services India Private Limited,Mumbai,https://www.mizuho-fg.com,mizuho-fg.com,,,,,True,False,False,home:URLError
+nasscom,One Kosmos Technology Private Limited,Mumbai,http://www.1kosmos.com,1kosmos.com,,,,,True,False,False,home:HTTPError
+nasscom,Pingaksho Technologies Inc,Mohali,http://www.pingakshotechnologies.com,pingakshotechnologies.com,,,,,True,False,False,home:
+nasscom,SWASH Consulting Private Limited,Bhubaneswar,http://www.swashconsulting.co/,swashconsulting.co,,,,,True,False,False,home:URLError
+nasscom,Cardinal Health International India Private Limited,Bengaluru,https://www.cardinalhealth.com/,cardinalhealth.com,,,,,True,False,False,home:timeout
+nasscom,Diebold Nixdorf India Private Limited,Mumbai,https://www.dieboldnixdorf.com/en-us,dieboldnixdorf.com,,,,,True,False,False,home:URLError
+nasscom,Ares Operations India Private Limited,Mumbai,https://www.aresmgmt.com/,aresmgmt.com,,,,,True,False,False,home:HTTPError
+nasscom,VoipConnect Private Limited,Bhubaneswar,https://voiptechsolutions.in/,voiptechsolutions.in,,,,,True,False,False,home:URLError
+nasscom,Schneider Electric Private Limited,Bengaluru,https://se.com,se.com,,,,,True,False,False,home:HTTPError
+nasscom,Ramboll India Private Limited,Chennai,http://www.mea.ramboll.com,mea.ramboll.com,,,,,True,False,False,home:HTTPError
+nasscom,Adagrad Private Limited,Pune,https://adagrad.ai,adagrad.ai,,,,,True,False,False,home:HTTPError
+nasscom,CData Software India Private Limited,Bengaluru,http://www.cdata.com,cdata.com,,,,,True,False,False,home:HTTPError
+nasscom,Darsa AI (AV Advanced Vision Systems Private Limited),Hyderabad,http://www.smartsight.ai/,smartsight.ai,,,,,True,False,False,home:URLError
+nasscom,AAP Global Capability Center LLP,Hyderabad,https://corp.advanceautoparts.com/home/default.aspx,corp.advanceautoparts.com,,,,,True,False,False,home:HTTPError
+nasscom,Mapmygenome India Limited,Hyderabad,https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiGlt_53PvwAhVSWWAKHalNAnAYABABGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASE-Ro0k069O-peFHsykNZhltuX5M&sig=AOD64_0Lhk-6J-NtzeT1_96Jhje6bahw_w&q&adurl&ved=2ahUKEwjG5tT53PvwAhUp3jgGHWQ6CFwQ0Qx6BAgDEAE,googleadservices.com,,,,,True,False,False,home:HTTPError
+nasscom,Techwave Consulting India Private Limited,Hyderabad,http://www.techwave.net,techwave.net,,,,,True,False,False,home:timeout
+nasscom,SaaSnic Technologies Services Private Limited,Noida,https://www.saasnic.com,saasnic.com,,,,,True,False,False,home:HTTPError
+nasscom,W3care Technologies Private Limited,Jaipur,https://www.w3care.com,w3care.com,,,,,True,False,False,home:URLError
+nasscom,Stellantis Technology Centre India Private Limited,Hyderabad,http://www.stellantis.com/,stellantis.com,,,,,True,False,False,home:HTTPError
+nasscom,ABIR Networks Private Limited,Bhopal,https://www.abirnetworks.com,abirnetworks.com,,,,,True,False,False,home:HTTPError
+nasscom,Bits In Glass India Private Limited,Pune,https://bitsinglass.com/,bitsinglass.com,,,,,True,False,False,home:HTTPError
+nasscom,Kogo Tech Labs Private Limited,Delhi,https://www.kogo.ai/business,kogo.ai,,,,,True,False,False,home:HTTPError
+nasscom,Aarav Global Products And Services Private Limited,Mumbai,https://www.aaravsoftware.com,aaravsoftware.com,,,,,True,False,False,home:HTTPError
+nasscom,18North Systems Private Limited,Pune,https://www.18northsystems.com,18northsystems.com,,,,,True,False,False,home:URLError
+nasscom,BlueBricks Technologies Private Limited,Pune,https://www.blue-bricks.com,blue-bricks.com,,,,,True,False,False,home:HTTPError
+nasscom,Aiotel Private Limited,Bengaluru,https://aiotel.com/en,aiotel.com,,,,,True,False,False,home:URLError
+nasscom,Freelanceteams Private Limited,Ernakulam,https://www.crystalpm.ai,crystalpm.ai,,,,,True,False,False,home:URLError
+nasscom,Galactix Solutions Private Limited,Hyderabad,https://www.galactixsolutions.com,galactixsolutions.com,,,,,True,False,False,home:HTTPError
+nasscom,Sarvagram Solutions Private Limited,Pune,http://www.sarvagram.com,sarvagram.com,,,,,True,False,False,home:HTTPError
+nasscom,Enthuworks Technologies Private Limited,Mohali,https://enthu.ai,enthu.ai,,,,,True,False,False,home:HTTPError
+nasscom,Hexanode Digital Private Limited,Chennai,https://www.hexanode.digital.com,hexanode.digital.com,,,,,True,False,False,home:URLError
+nasscom,Hapag-Lloyd Technology Center Private Limited,Chennai,https://www.hapag-lloyd.com/,hapag-lloyd.com,,,,,True,False,False,home:timeout
+nasscom,Ascensus Global Services India LLP,Hyderabad,https://www.ascensus.com/,ascensus.com,,,,,True,False,False,home:HTTPError
+nasscom,Palni India Private Limited,Hyderabad,https://palni.com/,palni.com,,,,,True,False,False,home:URLError
+nasscom,Weaver and Tidwell India LLP,Bengaluru,https://weaver.com/,weaver.com,,,,,True,False,False,home:HTTPError
+nasscom,NCSI Technologies (India) Private Limited,Pune,https://www.ncs.co/en-in/,ncs.co,,,,,True,False,False,home:HTTPError
+nasscom,Inferigence Quotient Private Limited,Bengaluru,https://inferq.my.canva.site/inferq#home,inferq.my.canva.site,,,,,True,False,False,home:HTTPError
+nasscom,Avaloq India Private Limited,Pune,https://www.avaloq.com/,avaloq.com,,,,,True,False,False,home:HTTPError
+nasscom,ProcesIQ Influx Private Limited,Delhi,https://procesiq.com,procesiq.com,,,,,True,False,False,home:URLError
+nasscom,Alexisoft Technologies Private Limited,Hyderabad,https://alexisoftech.com,alexisoftech.com,,,,,True,False,False,home:
+nasscom,Growing Pro Technologies Private Limited,Gautam Buddha Nagar,https://www.growinprotechnologies.com,growinprotechnologies.com,,,,,True,False,False,home:URLError
+nasscom,ICM Services Private Limited,Bengaluru,https://icm.im/,icm.im,,,,,True,False,False,home:URLError
+nasscom,Agaamin Technologies Private Limited,Gurugram,https://agaamin.com,agaamin.com,,,,,True,False,False,home:timeout
+nasscom,API International Capability Centre Private Limited,Bengaluru,https://www.apigroupinc.com/,apigroupinc.com,,,,,True,False,False,home:HTTPError
+nasscom,Sadup Softech Private Limited,Hyderabad,https://sadupsoft.com/,sadupsoft.com,,,,,True,False,False,home:HTTPError
+nasscom,ATC India Infrastructure Private Limited,Gurugram,https://www.americantower.com,americantower.com,,,,,True,False,False,home:HTTPError
+nasscom,Egisedge Technologies Private Limited,Mahendragarh,https://egisedge.com,egisedge.com,,,,,True,False,False,home:URLError
+nasscom,Perficient India Private Limited,Chennai,https://www.perficient.com/,perficient.com,,,,,True,False,False,home:HTTPError
+nasscom,Profolo Platforms Private Limited,Hyderabad,https://profolo.com,profolo.com,,,,,True,False,False,home:HTTPError
+nasscom,United Airlines Business Services Private Limited,Gurugram,https://www.united.com/,united.com,,,,,True,False,False,home:timeout
+nasscom,CyberSRC Consultancy Private Limited,Gautam Buddha Nagar,http://www.cybersrcc.com/,cybersrcc.com,,,,,True,False,False,home:HTTPError
+nasscom,YAS Techno Companion Private Limited,Gurugram,https://www.technocompanion.com/,technocompanion.com,,,,,True,False,False,home:URLError
+nasscom,Crediscreen Services Private Limited,Mumbai,https://crediscreen.in,crediscreen.in,,,,,True,False,False,home:URLError
+nasscom,Upcore Technologies Private Limited,Mohali,http://upcoretech.com,upcoretech.com,,,,,True,False,False,home:HTTPError
+nasscom,Cue For Good Solutions Private Limited,Mohali,https://www.cueforgood.com/,cueforgood.com,,,,,True,False,False,home:HTTPError
+nasscom,PurpleLabs Search Private Limited,Bengaluru,https://purplequarter.com/,purplequarter.com,,,,,True,False,False,home:HTTPError
+nasscom,Orcalex Technologies LLP,Hyderabad,https://orcalex.ai/,orcalex.ai,,,,,True,False,False,home:HTTPError
+nasscom,Coupa Software India Private Limited,Pune,http://www.coupa.com,coupa.com,,,,,True,False,False,home:HTTPError
+nasscom,GetMy Solutions Private Limited,Pune,https://getmysoutions.in,getmysoutions.in,,,,,True,False,False,home:URLError
+nasscom,Intact Business Services Private Limited,Gurugram,https://www.intactinsurance.co.uk/,intactinsurance.co.uk,,,,,True,False,False,home:HTTPError
+nasscom,Unifrax India Private Limited,Pune,https://www.alkegen.com/,alkegen.com,,,,,True,False,False,home:URLError
+nasscom,Iron Mountain Services Private Limited,Bengaluru,https://www.ironmountain.com,ironmountain.com,,,,,True,False,False,home:HTTPError
+nasscom,Cloudalytix Tech Solutions LLP,Chennai,https://www.cloddians.com,cloddians.com,,,,,True,False,False,home:URLError
+nasscom,Smartbox Ecommerce Solutions Private Limited,Noida,https://smartbox.in/,smartbox.in,,,,,True,False,False,home:URLError
+nasscom,Unfold Culture Catalyst Private Limited,Bengaluru,http://unfold-consulting.com/,unfold-consulting.com,,,,,True,False,False,home:HTTPError
+nasscom,DENSO International India Private Limited,Gurugram,https://www.denso.com/in/en/,denso.com,,,,,True,False,False,home:URLError
+nasscom,Barco Electronic Systems Private Limited,Noida,http://www.barco.com,barco.com,,,,,True,False,False,home:HTTPError
+nasscom,iNtechspace Technologies Private Limited,Ahmedabad,https://www.intechspace.com/,intechspace.com,,,,,True,False,False,home:http403
+nasscom,EzeSoftware India Private Limited,Hyderabad,https://www.ezesoft.com/,ezesoft.com,,,,,True,False,False,home:URLError
+nasscom,Mettler-Toledo India Private Limited,Mumbai,http://www.mt.com,mt.com,,,,,True,False,False,home:http406
+nasscom,Cummins Technologies India Private Limited,Pune,https://cumminsindia.com/,cumminsindia.com,,,,,True,False,False,home:http307
+nasscom,Gebbs Healthcare Solutions Private Limited,Navi Mumbai,https://gebbs.com/,gebbs.com,,,,,True,False,False,home:URLError
+nasscom,Unify healthcare Services LLP,Mohali,http://unifyrcm.com/,unifyrcm.com,,,,,True,False,False,home:http307
+nasscom,Servosys Solutions (A Unit of EML Consultancy Services Private Limited),Delhi,https://www.servosys.com,servosys.com,,,,,True,False,False,home:http307
+nasscom,Econz IT Services Private Limited,Bengaluru,http://www.econzit.com,econzit.com,,,,,True,False,False,home:http308
+nasscom,Bayer CropScience Limited,Mumbai,http://www.bayer.in,bayer.in,,,,,True,False,False,home:http403
+nasscom,Prochant India Private Limited,Chennai,https://www.prochant.com/india,prochant.com,,,,,True,False,False,home:http403
+nasscom,Qentelli Solutions Private Limited,Hyderabad,https://www.qentelli.com/,qentelli.com,,,,,True,False,False,home:http403
+nasscom,Fashnear Technologies Private Limited,Bengaluru,https://meesho.com/,meesho.com,,,,,True,False,False,home:http403
+nasscom,iLEAD Power Tech and Management Private Limited,Indore,http://ilead-group.com/,ilead-group.com,,,,,True,False,False,home:http500
+nasscom,ANKO GCC (India) Private Limited,Bengaluru,https://ankogcc.com/,ankogcc.com,,,,,True,False,False,home:http403
+nasscom,Ingram Micro Platform Technology India Private Limited,Chennai,https://www.ingrammicro.com/,ingrammicro.com,,,,,True,False,False,home:timeout
+nasscom,AltezzaSys Systems Private Limited,Noida,http://altezzasys.com/,altezzasys.com,,,,,True,False,False,home:URLError
+nasscom,Voltuswave Technologies India Private Limited,Hyderabad,https://voltusone.com/,voltusone.com,,,,,True,False,False,home:URLError
+nasscom,Atharva Agronomics Private Limited,Kolhapur,http://www.atharvasolutions.in,atharvasolutions.in,,,,,True,False,False,home:
+nasscom,Eclantiqx Digital Private Limited,Hyderabad,https://www.eclatprime.com,eclatprime.com,,,,,True,False,False,home:http307
+nasscom,Skill Instill Technologies,Chennai,http://www.skillinstill.com,skillinstill.com,,,,,True,False,False,home:http308
+nasscom,Swiggy Limited,Bengaluru,https://www.swiggy.com/,swiggy.com,,,,,True,False,False,home:
+nasscom,Bajaj Finserv Direct Limited,Pune,http://www.bajajtechnologyservices.com,bajajtechnologyservices.com,,,,,True,False,False,home:URLError
+nasscom,Kochhar & Co.,Bengaluru,https://kochhar.com/,kochhar.com,,,,,True,False,False,home:http307
+nasscom,Proxiio Global Solutions Private Limited,Gurugram,https://www.proxiio.com,proxiio.com,,,,,True,False,False,home:http307
+nasscom,Cetark Solutions Private Limited,Mohali,https://www.cetark.com/,cetark.com,,,,,True,False,False,home:http307
+nasscom,Opentrends Technologies Private Limited,Thrissur,https://www.opentrends.net/en,opentrends.net,,,,,True,False,False,home:http403
+nasscom,Newmark CRE Services Private Limited,Hyderabad,https://www.nmrk.com/,nmrk.com,,,,,True,False,False,home:http403
+nasscom,Eaton India Innovation Center LLP,Pune,https://www.eaton.com/in/en-us.html,eaton.com,,,,,True,False,False,home:timeout
+nasscom,Sage IT Private Limited,Hyderabad,https://sageitinc.com/,sageitinc.com,,,,,True,False,False,home:URLError
+nasscom,Avasant Advisory India Private Limited,Delhi,https://avasant.com/,avasant.com,,,,,True,False,False,home:http307
+nasscom,Kapil Knowledge Hub Private Limited,Hyderabad,https://kapilguru.com/,kapilguru.com,,,,,True,False,False,home:URLError
+nasscom,Vishwakarma Institute of Technology (VIT) {Bansilal Ramnath Agarwal Charitable Trust},Pune,http://www.viit.ac.in/,viit.ac.in,,,,,True,False,False,home:URLError
+nasscom,Qagenic Technologies Private Limited,Chandigarh(PB),https://qagenic.com,qagenic.com,,,,,True,False,False,home:URLError
+nasscom,Blackhawk Network (India) Private Limited,Bengaluru,https://www.blackhawknetwork.com/,blackhawknetwork.com,,,,,True,False,False,home:http403
+nasscom,Cluso Infolink Private Limited,Bengaluru,https://www.cluso.com,cluso.com,,,,,True,False,False,home:http307
+nasscom,Uniper India Private Limited,Noida,https://www.uniper.energy/about-uniper/company-brief,uniper.energy,,,,,True,False,False,home:http403
+nasscom,The Boston Consulting Group (India) Private Limited,Mumbai,https://www.bcg.com/,bcg.com,,,,,True,False,False,home:http403
+nasscom,Uttam Innovative Solutions Private Limited,Pune,https://uttaminfotechglobal.com/,uttaminfotechglobal.com,,,,,True,False,False,home:URLError
+nasscom,Barry Callebaut Global Business Services India LLP,Hyderabad,https://www.barry-callebaut.com/en-US,barry-callebaut.com,,,,,True,False,False,home:http403
+nasscom,Ciena India Private Limited,Gurugram,https://www.ciena.com/,ciena.com,,,,,True,False,False,home:http403
+nasscom,ExoGenesis Solutions Private Limited,Hyderabad,https://www.exogenesis.solutions.com,exogenesis.solutions.com,,,,,True,False,False,home:URLError
+nasscom,Investec Global Services (India) Private Limited,Mumbai,http://Investec.com,investec.com,,,,,True,False,False,home:http403
+nasscom,Adidas India Marketing Private Limited,Chennai,https://www.adidas.com,adidas.com,,,,,True,False,False,home:http403
+nasscom,Proximity Labs Private Limited,Mumbai,https://www.Proximity.tech,proximity.tech,,,,,True,False,False,home:http308
+nasscom,A Square Group,Gurugram,https://asquaregroup.ai,asquaregroup.ai,,,,,True,False,False,home:URLError
+nasscom,CogniTensor Technology Private Limited,Delhi,http://www.cognitensor.com,cognitensor.com,,,,,True,False,False,home:http308
+nasscom,Quinji,Mohali,https://quinji.com,quinji.com,,,,,True,False,False,home:http308
+nasscom,Software Technology Parks Of India,New Delhi,http://www.stpi.in,stpi.in,,,,,True,False,False,home:URLError
+nasscom,McKinsey & Company India LLP,Mumbai,http://www.mckinsey.com,mckinsey.com,,,,,True,False,False,home:timeout
+nasscom,Hope Foundation and Research Centre,Pune,http://www.isquareit.ac.in,isquareit.ac.in,,,,,True,False,False,home:http408
+nasscom,Aon Consulting Private Limited,Gurugram,http://www.hewitt.com,hewitt.com,,,,,True,False,False,home:URLError
+nasscom,DNV Business Assurance India Private Limited,Chennai,http://www.dnvindia.com,dnvindia.com,,,,,True,False,False,home:URLError
+nasscom,TPI Advisory Services India Pvt Ltd,Bengaluru,http://www.tpi.net,tpi.net,,,,,True,False,False,home:URLError
+nasscom,Institute for Information Industry (India Branch Office),Chennai,http://www.iii.org.tw,iii.org.tw,,,,,True,False,False,home:URLError
+nasscom,First Advantage Pvt Ltd,Bengaluru,http://www.fadvasia.com,fadvasia.com,,,,,True,False,False,home:URLError
+nasscom,Zinnov Management Consulting Pvt Ltd,Bengaluru,http://www.zinnov.com,zinnov.com,,,,,True,False,False,home:http308
+nasscom,Capitaland Services (India) Private Limited,Bengaluru,http://www.ascendas.com,ascendas.com,,,,,True,False,False,home:URLError
+nasscom,Institute for Development and Research in Banking Technology (IDRBT),Hyderabad,http://www.idrbt.ac.in,idrbt.ac.in,,,,,True,False,False,home:URLError
+nasscom,PSNA College of Engineering and Technology,Dindigul,http://www.psnacet.edu.in,psnacet.edu.in,,,,,True,False,False,home:http403
+nasscom,"Indian Institute of Management, Ahmedabad",Ahmedabad,http://www.iimahd.ernet.in,iimahd.ernet.in,,,,,True,False,False,home:URLError
+nasscom,Bayern International,Bengaluru,http://www.invest-in-bavaria.com,invest-in-bavaria.com,,,,,True,False,False,home:http308
+nasscom,Sathyabama University (A div. of Sathyabama Educational Trust),Chennai,http://www.sathyabamauniversity.ac.in,sathyabamauniversity.ac.in,,,,,True,False,False,home:http500
+nasscom,JIS University,Kolkata,http://www.jisgroup.org,jisgroup.org,,,,,True,False,False,home:http307
+nasscom,National Payments Corporation of India,Mumbai,http://www.npci.org.in,npci.org.in,,,,,True,False,False,home:http403
+nasscom,Sundaram Home Finance Limited,Chennai,http://www.sundarambnpphome.in,sundarambnpphome.in,,,,,True,False,False,home:URLError
+nasscom,IG3 Infra Ltd,Chennai,http://www.indiangreengridgroup.com,indiangreengridgroup.com,,,,,True,False,False,home:
+nasscom,"Cyberpark, Kozhikode",Calicut,http://www.cyberparkkerala.org,cyberparkkerala.org,,,,,True,False,False,home:URLError
+nasscom,Lovely Professional University,Jalandhar,http://www.lpu.co.in,lpu.co.in,,,,,True,False,False,home:http523
+nasscom,"University Of Engineering And Management, Jaipur",Jaipur,http://www.uemedu.in,uemedu.in,,,,,True,False,False,home:URLError
+nasscom,Thermax Limited,Pune,http://www.thermaxglobal.com,thermaxglobal.com,,,,,True,False,False,home:http403
+nasscom,University of Mysore,Mysore,https://uni-mysore.ac.in/english-version/,uni-mysore.ac.in,,,,,True,False,False,home:URLError
+nasscom,Indian Institute of Management Lucknow,Lucknow,http://www.iiml.ac.in/,iiml.ac.in,,,,,True,False,False,home:ConnectionResetError
+nasscom,Peak XV Partners Advisors India LLP,New Delhi,https://www.sequoiacap.com/india/,sequoiacap.com,,,,,True,False,False,home:http308
+nasscom,Hindusthan Educational and Charitable Trust,Coimbatore,http://www.hicet.ac.in,hicet.ac.in,,,,,True,False,False,home:URLError
+nasscom,Edelweiss Life Insurance Company Limited,Mumbai,https://www.edelweisstokio.in/,edelweisstokio.in,,,,,True,False,False,home:URLError
+nasscom,Redtech Network India Pvt Ltd,Kolkata,http://www.ushacomm.com,ushacomm.com,,,,,True,False,False,home:URLError
+nasscom,MASTEK Ltd,Mumbai,http://www.mastek.com,mastek.com,,,,,True,False,False,home:http403
+nasscom,JK Technosoft Ltd,Noida,http://www.jktech.com,jktech.com,,,,,True,False,False,home:http307
+nasscom,Magic Software Pvt Ltd,Noida,http://www.magicsw.com,magicsw.com,,,,,True,False,False,home:URLError
+nasscom,R S Software (India) Ltd,Kolkata,http://www.rssoftware.com,rssoftware.com,,,,,True,False,False,home:http307
+nasscom,Newgen Software Technologies Ltd,New Delhi,http://www.newgensoft.com,newgensoft.com,,,,,True,False,False,home:URLError
+nasscom,Hinduja Global Solutions Ltd,Bengaluru,http://www.teamhgs.com,teamhgs.com,,,,,True,False,False,home:URLError
+nasscom,Algorithms Software Pvt Ltd,Mumbai,http://www.algosoftware.com,algosoftware.com,,,,,True,False,False,home:http409
+nasscom,Sopra Steria India Limited,Noida,http://www.in.sopragroup.com,in.sopragroup.com,,,,,True,False,False,home:URLError
+nasscom,Tenarai Technologies Private Limited,Bengaluru,http://www.infogain.com,infogain.com,,,,,True,False,False,home:URLError
+nasscom,Adobe Systems India Pvt Ltd,Noida,http://www.adobeindia.com,adobeindia.com,,,,,True,False,False,home:timeout
+nasscom,Neilsoft Limited,Pune,http://www.neilsoft.com,neilsoft.com,,,,,True,False,False,home:http307
+nasscom,DCG Data-Core Systems (India) Private Limited,Kolkata,http://www.datacore-india.com,datacore-india.com,,,,,True,False,False,home:URLError
+nasscom,ADP Pvt Ltd,Hyderabad,http://www.adp.com,adp.com,,,,,True,False,False,home:http403
+nasscom,Saksoft Limited,Chennai,http://www.saksoft.com,saksoft.com,,,,,True,False,False,home:http307
+nasscom,Clayfin Technologies Private Limited,Chennai,http://www.clayfin.com/,clayfin.com,,,,,True,False,False,home:http307
+nasscom,Botree Software International Ltd,Chennai,http://www.botree.co.in,botree.co.in,,,,,True,False,False,home:URLError
+nasscom,Foundever CRM India Private Limited,Mumbai,http://www.sitel-india.com,sitel-india.com,,,,,True,False,False,home:URLError
+nasscom,IonIdea Enterprise Solutions Pvt Ltd,Bengaluru,http://www.ionidea.com,ionidea.com,,,,,True,False,False,home:URLError
+nasscom,Ford Motor Pvt Ltd,Chennai,http://www.india.ford.com,india.ford.com,,,,,True,False,False,home:http403
+nasscom,ANZ Operations and Technology Pvt Ltd,Bengaluru,http://www.anz-it.com,anz-it.com,,,,,True,False,False,home:URLError
+nasscom,Expleo Solutions Limited,Chennai,https://www.expleogroup.com/,expleogroup.com,,,,,True,False,False,home:http307
+nasscom,HSBC Electronic Data Processing India Pvt Ltd,Hyderabad,http://www.hsbcservicedelivery.com,hsbcservicedelivery.com,,,,,True,False,False,home:URLError
+nasscom,Silverskills Pvt Ltd,Gurugram,http://www.silverskills.com,silverskills.com,,,,,True,False,False,home:http404
+nasscom,Gujarat Informatics Ltd,Gandhinagar,http://www.gujaratinformatics.com,gujaratinformatics.com,,,,,True,False,False,home:URLError
+nasscom,HSBC Software Development (India) Pvt Ltd,Pune,http://www.hsbcsoftwaredevelopment.com,hsbcsoftwaredevelopment.com,,,,,True,False,False,home:URLError
+nasscom,Alldigi Tech Limited,Chennai,http://www.alldigitech.com,alldigitech.com,,,,,True,False,False,home:URLError
+nasscom,KCP Technologies Ltd,Chennai,http://www.kcp.net,kcp.net,,,,,True,False,False,home:URLError
+nasscom,SAP Labs India Private Limited,Bengaluru,https://www.sap.com/india/about.saplabsindia.html,sap.com,,,,,True,False,False,home:http403
+nasscom,Cambridge Technology Enterprises Ltd,Hyderabad,http://www.c7e.co,c7e.co,,,,,True,False,False,home:URLError
+nasscom,Motherson Technology Services Limited,Noida,www.mothersontechnology.com,mothersontechnology.com,,,,,True,False,False,home:URLError
+nasscom,TTEC India Customer Solutions Private Limited,Ahmedabad,http://www.motifinc.com,motifinc.com,,,,,True,False,False,home:http403
+nasscom,Sify Technologies Ltd,Chennai,http://www.sifycorp.com,sifycorp.com,,,,,True,False,False,home:URLError
+nasscom,Hartron Communications Ltd,Gurugram,http://www.hartron.cc,hartron.cc,,,,,True,False,False,home:URLError
+nasscom,NetCracker Technology Solutions (India) Pvt Ltd,Hyderabad,http://www.netcracker.com,netcracker.com,,,,,True,False,False,home:http404
+nasscom,TESCO Bengaluru Private Limited,Bengaluru,http://www.tescohsc.com,tescohsc.com,,,,,True,False,False,home:URLError
+nasscom,Volvo India Pvt Ltd,Bengaluru,http://www.volvo.co.in,volvo.co.in,,,,,True,False,False,home:URLError
+nasscom,Oracle (OFSS) BPO Services Ltd,Gurugram,http://www.oracle.com/us/products/applications/financial-services/software-bpo/index.html,oracle.com,,,,,True,False,False,home:http403
+nasscom,MakeMyTrip (India) Pvt Ltd,Gurugram,http://www.makemytrip.com,makemytrip.com,,,,,True,False,False,home:timeout
+nasscom,QuEST Global Engineering Services Private Limited,Bengaluru,http://engineering.quest-global.com,engineering.quest-global.com,,,,,True,False,False,home:URLError
+nasscom,Blue Yonder India Private Limited,Hyderabad,http://www.manu.com,manu.com,,,,,True,False,False,home:URLError
+nasscom,Lepton Software Export & Research Pvt Ltd,Gurugram,http://www.leptonsoftware.com,leptonsoftware.com,,,,,True,False,False,home:http308
+nasscom,Swiss Re Global Business Solutions India Private Limited,Bengaluru,http://www.swissre.com,swissre.com,,,,,True,False,False,home:http403
+nasscom,Amrut Software Pvt Ltd,Mumbai,http://www.amruts.com,amruts.com,,,,,True,False,False,home:URLError
+nasscom,BNP Paribas India Solutions Private Limited,Mumbai,http://www.bnpparibasindiasolutions.com,bnpparibasindiasolutions.com,,,,,True,False,False,home:URLError
+nasscom,RAMTeCH Software Solutions Pvt Ltd,Noida,http://www.ramtech-corp.com,ramtech-corp.com,,,,,True,False,False,home:http307
+nasscom,Metacube Software Pvt Ltd,Jaipur,http://www.metacube.com,metacube.com,,,,,True,False,False,home:URLError
+nasscom,NetApp India Pvt Ltd,Bengaluru,http://www.netapp.com,netapp.com,,,,,True,False,False,home:http403
+nasscom,Sony India Software Centre Private Limited,Bengaluru,http://www.sony.com,sony.com,,,,,True,False,False,home:http403
+nasscom,Hinduja Tech Limited,Chennai,http://www.defiance-tech.com,defiance-tech.com,,,,,True,False,False,home:URLError
+nasscom,Hi-Tech Digital Solutions LLP,Ahmedabad,http://www.hitechos.com,hitechos.com,,,,,True,False,False,home:URLError
+nasscom,Unitforce Technologies Consulting Pvt Ltd,Bengaluru,http://www.uftech.com,uftech.com,,,,,True,False,False,home:http308
+nasscom,Espire Infolabs Pvt Ltd,Gurugram,http://www.espire.com,espire.com,,,,,True,False,False,home:http308
+nasscom,eNoah iSolution India Pvt Ltd,Chennai,http://www.enoahisolution.com,enoahisolution.com,,,,,True,False,False,home:URLError
+nasscom,Tenth Planet Technologies Pvt Ltd,Chennai,http://www.tenth-planet.com,tenth-planet.com,,,,,True,False,False,home:URLError
+nasscom,Inteliment Technologies Pvt Ltd,Pune,http://www.inteliment.com,inteliment.com,,,,,True,False,False,home:http308
+nasscom,Mindcrest (India) Pvt Ltd,Pune,http://www.mindcrest.com,mindcrest.com,,,,,True,False,False,home:URLError
+nasscom,Optum Global Solutions (India) Private Limited,Gurugram,http://www.uhgis.com,uhgis.com,,,,,True,False,False,home:URLError
+nasscom,Mynd Solutions Pvt Ltd,Gurugram,https://www.m1xchange.com/,m1xchange.com,,,,,True,False,False,home:URLError
+nasscom,FNF India Private Limited,Bengaluru,http://www.fnfindia.co.in,fnfindia.co.in,,,,,True,False,False,home:http403
+nasscom,Equiniti India Pvt Ltd,Kancheepuram,http://www.equiniti-ics.com,equiniti-ics.com,,,,,True,False,False,home:http406
+nasscom,Vitae International Accounting Services Pvt Ltd,Coimbatore,http://www.aktbpo.com,aktbpo.com,,,,,True,False,False,home:URLError
+nasscom,CES Limited,Hyderabad,http://www.cesltd.com,cesltd.com,,,,,True,False,False,home:URLError
+nasscom,Dun & Bradstreet Technologies & Data Services Pvt Ltd,Chennai,http://www.dnbtechnology.com,dnbtechnology.com,,,,,True,False,False,home:URLError
+nasscom,Aeren IT Solutions Pvt Ltd,Chandigarh(CH),http://www.acrenoutsourcing.com,acrenoutsourcing.com,,,,,True,False,False,home:URLError
+nasscom,Rockwell Collins India Enterprises Pvt Ltd,Hyderabad,http://www.rockwellcollins.com,rockwellcollins.com,,,,,True,False,False,home:http403
+nasscom,Yokogawa Technology Solutions India Private Limited,Bengaluru,http://www.yokogawa.com,yokogawa.com,,,,,True,False,False,home:
+nasscom,Hansa Customer Equity Pvt Ltd,Mumbai,http://www.cequitysolutions.com,cequitysolutions.com,,,,,True,False,False,home:URLError
+nasscom,Wipfli India LLP,Bengaluru,http://www.spiderlogic.com,spiderlogic.com,,,,,True,False,False,home:http308
+nasscom,TA Netgables Pvt Ltd,Noida,http://www.saralweb.com,saralweb.com,,,,,True,False,False,home:URLError
+nasscom,BC Management Services Pvt Ltd,Noida,http://www.britishcouncil.org,britishcouncil.org,,,,,True,False,False,home:timeout
+nasscom,Kronos Solutions India Pvt Ltd,Noida,http://www.kronos.com,kronos.com,,,,,True,False,False,home:http403
+nasscom,QX Global Services Private Limited,Ahmedabad,http://www.qxltd.com,qxltd.com,,,,,True,False,False,home:http403
+nasscom,METRO Global Solution Center Private Limited,Pune,http://www.metroservicespune.com,metroservicespune.com,,,,,True,False,False,home:URLError
+nasscom,Surya Software Systems Pvt Ltd,Bengaluru,http://www.surya-soft.com,surya-soft.com,,,,,True,False,False,home:http308
+nasscom,BlackRock Services India Pvt Ltd,Gurugram,http://www.blackrock.co.in,blackrock.co.in,,,,,True,False,False,home:URLError
+nasscom,Open Text Technologies India Pvt Ltd,Belgaum,http://www.opentext.com,opentext.com,,,,,True,False,False,home:http444
+nasscom,Gartner India Research & Advisory Services Private Limited,Gurugram,https://www.gartner.com/,gartner.com,,,,,True,False,False,home:http403
+nasscom,Mouri Tech Limited,Hyderabad,http://www.mouritech.com,mouritech.com,,,,,True,False,False,home:http308
+nasscom,Got Softwares Pvt Ltd,Chennai,http://www.gotsoftwares.com,gotsoftwares.com,,,,,True,False,False,home:URLError
+nasscom,Towards Vision Technologies Limited,Gurugram,http://www.tvtworld.com,tvtworld.com,,,,,True,False,False,home:URLError
+nasscom,Triple A Solutions Pvt Ltd,Kolkata,http://www.tripleasolutions.com,tripleasolutions.com,,,,,True,False,False,home:URLError
+nasscom,Fusion CX Private Limited,Kolkata,http://www.xplore-tech.com,xplore-tech.com,,,,,True,False,False,home:URLError
+nasscom,Bravura Solutions India LLP,Gurugram,http://www.bravurasolutions.com,bravurasolutions.com,,,,,True,False,False,home:http403
+nasscom,General Mills India Pvt Ltd,Mumbai,http://www.generalmills.com,generalmills.com,,,,,True,False,False,home:http308
+nasscom,Indium Software (India) Private Limited,Chennai,http:// www.indium.tech, www.indium.tech,,,,,True,False,False,home:InvalidURL
+nasscom,uKnowva (Convergence IT Services Pvt Ltd),Mumbai,http://www.convergenceservices.in,convergenceservices.in,,,,,True,False,False,home:URLError
+nasscom,Trutech Webs Pvt Ltd,Mumbai,http://www.trutechwebs.com,trutechwebs.com,,,,,True,False,False,home:URLError
+nasscom,Kaar Technologies India Pvt Ltd,Chennai,http://www.kaartech.com,kaartech.com,,,,,True,False,False,home:URLError
+nasscom,Noventiq Global AI Solutions Private Limited,Bengaluru,http://www.g7cr.com,g7cr.com,,,,,True,False,False,home:URLError
+nasscom,Ahana Systems and Solutions Pvt Ltd,Bengaluru,http://www.ahana.co.in,ahana.co.in,,,,,True,False,False,home:http500
+nasscom,CMA CGM Global Business Services (India) Private Limited,Chennai,http://www.cma-cgm.com,cma-cgm.com,,,,,True,False,False,home:http403
+nasscom,Lifeline Systech Solutions Pvt Ltd,Pune,http://www.lifeline-sys.com/,lifeline-sys.com,,,,,True,False,False,home:http403
+nasscom,Zuora India Private Limited,Chennai,http://www.zuora.com,zuora.com,,,,,True,False,False,home:http502
+nasscom,Dexian India Technologies Private Limited,Chennai,https://india.dexian.com,india.dexian.com,,,,,True,False,False,home:http403
+nasscom,Averna Test (India) Private Limited,Thiruvananthapuram,http://www.gesinfotek.com,gesinfotek.com,,,,,True,False,False,home:http409
+nasscom,Actiohx Solutions Private Limited,Pune,http://www.entercoms.com,entercoms.com,,,,,True,False,False,home:URLError
+nasscom,Amazon Seller Services Pvt Ltd,New Delhi,http://www.amazon.com,amazon.com,,,,,True,False,False,home:
+nasscom,Colgate Global Business Services Pvt Ltd,Mumbai,https://www.colgateinvestors.co.in/,colgateinvestors.co.in,,,,,True,False,False,home:URLError
+nasscom,Fractal Analytics Limited,Mumbai,http://fractalanalytics.com,fractalanalytics.com,,,,,True,False,False,home:URLError
+nasscom,Orchid Technical Consultancy Pvt Ltd,Kolkata,http://www.orchidtech.in,orchidtech.in,,,,,True,False,False,home:URLError
+nasscom,NMSWorks Software Pvt Ltd,Chennai,http://www.nmsworks.co.in,nmsworks.co.in,,,,,True,False,False,home:URLError
+nasscom,TSS Consultancy Pvt Ltd,Mumbai,http://www.tssconsultancy.com,tssconsultancy.com,,,,,True,False,False,home:URLError
+nasscom,Brady Company India Pvt Ltd,Bengaluru,http://www.bradyindia.co.in,bradyindia.co.in,,,,,True,False,False,home:http403
+nasscom,DesiCrew Solutions Pvt Ltd,Chennai,http://www.desicrew.in,desicrew.in,,,,,True,False,False,home:http308
+nasscom,Expedien E-Solutions Limited,Noida,http://expedien.net,expedien.net,,,,,True,False,False,home:http403
+nasscom,EUI Limited,Gurugram,http://www.admiral.com,admiral.com,,,,,True,False,False,home:URLError
+nasscom,Quantium Analytics Pvt Ltd,Hyderabad,http://www.quantium.com,quantium.com,,,,,True,False,False,home:URLError
+nasscom,Brindley Technologies Limited,Mumbai,http://www.BrindleyTech.com,brindleytech.com,,,,,True,False,False,home:
+nasscom,World Phone IT Services Pvt Ltd,Gurugram,http://www.wpitservices.com,wpitservices.com,,,,,True,False,False,home:http308
+nasscom,Caterpillar India Engineering Solutions Private Limited,Chennai,http://www.caterpillar.com,caterpillar.com,,,,,True,False,False,home:http403
+nasscom,Ivy Mobility Solutions Private Limited,Chennai,http://www.ivymobility.com,ivymobility.com,,,,,True,False,False,home:http308
+nasscom,Equinix India Private Limited,Mumbai,http://www.gpxglobal.net,gpxglobal.net,,,,,True,False,False,home:http403
+nasscom,Zifo Technologies Pvt Ltd,Chennai,http://www.zifotech.com,zifotech.com,,,,,True,False,False,home:URLError
+nasscom,Position2 Marketing Pvt Ltd,Bengaluru,http://www.position2.com,position2.com,,,,,True,False,False,home:http308
+nasscom,Cloudstrats Technologies Pvt Ltd,Mumbai,http://www.cloudstrats.com,cloudstrats.com,,,,,True,False,False,home:http403
+nasscom,Victorias Secret India Private Limited,Bengaluru,http://www.lb.com,lb.com,,,,,True,False,False,home:URLError
+nasscom,Geojit Technologies Pvt Ltd,Ernakulam,http://www.geojittechnologies.com,geojittechnologies.com,,,,,True,False,False,home:URLError
+nasscom,Rage Communications Pvt Ltd,Chennai,http://www.whatarage.com,whatarage.com,,,,,True,False,False,home:URLError
+nasscom,Fi-es Systems Pvt Ltd,Thiruvananthapuram,http://www.fi-es.com,fi-es.com,,,,,True,False,False,home:URLError
+nasscom,Hakuna Matata Solutions Pvt Ltd,Chennai,http://www.hakunamatata.in,hakunamatata.in,,,,,True,False,False,home:URLError
+nasscom,Five Splash Infotech Pvt Ltd,Udaipur,https://www.fivesdigital.com/,fivesdigital.com,,,,,True,False,False,home:http404
+nasscom,CyberEye Research Labs & Security Solutions Pvt Ltd,Hyderabad,http://www.cybereyelabs.io,cybereyelabs.io,,,,,True,False,False,home:URLError
+nasscom,Chronito Technologies LLP,Kolkata,http://www.chronitotech.com,chronitotech.com,,,,,True,False,False,home:URLError
+nasscom,Prakat Solutions Private Limited,Bengaluru,http://www.prakat.com,prakat.com,,,,,True,False,False,home:URLError
+nasscom,Sundaram Business Services Limited,Chennai,http://www.sundarambizserv.com,sundarambizserv.com,,,,,True,False,False,home:URLError
+nasscom,Vooraf Technology Private Limited,Kolkata,http://www.vooraf.com,vooraf.com,,,,,True,False,False,home:URLError
+nasscom,ImpactQA Services Pvt Ltd,Gautam Buddha Nagar,http://www.impactqa.in,impactqa.in,,,,,True,False,False,home:http403
+nasscom,OSB India Private Limited,Bengaluru,http://www.easiprocess.com,easiprocess.com,,,,,True,False,False,home:URLError
+nasscom,A & S Software Consultancy Private Limited,New Delhi,http://www.assoftwaregroup.com,assoftwaregroup.com,,,,,True,False,False,home:http404
+nasscom,Nexval Infotech Private Limited,Kolkata,http://www.nexval.com,nexval.com,,,,,True,False,False,home:URLError
+nasscom,Guardian India Operations Private Limited,Chennai,http://www.datatelesis.com,datatelesis.com,,,,,True,False,False,home:URLError
+nasscom,Varutra Consulting Private Limited,Pune,http://www.varutra.com,varutra.com,,,,,True,False,False,home:http307
+nasscom,KrypC Technologies Private Limited,Bengaluru,http://www.krypc.com,krypc.com,,,,,True,False,False,home:URLError
+nasscom,Sridhar Infosoft Solutions,Hyderabad,http://www.sridharindia.com,sridharindia.com,,,,,True,False,False,home:URLError
+nasscom,Good Methods Software Solutions Pvt Ltd,Thiruvananthapuram,http://www.goodmethodsglobal.com,goodmethodsglobal.com,,,,,True,False,False,home:http308
+nasscom,ELI Lilly Services India Private Limited,Bengaluru,http://www.lilly.com,lilly.com,,,,,True,False,False,home:http403
+nasscom,Inspiredge IT Solutions Private Limited,Visakhapatnam,http://www.inspiredgeit.com,inspiredgeit.com,,,,,True,False,False,home:URLError
+nasscom,Bill Gosling India Private Limited,Gurugram,http://www.mattsenkumar.com,mattsenkumar.com,,,,,True,False,False,home:URLError
+nasscom,H & R Block (India) Private Limited,Thiruvananthapuram,http://www.hrblock.in,hrblock.in,,,,,True,False,False,home:http403
+nasscom,Hindustan Unilever Limited (Enterprise Support and IT Innovation),Bengaluru,http://www.unilever.com,unilever.com,,,,,True,False,False,home:http403
+nasscom,TechEra IT Consulting Private Limited,Hyderabad,http://www.techeraglobal.com,techeraglobal.com,,,,,True,False,False,home:URLError
+nasscom,Provana India Private Limited,Gautam Buddha Nagar,http://www.provanallc.com,provanallc.com,,,,,True,False,False,home:URLError
+nasscom,Amshuhu iTech Solution Private Limited,Chennai,http://www.amshuhu.com,amshuhu.com,,,,,True,False,False,home:URLError
+nasscom,CBRE South Asia Private Limited,Gurugram,http://www.cbre.co.in,cbre.co.in,,,,,True,False,False,home:http403
+nasscom,Sree Tammina Software Solutions Private Limited,Visakhapatnam,http://www.techtammina.com,techtammina.com,,,,,True,False,False,home:http307
+nasscom,UBS Business Solutions (India) Private Limited,Pune,http://www.ubs.com,ubs.com,,,,,True,False,False,home:http403
+nasscom,Alten India Private Limited,Pune,https://www.alten.com/,alten.com,,,,,True,False,False,home:URLError
+nasscom,MasterCard Technology Private Limited,Pune,http://www.mastercard.com,mastercard.com,,,,,True,False,False,home:http403
+nasscom,Arcesium India Private Limited,Hyderabad,http://www.arcesium.com,arcesium.com,,,,,True,False,False,home:http308
+nasscom,Rupal Consulting,Mumbai,http://www.netsourcing.in,netsourcing.in,,,,,True,False,False,home:URLError
+nasscom,Thryve Digital Health LLP,Chennai,http://www.thryvedigitalllp.com,thryvedigitalllp.com,,,,,True,False,False,home:URLError
+nasscom,"Fastenal India Sourcing, IT & Procurement Private Limited",Bengaluru,http://www.fastenal.com,fastenal.com,,,,,True,False,False,home:http403
+nasscom,TIAA Global Capabilities Private Limited,Mumbai,http://www.tiaa.org,tiaa.org,,,,,True,False,False,home:timeout
+nasscom,R1 RCM Global Private Limited,Gurugram,http://www.accretivehealth.com,accretivehealth.com,,,,,True,False,False,home:http404
+nasscom,Aosta India Private Limited,Coimbatore,http://www.aostasoftware.com,aostasoftware.com,,,,,True,False,False,home:URLError
+nasscom,Siddha Development Research and Consultancy Private Limited,Bhubaneswar,http://www.sdrc.co.in,sdrc.co.in,,,,,True,False,False,home:http500
+nasscom,Artha Data Solutions India Private Limited,Hyderabad,http://www.thinkartha.com,thinkartha.com,,,,,True,False,False,home:http308
+nasscom,Modak Analytics LLP,Hyderabad,http://www.modakanalytics.com,modakanalytics.com,,,,,True,False,False,home:http308
+nasscom,CCS Technologies IT Private Limited,Ernakulam,http://www.ccstechnologies.in,ccstechnologies.in,,,,,True,False,False,home:URLError
+nasscom,Quiddity Software Solutions Private Limited,Hyderabad,http://www.Quiddityit.com,quiddityit.com,,,,,True,False,False,home:URLError
+nasscom,GIC Global Industrial Private Limited,Mumbai,http://www.systemax.com,systemax.com,,,,,True,False,False,home:http403
+nasscom,Quinpro Info Services Private Limited,Bengaluru,https://www.factsuite.com/,factsuite.com,,,,,True,False,False,home:URLError
+nasscom,Siemens Healthcare Private Limited,Bengaluru,https://www.healthcare.siemens.co.in,healthcare.siemens.co.in,,,,,True,False,False,home:http400
+nasscom,18th Digitech Private Limited,Noida,http://www.18thtechnology.com,18thtechnology.com,,,,,True,False,False,home:http403
+nasscom,Antier Solutions Private Limited,Mohali,http://www.antiersolutions.com,antiersolutions.com,,,,,True,False,False,home:http308
+nasscom,Xlscout Xlpat Private Limited,Mohali,https://www.xlpat.com,xlpat.com,,,,,True,False,False,home:URLError
+nasscom,Ather Energy Limited,Bengaluru,https://www.atherenergy.com,atherenergy.com,,,,,True,False,False,home:http403
+nasscom,Rubicon Skill Development Private Limited,Pune,http://www.my-rubicon.com,my-rubicon.com,,,,,True,False,False,home:http403
+nasscom,Techsoft DataServices LLP,Pune,http://www.techsoftdataservices.com,techsoftdataservices.com,,,,,True,False,False,home:URLError
+nasscom,Sing Sys Software Services Private Limited,Lucknow,https://www.singsys.com,singsys.com,,,,,True,False,False,home:URLError
+nasscom,Uber India Systems Private Limited,Gurugram,https://www.uber.com/en-IN/,uber.com,,,,,True,False,False,home:http406
+nasscom,Prescience Decision Solutions Private Limited,Bengaluru,http://www.prescienceds.com,prescienceds.com,,,,,True,False,False,home:URLError
+nasscom,Datamatics Business Enablers Private Limited,Mumbai,http://www.datamaticsbe.com,datamaticsbe.com,,,,,True,False,False,home:URLError
+nasscom,DHL Global Forwarding Freight Shared Services (India) LLP,Mumbai,http://www.dhl.com,dhl.com,,,,,True,False,False,home:timeout
+nasscom,vConstruct Private Limited,Pune,https://Https://www.vconstruct.in,https:,,,,,True,False,False,home:URLError
+nasscom,BMW India Private Limited,Gurugram,https://www.bmw.in,bmw.in,,,,,True,False,False,home:timeout
+nasscom,Transunion Global Technology Center LLP,Chennai,http://www.transunion.com,transunion.com,,,,,True,False,False,home:http403
+nasscom,Smarten Spaces (LinkDigi Spaces Private Limited),Bengaluru,http://www.smartenspaces.com,smartenspaces.com,,,,,True,False,False,home:http308
+nasscom,Adrosonic IT Consultancy Services Private Limited,Mumbai,http://www.adrosonic.com,adrosonic.com,,,,,True,False,False,home:http404
+nasscom,Carelon Global Solutions India LLP,Bengaluru,https://www.carelonglobal.com,carelonglobal.com,,,,,True,False,False,home:http308
+nasscom,Winjit Technologies Private Limited,Nasik,http://www.winjit.com,winjit.com,,,,,True,False,False,home:http307
+nasscom,InCHES Healthcare Private Limited,Mumbai,http://www.inches-insuretech.com/,inches-insuretech.com,,,,,True,False,False,home:URLError
+nasscom,Express Analytics India Private Limited,Pune,http://www.expressanalytics.com,expressanalytics.com,,,,,True,False,False,home:http308
+nasscom,Bluecast Technologies Private Limited,Kochi,http://www.bluecast.ae,bluecast.ae,,,,,True,False,False,home:http308
+nasscom,SEO Discovery,Mohali,https://www.seodiscovery.com/,seodiscovery.com,,,,,True,False,False,home:http403
+nasscom,Wolters Kluwer (India) Private Limited,Pune,http://www.wolterskluwerindia.co.in,wolterskluwerindia.co.in,,,,,True,False,False,home:http403
+nasscom,IDA Automation Private Limited,Bengaluru,http://www.idanalytics.co.in/,idanalytics.co.in,,,,,True,False,False,home:URLError
+nasscom,Sociorac Online Private Limited,Vadodara,http://www.SocioRAC.com,sociorac.com,,,,,True,False,False,home:http404
+nasscom,Smartkatch Analytics Private Limited,Bengaluru,https://www.goldklix.com,goldklix.com,,,,,True,False,False,home:URLError
+nasscom,Yakkaspace Services Private Limited,Thanjavur,http://www.yakkaspace.com,yakkaspace.com,,,,,True,False,False,home:http308
+nasscom,Alorica (India) Private Limited,Bengaluru,http://www.alorica.com/,alorica.com,,,,,True,False,False,home:http403
+nasscom,Oasys Tech Solutions Private Limited,Bhubaneswar,http://oasystspl.com,oasystspl.com,,,,,True,False,False,home:ConnectionResetError
+nasscom,Panacea Infosec Private Limited,New Delhi,https://panaceainfosec.com/,panaceainfosec.com,,,,,True,False,False,home:URLError
+nasscom,Thyssenkrupp India Private Limited,Mumbai,http://www.thyssenkruppindia.com/,thyssenkruppindia.com,,,,,True,False,False,home:URLError
+nasscom,Outright Solutions Private Limited,Kolkata,http://www.outrightsolutions.net,outrightsolutions.net,,,,,True,False,False,home:http308
+nasscom,Elanco Innovation & Alliance Centre India LLP,Bengaluru,https://www.elanco.com,elanco.com,,,,,True,False,False,home:http308

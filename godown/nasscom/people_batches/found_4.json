@@ -1,0 +1,306 @@
+[
+  {
+    "name": "OIP Robotics Private Limited",
+    "domain": "oipinsurtech.com",
+    "person": "Bevin Beatovic",
+    "title": "Founder Co-Chairwoman",
+    "linkedin": "https://www.linkedin.com/in/bevin-beatovic-1a51b96b",
+    "confidence": "high",
+    "evidence": "About-us team card: \"Bevin Beatovic Founder Co-Chairwoman\"",
+    "others": [
+      {
+        "person": "Milos Petrovic",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/milospetrovicoip"
+      },
+      {
+        "person": "Luka Ristovic",
+        "title": "COO",
+        "linkedin": "https://www.linkedin.com/in/luka-ristovic-a0351197"
+      },
+      {
+        "person": "Nemanja Jokic",
+        "title": "CTO",
+        "linkedin": "https://www.linkedin.com/in/nemanjajokic"
+      }
+    ]
+  },
+  {
+    "name": "Opcito Technologies Private Limited",
+    "domain": "opcito.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Who-we-are page names only \"Our Inspiration - CJ Chaitanya Jawale\", no title",
+    "others": []
+  },
+  {
+    "name": "Outscalepartners India Private Limited",
+    "domain": "outscalepartners.com",
+    "person": "Frank A Argenbright Jr.",
+    "title": "Executive Chairman & Founder of the Argenbright Group",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Our founding chairman, Frank Argenbright\"; leadership card lists him first",
+    "others": [
+      {
+        "person": "Karan Ishwar",
+        "title": "Group Chief Executive Officer, Argenbright Group",
+        "linkedin": ""
+      },
+      {
+        "person": "Kamlesh Bhojwani",
+        "title": "Chief Financial Officer, Outscale Partners",
+        "linkedin": ""
+      },
+      {
+        "person": "Kunal Gandhi",
+        "title": "Head of Treasury, Outscale Partners",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Park Hospitals",
+    "domain": "neotiahospital.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Pages errored; only \"The visionary founders envisioned a space...\", unnamed",
+    "others": []
+  },
+  {
+    "name": "Pennant Technologies Pvt Ltd",
+    "domain": "pennanttech.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only product/FAQ copy on loan management system; no person named",
+    "others": []
+  },
+  {
+    "name": "Pioneer Design And Engineering Private Limited",
+    "domain": "pioneerdesign.in",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "About page repeats \"Our team of skilled engineers\"; no individual named",
+    "others": []
+  },
+  {
+    "name": "PRGX India Private Limited",
+    "domain": "prgx.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Leadership page text is intro copy only: \"Our leadership team has deep expertise\"",
+    "others": []
+  },
+  {
+    "name": "Prostarm Info Systems Limited",
+    "domain": "prostarm.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Management-team page scraped as nav plus company overview; no names",
+    "others": []
+  },
+  {
+    "name": "Quest Diagnostics HTAS India Private Limited",
+    "domain": "questdiagnostics.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only product pages (Quanum ECM, test menu); no leadership content",
+    "others": []
+  },
+  {
+    "name": "R S Software (India) Ltd",
+    "domain": "rssoftware.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only \"Ramadorai, Ex CMD of TCS\" and \"Kalpana Morparia, Ex CEO of J.P.\" - other firms",
+    "others": []
+  },
+  {
+    "name": "Relatient India Private Limited",
+    "domain": "relatient.com",
+    "person": "Jeff Gartland",
+    "title": "Chief Executive Officer",
+    "linkedin": "https://www.linkedin.com/in/jgartland",
+    "confidence": "high",
+    "evidence": "About page card: \"Jeff Gartland Chief Executive Officer Connect with me\"",
+    "others": [
+      {
+        "person": "David Dyke",
+        "title": "Chief Product Officer",
+        "linkedin": "https://www.linkedin.com/in/daviddyke"
+      },
+      {
+        "person": "Abby Weatherby",
+        "title": "Chief Financial Officer",
+        "linkedin": "https://www.linkedin.com/in/abbyweatherby"
+      },
+      {
+        "person": "David Edwards",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/davidledwards"
+      }
+    ]
+  },
+  {
+    "name": "RheinBrucke IT Consulting Pvt Ltd",
+    "domain": "rheincs.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only \"Dr. Joerg Pirron received a Doctor's degree\" - no title at this company",
+    "others": []
+  },
+  {
+    "name": "Rolls Royce India Private Limited",
+    "domain": "rolls-royce.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Board bios give first names only (Tufan, Helen, George); no full name paired",
+    "others": []
+  },
+  {
+    "name": "RxBenefits Healthcare India Private Limited",
+    "domain": "rxbenefits.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "About page describes \"over 1,000 experts\"; no individual named",
+    "others": []
+  },
+  {
+    "name": "Sairam Group Of Institutions",
+    "domain": "sairamgroup.in",
+    "person": "Sai Prakash Leo Muthu",
+    "title": "Chairman & CEO, Sairam Institutions",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Sai Prakash Leo Muthu, Chairman & CEO, Sairam Institutions\"",
+    "others": []
+  },
+  {
+    "name": "Schlumberger India Technology Centre Pvt Ltd",
+    "domain": "slb.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only navigation and solution copy scraped; no leadership names",
+    "others": []
+  },
+  {
+    "name": "Sesame Group India Private Limited",
+    "domain": "sbg.co.uk",
+    "person": "Richard Harrison",
+    "title": "Chief Executive Officer (CEO)",
+    "linkedin": "",
+    "confidence": "high",
+    "evidence": "\"Our Executive Team Richard Harrison Chief Executive Officer (CEO)\"; joined SBG Jan 2024",
+    "others": []
+  },
+  {
+    "name": "SHRM East Private Limited",
+    "domain": "shrmindia.org",
+    "person": "Johnny Taylor, Jr.",
+    "title": "President and Chief Executive Officer",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Taylor, Jr., is President and Chief Executive Officer of SHRM\"; \"More About Johnny\"",
+    "others": []
+  },
+  {
+    "name": "Skyach Software Solutions Pvt Ltd",
+    "domain": "skyach.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "About page is positioning copy (\"AI-native product engineering\"); no names",
+    "others": []
+  },
+  {
+    "name": "Smith & Nephew GBS Private Limited",
+    "domain": "smith-nephew.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Leadership pages returned \"Server Error\"; no content",
+    "others": []
+  },
+  {
+    "name": "Softprime Consulting Private Limited",
+    "domain": "softprimeconsulting.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Team page says \"Visionary leaders and Odoo-certified experts\"; no names",
+    "others": []
+  },
+  {
+    "name": "SplendorNet Technologies Private Limited",
+    "domain": "splendornet.com",
+    "person": "Pratap Shrotriya",
+    "title": "CEO and Founder Member",
+    "linkedin": "",
+    "confidence": "high",
+    "evidence": "\"Pratap Shrotriya CEO and Founder Member... founder, director, and CEO of SplendorNet\"",
+    "others": [
+      {
+        "person": "Ashish Amalnerkar",
+        "title": "COO and Founder Member",
+        "linkedin": "https://www.linkedin.com/in/ashishamalnerkar"
+      },
+      {
+        "person": "Sushant Danekar",
+        "title": "CTO and Founder Member",
+        "linkedin": "https://www.linkedin.com/in/sushant-danekar"
+      },
+      {
+        "person": "Shivaji Shinde",
+        "title": "CDO and Founder Member",
+        "linkedin": "https://www.linkedin.com/in/shivaji-shinde-splendornet"
+      }
+    ]
+  },
+  {
+    "name": "SRKay Consulting Group Private Limited",
+    "domain": "srkay.com",
+    "person": "Akshay Dholakia",
+    "title": "Managing Director",
+    "linkedin": "https://www.linkedin.com/in/akshay-dholakia-a8959a327",
+    "confidence": "high",
+    "evidence": "\"As Managing Director, Akshay Dholakia leads SRKay's strategic direction\"",
+    "others": []
+  },
+  {
+    "name": "Sun Knowledge Pvt Ltd",
+    "domain": "sunknowledge.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "\"Meet Our Management Team\" heading only; no individual named",
+    "others": []
+  }
+]

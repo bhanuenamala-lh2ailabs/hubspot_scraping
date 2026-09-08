@@ -1,0 +1,293 @@
+[
+ {
+  "name": "NG-CODER",
+  "domain": "ng-coder.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Team page text only vision/mission boilerplate; no person named",
+  "others": []
+ },
+ {
+  "name": "Together Initiatives (p) Limited",
+  "domain": "i2gether.com",
+  "person": "Syed Moktar Ahmed",
+  "title": "Managing Director",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "MANAGEMENT Syed Moktar Ahmed Managing Director Syeda Nawshad Jahan Chairman",
+  "others": [
+   {
+    "person": "Syeda Nawshad Jahan",
+    "title": "Chairman",
+    "linkedin": ""
+   },
+   {
+    "person": "Dr. Zahangir Alam",
+    "title": "Director",
+    "linkedin": ""
+   },
+   {
+    "person": "Mohd Rakibul Hassan",
+    "title": "Director",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "LeanCore Technologies",
+  "domain": "leancore.net",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Only marketing copy and trade licence number; no leadership names",
+  "others": []
+ },
+ {
+  "name": "PIISTECH",
+  "domain": "piistech.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "A WORD FROM COMPANY MANAGING DIRECTOR & CEO - role only, no name",
+  "others": []
+ },
+ {
+  "name": "Sistema Soft Limited",
+  "domain": "sistemasoft.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Core Principles Leadership Values - section headings only, no person named",
+  "others": []
+ },
+ {
+  "name": "IT Garden BD",
+  "domain": "itgardenbd.com",
+  "person": "Kaysar Ahmed",
+  "title": "Managing Director & CEO",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Kaysar Ahmed Managing Director & CEO Driving the corporate vision of digital transformation",
+  "others": []
+ },
+ {
+  "name": "The Tork",
+  "domain": "thetork.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "+8801313941166",
+  "email": "mail@thetork.com",
+  "confidence": "low",
+  "evidence": "Contact block and Agile methodology copy only; no leadership name",
+  "others": []
+ },
+ {
+  "name": "Smart Web BD",
+  "domain": "smartwebbd.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "100% Founder-Led Focus - slogan repeated, founder never named",
+  "others": []
+ },
+ {
+  "name": "Nextzen Limited",
+  "domain": "nextzen.com.bd",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Management Update soon.. ; contact block is unedited theme placeholder text",
+  "others": []
+ },
+ {
+  "name": "Softineers",
+  "domain": "softineers.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Only hotel management software product page; no people mentioned",
+  "others": []
+ },
+ {
+  "name": "PinTechERP",
+  "domain": "pintecherp.com",
+  "person": "Md. Harun-ur Rashid (FCMA)",
+  "title": "CEO and Executive Chairman",
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Meet Our Leadership Team Md. Harun-ur Rashid (FCMA) CEO and Executive Chairman",
+  "others": [
+   {
+    "person": "Mrs. Sultana Rashid",
+    "title": "Vice Chairman",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "Insoftx",
+  "domain": "insoftx.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Single client case-study blog post; no names of any kind",
+  "others": []
+ },
+ {
+  "name": "Patricius IT",
+  "domain": "patriciusit.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "QMS product page only; every 'management' mention is software, not people",
+  "others": []
+ },
+ {
+  "name": "SYNCHRONISE",
+  "domain": "synchronisebd.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Abdoulienjie Chairman Skynet IT Synchronise is very professional - client testimonial, different company",
+  "others": [
+   {
+    "person": "Abdoulienjie",
+    "title": "Chairman, Skynet IT (client testimonial, not Synchronise)",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "ParonSoft Solutions Ltd.",
+  "domain": "paronsoft.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Management Managing Director Executive Director - bare nav role labels, no names",
+  "others": []
+ },
+ {
+  "name": "Innovative Station Limited",
+  "domain": "innovativestation.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Meet Our Team Amanda Lee Founder I am text block - theme placeholder",
+  "others": []
+ },
+ {
+  "name": "CodeMoly",
+  "domain": "codemoly.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Visa management software blog article only; no person named",
+  "others": []
+ },
+ {
+  "name": "Feather IT",
+  "domain": "featheruniverse.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Henry J. Gagnon is a blog byline placeholder; team page is 404",
+  "others": []
+ },
+ {
+  "name": "Snaptec Limited",
+  "domain": "snaptec.ltd",
+  "person": "Md Nahid Hasan Shuvo",
+  "title": "CEO & Director",
+  "linkedin": "https://www.linkedin.com/in/nahidhshuvo",
+  "phone": "",
+  "email": "",
+  "confidence": "high",
+  "evidence": "Md Nahid Hasan Shuvo CEO & Director",
+  "others": [
+   {
+    "person": "Md. Amirul Islam",
+    "title": "Managing Director",
+    "linkedin": ""
+   },
+   {
+    "person": "Saiful Islam",
+    "title": "Chairman",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "E-Tracker Solution",
+  "domain": "etrackersolution.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Product and service pages only; no leadership names present",
+  "others": []
+ },
+ {
+  "name": "Revinr",
+  "domain": "revinr.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "phone": "",
+  "email": "",
+  "confidence": "low",
+  "evidence": "Leadership page text names nobody; only Connect on LinkedIn button remains",
+  "others": []
+ }
+]

@@ -1,0 +1,7 @@
+source,name,city,website,domain,founded_year,size_band,band_label,headcount,headcount_unknown,whale_candidate,staffing_mix,lane_reason
+ITDIR:infopark,Amatosoft,Kochi,https://gmail.com,gmail.com,,,,,True,False,False,redirects to https://accounts.google.com/v3/signin/identifier?continue=ht
+ITDIR:infopark,Dooth Internet Service Pvt. Ltd.,Kochi,https://dooth.com,dooth.com,,,,,True,False,False,redirects to https://doot.world/
+ITDIR:infopark,Emergio Technologies Pvt Ltd,Kochi,https://emergiogames.com,emergiogames.com,,,,,True,False,False,redirects to https://emergiotech.com/
+ITDIR:infopark,Mindcurv Technology Solutions Pvt. Ltd.,Kochi,https://mindcurv.com,mindcurv.com,,,,,True,False,False,redirects to https://www.accenture.com/us-en/services/sales-commerce/comm
+ITDIR:infopark,RIOD LOGIC PRIVATE LIMITED,Kochi,https://riod.in,riod.in,,,,,True,False,False,redirects to https://riod.energy/
+ITDIR:infopark,Webdura Technologies,Kochi,https://webduratech.com,webduratech.com,,,,,True,False,False,redirects to https://www.webdura.in/

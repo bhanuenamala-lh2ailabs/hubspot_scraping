@@ -1,0 +1,1051 @@
+[
+ {
+  "name": "ASSIST Software",
+  "domain": "assist-software.net",
+  "pages": [
+   "https://assist-software.net/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+40-230-521100",
+    "e164": "+40230521100",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "hello@assist.ro",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Code Spring",
+  "domain": "codespring.ro",
+  "pages": [
+   "https://www.codespring.ro/contact"
+  ],
+  "phones": [
+   {
+    "raw": "0040364113110",
+    "e164": "0040364113110",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+40-364-113110",
+    "e164": "+40364113110",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "office@codespring.ro",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "IsoSkills",
+  "domain": "isoskills.fi",
+  "pages": [
+   "https://isoskills.fi/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+40720058245",
+    "e164": "+40720058245",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+358 505253693",
+    "e164": "+358505253693",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "jaana.vaananen@isoskills.fi",
+    "role_address": false
+   },
+   {
+    "email": "vasile.marcovici@isoskills.fi",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "SC AEGIS CORE TECH SRL",
+  "domain": "aegiscoretech.com",
+  "pages": [
+   "https://aegiscoretech.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+40741131505",
+    "e164": "+40741131505",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@aegiscoretech.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Global Mediator",
+  "domain": "global-mediator.com",
+  "pages": [
+   "https://global-mediator.com/contact-us",
+   "https://global-mediator.com/about-us",
+   "https://global-mediator.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+4526755953",
+    "e164": "+4526755953",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+453540817",
+    "e164": "+453540817",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+380673634897",
+    "e164": "+380673634897",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Linnify",
+  "domain": "linnify.com",
+  "pages": [
+   "https://www.linnify.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+40754044002",
+    "e164": "+40754044002",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+17374975757",
+    "e164": "+17374975757",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@linnify.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "TechQuarter",
+  "domain": "techquarter.io",
+  "pages": [
+   "https://techquarter.io/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+15642270652",
+    "e164": "+15642270652",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "hello@techquarter.io",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "BrainTrust",
+  "domain": "braintrust.ro",
+  "pages": [
+   "https://www.braintrust.ro/contact",
+   "https://www.braintrust.ro/contact-us",
+   "https://www.braintrust.ro/contacts",
+   "https://www.braintrust.ro/get-in-touch",
+   "https://www.braintrust.ro/reach-us",
+   "https://www.braintrust.ro/about-us",
+   "https://www.braintrust.ro/"
+  ],
+  "phones": [
+   {
+    "raw": "+40759812905",
+    "e164": "+40759812905",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "FXBITS",
+  "domain": "fxbits.io",
+  "pages": [
+   "https://fxbits.io/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "office@fxbits.io",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Wolfpack Digital",
+  "domain": "wolfpack-digital.com",
+  "pages": [
+   "https://www.wolfpack-digital.com/contact",
+   "https://www.wolfpack-digital.com/contact-us",
+   "https://www.wolfpack-digital.com/get-in-touch",
+   "https://www.wolfpack-digital.com/reach-us",
+   "https://www.wolfpack-digital.com/about-us",
+   "https://www.wolfpack-digital.com/?utm_source=goodfirms"
+  ],
+  "phones": [
+   {
+    "raw": "+40724042222",
+    "e164": "+40724042222",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+35319609992",
+    "e164": "+35319609992",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+16282511317",
+    "e164": "+16282511317",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+442039364492",
+    "e164": "+442039364492",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Ketek",
+  "domain": "ketek.ro",
+  "pages": [
+   "https://www.ketek.ro/contact",
+   "https://www.ketek.ro/contact-us",
+   "https://www.ketek.ro/"
+  ],
+  "phones": [
+   {
+    "raw": "0040 770 613 713",
+    "e164": "0040770613713",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+40 770 613 713",
+    "e164": "+40770613713",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "OceanoBe Technology",
+  "domain": "oceanobe.com",
+  "pages": [
+   "https://oceanobe.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+40 723 049 984",
+    "e164": "+40723049984",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@oceanobe.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Sensidev",
+  "domain": "sensidev.com",
+  "pages": [
+   "https://sensidev.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "SOFTECH",
+  "domain": "softech.ro",
+  "pages": [
+   "https://softech.ro/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+40-364-113110",
+    "e164": "+40364113110",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+40-364-113111",
+    "e164": "+40364113111",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "0040364113110",
+    "e164": "0040364113110",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@softech.ro",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Zitec",
+  "domain": "zitec.com",
+  "pages": [
+   "https://zitec.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+40317100114",
+    "e164": "+40317100114",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@zitec.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Ascendro",
+  "domain": "ascendro.de",
+  "pages": [
+   "https://www.ascendro.de/contact",
+   "https://www.ascendro.de/about-us",
+   "https://www.ascendro.de/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "info@ascendro.de",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "InnovatorSpark SRL",
+  "domain": "innovatorspark.com",
+  "pages": [
+   "https://innovatorspark.com/contact",
+   "https://innovatorspark.com/about-us",
+   "https://innovatorspark.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+40745509025",
+    "e164": "+40745509025",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+31639710325",
+    "e164": "+31639710325",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "mindit.io",
+  "domain": "mindit.io",
+  "pages": [
+   "https://mindit.io/contact",
+   "https://mindit.io/contact-us",
+   "https://mindit.io/about-us",
+   "https://mindit.io/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "recruitment@mindit.io",
+    "role_address": false
+   },
+   {
+    "email": "contact@mindit.io",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "7code",
+  "domain": "7code.ro",
+  "pages": [
+   "https://www.7code.tech/contact",
+   "https://www.7code.tech/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "office@7code.ro",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Areus Development",
+  "domain": "areusdev.com",
+  "pages": [
+   "https://areusdev.com/contact",
+   "https://areusdev.com/contact-us",
+   "https://areusdev.com/about-us",
+   "https://areusdev.com/"
+  ],
+  "phones": [
+   {
+    "raw": "+40 371 782 681",
+    "e164": "+40371782681",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+1 837 990 9001",
+    "e164": "+18379909001",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "Arnia Software",
+  "domain": "arnia.com",
+  "pages": [
+   "https://www.arnia.com/contact",
+   "https://www.arnia.com/about-us",
+   "https://www.arnia.com/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "contact@arnia.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "BitStone SRL",
+  "domain": "bitstone.com",
+  "pages": [
+   "https://bitstone.com/contact",
+   "https://bitstone.com/contact-us",
+   "https://bitstone.com/about-us",
+   "https://bitstone.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "ConturSoft",
+  "domain": "contursoft.com",
+  "pages": [
+   "https://contursoft.com/"
+  ],
+  "phones": [
+   {
+    "raw": "0123332014",
+    "e164": "0123332014",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+40 754 382 135",
+    "e164": "+40754382135",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "office@contursoft.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "rinf.tech",
+  "domain": "rinf.tech",
+  "pages": [
+   "https://www.rinf.tech/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+40 374 400 731",
+    "e164": "+40374400731",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+1 810 322 8219",
+    "e164": "+18103228219",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+380 505 765 254",
+    "e164": "+380505765254",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+40 754 204 261",
+    "e164": "+40754204261",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "%20inquiry@rinf.tech",
+    "role_address": false
+   },
+   {
+    "email": "contact-india@rinf.tech",
+    "role_address": false
+   },
+   {
+    "email": "inquiry@rinf.tech",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Thinslices",
+  "domain": "thinslices.com",
+  "pages": [
+   "https://www.thinslices.com/contact",
+   "https://www.thinslices.com/contact-us",
+   "https://www.thinslices.com/about-us",
+   "https://www.thinslices.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "UPDIVISION",
+  "domain": "updivision.com",
+  "pages": [
+   "https://updivision.com/contact",
+   "https://updivision.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Around25",
+  "domain": "around25.com",
+  "pages": [
+   "https://www.around25.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+40724001717",
+    "e164": "+40724001717",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+40 (770) 250-250",
+    "e164": "+40770250250",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "hello@around25.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Floating Dots",
+  "domain": "floatingdots.co",
+  "pages": [
+   "https://floatingdots.co/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+40 754 382 135",
+    "e164": "+40754382135",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "hello@floatingdots.co",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Qualysoft",
+  "domain": "qualysoft.com",
+  "pages": [
+   "https://qualysoft.com/contact-us"
+  ],
+  "phones": [
+   {
+    "raw": "+49 89716779919",
+    "e164": "+4989716779919",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+381 63 495501",
+    "e164": "+38163495501",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+62-21 2283-1337",
+    "e164": "+622122831337",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "office@qualysoft.ch",
+    "role_address": false
+   },
+   {
+    "email": "office@qualysoft.de",
+    "role_address": false
+   },
+   {
+    "email": "office@qualysoft.at",
+    "role_address": false
+   },
+   {
+    "email": "office@qualysoft.hu",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "SPD Technology",
+  "domain": "spd.tech",
+  "pages": [
+   "https://spd.tech/contact",
+   "https://spd.tech/?utm_source=Goodfirms&utm_medium=referral"
+  ],
+  "phones": [
+   {
+    "raw": "+44 20 7660 1534",
+    "e164": "+442076601534",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": []
+ },
+ {
+  "name": "UP2DATE",
+  "domain": "up2date.ro",
+  "pages": [
+   "https://up2date.ro/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+40723534609",
+    "e164": "+40723534609",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "office@up2date.ro",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Codemart",
+  "domain": "codemart.ro",
+  "pages": [
+   "https://codemart.ro/codemart/zwei/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "jobs@codemart.ro",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Custom Code Factory",
+  "domain": "customcodefactory.com",
+  "pages": [
+   "https://customcodefactory.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+40742205890",
+    "e164": "+40742205890",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "office@customcodefactory.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Enlivy",
+  "domain": "enlivy.dev",
+  "pages": [
+   "https://enlivy.dev/contact",
+   "https://enlivy.dev/about-us",
+   "https://enlivy.dev/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Nerds Computing",
+  "domain": "nerds.sh",
+  "pages": [
+   "https://nerds.sh/contact",
+   "https://nerds.sh/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "office@nerds.sh",
+    "role_address": false
+   },
+   {
+    "email": "office@nerdscomputing.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Kavita Systems",
+  "domain": "kavitasystems.com",
+  "pages": [
+   "https://kavitasystems.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "MCRO",
+  "domain": "mcro.tech",
+  "pages": [
+   "https://mcro.tech/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+40 747 215 726",
+    "e164": "+40747215726",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   },
+   {
+    "raw": "+1 434 218 1292",
+    "e164": "+14342181292",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "contact@mcro.tech",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Primal Skill",
+  "domain": "primalskill.com",
+  "pages": [
+   "https://primalskill.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "0040745006193",
+    "e164": "0040745006193",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "havas.daniel@primalskill.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "FYB Romania",
+  "domain": "fyb.ro",
+  "pages": [
+   "https://fyb.ro/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+40314252128",
+    "e164": "+40314252128",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "office@fyb.ro",
+    "role_address": false
+   },
+   {
+    "email": "jobs@fyb.ro",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Momentum Software",
+  "domain": "momentum-software.ro",
+  "pages": [
+   "https://momentum-software.ro/wp/"
+  ],
+  "phones": [
+   {
+    "raw": "+40 (752) 172 120",
+    "e164": "+40752172120",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "office@momentum-software.ro",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Qwertee Technology",
+  "domain": "qwertee.io",
+  "pages": [
+   "https://www.qwertee.io/contact",
+   "https://www.qwertee.io/contact-us",
+   "https://www.qwertee.io/contacts",
+   "https://www.qwertee.io/get-in-touch",
+   "https://www.qwertee.io/reach-us",
+   "https://www.qwertee.io/about-us",
+   "https://www.qwertee.io/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "hello@qwertee.io",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Digital Artflow",
+  "domain": "digitalartflow.com",
+  "pages": [
+   "https://www.digitalartflow.com/contact",
+   "https://www.digitalartflow.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Tooktech",
+  "domain": "tooktech.com",
+  "pages": [
+   "https://tooktech.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "XCODES DEVELOPMENT",
+  "domain": "xcodesdevelopment.com",
+  "pages": [
+   "https://xcodes.com/contact",
+   "https://xcodes.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Adonis Software",
+  "domain": "adonissoft.com",
+  "pages": [
+   "https://adonissoft.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+40724098717",
+    "e164": "+40724098717",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "ancu@adonissoft.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "AFI OPS TECHNOLOGIES",
+  "domain": "afiops.com",
+  "pages": [
+   "https://afiops.com/contact-us",
+   "https://afiops.com/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "contact@afiops.com",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "BlueSpark Technologies",
+  "domain": "bluespark.ro",
+  "pages": [
+   "https://bluespark.ro/"
+  ],
+  "phones": [
+   {
+    "raw": "+40 749 424180",
+    "e164": "+40749424180",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "hello@bluespark.ro",
+    "role_address": true
+   }
+  ]
+ },
+ {
+  "name": "Concept24",
+  "domain": "concept24online.com",
+  "pages": [
+   "https://www.concept24online.com/contact"
+  ],
+  "phones": [
+   {
+    "raw": "+4 0721 223 913",
+    "e164": "+40721223913",
+    "kind": "other/landline",
+    "is_bd_mobile": false
+   }
+  ],
+  "emails": [
+   {
+    "email": "office@concept24.ro",
+    "role_address": false
+   },
+   {
+    "email": "office@concept24online.com",
+    "role_address": false
+   }
+  ]
+ },
+ {
+  "name": "Freshbyte",
+  "domain": "freshbyteinc.com",
+  "pages": [
+   "https://freshbyteinc.com/contact",
+   "https://freshbyteinc.com/contact-us",
+   "https://freshbyteinc.com/contacts",
+   "https://freshbyteinc.com/get-in-touch",
+   "https://freshbyteinc.com/reach-us",
+   "https://freshbyteinc.com/about-us",
+   "https://freshbyteinc.com/"
+  ],
+  "phones": [],
+  "emails": []
+ },
+ {
+  "name": "Kheprix",
+  "domain": "kheprix.com",
+  "pages": [
+   "https://www.kheprix.com/"
+  ],
+  "phones": [],
+  "emails": [
+   {
+    "email": "contact@planarty.com",
+    "role_address": true
+   },
+   {
+    "email": "contact@kheprix.com",
+    "role_address": true
+   }
+  ]
+ }
+]

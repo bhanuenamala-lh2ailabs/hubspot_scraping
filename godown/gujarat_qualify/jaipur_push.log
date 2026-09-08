@@ -1,0 +1,143 @@
+input ready list: 140
+re-checked against current HubSpot state: 1 now-duplicate, 139 to push
+   NEW [1] Yuktha  Parasme software & technolog  Ashish Kumar Sharma
+   NEW [2] Lamiya  Kadam Technologies Pvt. Ltd.  Kapil Sharma
+   NEW [3] Yuktha  SignatureTech IT Solutions L  Prem Chand Saini
+   NEW [4] Lamiya  Durapid Technologies Private  Rahul Jain
+   NEW [5] Yuktha  ProvisCommerce.ai             Vivek Sharma
+   NEW [6] Lamiya  Synclyft                      Shreyansh Khandelwal
+   NEW [7] Yuktha  Sembark Tech                  Shiva Garg
+   NEW [8] Lamiya  Ecom Books                    kuldeep joshi
+   NEW [9] Yuktha  EPlanet Soft - EP Soft Pvt.   Ajay Khandal
+   NEW [10] Lamiya  Gekonova                      Mohit Sharma
+   NEW [11] Yuktha  Auratech Services India Pvt   Gaurav Dadhich
+   NEW [12] Lamiya  INSTA IT SERVICES UK LTD.     Arjun Mehta
+  ! deal Sembark Tech: 400 {'status': 'error', 'message': 'Cannot set PropertyValueCoordinates{portalId=246754894, objectTypeId=ObjectTypeId{legacyObjectType=DEAL}, propertyName=lh2_domain, value=sembark.com} on 343574928085. 343559792359 already has that value.', 'correlationId': '01a0328e-d3ca-7767-8fdb-904b4826b335', 'category': 'VALIDATION_ERROR'}
+   NEW [13] Yuktha  Mainstream Soft               Sagar Bhardwaj
+   NEW [14] Lamiya  Azzunique Software            Harmeek Kaur
+   NEW [15] Yuktha  Vaarta AI                     Manish Namdev
+   NEW [16] Lamiya  Sarv.com                      Ramesh Choudhary
+   NEW [17] Yuktha  KayEase                       Sunny Kay
+   NEW [18] Lamiya  Adnate IT Solutions           Ankit Bansal
+   NEW [19] Yuktha  Prerna Trimurty Infotech Pvt  Sugan C.
+  ! deal Adnate IT Solutions: 400 {'status': 'error', 'message': 'Cannot set PropertyValueCoordinates{portalId=246754894, objectTypeId=ObjectTypeId{legacyObjectType=DEAL}, propertyName=lh2_domain, value=adnatesolutions.com} on 343480014557. 343555935962 already has that value.', 'correlationId': '01a0328f-06aa-7f60-b722-4057ab41c9d4', 'category': 'VALIDATION_ERROR'}
+   NEW [20] Lamiya  Agix Technologies             Santosh Singh
+   NEW [21] Yuktha  Ivyprints                     Abhishek  Singh
+   NEW [22] Lamiya  Sixwares Technologies         Pankaj Gupta
+  ! deal Recotail: 400 {'status': 'error', 'message': 'Cannot set PropertyValueCoordinates{portalId=246754894, objectTypeId=ObjectTypeId{legacyObjectType=DEAL}, propertyName=lh2_domain, value=ecombooks.co.in} on 343547159235. 343347594976 already has that value.', 'correlationId': '01a0328f-20fc-7df8-82c3-54e8b52ee6fa', 'category': 'VALIDATION_ERROR'}
+   NEW [23] Yuktha  Ethereal Softech Pvt. Ltd.    Ajay Pareek
+   NEW [24] Lamiya  Habilelabs Pvt. Ltd.          Shankar Morwal
+   NEW [25] Yuktha  MIDCAI                        Shobhit Bahri
+   NEW [26] Lamiya  Spiderlink Techno Pvt Ltd     Sachin M Khandelwal
+   NEW [27] Yuktha  HawksCode                     Sunil Sharma
+   NEW [28] Lamiya  JigroTech Solutions Private   Sunil Jat
+   NEW [29] Yuktha  Datansh Solutions Pvt. Ltd.   Nitish Kumar
+   NEW [30] Lamiya  ad2ship                       Mayank Kumar Pandey
+   NEW [31] Yuktha  BOT Consulting                Manpreet Singh
+   NEW [32] Lamiya  Pinnasys                      Prakash S.
+   NEW [33] Yuktha  Parasme software & technolog  RadhaMohan Sharma
+   NEW [34] Lamiya  Idhyha Creatives & Technolog  Shamim Ansari
+   NEW [35] Yuktha  IMG Global InfoTech (P) Ltd.  Mohit Mittal
+   NEW [36] Lamiya  Dellentra Ltd.                TejRaj Singh
+   NEW [37] Yuktha  Octal IT Solution (CMMI Leve  Naveen Khanna
+   NEW [38] Lamiya  BIAS (Paraojhi Solution LLP)  Rahul ChandraA
+   NEW [39] Yuktha  Exato                         Suvigya Saxena
+   NEW [40] Lamiya  BytePX Technologies           Piyush Singhal
+   NEW [41] Yuktha  QBID Infotech                 Dilip Fauzdarh
+   NEW [42] Lamiya  B2infosoft                    Shrawan Kumar
+   NEW [43] Yuktha  KainSkep                      Ravindra Shekhawat
+   NEW [44] Lamiya  MERNPLUS                      Suchita Sanghi
+   NEW [45] Yuktha  Innovana Thinklabs Ltd.       Abhinav Gupta
+   NEW [46] Lamiya  Zahi Enterprise               Rakesh Nakrani
+   NEW [47] Yuktha  Hybrid Plus Infotech Solutio  Gopal Agarwal
+   NEW [48] Lamiya  TravelMint Software           Shital B. Mathur
+   NEW [49] Yuktha  DeskMoz - 24x7 Live Chat Age  CA Nishant Singhvi
+   NEW [50] Lamiya  Panoptic Infotech             Pankaj Kumar
+   NEW [51] Yuktha  VirtuoWhiz                    Suraj Rajoria
+   NEW [52] Lamiya  Bebroot                       Devendra Singh Rathore
+   NEW [53] Yuktha  Altus Corporate Solutions LL  Sourabh Vijayvargeeya
+   NEW [54] Lamiya  Timelabs                      Devesh Bhartiya
+   NEW [55] Yuktha  NovusVista Technologies Priv  Deepak Bhatia
+   NEW [56] Lamiya  Achieve Point Pvt. Ltd        Vikash Yadav
+   NEW [57] Yuktha  Divam Technologies            Gaurav Sharma
+   NEW [58] Lamiya  CloudTechtiq Technologies Pr  Akshay Kumar Jain
+   NEW [59] Yuktha  Carchalak                     Pankaj Sharma
+   NEW [60] Lamiya  SignatureTech | Software & I  Sonu  Kumar Soni
+  ! deal Sublimity Softwares Privat: 400 {'status': 'error', 'message': 'Cannot set PropertyValueCoordinates{portalId=246754894, objectTypeId=ObjectTypeId{legacyObjectType=DEAL}, propertyName=lh2_domain, value=sublimitysoft.com} on 343557913335. 343595967214 already has that value.', 'correlationId': '01a03290-1e3c-7b1e-8b1c-7276051bc303', 'category': 'VALIDATION_ERROR'}
+   NEW [61] Yuktha  Volan Software And Technolog  Ankiit Janggid
+   NEW [62] Lamiya  Indeses Business Ventures Pv  Avinash Kothari
+   NEW [63] Yuktha  Metal trendzz                 Bina  Verma
+   NEW [64] Lamiya  Mtoag Technology Pvt Ltd      Yogesh Pant
+   NEW [65] Yuktha  CygnusAlpha AI                Divye Tela
+   NEW [66] Lamiya  BB PROFESSIONALS              Ashim Bhasin
+   NEW [67] Yuktha  Gcreationz                    Gaurav Agrawal
+   NEW [68] Lamiya  Tanishi                       Manish J.
+   NEW [69] Yuktha  INSTA IT SERVICES UK LTD.     Krishan Kumar
+   NEW [70] Lamiya  MoboGage Pvt. Ltd.            sohan soni
+   NEW [71] Yuktha  Fonix Technologies            Manish Goyal
+   NEW [72] Lamiya  Zytexa Technology             Mitankshi Gupta
+   NEW [73] Yuktha  Training with Zytexa          Abhinav Rawat
+   NEW [74] Lamiya  GIPL                          Yash Ahuja
+   NEW [75] Yuktha  NovusVista Technologies Priv  Megha Agrawal
+   NEW [76] Lamiya  Algoza Technologies           Suraj Singh
+   NEW [77] Yuktha  GKMT IT                       Mayank R.
+   NEW [78] Lamiya  JSSDynamics Solutions Pvt. L  Krishan Kumawat
+   NEW [79] Yuktha  EHS Software & Training - Sh  Hemlata Sharma
+   NEW [80] Lamiya  Checkin Pilot                 Pawan Kumawat
+  ! deal Gekonova: 400 {'status': 'error', 'message': 'Cannot set PropertyValueCoordinates{portalId=246754894, objectTypeId=ObjectTypeId{legacyObjectType=DEAL}, propertyName=lh2_domain, value=sublimitysoft.com} on 343372525295. 343595967214 already has that value.', 'correlationId': '01a03290-a5c5-7bb3-836f-b2dbdb5738f8', 'category': 'VALIDATION_ERROR'}
+   NEW [81] Yuktha  ad2ship                       Himanshu Batra
+   NEW [82] Lamiya  Swaves Global Technologies    Darshan sharma
+   NEW [83] Yuktha  AKS Bearings Ltd.             Aayush Gadia 🇮🇳
+   NEW [84] Lamiya  LogicMines                    Sudesh Kantila
+   NEW [85] Yuktha  Classy Artz                   Priyank Dadhich
+   NEW [86] Lamiya  Electron Technology           Ayush Vyas
+   NEW [87] Yuktha  Spotrack.in                   Ankkit Kumar Sogani
+   NEW [88] Lamiya  Alopna Software               Shubham Shrivastava 
+   NEW [89] Yuktha  Jaipur Updates                Prithvi Nahar
+  ! deal Sembark Tech: 400 {'status': 'error', 'message': 'Cannot set PropertyValueCoordinates{portalId=246754894, objectTypeId=ObjectTypeId{legacyObjectType=DEAL}, propertyName=lh2_domain, value=sembark.com} on 343567695587. 343559792359 already has that value.', 'correlationId': '01a03290-e4dd-7b61-88da-34497d64b202', 'category': 'VALIDATION_ERROR'}
+   NEW [90] Lamiya  UWS Inc LLC                   Vishnu Goenka 
+   NEW [91] Yuktha  N K SOFTWARE                  Nand kishore
+   NEW [92] Lamiya  White Hats Restaurants        Saurabh  Mehta
+  ! deal Cynosure Technologies Pvt : 400 {'status': 'error', 'message': 'Cannot set PropertyValueCoordinates{portalId=246754894, objectTypeId=ObjectTypeId{legacyObjectType=DEAL}, propertyName=lh2_domain, value=cynosuretech.com} on 343576719065. 343595967224 already has that value.', 'correlationId': '01a03290-feac-74d0-b339-bd2dff2812c5', 'category': 'VALIDATION_ERROR'}
+   NEW [93] Yuktha  Hybrid Plus Infotech Solutio  Manoj Mehta
+   NEW [94] Lamiya  SUKRUT Marketing              Praveen Kumbhojkar
+   NEW [95] Yuktha  KANCHAN INFOCOM               SunilKumar Verma
+   NEW [96] Lamiya  Alphabet Technology           jitender Gurjar
+   NEW [97] Yuktha  Shree Ram Computer            Rakesh Nakrani
+   NEW [98] Lamiya  Pioneer Placement Service     Pioneer Placement Service
+   NEW [99] Yuktha  G DIGITAL MEDIA SOLUTIONS IN  Vinay Pal Singh
+   NEW [100] Lamiya  QuickSoft Technology          Aditya Bairagi
+   NEW [101] Yuktha  NLET Initiatives              Mayank Jain
+   NEW [102] Lamiya  alea it solutions             Ashutosh Bhatia
+   NEW [103] Yuktha  A2Z Infotech Media Pvt. Ltd.  ashish jaiman
+   NEW [104] Lamiya  Infofix Solutions             Sagar Bhardwaj
+   NEW [105] Yuktha  WebEdges.Com                  Web Edges
+   NEW [106] Lamiya  Fiduca Investment Limited     Praveen Suthar
+   NEW [107] Yuktha  TechniAjz                     Govind P.
+   NEW [108] Lamiya  Briskminds Software Solution  Ankit Arora
+  ! deal NLET Solutions Private Lim: 400 {'status': 'error', 'message': 'Cannot set PropertyValueCoordinates{portalId=246754894, objectTypeId=ObjectTypeId{legacyObjectType=DEAL}, propertyName=lh2_domain, value=nlet.in} on 343580415714. 343583268593 already has that value.', 'correlationId': '01a03291-6b14-7e0e-834c-835e219fff0d', 'category': 'VALIDATION_ERROR'}
+   NEW [109] Yuktha  BOT Consulting                Deepali Joshi Puri
+   NEW [110] Lamiya  SEOKart                       Ashish Biyani
+   NEW [111] Yuktha  BytePx Technologies           Gaurav Sinha
+   NEW [112] Lamiya  Edvice                        Nand K. Yadav
+   NEW [113] Yuktha  Protocloud Technologies       Ajay  Shah
+   NEW [114] Lamiya  Lease Packet                  MOHIT VYAS
+   NEW [115] Yuktha  ATVI                          Dipankar Khandelwal
+  ! deal OweBest Techologies Pvt. L: 400 {'status': 'error', 'message': 'Cannot set PropertyValueCoordinates{portalId=246754894, objectTypeId=ObjectTypeId{legacyObjectType=DEAL}, propertyName=lh2_domain, value=owebest.com} on 343597757140. 342569006794 already has that value.', 'correlationId': '01a03291-9f32-7034-b63e-128645efd6c3', 'category': 'VALIDATION_ERROR'}
+  ! deal Protocloud Technologies: 400 {'status': 'error', 'message': 'Cannot set PropertyValueCoordinates{portalId=246754894, objectTypeId=ObjectTypeId{legacyObjectType=DEAL}, propertyName=lh2_domain, value=protocloudtechnologies.com} on 343586951888. 343569550070 already has that value.', 'correlationId': '01a03291-a573-7ccb-b60c-6a505aeb927c', 'category': 'VALIDATION_ERROR'}
+   NEW [116] Lamiya  Cynbit Technologies           Dhawan  Nama
+   NEW [117] Yuktha  Shiv Shakti Arts              Jatin G.
+   NEW [118] Lamiya  Intellects                    Sankalp Sachdeva
+   NEW [119] Yuktha  MLE                           Gourav Paliwal
+   NEW [120] Lamiya  Shiv Shakti ( Property Manag  Dhawal Maniar
+   NEW [121] Yuktha  Phoenix Advanced Softwares P  Smita Mathur
+   NEW [122] Lamiya  MS Web Infotech               Hem Chand Saini
+   NEW [123] Yuktha  Artistixe IT Solutions LLP    Artistixe IT Solutions LLP
+   NEW [124] Lamiya  Meadmiracle                   Chandrashekhar Sahu
+   NEW [125] Yuktha  TiE Rajasthan                 Kailash Gupta
+   NEW [126] Lamiya  Cloudminister Technologies P  Tanuj Chugh
+  ! deal TechniAjz: 400 {'status': 'error', 'message': 'Cannot set PropertyValueCoordinates{portalId=246754894, objectTypeId=ObjectTypeId{legacyObjectType=DEAL}, propertyName=lh2_domain, value=algozatechnologies.com} on 343586970298. 343462525634 already has that value.', 'correlationId': '01a03291-f6d6-7a8e-828a-729d55c7cec7', 'category': 'VALIDATION_ERROR'}
+   NEW [127] Yuktha  Euonus IT                     Dinesh Verma
+  ! deal Sirius: 400 {'status': 'error', 'message': 'Cannot set PropertyValueCoordinates{portalId=246754894, objectTypeId=ObjectTypeId{legacyObjectType=DEAL}, propertyName=lh2_domain, value=qbidinfotech.com} on 343272620753. 343272619768 already has that value.', 'correlationId': '01a03292-0557-7fdb-b496-10424896bcb8', 'category': 'VALIDATION_ERROR'}
+
+created 127 deals, 12 FAILED | totals -> Yuktha 64, Lamiya 63

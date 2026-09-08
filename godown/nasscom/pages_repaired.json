@@ -1,0 +1,359 @@
+[
+ {
+  "name": "Access Healthcare Services Pvt Ltd",
+  "domain": "accesshealthcare.co",
+  "new_pages": [
+   "team",
+   "blog",
+   "careers"
+  ],
+  "new_signals": {},
+  "still_missing": false,
+  "evidence": {}
+ },
+ {
+  "name": "Ashley Furniture India Private Limited",
+  "domain": "ashleyfurnitureindia.com",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "BCE Global Technology Centre Private Limited",
+  "domain": "bceglobaltech.com",
+  "new_pages": [
+   "careers",
+   "blog",
+   "team"
+  ],
+  "new_signals": {
+   "cicd": 3
+  },
+  "still_missing": false,
+  "evidence": {
+   "cicd": [
+    "Thrive in diverse roles like Full Stack Developer, Backend Developer, UI/UX Designer, DevOps Engineer, Cloud Engineer, Data Science Engineer, and Scrum Master at a workplace that encourages you to freely share your bold and different ideas.",
+    "From infrastructure to storage, databases to data analytics, and application development to networking, we harness the power of GCP components like Google Compute Engine, Google Kubernetes Engine, Cloud Run, App Engine and Cloud functions among others.",
+    "Leveraging Azure's advanced services offerings such as Azure Virtual Machines, Azure Kubernetes Service (AKS), Azure Functions, and Azure Container Instances, we ensure unparalleled scalability, reliability, and performance for our solutions."
+   ]
+  }
+ },
+ {
+  "name": "Bestfit Business Solutions Pvt Ltd",
+  "domain": "bestfitsolutions.co.in",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "Caftius Technologies Private Limited",
+  "domain": "caftius.com",
+  "new_pages": [
+   "team",
+   "careers"
+  ],
+  "new_signals": {
+   "senior_roles": 1
+  },
+  "still_missing": false,
+  "evidence": {
+   "senior_roles": [
+    "S Senthilkumaran Director - IT Services A technology specialist with more than 25 years’ experience in software product building and solution architect."
+   ]
+  }
+ },
+ {
+  "name": "Cetark Solutions Private Limited",
+  "domain": "cetark.com",
+  "new_pages": [
+   "team",
+   "careers"
+  ],
+  "new_signals": {},
+  "still_missing": false,
+  "evidence": {}
+ },
+ {
+  "name": "CodeTantra Tech Solutions Private Limited",
+  "domain": "codetantra.com",
+  "new_pages": [
+   "team"
+  ],
+  "new_signals": {},
+  "still_missing": false,
+  "evidence": {}
+ },
+ {
+  "name": "Concord Technosoft Private Limited",
+  "domain": "concordtechnosoft.com",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "CriterionScreeners Global Private Limited",
+  "domain": "criterionscreeners.com",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "DataFlow Services (India) Private Limited",
+  "domain": "corp.dataflowgroup.com",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "DTCC Enterprise Services India Pvt Ltd",
+  "domain": "dtcc.com",
+  "new_pages": [
+   "careers",
+   "team",
+   "blog"
+  ],
+  "new_signals": {},
+  "still_missing": false,
+  "evidence": {}
+ },
+ {
+  "name": "ENEL X Services India Private Limited",
+  "domain": "enelx.com",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "Franklin Templeton International Services (India) Pvt Ltd",
+  "domain": "franklintempleton.com",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "GTMVantage Technologies Private Limited",
+  "domain": "gtmvantage.com",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "Infomate 360 Solutions India Private Limited",
+  "domain": "infomate360.com",
+  "new_pages": [
+   "team"
+  ],
+  "new_signals": {},
+  "still_missing": false,
+  "evidence": {}
+ },
+ {
+  "name": "MorningStar India Private Limited",
+  "domain": "morningstar.in",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "Orbitsys Technologies Private Limited",
+  "domain": "orbitsys.in",
+  "new_pages": [
+   "team",
+   "blog",
+   "careers"
+  ],
+  "new_signals": {
+   "compliance": 3
+  },
+  "still_missing": false,
+  "evidence": {
+   "compliance": [
+    "REQUEST A DEMO An ISO 27001:2022 Certified Company DOWNLOAD BROCHURE Contact 507, Tower-A, Iris Tech Park Sector 48, Sohna Road Gurgaon - Haryana (122001) India  marketing@orbitsys.co.in  +91 85888 41531 Navigation Home About Us Services News Career Contact Us ORBITSYS® Technologies Pvt.",
+    "Read More An ISO 27001:2022 Certified Company DOWNLOAD BROCHURE Contact 507, Tower-A, Iris Tech Park Sector 48, Sohna Road Gurgaon - Haryana (122001) India  marketing@orbitsys.co.in  +91 85888 41531 Navigation Home About Us Services News Career Contact Us ORBITSYS® Technologies Pvt."
+   ]
+  }
+ },
+ {
+  "name": "Rasacode Technologies Private Limited",
+  "domain": "rasacode.in",
+  "new_pages": [
+   "team",
+   "blog",
+   "careers"
+  ],
+  "new_signals": {
+   "compliance": 1,
+   "senior_roles": 1
+  },
+  "still_missing": false,
+  "evidence": {
+   "compliance": [
+    "Read Case Study HEALTHCARE Telemedicine Platform Serving 50,000+ Patients Across 3 Countries A HIPAA-compliant virtual care platform that connects doctors and patients across borders in real time."
+   ],
+   "senior_roles": [
+    "Growth Clear career paths from Junior to Principal Engineer and Management."
+   ]
+  }
+ },
+ {
+  "name": "Swiggy Limited",
+  "domain": "swiggy.com",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "TechRAQ Info Solutions Private Limited",
+  "domain": "techraq.com",
+  "new_pages": [
+   "team",
+   "blog"
+  ],
+  "new_signals": {
+   "qa": 3
+  },
+  "still_missing": false,
+  "evidence": {
+   "qa": [
+    "Our quality engineering services beat traditional testing services because we perform testing throughout your software development lifecycle."
+   ]
+  }
+ },
+ {
+  "name": "ThiriSoft Consultancy Services",
+  "domain": "thirisoft.com",
+  "new_pages": [
+   "team",
+   "blog",
+   "careers"
+  ],
+  "new_signals": {
+   "cicd": 23,
+   "qa": 9,
+   "compliance": 1,
+   "prod_eng": 1
+  },
+  "still_missing": false,
+  "evidence": {
+   "cicd": [
+    "Manual testing Automation (Selenium, Playwright) Performance testing API testing CI/CD integration 🎨 UI/UX Design Design that converts, retains, and delights.",
+    "React Next.js Node.js TypeScript React Native Flutter iOS Android .Net / ASP.NET Core ☁️ Cloud & DevOps Engineering Cloud-native infrastructure, CI/CD automation, and DevSecOps practices that let your team ship faster with confidence and lower costs.",
+    "AWS Azure Kubernetes Terraform 📊 Data Engineering & Analytics Custom analytics dashboards, data pipelines, and BI integrations that turn your raw data into decisions you can act on immediately."
+   ],
+   "qa": [
+    "Manual testing Automation (Selenium, Playwright) Performance testing API testing CI/CD integration 🎨 UI/UX Design Design that converts, retains, and delights.",
+    "04 QA & Security Automated tests, manual reviews, and security audits before anything reaches production.",
+    "💰 India-Based, World-Class Based in Ahmedabad, we offer enterprise-quality engineering at highly competitive rates — giving you the best of both worlds."
+   ],
+   "prod_eng": [
+    "03 DevSecOps & Platform Engineering Security baked in, not bolted on."
+   ]
+  }
+ },
+ {
+  "name": "Vrentin Tech Private Limited",
+  "domain": "muoro.io",
+  "new_pages": [
+   "team",
+   "blog"
+  ],
+  "new_signals": {
+   "qa": 1
+  },
+  "still_missing": false,
+  "evidence": {}
+ },
+ {
+  "name": "Weir Minerals (India) Private Limited",
+  "domain": "global.weir",
+  "new_pages": [
+   "team",
+   "blog",
+   "careers"
+  ],
+  "new_signals": {},
+  "still_missing": false,
+  "evidence": {}
+ },
+ {
+  "name": "Xebia IT Architects India Private Limited",
+  "domain": "xebia.com",
+  "new_pages": [
+   "team"
+  ],
+  "new_signals": {},
+  "still_missing": false,
+  "evidence": {}
+ },
+ {
+  "name": "AB Information Technology Solutions Private Limited",
+  "domain": "sophitoriumsgi.org",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "AVA Software Private Limited",
+  "domain": "avasoft.biz",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "Caparizon Software Private Limited",
+  "domain": "itflux.com",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "DataQ Technology",
+  "domain": "dataqtec.com",
+  "new_pages": [],
+  "new_signals": {},
+  "still_missing": true,
+  "evidence": {}
+ },
+ {
+  "name": "Nextgen Screening Private Limited",
+  "domain": "nextgenscreening.com",
+  "new_pages": [
+   "team"
+  ],
+  "new_signals": {},
+  "still_missing": false,
+  "evidence": {}
+ },
+ {
+  "name": "Promact Infotech Private Limited",
+  "domain": "promactinfo.com",
+  "new_pages": [
+   "blog",
+   "team",
+   "careers"
+  ],
+  "new_signals": {
+   "cicd": 3,
+   "prod_eng": 1
+  },
+  "still_missing": false,
+  "evidence": {
+   "prod_eng": [
+    "Promact helps meet time-to-market demands on time & within budget with digital product engineering and the best software solutions."
+   ]
+  }
+ }
+]

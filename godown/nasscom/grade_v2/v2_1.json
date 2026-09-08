@@ -1,0 +1,1583 @@
+[
+ {
+  "name": "AquilaClouds India Private Limited",
+  "city": "Dehradun",
+  "domain": "aquilaclouds.com",
+  "website": "https://www.aquilaclouds.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 78150,
+   "signals": {
+    "review_gate": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Conduct code reviews to ensure quality, maintainability, and adherence to best practices."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "senior_roles": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "AI & Cloud Cost Management Cloud Billing Automation for MSPs Fragmented visibility across AI and cloud spend No single source of truth across multi and hybrid cloud, Kubernetes, data platforms, and AI workloads."
+   ],
+   "senior_roles": [
+    "Suchit Kaura CEO and Co-Founder Desmond Chan CPO and Co-Founder Angelo Pruscino CTO Puneet Kaura EVP of Sales and Operations Kalpesh Bhandari VP of Engineering Anil Pawar Director of Marketing Join a team that is transforming the future of work."
+   ],
+   "owns_product": [
+    "AI-Powered Cost Optimization: Our platform uses machine learning to predict future cloud costs and recommend proactive measures to avoid overspending."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 60
+ },
+ {
+  "name": "Optimum Infosystem Private Limited",
+  "city": "Chennai",
+  "domain": "theoptimum.net",
+  "website": "https://theoptimum.net/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-12-11",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 45503,
+   "signals": {
+    "private_repo_host": 1,
+    "cicd": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Apply Now Information Technology Senior React Native Engineer Chennai Full-time 9+ Years DevOps tools (GitHub Actions, Fastlane, Azure DevOps), ..."
+    ],
+    "cicd": [
+     "Apply Now Information Technology Senior React Native Engineer Chennai Full-time 9+ Years DevOps tools (GitHub Actions, Fastlane, Azure DevOps), ..."
+    ],
+    "vcs_generic": [
+     "Apply Now Information Technology Senior React Native Engineer Chennai Full-time 9+ Years DevOps tools (GitHub Actions, Fastlane, Azure DevOps), ..."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 5,
+   "owns_product": 5,
+   "enterprise": 23,
+   "sdlc": 6,
+   "DQ_bpo": 2
+  },
+  "site_quotes": {
+   "qa": [
+    "With our expertise in automated testing, we can help you get your products to market faster and with more quality."
+   ],
+   "owns_product": [
+    "With our expertise in automated testing, we can help you get your products to market faster and with more quality."
+   ],
+   "enterprise": [
+    "Banking & Financial Services The global financial services industry is undergoing digital disruption.",
+    "Full Name Company Email Contact Number Company Name Primary Interest Select Industry Banking and Financial Services Insurance Healthcare and Pharmaceuticals Retail and Marketplace Manufacturing Public Sector / Government How did you hear about us?",
+    "We deliver digital services on a variety of technology platforms that enables large-scale business change programmes for clients ranging from Fortune 500 companies to vibrant start-ups.",
+    "Our technology expertise of Application Development, End to End Testing, Digital Customer Experience, Data and DevOps spans across a broad spectrum of industries led by Banking & Finance, Manufacturing, Automotive, Technology, and Hospitality."
+   ],
+   "sdlc": [
+    "Sales and Service Implementation – Drive end-to-end Sales and Service Cloud implementation in an agile delivery model with expertise in configuration of services with both classic and Lightening features and customization of workflows, reports and dashboards as per business specific needs."
+   ],
+   "DQ_bpo": [
+    "TECHNOLOGY TOOLS & TECHNOLOGIES LEADING OUR WAY CASE STUDIES Back Office 24 x7 Support Centre for Global..."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 59
+ },
+ {
+  "name": "LogiQuad Solutions Private Limited",
+  "city": "Pune",
+  "domain": "logiquad.com",
+  "website": "https://logiquad.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "owser Services Cloud Applications Mobility AI/ML Salesforce Case Studies Blog Careers About Us Contact Us Together in your journey ... Our knowledge a"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 32273,
+   "signals": {
+    "review_gate": 1,
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "review_gate": [
+     "Collaborate with team members using Git for version control and code reviews."
+    ],
+    "vcs_generic": [
+     "Collaborate with team members using Git for version control and code reviews.",
+     "Familiarity with Git for version control and collaborative development."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "vcs": 1,
+   "senior_roles": 1,
+   "owns_product": 9,
+   "cicd": 4,
+   "sdlc": 4,
+   "qa": 1,
+   "compliance": 1,
+   "DQ_agency": 2,
+   "DQ_support": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "vcs": [
+    "They also manage tasks via GitHub."
+   ],
+   "senior_roles": [
+    "Nate DAmico VP of Engineering, Meta Consumer LogiQuad is one of the best things that I have found!"
+   ],
+   "owns_product": [
+    "Salesforce Consulting Services Helping businesses across every phase, from consultation to implementation and migration to integration How We Build Your AI SaaS Product Discovery And Validation We start with a clear strategy that is unique to your organization.",
+    "Full-Scale Development And Maintenance Once you are satisfied with the MVP, we will build your full-scale AI SaaS product based on your requirements.",
+    "Next.js for Your SaaS Frontend — What We Recommend and Why View More 14 May 2026 By: Ritika Dhiman How to Build an AI SaaS Product from Scratch View More View All Your Questions Answered What is the importance of integrating DevOps into our development process?",
+    "How much does building an AI SaaS product cost?"
+   ],
+   "cicd": [
+    "Technology ToolKit Continuous Integration Code Management Build Microservice Continuous Testing Security Testing Configuration Management Cloud Platforms Monitoring Our Engagement Models We design our services based on your core business needs.",
+    "When most people think of job interviews, they picture a Find Our More Simplifying Kubernetes Management: A Review of Lens IDE Managing Kubernetes with the CLI (kubectl) can feel like operating a complex machine with minimal visibility.",
+    "In light of the meteoric rise of Find Our More Optimizing Efficiency in Healthcare Software Development Setting up a CI/CD Pipeline Software development in the ever-changing healthcare industry significantly impacts patient care, simplifies operations, and increases overall efficiency.",
+    "Indeed, Find Our More Accelerating innovation in automotive software: CI/CD best practices Amidst a massive disruption in the automotive industry, the role of software in driving innovation is increasingly vital."
+   ],
+   "sdlc": [
+    "Technology ToolKit Continuous Integration Code Management Build Microservice Continuous Testing Security Testing Configuration Management Cloud Platforms Monitoring Our Engagement Models We design our services based on your core business needs.",
+    "Choose an engagement model that best suits your vision and goals.",
+    "It depends on the kind of software you wish to build (MVP, full-scale, mobile app, enterprise app), your project’s scope, its complexity, and the engagement model you choose.",
+    "Our team brings together significant years of experience and diverse expertise in crafting digital strategies & solutions for sophisticated IT implementation leveraging latest technological advancements in a dynamic tech landscape, following agile methodology."
+   ],
+   "qa": [
+    "Dedicated Team Hire a competent team of AI engineers, SaaS developers, designers, QA engineers, and project managers from LogiQuad."
+   ],
+   "compliance": [
+    "All our services comply with global standards like GDPR, HIPAA, SOC 2, ISO, and more."
+   ],
+   "DQ_agency": [
+    "View Details & Apply ⌄ Digital Marketing Executive Remote We are looking for a proactive and detail-oriented SEO Executive/Intern to join our team.",
+    "In this role, you will be responsible for executing SEO strategies, optimizing content, and helping improve search engine rankings across various digital platforms."
+   ],
+   "DQ_support": [
+    "It supports all major AWS services."
+   ],
+   "enterprise": [
+    "Having worked with disruptive startups to Fortune 500 enterprises over the past 17 years, our track record flaunts solving critical business struggles and the proof is in the portfolio .",
+    "In light of the meteoric rise of Find Our More Optimizing Efficiency in Healthcare Software Development Setting up a CI/CD Pipeline Software development in the ever-changing healthcare industry significantly impacts patient care, simplifies operations, and increases overall efficiency."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 58
+ },
+ {
+  "name": "Absolin Software Solutions LLP",
+  "city": "Visakhapatnam",
+  "domain": "absolinsoft.com",
+  "website": "https://absolinsoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "igence - Absolin Discover Absolin Discover Absolin Partners Case Studies Blog Careers Industries Retail FMCG Manufacturing Healthcare Education Logist"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 87726,
+   "signals": {
+    "private_repo_host": 1,
+    "testing": 1
+   },
+   "quotes": {
+    "private_repo_host": [
+     "Experience with Bug Tracking Tools (JIRA, Azure DevOps, Bugzilla, etc.)."
+    ],
+    "testing": [
+     "Perform Regression Testing, Smoke Testing, Sanity Testing, Integration Testing, and User Acceptance Testing (UAT)."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "DQ_agency": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our process includes Strategy, Design, Development, Support & Maintenance."
+   ],
+   "DQ_agency": [
+    "Aditya Chirravuri Business Head/ Digital Marketing Exploring New Frontiers I have been working as a Sales Lead for 3 Years now."
+   ],
+   "cicd": [
+    "Track Vendor Performance Evaluate vendor performance based on criteria such as delivery times, quality of goods, and pricing consistency, ensuring that only the best suppliers remain in the pipeline."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 58
+ },
+ {
+  "name": "Planet Web Solutions Pvt Ltd",
+  "city": "Jaipur",
+  "domain": "planetwebsolution.com",
+  "website": "https://www.planetwebsolution.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Blogs Services Digital Marketing Amazon Account Management web development Ecommerce Development Magento Development Magento Support and Maintenance"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 10663,
+   "signals": {
+    "review_gate": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Comfortable with Git / Github (commits, branches, pull requests)."
+    ],
+    "vcs_generic": [
+     "Comfortable with Git / Github (commits, branches, pull requests)."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 5,
+   "DQ_template": 2,
+   "owns_product": 2,
+   "enterprise": 3,
+   "qa": 2,
+   "sdlc": 1,
+   "pr_practice": 1,
+   "vcs": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "SEE MORE Digital Marketing Package Elevate your online presence with our comprehensive Digital Marketing Services Package.",
+    "Content Marketing Guest Blogging, Website Content Creation, Guest Posting Services, Backlink Strategy, Content Strategy.",
+    "Read More Content Marketing Guest Blogging, Website Content Creation, Guest Posting Services, Backlink Strategy, Content Strategy.",
+    "SEO, SEM, Web Analytics experience is a plus."
+   ],
+   "DQ_template": [
+    "SEE MORE Ready To Use Custom Solutions We have built expertise across multiple business verticals, and our ready-made custom products and solutions are successfully driving value for our clients' businesses.",
+    "Coming Soon E-IPO Solutions Our ready-made IPO solutions are designed to simplify the public offering process, empowering businesses to effortlessly navigate complexities and streamline their IPO journey."
+   ],
+   "owns_product": [
+    "The end results of the launch have also been favorable, as the number of our platform's visitors and engagement increased."
+   ],
+   "enterprise": [
+    "Nurturing well-being through compassionate healthcare solutions View Case Study --> UK film academy Film.",
+    "Nurturing well-being through compassionate healthcare solutions View Case Study E-Commerce Experience shopping.",
+    "Nurturing well-being through compassionate healthcare solutions View Case Study Clutch reviews We have years of experience working with diverse business and industry types."
+   ],
+   "qa": [
+    "Work with the QA and Customer Support teams to triage and fix bugs with rapid turnaround.",
+    "A dynamic team consisting of forward-thinking and exceptionally dependable software developers, QA engineers, designers and project managers collaborating on thrilling and innovative projects."
+   ],
+   "sdlc": [
+    "Knowledge of Agile development methodology."
+   ],
+   "pr_practice": [
+    "Comfortable with Git / Github (commits, branches, pull requests)."
+   ],
+   "vcs": [
+    "Comfortable with Git / Github (commits, branches, pull requests)."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 54
+ },
+ {
+  "name": "Dipole Tech Innovations (OPC) Private Limited",
+  "city": "Mohali",
+  "domain": "dipoletechi.com",
+  "website": "https://dipoletechi.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "DipoleTechi | Web Development & Digital Marketing Company Toggle Navigation Home About Us Our Team Our P"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 83000,
+   "signals": {
+    "review_gate": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Participate in code reviews and contribute to continuous improvement."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 4,
+   "owns_product": 2,
+   "sdlc": 4
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "We provide web development, mobile apps, MVP development, SEO, SMO, SEM, testing, and other IT services to help businesses grow online.",
+    "Explore Software Solutions Our Core Solutions IT Solutions That Power Your Business DipoleTech helps businesses grow with smart technology solutions, including web development, software, mobile apps, digital marketing, and AI.",
+    "Digital Marketing Grow your brand and reach the right audience with data-driven digital marketing strategies.",
+    "If you need to extend e-commerce service, software for a commercial platform like a school, college, or library with a well-designed website & marketing through SEO, google ads, or social media platforms."
+   ],
+   "owns_product": [
+    "Launch Your Product Custom Web App Solutions Build secure and scalable web applications tailored to support your business growth.",
+    "Our Culture We follow transparent work standards for all our clients to retain their trust in our platform."
+   ],
+   "sdlc": [
+    "At the same time, avoiding disputes, arguments, misbehaving, or indiscipline due to following formal criteria along with agile & scrum methodology makes us acceptable to serve in the IT niche.",
+    "Knowing our process for developing an application can encourage an owner to approach us for further needs.",
+    "Though a Software Development Life Cycle consists of different models like Waterfall, V-shaped, Agile & Scrum, etc which a developer chooses as per the compatibility of a project.",
+    "How We Work 01 A Deep Research​ Every project has different needs, plans & ways to follow."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 52
+ },
+ {
+  "name": "TechBrein Solutions Private Limited",
+  "city": "Kozhikode",
+  "domain": "techbrein.com",
+  "website": "https://techbrein.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ransform Your Business Your Trusted Cloud Partner VIEW MORE CASE STUDY Expert guidance and innovative solutions to help your business thrive with clou"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 31592,
+   "signals": {
+    "review_gate": 1,
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "review_gate": [
+     "Write clean, maintainable code and participate in code reviews."
+    ],
+    "vcs_generic": [
+     "Familiarity with version control tools like Git.",
+     "A portfolio, GitHub profile, or personal/college projects demonstrating app development experience."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1,
+   "DQ_agency": 4,
+   "sdlc": 1,
+   "cicd": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "We also provide regular feedback and coaching to our employees to help them improve and grow in their role."
+   ],
+   "DQ_agency": [
+    "Read More Importance of SEO for Small Businesses Search Engine Optimization (SEO) helps small businesses improve online visibility, attract the right audience, generate leads, and build long-term brand credibility.",
+    "From on-page and technical SEO to local search optimization, discover how effective SEO strategies can drive sustainable business growth and improve search engine rankings.",
+    "30% According to the article prepared by Shopping Cart Elite, if a website has gone through downtime, the SEO of the page will affect up to 30%.",
+    "Our Blog Stay Updated With Our Blogs View All 15 Things to Check When Choosing Your Web Host Read More Importance of SEO for Small Businesses Read More Top 5 Cloud IT Trends Every Business Must Know Read More Interested?"
+   ],
+   "sdlc": [
+    "The accessibility & scalability advantages of the cloud empowers businesses to be more agile, flexible, and efficient, ultimately speeding up the growth process."
+   ],
+   "cicd": [
+    "Previously, we faced frequent issues—OTP emails weren’t getting delivered, spam was overwhelming, and our team struggled with a clunky interface.",
+    "52% According to a survey by ManageEngine, 52% of IT teams feel overwhelmed and understaffed which can lead to a lack of resources and expertise to effectively manage and monitor servers 24x7."
+   ],
+   "DQ_support": [
+    "Our Managed Linux Services TechBrein’s managed Linux services include 24×7 monitoring to identify issues before they become critical, pro-active server management to prevent hardware or software failures, and eliminate downtime."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 52
+ },
+ {
+  "name": "Perigeon Software Private Limited",
+  "city": "Ahmedabad",
+  "domain": "perigeon.com",
+  "website": "https://perigeon.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "se Application Odoo Mobile Apps RPA Devops --> --> --> Blog Portfolio Odoo Apps Videos --> --> --> Accelerate Your Business Growth Using Salesforce Sa"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 101653,
+   "signals": {
+    "review_gate": 1,
+    "cicd": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Participate in application architecture, design discussions, and code reviews."
+    ],
+    "cicd": [
+     "Understanding of CI/CD pipelines and DevOps practice Kafka, Redis Cache, Azure, Microservices."
+    ],
+    "vcs_generic": [
+     "Experience with source control tools such as Git."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_bpo": 6,
+   "enterprise": 7,
+   "sdlc": 3,
+   "senior_roles": 1,
+   "DQ_template": 1,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "Explore More → PeriScan Scan business cards instantly with AI-powered OCR and sync contacts straight to Salesforce or Zoho CRM — no manual data entry.",
+    "Improved Order Accuracy Automate data entry to reduce errors and ensure the correct product is shipped."
+   ],
+   "enterprise": [
+    "Health Cloud Deliver personalized patient care with secure, connected healthcare workflows.",
+    "Healthcare Improve patient care with secure, streamlined processes.",
+    "VP Digital, Healthcare Firm",
+    "Perigeon Software delivers Salesforce solutions across 15+ industries, including Manufacturing & Automotive, Healthcare, Life Sciences, Retail & E-Commerce, Construction & Real Estate, Education & Nonprofits, Software & Hi-Tech, Telecom & Media, and service-based businesses."
+   ],
+   "sdlc": [
+    "At Perigeon, collaboration isn’t just a buzzword, it’s how we work every day.",
+    "Transparency Honesty and openness are at the heart of how we work."
+   ],
+   "senior_roles": [
+    "Our certified team includes experienced Salesforce Administrators, Developers, Consultants, Solution Architects, and Technical Architects with deep expertise across the entire Salesforce ecosystem."
+   ],
+   "DQ_template": [
+    "Customization We build tailored journey templates, segmentation logic, scoring models, and automated workflows designed to match your unique marketing processes and business requirements."
+   ],
+   "DQ_training": [
+    "Contact Us Seamless Order Processing Manage the entire order journey from placement to fulfillment with ease."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 51
+ },
+ {
+  "name": "Ayasya Digital Solutions LLP",
+  "city": "Delhi",
+  "domain": "ayasya.com",
+  "website": "https://www.ayasya.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "technologies for mobile friendly and SEO friendly website. MOBILE APP DEVELOPMENT We offer to your business a profesional, lightweight and all device"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 9325,
+   "signals": {
+    "review_gate": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "review_gate": [
+     "Participate in code reviews and maintain coding standards."
+    ],
+    "vcs_generic": [
+     "Familiarity with Git/version control tools."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 17,
+   "cicd": 6,
+   "DQ_agency": 16,
+   "senior_roles": 2,
+   "enterprise": 10,
+   "prod_eng": 4,
+   "compliance": 1,
+   "vcs": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "A Jira-class delivery platform with self-hosted AI in every screen — turn SOW documents into a sprint-ready backlog in minutes.",
+    "Private Self-Hosted AI Documents → Sprint Backlog One Platform, Not Four Explore Karyastra Book a Demo $0 AI Cost Per Month 16+ In-Context AI Actions Minutes Planning Time 3–4 Tools Replaced New Product The Intelligent HR Ecosystem Seamless lifecycle management, powered by intelligent automation.",
+    "Learn more Resource Augmentation Dedicated offshore engineering teams, staff augmentation, and flexible engagement models to scale your delivery capacity.",
+    "Sprint-ready, no ramp-up needed."
+   ],
+   "cicd": [
+    "Learn more Digital Marketing & SEO Data-driven SEO, paid lead generation, and marketing automation strategies that build a predictable pipeline of qualified business opportunities.",
+    "Private AI project management is a delivery methodology where an artificial intelligence layer — large language models, embedding engines, and automation pipelines — runs entirely on infrastructure you control, rather than sending your project data to third-party cloud APIs like OpenAI or Anthropic.",
+    "The risks are concrete: Client IP exposure: SOW documents, architecture diagrams, and sprint backlogs describing unreleased features may be ingested by a commercial model's training pipeline.",
+    "Ollama provides a Docker-compatible wrapper that serves these models via a local HTTP API indistinguishable from OpenAI's interface."
+   ],
+   "DQ_agency": [
+    "Learn more Digital Marketing & SEO Data-driven SEO, paid lead generation, and marketing automation strategies that build a predictable pipeline of qualified business opportunities.",
+    "Enterprise Seo 8 min read Using Generative AI and Geo-Targeting for Enterprise SEO The generative AI speeds up the boring research and writing parts while your brand reputation stays locked down.",
+    "social media marketing 8 min read Boost Your Brand with Expert Social Media Optimization Services Social media isn't optional anymore.",
+    "Digital Marketing 10 min read What Are Backlinks in SEO?"
+   ],
+   "senior_roles": [
+    "” VE VP Engineering Fortune 500 Bank Banking “ The Ayasya team delivered our Jahia DXP implementation on time and under budget.",
+    "” EM Engineering Manager Top 10 IT Services Firm Technology “ Ayasya redesigned our citizen-facing portal on a tight government timeline."
+   ],
+   "enterprise": [
+    "” VE VP Engineering Fortune 500 Bank Banking “ The Ayasya team delivered our Jahia DXP implementation on time and under budget.",
+    "” Ho Head of Digital Global Insurance Group Insurance “ We've worked with many digital agencies, but Ayasya stands out for their technical rigour and honest communication.",
+    "See Open Roles Why Join Us More Than a Job — A Platform to Excel Work on Enterprise Platforms Build systems used by Fortune 500 companies across global markets.",
+    "2017 Milestone 17 First Enterprise Win Delivered our first Fortune 500 Adobe Experience Manager engagement, establishing a reputation for quality and precision."
+   ],
+   "prod_eng": [
+    "Our Journey A Decade of Engineering Excellence From a bold idea in 2016 to a globally trusted digital engineering partner.",
+    "2016 Founded 16 Where It All Began Ayasya Digital Solution founded in Delhi, India — with a sharp focus on enterprise CMS architecture and digital engineering excellence.",
+    "2016 Founded Where It All Began Ayasya Digital Solution founded in Delhi, India — with a sharp focus on enterprise CMS architecture and digital engineering excellence.",
+    "What We Stand For Our Core Values Engineering Excellence We hold ourselves to the highest standards of technical quality, architecture rigour, and delivery precision."
+   ],
+   "compliance": [
+    "Compliance violations: GDPR, HIPAA, SOC 2, and ISO 27001 all impose strict rules on where personal data and sensitive project information can be processed."
+   ],
+   "vcs": [
+    "Commit message linking: GitHub and GitLab integrations allow the AI to match incoming commits to open tasks and auto-update status — without any PR metadata leaving your infrastructure.",
+    "Git integration without data egress: GitHub/GitLab webhooks should be processed by the self-hosted platform, not relayed through a third-party integration middleware."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 50
+ },
+ {
+  "name": "Incredible Visibility Solutions Private Limited",
+  "city": "Kollam",
+  "domain": "incrediblevisibility.com",
+  "website": "https://www.incrediblevisibility.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "eting Marketing Videos CMS Reputation Management E-Commerce Portfolio About Us Careers Contact Us AS SEEN IN A master at building overnight talent uni"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 10751,
+   "signals": {
+    "private_repo_host": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "private_repo_host": [
+     "HTML5 and CSS JavaScript ES 6 version or higher Updated JavaScript frameworks like Jquery, Node.js, Angular, Vue or React Visual Studio 2013 or higher Version control with TFS 2013 or higher ‍ Apply Now apply now Full Name Email Address Phone Upload CV Thank you!"
+    ],
+    "vcs_generic": [
+     "HTML5 and CSS JavaScript ES 6 version or higher Updated JavaScript frameworks like Jquery, Node.js, Angular, Vue or React Visual Studio 2013 or higher Version control with TFS 2013 or higher ‍ Apply Now apply now Full Name Email Address Phone Upload CV Thank you!"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "DQ_agency": 5,
+   "qa": 1,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Schedule a call Our Process Promote your online presence and engage your audience like never before with our professional Social Media Management services at IVS."
+   ],
+   "DQ_agency": [
+    "As one of the best social media marketing agencies, we specialize in crafting compelling digital narratives and strategic content that captivates and converts.",
+    "Learn more Pay Per Click Ads We help to drive traffic with expert PPC management.",
+    "Learn more Content Marketing Boost your reach with strategic content creation.",
+    "Learn more Search Engine Optimization Improve visibility with advanced SEO techniques."
+   ],
+   "qa": [
+    "QA Engineers Ensuring your software excels in every aspect, our QA engineers employ rigorous testing methodologies to identify and rectify any issues, guaranteeing top-tier product quality."
+   ],
+   "cicd": [
+    "DevOps Engineers Enhancing software lifecycle management, our DevOps engineers implement automated processes and continuous integration techniques to boost productivity and operational efficiency.",
+    "The frequency of posts depends on your specific goals and the nature of your industry, but we strive to maintain a balanced and effective posting schedule that keeps your audience engaged without overwhelming them."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 50
+ },
+ {
+  "name": "Opcito Technologies Private Limited",
+  "city": "Pune",
+  "domain": "opcito.com",
+  "website": "https://www.opcito.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "DevOps, Cloud Automation, and Full-Stack Engineering Blogs Case Studies What we do By Engagement Models Startup Labs Outsource Product Development Bu"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 44674,
+   "signals": {
+    "cicd": 7
+   },
+   "quotes": {
+    "cicd": [
+     "Opcito Technologies Skip to main content X Our Accelerators Accelerated Innovation Continuously Delivered At Opcito Technologies, our motto is Continuous Innovation and Continuous Delivery.",
+     "Opcito Technologies Skip to main content X Our Accelerators Accelerated Innovation Continuously Delivered At Opcito Technologies, our motto is Continuous Innovation and Continuous Delivery.",
+     "Opcito Technologies Skip to main content X Our Accelerators Accelerated Innovation Continuously Delivered At Opcito Technologies, our motto is Continuous Innovation and Continuous Delivery."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 12,
+   "owns_product": 10,
+   "sdlc": 11,
+   "prod_eng": 9,
+   "compliance": 1,
+   "senior_roles": 4,
+   "enterprise": 3,
+   "qa": 2,
+   "pr_practice": 5
+  },
+  "site_quotes": {
+   "cicd": [
+    "Agile DevOps, Cloud Automation, and Full-Stack Engineering Skip to main content X Our Accelerators Accelerated Innovation Continuously Delivered At Opcito Technologies, our motto is Continuous Innovation and Continuous Delivery.",
+    "Cloud, Containerization, DevOps, and CI/CD are our forte.",
+    "40% to 60% cost saving with a complete roadmap to adopt cloud-native services and container platforms like Kubernetes.",
+    "Opcito Technologies Skip to main content X Our Accelerators Accelerated Innovation Continuously Delivered At Opcito Technologies, our motto is Continuous Innovation and Continuous Delivery."
+   ],
+   "owns_product": [
+    "Agile DevOps, Cloud Automation, and Full-Stack Engineering Skip to main content X Our Accelerators Accelerated Innovation Continuously Delivered At Opcito Technologies, our motto is Continuous Innovation and Continuous Delivery.",
+    "Our focus on cutting-edge research and development has led to a valuable portfolio of accelerators and tools that accelerate the Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and the use of artificial intelligence (AI).",
+    "Opcito Technologies Skip to main content X Our Accelerators Accelerated Innovation Continuously Delivered At Opcito Technologies, our motto is Continuous Innovation and Continuous Delivery."
+   ],
+   "sdlc": [
+    "Agile DevOps, Cloud Automation, and Full-Stack Engineering Skip to main content X Our Accelerators Accelerated Innovation Continuously Delivered At Opcito Technologies, our motto is Continuous Innovation and Continuous Delivery.",
+    "Our focus on cutting-edge research and development has led to a valuable portfolio of accelerators and tools that accelerate the Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and the use of artificial intelligence (AI).",
+    "With agile software development practices, the SDLC is quicker and more efficient than ever.",
+    "Customer-Centric Engagement Models With our customer-centric engagement models, we can innovate faster, more scalable, and highly available software applications with reduced time to market."
+   ],
+   "prod_eng": [
+    "Your journey for cutting-edge product engineering and digital transformation starts here.",
+    "We are a leader in the automation-driven full-stack product engineering services space with a development center in Pune, India, and an office in Milpitas, CA.",
+    "With our team of dedicated professionals, we are pledged to deliver full-stack product engineering excellence globally.",
+    "Sitemap Software Product Engineering"
+   ],
+   "compliance": [
+    "Achieve industry-wide compliances Become HIPPA, SOC2, PCI, and CIS in a guaranteed timeframe with our certified team of engineering experts."
+   ],
+   "senior_roles": [
+    "--> VP Engineering Mobile Internet Technology Company \"Compliance-assured delivery!\" Since we are in healthcare, there are certain international compliances that we expect our partners to follow.",
+    "--> SVP Engineering Personal Health Research and Management Firm Explore Our Insights Stay up-to-date with our latest insights and success stories.",
+    "Pune, Maharashtra More Details Technical Architect Full Time",
+    "PLATFORM & TECHNOLOGIES Software Product Engineering QA Automation / Automation Engineering Cloud DevOps & SRE Our Partners & ecosystem --> Take the next big step in your career, explore job opportunities at Opcito!"
+   ],
+   "enterprise": [
+    "--> VP Engineering Mobile Internet Technology Company \"Compliance-assured delivery!\" Since we are in healthcare, there are certain international compliances that we expect our partners to follow.",
+    "Comprehensive healthcare benefits to cover your basic needs You complete us!",
+    "This keeps you motivated to give your best every day.\" Chetan Kolhe Senior DevOps Engineer CURRENT OPEN POSITIONS BFSI Software Services Sales Executive Full Time"
+   ],
+   "qa": [
+    "However, at the same time, it has created a need for efficient full-stack product engineering and reliable QA and test engineering practices to ensure new product development is world-class, be it a web app development or a mobile app.",
+    "PLATFORM & TECHNOLOGIES Software Product Engineering QA Automation / Automation Engineering Cloud DevOps & SRE Our Partners & ecosystem --> Take the next big step in your career, explore job opportunities at Opcito!"
+   ],
+   "pr_practice": [
+    "There are multiple components such as artifacts repository, source code repository, centralized and distributed version control systems, databases in a DevOps configuration and experts with right set of tools are important to manage it efficiently.",
+    "Our expertise in version controlling, building robust & stable systems, and automatically managing configuration updates reduces overall downtime and helps create robust DevOps processes.",
+    "OPCITO’S DEVOPS CONFIGURATION MANAGEMENT GUARANTEES Version Control We can add visibility to software modifications to stay on top of the version changes for better efficiency and eliminate rework with configuration management teams.",
+    "Reduced Downtime and Faster Recovery We help you minimize downtime with efficient configuration management, helping in managing & minimizing unexpected changes by using code review techniques and version control."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 43
+ },
+ {
+  "name": "Salt Web Technologies Private Limited",
+  "city": "Pune",
+  "domain": "salttechno.com",
+  "website": "https://www.salttechno.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Software Development Company | Web Apps, UI/UX Design, Data Analytics Skip to content +1 ("
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 11577,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 42,
+   "qa": 23,
+   "cicd": 16,
+   "owns_product": 18,
+   "sdlc": 26,
+   "compliance": 8,
+   "enterprise": 13,
+   "vcs": 1,
+   "senior_roles": 11,
+   "pr_practice": 6,
+   "DQ_agency": 2
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Engineer Product Engineering Services Custom software development for new products and platforms.",
+    "Domain-Driven Design Microservices Architecture CI/CD & Test Automation Explore Engineer Modernize Cloud Migration & Platform Engineering Application modernization services to upgrade legacy systems.",
+    "Cloud Migration Services Application Modernization Platform Engineering Explore Modernize Intelligence Data Engineering & AI Development Data platform engineering and AI solutions.",
+    "Data Platform Engineering MLOps & ML Engineering AI Copilot Development Explore Intelligence Our Approach The Salt Way We combine small, high-performing teams with a disciplined delivery framework to ensure consistent results."
+   ],
+   "qa": [
+    "Domain-driven design, microservices architecture, and test automation built-in.",
+    "Domain-Driven Design Microservices Architecture CI/CD & Test Automation Explore Engineer Modernize Cloud Migration & Platform Engineering Application modernization services to upgrade legacy systems.",
+    "Full accountability for delivery with built-in QA, architecture reviews, and the SPARK™ framework.",
+    "Unlike traditional outsourcing where you get individual developers who work under your management, Salt provides cross-functional Pods — complete teams with engineers, QA, and a tech lead who own outcomes, not just tasks."
+   ],
+   "cicd": [
+    "Domain-Driven Design Microservices Architecture CI/CD & Test Automation Explore Engineer Modernize Cloud Migration & Platform Engineering Application modernization services to upgrade legacy systems.",
+    "Build analytics pipelines, MLOps infrastructure, and AI copilots for your products.",
+    "Dedicated Pod Teams SPARK™ Framework Outcome-Based Delivery Explore this solution Custom Software Development Build scalable products and platforms with modern architecture, CI/CD, and quality built-in.",
+    "We work with all major cloud providers (AWS, Azure, GCP), modern DevOps practices (Docker, Kubernetes, Terraform), and AI/ML technologies."
+   ],
+   "owns_product": [
+    "Build analytics pipelines, MLOps infrastructure, and AI copilots for your products.",
+    "HIPAA compliant Learn more SaaS & Technology Scale your product fast without compromising on code quality.",
+    "50+ SaaS products built Learn more Financial Services & Fintech Build secure, compliant financial software.",
+    "A Pod is a small, dedicated team (typically 3-8 people) that works exclusively on your product."
+   ],
+   "sdlc": [
+    "40% Faster time-to-market 60% Fewer production bugs From initial scoping through continuous improvement, SPARK™ brings discipline to agile software development.",
+    "Our flagship engagement model combines cross-functional teams with the SPARK™ framework for predictable, quality-driven results.",
+    "” SM Sonya Misquitta Founder , Studio Jigsaw 14+ Years 800+ Projects 95% Retention Engagement Models Flexible Ways to Work Together Whether you need a quick assessment, a pilot project, or a long-term partnership — we have an engagement model that fits your needs.",
+    "Schedule a Free Consultation Solutions by Stage Engineering Solutions for Every Stage of Growth Whether you're a startup shipping your first product or an enterprise scaling globally — we have the right team structure and engagement model for you."
+   ],
+   "compliance": [
+    "Healthcare & Life Sciences HIPAA-compliant digital health solutions.",
+    "HIPAA compliant Learn more SaaS & Technology Scale your product fast without compromising on code quality.",
+    "PCI-DSS & SOC2 ready Learn more E-commerce & Retail Platforms that convert and scale.",
+    "For regulated industries, we're experienced with HIPAA, SOC2, and PCI-DSS compliance requirements."
+   ],
+   "enterprise": [
+    "Healthcare & Life Sciences HIPAA-compliant digital health solutions.",
+    "Patient portals, telehealth platforms, and healthcare data systems built right.",
+    "For regulated industries, we're experienced with HIPAA, SOC2, and PCI-DSS compliance requirements.",
+    "Enterprise Systems Modernize legacy applications for Fortune 500 clients."
+   ],
+   "vcs": [
+    "Latest Articles View all Artificial Intelligence Jan 20, 2026 How AI Copilots Are Changing Software Development in 2026 Learn how AI copilots like GitHub Copilot actually impact developer productivity, code quality, and team structure."
+   ],
+   "senior_roles": [
+    "Unlike traditional outsourcing where you get individual developers who work under your management, Salt provides cross-functional Pods — complete teams with engineers, QA, and a tech lead who own outcomes, not just tasks.",
+    "Each Pod includes engineers, a QA specialist, and a tech lead/architect.",
+    "” TL Tech Lead Platform Team Glassdoor Review “ Remote-friendly culture that actually works.",
+    "Key Activities Stakeholder interviews User persona development Feature prioritization Technical feasibility analysis Deliverables Product brief, feature roadmap, technical architecture proposal Phase 02 Design & Architecture ( 2-3 weeks ) We design the user experience and technical architecture in parallel."
+   ],
+   "pr_practice": [
+    "Every Pod includes dedicated QA, mandatory code reviews, and automated testing.",
+    "Key Activities Sprint planning & refinement Feature development Code review & pair programming Continuous integration Deliverables Working features every sprint, progress demos, velocity metrics Phase 05 Quality Assurance ( Continuous ) Quality is built in, not bolted on.",
+    "Code Review and Pair Programming Every code change is reviewed before merging.",
+    "AI-Native Engineering: We use AI tools throughout our development process—code generation with tools like Cursor and Copilot, automated code reviews, test generation, and documentation."
+   ],
+   "DQ_agency": [
+    "I spent nights learning SEO, optimizing the website, and reaching out to potential clients.",
+    "Though we remained a tight-knit team, we became unbeatable for quality, speed, security, and SEO."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 30
+ },
+ {
+  "name": "Navigators Software Pvt Ltd",
+  "city": "Kolkata",
+  "domain": "navsoft.in",
+  "website": "https://www.thenavsoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 73472,
+   "signals": {
+    "cicd": 9,
+    "vcs_generic": 8
+   },
+   "quotes": {
+    "cicd": [
+     "User and access management for Linux, version control systems and other tools Install, setup and manage in-house version control system - Setting up continuous integration using Jenkins and other tools Skillsets Required.",
+     "Expertise with AWS, Linux, NGINX, GIT, Microservices, Performance optimization application security, data security, Alerting & monitoring tools, Ansible, Linux scripting, Jenkins.",
+     "User and access management for Linux, version control systems and other tools Install, setup and manage in-house version control system - Setting up continuous integration using Jenkins and other tools Skillsets Required."
+    ],
+    "vcs_generic": [
+     "User and access management for Linux, version control systems and other tools Install, setup and manage in-house version control system - Setting up continuous integration using Jenkins and other tools Skillsets Required.",
+     "Expertise with AWS, Linux, NGINX, GIT, Microservices, Performance optimization application security, data security, Alerting & monitoring tools, Ansible, Linux scripting, Jenkins.",
+     "User and access management for Linux, version control systems and other tools Install, setup and manage in-house version control system - Setting up continuous integration using Jenkins and other tools Skillsets Required."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 21,
+   "DQ_support": 5,
+   "enterprise": 11,
+   "sdlc": 13,
+   "pr_practice": 2,
+   "cicd": 5,
+   "vcs": 2,
+   "owns_product": 32,
+   "senior_roles": 1,
+   "qa": 2,
+   "DQ_training": 1,
+   "DQ_agency": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Application Development Business Automation Product Engineering UI / UX Design Outsourcing & Dedicated Teams Artificial Intelligence Put AI to work on the decisions that move your numbers.",
+    "Contact Us Transform Your Vision to Reality With Navsoft’s Product Engineering Services Turning a brilliant idea into a market-dominating product requires more than just creativity.",
+    "Our product engineering services provide you with that vital edge.",
+    "Areas We Focus on to Meet Your Dynamic Needs As a leading product engineering services company, we channel our passion and expertise into three core focus areas, each designed to address critical challenges."
+   ],
+   "DQ_support": [
+    "AI Development Services Agentic AI AI in ERP CCTV Analytics Data Warehousing E-commerce Sell everywhere without breaking anything.",
+    "View All 99.99% Shop Floor Safety For Tema India Tema India, a preeminent Process Equipment Company, operates a large-scale factory with an extensive network of over 100 CCTV cameras.",
+    "However, actively monitoring all those CCTVs at once was a challenge.",
+    "We integrated AI and Computer Vision into the existing CCTV infrastructure to enable proactive surveillance with instant WhatsApp alerts to floor managers when any anomaly is detected."
+   ],
+   "enterprise": [
+    "We are trusted by leading Fortune 500 companies across 33 countries trust us for delivering rapid growth and lasting value over the past two decades.",
+    "Revenue Growth Cost Reduction Confident Scaling Smarter Decisions What We Bring To Your Business We are trusted by leading Fortune 500 companies across 33 countries trust us for delivering rapid growth and lasting value over the past two decades.",
+    "View Case Study 50% Improvement in Policy Data Processing Performance for CGI CGI, a renowned motor and home insurance company, sought to modernize its customer management and policy handling processes.",
+    "Insurance Migrate to the cloud and unlock scalability, security, and cost-efficiency for your business operations."
+   ],
+   "sdlc": [
+    "Working experience in scrum meeting.",
+    "Project Management Team Handling Client communication PMP Jira MS Project SDLC Scrum Meeting Apply Now 1 Quality Assurance Manager Exp - 2 years and above",
+    "Our agile methodologies and collaborative approach speed up the development process.",
+    "We focus on user-centric design, agile methodologies, and cutting-edge technologies to create products that delight customers."
+   ],
+   "pr_practice": [
+    "User and access management for Linux, version control systems and other tools Install, setup and manage in-house version control system - Setting up continuous integration using Jenkins and other tools Skillsets Required."
+   ],
+   "cicd": [
+    "User and access management for Linux, version control systems and other tools Install, setup and manage in-house version control system - Setting up continuous integration using Jenkins and other tools Skillsets Required.",
+    "Expertise with AWS, Linux, NGINX, GIT, Microservices, Performance optimization application security, data security, Alerting & monitoring tools, Ansible, Linux scripting, Jenkins.",
+    "We leverage DevOps principles, automation, and continuous delivery practices to accelerate your time to market."
+   ],
+   "vcs": [
+    "Expertise with AWS, Linux, NGINX, GIT, Microservices, Performance optimization application security, data security, Alerting & monitoring tools, Ansible, Linux scripting, Jenkins."
+   ],
+   "owns_product": [
+    "Our product engineering services provide you with that vital edge.",
+    "Optimize your product development budget with our efficient processes and experienced team.",
+    "Enhanced Product Quality & Reliability Ensure your product meets the highest standards of quality and reliability.",
+    "Our product engineering services provide you with the end-to-end support needed."
+   ],
+   "senior_roles": [
+    "Here are some compelling reasons why we’sre your best choice: End-to-End Expertise We’sre more than coders; we’sre product architects."
+   ],
+   "qa": [
+    "3 Development Our developers and QA engineers work in agile, cross-functional teams to bring your product to life.",
+    "These agents can take a bug report, attempt to reproduce the issue, analyze the relevant code, suggest a fix, write the unit tests for that fix, and submit it for review by a human developer."
+   ],
+   "DQ_training": [
+    "It's not about replacement; it's about enhancement and synergy!"
+   ],
+   "DQ_agency": [
+    "Increase Your Reach Maintain Consistent Branding Eliminate Manual Data Entry The Interface Your Team Will Love Our user-friendly interface makes it easy for everyone to access and utilize our product information management solution, regardless of their technical expertise."
+   ],
+   "DQ_bpo": [
+    "Increase Your Reach Maintain Consistent Branding Eliminate Manual Data Entry The Interface Your Team Will Love Our user-friendly interface makes it easy for everyone to access and utilize our product information management solution, regardless of their technical expertise."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 28
+ },
+ {
+  "name": "PiTangent Analytics And Technology Solutions Private Limited",
+  "city": "Kolkata",
+  "domain": "pitangent.com",
+  "website": "https://pitangent.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "App Development | SAAS product engineering | Enterprise IT Solutions: PiTangent- Best Digital Agency --> P I T A"
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 102603,
+   "signals": {
+    "cicd": 6
+   },
+   "quotes": {
+    "cicd": [
+     "Launch an investor-ready MVP in 10-16 weeks with discovery, UX, build, QA and CI/CD.",
+     "Approach Lean feature prioritization workshop, weekly sprints, React/Node stack, deployed on AWS with CI/CD.",
+     "Launch an investor-ready MVP in 10-16 weeks with discovery, UX, build, QA and CI/CD."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 11,
+   "prod_eng": 10,
+   "cicd": 6,
+   "qa": 3,
+   "DQ_template": 1,
+   "compliance": 5,
+   "enterprise": 4,
+   "owns_product": 9,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Download Know us Life at PiTangent Our process Events Team About PiTangent Careers Webinar Resources PiTangent Digital Transformation - Delivered Download PiTangent company overview to know the vision, outlook, achievements and process of the company.",
+    "NDAs, sprint-true estimates, DevSecOps alignment.",
+    "Approach Lean feature prioritization workshop, weekly sprints, React/Node stack, deployed on AWS with CI/CD.",
+    "Agile Product Development Sprint-based engineering with complete transparency."
+   ],
+   "prod_eng": [
+    "Product Engineering Driving value by engineering immersive and digital products that support growth and differentiation.",
+    "Enterprises Enterprise platform engineering with security by design SSO/SCIM, audit trails, SLAs, and governance.",
+    "Call Now --> Call Now --> --> Product Engineering - Pitangent --> --> P I T A N G E N T --> Get in Touch We will Understand Your Idea and Share Quotation India +91 8100954414 US +1 (469) 983-0448 Email [email protected] Contact Form Please fill up the form below.",
+    "MVP to Enterprise-Scale Solutions SaaS, AI & Cloud-Native Expertise Dedicated Product Engineering Teams Schedule Assessment What is Software Product Engineering?"
+   ],
+   "cicd": [
+    "Launch an investor-ready MVP in 10-16 weeks with discovery, UX, build, QA and CI/CD.",
+    "Approach Lean feature prioritization workshop, weekly sprints, React/Node stack, deployed on AWS with CI/CD.",
+    "Approach Microservices architecture, SAML/SSO integration, Kubernetes deployment, comprehensive monitoring.",
+    "STEP 05 Deployment & DevOps CI/CD pipelines, cloud configuration, and production deployment."
+   ],
+   "qa": [
+    "Launch an investor-ready MVP in 10-16 weeks with discovery, UX, build, QA and CI/CD.",
+    "MOST POPULAR Dedicated Product Team A full engineering squad aligned with your roadmap - developers, designers, QA, and a PM working as an extension of your team.",
+    "Shyamsundar Ghorai Shyamsundar, Senior Manager – Project & Delivery at PiTangent, brings 15 years of IT expertise across QA, FinTech, and SaaS."
+   ],
+   "DQ_template": [
+    "Required MVP in 10 weeks to show investors."
+   ],
+   "compliance": [
+    "Read case study Result 99.97% Uptime over 18 months SOC 2 Type II certified Enterprise Platform Challenge Multi-region operations needed unified platform with SSO, role-based access, audit trails, and compliance.",
+    "How do you ensure data security and GDPR compliance?",
+    "DPAs, GDPR-compliant processes, SAST/DAST security testing, audit trails, and SOC 2-aligned practices.",
+    "View Case HealthTech Applications HIPAA-compliant health platforms, telemedicine, and patient management systems."
+   ],
+   "enterprise": [
+    "Read case study INDUSTRIES What Success Looks Like in Your Industry Real outcomes from real implementations BFSI AI automation improved financial efficiency, compliance, decision-making.",
+    "View Case Healthcare Improved patient scheduling efficiency by 65%.",
+    "Show more Bob Strauss Founder and CEO, RePredict David Kamjoo Founder, SacredCow Studio I’ve collaborated with PiTangent on multiple projects, from real estate to healthcare apps."
+   ],
+   "owns_product": [
+    "Let’s validate and build your product the right way.",
+    "Rapid prototyping Lean feature prioritization Scalable architecture from day one SaaS Product Development Design and develop subscription-based platforms with secure multi-tenant architecture.",
+    "SaaS architecture design Subscription and billing integration Cloud-native deployment AI Product Engineering Embed AI, automation, and analytics into your product to create competitive advantage.",
+    "View Case Enterprise SaaS Products Multi-tenant B2B platforms built for enterprise workflows and integrations."
+   ],
+   "DQ_support": [
+    "Our AIaaS solutions provide scalable AI infrastructure, eliminating the need for costly hardware and specialized talent."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 28
+ },
+ {
+  "name": "Techno Tackle Software Solutions",
+  "city": "Coimbatore",
+  "domain": "technotackle.com",
+  "website": "https://www.technotackle.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 12853,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "DQ_agency": 2,
+   "qa": 5,
+   "sdlc": 70,
+   "DQ_training": 7,
+   "compliance": 3,
+   "vcs": 4,
+   "pr_practice": 10,
+   "enterprise": 9,
+   "senior_roles": 10
+  },
+  "site_quotes": {
+   "owns_product": [
+    "View More → Web App Development Custom web applications engineered for performance, security, and scale — from internal portals to full SaaS products.",
+    "The best enterprise software development partners treat your product roadmap as their own, not waterfall-style handoffs where requirements are frozen and reviewed six months later."
+   ],
+   "DQ_agency": [
+    "View More → Website Development Fast, SEO-ready business websites that turn visitors into enquiries, responsive on every device.",
+    "Whatsapp Call Calendly INDUSTRIES SCHOOLS JEWELLERY MANUFACTURING AGRI TECH RESTAURANT/DELIVERY/TRAVEL HEALTH CARE / PHARMA BANKING / FINANCE TOURISM DIGITAL MARKETING AND SOCIAL MEDIA IT PRODUCT COMPANIES"
+   ],
+   "qa": [
+    "View More → QA / Testing Services Manual and automated testing across web and mobile that catches issues before your users ever see them.",
+    "Automated testing, static analysis tools, and peer review processes are non-negotiable in a serious enterprise software development environment, and the standards applied to enterprise software development should be visible and verifiable, not just promised in a proposal.",
+    "Strong architects, developers, QA engineers, and project managers are critical to delivering a high-quality product."
+   ],
+   "sdlc": [
+    "Share Your Requirement Tell us the skills, experience level, and engagement model you need — on a 15-minute call or through the form below.",
+    "Flexible Engagement Models Engage developers full-time, part-time, or hourly — whichever fits your project and budget.",
+    "On-Time Delivery Agile sprints and dedicated project managers keep delivery on schedule and visible to you at every step.",
+    "What engagement models do you offer?"
+   ],
+   "DQ_training": [
+    "We are not a permanent-recruitment or HR placement agency — the developers you hire remain part of Techno Tackle.",
+    "And if the hire doesn’t work out,skill mismatch, cultural fit issues, or simply changing project needs,you’re looking at another 3–6 months to recruit a replacement, plus severance costs and damage to team morale.",
+    "Watch out for low headline rates that exclude vendor margins on overtime, replacement costs when someone leaves, or administrative fees.",
+    "Ask for: a sample SLA, a reference from a client in your industry, their escalation process when a sprint goes off track, and their policy on team member replacement."
+   ],
+   "compliance": [
+    "Techno Tackle is an ISO 27001:2022 certified company.",
+    "If your industry involves sensitive data, ISO 27001 certification is a meaningful signal of a partner's commitment to information security, our post on the benefits of ISO 27001 certification for business explains why this matters in a vendor selection context."
+   ],
+   "vcs": [
+    "The onboarding investment is front-loaded and pays back quickly, but it requires a structured approach, not a GitHub link and a Slack invite.",
+    "Most companies onboard contractors by sending a Slack invite and a GitHub link."
+   ],
+   "pr_practice": [
+    "Is the code review cycle shortening as the contractor gets more familiar with your codebase?",
+    "Automated testing, static analysis tools, and peer review processes are non-negotiable in a serious enterprise software development environment, and the standards applied to enterprise software development should be visible and verifiable, not just promised in a proposal.",
+    "They: Attend your standups and sprint planning sessions Work within your ticketing system and version control Report to your engineering leads Follow your coding standards and review process You retain full control of the work.",
+    "Engineering Leader Time Technical interviews, code reviews, and onboarding mentorship for a new hire consume 15–20% of a senior engineer's time for 2–3 months."
+   ],
+   "enterprise": [
+    "Whether you operate in healthcare, logistics, manufacturing, retail, or financial services, your development partner should understand the nuances of your business environment.",
+    "Compliance and HR Administration Managing payroll, statutory filings, insurance claims, performance reviews, and exit processes for each in-house developer creates ongoing administrative overhead.",
+    "Does software development outsourcing work for regulated industries?",
+    "Regulated industries need documented processes, audit trails, and SLAs that are difficult to maintain with augmented staff who operate under your governance rather than a vendor-managed framework."
+   ],
+   "senior_roles": [
+    "The Hybrid Workforce Advantage CTOs and engineering managers aren’t abandoning traditional hiring entirely.",
+    "In reality, the model works best when your engineering managers stay actively involved,reviewing code, running standups, and setting priorities,just as they would with any in-house hire.",
+    "Augmented staff need your tech leads to direct them.",
+    "Do you have internal tech leadership with bandwidth to manage?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 26
+ },
+ {
+  "name": "Cactus Technology Solutions Private Limited",
+  "city": "Mumbai",
+  "domain": "cactusglobal.com",
+  "website": "https://cactusglobal.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 2812,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "pr_practice": 6
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Contact us Learn more Advancing Strategic Decision-Making in Banking Through Research-Driven Insight Banking & Financial Services CACTUS supports banking and insurance teams with solutions for navigating, summarizing, and sharing research and policy content.",
+    "Discover more Banking & Financial Services Precision-driven tools that help financial and insurance teams navigate complex research, policy and analytical documentation with clarity, confidence and accuracy, at scale."
+   ],
+   "pr_practice": [
+    "Discover More Peer Review Expert-led peer review services that help journals manage review capacity while maintaining quality.",
+    "The conversation also touches on inclusivity, evolving peer review practices, and how editorial teams can thoughtfully embrace innovation without compromising integrity.",
+    "https://www.sspnet.org/ Peer Review Congress",
+    "Threadgold, Peer Review Manager at Emerald Publishing, shares how Emerald revamped its reviewer pools, introduced structured feedback systems, and is prioritizing transparency at every step of the publishing process."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 24
+ },
+ {
+  "name": "Github India Private Limited",
+  "city": "Delhi",
+  "domain": "github.com",
+  "website": "https://github.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "s Education By Solution CI/CD & Automation DevOps DevSecOps Case Studies Customer Stories Resources Open Source GitHub Sponsors Fund open source devel"
+  },
+  "jd": {
+   "pages_read": 13,
+   "external_job_boards": [],
+   "jd_chars": 49450,
+   "signals": {
+    "vcs_generic": 62
+   },
+   "quotes": {
+    "vcs_generic": [
+     "GitHub is the world’s leading AI-powered developer platform with over 150+ million developers and counting.",
+     "Here at GitHub, we believe in true work/life balance.",
+     "GitHub benefits LP.SKU-D4-1.TITLE We’re proud of our global community of Hubbers who are changing the way the world builds software together."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "vcs": 60,
+   "cicd": 6,
+   "pr_practice": 6,
+   "owns_product": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "vcs": [
+    "GitHub · Change is constant.",
+    "With GitHub, developers, agents, and code come together on one platform.",
+    "Enter your email Sign up for GitHub Try GitHub Copilot GitHub features A demonstration animation of a code editor using GitHub Copilot Chat, where the user requests GitHub Copilot to refactor duplicated logic and extract it into a reusable function for a given code snippet.",
+    "Code Plan Collaborate Automate Secure Code Write, test, and fix code quickly with GitHub Copilot, from simple boilerplate to complex features."
+   ],
+   "cicd": [
+    "Explore GitHub Copilot Duolingo boosts developer speed by 25% with GitHub Copilot Read customer story 2025 Gartner® Magic Quadrant™ for AI Code Assistants Read industry report Automate your path to production Ship faster with secure, reliable CI/CD.",
+    "Explore GitHub Actions Code instantly from anywhere Launch a full, cloud-based development environment in seconds.",
+    "Dismiss alert {{ message }} GitHub for Teams Build like the best teams on the planet With CI/CD, Dependabot, and the world’s largest developer community, GitHub gives your team everything they need to ship better software faster.",
+    "We can all see our work, feedback, and roadmap going through GitHub.” Lee Adkins, Head of Engineering Peak Money Automation Build CI/CD workflows that work for you Checkout Check out a Git repository at a particular version."
+   ],
+   "pr_practice": [
+    "Learn about GitHub Secret Protection 70% MTTR reduction with Copilot Autofix 8.3M secret leaks stopped in the past 12 months with push protection Work together, achieve more From planning and discussion to code review, GitHub keeps your team’s conversation and context next to your code.",
+    "We have all our source code, issues, and pull requests in one place...",
+    "Explore code review Fund open source projects Become an open source partner and support the tools and libraries that power your work.",
+    "3,000 Actions minutes/month 2GB of GitHub Packages storage GitHub Codespaces Protected branches Multiple reviewers in pull requests Code owners Draft pull requests Required reviewers Pages and Wikis Web-based support Featured add-ons GitHub Secret Protection Prevent secret leaks before they leak."
+   ],
+   "owns_product": [
+    "To meet this goal, GitHub prioritizes diversity, inclusion, and belonging across our platform, people, philanthropy, and policy."
+   ],
+   "senior_roles": [
+    "We can all see our work, feedback, and roadmap going through GitHub.” Lee Adkins, Head of Engineering Peak Money Automation Build CI/CD workflows that work for you Checkout Check out a Git repository at a particular version."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 24
+ },
+ {
+  "name": "Caprus IT Private Limited",
+  "city": "Hyderabad",
+  "domain": "caprusit.com",
+  "website": "https://www.caprusit.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "nified Communications Banking & Finance IOT Services Custom Application Development Application Management Outsourcing Consulting Services Staff Augme"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "compliance": 1,
+   "qa": 3,
+   "sdlc": 2,
+   "DQ_template": 1,
+   "pr_practice": 6,
+   "cicd": 4,
+   "vcs": 2,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Banking & Finance Automated internal auditing of banks with real time tracking, risk management, multi-user role specific dashboard, and performance metrics.",
+    "Vice President, Delivery Has over twenty-six years of overall experience across all aspects of Global Delivery Model spanning multiple domains such as Banking, Telecom, Utilities, Healthcare.",
+    "He also has Functional Expertise in the Private Banking and Wealth Management domain.",
+    "He created several products such as On Demand Video Calling Platform using Web RTC, Mobile Commerce platform to support SME users, BaaS – Banking Audit Assessment System, CAPFIE- Field Force Management System."
+   ],
+   "compliance": [
+    "Certified Company We are an ISO 9001:2015 certified company and have a proven track record of delivering revolutionary software solutions that are designed and developed using the emerging technologies."
+   ],
+   "qa": [
+    "Caprus IT provides our software-development business with an independent, unbiased and objective QA analysis of the products we deliver to our demanding customers several times each year.",
+    "The velocity and quality their QA team demonstrated in gaining the complex subject-matter expertise they’re now employing to certify these products as “production ready” were truly phenomenal.",
+    "Req: Master degree in Computer Science or Information Technology/Studies or related with 6 months experience as QA Engineer/Analyst or Software Developer or IT Consultant."
+   ],
+   "sdlc": [
+    "Quality Engineers : Follow Agile SAFe methodology, participate in PI planning, sprint planning sessions, daily Stand-up meetings.",
+    "He specializes in Enterprise & Mobile Architecture, Management, Agile (scrum) & Waterfall process and Project Management."
+   ],
+   "DQ_template": [
+    "Prepare Plans, templates and Reports for the Equipment Validation, Process Validation, TMV (Test Method Validation for analytical), CSV (Computer System Validation)."
+   ],
+   "pr_practice": [
+    "Code Quality & Analytics Participate in code reviews, provide and receive constructive feedback.",
+    "DevOps & Deployment Implement Salesforce DevOps strategies, including CI/CD pipelines, version control, and automated deployments.",
+    "Hands-on experience with tools like Copado, Gearset, Jenkins, and version control using Git."
+   ],
+   "cicd": [
+    "DevOps & Deployment Implement Salesforce DevOps strategies, including CI/CD pipelines, version control, and automated deployments.",
+    "Hands-on experience with tools like Copado, Gearset, Jenkins, and version control using Git."
+   ],
+   "vcs": [
+    "Hands-on experience with tools like Copado, Gearset, Jenkins, and version control using Git."
+   ],
+   "DQ_bpo": [
+    "We also have extensive experience in providing calling routes to selected destinations with comprehensive solutions to our call centre customers."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 24
+ },
+ {
+  "name": "Automaton AI Infosystem Private Limited",
+  "city": "Pune",
+  "domain": "automatonai.com",
+  "website": "https://automatonai.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "Meet Our Services Data Labeling Custom AI Applications Meet Our Products ADVIT - Data Labeling Tool CLARITY - Automated ML Tool Talk to Us We'd love t"
+  },
+  "jd": {
+   "pages_read": 20,
+   "external_job_boards": [],
+   "jd_chars": 81151,
+   "signals": {
+    "cicd": 7
+   },
+   "quotes": {
+    "cicd": [
+     "Most of your focus will be on creating new DevOps tools/applications, working on CI/CD pipelines, developing new services to improve our code stability, as well as operational duties such as monitoring deployed applications for reliability and performance.",
+     "and CI/CD across multiple teams.",
+     "Experience in Python Experience enabling automation with tools like Jenkins and Ansible/Chef/Puppet Understanding of Service Oriented Architecture and RESTful APIs Experience with build and test frameworks Ways to stand out from the crowd:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Insurance Automated vehicle damage assessment, claims document extraction, and fraud scoring.",
+    "Banking & Finance KYC automation, fraud detection, and loan document processing with DocuGPT.",
+    "Healthcare Diagnostic imaging assistance, patient record analysis, and clinical document extraction."
+   ],
+   "compliance": [
+    "HIPAA-ready, DPDP-compliant architecture."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 23
+ },
+ {
+  "name": "Mouri Tech Limited",
+  "city": "Hyderabad",
+  "domain": "mouritech.com",
+  "website": "https://www.mouritech.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "solutions clubbed with EHS, sustainability, and environment we build a matured practice that caters specifically to the O&G sector. Retail Stay ahead"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 124911,
+   "signals": {
+    "cicd": 4,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Automated Testing Solutions Quality Assurance Consultancy Continuous Integration & Deployment Performance & Load Testing Security Testing Services Test Data Management I agree to the privacy policy.",
+     "Automated Testing Solutions Quality Assurance Consultancy Continuous Integration & Deployment Performance & Load Testing Security Testing Services Test Data Management I agree to the privacy policy.",
+     "Automated Testing Solutions Quality Assurance Consultancy Continuous Integration & Deployment Performance & Load Testing Security Testing Services Test Data Management I agree to the privacy policy."
+    ],
+    "vcs_generic": [
+     "Familiar with version control (Git) and Agile practices Responsibilities:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 4,
+   "enterprise": 2,
+   "compliance": 12,
+   "owns_product": 1,
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Know More Infrastructure & Cloud Next-gen solutions to design, build, and manage resilient, agile, and reliable IT Infrastructure for New-age enterprises.",
+    "Know More Infrastructure Services Next-gen solutions to design, build, and manage resilient, agile, and reliable IT Infrastructure for New-age enterprises.",
+    "An Agile Approach to Product Lifecycle Management Achieve transformative business outcomes with MOURI Tech’s industry-tested digital workshop framework.",
+    "Persona Agile, collaborative, compassionate, flexible, result-oriented."
+   ],
+   "enterprise": [
+    "Know More MOURI Tech has grown into a trusted technology partner for Fortune 500 companies, public sector organizations, and mid-market leaders.",
+    "AI-driven Operations ↗ Insurance Reimagining P&C and Life & Annuities with modernized FNOL, claims, and broker operations."
+   ],
+   "compliance": [
+    "Cookie Duration Description cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\".",
+    "cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin."
+   ],
+   "owns_product": [
+    "Next-Gen Technology Stay ahead of the curve with our commitment to innovation and adoption of next-generation technologies, ensuring your products remain future-proof."
+   ],
+   "prod_eng": [
+    "Discover a product and platform engineering journey that delivers unmatched value and empowers enterprises to create world-class digital products."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 22
+ }
+]

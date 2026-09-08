@@ -1,0 +1,1066 @@
+[
+ {
+  "name": "Astounding Healthtech Private Limited",
+  "city": "Bengaluru",
+  "domain": "revealhealthtech.com",
+  "website": "https://revealhealthtech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [
+    "https://apply.workable.com/reveal-health-tech/?lng=en/"
+   ],
+   "jd_chars": 3442,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 39,
+   "compliance": 2,
+   "sdlc": 3,
+   "owns_product": 4,
+   "prod_eng": 2,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Healthcare AI, Interoperability Solutions & Digital Engineering",
+    "Reveal HealthTech Featured in Healthcare IT News.",
+    "Healthcare's future is anticipation.",
+    "With a deep understanding of client needs and the intricate landscapes of healthcare, life sciences, and AI, we embark on a journey of collaboration and creation."
+   ],
+   "compliance": [
+    "HIPAA Compliant HIPAA Compliant When partnering with us, you can focus on your core mission without worrying about compliance."
+   ],
+   "sdlc": [
+    "Talk To Our Team View Case Studies How We Work Cross-Disciplinary Strength Our cross-functional teams blend clinical expertise, design, engineering, and implementation skills.",
+    "Yes, we build AI-driven solutions across healthcare and life sciences- but what truly sets us apart is how we work and who we work with."
+   ],
+   "owns_product": [
+    "LEARN MORE Testimonials See What Customers are Saying “ Reveal HealthTech's experience and guidance have been instrumental in shaping the foundation of our product, and we couldn't be happier with the results.",
+    "Carlos Albuquerque, Director of Communications, The Breakfast Revolution Testimonials See What Customers are Saying “ Reveal HealthTech's experience and guidance have been instrumental in shaping the foundation of our product, and we couldn't be happier with the results."
+   ],
+   "prod_eng": [
+    "See why execution, workflow integration, and product engineering decide which organizations turn intelligence into outcomes."
+   ],
+   "cicd": [
+    "READ MORE Blog Interoperability 2.0: Data Pipelines That Enable Real Care Coordination Healthcare data exists but remains fragmented across systems.",
+    "Interoperability 2.0 focuses on usable data, high-velocity pipelines, and real-time care coordination to turn disconnected records into actionable clinical insights."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Binary Waves Solutions Private Limited",
+  "city": "Chennai",
+  "domain": "binarywavessolutions.com",
+  "website": "https://www.binarywavessolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "60% Faster Time-to-Market Reduced product development cycles through digital transformation and agile methodologies."
+   ],
+   "compliance": [
+    "Maintaining ISO 9001:2015 and ISO 27001:2022 standards ensures that our clients receive services that are not only efficient but also highly secure and globally compliant.",
+    "ISO 9001:2015 ISO 27001:2022 Industry Excellence We’re Now NASSCOM Certified!"
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 4
+ },
+ {
+  "name": "CD CloudEnablers Private Limited",
+  "city": "Chennai",
+  "domain": "corestack.io",
+  "website": "https://www.corestack.io/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 16357,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 2,
+   "senior_roles": 2,
+   "owns_product": 2,
+   "vcs": 5
+  },
+  "site_quotes": {
+   "compliance": [
+    "Stay Continuously Compliant Achieve continuous cloud compliance with industry and regulatory standards, including ISO/IEC, NIST, GDPR, FedRAMP, HIPAA, PCI-DSS, FIPS, CIS, and others.",
+    "Explore SecOps Stay Continuously Compliant Achieve continuous cloud compliance with industry and regulatory standards, including ISO/IEC, NIST, GDPR, FedRAMP, HIPAA, PCI-DSS, FIPS, CIS, and others."
+   ],
+   "senior_roles": [
+    "– Christopher Johnson, Senior Technical Architect, iT1 Key Results: Cloud cost savings and compliance visibility Solutions: CoreStack FinOps, SecOps, and CloudOps Cloud Platform: Azure & AWS Read the Story We’ve ultimately experienced bottom-line revenue growth."
+   ],
+   "owns_product": [
+    "Our platform has been recognized by Gartner, Forrester, IDC, and Frost & Sullivan, and our organization has been recognized by Inc., GeekWire, and Deloitte."
+   ],
+   "vcs": [
+    "These tools include GitHub for its source code management capabilities.",
+    "Tool description GitHub GitHub is the world’s leading developer platform, providing tools for more than 100 million developers to create, store, manage and share their code.",
+    "CoreStack’s integration with GitHub streamlines operations by connecting development practices with governance frameworks, leading to more efficient development cycles and better risk management, ultimately resulting in a more controlled and optimized IT environment.",
+    "Integrating GitHub with CoreStack enhances your software development process by providing comprehensive governance and visibility into your code repositories and workflows."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Cluso Infolink Private Limited",
+  "city": "Bengaluru",
+  "domain": "cluso.com",
+  "website": "https://www.cluso.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "s needed to make an informed business decision. Get Started OUR WORKS Show All Investigator-Driven Report Options Get Started Why Us Expert Licensed P"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2125,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 2
+  },
+  "site_quotes": {
+   "compliance": [
+    "Home Get Started Privacy Policy Disclaimer GDPR TX PI License: A16821 Job Candidate/Employment Screening",
+    "Home Get Started Privacy Policy Disclaimer GDPR TX PI License: A16821"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Credentia Verification Technologies Private Limited",
+  "city": "Mumbai",
+  "domain": "credentiai.com",
+  "website": "https://www.credentiai.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 55,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 3570,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "compliance": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "HR Tech Seamlessly integrate with HRMS/ATS This helps improve HR efficiency, boost effectiveness, and bolster compliance and security Book a free trial Agencies Trust CredOps for Faster, Smoother Day-to-Day Operations Tired of tedious BGV eating into your productivity as well as timelines?"
+   ],
+   "compliance": [
+    "Read More BGV Glossary GDPR (General Data Protection Regulation) The General Data Protection Regulation, commonly abbreviated as GDPR, is a legal framework created by the European Union.",
+    "The European Parliament and the Council of the EU adopted GDPR on 14 April 2016, which came into effect on 25 May 2018."
+   ],
+   "enterprise": [
+    "I then moved on to Tata Consultancy Services where I spent next 3.5 Years initially as Sales head for Products group and then as Sales Head for the Services business, where I was exposed to BFSI, Telco, Government segments."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Criticalriver Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "criticalriver.com",
+  "website": "https://www.criticalriver.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "k Us Digital Transformation Salesforce Software Engineering Product Engineering Cloud Transformation Data Analytics Services Integration Services Mana"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 89766,
+   "signals": {
+    "testing": 4
+   },
+   "quotes": {
+    "testing": [
+     "Ann Minooka VP, Global Marketing and Communications, Cypress Semiconductors Corporation The CriticalRiver team has been great to work with on the delivery of CPQ Customizations and the Lightning Migration.",
+     "Ann Minooka VP, Global Marketing and Communications, Cypress Semiconductors Corporation The CriticalRiver team has been great to work with on the delivery of CPQ Customizations and the Lightning Migration.",
+     "Ann Minooka VP, Global Marketing and Communications, Cypress Semiconductors Corporation The CriticalRiver team has been great to work with on the delivery of CPQ Customizations and the Lightning Migration."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 12,
+   "enterprise": 15,
+   "qa": 4,
+   "cicd": 7,
+   "owns_product": 1,
+   "pr_practice": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Cloud Build agile, AI-ready cloud environments designed for scalability, security, and continuous improvement.",
+    "AI-assisted design, build, test, and deployment move SDLC teams from backlog pressure to release confidence.",
+    "Concord speeds up early design and component decisions, Design Copilot and AI-led SDLC carry it through architecture, build, and deployment, and QA Copilot runs continuous regression and defect detection.",
+    "2 Build Automated Code Generation Design Copilot and AI-led SDLC carry it through."
+   ],
+   "enterprise": [
+    "Banking/Finance Modernizing financial operations with secure, explainable AI and intelligent automation for faster insights.",
+    "Healthcare Enabling connected, compliant, and patient-centric ecosystems powered by AI and data trust.",
+    "Learn more Energy & Utilities Banking/Finance Modernizing financial operations with secure, intelligent, and customer-centric systems.",
+    "Learn more Banking/Finance Healthcare Enabling connected, compliant, and patient-focused digital ecosystems."
+   ],
+   "qa": [
+    "QA backlogs slow you down.",
+    "Concord speeds up early design and component decisions, Design Copilot and AI-led SDLC carry it through architecture, build, and deployment, and QA Copilot runs continuous regression and defect detection.",
+    "3 Test Continuous Regression & Defect Detection QA Copilot catches issues before release.",
+    "Ann Minooka VP, Global Marketing and Communications, Cypress Semiconductors Corporation The CriticalRiver team has been great to work with on the delivery of CPQ Customizations and the Lightning Migration."
+   ],
+   "cicd": [
+    "4 Ship Autonomous Deployment Pipelines Release with confidence, roll back on signal.",
+    "Lexora attributes spend to pipeline and flags waste, while Campaign OS and Campaign Automation handle targeting and nurture without manual work.",
+    "Voice Intelligence Engine qualifies leads instantly and feeds CRM in real time, while Pricing & Quoting and the Pipeline agent keep proposals and deals moving without manual chasing.",
+    "3 Close Autonomous Pipeline Execution The Pipeline agent moves deals without chasing."
+   ],
+   "owns_product": [
+    "Learn more Our AI Accelerators Financial Agents for a Smarter Future We bring AI-powered clarity, speed, and control to the CFO’s office, turning complexity into confidence."
+   ],
+   "pr_practice": [
+    "Our implementations enforce version control, approval workflows, audit trails, and permissions-based access giving organizations a defensible record and reducing the surface area for compliance failures, fines, and reputational damage."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "CrossAsyst Infotech Private Limited",
+  "city": "Mumbai",
+  "domain": "crossasyst.com",
+  "website": "https://crossasyst.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 69,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nt platforms to accelerate innovations in the global front. We build quality controlled products for our aspiring clients from the inception phase til"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 17912,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1,
+   "compliance": 2,
+   "senior_roles": 2
+  },
+  "site_quotes": {
+   "qa": [
+    "Know more QA & Test Automation Rigorous testing for performance, security, compliance, and data integrity."
+   ],
+   "compliance": [
+    "Thank you for being an essential part of this journey.\" Medcall InjuryLink \"Big thanks to the sharp minds at CrossAsyst Infotech Private Limited—your grit, late nights, and obsessive attention to detail made our journey to SOC2 compliance feel less like a grind and more like a mission.",
+    "Couldn’t have crossed the finish line without you.\" Medcall SOC2 Compliance \"I've worked with the CrossAsyst team on many projects over the years."
+   ],
+   "senior_roles": [
+    "View all 13 June 2025 How to Migrate Java Applications to AWS Cloud Read more 10 June 2025 IT Staff Augmentation Company Evaluation for Project Success Read more 4 June 2025 What Is Site Reliability Engineering (SRE) Principles?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "DataFoundry Private Limited",
+  "city": "Bengaluru",
+  "domain": "datafoundry.ai",
+  "website": "https://datafoundry.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "lth 4.0 Cloud DF Safety 4.0 Cloud --> Platform --> Services Custom Software Engineering Solution Implementation Digital Transformation Consulting AI S"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 9,
+   "pr_practice": 1,
+   "cicd": 5,
+   "vcs": 1,
+   "owns_product": 5,
+   "prod_eng": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Datafoundry has multiple AI/ML algorithms that can solve digitalization problems across industry sectors such as Health Care, Utilities, Aerospace and Defence, Manufacturing, Banking and Financial sectors.",
+    "Creating the Future of Pharmaceuticals and Healthcare",
+    "Our Mission To enable digital transformation for Life Sciences and Healthcare customers using AI/ML and analytics.",
+    "Anirban Mukherjee is a globally recognized scientist and thought leader in AI/ML, deep tech, and autonomous systems across healthcare."
+   ],
+   "pr_practice": [
+    "The intern will also help with debugging and troubleshooting issues, participate in code reviews, and stay updated with the latest trends and best practices in React.js and frontend development."
+   ],
+   "cicd": [
+    "In this role, you will play a key part in designing, implementing and maintaining our infrastructure and CI/Cd pipelines.",
+    "Your expertise in Kuberenetes, Docker, Jenkins, Azure, Terraform and Git will be critical to ensure our systems are scalable, reliable and efficient .",
+    "At Datafoundry, we help businesses build data fabrics for flexible and reusable data integration pipelines, services, and semantics.",
+    "The core engine of the solution is the data digitization pipeline that can be implemented on the Datafoundry Secure Cloud Platform or on the customer’s own cloud environment."
+   ],
+   "vcs": [
+    "Your expertise in Kuberenetes, Docker, Jenkins, Azure, Terraform and Git will be critical to ensure our systems are scalable, reliable and efficient ."
+   ],
+   "owns_product": [
+    "× Signup × Signup Datafoundry may use this information to contact you about our products and services.",
+    "The AI-powered modules of our products can also be integrated as bolt-on services to existing enterprise solutions, thus enhancing the capabilities and protecting customers’ technology investment."
+   ],
+   "prod_eng": [
+    "At Datafoundry, LP heads the Product Engineering and Delivery Operations."
+   ],
+   "senior_roles": [
+    "Kotapally Harish Kumar Engineering Manager-ML Harish leads the Machine Learning engineering function at Datafoundry."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "DHI Investigation Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "dhiverification.com",
+  "website": "https://www.dhiverification.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "anctity of completion and Mode of education. Learn more DHI Software Solutions DHICasequest is a search engine for conglomeration of litigation data a"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2352,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 2
+  },
+  "site_quotes": {
+   "compliance": [
+    "We are proud to be an ISO 9001 and ISO 27001 certified company, and a member of NASCOMM.",
+    "We are now an ISO 2001 and ISO 27001 certified company with NASCOMM membership."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "EDCI",
+  "city": "Kolkata",
+  "domain": "edci.co.in",
+  "website": "https://www.edci.co.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2023-04-27",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1845,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 2,
+   "enterprise": 5,
+   "DQ_template": 2
+  },
+  "site_quotes": {
+   "compliance": [
+    "Being an ISO 9001:2015 certified organization, registered with MSME, LEI and enlisted with UNITED NATIONS GLOBAL COMPACT, and proud members of APDI, DSCI and NASSCOM, has been constantly attracting the attention of various leading organizations to partner with.",
+    "We are an ISO 9001:2015 certified organization, registered with MSME, LEI, D&B, and enlisted with UNGC, and proud members of APDI, DSCI and proud member of NASSCOM."
+   ],
+   "enterprise": [
+    "EDCI's Cyber Crime Awareness Program on 21st February 25 at The Oriental Insurance Company Ltd, Kolkata Regional Office.",
+    "TM EDCI is committed in providing complete solutions to corporate houses, cyber security, healthcare organizations, new initiatives, servicing firms, educational institutions, and practicing professionals.",
+    "​ Send CV: office@edci.co.in Apply: office@edci.co.in ​ TM EDCI is committed in providing complete solutions to corporate houses, cyber security, healthcare organizations, new initiatives, servicing firms, educational institutions, and practicing professionals."
+   ],
+   "DQ_template": [
+    "\",\"name\":\"Unlimited Conversions\",\"id\":\"db8ad791-1ed9-404e-8d67-0d068a72daba\"},{\"description\":\"Choose from our 6 pre-built conversion templates that will help you get started quickly.",
+    "Tons of possibilities and very flexible.\",\"name\":\"6 Popup Templates\",\"id\":\"ed257fbc-ccc5-4e5a-b417-74b61e0e5c12\"},{\"description\":\"Display your popup immediately, after a specified period, when a visitor arrives or before a visitor leaves your site."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "eGRCxperts India Private Limited",
+  "city": "Chennai",
+  "domain": "grcxperts.com",
+  "website": "https://grcxperts.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2020-01-26",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 71245,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "With years of experience in implementing GRC frameworks and associated solutions, GRCxperts aims to identify opportunities that: simplify your processes, integrate data and existing systems to determine the right fit of software and services for your organization."
+   ],
+   "compliance": [
+    "He has also been part of major GDPR and HIPAA privacy implementation programs.",
+    "Kumar has driven strategic initiatives like setting up secure development centers aligned with ISO 27001 and ISO 22301 standards."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "ESIGO Consulting Private Limited",
+  "city": "Chennai",
+  "domain": "esigroup.in",
+  "website": "https://esigroup.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Compliance Solutions Ensure adherence to regulatory standards like GDPR, HIPAA, PCI DSS, and ISO 27001.",
+    "Compliance and Data Security Strengthening Trust Through Compliance Helped a healthcare organization achieve GDPR and HIPAA compliance, safeguarding sensitive patient data and improving operational security."
+   ],
+   "enterprise": [
+    "Compliance and Data Security Strengthening Trust Through Compliance Helped a healthcare organization achieve GDPR and HIPAA compliance, safeguarding sensitive patient data and improving operational security."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 4
+ },
+ {
+  "name": "Exo Edge India Private Limited",
+  "city": "Mohali",
+  "domain": "exoedge.com",
+  "website": "https://www.exoedge.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "usiness Process Outsourcing Company Read and Download the – Case Study Please fill in your full name and work e-mail address to access this case study"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 21903,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "compliance": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "His domain knowledge and attitude have significantly improved our processes.",
+    "We’re proud to foster a workplace that values teamwork, results, accountability, and quality — the core values that guide how we work and who we hire."
+   ],
+   "compliance": [
+    "With a growing team of full-time associates, we operate from our state-of-the-art SOC2 and ISO:27001-certified office in India.",
+    "Modern Facility We have the global certification of SOC2 and ISO 27001 that ensures data security and privacy."
+   ],
+   "cicd": [
+    "Scalable Support: With a strong talent pipeline and operations center in India, EXO Edge can rapidly scale teams and services to meet your growing needs — all while maintaining quality and reliability."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Extreme Compute Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "extremecompute.com",
+  "website": "https://extremecompute.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "tructure we are able to focus on our Core activity which is Application Development. It's just easier and far more cost-effective to let them handle o"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "EC cloud infrastructure is designed to deliver super-efficient Enterprise-ready cloud with key functionalities like Banking grade security, Hi-speed storage."
+   ],
+   "compliance": [
+    "Load More Aligning with PCI DSS 4.0’s new Today, ransomware is a multibillion-dollar business So far, it has devastated a number of industries..."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Flightcase IT Services Private Limited",
+  "city": "Pune",
+  "domain": "fltcase.com",
+  "website": "https://fltcase.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ministration Backend Technical Support Clients Testimonials Case Studies Careers Blogs Contact Us Simple Solutions for Complex Connections Know More Y"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 43855,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 11,
+   "DQ_training": 1,
+   "enterprise": 7,
+   "compliance": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Contact Us Multinational clients which have a global outlook are seriously looking to outsource IT Infrastructure services especially NOC, Engineering & Helpdesk.",
+    "Mail your confident resumes to recruitment@fltcase.com Send Now Multinational clients which have a global outlook are seriously looking to outsource IT Infrastructure services especially NOC, Engineering & Helpdesk.",
+    "Managing the infrastructure and supporting the business elements of multiple clients with different service elements & different service level agreements, different hardware and varied software packages is always a challenge.",
+    "Read more Helpdesk & IT Support – Need of Hour to Impress Managed IT support is the heart of any Organization that wants to grow its business."
+   ],
+   "DQ_training": [
+    "Mentoring and Coaching are carried out by diligent and efficient management teams to guide employees to provide impetus to their professional as well as personal well-being-emerging triumphant in every aspect of life."
+   ],
+   "enterprise": [
+    "Senior Business Analyst Domain: – Healthcare Experience: 5 + years Job Description:- Mandatory Skills: Experience in System Analysis and Business Analysis into US Healthcare Domain.",
+    "Hands-on experience in sub-sectors of Healthcare such as Remote Patient Monitoring, Population health Management, Telemedicine, Payers, Providers, Life sciences, Healthcare Technology, claims data.",
+    "Strong Experience of at least 2-3 core systems belonging to any of the Healthcare player’s EMR/EHR/HIS, claims adjudication, Benefits Management, Enrolment Billing, PBM, etc.",
+    "Understanding of various Healthcare data standards such as HL7, CCD, QRDA, CSV, etc."
+   ],
+   "compliance": [
+    "Besides, Flightcase enjoys certain advantages which makes it ‘a cut above the rest' ISO 27001/2022 (ISMS) Certified for Information Security & Management of Systems.",
+    "Security Certifications ISO 27001/2013 compliant."
+   ],
+   "cicd": [
+    "Special underground pipeline laid for Telephone cable."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "FORTEIA (A brand of MTMF Global Technologies Private Limited)",
+  "city": "Pune",
+  "domain": "forteia.com",
+  "website": "https://forteia.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2806,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "TRUSTED AI SOLUTIONS We design and deliver AI systems – copilots, agents, and enterprise AI – built securely, governed by design, and suitable for regulated and high-stakes environments.",
+    "Data Protection & DLP Architecture Who this is for Organizations handling sensitive, regulated, or business-critical data that require consistent data protection and loss prevention across environments."
+   ],
+   "compliance": [
+    "Typical engagement scenarios GDPR or DPDP readiness, cloud collaboration adoption, insider risk concerns, or audit-driven data protection enhancements.",
+    "Practical Implementation Case Studies ISO 9001:2026 Insights Sovereign AI & National Security NIS 2 Directive DPDP Protects People's Digital Privacy CONTACT 🌍 EN English Français Deutsch 📄 FORTEIA — Company Profile Loading document… 📋 Unable to load the document preview."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Great Eastern IDTech Private Limited",
+  "city": "Gurugram",
+  "domain": "geipl.com",
+  "website": "https://geipl.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [
+    "https://www.naukri.com/great-eastern-idtech-jobs-careers-748041"
+   ],
+   "jd_chars": 10798,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "DQ_support": 5,
+   "qa": 1,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Discover More Manufacturing Logistics Retail Healthcare BFSI Auto-ID Solutions.",
+    "GEIPL provides identification, tracking and automation solutions for businesses across industries such as manufacturing, logistics, retail, healthcare , and banking & financial services helping organisations improve visibility, accuracy and operational efficiency.",
+    "Domain expertise of over 40 years in delivering value to Manufacturing, Logistics & Retail, and Healthcare enterprises."
+   ],
+   "DQ_support": [
+    "Learn more --> --> Our All Solutions Inventory Visibility Barcode Printing Asset Tracking Warehouse Management Product Traceability Hardware Explore our proven range of label printers, scanners, RFID systems and more for all your business needs.",
+    "Learn more --> --> Our All Services Repair AMC (SLAs) Tech Support Software Development Project Consulting Who we are?",
+    "GEIPL provides comprehensive barcode and RFID solutions in India , including hardware, supplies, software, and services.",
+    "GEIPL provides repair , AMC and SLA support , technical support , software support and project consulting ."
+   ],
+   "qa": [
+    "Manohar.S.Samaga DGM-QA Matls"
+   ],
+   "compliance": [
+    "Yes, GEIPL’s Gurgaon manufacturing facility is ISO 9001:2015 (QMS) & ISO 14001:2015 (EMS) certified for manufacturing of specialty labels, tags & printing ribbons, and supply & support of barcode/ RFID systems.",
+    "RFID & barcode label, tickets (tags) & printing ribbon manufacturer (converter) with manufacturing operations at Gurgaon (ISO 9001: 2015 & ISO 14001:2015 certified facility)."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "InfoVision Labs India Private Limited",
+  "city": "Pune",
+  "domain": "infovision.com",
+  "website": "https://www.infovision.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ent Cloud strategy and transformation Cloud migration Cloud application development and integration Cloud security Digital workplace Digital Media Soc"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 22108,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 7,
+   "enterprise": 5,
+   "compliance": 2,
+   "prod_eng": 2,
+   "qa": 2,
+   "sdlc": 4
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Telecom Retail BFSI Healthcare Manufacturing Portfolio Portfolio From AI-driven analytics to secure transactions and immersive digital experiences, our products and solutions empower businesses with innovation, security, and seamless collaboration.",
+    "KFC Corporation InfoVision has been instrumental in transforming our functional testing process, seamlessly integrating an innovative automation strategy that has elevated our product quality and user experience.",
+    "Fortune 200 Retailer InfoVision has been instrumental in transforming our functional testing process, seamlessly integrating an innovative automation strategy that has elevated our product quality and user experience."
+   ],
+   "enterprise": [
+    "Telecom Retail BFSI Healthcare Manufacturing Portfolio Portfolio From AI-driven analytics to secure transactions and immersive digital experiences, our products and solutions empower businesses with innovation, security, and seamless collaboration."
+   ],
+   "compliance": [
+    "Strengthening trust through secure, reliable, and scalable delivery from our SOC 2 Type II-certified offshore delivery centers.",
+    "Scalable Explore more Anthropic Partner AWS Advanced Tier Partner Salesforce Managed Services Partner SOC 2 Type II Certified Recognized in ISG Provider Lens™ 2026 for Digital Engineering Excellence The future with AI-led digital transformation Navigating change isn’t enough – you need to drive it."
+   ],
+   "prod_eng": [
+    "ISG InfoVision recognized in ISG Provider Lens™ 2026 for Digital Engineering Excellence Positioned Across All Three Quadrants in the ISG Provider Lens® Digital Engineering Services (Midsize) 2026 Study Learn More AWS AWS-Powered.",
+    "Scalable Explore more Anthropic Partner AWS Advanced Tier Partner Salesforce Managed Services Partner SOC 2 Type II Certified Recognized in ISG Provider Lens™ 2026 for Digital Engineering Excellence The future with AI-led digital transformation Navigating change isn’t enough – you need to drive it."
+   ],
+   "qa": [
+    "Download the eBook Modern Enterprise Application Security: From Shift-Left to Full-Spectrum Strategy Modern Enterprise Application Security: From Shift-Left to Full-Spectrum Strategy Learn how to build a developer-friendly, AI-enabled application security program.",
+    "See how we enabled operational agility to adapt & evolve Reduction in coding efforts 0 % Reduction in QA processes 0 % Reduction In fallouts 0 % Discover More Worried about disparate customer experiences?"
+   ],
+   "sdlc": [
+    "Your inquisitive approach, dedication to quality and commitment to excellence assured that each sprint was efficient, and each release was impactful.",
+    "Strategize We develop agile, data-driven strategies tailored to your business goals.",
+    "Smarter, Leaner Ops By consolidating key business, tech, and support functions under one agile framework, enterprises gain speed, scalability, and stronger governance.",
+    "That’s why we offer two flexible engagement models that balance speed, control, and scalability."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Inspirisys Solutions Limited",
+  "city": "Chennai",
+  "domain": "inspirisys.com",
+  "website": "https://www.inspirisys.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Enterprise Security Cloud Internet of Things Infrastructure Product Engineering and Development Warranty Management Services Verticals BFSI Govt./ PSU"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 37163,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6,
+   "prod_eng": 9,
+   "sdlc": 1,
+   "compliance": 3,
+   "DQ_bpo": 1,
+   "qa": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Digital Banking Kiosk Cheque deposit kiosk integrated with bulk cash acceptor, passbook printing and account opening kiosk to bypass teller lines.",
+    "Throughout his career, Noriyuki has held senior leadership positions across Japan, the United Kingdom, Singapore, and Indonesia in the banking, technology, and consulting sectors.",
+    "Sundaramurthy has been in the Secretarial and Insurance field for the past 25+ years.",
+    "His last assignment was with a Listed Company M/s."
+   ],
+   "prod_eng": [
+    "Allow cookies --> Home About us Practices Verticals ODR Portal News Careers Blogs Case Studies SEBI Investor Website Investor Relations Privacy Policy Terms of use Contact us The Thought Feed Product Engineering & Development Services",
+    "Product Engineering and Development is a vertical agnostic offering by Inspirisys providing best-in-class solutions to established and emerging enterprises / independent software vendors across verticals.",
+    "With evolution and innovation in mind, Inspirisys's product engineering solutions are developed using the latest state-of-the-art technologies, and the best-in-breed team of subject matter professionals spanning across various industry domains.",
+    "Product engineering puts your business on the technologically high accelerating tracks to bring a thumping great digital transformation."
+   ],
+   "sdlc": [
+    "We work with various engagement models based on your business vision."
+   ],
+   "compliance": [
+    "With the persistent efforts, Inspirisys will continue to strive to achieve enterprise-wide CMMI Level 5 in the near future.",
+    "The company has certifications for: ISAE 3402 Type II Since July, 2024 AICPA SOC Since March, 2023 CMMI Level 5 Dev",
+    "ML5 Since November, 2023 View >> ISO 9001:2015 Since December, 2023 View >> ISO/IEC 27001:2022 Since January, 2025 View >> ISO/IEC 20000-1:2018 Since April, 2021 View >> On-premise ManageEngine with on-site and off-site service desk for EUC devices to gain complete control over asset management."
+   ],
+   "DQ_bpo": [
+    "It extracts the invoice attachments from email and performs data entry tasks along with rule-based validation."
+   ],
+   "qa": [
+    "Download Best-In-Class Test & Test Automation Services A Fortune 100 company who is the global leader in office automation equipment and software wanted a test automation partner to help test its smart app.",
+    "The client was looking to speed up their testing cycle through a cost-effective, robust test automation methodology."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Intense Technologies Ltd",
+  "city": "Hyderabad",
+  "domain": "in10stech.com",
+  "website": "https://www.in10stech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "-> Contact Contact Us Global Offices Products By Capability Application Development Business Process Management Robotic Process Automation Digital Tra"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 8311,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 21,
+   "sdlc": 3,
+   "prod_eng": 1,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Seamless Everyday Banking Agent An enterprise-grade AI assistant built for digital-first banks.",
+    "Automate high-volume and high-value banking interactions, giving customers instant answers, faster resolutions, 24/7 support, and effortless self-service, while reducing service costs and operational effort.",
+    "Insurance Claims & Advisory Agent An AI agent that simplifies insurance servicing by authenticating users, managing documents, and tracking claims.",
+    "Motor Insurance Agent Deploy a plug-and-play AI motor insurance agent that simplifies every step of the customer journey."
+   ],
+   "sdlc": [
+    "Build Your Own AI Agent Design custom AI agents tailored to your processes—whether it's for customer onboarding, policy advisory, claims, or financial servicing."
+   ],
+   "prod_eng": [
+    "Our integrated portfolio of product engineering, business processes and managed IT services expertise has contributed to the growth of marquee enterprise customers in the field of Telecom, Banking, and Insurance and has played a vital role in e-governance projects in South Asia."
+   ],
+   "compliance": [
+    "‍ The SOC 2 certification, issued following an independent third-party audit based on the American Institute of Certified Public Accountants (AICPA) Trust Services Criteria, confirms that Intense Technologies has implemented robust controls to safeguard customer data and ensure reliable and secure system operations.",
+    "Intense Technologies’ SOC 2 compliance assures customers and partners that its platforms and processes are designed to protect sensitive data, minimize risk, and support compliance-driven business environments."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ }
+]

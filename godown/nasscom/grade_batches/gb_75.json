@@ -1,0 +1,1105 @@
+[
+ {
+  "name": "UKB IT Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "ukbitsolutions.com",
+  "website": "https://www.ukbitsolutions.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "lity Big Data IOT Blockchain Cyber Security Cloud Computing Application Development IT Infrastructure Server Management Infrastructure Management Serv"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1,
+   "owns_product": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Comprehensive Testing Solutions and Unit Testing and other relevant testing as requested by our clients."
+   ],
+   "owns_product": [
+    "It upgraded our systems to an extent that it increased our productivity, profitability while reducing cost."
+   ],
+   "DQ_agency": [
+    "From this again, we derive our short- and medium-term operative goals and our employer branding – to present UKB IT as a powerful, reliable and attractive employer."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "ValueLabs Solutions LLP",
+  "city": "Hyderabad",
+  "domain": "valuelabs.com",
+  "website": "https://www.valuelabs.com:443/",
+  "already_in_hubspot": true,
+  "headcount_known": 8736,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ovation Locations Partnerships Services Product Development Software Development Modernization Quality Engineering DevSecOps & SRE Cloud Experience Us"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 7930,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 8,
+   "qa": 5,
+   "owns_product": 10,
+   "cicd": 3,
+   "senior_roles": 1,
+   "DQ_training": 1,
+   "sdlc": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "300+ ENTERPRISE CLIENTS Working as one team with our clients’ core teams, offering them the gift of time.",
+    "Insurance Insurance Travel Ecommerce Vertical AI – Insurance 1/1 GAPS Operations teams not aligned with modern SaaS platform standards?",
+    "Healthcare Information Provider “We're feeding our core application's entire codebase into AI to find ways to improve it, clear out technical debt, boost efficiency, and speed up coding right at the heart of our system.",
+    "A visionary leader, Raj excels in technology strategy, global delivery, and digital transformation across sectors like Health Benefits, Insurance, Travel, Retail, and EdTech."
+   ],
+   "qa": [
+    "Know More Use Cases and Applications Exploring AiDE ® in Action Agentic AI Services Vertical AI Consulting AiDE Solutions → Product Development Product Development 6 Quality Engineering 4 Data and Analytics 4 Cybersecurity 3 Enhancing your Existing Codebase 1/6 GAPS Taking longer than you’d like to launch new features?",
+    "Shift Left on Testing – Dev and Testing in Parallel 1/4 GAPS Want your code tested during development to ensure a high-quality product?",
+    "Keen to integrate basic functional tests during dev to shift left on quality?",
+    "Under his leadership, our QA/Testing team has expanded from a team of 2 to over 1,500!"
+   ],
+   "owns_product": [
+    "SOLUTION AiDE ® integrates with your product management platform, auto-generating wireframes, code, and test cases from user stories.",
+    "Want to ensure your platform can handle growing traffic as marketing ramps up?",
+    "Need to future-proof your platform for the next five years?",
+    "Revamp or Re-design your Platform UI 1/1 GAPS Platform starting to feel outdated and in need of a fresh design?"
+   ],
+   "cicd": [
+    "By using AiDE ® through the idea-to-launch pipeline, teams can focus on functional reviews, making the time and effort spent in building enterprises sustainable.",
+    "GAPS Incident responders getting overwhelmed by a high volume of alerts from various security tools and systems, resulting in alert fatigue?",
+    "Once reviewed and approved, the associated back-end code and test pipelines will be generated to ensure a functioning and stable platform post-revamp."
+   ],
+   "senior_roles": [
+    "She has also been recognized as one of the 50 most innovative HR Tech Leaders by World HRD."
+   ],
+   "DQ_training": [
+    "Her forte lies in building, growing, coaching, and mentoring high-performance design teams from scratch."
+   ],
+   "sdlc": [
+    "In his 14 years with us, Phani has successfully implemented the agile approach to our business."
+   ],
+   "DQ_agency": [
+    "As the CSO, Raghuveer is responsible for firm-wide sales operations, customer success, digital marketing, large deal pursuits, and key accounts growth at ValueLabs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "VLink India Private Limited",
+  "city": "Gurugram",
+  "domain": "vlinkinfo.com",
+  "website": "https://vlinkinfo.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 240,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "es Hire Developers Industries About Us Resources Learn More Case Studies Hire Top Talent Open main menu Transforming through Digital Solutions Take yo"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 1,
+   "prod_eng": 1,
+   "enterprise": 9,
+   "sdlc": 8,
+   "DQ_template": 1,
+   "DQ_training": 2,
+   "DQ_agency": 1,
+   "owns_product": 1,
+   "qa": 4
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Speak to Our Solution Architects Shaping Business with Digital Transformation VLink is a trusted digital transformation company that delivers software engineering services across industries using cutting-edge technologies and top-tier talent."
+   ],
+   "prod_eng": [
+    "DevOps As a reliable software engineering company, we automate, scale, and modernize product engineering to streamline operations, accelerate project timelines, and improve overall product quality with our reliable DevOps services."
+   ],
+   "enterprise": [
+    "Real Business Impact As a leading digital engineering services provider, we help businesses across sectors such as Healthcare, Finance, Retail, and Logistics thrive by delivering customized software solutions powered by next-gen technologies.",
+    "45% more efficient operations 35% lower IT maintenance costs Read Case Study Smart Medical Records App Enabling healthcare providers to streamline patient record management.",
+    "AR/VR We deliver immersive experiences with AR/VR solutions, revolutionizing customer engagement, training, and collaboration across industries like retail, healthcare, and manufacturing.",
+    "Whether for a burgeoning retail startup in Toronto or a Fortune 500 manufacturing giant in Texas, digital transformation in business demands a holistic rethinking of how products and services are conceived, created, delivered, and supported."
+   ],
+   "sdlc": [
+    "1 2 3 4 5 6 7 Why Businesses Choose VLink At VLink, we combine cutting-edge technology, elite pre-vetted talent, and flexible engagement models to help businesses achieve measurable results.",
+    "Data-Driven Decision-Making: Breaking down data silos to create a single source of truth, employing predictive analytics to forecast trends, and equipping leadership with real-time dashboards for agile decision-making.",
+    "Unmatched Agility and Resilience: Cloud-native platforms and agile development methodologies empower organizations to pivot in near real-time.",
+    "Focus on building critical in-house expertise in areas like data literacy, agile methodologies, cybersecurity, and cloud computing."
+   ],
+   "DQ_template": [
+    "The Blueprint: A Key Strategy to Digital Transformation Success An effective strategy to digital transformation is not a generic template; it is a bespoke, disciplined, and iterative roadmap meticulously designed to maximize business value, navigate organizational change, and deliver quantifiable results."
+   ],
+   "DQ_training": [
+    "Employees, including middle managers, may resist changes that disrupt established routines, threaten their perceived expertise, or stoke fears of job displacement.",
+    "Change agents who proactively address resistance, offering coaching, mentorship, and transparent communication."
+   ],
+   "DQ_agency": [
+    "Customer Acquisition Cost (CAC) reduction (%): Measure how digital marketing and streamlined onboarding reduce the cost of acquiring a new customer."
+   ],
+   "owns_product": [
+    "Choose our dedicated team as your strategic partner and implementation accelerator, translating your business objectives into tangible, technology-driven outcomes."
+   ],
+   "qa": [
+    "Related Posts [Best Practices] Software Quality Assurance QA Testing Staffing Services for Enterprises In 2023 Quality assurance and software testing are distinct but have a common goal of delivering a quality product or service.",
+    "In this post, we briefly explain the difference between the two, the best practices of QA software testing, and the benefits of using outsourced testing teams."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Vyrazu Labs Private Limited",
+  "city": "Kolkata",
+  "domain": "vyrazu.com",
+  "website": "https://www.vyrazu.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Mobile Application And Software Development Company info@vyrazu.com +91 9748716966 About Who We are How We Work D"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 4177,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "cicd": 2,
+   "DQ_agency": 3,
+   "compliance": 2,
+   "DQ_training": 2,
+   "sdlc": 6
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Let's connect Solutions HealthTech & Healthcare FinTech & BFSI EdTech & Education E-commerce & Retail Supply Chain & Logistics HRTech & Workforce Need Assistance?",
+    "Every industry, from manufacturing to entertainment, healthcare to finance, leverages social platforms to generate customer insights."
+   ],
+   "cicd": [
+    "Our solutions enable smarter decisions with reliable and real-time data pipelines.",
+    "Business Intelligence Data overwhelms without insight."
+   ],
+   "DQ_agency": [
+    "Digital Marketing We craft data-driven marketing campaigns that connect your brand with the right audience.",
+    "From SEO and content marketing to performance ads, we drive visibility, engagement, and measurable results.",
+    "Digital marketing expertise targets precise audience segments."
+   ],
+   "compliance": [
+    "GDPR, HIPAA, SOC 2—the compliance landscape is a labyrinth, and one mistake costs you."
+   ],
+   "DQ_training": [
+    "The internship programs and courses offered by Vyrazu Labs polish your raw skills and make you a true expert professional."
+   ],
+   "sdlc": [
+    "Greate Teams to Build Great Products Flexible Engagement Models That Enable Seamless Collaboration Dedicated team model Being an entrepreneur of a startup, SMB or enterprise, you have lots of responsibilities and duties to perform regularly.",
+    "For extremely busy clients who want an efficient and high-performance team within a short span of time, we recommend our dedicated team engagement model.",
+    "Share your requirements Fixed Price Model Clients with any size of project and specific requirements can choose our fixed-price engagement model.",
+    "Once we are done with analysing and planning the project, we will start working according to our process."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Waystone Centralised Services (IN) Private Limited",
+  "city": "Mumbai",
+  "domain": "waystone.com",
+  "website": "https://www.waystone.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 61895,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 15,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "UK Authorised Corporate Director (ACD) Solutions FCA-authorised governance and oversight for UK regulated funds by the UK’s leading independent Authorised Corporate Director.",
+    "Swiss Fund Solutions We are authorised and regulated to represent foreign funds distributed in Switzerland.",
+    "How Waystone Supports Asset Managers and Asset Owners Waystone is an independent, regulated management company that helps asset managers and fund sponsors outsource regulatory, operational, and administrative responsibilities.",
+    "Our Offering Includes: Flexible ManCo Services Tailored Management Company solutions from fully managed ManCo services to modular support for existing regulated structures, including risk management, reporting and operational support."
+   ],
+   "DQ_agency": [
+    "Individual brand retention: sub fund managers retain their own branding."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Yesautomate Solutions LLP",
+  "city": "New Delhi",
+  "domain": "yesautomate.com",
+  "website": "https://yesautomate.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "e Processes Toggle navigation What We Automate Our Approach Case Studies Home – SaaS Process Automation We develop seamless customized solutions to au"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 14295,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_bpo": 1,
+   "cicd": 1,
+   "enterprise": 2,
+   "DQ_template": 1,
+   "sdlc": 1,
+   "DQ_training": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "What we Automate From data entry, complex workflows and reports to human-like assistants, we automate processes across departments and industries."
+   ],
+   "cicd": [
+    "As finance teams juggle multiple responsibilities, the pressure to ensure timely payments while maintaining accuracy can be overwhelming."
+   ],
+   "enterprise": [
+    "This … Read More Simplify Your Finances with Connected Banking and Business Automation Meta Description:Learn how connected banking and workflow automation can transform vendor payments, GST filings, and reconciliation processes.",
+    "As economic pressures continue to … Read More Simplify Your Finances with Connected Banking and Business Automation Meta Description: Learn how connected banking and workflow automation can transform vendor payments, GST filings, and reconciliation processes."
+   ],
+   "DQ_template": [
+    "Integer posuere erat a ante venenatis dapibus … Read More Awesome WordPress Themes Usability Testing: Your Questions Answered Praesent justo nisl, auctor sed sapien ut, mattis consequat massa."
+   ],
+   "sdlc": [
+    "A more scalable, agile, and cost-efficient approach to managing physical and digital assets ."
+   ],
+   "DQ_training": [
+    "Workflow Automation for Operational Efficiency Automated asset systems can now generate work orders, assign tasks to technicians, track part replacements, and trigger alerts without manual intervention."
+   ],
+   "owns_product": [
+    "Our platform is designed to support diverse sectors from schools and logistics to manufacturing and infrastructure—by delivering scalable, role-based automation workflows tailored to your asset management needs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "AB Infoways",
+  "city": "Bhubaneswar",
+  "domain": "abinfoways.com",
+  "website": "http://abinfoways.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_bpo": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "IT Solutions Complete IT Solutions & Supplies under one roof System Integration & Networking Network Management and Administration Network Antivirus Solutions Language Lab and Smart Classroom Solutions Software Solutions & Website Development Call Center Setup BUILDING MGMT."
+   ],
+   "DQ_support": [
+    "CCTV Surveillance Powerful security and surveillance system Brick/box Camera- For indoor use only, removable and replaceable lens makes it useful for multiple surveillance purposes."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": -2
+ },
+ {
+  "name": "Alisons Infomatics Pvt Ltd",
+  "city": "Kannur",
+  "domain": "alisonsgroup.com",
+  "website": "https://www.alisonsgroup.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "t --> Chat Quick Enquiry Your ideas deserve the best design software development desktop & cloud web design we weave web mobile apps ios & android bra"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Digital Marketing Effective social media strategy that can help your business grow online."
+   ],
+   "DQ_support": [
+    "Our Happy Clients What our clients says about us Clifford Ghana Having been in the hospitality industry in Ghana for close to a decade and provided various software and hardware solutions to our clients, there's one thing missing a tailored software that will meet the needs of our Restaurant clients and be affordable."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": -2
+ },
+ {
+  "name": "Bharat Re-Insurance Brokers Private Limited",
+  "city": "Erode",
+  "domain": "bharatre.in",
+  "website": "https://bharatre.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 19577,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 71,
+   "DQ_training": 6,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "BharatRE Bharat RE Insurance Brokers Pvt.",
+    "Bharat RE Insurance Brokers Pvt.",
+    "Ltd., is our Insurance Advisor handling Group Mediclaim Insurance since 2008.",
+    "Ltd., --> We wish to place on record your contribution in respect of handling our insurance portfolio from the identification of the risks, placement with the proper insurance companies till receipt of claims."
+   ],
+   "DQ_training": [
+    "Ltd., --> We wish to place on record your contribution in respect of handling our insurance portfolio from the identification of the risks, placement with the proper insurance companies till receipt of claims.",
+    "--> We wish to place on record your contribution in respect of handling our insurance requirements from identification of the risk to placement with the insurance companies.",
+    "Area of Specialization: Corporate Finance, Resource mobilization through Banks/ Financial Institutions, Placement of finance instruments etc.",
+    "Designing of Reinsurance and Retrocession Treaty programme, technical analysis, negotiation and placement of reinsurance and retrocession programme with International Reinsurers of repute."
+   ],
+   "DQ_agency": [
+    "Responsibilities Develop effective corporate communication strategies Manage internal communications (information, newsletters etc.) Draft content for mass media or company website Organize initiatives and plan events for conferences and branding Liaise with media and handle requests for interviews, statements etc."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Bulls Eye Knowledge System Limited",
+  "city": "Punjab",
+  "domain": "hitbullseye.com",
+  "website": "https://www.hitbullseye.com:443/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-08-09",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 1,
+   "DQ_training": 7,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "We offer technology-driven education solutions including SaaS-based B2B services for digital transformation of schools and colleges, test preparation for competitive exams and college branding solutions for educational institutes."
+   ],
+   "DQ_training": [
+    "We specialize in coaching for postgraduate exams like CAT, GMAT, GRE and other MBA entrance exams.",
+    "We also offer coaching for other competitive exams such as Banking PO, SSC, and various government exams at some centres, helping aspirants secure prestigious positions in both public and private sectors.",
+    "Explore Now Explore Now Explore Now Explore Now Explore Now Explore Now Explore Now Explore Now Explore Now Explore Now Our Team At Hitbullseye, our team blends expert coaching with cutting-edge technology to deliver the best MBA prep experience.",
+    "Gold Medalists PhD Scholars Published Authors Math Wizards IIT-IIM Alumni Practising CAs Our Courses CAT-MBA CLAT-Law CUET IIMs After +2 Study Zone Quant Verbal Reasoning Data CAT Resources CAT Study Material CAT Syllabus CAT Mock Test CAT Online Coaching CAT Exam Pattern CAT Prev."
+   ],
+   "enterprise": [
+    "We also offer coaching for other competitive exams such as Banking PO, SSC, and various government exams at some centres, helping aspirants secure prestigious positions in both public and private sectors."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Celusion Technologies Private Limited",
+  "city": "Thane",
+  "domain": "celusion.com",
+  "website": "https://www.celusion.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2004-04-07",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 5719,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "DQ_bpo": 1,
+   "enterprise": 47
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our platforms deliver better experiences that drive growth for banks and financial services, with a compelling return on investment.",
+    "5 million customers onboarded Conversion ratio 18% Only 3% applications rejected $4 billion loan amount processed Conversion ratio 78% Across 140K applications Explore our products that lay the foundation blocks to accelerate your digital transformation journey.",
+    "Book a Demo Company Contact Products Onboard Origin Decide Notify Connect Funnel Resources Blog Case Studies News Coverage Toolkits Company Contact Book a Demo Contact us We'd love to show you how our products work and answer any questions you may have."
+   ],
+   "DQ_bpo": [
+    "Learn More Digital account opening Automated Backoffice verifications Origin Enable digital collaboration between customers, financial institutions and partners throughout the loan origination process."
+   ],
+   "enterprise": [
+    "‍ Read our articles and explore the latest trends in banking and financial services technology.",
+    "AI Decision Engine Decisioning Automation Risk Management Tools Fraud Detection Business Rule Engine Credit Underwriting Credit Decisioning Software Go / No-Go Tool Empower your banking decisions with speed, accuracy, and compliance.",
+    "Blog Keep up with the ever changing world of banking and financial services Case Studies Real life case studies and more.",
+    "Book a Demo Company Contact Products Onboard Origin Decide Notify Connect Funnel Resources Blog Case Studies News Coverage Toolkits Company Contact Book a Demo Read our articles and explore the latest trends in banking and financial services technology."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Codelattice Digital Solutions Pvt Ltd",
+  "city": "Calicut",
+  "domain": "codelattice.com",
+  "website": "https://www.codelattice.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "PATHY, WE GROW READ MORE SCALE 0 TO 10K USERS IN 10 MINUTES CASE STUDY USER EXPERIENCE IS HOW IT WORKS SEE DEMO What's Brewing? Roundup of Recent Happ"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 109859,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 5,
+   "DQ_support": 4,
+   "cicd": 3,
+   "DQ_agency": 15,
+   "enterprise": 3,
+   "owns_product": 1,
+   "vcs": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Connect with Codelattice for secure implementation SOC 24 X 7 Security Operations Center Strengthen your security posture with Codelattice SOC services designed to monitor, detect, and respond to threats in real time."
+   ],
+   "DQ_support": [
+    "Ongoing Support Through AMC Contracts Post-launch, our AMC contracts provide continuous monitoring, maintenance, and timely enhancements, ensuring your systems remain efficient, reliable, and future-ready.",
+    "Issue Resolution: Diagnose and resolve technical hardware and software issues, including but not limited to networking problems, software configuration, and hardware malfunctions.",
+    "Proficiency in using help desk software and remote support tools."
+   ],
+   "cicd": [
+    "Prepare regular sales reports and pipeline updates for management.",
+    "Handling marketing roles at the helms of a fast-growing company equipped him with the complete view of how marketing communication is carried out.",
+    "He set up and helmed digital resource companies like BOA8 and Orange Interactive Technology and played a pivotal role in founding and building Digital Orange, a technology company in The Republic of Macedonia, Eastern Europe, that was later acquired for its impressive growth."
+   ],
+   "DQ_agency": [
+    "SEO Specialist Remote Published Date: January 24, 2026 Job Title SEO Specialist Experience 2+ years in SEO Job type Remote, Permanent, Full-time About the Role We are seeking an experienced SEO Specialist to join our team.",
+    "The SEO Specialist will be responsible for implementing and managing SEO campaigns, conducting keyword research, analyzing website performance, and optimizing content for search engines to drive organic traffic and improve rankings.",
+    "Roles and Responsibilities Conduct in-depth technical SEO analysis, addressing site architecture, crawling, and indexing issues.",
+    "Generate regular reports on key SEO metrics and KPIs, providing actionable insights for optimization."
+   ],
+   "enterprise": [
+    "Over the years we worked with several fortune 500 brands and advertising agencies as a premium digital partner for their marketing needs.",
+    "Khadar has provided digital and business consulting services in automotive, financial, real estate and healthcare sectors.",
+    "In his 9-year-old career, Deepu has made a mark working in fintech, banking, social media, advertising, travel and government sector domains."
+   ],
+   "owns_product": [
+    "All our products and solutions are built to scale, suitable from startups to enterprises."
+   ],
+   "vcs": [
+    "on GitHub and is a travel, tech, and fitness enthusiast who has travelled to five continents including Antarctica."
+   ],
+   "senior_roles": [
+    "Deepu is a principal engineer at Funding Circle and has worked with Valtech, Expedia and Kainos in the United Kingdom."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Computer LAB",
+  "city": "Bhubaneswar",
+  "domain": "computerlab.co.in",
+  "website": "https://computerlab.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 3623,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "With innovative IT Solutions and a legacy of 30 years of service excellence, we are the most preferred IT company in Bhubaneswar and the only service provider in Odisha to deliver data entry and data digitization services ."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Eloit Innovations Private Limited",
+  "city": "Kochi",
+  "domain": "eloit.com",
+  "website": "https://eloit.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "DQ_template": 8,
+   "DQ_agency": 6,
+   "compliance": 5
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Eloit Menu Products Products Our Products Empowering Human Potential with Dignified Innovation Edisapp Powerful, secure, flexible, and cloud-based School Management Software For Principals For Staff For Parents Edisapp AI Smart TV App e360 Wear for Watch Websuite World’s 1st Ai Powered Website builder.",
+    "School ERP Software Menu Products Products Our Products Empowering Human Potential with Dignified Innovation Edisapp Powerful, secure, flexible, and cloud-based School Management Software For Principals For Staff For Parents Edisapp AI Smart TV App e360 Wear for Watch Websuite World’s 1st Ai Powered Website builder."
+   ],
+   "DQ_template": [
+    "Eloit Menu Products Products Our Products Empowering Human Potential with Dignified Innovation Edisapp Powerful, secure, flexible, and cloud-based School Management Software For Principals For Staff For Parents Edisapp AI Smart TV App e360 Wear for Watch Websuite World’s 1st Ai Powered Website builder.",
+    "Customisable HPC Templates Ready to Publish in Minutes NEP-Ready Templates Library Download Reports in Seconds Secure, Compliant, and Child-Centred Edisapp protects every learner’s record with enterprise-grade security, aligned with GDPR and India’s DPDP Act.",
+    "Whether for schools, colleges, care-homes, or churches, Websuite offers award-winning templates and an intuitive design process, ensuring a strong, SEO-friendly online presence.",
+    "AI-Driven & SEO-Friendly As Easy as Filling a Google Form Easily Switchable Award Winning Industry Specific Templates View More Request Demo World’s 1st AI-Powered Website Builder for Schools Eloit Websuite for Schools enables educational institutions to create SEO-friendly websites effortlessly."
+   ],
+   "DQ_agency": [
+    "Services Services Our Services Fostering Transformation Through Dignified Service Edvantage Digital Marketing Services for Schools, Boost Visibility, Enhance Reputation and Drive Admissions Talk Safe Virtual Counseling Services for Emotional and Mental Wellness.",
+    "Whether for schools, colleges, care-homes, or churches, Websuite offers award-winning templates and an intuitive design process, ensuring a strong, SEO-friendly online presence.",
+    "AI-Driven & SEO-Friendly As Easy as Filling a Google Form Easily Switchable Award Winning Industry Specific Templates View More Request Demo World’s 1st AI-Powered Website Builder for Schools Eloit Websuite for Schools enables educational institutions to create SEO-friendly websites effortlessly."
+   ],
+   "compliance": [
+    "Customisable HPC Templates Ready to Publish in Minutes NEP-Ready Templates Library Download Reports in Seconds Secure, Compliant, and Child-Centred Edisapp protects every learner’s record with enterprise-grade security, aligned with GDPR and India’s DPDP Act.",
+    "Built on ISO 27001 certified infrastructure and VAPT tested environments, Edisapp keeps school data safeguarded across all 150+ modules, while giving leaders full visibility and control over how information is stored, accessed, and used.",
+    "Eloit is ISO 27001:2013 certified for Management of Information Safety.",
+    "As a leading school ERP provider, Eloit is ISO 9001 & ISO 27001 certified and serves over 700 clients, including governments, universities, and schools worldwide."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Epsum Labs Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "epsumlabs.com",
+  "website": "https://www.epsumlabs.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 39,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2042,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "owns_product": 3,
+   "DQ_bpo": 1,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Request Consultation Explore Solutions Powering Industries Healthcare Logistics Mining Steel & Power IT & Telecom About Us Redefining Industries Through Intelligent Digital Transformation For decades, industries have evolved — but the pace of change is accelerating.",
+    "Explore Industrial Transformation Healthcare & Life Sciences Transforming Healthcare with Intelligent Digital Solutions In healthcare, every second counts and every decision carries immense weight.",
+    "From the complexity of manufacturing floors to the precision of healthcare systems, we turn operational challenges into competitive advantage.",
+    "Over the years, we have grown from a focused engineering team into a full spectrum digital transformation partner, serving industries across healthcare, manufacturing, logistics, smart cities, railways, mining, steel, power, and IT and telecom."
+   ],
+   "owns_product": [
+    "Explore Our Industry 4.0 Expertise Our Platforms Three Platforms.",
+    "Our Solution How Our Process Optimization Solutions Work We connect sensors and tracking systems across every stage of your production process through EpsumThings.",
+    "Process and parameter management Define and maintain your own process targets, grades, and specifications as your product mix changes, without waiting on a vendor."
+   ],
+   "DQ_bpo": [
+    "From complete call centre infrastructure to AI-powered virtual operators, we build intelligent communication solutions."
+   ],
+   "sdlc": [
+    "In organizations that emerge stronger, more agile, and more competitive than before.",
+    "Our Solution How Our Process Optimization Solutions Work We connect sensors and tracking systems across every stage of your production process through EpsumThings."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "ESC Utility Services Private Limited",
+  "city": "Thiruvananthapuram",
+  "domain": "esc-ind.com",
+  "website": "https://esc-ind.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 19244,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_bpo": 1,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "DQ_bpo": [
+    "--> Most of our projects involve the provision of IT-enabled Business Process Management (BPM / BPO) services to our European customers."
+   ],
+   "DQ_training": [
+    "--> Depending on the project requirements or replacement vacancies, we set the timeframe to find an applicant who best meets the requirements."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Foundation For Life Sciences & Business Management",
+  "city": "Solan",
+  "domain": "shooliniuniversity.com",
+  "website": "https://shooliniuniversity.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 16536,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "DQ_training": 10,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Travel, visa, insurance, and personal expenses apply."
+   ],
+   "DQ_training": [
+    "With the support of Shoolini University, I got a placement in a company like Havells.",
+    "Strengthen industry partnerships, placements, and collaborative research.",
+    "Placements Academics Shoolini–Infinite Partnership for Internships and Placements Editor's Pick Shoolini Student Lands ₹42-Lakh Job at Algo8 Faculty Interviews Placement Vision, Strategies and Goals for 2024 Placements From Shoolini to the Bank of America!",
+    "Shoolini Team - February 14, 2023 Placements Cognizant Hires 13 Btech CSE & Food Tech Students"
+   ],
+   "DQ_agency": [
+    "Digital Marketing The positions carry remuneration in line with the best in the academic world."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "GramPro Business Services Private Limited",
+  "city": "Thrissur",
+  "domain": "gramproindia.com",
+  "website": "https://www.gramproindia.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 6991,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 2,
+   "DQ_training": 1,
+   "DQ_support": 4,
+   "compliance": 4,
+   "DQ_bpo": 3,
+   "enterprise": 4,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Our expertise spans IT, human resource management, process optimisation, customer experience, business and social advisory, branding, and corporate communication, delivering clarity and measurable impact.",
+    "We serve as your strategic operations hub, consolidating non-core functions like IT, HR, business process management and branding into a single, efficient source."
+   ],
+   "DQ_training": [
+    "Rosemariya Baby, HR Officer Campus Placements: Your Gateway to Career Success After Graduation 12 Oct 2025"
+   ],
+   "DQ_support": [
+    "We take care of the demanding but essential functions like IT support, customer engagement, marketing, compliance, and more, so your time, talent, and resources can stay centred on your core goals.",
+    "This allows the parent company to achieve speed-to-market for their core function Optimised Service Delivery: We manage and standardise the non-core shared services (e.g., call centers, basic IT support, back-office processing).",
+    "Automate We deploy intelligent solutions like Bot-based Helpdesks, Smart Routing, and Automated Ticketing within your Customer Experience Centre, ensuring every customer interaction is fast, personalised, and highly efficient.",
+    "Inbound/outbound calls Chat/email support Email support Bulk messaging Bot-based helpdesk Smart routing Automated ticketing Managed Service Desk We ensure your employees receive rapid, professional technical and operational support, centralising IT and process issues for seamless internal efficiency."
+   ],
+   "compliance": [
+    "Our ISO 9001:2015 (QMS) and ISO 27001:2022 (ISMS) certifications stand as a testament to the quality and security we deliver.",
+    "We specialise in two core areas: Accelerated Setup & Transition: We handle the time-consuming back-office essentials required for a GCC launch—from IT infrastructure and security compliance (leveraging our ISO 27001 certification) to setting up talent acquisition and HR management.",
+    "Our commitment to quality is underpinned by our ISO 9001:2015 certification (by TÜV Rheinland) for Quality Management.",
+    "We hold the ISO 27001:2022 certification (by TÜV Rheinland) for Information Security Management."
+   ],
+   "DQ_bpo": [
+    "Are you a BPO (Business Process Outsourcing) firm, or is your model different?",
+    "We are a comprehensive shared services provider, which goes beyond traditional BPO.",
+    "This allows the parent company to achieve speed-to-market for their core function Optimised Service Delivery: We manage and standardise the non-core shared services (e.g., call centers, basic IT support, back-office processing)."
+   ],
+   "enterprise": [
+    "Additionally, we proudly partner with industry leaders such as: Financial & Brokerage: Federal Bank, Geojit, Canara HSBC Life Insurance, ESAF SFB, Sharekhan, Indel Money.",
+    "This broad client roster demonstrates our proven ability to deliver excellence across highly regulated and diverse sectors.",
+    "Hire We utilise advanced solutions, including AI-assisted hiring, executive search, and specialised bulk/BFSI recruitment, to rapidly acquire verified, top-tier talent perfectly aligned with your business needs.",
+    "Hiring (AI-assisted) BFSI recruitment Bulk hiring Tech screening Executive hiring Background Verification Minimise organisational risk and ensure regulatory integrity with fast, reliable background checks and advanced digital document validation."
+   ],
+   "cicd": [
+    "L&D frameworks Onboarding platforms Assessment tools Campus Hiring Establish a sustainable talent pipeline by professionally managing fresh talent acquisition and building strategic institutional tie-ups."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Millowsatya Services Private Limited",
+  "city": "Dehradun",
+  "domain": "millow.io",
+  "website": "https://www.millow.io/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 23887,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 1,
+   "owns_product": 2,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Talk To Our Sales Team Contact Us Advantage is as Follows THE MILLOW User Experience and Company Branding An ethos of fighting fraud, empathy for the client and even the applicant is what drives Millow™."
+   ],
+   "owns_product": [
+    "Proprietary Platform Millow™ is a technology driven employee background verification company in India and has built its own background check platform.",
+    "We are constantly adding smart features to our platform and training our employees to improve our processes."
+   ],
+   "sdlc": [
+    "We are constantly adding smart features to our platform and training our employees to improve our processes."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ },
+ {
+  "name": "Muvi Entertainment Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "muvi.com",
+  "website": "https://www.muvi.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 196,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 66188,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 5,
+   "qa": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Learn More Content Encryption License Control Multi-DRM Support Watermarking Geo-blocking INTRODUCING Muvi Meet Own the Way You Meet Host branded sessions, monetize access, and bring meetings directly into your platform without sending users elsewhere.",
+    "You will help us with the messaging and positioning of our products and their features, and preparing sales collateral.",
+    "Muvi’s fully managed CMS service keeps your platform running smoothly, without you ever needing to log in.",
+    "Ongoing Updates & Enhancements Keep your platform fresh and up to date — we manage re-uploads, metadata changes, and content tweaks so you never fall behind."
+   ],
+   "qa": [
+    "We are always looking for developers and QA professionals."
+   ],
+   "DQ_agency": [
+    "Talk to Sales Everything Handled for You — End to End From uploads and metadata to monetization, branding, and app readiness — Muvi’s CMS Management handles it all, so you can grow your streaming business without logging in."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": -2
+ }
+]

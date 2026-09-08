@@ -1,0 +1,859 @@
+[
+ {
+  "name": "Meritech Solutions Private Limited",
+  "city": "Mohali",
+  "domain": "meritechsolutions.com",
+  "website": "https://meritechsolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 6,
+   "qa": 1,
+   "owns_product": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "As a pioneer of state-of-the-art solutions and IT services, we are committed to bringing Software and Hardware solutions to our Global customers to empower them stay ahead of the ever-evolving mobile wireless and IoT industry.",
+    "As a leading manufacturer of cutting-edge solutions and IT Services provider, we are dedicated to providing Software and Hardware solutions that empower Global Customers to stay ahead of the ever-evolving mobile wireless and IoT industry.",
+    "At Meritech, we are dedicated to providing Software and Hardware solutions that empower Global Customers to stay ahead of the ever-evolving mobile wireless, IoT and IT industry."
+   ],
+   "qa": [
+    "Read More January 20, 2025 Benefits of Outsourcing QA In today's fast-paced digital landscape, ensuring the quality of software products is ever more crucial."
+   ],
+   "owns_product": [
+    "We understand that your success is our success and we strive to make our products the best in the industry."
+   ],
+   "enterprise": [
+    "This strategic move included launching Mesimo, a Private MVNO positioning Meritech as a player in healthcare technology."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Metafic",
+  "city": "Bengaluru",
+  "domain": "metafic.co",
+  "website": "https://metafic.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ng Metafic.ai, GTP, on-demand for enterprises. Metafic.ai 0 projects delivered 0 experts in the team across 9 countries Solutions For Every Idea & Eve"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "sdlc": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Metafic Design Unlimited View In Detail Your Product’s Journey, Live on One Screen Goodbye Follow-Ups, Hello Live Roadmap See your product being built in real time, from sprint boards to Gantt charts, in a single clean dashboard."
+   ],
+   "sdlc": [
+    "Metafic Design Unlimited View In Detail Your Product’s Journey, Live on One Screen Goodbye Follow-Ups, Hello Live Roadmap See your product being built in real time, from sprint boards to Gantt charts, in a single clean dashboard.",
+    "The first engagement is almost always an assessment: where the money goes, where the risk concentrates, and where reliability is fragile."
+   ],
+   "cicd": [
+    "We harden security as a default posture, and we automate the repetitive operational work — provisioning, patching, scaling — through infrastructure as code so your environment is reproducible and auditable."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Metlife Global Operations Support Centre Pvt Ltd",
+  "city": "Noida",
+  "domain": "metlife.com",
+  "website": "https://www.metlife.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "olicies & Codes 2020 Sustainability Report 01 Strengthening Our Workforce 02 Empowering Communities 03 Protecting Our Environment 04 Creating Value as"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 4844,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 107
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Scammers impersonate a trusted company to convince their targets into revealing or handing over sensitive information such as insurance, banking or login credentials.",
+    "Enhance your health coverage From dental and vision coverage to pet insurance, our benefits are designed to support your health and fit your budget.",
+    "Dental insurance Vision insurance Pet insurance Safeguard your valuables We offer specialized coverage to help you protect your biggest investments and defend against online threats.",
+    "Identity and fraud protection​ Secure your family’s future Life insurance and legal plans can help protect your loved ones for the unexpected and support long-term planning — so you feel confident about today and tomorrow."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "MetricsNumero Technology Private Limited",
+  "city": "Kolkata",
+  "domain": "metricsnumero.com",
+  "website": "https://www.metricsnumero.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 19673,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 3,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Flexible Engagement Models."
+   ],
+   "enterprise": [
+    "Known for her sharp financial acumen and people-centric leadership, Priyanka has also managed large, cross-functional teams and built strong banking and investor relationships."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Metrixlab Research India LLP",
+  "city": "Hyderabad",
+  "domain": "markettools.com",
+  "website": "https://tolunacorporate.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "de 5: The untapped potential of the African youth workforce Case studies See how we work: 7 Case study: Facebook leverages creative testing to drive b"
+  },
+  "jd": {
+   "pages_read": 13,
+   "external_job_boards": [],
+   "jd_chars": 88603,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 6,
+   "compliance": 1,
+   "owns_product": 3,
+   "DQ_agency": 1,
+   "enterprise": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Best for: ◆ Agile custom quant ◆ HANDS-FREE Delegate to expert-infused AI AI designs studies and analyzes results for you, with built-in research expertise and optional review at key moments.",
+    "Best for: ◆ Agile quant ◆ INTERACTIVE Explore with expert-infused AI Interact with AI in real time to probe ideas, adapt research, and uncover insights as you go.",
+    "Best for: ◆ Agile iterative qual Reasons to Believe Insights built on data you can trust Data quality is the backbone of trusted intelligence.",
+    "It’s transformed how we work; turning “we should look into that” into actionable insights before the coffee gets cold."
+   ],
+   "compliance": [
+    "✓ ISO 27001 Industry recognitions Knowledge partnerships Resources to keep you one step ahead Explore blog posts, case studies, whitepapers, and more from our experts."
+   ],
+   "owns_product": [
+    "Mission Deliver on-demand access to unlimited expertise through our platform and people so our insights can help grow your brand and business.",
+    "Consumer Packaged Goods / FMCG Ensure your claims resonate with buyers, your product stands out on the shelf, and your innovation pipeline is full of the highest potential new products.",
+    "Food and Beverage Don’t let the latest consumer trend pass you by – understand and co-create with your buyers, discover what and where they are willing to try and buy your products."
+   ],
+   "DQ_agency": [
+    "S cott Axcell CMO Read the bio Bio: Scott Axcell is a transformative growth marketing leader and Chief Marketing Officer at Toluna, where he leads branding, demand generation, product marketing, creative, digital marketing, and marketing operations while serving on the executive leadership team."
+   ],
+   "enterprise": [
+    "Whether you’re optimizing product innovation in CPG, testing and refining ad campaigns for maximum impact in healthcare, or elevating guest experiences in Travel & Hospitality, Toluna equips you with the real-world insights to fuel growth at every turn.",
+    "Consumer Healthcare Need to speak to medical professionals, physicians, or ailment sufferers?"
+   ],
+   "cicd": [
+    "Consumer Packaged Goods / FMCG Ensure your claims resonate with buyers, your product stands out on the shelf, and your innovation pipeline is full of the highest potential new products."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Mettlesemi Systems And Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "mettlesemi.com",
+  "website": "https://www.mettlesemi.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 15,
+   "external_job_boards": [],
+   "jd_chars": 98364,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 6,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Electronics hardware systems design, prototyping of embedded systems, custom-made products, Silicon / FPGA solutions and services About Mettlesemi Mettlesemi Systems and Technologies Pvt.",
+    "We are driven by a mission to shape the future of secure electronics and hardware innovation through breakthrough products, platforms, and design services.",
+    "Mettlesemi Mission To set the benchmark in electronics hardware systems design and prototyping with custom-made products, solutions and services.",
+    "Technological Focus Areas Communication technologies, Networking solutions, Ethernet security, FinTech, HFT, Cyber-Security/ Authentication devices/ applications, IoT smart products."
+   ],
+   "sdlc": [
+    "Their hands-on experience across projects makes them agile, creative, and ready to innovate.",
+    "She has helped these businesses grow by breeding agile, diverse winning teams that lead innovation and deliver superior results."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "MHFA India Private Limited",
+  "city": "Chennai",
+  "domain": "mhfaindia.com",
+  "website": "https://www.mhfaindia.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "d Staff MHFA at Campuses Address Mental Health Problems at Your Workplace by investing in Education and Early Intervention MHFA at Work Places Mental"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 4285,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "This role requires a dynamic professional with a strong background in Sales / Business Development/ Operations Management / Service Delivery and could come from a diverse set of industries such as Training / Services / SAAS / Hospitality / Healthcare or with a background in the MICE industry."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Microland Limited",
+  "city": "Bengaluru",
+  "domain": "microland.com",
+  "website": "https://www.microland.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 15305,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our deep experience managing complex enterprise infrastructure is embedded into our platforms, AI capabilities, and operational processes."
+   ],
+   "sdlc": [
+    "This combination of domain expertise, intelligent technology, and operational rigor enables us to apply AI responsibly at enterprise scale, making IT environments safer, more agile, and more resilient."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "MIH Internet India Private Limited",
+  "city": "Delhi",
+  "domain": "prosus.com",
+  "website": "https://www.prosus.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "o to content Navigate Preview company Navigate Next company We build leading companies that empower people and enrich communities See all our companie"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "cicd": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Prior to joining Prosus he was a Managing Director and Head of EMEA Internet Investment Banking at Citigroup.",
+    "She previously held senior roles within global advisory firm, FGS, and began her career in banking and finance.",
+    "He brings to the company more than two decades of experience and extensive knowledge of global payments, credit, and digital banking gained across geographies like the US, India, and the broader Asia-Pacific region.",
+    "She previously worked in banking and finance, holding governance and legal advisory roles at Absa and Standard Bank."
+   ],
+   "cicd": [
+    "Christian has an International Baccalaureate and a Master's degree in Economics and Business Economics from Bonn's Rheinische Friedrich-Wilhelms-Universität."
+   ],
+   "DQ_support": [
+    "Mrs Dubey is also a board member and currently Chairman for Fortive Corporation, an industrial engineering company focused on hardware-driven businesses."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Mikro Grafeio Services Private Limited",
+  "city": "Coimbatore",
+  "domain": "mikrografeio.com",
+  "website": "https://www.mikrografeio.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 25102,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Ranchu Nair Co-Founder and CEO of Mikro Grafeio with 20yrs+ experience across countries, Ranchu Nair has multi-sector expertise including banking, healthcare & technology.",
+    "Ram Kevalur An accomplished transformation leader, strategic advisor, and startup evangelist, Ram Kevalur brings over two decades of global leadership experience in steering and revolutionizing banking operations for esteemed organizations such as Citigroup and the Tata Group."
+   ],
+   "prod_eng": [
+    "Shyam is a cohesive execution strategist on deep-tech, smart city solutions, product engineering, enterprise transformation, and government programs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Milliman India Private Limited",
+  "city": "Gurugram",
+  "domain": "in.milliman.com",
+  "website": "https://in.milliman.com/en-GB",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 21
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Solutions for a world at risk Skip to main content Health Insurance Retirement & Benefits Risk Careers About Contact Us Loading...",
+    "We work in the areas of health insurance, employee benefits and life insurance.",
+    "Subscribe Annual Report Global life and health insurance mergers and acquisitions See a breakdown of top M&A deals and a market outlook for North America, Europe, Asia, Latin America, and Africa.",
+    "Read the article Article Measuring medical inflation in India With medical costs in India rising faster than general inflation, using a data‑driven framework and transparent index can support the healthcare ecosystem."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Mindforce Research Private Limited",
+  "city": "Noida",
+  "domain": "mindforceresearch.com",
+  "website": "https://www.mindforceresearch.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Principal Consultant NASDAQ listed Technology and Market Research Mindforce has been our preferred vendor for our Customer and Partner Satisfaction studies, with their very effective phone to web methodology."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Mindspace Business Parks REIT",
+  "city": "Mumbai",
+  "domain": "mindspacereit.com",
+  "website": "https://www.mindspacereit.com/home",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "view Governing Board Senior Management Corporate Governance Portfolio Overview Mumbai Region Mindspace Airoli East Mindspace Airoli West Paradigm Mind"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 12844,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "MiotWeb Technologies Private Limited",
+  "city": "Pune",
+  "domain": "miotweb.com",
+  "website": "https://miotweb.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "sdlc": [
+    "She is having vast experience in IOT, Customised Web Development, AWS Cloud, Agile Development, Travel & Hospitality domain, VOIP/ Telecommunication domain, Health Care domain.",
+    "He is having a vast experience in IOT (BLE/SIM based device integration), E-Commerce, Native & Hybrid Mobile Apps Development, Customised Web Development, AWS Cloud, Agile Development, Travel & Hospitality domain, Finance (Foreign Exchange) domain and Telecom (Test & Measurement) domain."
+   ],
+   "enterprise": [
+    "Jadumani Singh is the Founder and Director of JR Analytics, a healthcare consultancy company in Adelaide.",
+    "Jadumani Singh is a doctor with a combined passion of healthcare and technology.",
+    "Along with his team, he is in the journey of improving healthcare with technology.",
+    "She is a doctor, researcher with a passion in healthcare data and information technology ."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "MMJS Dataphi Private Limited",
+  "city": "Pune",
+  "domain": "dataphimmjs.com",
+  "website": "https://data-phi.ai/",
+  "already_in_hubspot": true,
+  "headcount_known": 77,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 36638,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "sdlc": 3,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Home - DataPhi Skip to main content DataPhi PhAI Services Services Data Engineering and Analytics PhAI - GenAI, AI and ML Data Governance ESG Navigator Multi-Agent Orchestrator Platform Your Environment, Your Platform, Your UI.",
+    "Explore More PhAI - GenAI, AI and ML Think AI Beyond Chatbots & Automation Multi Agent Ecosystem Your Environment, Your Platform, Your UI – > One Orchestrator Hub for all your Agents.",
+    "Know more Accelerated ML Solutions Realize high-value ML use cases in weeks — not months with the help of PhAI’s pre-built Accelerators."
+   ],
+   "sdlc": [
+    "Early Validation Fast, Working Demos Clear Ownership Solutions that teams actually keep using Our Values Our values guide how we work, especially when things get complex.",
+    "They show up in how we scope work, run sprints, review outcomes, and stay involved long after go-live.",
+    "His certifications include AWS Solutions Architect, SAFe Agile Practitioner, and Advanced Program Management from Cornell University."
+   ],
+   "senior_roles": [
+    "Sharan has led and delivered analytics initiatives across the USA, India, and the Middle East, working in roles such as Solution Architect and Project Manager and managing globally distributed delivery teams."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Mobillor Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "mobillor.com",
+  "website": "https://mobillor.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Mobisy Technologies Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "mobisy.com",
+  "website": "https://bizom.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "le. test_cookie 15 minutes This cookie is set by doubleclick.net. The purpose of the cookie is to determine if the user's browser supports cookies. VI"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 10631,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1,
+   "senior_roles": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Bizom Marshal RI Co Pilot Smart Merchandising Beat Optimisation RI Agents Gen AI-based Outlet Deduplication Bizom Marshal Turns sales conversations into structured coaching insights that improve field performance and execution discipline."
+   ],
+   "senior_roles": [
+    "Ketan Suthar Senior Engineering Manager Great Place to Where work is fun People First Our UI and our culture are built for humans."
+   ],
+   "enterprise": [
+    "Explore Solution 8 Collection & Banking Simplify taxation-related instances and keep them rest assured about compliance norms."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Modern Ballistic Solutions Private Limited",
+  "city": "Ahmedabad",
+  "domain": "mbsglobal.io",
+  "website": "https://www.mbsglobal.io/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "2022 Orchestrated talent solutions for the Healthcare & Pharmaceutical sectors.",
+    "\" 2022 \" Orchestrated talent solutions for the Healthcare & Pharmaceutical sectors."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "mokSa Technologies India Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "moksatechnologies.com",
+  "website": "https://www.moksatechnologies.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "rmation CX Deployments CX Consulting CX Managed Services CX Product Engineering Services CX Professional Services Contact Center Solution Our Products"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 6617,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Privacy Policy Our Customer Banking and Finance Aviation Healthcare Communication Hospitality Resources Reports Case Studies Ebooks Contact 812, 8th Floor, Park Centra, Sector 30, Gurgaon – 122 001 + 91-124-4968350 sales@moksatechnologies.com Opening Hours: 9.30 AM – 5.30 PM Other Locations © 2019 MokSa Technologies."
+   ],
+   "DQ_training": [
+    "Current Openings Genesys Sales Manager Management Trainee Inside Sales Training and Placement Cell Genesys Consultants Basics Contact Center Technology About MokSa Technologies is a Global Consulting and Technology Services Company, providing Full Spectrum Services in various areas of Unified Communications."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Mondelez India Foods Private Limited",
+  "city": "Mumbai",
+  "domain": "mondelezinternational.com",
+  "website": "https://www.mondelezinternational.com:443/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 12,
+   "external_job_boards": [],
+   "jd_chars": 41231,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

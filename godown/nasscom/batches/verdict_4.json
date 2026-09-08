@@ -1,0 +1,302 @@
+[
+ {
+  "name": "Relativity Management Solutions India Private Limited",
+  "domain": "relativity.co.in",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "payroll outsourcing, statutory and TDS compliance, accounting for enterprises",
+  "evidence": "End-to-End Payroll and HR Compliance Services; Payroll Outsourcing; Statutory Compliance; Accounting"
+ },
+ {
+  "name": "Rio Tinto India Private Limited",
+  "domain": "riotinto.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "global metals and mining producer, iron ore and aluminium",
+  "evidence": "mission to become the world's most valued metals and mining business"
+ },
+ {
+  "name": "Russell Reynolds Associates India Private Limited",
+  "domain": "russellreynolds.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "executive search and board/CEO leadership advisory",
+  "evidence": "executive search consultants help you recruit great CEOs, CxOs, and board members"
+ },
+ {
+  "name": "Salt Web Technologies Private Limited",
+  "domain": "salttechno.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "outsourced custom software and product engineering pods for client platforms",
+  "evidence": "Custom Software Development Services; Product Engineering Services; managed teams deliver end-to-end"
+ },
+ {
+  "name": "Saveetha Engineering College (A college of Saveetha Medical and Educational Trust)",
+  "domain": "saveetha.ac.in",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "engineering college offering BE/BTech/ME/MBA degree programmes",
+  "evidence": "Best Engineering College in Tamilnadu, Admissions Open 2026-27, B.E / B.TECH / M.E / MBA"
+ },
+ {
+  "name": "Serko India Private Limited",
+  "domain": "serko.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "builds corporate travel booking and expense platforms Zeno and GetThere",
+  "evidence": "Serko is a technology company; Zeno corporate travel and expense management platform"
+ },
+ {
+  "name": "ShubhiTech (OPC) Private Limited",
+  "domain": "shubhitech.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "custom software, Android/iOS apps, ERP and web platform development",
+  "evidence": "expertise spans custom software development, mobile apps (Android & iOS), ERP systems"
+ },
+ {
+  "name": "Skilliantech India Private Limited",
+  "domain": "skillrecruit.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": 2005,
+  "what_they_do": "IT and engineering recruitment and contract staffing across UK/EMEA/APAC",
+  "evidence": "IT and Engineering Recruitment Specialists; Global IT and Leadership Staffing Solutions Provider"
+ },
+ {
+  "name": "Smith & Nephew GBS Private Limited",
+  "domain": "smith-nephew.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "medical devices: wound care, sports medicine, orthopaedic implants",
+  "evidence": "portfolio medical technology company focused on repair, regeneration and replacement of tissue"
+ },
+ {
+  "name": "Softude Infotech Private Limited",
+  "domain": "systematixinfotech.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "unknown; scraped page returned unreadable binary, needs human check",
+  "evidence": "text is corrupted binary/compressed output, no readable content to judge"
+ },
+ {
+  "name": "Sparx IT Solutions Pvt Ltd",
+  "domain": "sparxitsolutions.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "eCommerce, mobile app and platform development plus legacy modernization for clients",
+  "evidence": "Mobile App Development, Product Engineering, eCommerce Development; built AI-powered induction platform"
+ },
+ {
+  "name": "SRR CloudExpertsGuru India Private Limited",
+  "domain": "cloudexpertsguru.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "cloud migration, DevOps/IaC, data pipeline engineering and security consulting",
+  "evidence": "Legacy Modernization; ETL & Data Pipeline Design; Infrastructure as Code (Terraform)"
+ },
+ {
+  "name": "Streamvector Technology Private Limited",
+  "domain": "sigmoid.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "data engineering and GenAI/agentic AI solution build-out for large enterprises",
+  "evidence": "200+ AI agents built and deployed; AI-Led Data Engineering; implement and scale GenAI end-to-end"
+ },
+ {
+  "name": "Sutherland Global Services Pvt Ltd",
+  "domain": "sutherlandglobal.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "BPO and digital/AI engineering services plus own platforms for enterprises",
+  "evidence": "Agentic Software Engineering; Digital Engineering: Develop agile digital pro[ducts]; advanced products and platforms"
+ },
+ {
+  "name": "Taashee Linux Services Private Limited",
+  "domain": "taashee.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "open-source IT services, cloud consulting, offshore development, IT staffing",
+  "evidence": "Our Solutions: Offshore Development, Application Management; but largest Red Hat India partner"
+ },
+ {
+  "name": "TeamF1 Networks Private Limited",
+  "domain": "teamf1networks.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "embedded networking/security software products and customization for device vendors",
+  "evidence": "powerhouse in providing customised embedded software solutions; turnkey solution for building software"
+ },
+ {
+  "name": "TechWise Digital Private Limited",
+  "domain": "techwisedigital.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "IT contract staffing, contract-to-hire and vendor management",
+  "evidence": "India's leading IT Staffing agency; Just-In-Time IT Staffing Solutions; Contract-to-Hire"
+ },
+ {
+  "name": "TestVagrant Technologies Private Limited",
+  "domain": "testvagrant.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "software test engineering and test automation for web, mobile, microservices",
+  "evidence": "global software test engineering company; Rapid test automation of Web, REST APIs and Mobile"
+ },
+ {
+  "name": "TLC Digitech Private Limited",
+  "domain": "tlcgroup.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "hotel membership programs plus own membership/voucher tech platforms",
+  "evidence": "Our Tech Products: Membership Management, Voucher Management; Development, integration of tech platforms"
+ },
+ {
+  "name": "Transact Campus India Private Limited",
+  "domain": "transactcampus.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "campus payments, ID credential, POS and dining management software platforms",
+  "evidence": "cloud-based foundation for campus dining; unified platform that simplifies POS and retail"
+ },
+ {
+  "name": "Trusted Support Services Private Limited",
+  "domain": "tsspl.org",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "employee background verification and screening services across India",
+  "evidence": "Comprehensive Employee Background Verification Services; Criminal Record Verification; Drug Screening"
+ },
+ {
+  "name": "Uncodemy Edutech Private Limited",
+  "domain": "uncodemy.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "IT training institute teaching data science, full stack, testing courses",
+  "evidence": "Uncodemy - India's Best IT Training Institute in Noida Delhi; Courses; PG Programs"
+ },
+ {
+  "name": "UTI Infrastructure Technology and Services Limited",
+  "domain": "utiitsl.com",
+  "relevant": false,
+  "confidence": "medium",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "PAN card processing, Aadhaar kendras, medical bill processing, mutual fund distribution",
+  "evidence": "appointed for purpose of receiving and processing of PAN applications; Medical Bill Processing"
+ },
+ {
+  "name": "vCreaTek Consulting Services Private Limited",
+  "domain": "vcreatek.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "data/AI and product engineering services; own SCY supply chain platform",
+  "evidence": "Product Engineering; We build intelligent platforms; The SCY Platform is a configurable engine"
+ },
+ {
+  "name": "Vertex Offshore Services Pvt Ltd",
+  "domain": "vertexcs.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "Salesforce and Microsoft implementation, data analytics, contract staffing",
+  "evidence": "Salesforce implementation; Microsoft tools and technologies; Contract Staffing; 1000+ digital projects"
+ },
+ {
+  "name": "Vinsinfo Private Limited",
+  "domain": "vinsinfo.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "eCommerce store development, cloud application engineering, AR/VR development",
+  "evidence": "Ecommerce Development Services; VR / AR Development Services; Design, build, engineer applications"
+ },
+ {
+  "name": "Vyrazu Labs Private Limited",
+  "domain": "vyrazu.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "custom software engineering, AI/ML, cloud and IoT development for clients",
+  "evidence": "Software Engineering: We build robust, scalable, high-performing software tailored to your business"
+ },
+ {
+  "name": "William O'Neil India Private Limited",
+  "domain": "williamoneilindia.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "equity research; builds stock-screening interfaces and proprietary ranking algorithms",
+  "evidence": "track over 70000 stocks globally and create user interfaces and trade metrics"
+ },
+ {
+  "name": "Woxa Technologies Private Limited",
+  "domain": "woxatech.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "website and software development, ERP/OMR software, plus digital marketing",
+  "evidence": "Software Development: Software For Government, ERP Software, College ERP; Application Development"
+ },
+ {
+  "name": "Xponential Systems Private Limited",
+  "domain": "xponential.digital",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "digital transformation consulting and low-code application development",
+  "evidence": "page title only: Digital Transformation Consulting & Low Code App Development; body is CSS boilerplate"
+ }
+]

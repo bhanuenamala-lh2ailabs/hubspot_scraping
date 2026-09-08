@@ -1,0 +1,11 @@
+discover
+  seeds: 45 known shutdowns loaded (zero network)
+  google news: 320 monthly buckets
+  gdelt: 160 buckets
+    Inc42: 0
+    YourStory: 0
+    Moneycontrol: 0
+    Mint: 0
+    ET Tech: 0
+  discovery totals: {'google_news': 182, 'gdelt': 1, 'media_rss': 0, 'tracker':
+0} = 183

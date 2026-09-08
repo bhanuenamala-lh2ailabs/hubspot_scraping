@@ -1,0 +1,903 @@
+[
+ {
+  "name": "Smartek21 Private Limited",
+  "city": "Pune",
+  "domain": "smartek21.com",
+  "website": "https://smartek21.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2006-01-27",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 15077,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 10,
+   "sdlc": 4,
+   "enterprise": 10,
+   "prod_eng": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Learn more about Smartboxx Client Accelerators Our Client Accelerators are focused engagements designed to move initiatives forward quickly and with clarity.",
+    "Each accelerator combines strategic insight, hands-on execution, and practical deliverables, giving teams a clear path forward, reduced risk, and momentum they can build on immediately."
+   ],
+   "sdlc": [
+    "Discover Our Approach > AI-Driven Modernization Transform legacy systems into agile, intelligent platforms that power your future.",
+    "Modernize Legacy Systems Transform your aging legacy systems into modern, agile platforms that can support your future growth.",
+    "Legacy System Modernization We help you modernize your aging legacy systems, transforming them into agile platforms that can support your future growth.",
+    "Our unique onshore/offshore agile delivery models are designed to unlock exceptional commercial benefits for your business."
+   ],
+   "enterprise": [
+    "We understand the unique pressures of regulated and high-stakes environments.",
+    "Our deep industry expertise in financial services, healthcare, and other complex sectors ensures that our solutions are not only technologically advanced but also compliant, secure, and tailored to your specific market realities.",
+    "Financial Services & Insurance Navigating Regulation with Innovation We navigate complex regulatory requirements while delivering innovative solutions in banking, insurance, and wealth management.",
+    "Learn more > Healthcare & Life Sciences Secure, Compliant, and Patient-Focused We develop secure, compliant solutions that improve patient outcomes and streamline healthcare operations."
+   ],
+   "prod_eng": [
+    "Our track record of success is a testament to our commitment to engineering excellence and measurable business outcomes.",
+    "Today, SmarTek21 represents the combined strengths of advanced product engineering, cutting-edge AI and data solutions, and elite technology talent."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "SMBC Global Services Private Limited",
+  "city": "Chennai",
+  "domain": "smbc.co.jp",
+  "website": "https://www.smbc.co.jp/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 12,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "SOA IT Solutions Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "soais.com",
+  "website": "https://soais.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "s Oracle Nividous Paybooks About Us Careers Resource Center Case Studies Knowledge Base Tools & Accelerators Videos Webinar Gartner Articles Newsroom"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 5104,
+   "signals": {
+    "testing": 4
+   },
+   "quotes": {
+    "testing": [
+     "Job Openings Career Form Updates Your name Your email Phone/Mobile Applying for Job Robotic Process Automation Test Automation Oracle Cloud UiPath WorkSoft SAP Tricentis Oracle Others Upload CV/Resume Click or drag a file to this area to upload.",
+     "Submit Form SERVICES Robotic Process Automation Test Automation Oracle Cloud Facebook X-twitter Linkedin Youtube TECHNOLOGIES UiPath WorkSoft SAP Tricentis Oracle SOAIS INDIA Unit – 9, Level-5, Navigator IT Park, Whitefield Road, Bangalore – 560066 +91 7406038110 SOAIS USA Suite :"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 17,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "SOAIS Skip to content Menu Home Services Robotic Process Automation Test Automation Oracle Cloud Technologies UiPath WorkSoft SAP Tricentis Oracle Resources Blogs Case Studies Webinar Videos About Careers Get in touch Newsletter subscribe!",
+    "Get in touch Test Automation Effortless Testing, Exceptional Results Revolutionize Your Software Development Lifecycle with SOAIS’ Test Automation.",
+    "Read More Test Automation We have deep expertise in Test Automation for all kinds of enterprise applications using multiple tools/technologies like Worksoft, Tricentis, Selenium, etc.",
+    "Get in touch SERVICES Robotic Process Automation Test Automation Oracle Cloud Facebook X-twitter Linkedin Youtube TECHNOLOGIES UiPath WorkSoft SAP Tricentis Oracle SOAIS INDIA Unit – 9, Level-5, Navigator IT Park, Whitefield Road, Bangalore – 560066 +91 7406038110 SOAIS USA Suite : 101, 1979, N Mill St."
+   ],
+   "sdlc": [
+    "RPA for your SAP Processes RPA technology seamlessly integrates with your existing SAP environment, complementing your processes without the need for complex system overhauls."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Sodexo India Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "in.sodexo.com",
+  "website": "https://www.sodexo.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 4871,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Transparency We ensure that our customers, employees and shareholders are informed accurately and clearly about our products and services."
+   ],
+   "enterprise": [
+    "When you choose Sodexo India, you partner with a centralised team of experts who bring decades of experience and an unwavering commitment to enhancing your space — whether it’s a workplace, school campus, healthcare facility, senior living community or a remote offshore environment."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Softaculous Limited",
+  "city": "Mumbai",
+  "domain": "softaculous.com",
+  "website": "https://www.softaculous.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "s the leading Auto Installer having 436 great scripts, 1115 PHP Classes and we are still adding more. Softaculous is widely used in the Web Hosting in"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 3927,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 6,
+   "DQ_support": 1,
+   "compliance": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "You can also create templates for your basic websites e.g.",
+    "E-Commerce, Portfolio, Photography websites with required plugins/themes installed and when a customer places an order to create a website just restore the template on a new domain and start working with a base instead of building a website from scratch and save several hours of repetitive work.",
+    "Start from a template instead of making a website from scratch.",
+    "SitePad is an Easy to use, Drag & Drop Website builder with 40+ Widgets like Image/Video Slider, Image Galleries, Rich Text and many more!!"
+   ],
+   "DQ_support": [
+    "It supports OpenVZ, Xen PV, Xen HVM, Citrix XenServer and Linux KVM virtualization."
+   ],
+   "compliance": [
+    "CookieAdmin is a WordPress plugin that let s you effortlessly manage cookie consent banners on your site, ensuring you meet GDPR, CCPA privacy laws without sacrificing performance or design."
+   ],
+   "DQ_agency": [
+    "Beginner-friendly SEO plugin that auto optimizes your WordPress websites with minimal effort and technical terms!"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Softdel Systems Private Limited",
+  "city": "Pune",
+  "domain": "softdel.com",
+  "website": "https://www.softdel.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-10-28",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 121266,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "sdlc": 2,
+   "prod_eng": 3,
+   "DQ_support": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "case studies whitepapers blogs news & events industries we serve Specialised domain knowledge enhanced by consistent quality and an agile delivery system makes Softdel the preferred partner for global product companies, including many of the Fortune 500’s.",
+    "Domain expertise Experience developing award-winning products in building, lighting, and industrial automation for Fortune 500 companies across the globe.",
+    "With over 20 years of experience in accounting and finance across local enterprises and multinational corporations, Patricia has expertise in accounting, reporting, banking management."
+   ],
+   "sdlc": [
+    "case studies whitepapers blogs news & events industries we serve Specialised domain knowledge enhanced by consistent quality and an agile delivery system makes Softdel the preferred partner for global product companies, including many of the Fortune 500’s.",
+    "SEE OUR OPEN POSITIONS A Unidel Company People in Softdel thrive and grow within UNIDEL’s value system – we are agile, dependable, innovative, and are always striving for excellence."
+   ],
+   "prod_eng": [
+    "Platform Engineering Services that help organisations realise a unified technology platform to support products in various facets of their lifecycle.",
+    "With deep engineering and R&D experience, we empower global enterprises and OEMs to navigate their AI journey with confidence by leveraging our extensive expertise in IoT, Cloud, Data Analytics, and Product Engineering Services.",
+    "Our two-decade-long product engineering experience of serving global leaders in the automation & controls industry has catapulted Softdel to an enviable position in the Industrial and Buildings IoT value chain."
+   ],
+   "DQ_support": [
+    "Device engineering demands a variety of skills ranging from electronic hardware development, firmware development, connectivity protocol implementation, and software development.",
+    "Our experience in hardware design, embedded software development, testing, validation, and deployment helps manufacturers and OEMs build new products and re-engineer legacy products that are smart, connected, and interoperable – all essential elements of being IoT ready."
+   ],
+   "owns_product": [
+    "Our products simplify complex IoT and cloud infrastructure challenges, delivering energy-efficient, cost-effective solutions that support rapid time-to-market and long-term sustainability."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Softility Tech Private Limited",
+  "city": "Hyderabad",
+  "domain": "softility.com",
+  "website": "https://www.softility.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 355,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "d Lab 24/7 Hybrid Delivery Proven Multi-vertical Experience Case Studies, News and More... Telecom Major CSP achieves significant cost reductions and"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 38599,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 11,
+   "senior_roles": 1,
+   "cicd": 4
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Read More Our Customers Always humbled by high praise from our clientele, we are constantly inspired to do more VP Fortune 500 Financial Services Company This is fantastic news!",
+    "Read More Director Fortune 500 Financial Services Company I wanted to extend my heartfelt congratulations to everyone involved in the successful completion of Phase 1 of the data migration from cloud SaaS to on-prem.",
+    "Read More Senior Director DevOps, Fortune 500 FinServ Absolutely outstanding job, team!",
+    "Read More Senior Director DevOps, Fortune 500 FinServ Company I continue to be deeply impressed by the skill, dedication, and creative thinking that each of you brings to the table."
+   ],
+   "senior_roles": [
+    "Read More Director, SRE & Tooling Leading Real Estate Advisory & Data Solutions Company I'd like to recognize the effort of Moona and Manish to ensure we had a successful Mgmt demo on integrating ServiceNow Notify with Twilio."
+   ],
+   "cicd": [
+    "We help you set a context for all data sets, data pipelines, data lakes, and data warehouses and derive key insights using BI, ML, and AI tools.",
+    "Data Engineering Moving data from legacy to modern architectures and platforms, using the latest data pipeline tools and frameworks is a must for businesses to survive, succeed, and grow in the rapidly evolving tech landscape.",
+    "With strong data skills with expertise in business and marketing analytics, we help you move data using data pipelines that improve the quality and reliability of data.",
+    "Our innovative DataOps solutions provide you with flexible data frameworks and platforms that ingest data from multiple sources, orchestrate data on a unified platform, and automate your data processes, workflows, and pipelines across hybrid and multi-cloud environments."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Softude Infotech Private Limited",
+  "city": "Indore",
+  "domain": "systematixinfotech.com",
+  "website": "https://www.softude.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 14775,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Solytics Partners Private Limited",
+  "city": "Pune",
+  "domain": "solytics-partners.com",
+  "website": "https://www.solytics-partners.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "rkflow and UI allows analysts to work without requiring any Python or R expertise. Welcome to Solytics Partners Talk to Sales Enabling Financial Insti"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 25101,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "DQ_template": 1,
+   "cicd": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Our Differentiators Combining customized solutions with powerful analytics is Solytics Deep Domain Expertise Decades of global experience in risk management, financial crime and compliance, regulatory expectations, capital markets, insurance, and allied financial services.",
+    "Deep Domain Expertise Decades of global experience in risk management, financial crime and compliance, regulatory expectations, capital markets, insurance, and allied financial services.",
+    "Blog 5 min read LLM Guardrails: How Safety Guardrails for LLMs Work Learn what LLM guardrails are, how they operate across five layers, and best practices for implementing them within regulated AI workflows."
+   ],
+   "DQ_template": [
+    "Leverage The Solytics Advantage We provide round-the-clock support, delivering time-critical, sensitive projects in an accelerated way by leveraging our suite of Advanced Solutions, and our codified, in-house arsenal of playbooks, checklists, templates, and utilities to accelerate value creation."
+   ],
+   "cicd": [
+    "🔹 NIMBUS Uno: A powerful platform for managing data pipelines and trade surveillance, seamlessly integrating with existing systems for enhanced risk data management and compliance across operations."
+   ],
+   "owns_product": [
+    "To learn more about our platform and how we’re helping institutions build enterprise-grade risk and compliance capabilities, visit our website ."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Som Imaging Informatics Pvt Ltd",
+  "city": "Kolkata",
+  "domain": "somnetics.in",
+  "website": "http://www.somnetics.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "r view more Featured In Featured in Use Case Library Latest Case Studies All Healthcare Government Manufacturing Consumer Services Others Record Manag"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Sonata Software Limited",
+  "city": "Bengaluru",
+  "domain": "sonata-software.com",
+  "website": "https://www.sonata-software.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1995-10-11",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 25418,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 4,
+   "prod_eng": 8,
+   "enterprise": 3,
+   "sdlc": 2,
+   "DQ_support": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Play Big OUR EXPERTISE Cloud Transformation Sonata Cloud Modernization Suite helps in modernizing clients’ legacy applications, infrastructure, and data centers to cloud-native solutions leveraging our proprietary Platformation™ approach.",
+    "Our accelerators, frameworks, and solutions focus on creating an Autonomous Data Ecosystem for enterprises using a self-funded model.",
+    "Our platform engineering blueprint, solution, and assets have enabled customers to reach their destination in this journey.",
+    "Our unique and innovative Responsible-first AI offering Sonata Harmoni.AI is a comprehensive platform powered by GenAI and encompasses a variety of industry solutions, service delivery platforms, and accelerators."
+   ],
+   "prod_eng": [
+    "Sonata is a Microsoft Inner Circle partner for Bizapps and has been engaged in Dynamics product engineering since 2005.",
+    "OFFERINGS World Class Service Offerings for Product Engineering Experience Engineering Our Experience engineering services focus on the overall user experience of the application platform.",
+    "API/Microservices Our API Platform engineering services help in creating digital platforms that help achieve platform-based business models.",
+    "→ Know More Our API Platform engineering services help in creating digital platforms that help achieve platform-based business models."
+   ],
+   "enterprise": [
+    "- IT Manager, A Fortune 500 Retail Company Our new solar business unit needed an ERP system deployed within 60 days, and it needed to be cloud-based and turnkey since internal IT resources were limited.",
+    "Novobrief July 20, 2026 → See All News INSIGHTS Next-Generation Analytics with Microsoft Fabric → Know more Transforming Healthcare & Life Sciences: Unlocking the Power of MS Fabric → Know more Revolutionizing Customer Experience: Unleashing the power of ChatGPT and SAP Commerce Cloud Integration.",
+    "We are one of the fastest growing IT Services companies and a trusted partner of Fortune 500 companies in Banking, Financial Services and Insurance (BFSI); Healthcare and Lifesciences (HLS); Telecom, Media, and Technology (TMT); and Retail, Manufacturing and Distribution (RMD) space."
+   ],
+   "sdlc": [
+    "We continuously invest in building talent, augmenting capabilities, and fostering a culture of agile innovation and high performance required to make a meaningful impact through modernization in a global market.",
+    "Our unique Modernization approach through Platformation.AI helps create Efficient and Agile digital businesses to drive intelligent ecosystems of the future."
+   ],
+   "DQ_support": [
+    "Human Resources Various HR processes and workflows can be provided over mobile apps like employee onboarding, timesheet submission, leave approvals, assessment, HR helpdesk, conference rooms, temporary ID cards, and expense reports."
+   ],
+   "qa": [
+    "We use Perfecto Mobile and Device Anywhere to have real device access over the cloud and Testing frameworks such as Appium and Selenium to test our native and web based applications."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Spectraforce Technologies (India) Pvt Ltd",
+  "city": "Pune",
+  "domain": "spectraforce.com",
+  "website": "https://spectraforce.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "hcare companies by providing critical skills within a broad portfolio of products and service areas used in diagnosis, treatment, and patient monitori"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 223748,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2,
+   "cicd": 3,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "40,000+ Successful placements 2,000+ Hiring experts worldwide 20+ Years of global staffing experience 10+ International offices Service Offering How we help potential meet purpose Staffing Services Flexible talent solutions — from contract to permanent hires.",
+    "Speak with a Cloud Development Staffing Expert 40K+ Successful Placements Worldwide 1.5 Days Turnaround Time 20+ Yrs Delivering Specialized Tech Talent Section 2 Top Cloud & Product Hiring Challenges Today’s cloud and product landscape demand quick, quality, and scalable talent."
+   ],
+   "cicd": [
+    "Whether you’re comparing hiring models, exploring AI in staffing, or building a direct hire pipeline, explore our services as a trusted recruitment agency and find actionable guidance across every category below.",
+    "When you hire Google Cloud developers, look for hands-on experience with GCP services, cloud security, automation, CI/CD pipelines, containerization, and scalable infrastructure design.",
+    "Market Intelligence & Talent Analytics Real-time labor market data, compensation benchmarking, and pipeline insights that improve offer acceptance and hiring precision."
+   ],
+   "enterprise": [
+    "C.F Fortune 500, cloud-based software company Strategic partner who delivers with excellence SPECTRAFORCE has consistently provided top-quality candidates across a diverse range of skill categories, from warehouse resources to specialized executives."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Sports Mechanics India Pvt Ltd",
+  "city": "Chennai",
+  "domain": "sportsmechanics.in",
+  "website": "https://www.sportsmechanics.in:443/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ss the globe. Desikan brings in deep expertise in effective software development, applying state of the art techniques and tools, covering all areas o"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "DQ_training": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Sundararajan Advisor Sundararajan is a seasoned Banking and Financial expert with over 35 years of experience in Indian nationalised banks."
+   ],
+   "DQ_training": [
+    "Rod Marsh Director of Coaching ICC Global Cricket Academy Thank you so much for the speed at which you have given me the reports.",
+    "Major Maniam Coaching Director World Squash Federation & Squash Rackets Federation of India SportsMechanics helped our team with live video feedback during practice sessions and also after the practice for us to review the day's work."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "SquareRoots.AI Innovation Labs Private Limited",
+  "city": "Hyderabad",
+  "domain": "squareroots.ai",
+  "website": "https://www.squareroots.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1681,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Design and implement the technical architecture for new solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Sri Vishnu Educational Society",
+  "city": "Hyderabad",
+  "domain": "srivishnu.edu.in",
+  "website": "https://www.srivishnu.edu.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2008-08-08",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 82205,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Read More 4 INDUSTRY OUTREACH CENTERS for Better Campus Placement Opportunities SVES has established one of its kind Industry Relations Cell established at Hyderabad, with unflinching support from Liaison Officers located at Chennai, Bangalore, Pune, Vadodara."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Sride Tech Private Limited",
+  "city": "Gurugram",
+  "domain": "sride.co",
+  "website": "https://sride.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our platform matches riders going the same way, enabling them to share vehicles, split costs, and build a more sustainable city — one commute at a time."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Srini Infotech Private Limited",
+  "city": "Hyderabad",
+  "domain": "sriniinfotech.com",
+  "website": "http://www.sriniinfotech.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "sting Thorough testing is a part and parcel of our Software Application Development process. We test our applications… Read More Professional Services"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "SSDN Technologies Private Limited",
+  "city": "Gurugram",
+  "domain": "ssdntechnologies.com",
+  "website": "https://www.ssdntechnologies.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nagement Consulting, Advisory & Migration Digital Marketing Custom Software Development Web Development Managed Network and Security Managed Applicati"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 5,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "In today’s… Read More SSDN Technologies SSDN Technologies is a top class IT- Consulting, Event management and Hardware/ Software sale organization.",
+    "SSDN Technologies SSDN Technologies is a top class IT- Consulting, Event management and Hardware/ Software sale organization.",
+    "Speed of response, knowledge of hardware and software, dealing with the smallest of issues without making us feel we should not have bothered them.",
+    "Jillie Tempest Operating Officer Our Partners SSDN Technologies SSDN Technologies is a top class IT- Consulting, Event management and Hardware/ Software sale organization."
+   ],
+   "owns_product": [
+    "Use your company’s blog posts to opine on current industry topics, humanize your company, and show how your products and services can help people."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Stellapps Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "stellapps.com",
+  "website": "https://www.stellapps.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "chain operation and achieve better shelf life with ConTrak Software Solutions mooOpt Optimize your dairy supply chain by getting data-driven & action"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 5630,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Adopting dairy farming best practices Following dairy farming best practices pertaining to animal health, preventive healthcare, reproductive management etc.",
+    "It provides measurable data for cattle insurance.",
+    "David has worked in private equity and investment banking across a range of geographies."
+   ],
+   "DQ_support": [
+    "The patent-pending hardware and software is designed to scale horizontally across other industry verticals.",
+    "Previously, Chief Architect, embedded-VAS & Hardware design; member of CoE, Wipro Startup exp: TSI, Sonetel M.Tech, Computer Science, IIT- Madras Ramakrishna Adukuri Cloud Solutions 22 years of industry exp."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "STEMROBO Technologies Private Limited",
+  "city": "Noida",
+  "domain": "stemrobo.com",
+  "website": "https://www.stemrobo.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "kids will learn STEM and Coding Online via Expert Mentors. Python and AI Gain Expertise in Python and AI with -Tinker Coder, a LIVE Online Platform t"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 9824,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 5
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Support Contact Us Privacy Policy Expert Guidance Resources Events Knowledge Base Social Media Media Coverage Blogs Our Platforms AI Connect LMS TinkerCoders Our Apps Stemrobo Learn App Tinker Orbit AR App Instagram Facebook Linkedin Twitter Youtube Download The STEMROBO App Copyright 2023 – Stemrobo Research Pvt."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

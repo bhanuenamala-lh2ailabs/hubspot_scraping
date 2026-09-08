@@ -1,0 +1,624 @@
+[
+ {
+  "domain": "opcito.com",
+  "name": "Opcito Technologies Private Limited",
+  "person": "Neha Chaitanya Jawale",
+  "title": "Managing Director",
+  "headline": "Managing Director & CEO at Opcito Technologies Pvt Ltd",
+  "sh_company": "Opcito Technologies",
+  "staff_count": 124,
+  "linkedin": "https://www.linkedin.com/in/neha-chaitanya-jawale-25322467",
+  "email": "neha.jawale@opcito.com",
+  "all_phones": [],
+  "indian_phone": "",
+  "phone_kind": "",
+  "is_senior": true,
+  "gate": "skip - no phone"
+ },
+ {
+  "domain": "talentas.in",
+  "name": "Talentas Technology Private Limited",
+  "person": "Krishna Badireddy",
+  "title": "Founder & Chief Executive Officer (CEO)",
+  "headline": "Helping Enterprises Unlock Business Value through Data, AI & Enterprise Modernization, Microsoft Fabric, Digital Engineering",
+  "sh_company": "Talentas",
+  "staff_count": 35,
+  "linkedin": "https://www.linkedin.com/in/krishnabadireddy",
+  "email": "krishna@talentas.in",
+  "all_phones": [
+   "919866243715",
+   "+1 626-831-5554"
+  ],
+  "indian_phone": "+919866243715",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "airamatrix.com",
+  "name": "Airamatrix Private Limited",
+  "person": "Chaith Kondragunta",
+  "title": "CEO",
+  "headline": "Entrepreneur and Leadership in Analytics and Artificial Intelligence",
+  "sh_company": "AIRA MATRIX",
+  "staff_count": 114,
+  "linkedin": "https://www.linkedin.com/in/chaithkondragunta",
+  "email": "chaith_k@yahoo.com",
+  "all_phones": [
+   "+1 858-442-1091",
+   "+19729001941",
+   "+1 858-202-7846",
+   "(646) 435-1561 x700"
+  ],
+  "indian_phone": "",
+  "phone_kind": "",
+  "is_senior": true,
+  "gate": "skip - foreign number only"
+ },
+ {
+  "domain": "heerasoftware.com",
+  "name": "Heera Software Private Limited",
+  "person": "Radhesham Dhoot",
+  "title": "CMD",
+  "headline": "Director, Heera Software Pvt Ltd",
+  "sh_company": "Heera Software Pvt Ltd",
+  "staff_count": 14,
+  "linkedin": "https://www.linkedin.com/in/sham-dhoot",
+  "email": "shamdhoot@gmail.com",
+  "all_phones": [
+   "+91 98224 96808"
+  ],
+  "indian_phone": "+919822496808",
+  "phone_kind": "mobile",
+  "is_senior": false,
+  "gate": "skip - not senior"
+ },
+ {
+  "domain": "amplelogic.com",
+  "name": "Venkanna Software Services Private Limited",
+  "person": "Manne Venkanna Chowdary",
+  "title": "Founder and CEO",
+  "headline": "Founder and CEO @ AmpleLogic | Life sciences Digitalization expert and AI Front Runner",
+  "sh_company": "AmpleLogic",
+  "staff_count": 332,
+  "linkedin": "https://www.linkedin.com/in/manne-venkanna-chowdary-b7301919",
+  "email": "mvchowdhary@yahoo.com",
+  "all_phones": [
+   "+91 96764 75789"
+  ],
+  "indian_phone": "+919676475789",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "xorlabs.com",
+  "name": "Exclusive-OR (XOR) Labs Private Limited",
+  "person": "Anshul Kapoor",
+  "title": "Chief Technology Officer",
+  "headline": "Co-Founder & CTO at XORLabs.com | Business Growth Strategist | Technology Specialist and Advisor",
+  "sh_company": "XORLabs.com",
+  "staff_count": 45,
+  "linkedin": "https://www.linkedin.com/in/anshulkapoor",
+  "email": "anshul.kapoor@xorlabs.com",
+  "all_phones": [
+   "9953660844",
+   "+27 83 447 0672"
+  ],
+  "indian_phone": "+919953660844",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "sparity.com",
+  "name": "Sparity Soft Technologies Private Limited",
+  "person": "Srikanth Konda",
+  "title": "Founder, President",
+  "headline": "Founder & CEO at Sparity | Helping Enterprises Modernize Data, Analytics & AI",
+  "sh_company": "Sparity",
+  "staff_count": 240,
+  "linkedin": "https://www.linkedin.com/in/srikanth-konda-64a1111a",
+  "email": "srikanth@sparity.com",
+  "all_phones": [
+   "+1 770-891-2629",
+   "+1 678-362-7480",
+   "+1 678-867-6865",
+   "+1 678-867-6881",
+   "+17702481447",
+   "+91 40 2351 3541"
+  ],
+  "indian_phone": "+914023513541",
+  "phone_kind": "landline",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "contata.com",
+  "name": "Contata Solutions Private Limited",
+  "person": "Pradeep Sinha, Ph.D.",
+  "title": "CEO / President",
+  "headline": "CEO & Chief Technologist",
+  "sh_company": "Contata Solutions",
+  "staff_count": 206,
+  "linkedin": "https://www.linkedin.com/in/pradeepsinha",
+  "email": "pradeep@contata.com",
+  "all_phones": [
+   "+1 612-677-3297",
+   "+1 763-478-3990",
+   "+19528981142",
+   "+91 98100 65050",
+   "+1 763-478-2374"
+  ],
+  "indian_phone": "+919810065050",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "prorigosoftware.com",
+  "name": "Prorigo Software Pvt Ltd",
+  "person": "Surendra Karandikar",
+  "title": "Chief Executive Officer",
+  "headline": "Founder & CEO at Prorigo Software Private Limited",
+  "sh_company": "Prorigo Software Private Limited",
+  "staff_count": 394,
+  "linkedin": "https://www.linkedin.com/in/surendra-karandikar-1b77b",
+  "email": "sgk611@yahoo.com",
+  "all_phones": [
+   "+91 98231 38568"
+  ],
+  "indian_phone": "+919823138568",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "skyach.com",
+  "name": "Skyach Software Solutions Pvt Ltd",
+  "person": "Rahul Ranchal",
+  "title": "Director",
+  "headline": "Director, SkyAch Software Solutions Private Limited",
+  "sh_company": "ConstructOye",
+  "staff_count": 2,
+  "linkedin": "https://www.linkedin.com/in/rahul-ranchal",
+  "email": "rahul.ranchal@gmail.com",
+  "all_phones": [
+   "+19199717090",
+   "+91 172 405 2200",
+   "+91 99717 09099"
+  ],
+  "indian_phone": "+911724052200",
+  "phone_kind": "landline",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "cybertech.com",
+  "name": "Cybertech Systems and Software Ltd",
+  "person": "Vish Tadimety",
+  "title": "Chairman & Chief Executive Officer",
+  "headline": "Enterprise Cloud Transformation",
+  "sh_company": "CyberTech Systems and Software, Inc",
+  "staff_count": 861,
+  "linkedin": "https://www.linkedin.com/in/vish-tadimety-744188200",
+  "email": "vish@cybertech.com",
+  "all_phones": [
+   "+1 912-225-8346",
+   "(215) 494-2843",
+   "+1 215-244-5005",
+   "+12156096169"
+  ],
+  "indian_phone": "+912154942843",
+  "phone_kind": "landline",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "nucore.in",
+  "name": "NuCore Software Solutions Pvt Ltd",
+  "person": "Suhail VP",
+  "title": "CEO and Managing Director",
+  "headline": "Experienced Director with a demonstrated history in information technology and services for the Air Travel industry. Skilled in IT Strategy, Business Intelligence and third-party integrations",
+  "sh_company": "NuCore Software Solutions (P) Ltd.",
+  "staff_count": 198,
+  "linkedin": "https://www.linkedin.com/in/suhail-vp-25807613",
+  "email": "suhail.vp@gmail.com",
+  "all_phones": [
+   "+91 98954 37108"
+  ],
+  "indian_phone": "+919895437108",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "alumnux.com",
+  "name": "Alumnus Software Limited",
+  "person": "Arindam Mukherjee",
+  "title": "Chief Executive Officer",
+  "headline": "Founder and Director at Alumnus Software Limited & Inxite Out Pvt. Ltd.",
+  "sh_company": "Alumnus Software Limited and Inxite Out Pvt. Ltd",
+  "staff_count": "n/a",
+  "linkedin": "https://www.linkedin.com/in/arindam-mukherjee-806679",
+  "email": "arindam.mukh@gmail.com",
+  "all_phones": [
+   "+91 97480 57788",
+   "+91 97488 45285"
+  ],
+  "indian_phone": "+919748057788",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "asentechllc.com",
+  "name": "Asenext (India) Private Limited",
+  "person": "Swati Bhaskar",
+  "title": "Partner",
+  "headline": "Managing Partner at Asentech LLC",
+  "sh_company": "Asentech LLC",
+  "staff_count": 137,
+  "linkedin": "https://www.linkedin.com/in/swati-bhaskar-3953639",
+  "email": "ANILSWATI@YAHOO.com",
+  "all_phones": [
+   "+12014544586",
+   "+1 908-359-3070",
+   "+1 908-874-5448",
+   "+16305448400"
+  ],
+  "indian_phone": "",
+  "phone_kind": "",
+  "is_senior": true,
+  "gate": "skip - foreign number only"
+ },
+ {
+  "domain": "purpletalk.com",
+  "name": "PurpleTalk India Pvt Ltd",
+  "person": "Sridhar Muppidi",
+  "title": "Co-Founder",
+  "headline": "entrepreneur - Voice AI & Mobile Games",
+  "sh_company": "ello.ai",
+  "staff_count": 6,
+  "linkedin": "https://www.linkedin.com/in/sridharmuppidi",
+  "email": "benam1708@gmail.com",
+  "all_phones": [
+   "+1 408-893-2211",
+   "+91 99890 88834",
+   "+1 512-501-4404"
+  ],
+  "indian_phone": "+919989088834",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "cyberpwn.com",
+  "name": "5Sec Cyberpwn Technologies Private Limited",
+  "person": "Sambit Garnaik",
+  "title": "Founder, CEO",
+  "headline": "Founder, CEO @ CyberPWN | 3x Founder | Building Scalable Ventures | Growth-Driven Leader | Tech & Impact Focused |",
+  "sh_company": "CyberPWN",
+  "staff_count": 183,
+  "linkedin": "https://www.linkedin.com/in/sambit14",
+  "email": "sambitgarnaik@gmail.com",
+  "all_phones": [
+   "+91 80665 81508"
+  ],
+  "indian_phone": "+918066581508",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "accionlabs.com",
+  "name": "Accion Technologies Private Limited",
+  "person": "Ramesh Narasimhan",
+  "title": "Managing Director - India Operations",
+  "headline": "Chief Delivery Officer | Managing Director (Accionlabs, India)",
+  "sh_company": "Accion Labs",
+  "staff_count": 2855,
+  "linkedin": "https://www.linkedin.com/in/ramesh-narasimhan-137b32",
+  "email": "ranarasi@gmail.com",
+  "all_phones": [
+   "+91 99809 11955",
+   "+91 80 4206 8492"
+  ],
+  "indian_phone": "+919980911955",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "diaspark.com",
+  "name": "Diaspark Infotech Pvt Ltd",
+  "person": "Vinay Chhajlani",
+  "title": "Chief Executive Officer",
+  "headline": "Entrepreneur, Mentor and investor. with over three decades of experience in the corporate world.",
+  "sh_company": "Luxare",
+  "staff_count": 20,
+  "linkedin": "https://www.linkedin.com/in/vinaychhajlani",
+  "email": "vinay@webdunia.com",
+  "all_phones": [
+   "+17185444565",
+   "+91 731 243 6616",
+   "+91 731 398 3313"
+  ],
+  "indian_phone": "+917312436616",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "luminousinfoways.com",
+  "name": "Luminous Infoways Private Limited",
+  "person": "Tanmay Mohanty",
+  "title": "Founder , CEO Cum Managing Director",
+  "headline": "Founder, CEO Cum Managing Director | First Generation Entrepreneur",
+  "sh_company": "Luminous Infoways World",
+  "staff_count": 138,
+  "linkedin": "https://www.linkedin.com/in/tanmayluminous",
+  "email": "tanmay@lipl.in",
+  "all_phones": [
+   "00919238426536",
+   "+91 674 236 0573"
+  ],
+  "indian_phone": "+916742360573",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "metasyssoftware.com",
+  "name": "MetaSys Software Private Limited",
+  "person": "Usha Mayya Jambagi",
+  "title": "CEO",
+  "headline": "CEO at MetaSys Software",
+  "sh_company": "MetaSys Software",
+  "staff_count": "n/a",
+  "linkedin": "https://www.linkedin.com/in/usha-mayya-jambagi-32ba04",
+  "email": "usha.jambagimayya@gmail.com",
+  "all_phones": [
+   "+91 96199 29339",
+   "+1 984-253-6619",
+   "+91 22 2879 1484"
+  ],
+  "indian_phone": "+919619929339",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "consint.ai",
+  "name": "Consint Solutions Private Limited",
+  "person": "Ashish Chaturvedi",
+  "title": "Founder",
+  "headline": "Founder | Inventor| Learner in AI",
+  "sh_company": "Consint.ai",
+  "staff_count": 76,
+  "linkedin": "https://www.linkedin.com/in/achatur2",
+  "email": "ashish.chaturvedi@althea.ai",
+  "all_phones": [
+   "+91 99716 00156",
+   "+1 205-995-1910",
+   "+1 302-897-5400",
+   "+1 714-433-4039",
+   "+1 973-667-0450",
+   "+65 9366 7690"
+  ],
+  "indian_phone": "+919971600156",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "xgenplus.com",
+  "name": "Data Xgen Technologies Private Limited",
+  "person": "Ajay Data",
+  "title": "Chairman",
+  "headline": "Founder & CEO, Data Group | Building Sovereign AI & Enterprise Email Infrastructure for India | Former Chair, ICANN Universal Acceptance Steering Group",
+  "sh_company": "Bluesport Entertainment",
+  "staff_count": "n/a",
+  "linkedin": "https://www.linkedin.com/in/ajaykdata",
+  "email": "ajaydata@gmail.com",
+  "all_phones": [
+   "+91 141 511 0555",
+   "+91 20 7183 5632",
+   "+91 77379 90555",
+   "+91 98280 66666"
+  ],
+  "indian_phone": "+911415110555",
+  "phone_kind": "landline",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "mundrisoft.com",
+  "name": "Mundrisoft Solutions Private Limited",
+  "person": "Jay Kinker",
+  "title": "Founder & CEO",
+  "headline": "CEO | SimpliTrain | From AI Powered LMS to Headless Assessments – Powering the Next in L&D",
+  "sh_company": "SimpliTrain",
+  "staff_count": 21,
+  "linkedin": "https://www.linkedin.com/in/jaykinker",
+  "email": "jayk@mundrisoft.com",
+  "all_phones": [
+   "+1 425-256-2723",
+   "+91 75079 11224",
+   "+91 97699 03380"
+  ],
+  "indian_phone": "+917507911224",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "ewallsolutions.com",
+  "name": "EWall Solutions Private Limited",
+  "person": "Anantha Mouli",
+  "title": "Managing Director and CEO",
+  "headline": "IT",
+  "sh_company": "Ewall Solutions Private Limited",
+  "staff_count": "n/a",
+  "linkedin": "https://www.linkedin.com/in/anantha-mouli-6478213",
+  "email": "ananthamouli@gmail.com",
+  "all_phones": [
+   "+919884310131",
+   "+91 44 2555 4382"
+  ],
+  "indian_phone": "+919884310131",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "senecaglobal.com",
+  "name": "Seneca Global IT Services Pvt Ltd",
+  "person": "Rao Tummalapalli",
+  "title": "Co-Founder and Managing Director",
+  "headline": "Entrepreneur",
+  "sh_company": "SenecaGlobal",
+  "staff_count": 354,
+  "linkedin": "https://www.linkedin.com/in/rtummalapalli",
+  "email": "rao.tummalapalli@gmail.com",
+  "all_phones": [
+   "+91 98480 37668",
+   "+1 609-516-8560"
+  ],
+  "indian_phone": "+919848037668",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "spaceinventive.com",
+  "name": "Space Inventive Private Limited",
+  "person": "Vivekananda Reddy",
+  "title": "Chief Operating/Technology Officer",
+  "headline": "Chief Operating / Technology Officer at Space | Talliant",
+  "sh_company": "Space Inventive",
+  "staff_count": 186,
+  "linkedin": "https://www.linkedin.com/in/vivekananda-reddy-14280410",
+  "email": "vivek@space-multimedia.com",
+  "all_phones": [
+   "+919290010004",
+   "+91 40 6452 9267",
+   "+91 40 6452 9268",
+   "+91 98498 23806"
+  ],
+  "indian_phone": "+919290010004",
+  "phone_kind": "mobile",
+  "is_senior": false,
+  "gate": "skip - not senior"
+ },
+ {
+  "domain": "suyogindia.com",
+  "name": "Suyog Computech Pvt Ltd",
+  "person": "Addyasa Mahapatra",
+  "title": "Chief Executive Officer and Director",
+  "headline": "Chief Executive Officer and Director @ SUYOG COMPUTECH | Engineering, Project Management, Research",
+  "sh_company": "SUYOG COMPUTECH (P) LTD",
+  "staff_count": 102,
+  "linkedin": "https://www.linkedin.com/in/addyasa-mahapatra",
+  "email": "addyasa@suyogindia.com",
+  "all_phones": [],
+  "indian_phone": "",
+  "phone_kind": "",
+  "is_senior": true,
+  "gate": "skip - no phone"
+ },
+ {
+  "domain": "tartlabs.com",
+  "name": "Tart Labs",
+  "person": "Gowtham Raj",
+  "title": "Director",
+  "headline": "Director @ TartLabs | Your Partner in Tech Solutions",
+  "sh_company": "Tart Labs",
+  "staff_count": 56,
+  "linkedin": "https://www.linkedin.com/in/gowtham1994",
+  "email": "gowtham@tartlabs.com",
+  "all_phones": [
+   "+918220007008",
+   "+6594662501",
+   "+91 96637 01856"
+  ],
+  "indian_phone": "+918220007008",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "xeedo.in",
+  "name": "Xeedo Technologies Private Limited",
+  "person": "Dhanpati Sahu",
+  "title": "Founder & CEO",
+  "headline": "Founder & CEO",
+  "sh_company": "Xeedo Technologies.",
+  "staff_count": 111,
+  "linkedin": "https://www.linkedin.com/in/dhanpati-sahu-50795b18",
+  "email": "dhanpati.sahu@gmail.com",
+  "all_phones": [
+   "+1 416-227-2001",
+   "+1 705-444-2001",
+   "+1 705-539-1003"
+  ],
+  "indian_phone": "",
+  "phone_kind": "",
+  "is_senior": true,
+  "gate": "skip - foreign number only"
+ },
+ {
+  "domain": "in10stech.com",
+  "name": "Intense Technologies Ltd",
+  "person": "Jayant Dwarkanath",
+  "title": "Director",
+  "headline": "Digital Transformation Leader | Wholetime Director at Intense Technologies Ltd",
+  "sh_company": "Intense Technologies Limited",
+  "staff_count": 774,
+  "linkedin": "https://www.linkedin.com/in/jayant-dwarkanath-b721796",
+  "email": "jayant@intense.in",
+  "all_phones": [
+   "+1 412-288-9273",
+   "+91 98850 26619"
+  ],
+  "indian_phone": "+919885026619",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ },
+ {
+  "domain": "testhouse.net",
+  "name": "Testhouse India Pvt Ltd",
+  "person": "Ani Gopinath",
+  "title": "Chief Executive Officer",
+  "headline": "Chief Executive Officer at Testhouse Limited",
+  "sh_company": "Testhouse Ltd",
+  "staff_count": 534,
+  "linkedin": "https://www.linkedin.com/in/anigopinath",
+  "email": "agopinath@testhouse.net",
+  "all_phones": [],
+  "indian_phone": "",
+  "phone_kind": "",
+  "is_senior": true,
+  "gate": "skip - no phone"
+ },
+ {
+  "domain": "fluentgrid.com",
+  "name": "Fluentgrid Limited",
+  "person": "Murali Krishna Gannamani",
+  "title": "Founder & Managing Director",
+  "headline": "Founder & CEO, Fluentgrid Limited /\n\n\nPast Chairman, CII AP 2025-26 / \nChairman, CII SR Taskforce on Enterprise Digitalisation & Cyber Resilience",
+  "sh_company": "Fluentgrid Limited",
+  "staff_count": 1070,
+  "linkedin": "https://www.linkedin.com/in/murali-krishna-gannamani-1681b82",
+  "email": "murali.g@fluentgrid.com",
+  "all_phones": [
+   "+91 98481 98189",
+   "+91 99599 11211"
+  ],
+  "indian_phone": "+919848198189",
+  "phone_kind": "mobile",
+  "is_senior": true,
+  "gate": "PASS"
+ }
+]

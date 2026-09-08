@@ -1,0 +1,776 @@
+{
+ "keep": [
+  {
+   "id": "339265268417",
+   "name": "Aarshay Jain",
+   "stage": "Interested",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339224810189",
+   "name": "Shivendra Soni",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339220726474",
+   "name": "Akshay  Waghmare",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339317422789",
+   "name": "Naman Anand",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339272323815",
+   "name": "Aman verma",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339190596334",
+   "name": "Aditya Dwivedi",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339322997443",
+   "name": "Jeyanthinath M.",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339324796637",
+   "name": "Rahul Bhuraria",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339261632194",
+   "name": "Mohit Bhatia",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339309499081",
+   "name": "Mayank Sheoran",
+   "stage": "Script Shared",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339246336739",
+   "name": "Sampath Varma Datla",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339224810192",
+   "name": "Vibhanshu Chhangani",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339288241913",
+   "name": "Vikas Chauhan",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339312051939",
+   "name": "Varun Miglani",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  }
+ ],
+ "remove": [
+  {
+   "id": "339211724482",
+   "name": "Parikshit Joon",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339230198518",
+   "name": "Kumar Chetan Sharma",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339190125258",
+   "name": "Nitesh Sethi",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339194240723",
+   "name": "Aditya Pranav",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339291848437",
+   "name": "Kush Chopra",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339322993345",
+   "name": "Kavir Kaycee",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339261634288",
+   "name": "Runcy Oommen",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339277586158",
+   "name": "Ankit Ladhania",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339338863319",
+   "name": "Ritesh Shrivastav",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339291848392",
+   "name": "Nagendra Subramanya",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339224811220",
+   "name": "Parshav J.",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339311293125",
+   "name": "Anshul .",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339190593238",
+   "name": "Prachi Gupta",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339317421757",
+   "name": "Hari Kotha",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339248134849",
+   "name": "Kamal Raj Guptha R",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339275877075",
+   "name": "Praveen Gunda",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339293587152",
+   "name": "Romit Kumar",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339277591258",
+   "name": "Nitesh Dowlagar",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339340659445",
+   "name": "Reshadat Ali",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339293587172",
+   "name": "Satish kumar Narayanappa",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339228419788",
+   "name": "Sachin Singh",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339272324807",
+   "name": "Ram Suryanarayan",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339228418761",
+   "name": "Jeetendra Kumar Sharma",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339230198510",
+   "name": "Milind Kulkarni",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339340659449",
+   "name": "Aniket Tatipamula",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339277586156",
+   "name": "K Vijayananda Reddy",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339265267409",
+   "name": "Rahul Garg",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339246334709",
+   "name": "Shobanbabu Talanki",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339197327068",
+   "name": "Arindam Chakrabarti",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339190124254",
+   "name": "Ankur Pal",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339338862289",
+   "name": "Jatin Khera",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339236927206",
+   "name": "Karan Attri",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339328388799",
+   "name": "Rajib Saha",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339274069691",
+   "name": "Ravi Sharma",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339221182191",
+   "name": "Ramesh C",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339282850505",
+   "name": "Manguesh Borker",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339293589212",
+   "name": "Kanan Rai",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339272324794",
+   "name": "Anoop Krishnan",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339191929552",
+   "name": "Sanjay Achar",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339274067697",
+   "name": "Raghav Garg",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339190596298",
+   "name": "Madan Pernati .",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339293590212",
+   "name": "Praveen K.",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339277591251",
+   "name": "Dr. Vinayaka Jyothi",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339261637306",
+   "name": "Shivam R.",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339252173532",
+   "name": "Shubhham K Talwar",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339344250558",
+   "name": "Kamlesh Pant",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339229724361",
+   "name": "Ramesh Lamba",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339342451430",
+   "name": "Apar Sinha",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339220727495",
+   "name": "Binayak Das",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339219456715",
+   "name": "Ajay Raj Singh S.",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339340659419",
+   "name": "Rupesh Nehra",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339201407691",
+   "name": "Amitabh Sinha",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339188326082",
+   "name": "Sathish KS",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339236924134",
+   "name": "Sangat D. Vikram",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339312049855",
+   "name": "Asif Mohamed",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339220727496",
+   "name": "Hemant Dhingra",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339224805107",
+   "name": "Rajesh W.",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339194239737",
+   "name": "Ashutosh Gautam",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339219461869",
+   "name": "Divyanshu Das",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339340660438",
+   "name": "Rahul Bansal",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339275878093",
+   "name": "Gaurav Manchanda",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339246334701",
+   "name": "Antriksh Vijay",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339252172497",
+   "name": "John Deep",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339233864433",
+   "name": "Aniket Awati",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339338856130",
+   "name": "Pranay Mathur",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339275878101",
+   "name": "Anurag Soni",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339224811217",
+   "name": "Manoj Jadhav",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339237437153",
+   "name": "Raghuram Nidagal",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339218925256",
+   "name": "Sri Ramoju Chandu",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339230203612",
+   "name": "Yunus Parvez Khan",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339272328905",
+   "name": "Yuvraj Adhikari",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339258026710",
+   "name": "Soma Kohli",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339191928552",
+   "name": "Srishilesh P S",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339258029758",
+   "name": "Vivek Parihar",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339281100489",
+   "name": "Vaibhav Magon",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339293587183",
+   "name": "Varun G.",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339312050889",
+   "name": "Sriharsha Narasimhan",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339261635290",
+   "name": "Viresh K Piplani",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339338858216",
+   "name": "Vijay Mhaskar",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339274069748",
+   "name": "Sunil P.",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339344250616",
+   "name": "Stephen Paul",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339265267421",
+   "name": "Vivek Kumar",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339291847399",
+   "name": "Sunny Shah",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339220723438",
+   "name": "Vijay Suryanarayana",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339248135914",
+   "name": "Anshuman Ghosh",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339317416636",
+   "name": "Harsha P.",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339262905048",
+   "name": "Pankaj K.",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339309499087",
+   "name": "Manish Sharma",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339190589137",
+   "name": "Anustup Mukherjee",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339340658371",
+   "name": "Raja sekhar Beemanapalli",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339281100533",
+   "name": "Pankaj Garg",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339309492947",
+   "name": "Dilip Kumar Singh",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339340661482",
+   "name": "Ranjith Kumar PS",
+   "stage": "Call Attempted",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339252170479",
+   "name": "RamaKrishna Reddy Bhogati",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339342450367",
+   "name": "Gourav Jain",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339226582723",
+   "name": "RamGopal Prajapat",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339258026719",
+   "name": "Sandeep Mehta",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339217128140",
+   "name": "Manoj Mohan",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339274070750",
+   "name": "Sagar Shankar Ghate",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339311297241",
+   "name": "Pintu Lal Meena",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339282850490",
+   "name": "Rasul Shaikh",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339201409784",
+   "name": "Shaik Gouse Pasha",
+   "stage": "Dead/ColdCall/WrongFit",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339211725498",
+   "name": "Sanika Chavan",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339265263297",
+   "name": "Kuldeep Yadav",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339188325056",
+   "name": "Mehul Savaliya",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339221182164",
+   "name": "Swapnil Godambe",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339229726409",
+   "name": "Virendra Sharma",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339312049859",
+   "name": "Varun Prasad",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339309498057",
+   "name": "Som Dutta",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339326588626",
+   "name": "Sriram Balakrishnan",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339252171513",
+   "name": "Tapan Dantre",
+   "stage": "Cold Call",
+   "owner": "Yuktha Anand"
+  },
+  {
+   "id": "339226574565",
+   "name": "Sourabh Gandhe",
+   "stage": "Cold Call",
+   "owner": "Lamiya Saleem"
+  }
+ ],
+ "worked": [
+  {
+   "id": "339340661482",
+   "name": "Ranjith Kumar PS",
+   "stage": "Call Attempted",
+   "owner": "Lamiya Saleem"
+  },
+  {
+   "id": "339201409784",
+   "name": "Shaik Gouse Pasha",
+   "stage": "Dead/ColdCall/WrongFit",
+   "owner": "Yuktha Anand"
+  }
+ ]
+}

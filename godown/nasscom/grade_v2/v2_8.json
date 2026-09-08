@@ -1,0 +1,1067 @@
+[
+ {
+  "name": "Sampoorna Matchjobs.com Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "sampoorna.com",
+  "website": "https://sampoorna.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 61151,
+   "signals": {
+    "cicd": 1,
+    "testing": 2
+   },
+   "quotes": {
+    "cicd": [
+     "SDET,Playwright,Python,CI/CD pipelines,Docker Posted Date:"
+    ],
+    "testing": [
+     "05 Aug 2026 Read More Apply now Web SDET Playwright Python (GGN/Mohali/Panchkula/Dehradun) Experience:",
+     "SDET,Playwright,Python,CI/CD pipelines,Docker Posted Date:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "qa": 4,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Read More Our Sectors BIG-4 COMPANIES IT-PRODUCT IT-SERVICES STARTUP BIG-4 COMPANIES OTHERS --> Key Milestones Our HO has created a recruitment system which has been certified for ISO 9001:2015."
+   ],
+   "qa": [
+    "QA Automation Engineer - Supply Chain Experience: 5.00-8.00 yrs.",
+    "Location: Chennai Key Skill: qa automation Posted Date: 12 Aug 2026 Read More Apply now Data Governance Lead Experience: 7.00-10.00 yrs.",
+    "Location: Chennai Key Skill: RPG Developer Posted Date: 05 Aug 2026 Read More Apply now Web SDET Playwright Python (GGN/Mohali/Panchkula/Dehradun) Experience: 8.00-12.00 yrs.",
+    "Location: Chandigarh Key Skill: SDET,Playwright,Python,CI/CD pipelines,Docker Posted Date: 04 Aug 2026 Read More Apply now G3 - Senior Software Engineer - Java - BP Experience: 5.00-7.00 yrs."
+   ],
+   "cicd": [
+    "Location: Chandigarh Key Skill: SDET,Playwright,Python,CI/CD pipelines,Docker Posted Date: 04 Aug 2026 Read More Apply now G3 - Senior Software Engineer - Java - BP Experience: 5.00-7.00 yrs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 5
+ },
+ {
+  "name": "Skyach Software Solutions Pvt Ltd",
+  "city": "Mohali",
+  "domain": "skyach.com",
+  "website": "https://skyach.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "s one of the biggest and high-rated cryptocurrency exchange software development companies. We offer solutions to entrepreneurs and start-up owners wh"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1601,
+   "signals": {
+    "cicd": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Apply → Remote ★ DevOps / Platform Engineer Cloud-native, Kubernetes, CI/CD, and MLOps."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 11,
+   "owns_product": 7,
+   "enterprise": 5,
+   "pr_practice": 1,
+   "DQ_bpo": 1,
+   "sdlc": 7,
+   "cicd": 6,
+   "vcs": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Skyach — AI-Native Product Engineering & Software Development Services Industries Technologies Work About Get an Estimate ☰ AI-Native Product Engineering We engineer the AI-powered software that runs your business.",
+    "What We Do AI-native, full-cycle product engineering.",
+    "Free 30-minute consultation with a senior engineer — not a salesperson Ballpark estimate and timeline within one business day Your idea is safe — NDA on request Get a Free Project Estimate → AI-native product engineering for businesses that move the real world.",
+    "We're a senior-only, remote-first product engineering team working on AI-native platforms across construction, finance, logistics, mining, crypto, and more."
+   ],
+   "owns_product": [
+    "◆ AI & Generative AI LLM & GenAI apps, AI agents, RAG assistants, computer vision, and predictive models — production-grade AI inside your product and operations.",
+    "Learn more → ◆ Cloud & MLOps Cloud-native platforms, DevOps, and MLOps that keep your product — and your AI models — fast, secure, and always on.",
+    "We ship AI features that pay for themselves — woven into your product, your operations, and how we build.",
+    "01 — In your product Intelligent features Prediction, recommendations, document processing, conversational interfaces, computer vision."
+   ],
+   "enterprise": [
+    "We engineer platforms for industries where the details are hard and the stakes are real — regulated finance, multi-party construction, dispatched field operations, and supply chains that can't stop.",
+    "More platforms we've engineered Finance, Insurance & Public Sector Financial Services Enterprise wealth-management platform Secure account aggregation via encrypted institutional feeds, real-time net-worth visualization, AI insights, and advisor & client portals — bank-grade security.",
+    "Web + mobile · built for on-site operations Logistics Supply Chain & Warehousing Transportation Field Services Healthcare Retail Manufacturing Professional Services SaaS & Startups Fintech & Web3 AI, Without the Hype AI is at the core of everything we ship.",
+    "Learn more → ◆ Crypto Banking Solutions Fiat on/off-ramps, custody, payments, and cards — the compliant banking layer for digital-asset businesses."
+   ],
+   "pr_practice": [
+    "We engineer construction coordination platforms that bring architects, property owners, contractors, and material suppliers onto one system — drawing version control, digital approvals, task allocation, material selection, and AI-assisted progress tracking, on web and mobile."
+   ],
+   "DQ_bpo": [
+    "Enterprise-scale social data · real-time analytics Customer Experience & Contact Center Cloud contact center with social intelligence A cloud call center with omnichannel routing, agent workspaces, and built-in social listening — voice, chat, and social in one sentiment-aware view."
+   ],
+   "sdlc": [
+    "Bank-grade security Real-time net worth NDA enterprise Read the case study → See all our work → How We Work A process built for certainty.",
+    "Services AI & Generative AI Custom Software SaaS Development Cloud & MLOps Company About How We Work Work Careers Get in touch Contact Get an Estimate © 2026 Skyach.",
+    "How We Work A process built for certainty."
+   ],
+   "cicd": [
+    "Apply → Remote ★ DevOps / Platform Engineer Cloud-native, Kubernetes, CI/CD, and MLOps.",
+    "We design cloud-native systems and the automation around them — CI/CD, infrastructure-as-code, observability, and MLOps — so growth is boring, in the best way.",
+    "◆ DevOps & CI/CD Automated pipelines so you ship safely, many times a day.",
+    "◆ Kubernetes & Containers Container orchestration that scales with demand."
+   ],
+   "vcs": [
+    "AWS Azure GCP Kubernetes Terraform Docker GitHub Actions Datadog FAQ Common questions."
+   ],
+   "qa": [
+    "⚙ End-to-End Delivery Strategy, design, engineering, QA, and DevOps under one roof — and ongoing operations after launch."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 5
+ },
+ {
+  "name": "Amypo Technologies Private Limited",
+  "city": "Coimbatore",
+  "domain": "amypo.com",
+  "website": "https://amypo.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "Amypo Technologies AMYPO HOME WHAT WE DO OUR PRODUCTS HOW IT WORKS OUR CLIENTS TESTIMONIALS SUPPORT --> WHAT WE USE CONTACT LOGIN G"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 19402,
+   "signals": {
+    "quality_gate": 1
+   },
+   "quotes": {
+    "quality_gate": [
+     "Send Your Resume Join 1.2M+ visionary professionals upgrading their technical mastery Request Early Access Amypo is the first Autonomous Educational Intelligence Layer that bridges the gap between curriculum, industrial code standards (SonarQube), and predictive placements."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 19,
+   "owns_product": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "→ DotPrep Placement AI-driven interview preparation and skill assessment suite.",
+    "→ Services Events Testimonials Careers Contact Get Started 01 Home 02 About 03 Products + DotLab Environment DotPrep Placement DotExam Secure 04 Services 05 Events 06 Testimonials 07 Careers 08 Contact Now Hiring — Come Build With Us Shape the Future of Empowered Educators .",
+    "Send Your Resume Join 1.2M+ visionary professionals upgrading their technical mastery Request Early Access Amypo is the first Autonomous Educational Intelligence Layer that bridges the gap between curriculum, industrial code standards (SonarQube), and predictive placements.",
+    "Join 1.2M+ visionary professionals upgrading their technical mastery Request Early Access Amypo is the first Autonomous Educational Intelligence Layer that bridges the gap between curriculum, industrial code standards (SonarQube), and predictive placements."
+   ],
+   "owns_product": [
+    "Now we're expanding our product suite and looking for builders who want to own what they create.",
+    "See the platform 110+ Programming Languages Supported 200+ Partner Institutions +60% Improvement in Placement Readiness 180+ Practice Problems / Semester Product Ecosystem Our Platforms Amypo offers a connected learning and assessment ecosystem through DotLab, DotPrep, and DotExam."
+   ],
+   "cicd": [
+    "Close Deals, Change Lives Sell solutions colleges need and build a pipeline that makes real impact."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Anant Softtech Pvt Ltd",
+  "city": "Ahmedabad",
+  "domain": "anantsoftech.com",
+  "website": "http://www.anantsoftech.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "﻿ Anant Softtech – Home | Offshore Software Development | Technical Support services | Application Development | Product Deve"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 24614,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 4,
+   "sdlc": 4,
+   "DQ_training": 2,
+   "enterprise": 10,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We place a strong emphasis on nurturing long-term client relationships, continually striving to elevate the quality and performance of our products and services through iterative improvements and proactive innovation."
+   ],
+   "sdlc": [
+    "Agile Development Paradigm: Embracing agile methodologies, we emphasize iterative development cycles and continuous feedback loops, ensuring project trajectories remain in lockstep with client expectations and evolving business imperatives.",
+    "Dynamic Budgeting and Forecasting: Our solutions employ sophisticated algorithms to assist organizations in creating accurate, adaptive budgets and forecasts, enabling agile financial planning and optimal resource allocation."
+   ],
+   "DQ_training": [
+    "Legacy System Revitalization: We specialize in modernizing antiquated systems, augmenting functionality and extending the lifespan of mission-critical business applications, empowering organizations to leverage cutting-edge technologies without the need for costly replacements."
+   ],
+   "enterprise": [
+    "Close Revolutionizing Health Care Electronic Health Records (EHR): Our state-of-the-art EHR systems redefine patient data management, enabling healthcare providers to access and update patient histories with unprecedented efficiency, thereby elevating the quality of care.",
+    "Intelligent Practice Management: We empower healthcare practices with sophisticated management solutions that seamlessly integrate scheduling, billing, and patient communication, allowing providers to concentrate on their core mission—delivering exceptional patient care.",
+    "Next-Generation Patient Portals: Our intuitive patient portals serve as a nexus between patients and their healthcare journey, offering seamless access to medical records, appointment scheduling, and direct provider communication.",
+    "Seamless Interoperability: We prioritize the development of systems that ensure frictionless data exchange among diverse healthcare platforms, fostering coordinated care and superior patient outcomes."
+   ],
+   "compliance": [
+    "Rigorous HIPAA Compliance: All our health IT solutions are architected with stringent HIPAA compliance measures, ensuring the utmost protection and confidentiality of sensitive patient information."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Annova Solutions Private Limited",
+  "city": "Indore",
+  "domain": "annovasolutions.com",
+  "website": "https://annovasolutions.com",
+  "already_in_hubspot": true,
+  "headcount_known": 983,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "eractive but does not normally print such an announcement, your work based on the Program is not required to print an announcement.) These requirement"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 9399,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 13,
+   "cicd": 1,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Learn More Clients We Support At Annova Solutions, we serve a diverse range of healthcare organizations, each with unique needs: Health Plans We help payers optimize risk adjustment, improve data accuracy, and streamline operations for better financial outcomes.",
+    "Healthcare Operations Manager Working with Annova has been a positive experience.",
+    "Health Plan Executive Schedule a Consultation Ready to transform your healthcare operations?",
+    "Schedule a Call with Our Experts Ready to transform your healthcare operations?"
+   ],
+   "cicd": [
+    "Their expertise in risk adjustment coding has helped improve our documentation accuracy, and their thoughtful approach ensures that compliance is always a priority without being overwhelming."
+   ],
+   "compliance": [
+    "Our certified coding professionals adhere to AAPC, HIPAA, HITECH, and CMS standards, ensuring meticulous risk adjustment and billing processes."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Anzen Technologies Private Limited",
+  "city": "Mumbai",
+  "domain": "anzentech.com",
+  "website": "https://anzentech.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 192,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "As your trusted partner, we provide a comprehensive suite of End-to-End security services and consultancy, that is customized to guard your critical infrastructure and elevate the security standards in BFSI, eCommerce, IT/ITES, Pharmaceuticals, and other sectors.",
+    "\" Sanjeev Nadgir (Director - Information Security) “ Aditya Birla Health Insurance \" Thanks to their expertise, we are satisfied with their cyber security support on Governance, VAPT, Incident & DLP management.",
+    "We provide End to End security services & consultancy to sectors, ranging from Critical Infrastructure Installations to BFSI, eCommerce, IT/ITES, Pharmaceuticals and many more."
+   ],
+   "compliance": [
+    "Dedication to customer, in-depth understanding of Cyber Security, Forensics, Security operations, Compliance consulting especially with HIPAA, SOC 2, NIST Frameworks is the most common interaction I've had with Anzen Technologies.",
+    "Read More March 16, 2026 Understanding Global AI Governance: ISO/IEC 42001 vs ISO 27001 vs EU AI Act vs NIST AI RMF As artificial intelligence adoption accelerates across enterprises, organisations are required to align..."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Astounding Healthtech Private Limited",
+  "city": "Bengaluru",
+  "domain": "revealhealthtech.com",
+  "website": "https://revealhealthtech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [
+    "https://apply.workable.com/reveal-health-tech/?lng=en/"
+   ],
+   "jd_chars": 3442,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 39,
+   "compliance": 2,
+   "sdlc": 3,
+   "owns_product": 4,
+   "prod_eng": 2,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Healthcare AI, Interoperability Solutions & Digital Engineering",
+    "Reveal HealthTech Featured in Healthcare IT News.",
+    "Healthcare's future is anticipation.",
+    "With a deep understanding of client needs and the intricate landscapes of healthcare, life sciences, and AI, we embark on a journey of collaboration and creation."
+   ],
+   "compliance": [
+    "HIPAA Compliant HIPAA Compliant When partnering with us, you can focus on your core mission without worrying about compliance."
+   ],
+   "sdlc": [
+    "Talk To Our Team View Case Studies How We Work Cross-Disciplinary Strength Our cross-functional teams blend clinical expertise, design, engineering, and implementation skills.",
+    "Yes, we build AI-driven solutions across healthcare and life sciences- but what truly sets us apart is how we work and who we work with."
+   ],
+   "owns_product": [
+    "LEARN MORE Testimonials See What Customers are Saying “ Reveal HealthTech's experience and guidance have been instrumental in shaping the foundation of our product, and we couldn't be happier with the results.",
+    "Carlos Albuquerque, Director of Communications, The Breakfast Revolution Testimonials See What Customers are Saying “ Reveal HealthTech's experience and guidance have been instrumental in shaping the foundation of our product, and we couldn't be happier with the results."
+   ],
+   "prod_eng": [
+    "See why execution, workflow integration, and product engineering decide which organizations turn intelligence into outcomes."
+   ],
+   "cicd": [
+    "READ MORE Blog Interoperability 2.0: Data Pipelines That Enable Real Care Coordination Healthcare data exists but remains fragmented across systems.",
+    "Interoperability 2.0 focuses on usable data, high-velocity pipelines, and real-time care coordination to turn disconnected records into actionable clinical insights."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Binary Waves Solutions Private Limited",
+  "city": "Chennai",
+  "domain": "binarywavessolutions.com",
+  "website": "https://www.binarywavessolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "60% Faster Time-to-Market Reduced product development cycles through digital transformation and agile methodologies."
+   ],
+   "compliance": [
+    "Maintaining ISO 9001:2015 and ISO 27001:2022 standards ensures that our clients receive services that are not only efficient but also highly secure and globally compliant.",
+    "ISO 9001:2015 ISO 27001:2022 Industry Excellence We’re Now NASSCOM Certified!"
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 4
+ },
+ {
+  "name": "CD CloudEnablers Private Limited",
+  "city": "Chennai",
+  "domain": "corestack.io",
+  "website": "https://www.corestack.io/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 16357,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 2,
+   "senior_roles": 2,
+   "owns_product": 2,
+   "vcs": 5
+  },
+  "site_quotes": {
+   "compliance": [
+    "Stay Continuously Compliant Achieve continuous cloud compliance with industry and regulatory standards, including ISO/IEC, NIST, GDPR, FedRAMP, HIPAA, PCI-DSS, FIPS, CIS, and others.",
+    "Explore SecOps Stay Continuously Compliant Achieve continuous cloud compliance with industry and regulatory standards, including ISO/IEC, NIST, GDPR, FedRAMP, HIPAA, PCI-DSS, FIPS, CIS, and others."
+   ],
+   "senior_roles": [
+    "– Christopher Johnson, Senior Technical Architect, iT1 Key Results: Cloud cost savings and compliance visibility Solutions: CoreStack FinOps, SecOps, and CloudOps Cloud Platform: Azure & AWS Read the Story We’ve ultimately experienced bottom-line revenue growth."
+   ],
+   "owns_product": [
+    "Our platform has been recognized by Gartner, Forrester, IDC, and Frost & Sullivan, and our organization has been recognized by Inc., GeekWire, and Deloitte."
+   ],
+   "vcs": [
+    "These tools include GitHub for its source code management capabilities.",
+    "Tool description GitHub GitHub is the world’s leading developer platform, providing tools for more than 100 million developers to create, store, manage and share their code.",
+    "CoreStack’s integration with GitHub streamlines operations by connecting development practices with governance frameworks, leading to more efficient development cycles and better risk management, ultimately resulting in a more controlled and optimized IT environment.",
+    "Integrating GitHub with CoreStack enhances your software development process by providing comprehensive governance and visibility into your code repositories and workflows."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Cluso Infolink Private Limited",
+  "city": "Bengaluru",
+  "domain": "cluso.com",
+  "website": "https://www.cluso.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "s needed to make an informed business decision. Get Started OUR WORKS Show All Investigator-Driven Report Options Get Started Why Us Expert Licensed P"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2125,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 2
+  },
+  "site_quotes": {
+   "compliance": [
+    "Home Get Started Privacy Policy Disclaimer GDPR TX PI License: A16821 Job Candidate/Employment Screening",
+    "Home Get Started Privacy Policy Disclaimer GDPR TX PI License: A16821"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Credentia Verification Technologies Private Limited",
+  "city": "Mumbai",
+  "domain": "credentiai.com",
+  "website": "https://www.credentiai.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 55,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 3570,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "compliance": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "HR Tech Seamlessly integrate with HRMS/ATS This helps improve HR efficiency, boost effectiveness, and bolster compliance and security Book a free trial Agencies Trust CredOps for Faster, Smoother Day-to-Day Operations Tired of tedious BGV eating into your productivity as well as timelines?"
+   ],
+   "compliance": [
+    "Read More BGV Glossary GDPR (General Data Protection Regulation) The General Data Protection Regulation, commonly abbreviated as GDPR, is a legal framework created by the European Union.",
+    "The European Parliament and the Council of the EU adopted GDPR on 14 April 2016, which came into effect on 25 May 2018."
+   ],
+   "enterprise": [
+    "I then moved on to Tata Consultancy Services where I spent next 3.5 Years initially as Sales head for Products group and then as Sales Head for the Services business, where I was exposed to BFSI, Telco, Government segments."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Criticalriver Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "criticalriver.com",
+  "website": "https://www.criticalriver.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "k Us Digital Transformation Salesforce Software Engineering Product Engineering Cloud Transformation Data Analytics Services Integration Services Mana"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 89766,
+   "signals": {
+    "testing": 4
+   },
+   "quotes": {
+    "testing": [
+     "Ann Minooka VP, Global Marketing and Communications, Cypress Semiconductors Corporation The CriticalRiver team has been great to work with on the delivery of CPQ Customizations and the Lightning Migration.",
+     "Ann Minooka VP, Global Marketing and Communications, Cypress Semiconductors Corporation The CriticalRiver team has been great to work with on the delivery of CPQ Customizations and the Lightning Migration.",
+     "Ann Minooka VP, Global Marketing and Communications, Cypress Semiconductors Corporation The CriticalRiver team has been great to work with on the delivery of CPQ Customizations and the Lightning Migration."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 12,
+   "enterprise": 15,
+   "qa": 4,
+   "cicd": 7,
+   "owns_product": 1,
+   "pr_practice": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Cloud Build agile, AI-ready cloud environments designed for scalability, security, and continuous improvement.",
+    "AI-assisted design, build, test, and deployment move SDLC teams from backlog pressure to release confidence.",
+    "Concord speeds up early design and component decisions, Design Copilot and AI-led SDLC carry it through architecture, build, and deployment, and QA Copilot runs continuous regression and defect detection.",
+    "2 Build Automated Code Generation Design Copilot and AI-led SDLC carry it through."
+   ],
+   "enterprise": [
+    "Banking/Finance Modernizing financial operations with secure, explainable AI and intelligent automation for faster insights.",
+    "Healthcare Enabling connected, compliant, and patient-centric ecosystems powered by AI and data trust.",
+    "Learn more Energy & Utilities Banking/Finance Modernizing financial operations with secure, intelligent, and customer-centric systems.",
+    "Learn more Banking/Finance Healthcare Enabling connected, compliant, and patient-focused digital ecosystems."
+   ],
+   "qa": [
+    "QA backlogs slow you down.",
+    "Concord speeds up early design and component decisions, Design Copilot and AI-led SDLC carry it through architecture, build, and deployment, and QA Copilot runs continuous regression and defect detection.",
+    "3 Test Continuous Regression & Defect Detection QA Copilot catches issues before release.",
+    "Ann Minooka VP, Global Marketing and Communications, Cypress Semiconductors Corporation The CriticalRiver team has been great to work with on the delivery of CPQ Customizations and the Lightning Migration."
+   ],
+   "cicd": [
+    "4 Ship Autonomous Deployment Pipelines Release with confidence, roll back on signal.",
+    "Lexora attributes spend to pipeline and flags waste, while Campaign OS and Campaign Automation handle targeting and nurture without manual work.",
+    "Voice Intelligence Engine qualifies leads instantly and feeds CRM in real time, while Pricing & Quoting and the Pipeline agent keep proposals and deals moving without manual chasing.",
+    "3 Close Autonomous Pipeline Execution The Pipeline agent moves deals without chasing."
+   ],
+   "owns_product": [
+    "Learn more Our AI Accelerators Financial Agents for a Smarter Future We bring AI-powered clarity, speed, and control to the CFO’s office, turning complexity into confidence."
+   ],
+   "pr_practice": [
+    "Our implementations enforce version control, approval workflows, audit trails, and permissions-based access giving organizations a defensible record and reducing the surface area for compliance failures, fines, and reputational damage."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "CrossAsyst Infotech Private Limited",
+  "city": "Mumbai",
+  "domain": "crossasyst.com",
+  "website": "https://crossasyst.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 69,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nt platforms to accelerate innovations in the global front. We build quality controlled products for our aspiring clients from the inception phase til"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 17912,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1,
+   "compliance": 2,
+   "senior_roles": 2
+  },
+  "site_quotes": {
+   "qa": [
+    "Know more QA & Test Automation Rigorous testing for performance, security, compliance, and data integrity."
+   ],
+   "compliance": [
+    "Thank you for being an essential part of this journey.\" Medcall InjuryLink \"Big thanks to the sharp minds at CrossAsyst Infotech Private Limited—your grit, late nights, and obsessive attention to detail made our journey to SOC2 compliance feel less like a grind and more like a mission.",
+    "Couldn’t have crossed the finish line without you.\" Medcall SOC2 Compliance \"I've worked with the CrossAsyst team on many projects over the years."
+   ],
+   "senior_roles": [
+    "View all 13 June 2025 How to Migrate Java Applications to AWS Cloud Read more 10 June 2025 IT Staff Augmentation Company Evaluation for Project Success Read more 4 June 2025 What Is Site Reliability Engineering (SRE) Principles?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "DataFoundry Private Limited",
+  "city": "Bengaluru",
+  "domain": "datafoundry.ai",
+  "website": "https://datafoundry.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "lth 4.0 Cloud DF Safety 4.0 Cloud --> Platform --> Services Custom Software Engineering Solution Implementation Digital Transformation Consulting AI S"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 9,
+   "pr_practice": 1,
+   "cicd": 5,
+   "vcs": 1,
+   "owns_product": 5,
+   "prod_eng": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Datafoundry has multiple AI/ML algorithms that can solve digitalization problems across industry sectors such as Health Care, Utilities, Aerospace and Defence, Manufacturing, Banking and Financial sectors.",
+    "Creating the Future of Pharmaceuticals and Healthcare",
+    "Our Mission To enable digital transformation for Life Sciences and Healthcare customers using AI/ML and analytics.",
+    "Anirban Mukherjee is a globally recognized scientist and thought leader in AI/ML, deep tech, and autonomous systems across healthcare."
+   ],
+   "pr_practice": [
+    "The intern will also help with debugging and troubleshooting issues, participate in code reviews, and stay updated with the latest trends and best practices in React.js and frontend development."
+   ],
+   "cicd": [
+    "In this role, you will play a key part in designing, implementing and maintaining our infrastructure and CI/Cd pipelines.",
+    "Your expertise in Kuberenetes, Docker, Jenkins, Azure, Terraform and Git will be critical to ensure our systems are scalable, reliable and efficient .",
+    "At Datafoundry, we help businesses build data fabrics for flexible and reusable data integration pipelines, services, and semantics.",
+    "The core engine of the solution is the data digitization pipeline that can be implemented on the Datafoundry Secure Cloud Platform or on the customer’s own cloud environment."
+   ],
+   "vcs": [
+    "Your expertise in Kuberenetes, Docker, Jenkins, Azure, Terraform and Git will be critical to ensure our systems are scalable, reliable and efficient ."
+   ],
+   "owns_product": [
+    "× Signup × Signup Datafoundry may use this information to contact you about our products and services.",
+    "The AI-powered modules of our products can also be integrated as bolt-on services to existing enterprise solutions, thus enhancing the capabilities and protecting customers’ technology investment."
+   ],
+   "prod_eng": [
+    "At Datafoundry, LP heads the Product Engineering and Delivery Operations."
+   ],
+   "senior_roles": [
+    "Kotapally Harish Kumar Engineering Manager-ML Harish leads the Machine Learning engineering function at Datafoundry."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "DHI Investigation Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "dhiverification.com",
+  "website": "https://www.dhiverification.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "anctity of completion and Mode of education. Learn more DHI Software Solutions DHICasequest is a search engine for conglomeration of litigation data a"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2352,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 2
+  },
+  "site_quotes": {
+   "compliance": [
+    "We are proud to be an ISO 9001 and ISO 27001 certified company, and a member of NASCOMM.",
+    "We are now an ISO 2001 and ISO 27001 certified company with NASCOMM membership."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "EDCI",
+  "city": "Kolkata",
+  "domain": "edci.co.in",
+  "website": "https://www.edci.co.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2023-04-27",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1845,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 2,
+   "enterprise": 5,
+   "DQ_template": 2
+  },
+  "site_quotes": {
+   "compliance": [
+    "Being an ISO 9001:2015 certified organization, registered with MSME, LEI and enlisted with UNITED NATIONS GLOBAL COMPACT, and proud members of APDI, DSCI and NASSCOM, has been constantly attracting the attention of various leading organizations to partner with.",
+    "We are an ISO 9001:2015 certified organization, registered with MSME, LEI, D&B, and enlisted with UNGC, and proud members of APDI, DSCI and proud member of NASSCOM."
+   ],
+   "enterprise": [
+    "EDCI's Cyber Crime Awareness Program on 21st February 25 at The Oriental Insurance Company Ltd, Kolkata Regional Office.",
+    "TM EDCI is committed in providing complete solutions to corporate houses, cyber security, healthcare organizations, new initiatives, servicing firms, educational institutions, and practicing professionals.",
+    "​ Send CV: office@edci.co.in Apply: office@edci.co.in ​ TM EDCI is committed in providing complete solutions to corporate houses, cyber security, healthcare organizations, new initiatives, servicing firms, educational institutions, and practicing professionals."
+   ],
+   "DQ_template": [
+    "\",\"name\":\"Unlimited Conversions\",\"id\":\"db8ad791-1ed9-404e-8d67-0d068a72daba\"},{\"description\":\"Choose from our 6 pre-built conversion templates that will help you get started quickly.",
+    "Tons of possibilities and very flexible.\",\"name\":\"6 Popup Templates\",\"id\":\"ed257fbc-ccc5-4e5a-b417-74b61e0e5c12\"},{\"description\":\"Display your popup immediately, after a specified period, when a visitor arrives or before a visitor leaves your site."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "eGRCxperts India Private Limited",
+  "city": "Chennai",
+  "domain": "grcxperts.com",
+  "website": "https://grcxperts.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2020-01-26",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 71245,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "With years of experience in implementing GRC frameworks and associated solutions, GRCxperts aims to identify opportunities that: simplify your processes, integrate data and existing systems to determine the right fit of software and services for your organization."
+   ],
+   "compliance": [
+    "He has also been part of major GDPR and HIPAA privacy implementation programs.",
+    "Kumar has driven strategic initiatives like setting up secure development centers aligned with ISO 27001 and ISO 22301 standards."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "ESIGO Consulting Private Limited",
+  "city": "Chennai",
+  "domain": "esigroup.in",
+  "website": "https://esigroup.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Compliance Solutions Ensure adherence to regulatory standards like GDPR, HIPAA, PCI DSS, and ISO 27001.",
+    "Compliance and Data Security Strengthening Trust Through Compliance Helped a healthcare organization achieve GDPR and HIPAA compliance, safeguarding sensitive patient data and improving operational security."
+   ],
+   "enterprise": [
+    "Compliance and Data Security Strengthening Trust Through Compliance Helped a healthcare organization achieve GDPR and HIPAA compliance, safeguarding sensitive patient data and improving operational security."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 4
+ },
+ {
+  "name": "Exo Edge India Private Limited",
+  "city": "Mohali",
+  "domain": "exoedge.com",
+  "website": "https://www.exoedge.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "usiness Process Outsourcing Company Read and Download the – Case Study Please fill in your full name and work e-mail address to access this case study"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 21903,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "compliance": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "His domain knowledge and attitude have significantly improved our processes.",
+    "We’re proud to foster a workplace that values teamwork, results, accountability, and quality — the core values that guide how we work and who we hire."
+   ],
+   "compliance": [
+    "With a growing team of full-time associates, we operate from our state-of-the-art SOC2 and ISO:27001-certified office in India.",
+    "Modern Facility We have the global certification of SOC2 and ISO 27001 that ensures data security and privacy."
+   ],
+   "cicd": [
+    "Scalable Support: With a strong talent pipeline and operations center in India, EXO Edge can rapidly scale teams and services to meet your growing needs — all while maintaining quality and reliability."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ },
+ {
+  "name": "Extreme Compute Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "extremecompute.com",
+  "website": "https://extremecompute.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "tructure we are able to focus on our Core activity which is Application Development. It's just easier and far more cost-effective to let them handle o"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "EC cloud infrastructure is designed to deliver super-efficient Enterprise-ready cloud with key functionalities like Banking grade security, Hi-speed storage."
+   ],
+   "compliance": [
+    "Load More Aligning with PCI DSS 4.0’s new Today, ransomware is a multibillion-dollar business So far, it has devastated a number of industries..."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 4
+ }
+]

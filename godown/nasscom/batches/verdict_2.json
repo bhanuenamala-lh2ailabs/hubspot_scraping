@@ -1,0 +1,302 @@
+[
+ {
+  "name": "Delostyle Studio Private Limited",
+  "domain": "delostylestudio.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "frontend, web, mobile and e-commerce development plus staff augmentation",
+  "evidence": "Frontend Development, Web Application Development, Mobile App Development, E-commerce Development"
+ },
+ {
+  "name": "Diadem Technologies Pvt Ltd",
+  "domain": "diadem.in",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "managed cloud hosting, dedicated servers, VPS and datacentre infrastructure",
+  "evidence": "ISO 27001 certified cloud provider delivering dedicated and private cloud infrastructure"
+ },
+ {
+  "name": "Dipole Tech Innovations (OPC) Private Limited",
+  "domain": "dipoletechi.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "custom web, mobile and software development plus digital marketing",
+  "evidence": "we design and develop custom websites, eCommerce platforms, and software solutions"
+ },
+ {
+  "name": "DTCC Enterprise Services India Pvt Ltd",
+  "domain": "dtcc.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "post-trade clearing, settlement and trade reporting infrastructure for financial markets",
+  "evidence": "Financial Market Infrastructure; Post-Trade Services Provider; clearing and settlement"
+ },
+ {
+  "name": "EDCI",
+  "domain": "edci.co.in",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "corporate fraud and cybercrime investigation, due diligence, background verification",
+  "evidence": "specializes in Corporate Due Diligence, Debt Recovery, Cyber Crime Investigation, Fraud Investigation"
+ },
+ {
+  "name": "Elektrobit India Private Limited",
+  "domain": "elektrobit.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "automotive embedded software, OS and middleware products plus engineering services",
+  "evidence": "operating systems, middleware, embedded software, digital cockpit solutions, engineering services"
+ },
+ {
+  "name": "Emprotek Software Solutions Private Limited",
+  "domain": "emprotek.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "embedded and IoT product development: firmware, cloud, mobile and web apps",
+  "evidence": "Firmware Development, Cloud Application for IOT, Mobile App and Web Development"
+ },
+ {
+  "name": "eNTrust Software and Services Private Limited",
+  "domain": "ntrustinfotech.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "real estate lease back-office outsourcing plus own lease-management SaaS platforms",
+  "evidence": "Three proprietary platforms power every engagement; Lease Management SaaS, Proprietary LLM"
+ },
+ {
+  "name": "ESF Labs Limited",
+  "domain": "esflabs.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "both",
+  "founded_year": 2014,
+  "what_they_do": "cybersecurity and digital forensics consulting with own USB-monitoring and kiosk tools",
+  "evidence": "ESF Labs products enable cyber security & digital forensics solutions. UAM Tool"
+ },
+ {
+  "name": "ExaThought Technology Consulting Private Limited",
+  "domain": "exathought.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "custom mobile, web and cloud-native application engineering plus DevSecOps",
+  "evidence": "We engineer mobile and web applications, cloud-native platforms, and services"
+ },
+ {
+  "name": "Express Analytics India Private Limited",
+  "domain": "expressanalytics.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "enterprise data and AI analytics services plus kAInet ad-campaign AI product",
+  "evidence": "kAInet builds the full campaign structure; AI orchestration connects agents, voice AI, ML"
+ },
+ {
+  "name": "FinacPlus Global Services Private Limited",
+  "domain": "finacplus.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "virtual back-office BPO plus outsourced software development and data analytics",
+  "evidence": "Technology & Software Development: Outsource your Technology and Software; FinacPlus can develop cloud-"
+ },
+ {
+  "name": "Flodata Analytics Private Limited",
+  "domain": "flodataanalytics.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": 2020,
+  "what_they_do": "data analytics, GIS and data-focused application development for enterprises",
+  "evidence": "track record in the software development industry; Data-focused Application Development"
+ },
+ {
+  "name": "Freyr Software Services Pvt Ltd",
+  "domain": "freyrsolutions.com",
+  "relevant": true,
+  "confidence": "medium",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "pharma regulatory affairs services plus own regulatory submission/labeling software",
+  "evidence": "Technology Solutions for Submissions Management, Labeling Management, Regulatory Information Management"
+ },
+ {
+  "name": "GBSM Consulting Pvt. Ltd. (Business Brio Division)",
+  "domain": "businessbrio.com",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "custom AI, ML and analytics solutions for BFSI, telecom, manufacturing",
+  "evidence": "Delivering Measurable Business Impact through Custom AI Solutions; proven accelerators"
+ },
+ {
+  "name": "GIEOM Business Solutions Private Limited",
+  "domain": "gieom.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "GRC and operational resilience software platform for regulated BFSI firms",
+  "evidence": "GIEOM Operational Resilience Software; The GRC and Operational Resilience Platform"
+ },
+ {
+  "name": "Goavega Software India Pvt Ltd",
+  "domain": "goavega.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "AI-driven product engineering, custom ML models and cloud application development",
+  "evidence": "AI-Powered Application Development; ML Model Development; Product Engineering"
+ },
+ {
+  "name": "GRM Technologies Private Limited",
+  "domain": "grmtechnologies.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "cybersecurity audit, advisory, managed security, forensics and training services",
+  "evidence": "a Cyber & Information Security Audit, Advisory, Consulting Company"
+ },
+ {
+  "name": "HanuAl Private Limited",
+  "domain": "roadathena.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "AI road survey and pavement/asset condition analysis platform",
+  "evidence": "RoadAtthena - AI Road Survey & Condition Analysis, A Product of HanuAI"
+ },
+ {
+  "name": "HICS Technologies India Private Limited",
+  "domain": "hics.com.sg",
+  "relevant": true,
+  "confidence": "low",
+  "prod_or_serv": "service",
+  "founded_year": 2015,
+  "what_they_do": "SAP implementation, application and infrastructure management, staff augmentation",
+  "evidence": "everyone implements SAP; Application & Infrastructure end-to-end management; Staff Augmentation"
+ },
+ {
+  "name": "Hyring Tech Private Limited",
+  "domain": "hyring.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "product",
+  "founded_year": null,
+  "what_they_do": "AI-native recruiting SaaS platform for employers, jobseekers and recruiters",
+  "evidence": "Hyring is an AI-native hiring platform that screens, interviews, and shortlists candidates"
+ },
+ {
+  "name": "IDP Education India Services LLP",
+  "domain": "idp.com",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "overseas education counselling, university applications and student visa services",
+  "evidence": "Study Abroad, Overseas Education Consultants; Free Counselling; visa preparation"
+ },
+ {
+  "name": "Inadev India Private Limited",
+  "domain": "inadev.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "digital engineering, identity intelligence and fraud detection builds for federal clients",
+  "evidence": "deliver products and services; Digital Engineering; end-to-end digital and data transformation"
+ },
+ {
+  "name": "Inference Labs Private Limited",
+  "domain": "inference.in",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "own AI products: video transcription, price intelligence, in-house NLP engine",
+  "evidence": "Our AI APIs, Models, and Intelligent Platforms; iConverse - our in-house NLP engine"
+ },
+ {
+  "name": "InfoVision Labs India Private Limited",
+  "domain": "infovision.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "digital engineering services plus own media-intelligence and payments platforms",
+  "evidence": "architecting and delivering our telemedicine platform end to end; AlphaMetricx Media Intelligence Platform"
+ },
+ {
+  "name": "InnoFissionAI (Assistorix Systems Private Limited)",
+  "domain": "innofissionai.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "custom AI product builds and enterprise automation implementation for BFSI, telecom",
+  "evidence": "End-to-end AI product builds; full-stack engineering, AI model integration, ongoing iteration"
+ },
+ {
+  "name": "Institute for Development and Research in Banking Technology (IDRBT)",
+  "domain": "idrbt.ac.in",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "academic research institute and training centre for banking technology",
+  "evidence": "Institute has restructured its Research Centres; Certification Programmes; Assistant Professors recruitment"
+ },
+ {
+  "name": "Intense Technologies Ltd",
+  "domain": "in10stech.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "both",
+  "founded_year": null,
+  "what_they_do": "UniServe customer communication management and engagement software platforms",
+  "evidence": "Secured Copyright for UniServe Reach Marketing Automation & Customer Engagement Platform"
+ },
+ {
+  "name": "ISEC Services Private Limited",
+  "domain": "isec.co.in",
+  "relevant": false,
+  "confidence": "high",
+  "prod_or_serv": "unclear",
+  "founded_year": null,
+  "what_they_do": "security audits, penetration testing, compliance and BCP consulting for banks",
+  "evidence": "Security Audit Services, Vulnerability Assessments, Penetration Testing, Compliance Audits"
+ },
+ {
+  "name": "iWork Technologies Pvt Ltd",
+  "domain": "iworktech.com",
+  "relevant": true,
+  "confidence": "high",
+  "prod_or_serv": "service",
+  "founded_year": null,
+  "what_they_do": "AI-augmented MVP and product development with dedicated engineering squads",
+  "evidence": "Agentic Product Development; launch MVPs 10x faster; Dedicated Teams, 2-3 AI-Augmented Devs"
+ }
+]

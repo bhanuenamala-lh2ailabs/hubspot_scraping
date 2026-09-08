@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Wixford",
+    "domain": "wixford.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About page is marketing copy only; no person named",
+    "others": []
+  },
+  {
+    "name": "Door Soft Ltd.",
+    "domain": "doorsoft.co",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Text is only page titles and 'Skip to content' furniture",
+    "others": []
+  },
+  {
+    "name": "Mediasoft Data Systems Limited",
+    "domain": "mediasoftbd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Product feature copy only; no individual named anywhere",
+    "others": []
+  },
+  {
+    "name": "DataPollex",
+    "domain": "datapollex.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Repeated site title only; team pages returned no content",
+    "others": []
+  },
+  {
+    "name": "Bright Future Soft",
+    "domain": "brightfuturesoft.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Repeated site title only; team pages returned no content",
+    "others": []
+  },
+  {
+    "name": "CodersBucket",
+    "domain": "codersbucket.com",
+    "person": "Sarwar Hossain",
+    "title": "Founder & CEO",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "A Message from the Founder ... Sarwar Hossain Founder & CEO",
+    "others": [
+      {
+        "person": "Fahad Bin Wahid",
+        "title": "CTO",
+        "linkedin": ""
+      },
+      {
+        "person": "Bappy Kumar Saha",
+        "title": "Lead Software Engineer",
+        "linkedin": ""
+      },
+      {
+        "person": "Md Iftekhar Riyadh",
+        "title": "Project Manager",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Web Xpress",
+    "domain": "webxpress.com.bd",
+    "person": "Shah Nawaze Pavel",
+    "title": "Founder & CEO",
+    "linkedin": "",
+    "phone": "+8801711871722",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Shah Nawaze Pavel Founder & CEO Hridoy Krishno Bepari Co-Founder & COO",
+    "others": [
+      {
+        "person": "Hridoy Krishno Bepari",
+        "title": "Co-Founder & COO",
+        "linkedin": ""
+      },
+      {
+        "person": "Abu Bakar Siddik",
+        "title": "Frontend Engineer",
+        "linkedin": ""
+      },
+      {
+        "person": "Sadique Shahriar",
+        "title": "Backend Engineer",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "TrillionBits Ltd.",
+    "domain": "trillionbits.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "+1 (213) 649-5964",
+    "email": "hello@trillionbits.com",
+    "confidence": "low",
+    "evidence": "Service and tech-stack copy only; no individual named",
+    "others": []
+  },
+  {
+    "name": "BdCalling IT Limited",
+    "domain": "bdcalling.com",
+    "person": "Muhammad Monir Hossain",
+    "title": "Chief Executive Officer",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Muhammad Monir Hossain Chief Executive Officer, Bdcalling IT Ltd.",
+    "others": [
+      {
+        "person": "Sabina Akter",
+        "title": "Chairman, Bdcalling IT Ltd.",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Arena Phone BD",
+    "domain": "arena.com.bd",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Repeated page title only; no team content returned",
+    "others": []
+  },
+  {
+    "name": "Industrial ERP and CRM Software",
+    "domain": "dotbook.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "+8801792288555",
+    "email": "info@dotbook.com",
+    "confidence": "low",
+    "evidence": "'Khorshed Alam' appears only beside chat widget, no role stated",
+    "others": [
+      {
+        "person": "Khorshed Alam",
+        "title": "Role unstated (name shown in site chat widget)",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Magnetism Tech Limited",
+    "domain": "magnetismtech.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Two sentences of capability copy; no person named",
+    "others": []
+  },
+  {
+    "name": "Generation Next IT Solution LTD.",
+    "domain": "gnisbd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "GPAC ERP product blurb only; no person named",
+    "others": []
+  },
+  {
+    "name": "LS COMMUNICATIONS",
+    "domain": "lscominc.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "+8801841412728",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Only staff listed: 'Shafiul Hasan Web Developer'; no leader named",
+    "others": [
+      {
+        "person": "Shafiul Hasan",
+        "title": "Web Developer",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Devute",
+    "domain": "devute.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "UK studio about-page copy; no individual named",
+    "others": []
+  },
+  {
+    "name": "Infocrat Solutions Limited",
+    "domain": "infocrat.com.bd",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "ESimSol-HRM product page only; no person named",
+    "others": []
+  },
+  {
+    "name": "Al-Hiyal Automation Limited",
+    "domain": "alhiyal.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Company history and mission text; no individual named",
+    "others": []
+  },
+  {
+    "name": "Pakiza Software Limited",
+    "domain": "pakizasoftware.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "'Honorable Chairman Mr.' truncated before any name appears",
+    "others": []
+  },
+  {
+    "name": "Global IT Solutions",
+    "domain": "globalitsolutions.com.bd",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Booking page copy referencing 'our executive team'; no names",
+    "others": []
+  },
+  {
+    "name": "Acquaint Technologies",
+    "domain": "acquaintbd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Only 'Salauddin Khan Head of Marketing'; MDs listed are client testimonials",
+    "others": [
+      {
+        "person": "Md. Salauddin Khan",
+        "title": "Head of Marketing",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Vista SysTech",
+    "domain": "vistasystech.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Account Suspended - site offline, no content",
+    "others": []
+  }
+]

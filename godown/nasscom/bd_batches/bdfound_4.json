@@ -1,0 +1,300 @@
+[
+  {
+    "name": "Primacy Infotech Ltd",
+    "domain": "primacyinfotechltd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Team text truncated before leader name; only 'Mobarok Hossen Digital Marketing Manager' present",
+    "others": []
+  },
+  {
+    "name": "QoderLabs",
+    "domain": "qoderlabs.com",
+    "person": "Md Sabbir Hossain",
+    "title": "Co-founder & Lead CMS Developer",
+    "linkedin": "https://www.linkedin.com/in/md-sabbir-hossain1362",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Md Sabbir Hossain Co-founder & Lead CMS Developer",
+    "others": [
+      {
+        "person": "Israil Fokir Robin",
+        "title": "Co-founder & Lead Full Stack Developer",
+        "linkedin": "https://www.linkedin.com/in/israil-fakir"
+      }
+    ]
+  },
+  {
+    "name": "QOLAC",
+    "domain": "qolac.com",
+    "person": "Atikur Rahman Tushar",
+    "title": "Chief Executive Officer",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Atikur Rahman Tushar Chief Executive Officer \"My purpose is to lead the QOLAC journey\"",
+    "others": []
+  },
+  {
+    "name": "Raktch Technology & Software",
+    "domain": "raktch.com",
+    "person": "Engr. Rakibul Islam",
+    "title": "Founder & CEO",
+    "linkedin": "https://www.linkedin.com/in/rakibulislam56",
+    "phone": "+8801581677077",
+    "email": "",
+    "confidence": "high",
+    "evidence": "\"name\":\"Engr. Rakibul Islam\",\"jobTitle\":\"Founder & CEO\"",
+    "others": []
+  },
+  {
+    "name": "ReformedTech",
+    "domain": "reformedtech.org",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "No personal names anywhere in product/about text",
+    "others": []
+  },
+  {
+    "name": "RuhaniSoft",
+    "domain": "ruhanisoft.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "No personal names anywhere in text; only service copy",
+    "others": []
+  },
+  {
+    "name": "SoftBD Ltd",
+    "domain": "soft-bd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Team page lists only Project Managers, engineers and developers, no founder",
+    "others": []
+  },
+  {
+    "name": "SOFTEKO",
+    "domain": "softeko.co",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Mentions 'CEO & CTO' but names no person",
+    "others": []
+  },
+  {
+    "name": "Softifybd Limited",
+    "domain": "softifybd.com",
+    "person": "Motasim Billah Morshed",
+    "title": "Founder & CEO",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "medium",
+    "evidence": "Motasim Billah Morshed Founder & CEO; page elsewhere writes Mostaim Billah Murad",
+    "others": [
+      {
+        "person": "Kazi Rifat Solaiman",
+        "title": "Co-founder & CTO",
+        "linkedin": ""
+      },
+      {
+        "person": "Irfanul Islam",
+        "title": "Sales & Marketing Manager",
+        "linkedin": ""
+      },
+      {
+        "person": "Pritom Paul",
+        "title": "Lead Software Engineer",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Softograph Limited",
+    "domain": "softograph.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Team pages returned 404; about page names no individual",
+    "others": []
+  },
+  {
+    "name": "Softsasi",
+    "domain": "softsasi.com",
+    "person": "Shakil Anower Samrat",
+    "title": "Chief Executive Officer",
+    "linkedin": "https://www.linkedin.com/in/samratbd",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "\"name\": \"Shakil Anower Samrat\", \"jobTitle\": \"Chief Executive Officer\"",
+    "others": [
+      {
+        "person": "Engr. Izaz Uddin Mahmud",
+        "title": "Chief Security Officer (listed elsewhere as Ex-Co-Founder 2022-2024)",
+        "linkedin": ""
+      },
+      {
+        "person": "Md Sakhawat Hossain Hira",
+        "title": "Financial Officer",
+        "linkedin": ""
+      },
+      {
+        "person": "Tanzim Hossain",
+        "title": "Backend Tech Lead",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "SOFTXMIND LIMITED",
+    "domain": "softxmind.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "No personal names in about or service text",
+    "others": []
+  },
+  {
+    "name": "Spring Rain",
+    "domain": "springrainit.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About page is company copy and stats only, no names",
+    "others": []
+  },
+  {
+    "name": "Syftet Limited",
+    "domain": "syftet.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Only 'our team of experts' phrasing, no individual named",
+    "others": []
+  },
+  {
+    "name": "Teccmark PLC",
+    "domain": "teccmark.org",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Team page shows headings only: 'The Humans Meet the Experts'",
+    "others": []
+  },
+  {
+    "name": "Teton Private Ltd.",
+    "domain": "tetonelectronics.com",
+    "person": "Dr. Mizan Rahman",
+    "title": "Managing Director & CEO",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Dr. | Mizan Rahman Managing Director & CEO",
+    "others": [
+      {
+        "person": "Mohammed E Rahman",
+        "title": "Chairman of the Board",
+        "linkedin": ""
+      },
+      {
+        "person": "Aliya Shafquat",
+        "title": "Director & Vice President, Silicon",
+        "linkedin": ""
+      },
+      {
+        "person": "Shakran Hayat",
+        "title": "Vice President, Hardware",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "THESOFTKING LIMITED",
+    "domain": "thesoftking.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "All team/leadership/management pages returned 404",
+    "others": []
+  },
+  {
+    "name": "Valorwide Limited",
+    "domain": "valorwide.com",
+    "person": "Md Feroze Alam",
+    "title": "Chief Executive Officer",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Md Feroze Alam Chief Executive Officer Shahina Islam Managing Director",
+    "others": [
+      {
+        "person": "Shahina Islam",
+        "title": "Managing Director",
+        "linkedin": ""
+      },
+      {
+        "person": "Arifujjaman",
+        "title": "Chief Software Architect",
+        "linkedin": ""
+      },
+      {
+        "person": "Biplab Sarker",
+        "title": "Vice President (Tech)",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Wafi Solutions",
+    "domain": "wafisolutions.com",
+    "person": "Rubayat Asirul Bari",
+    "title": "Chief Executive Officer",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Rubayat Asirul Bari Chief Executive Officer Founded Wafi Solutions in 2013",
+    "others": []
+  }
+]

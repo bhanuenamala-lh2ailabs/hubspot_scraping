@@ -1,0 +1,786 @@
+[
+ {
+  "name": "Inntot Technologies Private Limited",
+  "city": "Kochi",
+  "domain": "inntot.com",
+  "website": "https://www.inntot.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "g Data Services is ported to various hardware platforms and Android Smart Phones. Inntot is a Member of WorldDAB. HD-Radio Receiver Solution Inntot is"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 10766,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 2
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Good programming skills: (C, C++) Apply Engineering Manager",
+    "8+ years’ experience in Software Engineering Manager/ Project Manager role"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Involead Services Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "involead.com",
+  "website": "https://www.involead.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 96,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Vision How we do Resources Thought Leadership Learn with Us Case Studies Articles Demos About us Overview Leadership Team Careers Data Security Contac"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 5287,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2,
+   "enterprise": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Explore Now Data Pipeline Our end-to-end automated data pipeline will improve the data health by connecting evolving data sources and by automating data cleansing, data harmonization..",
+    "From BFSI to CPG Read More The Power of Real-Time Data Pipelines: Why Speed Drives Competitive Advantage admin 2025-12-10T05:36:55+00:00 In business, speed isn’t just a metric, it’s a weapon."
+   ],
+   "enterprise": [
+    "From BFSI to CPG Read More The Power of Real-Time Data Pipelines: Why Speed Drives Competitive Advantage admin 2025-12-10T05:36:55+00:00 In business, speed isn’t just a metric, it’s a weapon."
+   ],
+   "owns_product": [
+    "In today’s heavy competitive world, it is utmost important to keep your product at the right price depending on what you want to achieve – Maximizing your profit OR maximize Revenue OR maximizing a blended Profit & Revenue."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "ITPlusPoint Solutions Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "itpluspoint.com",
+  "website": "https://www.itpluspoint.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "derstands the process and technical aspects involved in the software development process. Also, we are able to absorb domain knowledge and learn new t"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "View More Explore AI Agents --> OUR PRODUCTS Innovative AI Ecosystem Discover our proprietary and partner-driven AI solutions built for multiple industries.",
+    "Our Products and Platforms Partner Products --> Healthcare AI Intelligent healthcare platforms leveraging AI for clinical insights, patient data analytics, predictive diagnostics, and improved healthcare delivery."
+   ],
+   "enterprise": [
+    "Our Products and Platforms Partner Products --> Healthcare AI Intelligent healthcare platforms leveraging AI for clinical insights, patient data analytics, predictive diagnostics, and improved healthcare delivery."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "iTraitz IT Solutions Private Limited",
+  "city": "Thiruvananthapuram",
+  "domain": "itraitz.com",
+  "website": "https://www.itraitz.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2004-03-24",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Kaisemi Control Systems Private Limited",
+  "city": "Thiruvananthapuram",
+  "domain": "kaisemicontrolsystems.com",
+  "website": "https://kaisemicontrolsystems.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2023-12-21",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 65395,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "KSP AI Tech Solutions Private Limited",
+  "city": "Jaipur",
+  "domain": "qwiktrace.com",
+  "website": "https://qwiktrace.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 5,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "QwikTrace's next-gen solutions reduce environmental impact by eliminating the need for multiple vendors and hardware, promoting simplicity and efficiency by optimizing the cost.",
+    "The Qwik box (single box), virtualization, and Secure SD-WAN solutions are hardware-agnostic and based on an open-source model, empowering companies to achieve digital transformation while minimizing their carbon footprint.",
+    "Problem Overview Organizations face high operational costs and inefficiency due to managing multiple vendors and diverse hardware/software components without a unified management platform.",
+    "Diverse hardware and software components."
+   ],
+   "owns_product": [
+    "Our --> Our Products Qwik Connect Qwik Box Qwik Virt Know More Know More Know More Technologies & Features Burke blow off arse gutted mate what a plonker cup of tea fantastic get stuffed mate.!",
+    "Data Centers Our product is ensuring optimal performance and reliability for data center's critical infrastructure needs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Kvaliteta Systems and Solutions Pvt Ltd",
+  "city": "Thiruvananthapuram",
+  "domain": "kvaliteta.in",
+  "website": "http://www.kvaliteta.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Linear Code Technologies",
+  "city": "Ambala",
+  "domain": "linearcode.in",
+  "website": "https://www.linearcode.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Linear Code - Home --> Linear Code Home About Services Portfolio Team Blog Dropdown Dropdown 1 Deep Dropdown Deep Dropdown 1 Deep Dropdown 2 Deep"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "qa": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Linear Code Linear Code HOME ABOUT SERVICES BLOGS OUR PRODUCTS GET IN TOUCH Ready to Build?",
+    "Linear Code Linear Code HOME ABOUT SERVICES BLOGS OUR PRODUCTS GET IN TOUCH Tech Blog Posts New Blog Social Media Latest articles on web development, frameworks, and best practices No blog posts found.",
+    "Privacy Policy Linear Code Linear Code HOME ABOUT SERVICES BLOGS OUR PRODUCTS GET IN TOUCH About Us Welcome to Linear Code, where innovation meets excellence in digital solutions."
+   ],
+   "qa": [
+    "Quality Assurance & Testing Our QA & testing services are integral to our development process, ensuring that every product we deliver is reliable, high-performing, and free from defects."
+   ],
+   "sdlc": [
+    "View More Your Vision, Our Agile Approach We embrace an agile software development process that promotes flexibility, collaboration, and a rapid delivery of high-quality software."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "LowLightKing Productions Private Limited",
+  "city": "Kochi",
+  "domain": "lowlightking.com",
+  "website": "https://lowlightking.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "lm and Video Production Company in Dubai and Kochi About us Our work Our approach Our services Contact us We create content – We create films , corpor"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 32741,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_agency": 2,
+   "pr_practice": 1
+  },
+  "site_quotes": {
+   "DQ_agency": [
+    "Recruitment & Employer Branding Attract better talent with culture that looks real.",
+    "3) Production Planning We lock: Shoot schedule + call sheet Locations and permissions On-camera list (who, when, where) Visual style references Wardrobe/branding guidance (simple, consistent) Logistics: parking, access, power, quiet rooms, backups Output: Final shoot plan + checklist + approvals workflow."
+   ],
+   "pr_practice": [
+    "7) Delivery & Versioning You receive: Master video (website / YouTube / presentations) Social cutdowns (15s/30s/45s/60s) Vertical versions (if required) Captioned exports File naming and version control Output: Final package + all agreed formats."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Lytty Ventures Private Limited",
+  "city": "Palakkad",
+  "domain": "lytty.com",
+  "website": "https://www.lytty.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ted Plug in your platform You don't have to code to import your product listing from your e-commerce platform. Simply use one of use free plugins to h"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 20819,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our platform combines technology excellence with actionable insights, empowering businesses to make informed decisions and cultivate customer loyalty."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "ManiWindTek",
+  "city": "Madurai",
+  "domain": "maniwind.com",
+  "website": "https://maniwind.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2025-03-07",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Team Check our Team Moses Christopher D Chief Executive Officer & Founder Nandha Kumar K Genral Manager- Projects Mathew John J Manager-Sites & Hardwares Sharma M C Accountant --> Contact Contact Us --> Location: 608B,Shalom Nagar, Vallioor, Tamil Nadu - 627117,India."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Manorama Infosolutions Private Limited",
+  "city": "Kolhapur",
+  "domain": "manoramahealthcare.com",
+  "website": "https://www.manoramahealthcare.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "re Health Insurance Pandemic Management Advanced Technology Case Studies Alliances Contact Us Blogs Enabling Digital Healthcare Transformation Digital"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 5179,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 29
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Ltd, specialize in creating a wide range of healthcare IT solutions.",
+    "Our offerings encompass a Hospital Management System known as Enterprise HIMS, Health Insurance Packages, Telemedicine services, Specialized EMRs, Country Automation Solutions, Smart City Solutions, and Communicable Disease Management Solutions tailored for the Public, Private, and Government Healthcare Sectors.",
+    "Through our innovative products, we're remaking healthcare delivery by enhancing patient engagement, optimizing operational efficiency, and elevating care quality.",
+    "Public Healthcare Our advanced HIMS (Hospital information management system) is the best HIMS for seamless, flexible, and adaptive healthcare operations."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "MDG Information Services Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "mdginfo.com",
+  "website": "https://mdginfo.com/about",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 810,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Enterprise Clients High-volume hiring?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "MediaTek India Technology Pvt Ltd",
+  "city": "Gautam Buddha Nagar",
+  "domain": "mediatek.com",
+  "website": "https://www.mediatek.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ou’re already using a MediaTek powered device! At MediaTek, we build technology with humans in mind to enhance and enrich everyday life. Incredible In"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 6
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our platforms offer high performance, reliable connectivity, rich features, and are power-efficient by design.",
+    "Insight into our latest industry-leading innovations that make our products stand out.",
+    "5G Smartphones 4G Smartphones Internet of things Networking & Connectivity Smart TV Chromebooks Automotive ASIC Creating the future of communication and connectivity Our world-class R&D teams work tirelessly to push the boundaries of technology, ensuring that our products are always at the forefront of industry trends.",
+    "Our platforms are engineered to set the standard for compute power, AI performance, responsiveness, and reliability."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Metacube Software Pvt Ltd",
+  "city": "Jaipur",
+  "domain": "metacube.com",
+  "website": "https://www.metacube.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2002-09-11",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "MetClouds Technologies Private Limited",
+  "city": "Ernakulam",
+  "domain": "metclouds.com",
+  "website": "https://metclouds.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Development Services Shopify Plus Development Services Web Application Development Mobile Application Development Work Portfolio Case Studies Blog Ca"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 613890,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Mindtrack Technologies Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "mindtrack.tech",
+  "website": "https://mindtrack.tech/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "\u0000\u0000\u0000\u0000\u0000\u0004 \u0001�mf� Mindtrack Technologies --> Home About Services Portfolio Career Gallery Contact Skip To Main Content --> A --> A - A A + A + --> Toll Fre"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 3002,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "DQ_agency": 1,
+   "DQ_support": 3
+  },
+  "site_quotes": {
+   "compliance": [
+    "Recognition Who we are --> Mindtrack Technologies (P) Limited is a CMMI Level-3 and ISO 9001, ISO/IEC 20000-1, and ISO/IEC 27001 certified company, established in 2016."
+   ],
+   "DQ_agency": [
+    "Website Development Responsive and SEO-friendly websites built with modern technologies for strong digital presence."
+   ],
+   "DQ_support": [
+    "Embedded Firmware Development Reliable firmware solutions for microcontrollers and hardware devices.",
+    "Email Mobile No Message Send --> info@mindtrack.tech 18008900639 9937070639 Chatbot Language Help Desk Mute Voice Rate Us Clear Chat Close Chat Let's have a conversation with Mira."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Mudunuru Limited",
+  "city": "Visakhapatnam",
+  "domain": "mudunuru.com",
+  "website": "https://mudunuru.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "USA, Middle East, UK and Australia. It is a pioneer in the application development of leading edge technologies, including face, finger and iris base"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 26667,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 6
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "It has a judicious mix of fine people with experience in design, development, implementation of Software & Hardware solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Naico Information Technology Services Private Limited",
+  "city": "Kochi",
+  "domain": "naicoits.com",
+  "website": "http://naicoits.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 124,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "reers Customer Stories Contact Us Contact Us --> Enterprise Application Development SaaS Product Engineering Enterprise Application Engineering Mobile"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 21272,
+   "signals": {
+    "testing": 4
+   },
+   "quotes": {
+    "testing": [
+     "Perform Coding and Unit Testing.",
+     "Perform Coding and Unit Testing."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "qa": 2,
+   "sdlc": 1,
+   "enterprise": 1,
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "It's been amazing to see how much progress has been made on our platform."
+   ],
+   "qa": [
+    "• Perform Coding and Unit Testing.",
+    "• Prepare unit test record."
+   ],
+   "sdlc": [
+    "We work together to solve hard problems in a fast-paced and agile environment."
+   ],
+   "enterprise": [
+    "Visit Linkedin Profile Matt Payyn VP–Business Relations Matt Payn has about two decades of experience in a variety of industries including healthcare, finance, technology, and construction."
+   ],
+   "prod_eng": [
+    "During his professional journey, he has been associated with Product based and services-based companies holding accountability for high level client engagements in the Consumer, Product Engineering and Health care segments."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "NAV Fund Services (India) Private Limited",
+  "city": "Jaipur",
+  "domain": "navbackoffice.com",
+  "website": "https://www.navfundservices.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 2508,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

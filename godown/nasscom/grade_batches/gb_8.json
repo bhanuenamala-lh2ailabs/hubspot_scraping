@@ -1,0 +1,1274 @@
+[
+ {
+  "name": "Acuiti Labs (India) Pvt Ltd",
+  "city": "Pune",
+  "domain": "acuitilabs.com",
+  "website": "https://www.acuitilabs.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [
+    "https://acuitilabs.keka.com/careers/jobdetails/50817",
+    "https://acuitilabs.keka.com/careers/jobdetails/41961"
+   ],
+   "jd_chars": 120132,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 6,
+   "compliance": 43,
+   "DQ_template": 8,
+   "sdlc": 5,
+   "enterprise": 3,
+   "DQ_support": 8,
+   "pr_practice": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Transforming Business Models for a Subscription Economy How it works Customizable BRIM Products by Acuiti Labs Take your business to the next level with our customizable SAP BRIM-based products and accelerators, designed to help you accelerate growth and streamline your billing and revenue management processes.",
+    "Our Products Available on SAP Store Acuiti Labs has also developed multiple complementary solutions to address gaps in technology solutions for subscription businesses and has multiple products on the SAP App Store.",
+    "Visit SAP Store AcuitiPay - A BRIM Accelerator for Connected Cars World’s first end-to-end dedicated commerce, billing, subscription, & data management program.",
+    "Read More 207 30 Jun Business Why Quote-to-Cash Is the New Frontline of Customer Experience In today’s experience-first economy, the battleground for customer loyalty isn’t just your product or app — it’s your revenue process."
+   ],
+   "compliance": [
+    "cookielawinfo-checbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\".",
+    "cookielawinfo-checbox-others 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-advertisement 1 year Set by the GDPR Cookie Consent plugin, this cookie records the user consent for the cookies in the \"Advertisement\" category."
+   ],
+   "DQ_template": [
+    "elementor indefinite The website's WordPress theme uses this cookie.",
+    "SAP CLM provides a simplified method for customizing contracts, allowing businesses to effortlessly adjust contract templates to match specific requirements.",
+    "Acuiti Labs’ AMS Shared support model brings predictable value that leverages best-in-class strategies, processes, templates, and reporting framework."
+   ],
+   "sdlc": [
+    "Apply India SAP Project Manager 12 Years SAP Project experience, SAP Activate Methodology, Agile, Jira.",
+    "Quote-to-Cash: A Feature-by-Feature Comparison In a fast-changing digital economy, companies are under constant pressure to deliver seamless, agile, and customer-centric billing experiences.",
+    "From strategizing and optimizing your processes to implementing customized solutions that flawlessly meet your business requirements, Acuiti Labs excels in every aspect.",
+    "Conclusion Our process allows business to combine all their different data and processes into a single tool."
+   ],
+   "enterprise": [
+    "Coupled with our extensive experience in regulated industries, we provide innovative business solutions.",
+    "Discounts, approvals, and product combinations are regulated by specific guidelines, ensuring that deals progress rapidly and remain profitable.",
+    "This is a new technology app capable of working with partners from the automotive, telecom, and insurance industries (among others) designed to assist the drivers and brings together a wide range of potentially useful functions into one easy-to-use platform."
+   ],
+   "DQ_support": [
+    "It supports both Private Cloud and Public Cloud SAP environments.",
+    "Solution quotations combine hardware and services.",
+    "To support such models where the subscription is for the hardware or the subscription(s) are dependent on the hardware, this feature of integration between the equipment master and the subscription contract has been provided.",
+    "The ability to bundle different kinds of products (hardware, service, and subscription) already existed and hardware products resulted in the creation of SD Sales Orders from which downstream processes such as Delivery, Goods Issue etc."
+   ],
+   "pr_practice": [
+    "Automated compliance tracking, digital audit trails, version control."
+   ],
+   "DQ_bpo": [
+    "This eliminates extra work which is associated with manual data entry, multiple database usage, and other unwanted and time-consuming aspects that help keep your BRIM system up and running."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 12
+ },
+ {
+  "name": "Codelogicx Technologies Private Limited",
+  "city": "Kolkata",
+  "domain": "codelogicx.com",
+  "website": "https://www.codelogicx.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Digital Transformation and Product Engineering Company Home (current) --> Pricing Technologies Cloud Native and hybri"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [
+    "https://codelogicx.zohorecruit.in/jobs/Open-jobs"
+   ],
+   "jd_chars": 915241,
+   "signals": {
+    "cicd": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Our agile practices, CI/CD pipelines, and automated testing frameworks help you reduce time to market while maintaining enterprise-grade quality standards."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 85,
+   "cicd": 25,
+   "qa": 22,
+   "sdlc": 34,
+   "compliance": 9,
+   "enterprise": 34,
+   "prod_eng": 42,
+   "senior_roles": 1,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We work as an extended arm of your product team, offering strategic input on product roadmaps, architecture planning, modular design, and future-proof development.",
+    "Whether you're building from scratch or re-engineering an existing platform, we ensure every layer of your product, from front-end performance to back-end logic, is built for scalability, security, and a seamless user experience.",
+    "At CodelogicX, our Code and Infrastructure Audits uncover hidden inefficiencies, security vulnerabilities, and architectural flaws that may be holding your product back.",
+    "Future-Proof Your Product with Intelligent Scaling Scaling isn't just about adding servers or users; it's about preparing your product to grow without breaking it."
+   ],
+   "cicd": [
+    "Our agile practices, CI/CD pipelines, and automated testing frameworks help you reduce time to market while maintaining enterprise-grade quality standards.",
+    "We conduct thorough assessments of code quality, deployment pipelines, database performance, and infrastructure setup.",
+    "Learn More Cloud Infrastructure Cloud Infrastructure From seamless cloud migration and DevOps enablement to Docker and Kubernetes solutions, we ensure your cloud environment is scalable and efficient.",
+    "With advanced test automation, CI/CD integration, and continuous testing, we streamline your development process while offering excellent user experiences."
+   ],
+   "qa": [
+    "Our agile practices, CI/CD pipelines, and automated testing frameworks help you reduce time to market while maintaining enterprise-grade quality standards.",
+    "With expertise in app modernization, microservices, IoT, AR/VR, and quality engineering, we deliver seamless user experiences and robust functionality.",
+    "Learn More Quality Engineering Quality Engineering Achieve flawless product performance with our quality engineering services.",
+    "With advanced test automation, CI/CD integration, and continuous testing, we streamline your development process while offering excellent user experiences."
+   ],
+   "sdlc": [
+    "Our agile practices, CI/CD pipelines, and automated testing frameworks help you reduce time to market while maintaining enterprise-grade quality standards.",
+    "Agile Teams, Zero Hiring Hassles Finding the right tech talent at the right time can be a challenge.",
+    "35% faster time-to-market for new features after adopting Agile and DevOps practices.",
+    "Felix Elevating Success with World-Class Technology Partnerships By forging strategic alliances with leading technological giants, we deliver agile solutions that head the way in innovation."
+   ],
+   "compliance": [
+    "From GDPR and HIPAA to ISO and SOC certifications, our experts guide you through every step, right from policy implementation to technical validation.",
+    "Data Privacy and Security Compliance with GDPR, CCPA, and global security standards.",
+    "Complete Charge of Projects Take charge of your projects and see them through from start to finish Learn More Complete Charge of Projects Learn More Freedom to Innovate Compliance with GDPR, CCPA, and ISO 27001 for secure platforms."
+   ],
+   "enterprise": [
+    "Education --> Healthcare Retail & Ecommerce Travel & Hospitality Transport & Logistics Fintech People Social & Community --> Manufacturing Shaping Smarter Learning with Smarter Technology Education is no longer confined to classrooms or textbooks.",
+    "Healthcare organizations operate under constant pressure—managing critical data, meeting regulatory demands, and keeping up with fast-evolving technology.",
+    "At CodelogicX, we build secure, scalable, and fully compliant medical systems that help healthcare providers refocus on delivering exceptional care.",
+    "From neo banking platforms and mobile wallets to digital lending, KYC automation, and real-time payment systems, we engineer financial solutions that comply with regulations and compete in the market."
+   ],
+   "prod_eng": [
+    "With a strong foundation in engineering excellence and a passion for purposeful innovation, we turn ambitious ideas into real-world impact.",
+    "Product Engineering Product Engineering Turn your vision into reality with our comprehensive product engineering services.",
+    "Learn More Product Engineering AI-driven Innovation Transform your ideas into reality with AI-powered design and development.",
+    "This will use later --> Digital Product Engineering Service"
+   ],
+   "senior_roles": [
+    "Our expertise in DevSecOps, cloud security, and site reliability engineering keeps your systems resilient and protected."
+   ],
+   "DQ_agency": [
+    "With tailored digital marketing strategies and a robust digital maturity framework, we ensure your business achieves sustainable growth across all functions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 11
+ },
+ {
+  "name": "ACS Solutions (Guru Gowri Krupa Technologies Pvt Ltd)",
+  "city": "Hyderabad",
+  "domain": "innovasolutions.com",
+  "website": "https://innovasolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 7626,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ook Twitter Instagram Linkedin Youtube --> Services Digital Product Engineering Digital Application Services UI/XM Services Quality Engineering Servic"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 29478,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 9,
+   "prod_eng": 2,
+   "compliance": 5,
+   "sdlc": 1,
+   "DQ_support": 1,
+   "owns_product": 2,
+   "qa": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Talent Solutions Talent Solutions – Innova Solutions partners with more than 1100 small, mid-size, and Fortune 500 companies across various industries to understand their talent challenges and needs.",
+    "Learn More Healthcare and Life Sciences Healthcare and Life Sciences We partner with payers, providers, life sciences, and digital health companies to streamline operations, reduce costs, and create seamless patient experiences.",
+    "Learn More Insurance Insurance As a trusted partner, we enable insurance providers to adapt to market shifts and overcome new challenges with innovative technology.",
+    "Additional benefit options—including life and AD&D insurance, short-term disability, critical illness coverage, hospital indemnity, and accident insurance—ensure you and your loved ones are well-supported."
+   ],
+   "prod_eng": [
+    "Learn More Travel, Transportation, and Hospitality Travel, Transportation, and Hospitality With our deep expertise in system integration, product engineering, and automation, we enhace operational transformation, and accelerate growth.",
+    "With curated talent communities specializing in cloud, data & analytics, digital product engineering, AI & automation, and cybersecurity, we partner with clients across industries to modernize faster and operate smarter."
+   ],
+   "compliance": [
+    "Accept Close GDPR Cookie Settings Privacy Overview Necessary Powered by GDPR Cookie Compliance Privacy Overview This website uses cookies so that we can provide you with the best user experience possible."
+   ],
+   "sdlc": [
+    "Despite the company’s rapid growth, we maintain a boutique approach for client relationships and offer customized, agile solutions."
+   ],
+   "DQ_support": [
+    "IT Support & Maintenance IT Support & Maintenance Shift IT from reactive firefighting to predictive management, self-healing operations — powered by AIOps."
+   ],
+   "owns_product": [
+    "50+ Applied AI use cases across industries Purpose-Built Frameworks & Accelerators Industry-specific frameworks and accelerators that streamline solution design and accelerate AI delivery.",
+    "30+ Accelerators and reusable engineering components Strategic Partner Ecosystem Leverages hyperscalers and specialized AI partners to expand capabilities and drive innovation."
+   ],
+   "qa": [
+    "telecom provider leveraged AI-driven test automation to eliminate fragmented test cycles and accelerate quality engineering.",
+    "Learn More Life Sciences 50% Less QA Efforts at Scale One of the largest global pharma intelligence solutions providers leveraged AI-driven engineering to modernize fragmented testing process, reducing QA cycles by 50% and accelerating test velocity."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Anand Rathi IT Private Limited",
+  "city": "Mumbai",
+  "domain": "techanandrathi.com",
+  "website": "https://www.techanandrathi.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2020-11-24",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 9329,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 2,
+   "owns_product": 1,
+   "sdlc": 2,
+   "qa": 3,
+   "vcs": 1,
+   "cicd": 2,
+   "compliance": 5,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Product Engineering Product Engineering is successful completion of sequential steps or process.",
+    "Our Clients Get Expert Advice \" /> Contact Us Digital Transformation RPA DevOps QA Automation Product Engineering UI/UX Agile Methodology Performance Engineering Products CRM E-HR ARIAbot E-Well Benefits Get in Touch with Us Phone 7877718250 Email sales.arit@rathi.com Address Anand Rathi IT Pvt."
+   ],
+   "owns_product": [
+    "Build your own chatbots from a scratch Benefit Plus The legacy that deals with all your Employee benefits and health worries with enrolment and claims analytical reports readily available You Visualize - We Develop Our product speaks our success."
+   ],
+   "sdlc": [
+    "Robust Backend Development Auto scalable backend solution based on sprint boot microservices architecture and load balances.",
+    "Our Clients Get Expert Advice \" /> Contact Us Digital Transformation RPA DevOps QA Automation Product Engineering UI/UX Agile Methodology Performance Engineering Products CRM E-HR ARIAbot E-Well Benefits Get in Touch with Us Phone 7877718250 Email sales.arit@rathi.com Address Anand Rathi IT Pvt."
+   ],
+   "qa": [
+    "QA & Automation Using Selenium and Cucumber to achieve QA Automation for quick and automated regression testing.",
+    "CI/CD Pipeline Using Jenkins and GIT hooks with QA Automation to achieve continuous integration continuous delivery.",
+    "Our Clients Get Expert Advice \" /> Contact Us Digital Transformation RPA DevOps QA Automation Product Engineering UI/UX Agile Methodology Performance Engineering Products CRM E-HR ARIAbot E-Well Benefits Get in Touch with Us Phone 7877718250 Email sales.arit@rathi.com Address Anand Rathi IT Pvt."
+   ],
+   "vcs": [
+    "CI/CD Pipeline Using Jenkins and GIT hooks with QA Automation to achieve continuous integration continuous delivery."
+   ],
+   "cicd": [
+    "CI/CD Pipeline Using Jenkins and GIT hooks with QA Automation to achieve continuous integration continuous delivery.",
+    "Micro Service Architecture Using Docker and Kubernetes to achieve containerization for robust, auto-scalable and resilient architecture."
+   ],
+   "compliance": [
+    "(Get Direction) Get in Touch with Us --> ISO 9001:2015 – Quality Management System ISO/IEC 27001:2022 – Information Security Management System --> Anand Rathi IT Pvt."
+   ],
+   "enterprise": [
+    "Employees and HR teams require the ability to access critical … Read More Mobile Applications 7 Easy Steps to Bring Your Mobile App Idea to Life February 11, 2025 February 11, 2025 - by Tech Anand Rathi Mobile apps have become a game-changer across industries—be it finance, healthcare, e-commerce, or education."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "ASE Structure Design Pvt Ltd",
+  "city": "Chennai",
+  "domain": "asecaddesign.com",
+  "website": "https://asecaddesign.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 3,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 10404,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 5,
+   "sdlc": 4,
+   "DQ_template": 1,
+   "qa": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Quality Process Quality is ingrained in our processes, with stringent checks aligned with ISO 9001:2015 and ISO/IEC 27001:2022 standards conducted at multiple delivery milestones.",
+    "ASE is an ISO 9001:2015 and ISO/IEC 27001:2022 certified company which swears by confidentiality of client data.",
+    "Quality is ingrained in our processes, with stringent checks aligned with ISO 9001:2015 and ISO/IEC 27001:2022 standards conducted at multiple delivery milestones.",
+    "ASE is an ISO 9001:2015 certified company which provides 100% quality of services provided."
+   ],
+   "sdlc": [
+    "Quality Process Quality is ingrained in our processes, with stringent checks aligned with ISO 9001:2015 and ISO/IEC 27001:2022 standards conducted at multiple delivery milestones.",
+    "Our processes incorporate rigorous quality checks to guarantee top-notch output.",
+    "Quality is ingrained in our processes, with stringent checks aligned with ISO 9001:2015 and ISO/IEC 27001:2022 standards conducted at multiple delivery milestones.",
+    "Innovation thrives at ASE, with employees actively contributing ideas that enhance our processes and elevate the customer experience."
+   ],
+   "DQ_template": [
+    "Familiarity with US telecom standards, client templates, and utility compliance guidelines."
+   ],
+   "qa": [
+    "High-quality engineering drawings 2.",
+    "Our expertise spans telecom tower design, structural engineering, foundation design, pole loading analysis, rooftop and greenfield site design, fiber optic network planning (FTTH/FTTx), GIS mapping, BIM modeling, EV charging station infrastructure design, and quality engineering support ."
+   ],
+   "DQ_support": [
+    "High Operational Costs Building an engineering team involves substantial investment in: Salaries Employee benefits Office infrastructure Software licenses Hardware Recruitment Training Professional certifications These expenses continue regardless of project volume."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Baxter Innovations and Business Solutions Private Limited",
+  "city": "Bengaluru",
+  "domain": "baxter.com",
+  "website": "https://www.baxter.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nu Patients Healthcare Professionals Perspectives Our Story Our Products Search Search Healthcare Professionals Committed to helping you meet the evol"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 18295,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 20,
+   "owns_product": 3,
+   "compliance": 5
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Redefining Healthcare Delivery Everywhere Care Happens",
+    "Baxter Skip to main content Utility Navigation Investors Careers Contact Us Locations Language (EN) English About Baxter About Baxter We’re everywhere healthcare happens, and everywhere it’s going.",
+    "Every day, millions of patients and healthcare providers rely on our unmatched portfolio of connected solutions, medical devices and advanced injectable technologies to help deliver smarter, more personalized care.",
+    "About Baxter The Future of Healthcare Is Connected Connected care is no longer optional—it’s essential."
+   ],
+   "owns_product": [
+    "Whether you need technical assistance, product training, or self-service tools, we provide the resources to keep your products and systems running smoothly.",
+    "Trusted From emergencies to elective surgeries, our products have been trusted for decades across a variety of specialties, including orthopedics, gynecologic, bariatric and cardiovascular.",
+    "Efficient Our products are engineered with clinician and patient safety in mind, from our surgical lights that support optimal air flow to our leading hemostats that help surgeons quickly address intraoperative bleeding."
+   ],
+   "compliance": [
+    "Support LinkedIn Facebook YouTube Instagram Global Privacy Policy Cookies Terms of Use US Privacy Policy Do Not Sell or Share My Personal Information HIPAA Notice of Privacy Practices ©Copyright 2026 Baxter."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Binmile Technologies Private Limited",
+  "city": "Noida",
+  "domain": "binmile.com",
+  "website": "https://binmile.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 1,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Software Development Services Company in USA & India | Binmile Skip to content Contact US"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 29403,
+   "signals": {
+    "testing": 1
+   },
+   "quotes": {
+    "testing": [
+     "Advancing Test Automation with Playwright View All Events ⟶ --> Navigating International Markets with Our Global Presence India EMIT Building, D-42, Sector 59, Noida, Uttar Pradesh 201301 +91-7669-410-017 India Plot No."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 4,
+   "enterprise": 8,
+   "compliance": 6,
+   "cicd": 6,
+   "sdlc": 2,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Frontend Engineering Backend Engineering Generative AI Databases Quality Engineering Digital Experience Mobile Cloud & DevOps Data Engineering Platform Frontend Engineering Build seamless and engaging user experiences with responsive, intuitive, and visually stunning frontend designs.",
+    "Binmile has been a valuable and trusted partner in providing Software Quality Engineering services.",
+    "Anish Ohri Director of Quality Engineering at Trepp, LLC They were very prompt in their responses and always available.",
+    "90% reduced bugs 70% (7x) faster development 40% reduced QA Cost Read the Full Case Study ⟶ Ready to develop powerful platforms that deliver faster insights?"
+   ],
+   "enterprise": [
+    "All Services → --> Banking & Finance We empower fintech companies with effective business solutions.",
+    "Insurance We offer user-centric solutions for insurance firms to enhance the customer experience.",
+    "Healthcare We offer unparalleled healthcare software solutions for healthcare institutions.",
+    "Our expertise spans across AI development, implementation, and integration to meet the unique needs of SMBs and Fortune 500 companies."
+   ],
+   "compliance": [
+    "An ISO 9001:2015, ISO/IEC 27001:2022, and NASSCOM certified company, strengthened by our unique Global Delivery Model."
+   ],
+   "cicd": [
+    "From building robust data pipelines to processing, storing, and enabling easy access to clean, processed data, our services empower you to make informed decisions.",
+    "Trusted by Global Enterprises Manage your Business with Data Engineering Services Company Our team of expert data engineers helps you design and build data pipelines with a modernized ETL tool powered by AI-driven data delivery.",
+    "Leverage the Transformative Power of Data Engineering Automated Data Pipeline Innovative data engineering solutions that optimize data lifecycle management .",
+    "Yes, a dedicated data engineer ensures that your data pipelines are efficient, scalable, and secure."
+   ],
+   "sdlc": [
+    "Predictive Analytics Solution Empower your processes to become proactive and forward-looking with our predictive analytics services.",
+    "DevOps & Automation With modern DevOps practices and CI/CD pipelines , we automate and streamline development cycles, reducing time-to-market and maintaining consistent product quality."
+   ],
+   "senior_roles": [
+    "Yash Gupta Technical Architect Leading ServiceNow solutions end-to-end, Yash drives Binmile’s technical perspective."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "BizAcuity Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "bizacuity.com",
+  "website": "https://bizacuity.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 211,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ing Landbased Gaming Lottery E-Commerce Logistics Resources Case Studies White Papers Webinars Press Release Blog Contact Us Careers At A Glance About"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 91149,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "compliance": 6,
+   "senior_roles": 6,
+   "prod_eng": 2,
+   "qa": 1,
+   "cicd": 4,
+   "DQ_training": 1,
+   "sdlc": 4
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Industries Financial Transform your banking and financial operations into insight-driven operations with our advanced business analytics solutions for BFSI.",
+    "Bhavin Mehta Managing Partner With over two decades of experience, Bhavin Mehta has established himself as a seasoned technology leader, driving digital transformations across diverse industries such as hospitality, realty, financial services, healthcare, human resources, transportation, and consulting."
+   ],
+   "compliance": [
+    "Accept Change cookie settings Close GDPR Cookie Settings Privacy Overview Strictly Necessary Cookies Cookie Policy Powered by GDPR Cookie Compliance Privacy Overview This website uses cookies so that we can provide you with the best user experience possible.",
+    "We are certified in: ISO/IEC 27001 – Information Security Management ISO 9001 – Quality Management Systems Our clients trust us not just for what we deliver, but for how we deliver it.",
+    "Change cookie settings Close GDPR Cookie Settings Privacy Overview Strictly Necessary Cookies Cookie Policy Powered by GDPR Cookie Compliance Privacy Overview This website uses cookies so that we can provide you with the best user experience possible."
+   ],
+   "senior_roles": [
+    "Sandeep Sr.Tech lead I always feared the start-up culture however, while interning at BizAcuity Solutions in 2020, I changed my perspective.",
+    "Bhagyashree Das Account Executive As a senior tech lead at BizAcuity, I can confidently say that they value employees, provide impressive support and training, and inspire with its focus on business intelligence and analytics.",
+    "Anand Sr Tech Lead I am incredibly grateful to be a part of the Bizacuity team.",
+    "Nishant Reddy Developer As a senior tech lead at BizAcuity, I can confidently say that they value employees, provide impressive support and training, and inspire with its focus on business intelligence and analytics."
+   ],
+   "prod_eng": [
+    "Our services include – Business Intelligence Consulting , Advanced Analytics, Managed Services, Data Management, Cloud Services, Technology Consulting , Application Development and Product Engineering."
+   ],
+   "qa": [
+    "The ideal candidate will work closely with developers, product managers, and manual QA teams to deliver high-quality releases."
+   ],
+   "cicd": [
+    "You will be responsible for designing, developing, and maintaining scalable data pipelines and architectures.",
+    "Key Responsibilities ETL/ELT Development: Design and implement robust data integration workflows using SSIS for legacy systems and Microsoft Fabric (Data Factory/Pipelines) for cloud integration.",
+    "Maintenance & Optimization: Monitor existing SQL Server Agent jobs, troubleshoot pipeline failures, and ensure data integrity across Production (PRD) and Test (TST) environments.",
+    "Achieve sales targets & build pipelines & sales plans – Setting sales targets based on market research, historical sales data, and your company’s growth goals."
+   ],
+   "DQ_training": [
+    "Provide training and coaching to your sales team to help them improve their skills and performance."
+   ],
+   "sdlc": [
+    "As a 14-year-old who Machine Learning for Anti-Money Laundering in the iGaming industry Back in November 2022, the European Comission (EC) published a report on the prevalence of money laundering in the iGaming industry, flagging it at Agile Software Development: What Is All the Fuss About?",
+    "Agile software development supports this agility « Previous Page 1 Page 2 Page 3 … Page 8 Next » D&B D-U-N-S® Registered™ ISO Certified Quick Links Contact Us Careers Newsroom Privacy Policy Locations Gartner Reviews Subscribe to Newsletter Email Subscribe © 2026 BizAcuity Solutions Pvt.",
+    "His expertise encompasses product leadership, agile delivery with DevOps, cloud transitions, business analytics, and distributed application architecture."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Blue Santos Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "reachiso.com",
+  "website": "https://www.reachiso.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ion about Reach ISO. Let’s Connect! Email Quick Links About Case Studies FAQ’s Blog Privacy Policy Contact Us Location Services ISO Certification in H"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 5
+  },
+  "site_quotes": {
+   "compliance": [
+    "Our primary goal is to empower businesses with ISO certification services, including ISO 9001, ISO 27001 , ISO 14001, ISO 45001, and others.",
+    "Read More Mastering SOC 2 Compliance: Your Guide to Achieving ISO Certification August 10, 2023 Mastering SOC 2 Compliance: Your Guide to Achieving ISO Certification – Admin August 10, 2023 In an increasingly interconnected and digitized world, safeguarding sensitive data has become a top priority...",
+    "Read More Effects of ISO 9001 and 27001 Certification on Companies Profitability August 7, 2023 Effects of ISO 9001 and 27001 Certification on Companies Profitability – Admin August 7, 2023 ISO 9001 and ISO 27001 certifications can have positive effects on a company’s profitability.",
+    "About Us Reach ISO™, a division of Blue Santos is a name for high-quality ISO/CMMI Certification Solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Code Decode Labs Private Limited",
+  "city": "Pune",
+  "domain": "codedecodelabs.com",
+  "website": "https://www.codedecodelabs.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Decode Labs Home About Us Partners Careers Services Secure Application Development IT automation Cyber Security & Data compliances Zero Trust & SASE"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 5,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "--> Know more --> Internationally Well Recognized & Certified Team GDPR, DPIA, ‘ISO 27001:2022’ Certified & ‘ISO 9001:2015’ Certified Organization.",
+    "Know more --> ‘ISO/IEC 27001:2022’, 'ISO/IEC 27701:2019', ‘ISO 9001:2015’ Certified & GDPR Compliant Organization.",
+    "GDPR & Privacy Compliant Infosec Hack-Proof Security, That Stands Unbeaten 'Red Team Experts' turned as 'Cyber Security Researchers' & 'Gray-Hat Hackers'.",
+    "Empanelments ‘ISO/IEC 27001:2022’, 'ISO/IEC 27701:2019', ‘ISO 9001:2015’ Certified & GDPR Compliant Organization."
+   ],
+   "enterprise": [
+    "Tanaka Lee Wang, AVP - IT, China Taiping Insurance Group Ltd., Hong Kong."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 10
+ },
+ {
+  "name": "Creative Virtual Private Limited",
+  "city": "Navi Mumbai",
+  "domain": "creativevirtual.com",
+  "website": "https://www.creativevirtual.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 96268,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "compliance": 5,
+   "sdlc": 2,
+   "enterprise": 3,
+   "senior_roles": 1,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Our V-Person solutions deliver better user experiences including: IT Support HR Support Employee Onboarding Employee Role Support A Better Customer Experience Customers expect access to information and support, and immediate resolution to their needs – anytime, anywhere and on their terms."
+   ],
+   "compliance": [
+    "Close GDPR Cookie Settings Privacy Overview Strictly Necessary Cookies 3rd Party Cookies Powered by GDPR Cookie Compliance Privacy Overview This website uses cookies so that we can provide you with the best user experience possible."
+   ],
+   "sdlc": [
+    "We have an in-house Research & Development team and our agile approach to development enables us to move fast and leverage the latest technologies for the benefit of our clients.",
+    "We have an in-house Research & Development team who adopt an agile approach to development."
+   ],
+   "enterprise": [
+    "They expect Read More Chris Ezekiel, Founder and CEO 16 July 2024 There is nothing artificial about healthcare In the public interest AI in healthcare has garnered many headlines over the years.",
+    "Ethics, privacy, security The same concerns and challenges that are raised about AI generally, are also being scrutinised through the healthcare lens.",
+    "How could AI used in cancer screening and to improve healthcare screening generally, or used to analyse billions of data points to enable perfect crop, seed and fertilizer timing to combat world hunger be classified Read More Chris Ezekiel, Founder and CEO 05 April 2024 Securing reputation integrity"
+   ],
+   "senior_roles": [
+    "We have the very best engineers (software, database, knowledge management, support), solution architects, product designers and managers, sales and marketing people, designers (UI and UX), innovators, service delivery, commercial (finance, procurement, contracting), and management teams."
+   ],
+   "owns_product": [
+    "Karan Dave Project Leader, R&D Team Read More Karan Dave Project Leader, R&D Team Karan joined Creative Virtual in Oct 2013 and is a member of the Research and Development team creating our product suite, namely V-Studio and V-Person.",
+    "Karan joined Creative Virtual in Oct 2013 and is a member of the Research and Development team creating our product suite, namely V-Studio and V-Person."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Cygnet Infotech Pvt Ltd",
+  "city": "Ahmedabad",
+  "domain": "cygnet-infotech.com",
+  "website": "https://www.cygnet.one/",
+  "already_in_hubspot": true,
+  "headcount_known": 32,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "t Philosophy People & Culture Partnerships & Accreditations Our Work Open menu Our Portfolio Technovation Center Clients Speak Media & Analysts Insigh"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 56657,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 6,
+   "sdlc": 4,
+   "compliance": 23,
+   "qa": 1,
+   "cicd": 2,
+   "prod_eng": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Know more → Products Partner Program Co-create value through our global SaaS products.",
+    "Read More --> Co-Create Building solutions collaboratively using pre-vetted ecosystems and accelerators."
+   ],
+   "sdlc": [
+    "Thanks, team, for all the efforts put into the solutioning and designing, making our processes smooth and fast.",
+    "Continuous Improvement : We are dedicated to continuously refining and enhancing our processes.",
+    "This achievement not only validated our processes but also reinforced our ability to consistently deliver high-quality solutions and services to our clients.",
+    "We remain committed to enhancing our processes, leveraging cutting-edge technologies, and evolving to meet the dynamic needs of our clients."
+   ],
+   "compliance": [
+    "Ok No Privacy Policy Our Journey to CMMi Level 5",
+    "By Yogita Jain June 17, 2025 5 minutes read Share Subscribe Table of Contents Introduction 0% What is CMMI?",
+    "1 min The Journey to CMMI Level 5 2 min Benefits of CMMI Level 5 for Our Clients 1 min Looking Ahead 1 min Conclusion 1 min At Cygnet Infotech Private Limited , we are committed to delivering high-quality solutions that meet and exceed the expectations of our clients.",
+    "In our relentless pursuit of excellence, we have embarked on a transformative journey to achieve the prestigious CMMI Level 5 Appraisal for both Development and Service models."
+   ],
+   "qa": [
+    "It offers organizations a structured approach to improving their processes across different domains such as software development, digital engineering, quality engineering, data analytics , and systems engineering."
+   ],
+   "cicd": [
+    "At Cygnet, she’s not just building content pipelines; she’s building conversations that matter to clients, partners, and decision-makers alike."
+   ],
+   "prod_eng": [
+    "August 11, 2026 AWS Platform Engineering vs DevOps: Redefining..."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Diaspark Infotech Pvt Ltd",
+  "city": "Indore",
+  "domain": "diaspark.com",
+  "website": "https://diaspark.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "argin_top=\"50\"][/vc_column][/vc_row][vc_row][vc_column][gem_portfolio portfolio_gaps_size=\"0\" portfolio_hover=\"circular\" portfolio_background_style=\"g"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 39,
+   "prod_eng": 2,
+   "sdlc": 5,
+   "owns_product": 1,
+   "cicd": 6,
+   "compliance": 8,
+   "qa": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "AI Advisory & Enterprise Solutions for Healthcare and Retail Skip to content +1 732 248 8333 enterprise@diaspark.com Products Luxare Products Luxare Jewelry ERP, POS, CRM, and manufacturing tools in one suite Services Consulting AI/ML Strategic Consulting Define your AI vision and roadmap with expert guidance.",
+    "Our team has collaborated with organizations ranging from mid-sized enterprises to Fortune 500 companies, consistently delivering impactful solutions that drive measurable business outcomes.",
+    "Healthcare We help healthcare organizations improve patient care, streamline operations, and ensure compliance with industry regulations.",
+    "Electronic Health Records Compilation Telehealth Solutions Healthcare Analytics Learn More Retail We enable retailers to enhance customer experiences, optimize inventory management, and drive omnichannel growth."
+   ],
+   "prod_eng": [
+    "Our commitment to engineering excellence and the quality of our human and intellectual capital is consistently recognized by our clients.",
+    "Our clients consistently vouch for our engineering excellence and the quality of our human and intellectual capital."
+   ],
+   "sdlc": [
+    "Years of Experience 0 + Global Client 0 + IT Professionals 0 + Global Offices 0 Here’s How We Work Our Consulting Approach Discover Comprehensive assessment of your current technology landscape and business objectives.",
+    "We use Agile methodologies to ensure incremental value is delivered throughout the journey, so enterprises see results early while scaling responsibly.",
+    "Value Proposition Global Capability Center 750+ Global Workforce Scalable Value Deliveries Agile Methodologies Domain Expertise Technology-agnostic capabilities Our Core Values Write to us, we’d love to hear about your needs.",
+    "PoC and MVP Development Our PoC/MVP engagements leverage pre-trained models, synthetic datasets, and agile sprints to validate AI feasibility within 2–8 weeks."
+   ],
+   "owns_product": [
+    "Discover the Power of Our Luxare AI Product Suite Comprehensive enterprise solutions designed to streamline operations, enhance productivity, and drive business growth across various industries."
+   ],
+   "cicd": [
+    "Diaspark embeds trust and compliance into every solution: Security: encrypted pipelines, role-based access control, and end-to-end monitoring.",
+    "If not all of these are in place, Diaspark helps bridge the gaps — from building secure data pipelines to establishing governance models and change management processes.",
+    "Using scalable ETL/ELT pipelines and modern frameworks (e.g., Spark, dbt, Airflow), we enable unified data provisioning across EHR, claims, imaging, and third- party datasets.",
+    "LLM Fine-tuning Using de-identified datasets and enterprise-grade pipelines, we fine-tune LLMs for specialty-specific language, ontology alignment, and contextual nuance."
+   ],
+   "compliance": [
+    "Compliance: HIPAA, FHIR, GDPR, PCI DSS, and other regulatory frameworks based on industry.",
+    "Governance, Security, and Compliance — ensuring HIPAA, FHIR, GDPR, and ethical AI principles are met.",
+    "Data Engineering We architect HIPAA-compliant, FHIR- compatible data lakes and warehouses optimized for longitudinal patient records, real-time ingestion, and downstream AI/ML training.",
+    "Our teams unify clinical data across EHRs, streamline workflows, and drive better patient outcomes while ensuring compliance with HIPAA, FHIR, and HL7 standards."
+   ],
+   "qa": [
+    "Quality Assurance End-to-end QA practices ensure secure, interoperable, and reliable AI applications across healthcare systems."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "DriveIT Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "driveittech.in",
+  "website": "https://driveittech.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 45415,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 36,
+   "enterprise": 48
+  },
+  "site_quotes": {
+   "compliance": [
+    "Healthcare & Life Sciences Secure patient data and connected medical systems under HIPAA and DPDP.",
+    "Compliance Guides DPDP & ISO 27001 Readiness A practical checklist to align controls with regulatory expectations.",
+    "114 controls Annex A SOC 2 AICPA Trust Services Criteria Essential for SaaS and cloud-service organisations.",
+    "5 Trust Criteria PCI DSS Payment Card Industry Standard Mandatory for organisations that store, process, or transmit cardholder data."
+   ],
+   "enterprise": [
+    "Healthcare & Life Sciences Secure patient data and connected medical systems under HIPAA and DPDP.",
+    "BFSI Protect critical financial systems, payments, and customer data at scale.",
+    "Enterprise Governance Mature processes, reporting, and governance built for regulated industries.",
+    "Software · bigstrum.in Engineering at scale — full-stack, mobile, AI, and DevOps for regulated industries."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Effivity Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "effivity.com",
+  "website": "https://www.effivity.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2015-01-18",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 24,
+   "owns_product": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Achieve 100% conformity with ISO 9001, ISO 27001, ISO 14001, ISO 45001, ISO 22000, HACCP Standards Simplify your QMS, HSE, FSMS, HACCP, ISMS implementation, documentation, maintenance & certification.",
+    "Effivity is the software of choice for organizations implementing ISO 9001, ISO 14001, ISO 45001, ISO 13485, TS 16949, ISO 22718, ISO 22000, HACCP, GMP, BRC, FSSC 22000 standards.",
+    "QMS software is a framework built around the international best practices to help organizations implement a work flow based & automatic quality management system in line with ISO 9001, ISO 13485, ISO 22718, AS 9100, TS 16949 standards.",
+    "Read More Our Products State-of-the-art, cloud-based, agile & integrated Quality – Health & Safety – Environment - Food Safety/HACCP software solutions that fulfil your ISO 9001, ISO 14001, ISO 45001, HACCP and ISO 22000 certification requirements completely, comprehensively and effectively."
+   ],
+   "owns_product": [
+    "Read More Our Products State-of-the-art, cloud-based, agile & integrated Quality – Health & Safety – Environment - Food Safety/HACCP software solutions that fulfil your ISO 9001, ISO 14001, ISO 45001, HACCP and ISO 22000 certification requirements completely, comprehensively and effectively."
+   ],
+   "sdlc": [
+    "Read More Our Products State-of-the-art, cloud-based, agile & integrated Quality – Health & Safety – Environment - Food Safety/HACCP software solutions that fulfil your ISO 9001, ISO 14001, ISO 45001, HACCP and ISO 22000 certification requirements completely, comprehensively and effectively."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Fiorano Software Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "fiorano.com",
+  "website": "https://www.fiorano.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 48478,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 5,
+   "senior_roles": 2,
+   "qa": 3,
+   "enterprise": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "GDPR gives you specific rights."
+   ],
+   "senior_roles": [
+    "Apply Solution Architect(1) Senior Solutions Architect READ MORE Location: Palo Alto, CA Apply Job Responsiblities Engage with prospects that are interested in Fiorano products and explain the value proposition of the products to them; Compare and contrast with competitive products, highlighting Fiorano's benefits.",
+    "Location: Bangalore / Hyderabad Apply Solution Architect(1) Senior Solutions Architect READ MORE Job Responsiblities Engage with prospects that are interested in Fiorano products and explain the value proposition of the products to them; Compare and contrast with competitive products, highlighting Fiorano's benefits."
+   ],
+   "qa": [
+    "Location: Hyderabad Apply Senior Quality Assurance Engineer / QA Lead Manual Testing.",
+    "Technical Skills: Knowledge of QA processes."
+   ],
+   "enterprise": [
+    "READ STORY Bringing Modernization to Banking with Cloud-Native Middleware In addition to Open Banking and its concomitant PSD2 support, Fiorano offers API-first, real-time digital banking, composable banking that leverages microservices, and ISO 20022 and payments support."
+   ],
+   "cicd": [
+    "gRPC GraphQL Kubernetes-native REST Microservices architectures Fortified Authentication & Security Enterprise-grade protection."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Friends Color Images Private Limited",
+  "city": "Noida",
+  "domain": "fci-ccm.com",
+  "website": "https://www.fci-ccm.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "y Migration Convert crisis into opportunity for development Software Development Patient centric customer experience Managed IT Services Optimize your"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [
+    "https://fci-ccm.zohorecruit.in/jobs/Careers"
+   ],
+   "jd_chars": 894431,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 29,
+   "DQ_template": 6,
+   "cicd": 2,
+   "compliance": 6,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Insurance Streamline insurance communication for compliance and clarity.",
+    "other Industries Financial Services Healthcare Telecom Utilities Services Professional Services Comprehensive customer communication solutions and services.",
+    "Insights-led Customer Communications Platform for Financial Services Banking Leaders Trust VARTA Transform first-party transactional and behavioral signals into a measurable growth driver.",
+    "Explore More Talk to an expert Banking Leaders Trust VARTA Transform first-party transactional and behavioral signals into a measurable growth driver."
+   ],
+   "DQ_template": [
+    "Centralized templates, workflows, and compliance controls.",
+    "We leveraged the best of FCI solution to consolidate templates into reusable assets and cut service time by more than half.",
+    "The seamless job creation, template management, and CCM dashboard have truly revolutionized our approach and empowered us to manage and leverage customer communication insights."
+   ],
+   "cicd": [
+    "With Varta at the helm of all our communications with existing customers, we have achieved a level of personalization like never before."
+   ],
+   "compliance": [
+    "Accept Customize Close GDPR Cookie Settings Privacy Overview Strictly Necessary Cookies 3rd Party Cookies Cookie Policy Privacy Overview This website uses cookies so that we can provide you with the best user experience possible."
+   ],
+   "owns_product": [
+    "Our Vision Transform service communications & customer experience into a revenue accelerator."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "GRM Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "grmtechnologies.com",
+  "website": "https://grmtechnologies.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ced technology, our Forensic Services enable enterprises to react quickly and proactively to litigation, fraud, corruption, and finance related crimes"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "compliance": 6,
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Learn More Managed Security Services With resilience and scalability in mind, our Managed Security Services focus on equipping enterprises with cost-competitive and reliable 24/7 security and stability for hardware, software, network, and applications, all essential for running a successful business."
+   ],
+   "compliance": [
+    "Learn More Privacy Services Helping enterprises stay fully GDPR compliant, our Privacy Services offer custom privacy solutions that fit into the client’s business and operation strategy, while ensuring adherence to privacy legislations, and putting the most important aspect of organizational privacy into real practice.",
+    "Leading international standards such as ISO 27001, PCI DSS, SWIFT, PCI 3DS, require compliance with their guidelines for robust information risk management and our consultation and implementation services will enable you implement these standards and maintain a competitive edge.",
+    "We bring depth of experience in implementing PCI and Information Security standards and assist insurers to achieve total compliance to PCI DSS and ISMS ....",
+    "As leaders for providing IT compliance maturity, we offer complete suite of security services to proactively manage and improve the health of your IT security framework, protect your data, and meet HIPAA/HITECH/HITRUST or any regulatory and industry requirement to distinguish your organisation as market leaders."
+   ],
+   "enterprise": [
+    "Read More Banking Finance GRM is one of the most reliable security solutions partners for banking and finance sectors and empowers business to gain technical advantage with its advanced Cyber Security offerings.",
+    "Read More Insurance Insurance industry deals with myriad of confidential data both from credit card, bank details and their personal, medical information and thus it becomes even more pertinent to have solid ISMS framework and PCI compliance standards.",
+    "Read More Healthcare Today’s health care industry deals with the most sensitive information and high scrutiny regulation requirements.",
+    "We at GRM, for Healthcare Organisation of every size provide intrinsic oversight into their Cyber Security culture and a balanced approach to their IT security."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 10
+ },
+ {
+  "name": "Hertzwave Innovations Private Limited",
+  "city": "Bengaluru",
+  "domain": "hertzwave.in",
+  "website": "https://hertzwave.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2023-05-31",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2,
+   "compliance": 7,
+   "senior_roles": 2,
+   "owns_product": 3
+  },
+  "site_quotes": {
+   "cicd": [
+    "Embed carbon intelligence into your own product, ERP, or data pipeline.",
+    "Embed TerraCAP's engine into your own product, ERP or data pipeline — and let us handle the regulatory churn."
+   ],
+   "compliance": [
+    "CONSENT MANAGEMENT DPDPA 2023 & GDPR Built-in consent capture and data-retention controls — governance that keeps legal and DPOs comfortable.",
+    "0 % UPTIME SLA In-region DATA RESIDENCY REST JSON · VERSIONED DPDPA & GDPR ALIGNED Put carbon intelligence in your stack.",
+    "Enterprise-grade security, in-region data residency, and privacy compliant with DPDPA 2023 and GDPR — so legal and DPOs stay comfortable.",
+    "CERTIFICATION & COMPLIANCE ISO 27001 COMPLIANT Aligned to ISO 27001 controls and compliant — formal certification not currently pursued."
+   ],
+   "senior_roles": [
+    "That's what we built TerraCAP to do, for India first.” Arun Raju CEO · HERTZWAVE Leadership team Arun Raju CEO Kamesh Rao CTO Sandeep CHIEF AI OFFICER Sarath GS HEAD OF OPERATIONS Sivalingam K HEAD OF ENGINEERING Want to partner with us?",
+    "Our Team Arun Raju CEO Kamesh Rao CTO Vidya Director Sarath GS COO Sivalingam K Head of Engineering Want to partner with us?"
+   ],
+   "owns_product": [
+    "FOR ENTERPRISES · TOOL Process Mapping Tool Map your production process end-to-end, overlay actual energy and material consumption, and surface the gaps — so you can pinpoint operational savings before you invest in reduction.",
+    "Our platform combines IoT data collection, ERP integration, and advanced analytics to deliver comprehensive carbon management solutions.",
+    "Our platform is designed for mid to large enterprises with complex supply chains and multiple emission sources."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 10
+ },
+ {
+  "name": "Imagination Technologies (India) Private Limited",
+  "city": "Pune",
+  "domain": "imaginationtech.com",
+  "website": "https://www.imaginationtech.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 92038,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 3,
+   "owns_product": 1,
+   "compliance": 28,
+   "DQ_training": 1,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "A proven leader in mobile graphics, we pioneered the world’s first hardware-based ray tracing for mobile.",
+    "Read more Unlocking GPU Performance: An Introduction to PVRTune Developers 2 min read Watch: An Introduction to PVRTune (13 mins) When you start analysing performance on real hardware,...",
+    "Imagination has led the mobile graphics market for decades and introduced multiple industry-firsts, like hardware-based ray tracing technology for mobile."
+   ],
+   "owns_product": [
+    "Recent news and updates IMAGINATION ANNOUNCES E-SERIES: A NEW ERA OF ON-DEVICE AI AND GRAPHICS Massive gains in Imagination E-Series establishes the GPU as the principal accelerator for both graphics and AI at the edge."
+   ],
+   "compliance": [
+    "cookielawinfo-checkbox-advertisement 1 year Set by the GDPR Cookie Consent plugin, this cookie is used to record the user consent for the cookies in the \"Advertisement\" category .",
+    "cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\".",
+    "cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin."
+   ],
+   "DQ_training": [
+    "Each year we recruit for our graduate and internship programmes."
+   ],
+   "DQ_template": [
+    "LOWER YOUR COSTS; INCREASE YOUR REVENUE Chip manufacturers can either develop technology in-house or purchase ready-made IP."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ }
+]

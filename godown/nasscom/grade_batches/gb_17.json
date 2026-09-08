@@ -1,0 +1,1267 @@
+[
+ {
+  "name": "Data Template Infotech Private Limited",
+  "city": "Bengaluru",
+  "domain": "datatemplate.com",
+  "website": "https://www.datatemplate.com/en/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2010-08-30",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 11628,
+   "signals": {
+    "cicd": 1
+   },
+   "quotes": {
+    "cicd": [
+     "DevOps Engineer Naga Veena Billu Working at Data Template has allowed me to gain practical experience with AWS, Azure, kubernetes, Terraform, CI/CD pipelines, and cloud-native deployments while contributing to real projects."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_template": 46,
+   "qa": 7,
+   "enterprise": 1,
+   "DQ_support": 1,
+   "cicd": 1,
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "DQ_template": [
+    "Data Template - Technology",
+    "Value EN DATA TEMPLATE ® Technology",
+    "Value DATA TEMPLATE ® Technology",
+    "Technology Value Founded in 2011, Data Template has grown from a small team in Bangalore, India into a global technology enterprise with more than 300 professionals operating across nine plus countries."
+   ],
+   "qa": [
+    "Insights Quality Management How quality engineering, governance, and process excellence improve business outcomes.",
+    "QA Engineer Sejal Ray Joining DT as a fresher has been a great experience for me.",
+    "QA Engineer Ancy Tharakan My journey at Data Template Infotech has been an excellent learning experience.",
+    "QA Engineer Ashik Kavil Working here has been amazing for my career."
+   ],
+   "enterprise": [
+    "RESEARCH Evaluation of effectiveness and cost-effectiveness of a clinical decision support system in managing hypertension in resource-constrained primary healthcare settings."
+   ],
+   "DQ_support": [
+    "IT Support Sathish Mathiazhagan Working at Data Template has been a rewarding experience."
+   ],
+   "cicd": [
+    "DevOps Engineer Naga Veena Billu Working at Data Template has allowed me to gain practical experience with AWS, Azure, kubernetes, Terraform, CI/CD pipelines, and cloud-native deployments while contributing to real projects."
+   ],
+   "prod_eng": [
+    "We help businesses turn technology into measurable impact through intelligent solutions, engineering excellence, and future-ready innovation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 3
+ },
+ {
+  "name": "Divergent Software Labs Private Limited",
+  "city": "Indore",
+  "domain": "divergentsoftlab.com",
+  "website": "https://divergentsoftlab.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 90,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "vergent Now Hiring: Are you an experienced and enthusiastic java developer? Company About us Leadership FAQs Testimonials life@Divergent Why choose us"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 29309,
+   "signals": {
+    "cicd": 1,
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Eclipse / STS, Maven / Gradle, GIT / SVN, Jenkins and Sonarlint."
+    ],
+    "vcs_generic": [
+     "Eclipse / STS, Maven / Gradle, GIT / SVN, Jenkins and Sonarlint."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2,
+   "enterprise": 4,
+   "sdlc": 1,
+   "prod_eng": 7,
+   "senior_roles": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "03 Design & Implementation Our experts build tailored models — from predictive analytics and vision pipelines to LLM-powered assistants and workflows — ensuring robustness, scalability, and performance in production environments."
+   ],
+   "enterprise": [
+    "Domain Expertise Across Industries We’ve delivered AI solutions for manufacturing, healthcare, finance, retail, and more — helping clients solve complex challenges with real ROI.",
+    "They transformed our data chaos into actionable intelligence that drives better patient outcomes.” — Healthcare Organisation “The AI audit gave us a roadmap that sparked immediate improvements."
+   ],
+   "sdlc": [
+    "Our Process combines high quality and fast paced product development, with Lean systems which enables scope of continuous iteration and improvement, explores multiple solutions to problems and boosts team collaboration."
+   ],
+   "prod_eng": [
+    "We have the capability to handle the entire product development and engineering lifecycle from Ideation to deployment covering the full span of product Engineering solutions.",
+    "Future Ready Product Engineering By utilising innovation and agility to respond to the dynamically shifting environment, we assist Customers in navigating the latest wave of disruption.",
+    "Divergent’s Approach towards Product Engineering In order to achieve a successful product delivery, the product development process is a must that encourages cross-team collaboration with teamwork and communication at the forefront of the process.",
+    "Product Engineering & Services Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
+   ],
+   "senior_roles": [
+    "Our highly competent engineering team develops products continuously by creating the technical architecture, creating a smooth environment, and providing integrated solutions."
+   ],
+   "qa": [
+    "Product Testing Another crucial stage of the process is testing, during which QA engineers make sure that a product functions as planned."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 3
+ },
+ {
+  "name": "Drish Infotech Limited",
+  "city": "Mohali",
+  "domain": "drishinfo.com",
+  "website": "https://drishinfo.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Software development company - Drish Infotech Skip links Skip to content Explore Drag li >"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 34322,
+   "signals": {
+    "cicd": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Experience with Docker , CI/CD , or deployment of ML models Familiarity with cloud platforms ( AWS / GCP / Azure ) Interested candidates should submit a resume, cover letter, and any relevant work samples/portfolio to jobs@drishinfo.com or upload your CV below:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "enterprise": 1,
+   "DQ_support": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Iterative Execution & Quality Oversight Through agile, results-driven execution, we ensure efficient delivery, with continuous oversight to meet performance, compliance, and operational standards.",
+    "Our agile methodologies, flexible team structures, and rapid response capabilities ensure we deliver results in today's fast-paced digital landscape."
+   ],
+   "enterprise": [
+    "Our comprehensive portfolio of software services has grown with a focus on Business Applications, Insurance, HealthCare, Telecom and Utilities and our client engagements include small, medium and large companies and also to governmental entities and not-for-profit enterprises."
+   ],
+   "DQ_support": [
+    "Today, it is well equipped with the latest technology in software, hardware, the Internet and a Networking infrastructure."
+   ],
+   "qa": [
+    "Read More QA Manual as well as automation testing using Selenium for web, mobile."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 3
+ },
+ {
+  "name": "Freedom BTD Private Limited",
+  "city": "Bengaluru",
+  "domain": "freedomconsulting.inc",
+  "website": "https://freedomconsulting.inc/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "ic Partners (Few of Many) / Clients Partners Press Articles/Case Studies More articles April 21, 2025 SAP S/4HANA: The Future of Enterprise Resource P"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 10800,
+   "signals": {
+    "cicd": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Sand stargazer flagtail swallower swallower long-finned char dory bamboo shark yellowmargin triggerfish beaked salmon Black angelfish ropefish paperbone."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Visionary Leadership Consulting maturity powered by agile, next-generation leadership."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 3
+ },
+ {
+  "name": "Inno Valley Works Private Limited",
+  "city": "Coimbatore",
+  "domain": "innovalleyworks.com",
+  "website": "https://innovalleyworks.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ribed Chatbox & WhatsApp G Drive Connect Map For Any Object Case Studies Telecommunication Symphony Talent – Tableau Analytics Health Cloud – Find a D"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 39052,
+   "signals": {
+    "cicd": 1,
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "cicd": [
+     "Support release management, sandbox refreshes, and deployment processes using CI/CD tools (e.g., Gearset, Copado, Git)."
+    ],
+    "vcs_generic": [
+     "Support release management, sandbox refreshes, and deployment processes using CI/CD tools (e.g., Gearset, Copado, Git).",
+     "Familiarity with DevOps and version control (Git)."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 3
+ },
+ {
+  "name": "NotionMindz Technology LLP",
+  "city": "Noida",
+  "domain": "notionmindz.com",
+  "website": "https://www.notionmindz.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 4791,
+   "signals": {
+    "cicd": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Good knowledge of Devops and CI/CD."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Read More Who are we NotionMindz Technology has been incorporated by veterans of IT Industry with experience in Banking, Financial Institutions and Insurance Industry catering to Fortune 500 companies."
+   ],
+   "cicd": [
+    "Good knowledge of Devops and CI/CD."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 3
+ },
+ {
+  "name": "OakNorth Global Private Limited",
+  "city": "Gurugram",
+  "domain": "oaknorth.co.uk",
+  "website": "https://oaknorth.co.uk",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [
+    "https://jobs.lever.co/oaknorth.ai/b7364a80-4265-4f35-b79b-9b43f0c00261",
+    "https://jobs.ashbyhq.com/oaknorth/998a6681-6ebd-4b47-92a1-8b3c4952f674",
+    "https://jobs.ashbyhq.com/oaknorth/998a6681-6ebd-4b47-92a1-8b3c4952f674/application",
+    "https://jobs.ashbyhq.com/oaknorth/9a1ef1c3-2250-453f-9aa1-56bbf2eacb8b",
+    "https://jobs.ashbyhq.com/oaknorth/9a1ef1c3-2250-453f-9aa1-56bbf2eacb8b/application",
+    "https://jobs.ashbyhq.com/oaknorth/fb9565f0-2f1b-4de6-90aa-679ec077b553",
+    "https://jobs.ashbyhq.com/oaknorth/fb9565f0-2f1b-4de6-90aa-679ec077b553/application",
+    "https://jobs.ashbyhq.com/oaknorth/e539edf9-7ad4-4a0f-821b-6012de1fa186",
+    "https://jobs.ashbyhq.com/oaknorth/e539edf9-7ad4-4a0f-821b-6012de1fa186/application",
+    "https://jobs.ashbyhq.com/oaknorth/ff5af7c7-9331-4266-a880-dcb8ab65b563",
+    "https://jobs.ashbyhq.com/oaknorth/ff5af7c7-9331-4266-a880-dcb8ab65b563/application",
+    "https://jobs.ashbyhq.com/oaknorth/ce981b7d-a5a4-4fb1-b53d-8a242df7df3c",
+    "https://jobs.ashbyhq.com/oaknorth/ce981b7d-a5a4-4fb1-b53d-8a242df7df3c/application",
+    "https://jobs.ashbyhq.com/oaknorth/f1d8efcf-9755-4f23-9311-cfcb4e68b874",
+    "https://jobs.ashbyhq.com/oaknorth/f1d8efcf-9755-4f23-9311-cfcb4e68b874/application",
+    "https://jobs.ashbyhq.com/oaknorth/3b6d7a53-905b-4e91-8f7a-33213b3273fb",
+    "https://jobs.ashbyhq.com/oaknorth/3b6d7a53-905b-4e91-8f7a-33213b3273fb/application",
+    "https://jobs.ashbyhq.com/oaknorth/abd732f6-536c-420a-a1ab-3a7d570e76bb",
+    "https://jobs.ashbyhq.com/oaknorth/abd732f6-536c-420a-a1ab-3a7d570e76bb/application",
+    "https://jobs.ashbyhq.com/oaknorth/640fac93-96af-4266-a169-aa6dbb33eb22",
+    "https://jobs.ashbyhq.com/oaknorth/640fac93-96af-4266-a169-aa6dbb33eb22/application",
+    "https://jobs.ashbyhq.com/oaknorth/23464a91-6c54-4432-9cab-8c8691c037fe",
+    "https://jobs.ashbyhq.com/oaknorth/23464a91-6c54-4432-9cab-8c8691c037fe/application",
+    "https://jobs.ashbyhq.com/oaknorth/feca89bd-4d4d-44f7-81cd-2fbf76ca216a",
+    "https://jobs.ashbyhq.com/oaknorth/feca89bd-4d4d-44f7-81cd-2fbf76ca216a/application",
+    "https://jobs.ashbyhq.com/oaknorth/ea9efd4c-9653-4826-995f-66e8f1cb488f",
+    "https://jobs.ashbyhq.com/oaknorth/ea9efd4c-9653-4826-995f-66e8f1cb488f/application",
+    "https://jobs.ashbyhq.com/oaknorth/60c60275-f804-4105-9644-71e9eb11e5dd",
+    "https://jobs.ashbyhq.com/oaknorth/60c60275-f804-4105-9644-71e9eb11e5dd/application",
+    "https://jobs.ashbyhq.com/oaknorth/f3871a1f-f697-42a6-90c6-06837661d54f",
+    "https://jobs.ashbyhq.com/oaknorth/f3871a1f-f697-42a6-90c6-06837661d54f/application",
+    "https://jobs.ashbyhq.com/oaknorth/196ed6dd-bc28-4ee6-b20b-c7225f00b647",
+    "https://jobs.ashbyhq.com/oaknorth/196ed6dd-bc28-4ee6-b20b-c7225f00b647/application",
+    "https://jobs.ashbyhq.com/oaknorth/48c80295-cf4c-40a1-90c1-ed0fe6a82b2f",
+    "https://jobs.ashbyhq.com/oaknorth/48c80295-cf4c-40a1-90c1-ed0fe6a82b2f/application",
+    "https://jobs.ashbyhq.com/oaknorth/a6760ca2-aab5-4298-b08d-3e3564bfa844",
+    "https://jobs.ashbyhq.com/oaknorth/a6760ca2-aab5-4298-b08d-3e3564bfa844/application",
+    "https://jobs.ashbyhq.com/oaknorth/357f1867-ee88-4e65-bb15-05ee23eed3d9",
+    "https://jobs.ashbyhq.com/oaknorth/357f1867-ee88-4e65-bb15-05ee23eed3d9/application",
+    "https://jobs.ashbyhq.com/oaknorth/a928f2aa-b1ed-4656-a3ca-79a8294e5764",
+    "https://jobs.ashbyhq.com/oaknorth/a928f2aa-b1ed-4656-a3ca-79a8294e5764/application",
+    "https://jobs.ashbyhq.com/oaknorth/0f8e987f-f368-4f52-a974-da6391cd5425",
+    "https://jobs.ashbyhq.com/oaknorth/0f8e987f-f368-4f52-a974-da6391cd5425/application",
+    "https://jobs.ashbyhq.com/oaknorth/01aa3c7a-d3b5-48c2-8588-e24ebf4181a8",
+    "https://jobs.ashbyhq.com/oaknorth/01aa3c7a-d3b5-48c2-8588-e24ebf4181a8/application",
+    "https://jobs.ashbyhq.com/oaknorth/e2732248-ec6f-49ba-9006-0dcb8fb17723",
+    "https://jobs.ashbyhq.com/oaknorth/e2732248-ec6f-49ba-9006-0dcb8fb17723/application",
+    "https://jobs.ashbyhq.com/oaknorth/983a0d78-becc-45ba-8133-f360af96e38a",
+    "https://jobs.ashbyhq.com/oaknorth/983a0d78-becc-45ba-8133-f360af96e38a/application",
+    "https://jobs.ashbyhq.com/oaknorth/00fa013b-6ab2-445c-b7fe-c12387d9e956",
+    "https://jobs.ashbyhq.com/oaknorth/00fa013b-6ab2-445c-b7fe-c12387d9e956/application",
+    "https://jobs.ashbyhq.com/oaknorth/60fa69af-8a56-4c23-a7a7-5c5ab49e6024",
+    "https://jobs.ashbyhq.com/oaknorth/60fa69af-8a56-4c23-a7a7-5c5ab49e6024/application",
+    "https://jobs.ashbyhq.com/oaknorth/2f2834cf-77fc-49bb-8114-f2a5491ce25a",
+    "https://jobs.ashbyhq.com/oaknorth/2f2834cf-77fc-49bb-8114-f2a5491ce25a/application"
+   ],
+   "jd_chars": 60011,
+   "signals": {
+    "cicd": 1,
+    "testing": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Continuous deployment We deploy changes seamlessly without manual interventions."
+    ],
+    "testing": [
+     "Test outside in, test first TDD helps us work fast and deploy at pace."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 26,
+   "senior_roles": 1,
+   "sdlc": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Discover more Turning opportunity into reality Banking should be barrier-free and financial opportunity should open doors.",
+    "Fund your ambition Business banking Seamless digital banking with dedicated support to help ambitious businesses scale at speed .",
+    "Experience better banking What customers think about us A bank, but not as you know it We’re backing the UK’s most ambitious businesses with the fast, flexible finance they need to scale – and helping keen savers reach their goals along the way.",
+    "With OakNorth , you’ll get personalised service at every stage of your business banking or business loan , supported by a team of dedicated specialists whose focus is enabl ing your business growth."
+   ],
+   "senior_roles": [
+    "The team is so smart and dedicated to our mission and customers - also a fun bunch to hang out with!\" Lin Han Engineering Manager Why are we different?"
+   ],
+   "sdlc": [
+    "United States Based in New York, OakNorth Credit Intelligence is the business behind the data-driven technology that gives lenders a 360 ° forward-looking view for agile and strategic lending."
+   ],
+   "owns_product": [
+    "Our products We’re helping businesses across all different industries thrive by funding their growth needs ."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 3
+ },
+ {
+  "name": "SKI Infosolutions Private Limited",
+  "city": "Mumbai",
+  "domain": "skinternational.com",
+  "website": "https://www.skinternational.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "pany increased its site availability to 95% Learn More view portfolio Latest news, articles & blogs 26 January, 2021 Robotics in the age of AI and Soc"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 20872,
+   "signals": {
+    "cicd": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Adherence to coding standards in CI/CD pipeline to streamline deployment to production"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "DQ_support": 5,
+   "cicd": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Know More OUR PROCESS Leveraging Partnerships We draw our strengths by identifying and aligning with best-in-class technology partners."
+   ],
+   "DQ_support": [
+    "Beginning from a background in setting up networks and peripheral devices for companies just setting up their IT, we have evolved into a solution provider for a number of industries across a combination of hardware, software and cloud based services.",
+    "Beginning from just setting up PCs, peripheral devices and networks for companies, we have evolved into a solution provider across a combination of hardware, software and cloud based services for variety of industries."
+   ],
+   "cicd": [
+    "Hemant Hemant, after founding the company in 1984, has been at its helm ever since."
+   ],
+   "enterprise": [
+    "We have added significant value to IT datacentre operations like banks, telecom services and healthcare service providers.",
+    "Pharmaceutical Company A large pharmaceuticals company was able to improve application response time by 300% Learn More BFSI ‍ A Middle East based Bank was able to reduce risks associated with their Learn More Manufacturing Company ‍ Database performance was improved significantly for a top Learn More Inquire NOW!"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 3
+ },
+ {
+  "name": "Zapbuild Technologies Private Limited",
+  "city": "Mohali",
+  "domain": "zapbuild.com",
+  "website": "https://www.zapbuild.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Custom Software, Web Application Development Company - Zapbuild moc.dliubpaz@tcennoc +91-8"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 60391,
+   "signals": {
+    "cicd": 5
+   },
+   "quotes": {
+    "cicd": [
+     "Learn More DevOps & DevSecOps Experience the future of software development with our dedicated DevOps Team, streamlining processes, enhancing collaboration, and ensuring continuous delivery.",
+     "Learn More DevOps & DevSecOps Experience the future of software development with our dedicated DevOps Team, streamlining processes, enhancing collaboration, and ensuring continuous delivery.",
+     "Learn More DevOps & DevSecOps Experience the future of software development with our dedicated DevOps Team, streamlining processes, enhancing collaboration, and ensuring continuous delivery."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 14,
+   "DQ_bpo": 6,
+   "cicd": 10,
+   "enterprise": 1,
+   "sdlc": 3,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Learn More Hardware & IoT Prototype Building From advanced Control Room Solutions for seamless monitoring to state-of-the-art Asset Tracking Systems, Digital-out-of-Home brilliance, and more – Zapbuild is your partner in embracing efficiency, security, and automation.",
+    "Expertise Software & Web-based Development Hardware & IoT Prototype Building DevOps & DevSecOps Offshore Development Centre --> Business Consulting Software Security Services Business Analysis & Research Tech Research & Development Customer Support Telesales & Telemarketing --> © Zapbuild .",
+    "Forget about the complexities of hardware maintenance; we've got it covered.",
+    "It's a seamless, scalable solution designed to empower your digital journey without the burden of hardware concerns."
+   ],
+   "DQ_bpo": [
+    "Learn More Telesales From product technical support to claims handling, cold calling, and more, we provide a diverse range of call center services for logistics and transportation businesses to improve customer engagement, streamline operations, and increase sales."
+   ],
+   "cicd": [
+    "Learn More DevOps & DevSecOps Experience the future of software development with our dedicated DevOps Team, streamlining processes, enhancing collaboration, and ensuring continuous delivery.",
+    "DevOps Expertise Explore our comprehensive DevOps services that help you drive innovation and efficiency Continuous Integration (CI) / Continuous Delivery (CD) CI/CD serves as a fundamental force propelling digital transformation within enterprises.",
+    "Infrastructure as a Code (IaC) Infrastructure as Code empowers DevOps teams to conduct early-stage application testing in a production-like environment.",
+    "Through DevOps automation, you can establish seamless continuous integration, continuous delivery, and continuous deployment (CI/CD) workflows."
+   ],
+   "enterprise": [
+    "Learn More Third-Party Service Providers to T&L Companies Third-Party Service Providers to T&L Companies Compliance TPAs, Consulting and Advisory firms, Financial and Insurance institutions, Maintenance and Repair services, and Training providers play a crucial role in the transportation and logistics ecosystem."
+   ],
+   "sdlc": [
+    "How We Work We follow a proven approach to building solutions that are a perfect match for your specific needs 1 Custom Needs Assessment Custom Needs Assessment Understand the specific objectives and pain points of your business to lay the foundation for a fully customized technology solution.",
+    "Improve SDLC Efficiency with End-to-End DevOps Solutions Our comprehensive DevOps solutions are customized to optimize your complete software development lifecycle, encompassing infrastructure configuration and support.",
+    "We automate your deployment cycles for seamless collaboration, continuous improvement, agile delivery, streamlined data flow, simplified documentation, and enhanced quality control."
+   ],
+   "owns_product": [
+    "PaaS (Platform-as-a-service) Unlock a streamlined development experience with our Platform-as-a-Service (PaaS).",
+    "With responsive scaling and cost-effective support, we facilitate swift changes and frequent updates, reducing your product or service’s Time to Value, lowering Total Cost of Ownership (TCO), and boosting your working environment."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 3
+ },
+ {
+  "name": "A One Salasar Private Limited",
+  "city": "Thane",
+  "domain": "salasarauction.com",
+  "website": "https://salasarauction.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 42263,
+   "signals": {
+    "cicd": 1
+   },
+   "quotes": {
+    "cicd": [
+     "3+ yrs Full-time Bengaluru â‚¹10â€“14 LPA Apply Now Engineering DevOps Engineer Manage cloud infrastructure, CI/CD pipelines, and ensure high availability of our real-time auction platform."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2,
+   "prod_eng": 1,
+   "owns_product": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Build employer brand and cultivate talent pipelines.",
+    "3+ yrs Full-time Bengaluru â‚¹10â€“14 LPA Apply Now Engineering DevOps Engineer Manage cloud infrastructure, CI/CD pipelines, and ensure high availability of our real-time auction platform."
+   ],
+   "prod_eng": [
+    "With over 5 years of experience in building scalable industrial dashboards and a deep command over React, TypeScript, and modern UI patterns, I am confident in my ability to contribute significantly to your engineering excellence."
+   ],
+   "owns_product": [
+    "Transporter Marketplace: Our platform connects businesses with reliable transporters, offering a marketplace for cost-effective logistics solutions."
+   ],
+   "sdlc": [
+    "Automation transforms traditional procurement into a data-driven, agile process essential for organizations looking to stay competitive."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 3
+ },
+ {
+  "name": "StratLytics Consulting Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "stratlytics.com",
+  "website": "https://www.stratlytics.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [
+    "https://stratlytics.zohorecruit.com/jobs/Careers",
+    "https://stratlytics.zohorecruit.com/jobs/Careers/667071000003255006/AI-Scientist-—-Credit-Risk-Agentic-AI?source=CareerSite",
+    "https://stratlytics.zohorecruit.com/jobs/Careers/667071000003255040/Senior-Cloud-DevOps-Engineer-—-AI-Platform-Operations?source=CareerSite"
+   ],
+   "jd_chars": 888802,
+   "signals": {
+    "cicd": 1
+   },
+   "quotes": {
+    "cicd": [
+     "View Job Details Apply via Zoho Recruit Now Hiring Senior Cloud & DevOps Engineer — AI Platform Operations India / Bhubaneswar Own cloud infrastructure, CI/CD pipelines, and platform operations for production AI systems."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 12,
+   "cicd": 7,
+   "prod_eng": 4,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Enterprise Data Core banking, ERP, smart meters, IoT, and external data sources ingested and prepared for analytical use.",
+    "Impact Where StratLytics Creates Impact We work with regulated and operationally complex businesses across sectors where data quality, model governance, and decision intelligence matter most.",
+    "Financial Services Model governance, credit decisioning, and risk analytics for regulated institutions under OCC, SR 11-7, and Basel frameworks.",
+    "View All Insights Decision Intelligence Designing AI Decision Systems for Regulated Financial Institutions How governed AI decision systems improve acquisition, underwriting, and portfolio decisions in regulated institutions."
+   ],
+   "cicd": [
+    "Production implementation Data pipelines, model deployment, workflow configuration, monitoring, and handover designed for operational use.",
+    "read more 13 Mar StratLytics Why Traditional Demand Forecasting Fails at Manufacturing Scale — and What to Do About It Manufacturing supply chains face demand forecasting challenges that overwhelm traditional statistical methods — SKU pr...",
+    "Platform Engineering Build scalable decision systems rather than isolated analytics models — infrastructure, pipelines, and production AI.",
+    "View Job Details Apply via Zoho Recruit Now Hiring Senior Cloud & DevOps Engineer — AI Platform Operations India / Bhubaneswar Own cloud infrastructure, CI/CD pipelines, and platform operations for production AI systems."
+   ],
+   "prod_eng": [
+    "Platform Engineering Build scalable decision systems rather than isolated analytics models — infrastructure, pipelines, and production AI.",
+    "Learning Culture Continuous development in data engineering, AI, platform engineering, and deep industry expertise.",
+    "View Job Details Apply via Zoho Recruit Teams Areas We Hire For Data Engineering AI / ML Engineering Data Science Platform Engineering Industry Analytics Interested in Building What's Next?",
+    "Global Presence Engineering and Delivery Across Three Continents Platform engineering, domain expertise, and client delivery across India, the United States, and the United Kingdom."
+   ],
+   "sdlc": [
+    "Model risk & governance Data engineering Machine learning Production implementation Validation & audit evidence Monitoring & observability Methodology How we work 01 Diagnose Identify decision problems, data readiness, governance gaps, and value opportunities."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 3
+ },
+ {
+  "name": "Inference Labs Private Limited",
+  "city": "Bengaluru",
+  "domain": "inference.in",
+  "website": "https://inference.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 12,
+   "external_job_boards": [],
+   "jd_chars": 90350,
+   "signals": {
+    "cicd": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Knowledge of Dev-Ops tools and experience in building CI/CD pipelines on Azure."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Delivered $500M+ value, leading global strategy, product engineering, and development."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 3
+ },
+ {
+  "name": "TQuanta Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "tquanta.com",
+  "website": "https://www.tquanta.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 6905,
+   "signals": {
+    "cicd": 1
+   },
+   "quotes": {
+    "cicd": [
+     "Candidates should be well-versed in containerization, CI/CD pipelines, and cloud platforms."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 9,
+   "cicd": 4,
+   "sdlc": 4,
+   "compliance": 1,
+   "owns_product": 2,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Our Purpose To empower and transform the lives of a billion people through cutting-edge technological innovations — enabling access to quality healthcare, elevating everyday lifestyles, and fostering effective, transparent governance.",
+    "Posted 5 days ago 15 - 30 LPA Apply Guidewire Policy Center Developer Full-time 5 - 11 years years experience Xceedance Gurgaon / Noida / Pune / Bangalore We are hiring Guidewire Policy Center Developers with strong experience in Gosu scripting, PolicyCenter configuration, and insurance domain expertise.",
+    "Posted 1 week ago 12 - 20 LPA Apply Guidewire Claims Center Developer Full-time 5 - 11 years years experience Xceedance Gurgaon / Noida / Pune / Bangalore We are hiring Guidewire Claims Center Developers with hands-on experience in ClaimCenter configuration, integration, and insurance domain knowledge.",
+    "Rajashekhar C Director As an accomplished IT and legal professional with decades of experience, he has a successful track record of building large-scale systems and products for Fortune 500 companies worldwide."
+   ],
+   "cicd": [
+    "Candidates should be well-versed in containerization, CI/CD pipelines, and cloud platforms.",
+    "5 SaaS & Product Company Infrastructure Specialized architecture for software companies requiring scalable, high-availability systems with CI/CD integration.",
+    "From designing consultant pipelines for global enterprises to pioneering AI-driven tools for recruitment and CoE transformation, his vision combines precision hiring, domain expertise, and innovation."
+   ],
+   "sdlc": [
+    "Experience in testing and DevOps practices is required.",
+    "His unique approach emphasizes agile pockets of teamwork, collaborative group goals, and smart scalability — ensuring GCCs evolve into strategic innovation hubs rather than cost centers.",
+    "Committed to fostering collaboration and growth, she actively mentors team members and creates new team leads, building agile, high-performing teams."
+   ],
+   "compliance": [
+    "IT Compliance & Governance We help you align with global standards like ISO, GDPR, HIPAA, and SOC2 — protecting your data and your reputation."
+   ],
+   "owns_product": [
+    "He is deeply passionate about research and development and has been an instrumental contributor to the development of our products.",
+    "Her extensive knowledge of sales strategies and software, combined with her deep understanding of our products and apps, enables her to create compelling proposals."
+   ],
+   "DQ_bpo": [
+    "Robotic Process Automation (RPA) Deploy bots to handle repetitive, rules-based tasks like data entry, invoice processing, and report generation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 3
+ },
+ {
+  "name": "3i Infotech Ltd",
+  "city": "Navi Mumbai",
+  "domain": "3i-infotech.com",
+  "website": "https://www.3i-infotech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nt Telecom Media Entertainment Education What We Think Blog Case Studies Investors About Us Our Business Our Leadership Life At 3i Infotech Careers CS"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 126722,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 17,
+   "qa": 1,
+   "compliance": 2,
+   "cicd": 1,
+   "sdlc": 1,
+   "DQ_bpo": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Our deep expertise in the BFSI sector is evident, contributing to nearly 40% of our revenue .",
+    "Banking, Financial Services, and Insurance (BFSI) IT Services 2025",
+    "Digital Transformation Services for Mid-market Enterprises 2024 Learn More ⇁ On the Ascent to Excellence Recognized as a Major Contender for Banking and Financial Services in Everest Group’s 2025 PEAK Matrix® Built with Brains.",
+    "Leveraging business intelligence for informed decisions \"Using their deep domain and technology expertise in the insurance sector, 3i Infotech implemented our Operational & Analytical Reporting Tool to deliver the business intelligence we needed to make insightful decisions.\" Mr."
+   ],
+   "qa": [
+    "Next-Generation Quality Engineering Services 2024 Analyst Recognitions Aspirant by Everest Group in its PEAK Matrix® in"
+   ],
+   "compliance": [
+    "Awarded CMMI Level 5, our organization has achieved the highest standard in process maturity and performance improvement."
+   ],
+   "cicd": [
+    "Logistic improvements were planned and envisaged by getting a ‘right of way policy’ from Railways for slurry pipelines and maximum usage of Sagarmala routes."
+   ],
+   "sdlc": [
+    "He is known for establishing and scaling global centres of excellence (COEs), optimizing cost structures and transforming underperforming business models into agile, efficient and high-performing organizations, with a strong focus on enhancing client experience."
+   ],
+   "DQ_bpo": [
+    "He has extensive experience in managing end-to-end BPO operations, establishing and scaling delivery centres, leading business transitions, optimizing operational performance and delivering superior customer outcomes."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "5Sec Cyberpwn Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "cyberpwn.com",
+  "website": "https://www.cyberpwn.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ansformation Cyber Education Technology & Solutions Insight Case Studies Blogs INDIA HQ 7th Floor, Fairway Business Park, Near EGL, Domlur, Bangalore,"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 8722,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "prod_eng": 3,
+   "senior_roles": 2,
+   "cicd": 4,
+   "owns_product": 1,
+   "sdlc": 1,
+   "qa": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "compliance": [
+    "Our frameworks align with global standards (ISO 27001, SOC 2, GDPR, DPDP) to ensure organizations stay compliant while building digital trust."
+   ],
+   "prod_eng": [
+    "Mahammed Taheer Head of Product Engineering My journey with CyberPWN over the past 5+ years has been nothing less than revolutionary.",
+    "Get in Touch Our Offerings Features that spearhead growth and innovation DevOps Consulting Product Management Product Engineering Product Quality Assurance ServiceNow Consulting Reporting and Analytics Accelerate delivery with secure, automated pipelines."
+   ],
+   "senior_roles": [
+    "Anusha Sunkhad Technical Architect My journey began as a lead on MOSIP, an innovative identity platform.Guided by great identity and security leaders in CyberPWN and through continuous learning, I've progressed to a senior role."
+   ],
+   "cicd": [
+    "Get in Touch Our Offerings Features that spearhead growth and innovation DevOps Consulting Product Management Product Engineering Product Quality Assurance ServiceNow Consulting Reporting and Analytics Accelerate delivery with secure, automated pipelines.",
+    "We help implement CI/CD, infrastructure-as-code, container orchestration, and monitoring practices that align with both agility and compliance needs.",
+    "We offer functional, performance, and security testing integrated into CI/CD workflows—catching issues early and improving product stability and resilience.",
+    "We design secure, scalable dashboards and analytics pipelines to track risk, user behavior, system health, and compliance metrics across your digital estate."
+   ],
+   "owns_product": [
+    "Our product managers define roadmaps, gather user feedback, and prioritize features to deliver secure, scalable, and impactful digital solutions."
+   ],
+   "sdlc": [
+    "We architect, develop, and maintain custom applications—following agile practices and security-by-design principles across the entire product lifecycle."
+   ],
+   "qa": [
+    "Ensure release confidence with structured QA."
+   ],
+   "enterprise": [
+    "BFSI Application Penetration Test Our client is a French multinational investment bank and financial services company.",
+    "Application Security Assurance BFSI RSA Archer eGRC Implementation A Financial Services major in the UAE region."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "AagatiServe Private Limited",
+  "city": "Bengaluru",
+  "domain": "aagati.com",
+  "website": "https://www.aagati.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2024-03-27",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 3472,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 7,
+   "compliance": 2,
+   "DQ_agency": 1,
+   "enterprise": 3,
+   "senior_roles": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "At AagatiServe, we exist to solve what most companies avoid: Systems that don’t talk to each other People overwhelmed by complexity Data that hides more than it reveals We're here to restore clarity.",
+    "Modernization Application Modernization & Managed Services Accelerate your transition to cloud agility using AI-assisted code refactoring and automated migration pipelines.",
+    "We deploy AI-driven predictive analytics and high-intent market targeting strategies to cut through B2B noise—aligning your Go-To-Market (GTM) playbook with real buyer behavior to build qualified, predictable revenue pipelines.",
+    "03 / The Outcome A Streamlined Technical Pipeline The deployed Agentic AI Workforce enabled recruiters and hiring managers to move beyond manual prescreening and focus on candidates already evaluated for relevant programming and engineering competencies."
+   ],
+   "compliance": [
+    "Cybersecurity Cybersecurity & Compliance Deploy AI-powered Zero-Trust architecture to secure your perimeter, isolate vulnerabilities, and stay audit-ready for DPDP, SOC2, and ISO.",
+    "Uncompromising Quality Certified experts delivering solutions built with explainability, ISO 27001 security, and future-proof architecture."
+   ],
+   "DQ_agency": [
+    "GTM Advisory Digital Marketing & GTM Advisory Transform your digital footprint into a high-converting growth engine."
+   ],
+   "enterprise": [
+    "Industries We Transform Specialized solutions for every sector Healthcare AI-powered diagnostics and data-driven care that improves patient outcomes while reducing operational costs.",
+    "BFSI Banking, Financial Services & Insurance Secure AI platforms for compliance, risk management, and intelligent customer insights.",
+    "Case Study · HealthTech & Electronic Health Records HEALTHCARE EHR SYSTEM Elevating Dental Practice Efficiency with AI Decision Support for a HealthTech Leader Our client sought to enhance the effectiveness of dental practitioners using its EHR platform."
+   ],
+   "senior_roles": [
+    "Case Study · HealthTech & Electronic Health Records HEALTHCARE EHR SYSTEM Elevating Dental Practice Efficiency with AI Decision Support for a HealthTech Leader Our client sought to enhance the effectiveness of dental practitioners using its EHR platform."
+   ],
+   "qa": [
+    "Open Positions Senior QA Lead (10+ Years of Experience) View Details AI/ML Engineer (2-5 years of experience) View Details Front-End Developer – React.js (Immediate Joiner"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Aarete Technosoft Private Limited",
+  "city": "Pune",
+  "domain": "the3i.com",
+  "website": "https://www.aarete.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "ning data analytics and digital transformation consultancy. We build smarter, faster, intuitive business applications for companies who want to compet"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 60906,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 10,
+   "sdlc": 2,
+   "DQ_training": 1,
+   "compliance": 1,
+   "cicd": 1,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "AArete Skip to content MENU MENU Who We Work With Healthcare Payer We improve the profitability and efficiency of health plans by implementing customized solutions to fit our clients’ unique needs.",
+    "Private Equity Driving portfolio exit success with strategic value creation and measurable EBITDA impact Healthcare Provider Arming healthcare providers with market intelligence, data analysis and subject matter expertise to drive profitability and bend the cost curve.",
+    "A Fortune 25 healthcare executive with more than 30 years of experience, Shipley succeeds AArete Founder Loren Trimble, who will transition from his role as CEO to board member.",
+    "Modern Technology Skip to content MENU MENU Who We Work With Healthcare Payer We improve the profitability and efficiency of health plans by implementing customized solutions to fit our clients’ unique needs."
+   ],
+   "sdlc": [
+    "Experienced Candidates For experienced professionals, our process is designed to be clear, engaging, and reflective of the work you’ll do at AArete.",
+    "AArete has helped to provide an agile approach to designing an enterprise platform enabling a new model of customer engagement supported by a data-first strategy."
+   ],
+   "DQ_training": [
+    "Summer Internship Program Our competitive summer internship is designed for undergraduates entering their senior year of college."
+   ],
+   "compliance": [
+    "AArete is proud to hold three certifications from ISO (ISO 9001:2015 Quality Management Systems; ISO 27001:2022 Information Security Management System; and ISO 20000-1:2018 Service Management System)."
+   ],
+   "cicd": [
+    "Explore Digital Transformation DATA MANAGEMENT Optimize your data architecture with our data management services, delivering scalable data pipelines and enhanced analytics and operational resilience."
+   ],
+   "owns_product": [
+    "Our Products Custom developed solutions tailored to your unique business needs featuring optimal user experience and intuitive visual design.",
+    "View Our Products Let’s Talk Whether you want to assess how to begin or accelerate your digital transformation journey, or if you have questions regarding our service offerings, get in touch with us."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Absyz Software Consulting Private Limited",
+  "city": "Hyderabad",
+  "domain": "absyz.com",
+  "website": "https://www.absyz.com",
+  "already_in_hubspot": true,
+  "headcount_known": 466,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "to post go-live support. Know More About Us What We Do Our Portfolio of Services Salesforce Right from Discovery, Implementation to Go-Live Support w"
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 130066,
+   "signals": {
+    "testing": 1
+   },
+   "quotes": {
+    "testing": [
+     "● Perform unit testing, System Integration Testing and deployment activities in Salesforce environments."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 28,
+   "prod_eng": 1,
+   "owns_product": 1,
+   "senior_roles": 3,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Healthcare Manufacturing Non Profit High Tech Higher Education BFSI Insights Menu Toggle Insights sub_menu Insights Deliver a win-win strategy across Salesforce offerings to create unique customer experience for your end clients.",
+    "We have an obligation to bring the very best ideas to the table and We pride ourselves to be a vendor of choice for many of our Fortune 500 clients.",
+    "Read More → What Makes the Best Salesforce Partners for Insurance Companies?",
+    "July 28, 2026 Learn what makes the best Salesforce partners for insurance companies."
+   ],
+   "prod_eng": [
+    "Salesforce Consulting Salesforce Implementation Salesforce Staffing Services Salesforce Managed Support Contact Us Digital Engineering Our product engineering services focuses on product design & innovation, development, and product management services."
+   ],
+   "owns_product": [
+    "Salesforce Consulting Salesforce Implementation Salesforce Staffing Services Salesforce Managed Support Contact Us Digital Engineering Our product engineering services focuses on product design & innovation, development, and product management services."
+   ],
+   "senior_roles": [
+    "Srinivas K V VP Engineering"
+   ],
+   "compliance": [
+    "A CMMI Level 3 company, ABSYZ adheres to strict process controls to enable an amazing customer experience without compromising on three aspects of project delivery: technology, people, and process 2011 ABSYZ Founded in a 2 BHK apartment in Hyderabad suburbs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Adamas Tech Consulting Private Limited",
+  "city": "Kolkata",
+  "domain": "adamastech.in",
+  "website": "https://adamastechconsulting.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "compliance": 2,
+   "sdlc": 2,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Industries Empowering growth in diverse industries Education Retail Healthcare Finance Hospitality Supply chain Public sector Education Technology Solutions Empower educational institutions with advanced Learning Management Systems (LMS), University Management Systems (UMS), and School Management Systems (SMS).",
+    "Healthcare Management Systems Revolutionize healthcare delivery with robust management systems designed for hospitals, clinics, and healthcare providers.",
+    "Our solutions enhance patient engagement, streamline operations, and support data-driven decision-making, ensuring efficient and high-quality healthcare services.",
+    "(Optional) SAAS Banking Agency Business Other What you need from us?"
+   ],
+   "compliance": [
+    "Certified Quality ISO 9001, ISO 27001 certified, and CMMI Level 3, ensuring top standards of quality, security, and compliance.",
+    "As an ISO 9001 and ISO 27001 certified company and a CMMI Level 3 certification holder, we are dedicated to delivering high-quality, secure, and innovative technology solutions."
+   ],
+   "sdlc": [
+    "Innovative Approach We use the latest technology trends to drive your digital transformation journey Agile Methodology We adapt quickly to changes, ensuring your project is delivered on time Customer-Centric We prioritize your needs, building long-term partnerships with exceptional service.",
+    "Discovery and Vision Setting Comprehensive Planning Design and Prototyping Agile Development Quality Assurance Deployment and Support OUR TEAM Our professional experts Our team is a collective force of top talents, experts, and visionaries from diverse fields."
+   ],
+   "DQ_agency": [
+    "Web Design SAP Solution Branding AI/ML Service Development Web Dev."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Advent Global Solutions Ltd",
+  "city": "Hyderabad",
+  "domain": "adventglobal.com",
+  "website": "https://adventglobal.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1997-09-11",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Advent Global Solutions - Advent Global Play Contact Us +1-281-970-3000 Home Advent Nuggets Case Studies AGS Smart Server Careers Blogs About Us Services Staffing Services SAP Systems Quality Engineering Enterprise Mobility NetSuite AWS Contact Us +1-281-970-3000 Innovate, Transform, Succeed Welcome To TECH..."
+   ],
+   "compliance": [
+    "Transform Succeed Certificate of Appraisal by CMMI It underscores our commitment to excellence and continuous improvement in delivering top-tier IT solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ }
+]

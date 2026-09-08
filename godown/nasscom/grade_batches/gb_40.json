@@ -1,0 +1,922 @@
+[
+ {
+  "name": "ITSYS Solutions Pvt Ltd",
+  "city": "Noida",
+  "domain": "itsyssolutions.com",
+  "website": "http://www.itsyssolutions.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ntelligence on completion prices and catalogs etc., and Web Application Development projects that consume XML data in real-time from multiple sources."
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "iView Labs Private Limited",
+  "city": "Ahmedabad",
+  "domain": "iviewlabs.com",
+  "website": "https://www.iviewlabs.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2012-10-05",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 242155,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "iView Labs top of page Our Work We believe let our work do the talking - Healthcare, Swiss Israel It is in one of the top 50 Swiss healthcare products and now, it is also included in the Gold List of Swiss Innovation program.",
+    "We work with Healthcare, Education & Fintech companies."
+   ],
+   "cicd": [
+    "DocDok Health Start Now - Information Technology, Israel Robusta is the best way to stay on top of Kubernetes alerts."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ivtree IT Solution Private Limited",
+  "city": "Bengaluru",
+  "domain": "ivtree.com",
+  "website": "https://ivtree.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Accelerate Product Development and bring Business Agility. Application Development As a full-stack web development company, we deliver wide range of"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 11930,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "prod_eng": 1,
+   "cicd": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our solutions unify Secure Data Management, Workflow Automation, Agile Development, and Client Collaboration , enabling organizations to achieve clarity, control, and efficiency.",
+    "Our Infrastructure Solutions DevOps & Continuous Integration Implementing DevOps practices, CI/CD pipelines, and automation frameworks to accelerate software delivery, streamline workflows, and improve operational efficiency."
+   ],
+   "prod_eng": [
+    "Explore Digital Transformation Software Product Engineering End-to-end development of scalable, secure, and high-performance software products, including SaaS solutions, APIs, and enterprise applications."
+   ],
+   "cicd": [
+    "Our Infrastructure Solutions DevOps & Continuous Integration Implementing DevOps practices, CI/CD pipelines, and automation frameworks to accelerate software delivery, streamline workflows, and improve operational efficiency."
+   ],
+   "senior_roles": [
+    "At IVTREE, you’ll work with talented engineers, designers, analysts, and tech leaders who support and inspire one another."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Jaguar Land Rover Technology And Business Services India Private Limited",
+  "city": "Bengaluru",
+  "domain": "jaguar.in",
+  "website": "https://www.jaguar.com/en-in/jdx/index.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "enterprise": [
+    "The ex-showroom price is inclusive of GST (including compensation cess) and road service assistance (for breakdowns only) but excludes Vehicle Registration Tax, Tax Collected at Source (TCS) and Insurance Premium."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Jaydu India Private Limited",
+  "city": "Hyderabad",
+  "domain": "jaydu.com",
+  "website": "https://jaydu.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Jaydu LLC – Win With Us Toggle navigation About Us Services Product Engineering eMobility and Digital Engineering Manufacturing Engineering Process Ou"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [
+    "https://jaydu.zohorecruit.com/careers"
+   ],
+   "jd_chars": 889960,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 3,
+   "owns_product": 11,
+   "senior_roles": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "NEXT-GEN INNOVATION Engineering Services That Expand Your Horizon Jaydu delivers advanced engineering & R&D services helping manufacturers accelerate product engineering, innovation, and digital transformation.",
+    "Product Engineering Transforming ideas into innovative products through expert engineering services.",
+    "Product Engineering Services in USA"
+   ],
+   "owns_product": [
+    "OUR EXPERTISE Our Services Comprehensive engineering solutions tailored to drive innovation and efficiency across your product lifecycle.",
+    "Their expertise in both engineering workflows and manufacturing systems was key to the project’s success.\" Director of Operations Industrial Equipment Manufacturer \"Jaydu’s manufacturing engineering support has been instrumental in improving our production efficiency and quality.",
+    "Their team quickly understood our design challenges and came in with practical solutions that saved us time and improved consistency across our product lines.",
+    "We invest in building long-term relationships by aligning with your goals, embedding our engineers into your product lifecycle, and proactively identifying ways to drive efficiency and innovation across your teams."
+   ],
+   "senior_roles": [
+    "What impressed us most was how quickly they grasped our regulatory environment and responded with scalable, compliant solutions.\" VP Engineering Global MedTech Innovator \"Jaydu's expertise in custom chassis design and integration exceeded our expectations."
+   ],
+   "enterprise": [
+    "Jaydu has worked with clients in regulated sectors like MedTech and Aerospace, helping them navigate compliance documentation, validation protocols, and quality standards—without compromising on speed or flexibility."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "JB Poindexter (India) Private Limited",
+  "city": "Bengaluru",
+  "domain": "jbpoindexter.com",
+  "website": "https://www.jbpoindexter.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 18017,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Jesper Apps Software Services Private Limited",
+  "city": "Chennai",
+  "domain": "jesperapps.com",
+  "website": "https://www.jesperapps.com",
+  "already_in_hubspot": false,
+  "headcount_known": 185,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ess Suite Data Science and Analytics Custom ERP Development Mobile App Development Website Development Digital Marketing Products Career Jobs Internsh"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 16504,
+   "signals": {
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "vcs_generic": [
+     "✔ Understanding of Agile methodologies and version control (Git)."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "enterprise": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Explore Our Products Download Brochure --> With Robust partners we deliver Real Results.",
+    "Explore Our Products Download Brochure Transforming Today.",
+    "Explore Our Products Download Brochure --> WHO WE ARE We’re a technology solutions provider focused on growing businesses compete in a digital-first world."
+   ],
+   "enterprise": [
+    "LEARN MORE --> National Care Company (NCC) Healthcare Manufacturing Excellence Through Oracle Fusion Cloud Applications LEARN MORE --> We use cookies to personalize content, analyze our traffic, and enhance your browsing experience."
+   ],
+   "sdlc": [
+    "Driving Progress with Purpose and Passion Our Purpose Our vision Our vision is to be the leading provider of intelligent enterprise solutions, transforming industries by making businesses smarter, more efficient, and agile."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "John Deere Financial India Private Limited",
+  "city": "Pune",
+  "domain": "deere.co.in",
+  "website": "https://www.deere.co.in/en/finance/financing/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2005-02-14",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 21794,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Johnson Controls (India) Private Limited",
+  "city": "Bengaluru",
+  "domain": "johnsoncontrols.com",
+  "website": "https://www.johnsoncontrols.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1995-10-23",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 12,
+   "external_job_boards": [],
+   "jd_chars": 122717,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 5,
+   "enterprise": 4,
+   "sdlc": 3,
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Learn more Support Back Support Product Documentation Product Selection Replacement Parts and Supplies End-of-Support Notices FEATURED Air-cooled Chillers We engineer and design chillers to meet the harshest environments, providing your chiller with maximum uptime."
+   ],
+   "enterprise": [
+    "Reliable system uptime where it really matters: your intensive care unit Building automation and Controls for Healthcare facilities Advancing energy efficiency to decarbonize society Energy costs are rising and demand is unpredictable.",
+    "August 04, 2026 OpenBlue Feature Story Inside the AI shift reshaping healthcare facilities management Explore the findings of our 2026 AI & Digitalization Report for Healthcare to see how healthcare facility leaders are using AI to overcome challenges and improve safety, compliance and sustainability.",
+    "We help our customers use energy more productively, reduce carbon emissions and operate with the precision and resilience required in rapidly expanding industries such as data centers, healthcare, pharmaceuticals, advanced manufacturing and higher education.",
+    "Deliver safe, reliable environments for healthcare operations > Advancing energy efficiency to decarbonize society Helping organizations cut energy use, carbon emissions, and operating costs by transforming how buildings perform, operate, and evolve."
+   ],
+   "sdlc": [
+    "100,000 experts 150 countries +2,000 locations It’s the people that make us exceptional How we work, lead and win together at Johnson Controls When you join Johnson Controls, you become part of a team guided by shared winning behaviors.",
+    "Explore engineering jobs Operations Our operations teams play a critical role in ensuring the seamless execution of our projects and the efficiency of our processes.",
+    "Learn more How we work, lead and win together The Johnson Controls Winning Behaviors set the standards that guide decision‑making, collaboration and performance across the enterprise."
+   ],
+   "DQ_support": [
+    "Accessibility Privacy Suppliers Your privacy choices Terms Video Management System Hardware",
+    "Available in Standard, Performance, and High-Performance configurations Targeted for single- to quad-monitor deployments Full service technical and hardware support See product details American Dynamics victor Surveillance Keyboard Enables precise control of cameras including PTZs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "JP Morgan Services India Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "jpmorgan.com",
+  "website": "https://www.jpmorgan.com/global",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "itutional Investors Advisors & Advisory Firms Individuals & Portfolio Advisors As a global leader, we deliver strategic advice and solutions, includin"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 114246,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 31,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Global Corporate Banking We help clients achieve their long-term strategic goals through financing, liquidity, payments, risk management and investment banking solutions.",
+    "Investment Banking Providing investment banking solutions, including M&A, capital raising and risk management, for a broad range of corporations, institutions and governments.",
+    "Private Bank A uniquely elevated private banking experience shaped around you.",
+    "Learn more Commercial Banking We provide tailored credit, financing, treasury and payment solutions for businesses of all sizes and commercial real estate."
+   ],
+   "cicd": [
+    "Morgan shines at Risk Awards 2026 Read more Banking New opportunities in the pipeline for Argentina Read more Global Research J.P."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Jupito Deeptech Private Limited",
+  "city": "Mumbai",
+  "domain": "appcodesk.com",
+  "website": "https://www.appcodesk.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "K&S Partners",
+  "city": "Bengaluru",
+  "domain": "knspartners.com",
+  "website": "https://kandspartners.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "erse and Strong Technical Expertise Specialized counsel and portfolio-based client management State of the art Infrastructure - Rely heavily on techno"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [
+    "https://knspartners.darwinbox.in/ms/candidatev2/main/careers/allJobs"
+   ],
+   "jd_chars": 20425,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6,
+   "DQ_support": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "The award-winning law firm supports clients from around the world, including Fortune 500 companies, in all forms of intellectual property rights such as patent, design, trademark, copyright, geographical indication, plant variety, trade secret, and related matters.",
+    "The award-winning law firm supports several leading Indian and global brands, including Fortune 500 companies, in all forms of intellectual property rights such as patents, designs, trademarks, copyright, geographical indications, plant varieties, trade secrets, and related matters."
+   ],
+   "DQ_support": [
+    "A patent is valid for 20 years from the date of filing of the patent application, provided the required annual maintenance fees are paid on time."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "K-Nomics Techno Solutions Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "mintbook.com",
+  "website": "https://mintbook.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2013-05-11",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "enterprise": 3
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our Products Digital Library --> Digital Library LMS Software Virtual Classroom Software --> Vidhya Shakti DL - MBOX offline --> MBOX Digital Library Important Links Terms & Conditions Privacy Policy FAQ Blog Incubated by Amrita TBI Follow Us On Social Media Sign Up For A Newsletter 2024."
+   ],
+   "enterprise": [
+    "Library How Digital Libraries Help Learners Upskill for Banking, IT and Government Jobs Mintbook July 18, 2026 July 19, 2026 The employment landscape is changing rapidly.",
+    "Continuous learning is now a must, whether you are preparing for a banking exam, a government job, or planning a career in the field...",
+    "List of Digital Libraries in India How Digital Libraries Help Learners Upskill for Banking, IT and Government Jobs Company About Us Contact Us Support FAQ’s Privacy Policy Terms & Conditions Close Menu What is an LMS?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Kairos Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "kairostech.com",
+  "website": "https://kairostech.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 346,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 11,
+   "sdlc": 2,
+   "prod_eng": 1,
+   "enterprise": 4,
+   "DQ_training": 1,
+   "owns_product": 3,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Digital Quality Engineering and Transformation",
+    "Kairos Technologies Digital Quality Engineering & Transformation",
+    "--> Services Digital Quality Engineerings Total Quality Assurance Assurance with Excellence Data Testing Accelerate Insightful Decisions Microservices Testing Unleashing Excellence in Microservices Testing --> Salesforce Testing Test",
+    "Harness the power of Automated Testing Kairos Intelligent Test Automation Platform (KiTAP) (Now Zyrix Test Autopilot)–the industry’s first AI-powered test automation platform with source code for deployment on your premises."
+   ],
+   "sdlc": [
+    "Evolution of Digital Quality – Gazing the Road Ahead Achieving Agile Quality – Through Orchestration and Automation Customer Stories How businesses ride the waves of technological changes.",
+    "Agile and Scrum are not just methodologies to him but tools that can be optimized for greater efficiency."
+   ],
+   "prod_eng": [
+    "Vision We aspire to be the global leader in our industry, redefining standards of engineering excellence, quality, and customer satisfaction through our commitment to innovation, collaboration, and growth-mindset."
+   ],
+   "enterprise": [
+    "From strategy to execution, she drives innovative programs that deliver success and best-in-class experience to our enterprise clients.",
+    "With a passion for continuous learning, Sunita has earned multiple certifications in diverse fields, including Cybersecurity from Harvard University, IBM Cybersecurity Analyst Specialization, Blockchain Strategy from the University of Oxford, and Financial Market, Insurance, and CAPM from Yale University.",
+    "Her broad and deep expertise is reflected in her ability to engage with clients and consultants across multiple industries, including Automotive, Energy, Healthcare, and Technology.",
+    "Throughout her career, she has demonstrated a remarkable ability to engage with clients and consultants across various industries, including Automotive, Energy, Healthcare, and Technology."
+   ],
+   "DQ_training": [
+    "In addition to his business development expertise, he has a passion for mentoring and coaching, and He enjoys working with teams to help them reach their full potential."
+   ],
+   "owns_product": [
+    "Together, we will identify your desired future state and develop an RPA plan that employs the necessary tools to integrate and automate your platforms and processes.",
+    "Our RPA Accelerators RPA (Robotic Process Automation) implementation accelerators are tools or frameworks designed to speed up the implementation of RPA projects.",
+    "Kairos has accelerators that help organizations to streamline their RPA implementation process."
+   ],
+   "DQ_template": [
+    "KiRAF also provides Intelligent Process Execution Templates that can reduce licensing costs for our clients and make it possible for Business Analysts to define executable business process flows using excel files."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "KanaQ Innovations Private Limited",
+  "city": "Hyderabad",
+  "domain": "mykanaq.com",
+  "website": "https://mykanaq.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 5
+  },
+  "site_quotes": {
+   "sdlc": [
+    "How to build more resilient, agile, and profitable supply chains?",
+    "Optimization solutions Reach us at info@mykanaq.com How to build more resilient, agile, and profitable supply chains?",
+    "Client-Centric Approach We collaborate with clients to meet their needs and achieve their goals Market Expansion Risk Mitigation Innovation at Source Contact us Mission Statement Enabling customer supply chains to be more resilient, agile, and optimized."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Karma Management Global Consulting Solutions Private Limited",
+  "city": "Mumbai",
+  "domain": "karmamgmt.com",
+  "website": "https://karmamgmt.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ess Wechecked Bumblebee Fulcrum Latest News & Updates Blogs Case Studies Whitepapers Webinars 3rd May The Labour codes may be rolled out sooner than w"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Their deep understanding of statutory compliance has helped us refine our processes."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Keeves Technologies Private Limited",
+  "city": "Kolkata",
+  "domain": "keevestechnologies.com",
+  "website": "https://www.keevestechnologies.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "development service/web-services/uiux service/web-services/web development service/web-services/ecommerce development service/web-services/infographi"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Bringing the virtual and real worlds together to create immersive, interactive experiences across multiple industries, such as education, finance, healthcare, and sports."
+   ],
+   "sdlc": [
+    "--> INNOVATION THROUGH COLLABORATION STRONG TECHNOLOGY COMPETENCY & SPECTRUM FLEXIBLE ENGAGEMENT MODELS SEAMLESS COMMUNICATION CUSTOMER FOCUS WITH 24/7 SUPPORT CONSULTING LED ENGINEERING APPROACH --> The KTPL Team is very cooperative and focus mainly on satisfying their customers."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Kellton Tech Solutions Ltd",
+  "city": "Gurugram",
+  "domain": "kelltontech.com",
+  "website": "https://www.kellton.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 16585,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 30,
+   "owns_product": 15,
+   "enterprise": 5,
+   "cicd": 3,
+   "sdlc": 4,
+   "qa": 1,
+   "DQ_support": 3
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Digital & Product Engineering",
+    "Accelerate Your AI Journey Product Engineering – Intelligent Products, Delivered Kellton engineers AI-powered digital products across web, mobile, IoT, and cloud – with 3x faster releases, 60% less downtime, and are trusted by 500+ global enterprises.",
+    "Explore Phoenix.ai AI Services Product Engineering BW People Tech Award Structi.Ai Phoenix.Ai Using an AI-First approach, we build intelligent and future-proof digital solutions to transform companies.",
+    "Explore Our Services Explore Kellton Careers Investor Query Sales Query Kellton General Query Submit > © 2026 Kellton Enterprise AI Platform Engineering Solutions"
+   ],
+   "owns_product": [
+    "Accelerate Your Product Journey Powering State Government's Landmark HRMS Transformation Recognized with the BW PEOPLE TECH.FUTURE 2026 Gold Award for Best HR Tech Implementation for delivering the Government of Karnataka's flagship HRMS2 program.",
+    "We ensure your platform is not just \"functional,\" but is an active driver of efficiency, accuracy, and innovation.",
+    "Autonomous Platforms AI Led Platform Engineering Start Your Product Journey In the era of autonomous intelligence, your infrastructure is your competitive advantage.",
+    "Explore our AI Platform Engineering Services Our platform engineering services are designed to streamline how your team builds AI."
+   ],
+   "enterprise": [
+    "We believe Kellton's technical expertise, agility, and access to the best technology, analytics, and customer knowledge are essential for Aegon Life to remain a leader in digital insurance.\" Martin De Jong Chief Digital Officer, Aegon Life Insurance Company Ltd.",
+    "Get a free audit Mastering LLMOps at Scale Strategies for maintaining ai-powered platforms in regulated environments.",
+    "Our offerings Metaverse Development Services Virtual World Development We create engaging, immersive digital experiences within virtual worlds, working across a range of industries including Gaming, Education, and Healthcare.",
+    "Deeply experienced team Our experience is informed by a number of successful virtual reality projects for Fortune 500 companies, startups, and everyone in between."
+   ],
+   "cicd": [
+    "Explore Service → MLOps & LLMOps Infrastructure We engineer the automated pipelines required for the full lifecycle of complex models.",
+    "MLOps & LLMOps Native Automated CI/CD for reasoning logic and model lifecycle management.",
+    "Our ai platform engineering includes automated pipelines for model versioning, prompt engineering, vector memory management, and continuous performance monitoring to prevent \"Agent Drift.\" Can your ai powered platforms integrate with legacy systems?"
+   ],
+   "sdlc": [
+    "Agent-Led Product Development How autonomous systems are rewriting the SDLC.",
+    "Co-Founder & CEO of Evise.ai ★★★★★ Team Kellton scalable and agile solutions have given us a competitive edge in the QSR space, while enriching customer experience.",
+    "Flexible engagement models Our partnership with you is completely flexible – scale teams up and down as you need, or opt for a fixed cost or T&M model.",
+    "Product Design and Development Using an Agile approach, our design and development teams create intuitive, attractive products that respond to real-world customer needs."
+   ],
+   "qa": [
+    "Blog Fleet management tracking solution development: A practical guide and benefits August 14 , 2025 Blog Unit testing in 2026: Stop writing bad tests with this practical engineering guide February 01 , 2023 Blog How to write an effective Product Requirements Document?"
+   ],
+   "DQ_support": [
+    "It’s powered by the Lua programming language, and thanks to OpenGL hardware integration, it comes to the top for its speed and stability.",
+    "Its mobile support (Android and iOS) is newer than its desktop support, making it best suited for teams already using Tauri on desktop who want a consistent codebase on mobile, or teams prioritizing small app size and low resource usage over the full maturity of Flutter or React Native.",
+    "Answer : Ionic is faster and cheaper to build, but Native development (SwiftUI/Compose) offers better access to advanced hardware sensors."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "KIOPL Management Solutions India Private Limited",
+  "city": "Gurugram",
+  "domain": "kkr.com",
+  "website": "https://www.kkr.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ssets Infrastructure Credit Hedge Funds Capital Markets KKR Portfolio Responsibility Sustainable Investing Global Impact Citizenship 2021 Sustainabili"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 37920,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Who We Serve Institutional Investors Our differentiated investment insights, time-tested approach, and wide array of solutions help pensions, sovereign wealth funds, endowments and foundations, consultants, and insurance companies fulfill their missions.",
+    "Institutional Investors Our differentiated investment insights, time-tested approach, and wide array of solutions help pensions, sovereign wealth funds, endowments and foundations, consultants, and insurance companies fulfill their missions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "KLA-Tencor Software India Pvt Ltd",
+  "city": "Chennai",
+  "domain": "kla-tencor.com",
+  "website": "https://www.kla.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1997-01-30",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 71332,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 7,
+   "enterprise": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Videos Products & Technology Products Our process-control and process-enabling solutions are designed to boost the innovation speed of the electronics industry.",
+    "Collaboration Active collaboration multiplies agile thinking."
+   ],
+   "enterprise": [
+    "Leadership KLA Rings NASDAQ Bell, Celebrating 50 Years of Innovation Mar 18, 2026 On Thursday, March 12, KLA executives and employees concluded the KLA 2026 Investor Day with a visit to NASDAQ...",
+    "Read more Leadership KLA Rings NASDAQ Bell, Celebrating 50 Years of Innovation Mar 18, 2026 On Thursday, March 12, KLA executives and employees concluded the KLA 2026 Investor Day with a visit to NASDAQ in..."
+   ],
+   "owns_product": [
+    "Download our Product Regulatory Compliance Guidelines Download our Anti-virus Policy Information Reporting Portal We all have the responsibility to report any behavior that violates our Standards of Business Conduct (SoBC)."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

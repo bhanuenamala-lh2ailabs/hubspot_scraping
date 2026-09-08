@@ -1,0 +1,500 @@
+[
+ {
+  "name": "Access Healthcare Services Pvt Ltd",
+  "domain": "accesshealthcare.co",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "BPO/revenue-cycle core business cap 20 (non-binding)"
+  ],
+  "pre2024_status": "pre-2024 capture exists, no software wording (weak +10)",
+  "evidence": [
+   "Revenue cycle management toolkit is the core offering",
+   "Careers, blog and team pages recovered; cap-40 lifted",
+   "Pre-2024 archive exists but no software-build language",
+   "No VCS org, CI/CD, certification or code-review evidence"
+  ],
+  "why": "Healthcare revenue-cycle BPO with a proven pre-2024 site but zero engineering-practice evidence, so only the weak GOLD point applies.",
+  "changed_from_previous": "Skip 0 -> Skip 10, cap-40 lifted"
+ },
+ {
+  "name": "Agility E Services Private Limited",
+  "domain": "agility.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "REPAIRED 20080719 capture readable, no software language (weak +10)",
+  "evidence": [
+   "20080719 capture readable, no software-development language",
+   "All five pages reached but zero signals extracted",
+   "Domain resolves to logistics group, not the IT entity",
+   "No VCS org, careers JD or CI/CD evidence"
+  ],
+  "why": "Pre-2024 existence is now proven, but the bundle carries no engineering signal of any tier.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap-45 lifted"
+ },
+ {
+  "name": "Apollo India Services LLP",
+  "domain": "apollo.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C withheld: no Tier A/B corroboration"
+  ],
+  "pre2024_status": "REPAIRED 20230102 capture readable, no software language (weak +10)",
+  "evidence": [
+   "Site is Apollo Global Management, an asset manager",
+   "Excerpts are investor-relations and benefits copy",
+   "Template hits are AEM CMS markup, not template shop",
+   "No engineering, VCS or CI/CD content anywhere"
+  ],
+  "why": "An asset-management site with no software-engineering content; only the weak pre-2024 existence point survives.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap-45 lifted"
+ },
+ {
+  "name": "aQb Solutions Private Limited",
+  "domain": "aqbsolutions.com",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 10,
+  "caps_applied": [
+   "generalist-agency (digital marketing bundled) cap 30"
+  ],
+  "pre2024_status": "REPAIRED: verified, 20230120 capture advertises web/mobile app development",
+  "evidence": [
+   "20230120 capture: Web and Mobile Application Development advertised",
+   "ISO 27001:2013 certified, stated twice",
+   "Digital Marketing sold alongside development services",
+   "Case studies still carry Lorem Ipsum placeholder text"
+  ],
+  "why": "GOLD is now verified and ISO 27001 is real, but digital marketing bundled with development triggers the generalist-agency cap at 30.",
+  "changed_from_previous": "Skip 20 -> Skip 30, GOLD verified, agency cap binds"
+ },
+ {
+  "name": "Artha Data Solutions India Private Limited",
+  "domain": "thinkartha.com",
+  "score": 38,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 18,
+  "caps_applied": [],
+  "pre2024_status": "REPAIRED 20230106 capture readable, no software language (weak +10)",
+  "evidence": [
+   "Owns named accelerators: B'etl migrator, Data Insights Platform",
+   "GDPR, CCPA and HIPAA named as enforced standards",
+   "BFSI, healthcare and telecom enterprise clients, industry events",
+   "Pipelines cited are data/ETL, not CI/CD tooling"
+  ],
+  "why": "A genuine data-product firm with owned accelerators and named compliance regimes, but only weak pre-2024 evidence and no VCS or deployment-pipeline artefacts.",
+  "changed_from_previous": "Skip 10 -> Skip 38, GOLD cap-45 lifted"
+ },
+ {
+  "name": "Axium Global Private Limited",
+  "domain": "axiumglobal.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "BPO/back-office core business cap 20",
+   "generalist-agency cap 30"
+  ],
+  "pre2024_status": "REPAIRED 20180324 capture readable, no software language (weak +10)",
+  "evidence": [
+   "CAD and MEP engineering design, not software development",
+   "ISO 9001:2015 and ISO 27001:2022 certified",
+   "Blog: 'Why an Indian Back Office Gives You the Edge'",
+   "3D rendering and branding services bundled in"
+  ],
+  "why": "Engineering-design outsourcing rather than software build; the ISO certifications are the only real signal and the back-office cap binds at 20.",
+  "changed_from_previous": "Skip 20 -> Skip 20, no change"
+ },
+ {
+  "name": "Barclays Global Service Centre Private Limited",
+  "domain": "barclays.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C withheld: no Tier A/B corroboration"
+  ],
+  "pre2024_status": "REPAIRED 20191102 capture readable, no software language (weak +10)",
+  "evidence": [
+   "All 26 excerpts are FCA/PRA regulatory boilerplate",
+   "Group bank site, not the Pune centre's engineering page",
+   "No careers JD, CI/CD or VCS evidence captured",
+   "20191102 capture readable, no software language"
+  ],
+  "why": "The crawl reached only corporate-bank boilerplate, leaving no engineering evidence for the Pune service centre to score on.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap-45 lifted"
+ },
+ {
+  "name": "BCE Global Technology Centre Private Limited",
+  "domain": "bceglobaltech.com",
+  "score": 15,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 0,
+  "tier_a_points": 0,
+  "tier_b_points": 15,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no pre-2024 evidence cap 45 (non-binding)"
+  ],
+  "pre2024_status": "domain first archived 2024-11-11 — genuine absence, 0 and cap 45",
+  "evidence": [
+   "GKE, Cloud Run, AKS, Azure Functions named in stack",
+   "DevOps Engineer and Cloud Engineer roles advertised",
+   "Domain first archived November 2024 — red flag",
+   "Careers, blog and team pages recovered; cap-40 lifted"
+  ],
+  "why": "Substantive named cloud and DevOps tooling earns Tier B, but the first capture is late 2024 so GOLD is genuinely absent.",
+  "changed_from_previous": "Skip 0 -> Skip 15, pages recovered"
+ },
+ {
+  "name": "Caftius Technologies Private Limited",
+  "domain": "caftius.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C withheld: single signal, no Tier A/B corroboration"
+  ],
+  "pre2024_status": "pre-2024 capture exists, no software wording (weak +10)",
+  "evidence": [
+   "Director cited with 25 years software product building",
+   "Careers and team pages recovered; cap-40 lifted",
+   "Pre-2024 archive exists but homepage lacked software wording",
+   "No blog, VCS, CI/CD or compliance evidence"
+  ],
+  "why": "A single senior-architect bio is the only signal and nothing corroborates it, so Tier C stays withheld.",
+  "changed_from_previous": "Skip 0 -> Skip 10, cap-40 lifted"
+ },
+ {
+  "name": "Cetark Solutions Private Limited",
+  "domain": "cetark.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "managed-IT/SOC core business cap 20"
+  ],
+  "pre2024_status": "pre-2024 capture exists, no software wording (weak +10)",
+  "evidence": [
+   "24x7x365 SOC and infrastructure management is core",
+   "ISO 27001 certified and GDPR compliant",
+   "Careers and team pages recovered; cap-40 lifted",
+   "No development, VCS or CI/CD evidence found"
+  ],
+  "why": "Managed security operations rather than software build, so the managed-IT cap holds it at 20 despite the certification.",
+  "changed_from_previous": "Skip 10 -> Skip 20, cap-40 lifted"
+ },
+ {
+  "name": "CitiusTech Healthcare Technology Pvt Ltd",
+  "domain": "citiustech.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C withheld: no Tier A/B corroboration"
+  ],
+  "pre2024_status": "REPAIRED: verified, 20230101 capture shows 'Digital & Product Engineering'",
+  "evidence": [
+   "20230101 capture advertises Digital and Product Engineering",
+   "Decades of product engineering heritage, accelerators, frameworks",
+   "No named certification, CI/CD tooling or VCS org",
+   "Careers copy says engineering excellence, not code review"
+  ],
+  "why": "GOLD is verified and the product-engineering story reads substantive, but the bundle holds no Tier A/B artefact to unlock its 23 Tier C points.",
+  "changed_from_previous": "Skip 10 -> Skip 25, GOLD verified"
+ },
+ {
+  "name": "CodeTantra Tech Solutions Private Limited",
+  "domain": "codetantra.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C withheld: no Tier A/B corroboration"
+  ],
+  "pre2024_status": "verified: pre-2024 capture advertises live programming-course platform",
+  "evidence": [
+   "Pre-2024 capture advertises programming courses on own platform",
+   "Owns assessment and proctoring platform, long-lived codebase",
+   "Team page recovered; no careers or blog found",
+   "No VCS, CI/CD, compliance or code-review evidence"
+  ],
+  "why": "A verified pre-2024 product platform, but nothing on the site evidences engineering process to build on.",
+  "changed_from_previous": "Skip 25 -> Skip 25, no change"
+ },
+ {
+  "name": "Concord Technosoft Private Limited",
+  "domain": "concordtechnosoft.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "generalist-agency cap 30 (non-binding)",
+   "no careers/blog/team cap 40 (non-binding)"
+  ],
+  "pre2024_status": "REPAIRED 20230602 capture readable, no software language (weak +10)",
+  "evidence": [
+   "SEO, PPC, social media and branding are core services",
+   "Only the homepage was reachable at all",
+   "No careers, blog or team page still confirmed",
+   "20230602 capture readable, no software language"
+  ],
+  "why": "A digital-marketing agency with a single-page presence; the GOLD cap lift is irrelevant at this score.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap-45 lifted"
+ },
+ {
+  "name": "DTCC Enterprise Services India Pvt Ltd",
+  "domain": "dtcc.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C withheld: no Tier A/B corroboration"
+  ],
+  "pre2024_status": "verified: pre-2024 capture lists delivered data and clearing services",
+  "evidence": [
+   "Pre-2024 capture lists delivered data and clearing services",
+   "Careers, blog and team pages recovered; cap-40 lifted",
+   "Financial market infrastructure, regulated clients implied",
+   "No VCS org, CI/CD or code-review evidence surfaced"
+  ],
+  "why": "Verified pre-2024 delivered-services portfolio, but the crawl surfaced no engineering-process evidence to score above GOLD.",
+  "changed_from_previous": "Skip 25 -> Skip 25, no change"
+ },
+ {
+  "name": "Egon Zehnder Information and Research Services Private Limited",
+  "domain": "egonzehnder.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "REPAIRED 20230104 capture readable, no software language (weak +10)",
+  "evidence": [
+   "Executive search firm, not an IT services company",
+   "'Pipeline' hits refer to leadership talent pipelines",
+   "'Template' hits are succession-planning templates",
+   "20230104 capture readable, no software language"
+  ],
+  "why": "Every detector hit is a false positive from executive-search vocabulary; no engineering evidence exists.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap-45 lifted"
+ },
+ {
+  "name": "ENEL X Services India Private Limited",
+  "domain": "enelx.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no careers/blog/team cap 40 (non-binding)"
+  ],
+  "pre2024_status": "REPAIRED 20231002 capture readable, no software language (weak +10)",
+  "evidence": [
+   "Energy-services corporate site, only homepage reachable",
+   "No careers, blog or team page still confirmed",
+   "Template hit is an AEM page-hub path",
+   "20231002 capture readable, no software language"
+  ],
+  "why": "An energy multinational's marketing homepage with no reachable engineering evidence.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap-45 lifted"
+ },
+ {
+  "name": "Enviri India Services Private Limited",
+  "domain": "enviri.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "REPAIRED 20230605 capture readable, no software language (weak +10)",
+  "evidence": [
+   "Environmental services group; homepage and team only",
+   "Zero signal counts and zero evidence excerpts",
+   "No VCS, careers JD, CI/CD or compliance found",
+   "20230605 capture readable, no software language"
+  ],
+  "why": "The environmental-services parent site carries no software-engineering signal whatsoever.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap-45 lifted"
+ },
+ {
+  "name": "Geeta Eservices Private Limited",
+  "domain": "geetaeservices.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "REPAIRED 20231030 capture readable, no software language (weak +10)",
+  "evidence": [
+   "Homepage and careers reached, no signals extracted",
+   "First archived only 2021, thin web presence",
+   "No VCS, blog, CI/CD or compliance evidence",
+   "20231030 capture readable, no software language"
+  ],
+  "why": "A thin site with no extractable engineering signal beyond proven pre-2024 existence.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap-45 lifted"
+ },
+ {
+  "name": "Globex Digital Solutions Private Limited",
+  "domain": "globexdigitalcorp.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C withheld: no Tier A/B corroboration"
+  ],
+  "pre2024_status": "REPAIRED 20231030 capture readable, no software language (weak +10)",
+  "evidence": [
+   "'From Idea to Impact in 90 Days' delivery promise",
+   "50+ enterprise clients claimed, no named references",
+   "Blog is GenAI marketing, not engineering practice",
+   "No VCS, CI/CD, QA or certification evidence"
+  ],
+  "why": "A marketing-led AI consultancy whose positioning claims carry no Tier A/B engineering corroboration.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap-45 lifted"
+ },
+ {
+  "name": "IEMA Research & Development Private Limited",
+  "domain": "iemlabs.com",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "training bundled with services cap 30"
+  ],
+  "pre2024_status": "REPAIRED: verified, 20230102 capture shows Web/Application and Software Development",
+  "evidence": [
+   "20230102 capture: Web/Application and Software Development",
+   "ISO 27001, ISO 9001, CERT-In empanelled, CMMI L3",
+   "Source code review is a security audit service, not PR practice",
+   "Bootcamps, diplomas and courses bundled with services"
+  ],
+  "why": "Verified pre-2024 software work plus strong certifications, but training courses bundled alongside services cap it at 30.",
+  "changed_from_previous": "Skip 20 -> Skip 30, GOLD verified"
+ },
+ {
+  "name": "Impetus Technologies India Private Limited",
+  "domain": "impetus.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C withheld: no Tier A/B corroboration"
+  ],
+  "pre2024_status": "REPAIRED 20230104 capture readable, no software language (weak +10)",
+  "evidence": [
+   "'Engineers follow rigorous product engineering best practices'",
+   "Fortune 100 BFSI client, all six pages including tech-stack",
+   "No VCS, CI/CD tooling, certification or JD code-review text",
+   "20230104 capture readable, no software language"
+  ],
+  "why": "The product-engineering language reads genuine and 15 Tier C points are visible, but no Tier A/B artefact exists to corroborate them.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap-45 lifted"
+ },
+ {
+  "name": "Infomate 360 Solutions India Private Limited",
+  "domain": "infomate360.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "screening/BPO core business cap 20 (non-binding)"
+  ],
+  "pre2024_status": "pre-2024 capture exists, no software wording (weak +10)",
+  "evidence": [
+   "Employment background screening is the core business",
+   "Team page recovered; no careers or blog found",
+   "Pre-2024 archive exists but no software wording",
+   "No VCS, CI/CD, QA or certification evidence"
+  ],
+  "why": "A background-screening provider with no software-development or engineering-process evidence at all.",
+  "changed_from_previous": "Skip 0 -> Skip 10, cap-40 lifted"
+ }
+]

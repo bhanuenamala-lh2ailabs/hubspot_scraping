@@ -1,0 +1,535 @@
+[
+ {
+  "name": "HanuAl Private Limited",
+  "domain": "roadathena.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Verified: 2020 snapshot advertised own product",
+  "evidence": [
+   "Wayback 2020 snapshot names 'Our Product' road-anomaly platform",
+   "Homepage: platform for road management teams (owns_product)",
+   "No careers or blog page fetched (pages_absent)",
+   "own_vcs_orgs and npm_packages_on_own_domain both empty"
+  ],
+  "why": "Real pre-2024 product, but the bundle shows no repo, code-review, CI/CD or hiring evidence, so only the GOLD gate scores."
+ },
+ {
+  "name": "Heera Software Private Limited",
+  "domain": "heerasoftware.com",
+  "score": 48,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 13,
+  "caps_applied": [],
+  "pre2024_status": "Verified: 2022 snapshot showed shipped DMS/SFA products",
+  "evidence": [
+   "2022 snapshot: DMS/SFA products used by 10+ multinationals",
+   "Site: ISO 27001, SOC 1 and SOC 2 Type 2 certified",
+   "Careers and blog reached but no PR/CI/code-review language",
+   "No own VCS org or npm packages found"
+  ],
+  "why": "Genuine pre-2024 product firm with real change-control certifications, but zero workflow evidence leaves it two points short of Secondary."
+ },
+ {
+  "name": "Hinduja Global Solutions Ltd",
+  "domain": "teamhgs.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "BPO/contact-centre core cap 20"
+  ],
+  "pre2024_status": "Existed pre-2024; 2011 snapshot unreadable",
+  "evidence": [
+   "Team bios: 25 years contact-centre, 13 years BPO (DQ_bpo)",
+   "2011 first snapshot but no capture fetchable (wayback)",
+   "Blog hit is a GDPR outsourcing post, not engineering",
+   "No VCS org; careers page not reached"
+  ],
+  "why": "Contact-centre/BPO core business caps it at 20, and nothing in the bundle evidences a software engineering practice."
+ },
+ {
+  "name": "iamneo Edutech Private Limited",
+  "domain": "iamneo.ai",
+  "score": 0,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 0,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "training-centric business cap 30",
+   "no pre-2024 software evidence cap 45"
+  ],
+  "pre2024_status": "Unknown: wayback lookup failed, no dated artefact",
+  "evidence": [
+   "Wayback CDX lookup failed — missing evidence, not proof of newness",
+   "Homepage: NeoPAT placement SaaS, AWS Edstart (owns_product)",
+   "Seven training/placement excerpts dominate positioning (DQ_training)",
+   "Careers and blog reached; no code-review or CI content"
+  ],
+  "why": "A real SaaS product exists but the failed wayback lookup left no dated pre-2024 artefact and no Tier A/B signal to corroborate it."
+ },
+ {
+  "name": "IEMA Research & Development Private Limited",
+  "domain": "iemlabs.com",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "training bundled with services cap 30"
+  ],
+  "pre2024_status": "REPAIRED: verified, 20230102 capture shows Web/Application and Software Development",
+  "evidence": [
+   "20230102 capture: Web/Application and Software Development",
+   "ISO 27001, ISO 9001, CERT-In empanelled, CMMI L3",
+   "Source code review is a security audit service, not PR practice",
+   "Bootcamps, diplomas and courses bundled with services"
+  ],
+  "why": "Verified pre-2024 software work plus strong certifications, but training courses bundled alongside services cap it at 30.",
+  "changed_from_previous": "Skip 20 -> Skip 30, GOLD verified"
+ },
+ {
+  "name": "Impetus Technologies India Private Limited",
+  "domain": "impetus.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "Tier C withheld: no Tier A/B corroboration"
+  ],
+  "pre2024_status": "REPAIRED 20230104 capture readable, no software language (weak +10)",
+  "evidence": [
+   "'Engineers follow rigorous product engineering best practices'",
+   "Fortune 100 BFSI client, all six pages including tech-stack",
+   "No VCS, CI/CD tooling, certification or JD code-review text",
+   "20230104 capture readable, no software language"
+  ],
+  "why": "The product-engineering language reads genuine and 15 Tier C points are visible, but no Tier A/B artefact exists to corroborate them.",
+  "changed_from_previous": "Skip 10 -> Skip 10, GOLD cap-45 lifted"
+ },
+ {
+  "name": "India Land Tech Park Private Limited",
+  "domain": "indialand.net",
+  "score": 0,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 0,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no pre-2024 software evidence cap 45"
+  ],
+  "pre2024_status": "Pre-2024 site, no software mention",
+  "evidence": [
+   "Pre-2023 snapshot did not mention building software (wayback)",
+   "Only signal is a tenant testimonial (enterprise excerpt)",
+   "Business is tech-park real estate, not software",
+   "No VCS org or npm packages found"
+  ],
+  "why": "A commercial tech-park landlord, not an engineering firm; no software signal anywhere in the bundle."
+ },
+ {
+  "name": "Inference Labs Private Limited",
+  "domain": "inference.in",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Pre-2024 site, no software mention",
+  "evidence": [
+   "Single prod_eng hit sits inside a leader biography",
+   "Pre-2023 snapshot without software mention (wayback)",
+   "Careers, blog, about, team reached; no workflow signals",
+   "No VCS org or OSS packages found"
+  ],
+  "why": "Five pages fetched yielded one decorative 'product engineering' phrase in a bio and nothing else."
+ },
+ {
+  "name": "Infomate 360 Solutions India Private Limited",
+  "domain": "infomate360.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "screening/BPO core business cap 20 (non-binding)"
+  ],
+  "pre2024_status": "pre-2024 capture exists, no software wording (weak +10)",
+  "evidence": [
+   "Employment background screening is the core business",
+   "Team page recovered; no careers or blog found",
+   "Pre-2024 archive exists but no software wording",
+   "No VCS, CI/CD, QA or certification evidence"
+  ],
+  "why": "A background-screening provider with no software-development or engineering-process evidence at all.",
+  "changed_from_previous": "Skip 0 -> Skip 10, cap-40 lifted"
+ },
+ {
+  "name": "Initium Digital Private Limited",
+  "domain": "initiumdigital.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Domain live 2018; snapshot unreadable",
+  "evidence": [
+   "Careers: 'small product engineering team building the NuVo suite'",
+   "Owns NuVo ICM, DocFlo, BTP Lens on SAP BTP",
+   "2018 first snapshot but no capture fetchable (wayback)",
+   "JDs mention architecture and data pipelines, not git/PR/CI"
+  ],
+  "why": "Credible small product team on SAP BTP, but no Tier A/B artefact exists to corroborate the Tier C positioning or the pre-2024 build."
+ },
+ {
+  "name": "InOrg Global India Private Limited",
+  "domain": "inorg.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Pre-2024 site, no software mention",
+  "evidence": [
+   "Careers: DevOps Architect, Senior Technical Architect openings",
+   "Also lists 'DevOps Trainer' — staffing supply, not own pipeline",
+   "Pre-2023 snapshot without software mention (wayback)",
+   "No VCS org; no code-review or CI/CD language"
+  ],
+  "why": "Staff-augmentation firm placing DevOps people rather than evidencing its own reviewed engineering pipeline."
+ },
+ {
+  "name": "Intact Business Services Private Limited",
+  "domain": "intactinsurance.co.uk",
+  "score": 0,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 0,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no pre-2024 software evidence cap 45"
+  ],
+  "pre2024_status": "Pre-2024 site, insurer not software",
+  "evidence": [
+   "Domain resolves to Intact Insurance UK, an FCA-regulated insurer",
+   "100 enterprise hits are regulatory footer boilerplate",
+   "Pre-2023 snapshot without software mention (wayback)",
+   "All six pages reached; no engineering content at all"
+  ],
+  "why": "The scraped domain is a UK insurance carrier, not the Gurugram tech entity, and shows no engineering evidence."
+ },
+ {
+  "name": "Intelliob Technologies Pvt Ltd",
+  "domain": "intelliob.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 10,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Pre-2024 site, no software mention",
+  "evidence": [
+   "Firm-run dev.to/intelliob_technologies developer blog (external_blogs)",
+   "medium.com/@dev1.intelliob developer blog also listed",
+   "Post topics unverified, so partial Tier A credit only",
+   "Pre-2023 snapshot without software mention (wayback)"
+  ],
+  "why": "Firm-branded dev.to and Medium blogs verify a developer-facing culture, but no repo, CI or pre-2024 software artefact backs it up."
+ },
+ {
+  "name": "Inzuscene Technologies Private Limited",
+  "domain": "inzuscene.com",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 10,
+  "tier_c_points": 10,
+  "caps_applied": [],
+  "pre2024_status": "2023 capture readable, no software wording - weak +10, cap-45 lifted",
+  "evidence": [
+   "ISO 9001, 27001 and 20000 certified",
+   "Industrial AI and enterprise software for asset-intensive workflows",
+   "Partner ecosystem featuring Fortune 500 companies",
+   "Blog page live but empty: no articles found"
+  ],
+  "why": "Certifications plus enterprise-software positioning corroborate a light Tier C, but there is no careers JD, repo or any engineering-process evidence.",
+  "changed_from_previous": "Skip 20 -> Skip 30, GOLD weak +10 added"
+ },
+ {
+  "name": "IT Infrastructure Park Private Limited",
+  "domain": "crcgroup.in",
+  "score": 0,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 0,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no pre-2024 software evidence cap 45"
+  ],
+  "pre2024_status": "Pre-2024 snapshot is real-estate portfolio",
+  "evidence": [
+   "Snapshot quote is a housing portfolio: 'Happy Homes', 'Sublimis'",
+   "Director bio covers leasing and growth, not engineering",
+   "Real-estate developer despite the 'IT Park' company name",
+   "No VCS org or npm packages found"
+  ],
+  "why": "The pre-2024 flag fires on a real-estate project portfolio, not software; this is a property developer."
+ },
+ {
+  "name": "Ixsight Technologies Pvt Ltd",
+  "domain": "ixsight.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2007, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "Owns AML and location-intelligence products; 'the best use our products'",
+   "Banking, insurance, government clients; case studies and demos",
+   "Careers page exists but no process or tooling detail",
+   "No ISO/SOC claim, no CI/CD, no repo found"
+  ],
+  "why": "A genuine long-lived data/AML product firm, but Tier C positioning cannot fire without any Tier A/B corroboration, so it stays at the weak GOLD floor.",
+  "changed_from_previous": "Skip 10 -> Skip 10, cap-45 lifted (was non-binding)"
+ },
+ {
+  "name": "Jones Lang LaSalle Property Consultants (India) Private Limited",
+  "domain": "jll.co.in",
+  "score": 0,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 0,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no pre-2024 software evidence cap 45"
+  ],
+  "pre2024_status": "Pre-2024 snapshot is real-estate services",
+  "evidence": [
+   "All six pages reached, zero signal excerpts extracted",
+   "2023 snapshot quote is tenant representation and portfolio management",
+   "Real-estate services firm, not a software vendor",
+   "No VCS org or OSS packages found"
+  ],
+  "why": "Property consultancy; the pre-2024 hit describes real-estate services, and six fetched pages produced no engineering signal."
+ },
+ {
+  "name": "Kalpatharu Software Limited",
+  "domain": "kalsofte.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "verified: 2021 capture advertises software development",
+  "evidence": [
+   "2021 snapshot: 'leading Software Development Company from Coimbatore'",
+   "Wayback history back to 2007",
+   "Blog, about and team pages reached; no engineering content",
+   "No careers JD, no repo, no CI/CD, no certifications"
+  ],
+  "why": "Pre-2024 software delivery is now proven, but the site carries zero engineering-process signal beyond that.",
+  "changed_from_previous": "Skip 10 -> Skip 25, GOLD now verified"
+ },
+ {
+  "name": "Kenvue Solutions India Private Limited",
+  "domain": "kenvue.com",
+  "score": 0,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 0,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "no pre-2024 software evidence cap 45"
+  ],
+  "pre2024_status": "Pre-2024 snapshot is consumer products",
+  "evidence": [
+   "2023 snapshot quote is about consumer-product safety testing",
+   "Careers copy is generic 'agile, dedicated teams'",
+   "Consumer-health company, not a software vendor",
+   "No VCS org; blog and team pages absent"
+  ],
+  "why": "Consumer-health manufacturer; the pre-2024 'product' evidence is physical goods, and no engineering signal exists."
+ },
+ {
+  "name": "KLoc Technologies Private Limited",
+  "domain": "kloctechnologies.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [
+   "generalist-agency cap 30",
+   "template/website shop -15"
+  ],
+  "pre2024_status": "Verified: 2023 snapshot showed client portfolio",
+  "evidence": [
+   "Homepage: 'Shopify Experts, Website Development & SEO Agency'",
+   "'Our websites go beyond cookie-cutter templates' (DQ_template)",
+   "2023 snapshot shows pre-2024 client portfolio (wayback)",
+   "No VCS org; no blog or team page reached"
+  ],
+  "why": "Self-declared Shopify/SEO website agency; the generalist-agency cap and template-shop penalty wipe out its verified pre-2024 portfolio."
+ },
+ {
+  "name": "Kreeti Technologies Private Limited",
+  "domain": "kreeti.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Verified: 2023 snapshot 'custom application development'",
+  "evidence": [
+   "2023 snapshot: 'Custom Application Development Company' (wayback)",
+   "Homepage: Ruby on Rails, Elixir, Phoenix, ReactJS delivery",
+   "Testimonial: five years of agile Rails services for client",
+   "Careers page reached but no git/PR/CI/code-review mention"
+  ],
+  "why": "Verified pre-2024 custom-application shop with a credible stack, but no repo, blog or hiring language evidencing review practice."
+ },
+ {
+  "name": "Kryptos Technologies Private Limited",
+  "domain": "kryptostech.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 15,
+  "tier_c_points": 10,
+  "caps_applied": [
+   "managed-IT-services core cap 20"
+  ],
+  "pre2024_status": "Verified: 2022 snapshot showed Azure case studies",
+  "evidence": [
+   "Homepage: 'Your Trusted MSP for all IT & Business needs'",
+   "Cloud page: containers, microservices, continuous integration/delivery",
+   "2022 snapshot shows pre-2024 Azure case studies (wayback)",
+   "36 'compliance' hits are GDPR cookie-banner text, not certifications"
+  ],
+  "why": "Genuine CI/CD language and pre-2024 delivery history, but a managed-IT-services core business caps the total at 20."
+ },
+ {
+  "name": "Lattice Semiconductor (India) Private Limited",
+  "domain": "latticesemi.com",
+  "score": 48,
+  "band": "Skip",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 10,
+  "tier_b_points": 0,
+  "tier_c_points": 13,
+  "caps_applied": [],
+  "pre2024_status": "Verified: 2023 snapshot listed products and software",
+  "evidence": [
+   "2023 snapshot lists Products: Programmable Logic, Software (wayback)",
+   "Blog: Lattice experts' DO-254 avionics compliance webinar",
+   "Owns FPGA products and Solution Stacks (owns_product)",
+   "No VCS org; blog posts not about code review or CI"
+  ],
+  "why": "Verified pre-2024 product line plus real technical talks, but it is a hardware/FPGA vendor with no PR-workflow evidence; two points short of Secondary."
+ },
+ {
+  "name": "Lester Infoservices Private Limited",
+  "domain": "lesterinc.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "Pre-2024 site, no software mention",
+  "evidence": [
+   "Four pages reached, zero signal excerpts extracted",
+   "Pre-2022 snapshot without software mention (wayback)",
+   "Careers and team pages present but no engineering detail",
+   "No VCS org or OSS packages found"
+  ],
+  "why": "Site is silent on how work is built; only pre-2024 existence can be inferred."
+ },
+ {
+  "name": "LinkedIn Technology Information Private Limited",
+  "domain": "in.linkedin.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "caps_applied": [],
+  "pre2024_status": "site live since 2009, 2023 capture had no software wording - weak +10",
+  "evidence": [
+   "Scrape captured social-feed posts, not a company engineering site",
+   "QA/product hits are third-party feed content (AMD, Figma)",
+   "No careers, tech or process page for the India entity",
+   "No repo, CI/CD or code-review evidence"
+  ],
+  "why": "The bundle is public-feed noise rather than a company site, so nothing above the weak GOLD floor can be substantiated.",
+  "changed_from_previous": "Skip 10 -> Skip 10, no change"
+ }
+]

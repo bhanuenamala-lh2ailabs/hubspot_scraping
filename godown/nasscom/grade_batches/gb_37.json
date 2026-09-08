@@ -1,0 +1,899 @@
+[
+ {
+  "name": "Hazel Mercantile Limited",
+  "city": "Mumbai",
+  "domain": "hazelinfotech.com",
+  "website": "http://www.hazelinfotech.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 7
+  },
+  "site_quotes": {
+   "qa": [
+    "Jest to rejestracja nowej domeny i adres email abonenta nie został jeszcze zweryfikowany.",
+    "Jeśli jesteś właścicielem tej domeny, możesz ją reaktywować Il dominio è stato sospeso .",
+    "Jeśli nie jesteś pewien, jaki to jest adres email, zaloguj się na swoje konto u rejestratora domen, u którego utrzymujesz tę domenę.",
+    "Prosimy zaktualizowaæ dane WHOIS, wprowadzaj¹c kompletne i dok³adne dane abonenta poprzez panel administracyjny rejestratora domeny."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "HERE Solutions India Private Limited (HERE Technologies)",
+  "city": "Navi Mumbai",
+  "domain": "here.com",
+  "website": "https://www.here.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ontent Why HERE Our platform Our platform Platform overview Our products Maps & Data Maps & Data Dynamic Map Content Map Data Maps for ADAS & HAD Loca"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 6617,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Flexibility Differentiate your products and services.",
+    "HERE HERE Why HERE Our products Solutions Get started Learn About Contact us Here autocomplete Why HERE Our products Solutions Get started Learn About Careers Join our team Be part of our mission to shape the future of location technology.",
+    "They translate complex technology into meaningful solutions, build lasting partnerships and ensure our products deliver measurable impact for customers globally."
+   ],
+   "sdlc": [
+    "Flexi Work Options HERE Flexi Work Options strives to optimize individual and team productivity with a hybrid working model that supports agile innovation, true collaboration and inspiring leadership."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Heuristics Informatics Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "hipl.co.in",
+  "website": "https://hipl.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ecialty Services (Oracle DAM) Product Development Solutions Case Studies Careers Blog Contact Us Menu Home About Us Services Cloud Services ERP Soluti"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 22852,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 1,
+   "sdlc": 11,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Synergizing Technologies Know More With 30 years of leadership in product engineering, business modernization and enterprise digital transformation, Heuristics Informatics Pvt Ltd."
+   ],
+   "sdlc": [
+    "From legacy product migration, smart data-driven decisions, to cloud services and DevOps as a Service, HIPL provides quicker time-to-market, agile IT solutions, and uncompromised security of your data.",
+    "With over 2 decades of serving a global audience, providing agile IT services & solutions, and a portfolio replete with star studded projects, we deliver customer satisfaction on priority.",
+    "For career opportunities and human resource inquiries please contact us at: careers@hipl.co.in Coming Soon Coming Soon Coming Soon Try our agile and intelligent subscription based solutions for automation and integration of business processes.",
+    "How Cloud Infrastructure Drives Enterprise Impact April 10, 2026 Why Identity and Access Management Is Critical for AI Governance March 6, 2026 Try our agile and intelligent subscription based solutions for automation and integration of business processes."
+   ],
+   "owns_product": [
+    "Our SaaS products are cloud based solutions that are scalable and seamlessly integrate with other SaaS solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Hexaware Technologies Ltd",
+  "city": "Navi Mumbai",
+  "domain": "hexaware.com",
+  "website": "https://hexaware.com:443/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 20029,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "senior_roles": 1,
+   "DQ_agency": 1,
+   "enterprise": 5,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Gain fresh insights into your processes to identify and resolve points of friction, leading to improved productivity and a better user experience."
+   ],
+   "senior_roles": [
+    "Case Study Accelerating IT Transition with Generative AI SMEs Discover how a fintech leader leverages Hexaware’s Generative AI platform to simplify IT transitions, reduce SME reliance, and accelerate onboarding with AI-powered insights."
+   ],
+   "DQ_agency": [
+    "Case Study Gen AI-Generated Product Descriptions Boost SERP by 25%, Conversion Rate by 20% Hexaware’s GenAI solution streamlined product descriptions for a global wholesaler, boosting SEO, accuracy, and engagement while delivering tailored retail IT solutions for improved discovery and sales."
+   ],
+   "enterprise": [
+    "Case Study Co-engineering World's First Industry Data Sciences Cloud with Amaze® for Data & AI We co-engineered the first healthcare industry data sciences cloud with Amaze® for Data & AI, revolutionizing healthcare data management.",
+    "Case Study Transforming Healthcare Vulnerability Data Management Analytics with Microsoft Fabric Discover how a Global Clinical Research Organization (CRO) transformed its vulnerability management system with Microsoft Fabric.",
+    "Next Previous AI-native Contact Centers for Your Industry Banking and Financial Services Accelerate customer service by intelligently automating everyday interactions, such as balance checks, fraud alerts, and card servicing, while ensuring faster, compliant escalation for complex cases.",
+    "Insurance Simplify claims, optimize policy servicing, and reduce customer effort across high-volume processes like premium inquiries, first notice of loss (FNOL), and coverage checks."
+   ],
+   "compliance": [
+    "Healthcare Providers and Payers Optimize patient access and member services by automating benefit verification, appointment scheduling, and prior authorization status checks with Health Insurance Portability and Accountability Act (HIPAA)-compliant workflows."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "HICS Technologies India Private Limited",
+  "city": "Hyderabad",
+  "domain": "hics.com.sg",
+  "website": "https://hics.com.sg/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 5843,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 11
+  },
+  "site_quotes": {
+   "enterprise": [
+    "HICS - Leading Healthcare Solutions Provider Home Why HICS?",
+    "2015 We make SAP work for you Leading the digital transformation in Singapore's healthcare sector and beyond, delivering cutting-edge solutions for tomorrow's challenges.",
+    "98% Client Satisfaction 50+ Deployments 24/7 Support Our Journey The HICS Story HICS was founded in 2015 with a clear vision: to revolutionize healthcare IT in Singapore.",
+    "Initially focusing on SAP healthcare implementations across public and private sector hospitals, we've grown to become a comprehensive technology solutions provider."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Himadi Solutions Pvt Ltd",
+  "city": "New Delhi",
+  "domain": "himadi.com",
+  "website": "https://himadi.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 3559,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Industries we serve include Agriculture, Construction, Education, Finance, Healthcare, Hospitality, FMCG, NBFCs, Manufacturing, Public sector, IT Service, SMEs, Travel, Hotel and Tourism."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Hiresafe Verification Services India Private Limited",
+  "city": "Bengaluru",
+  "domain": "hiresafe.co.in",
+  "website": "https://www.hiresafe.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "uru, Karnataka-560030 [email protected] web:www.hiresafe.in OUR WORKS Copyright © 2017 HireSafe Employment Services All Rights Reserved × Confirmation"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Hoonar Tekwurks Private Limited",
+  "city": "Pune",
+  "domain": "hoonartek.com",
+  "website": "https://hoonartek.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ons Hoonartek is a market leader – offering a comprehensive portfolio of lending services from Loan Origination to Collections. Our industry-skilled a"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 75492,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "prod_eng": 3,
+   "DQ_template": 1,
+   "sdlc": 2,
+   "qa": 2,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Hoonartek focuses on these three areas to help organizations make better decisions and execute them reliably in complex, regulated environments.",
+    "BFSI Telecom Manufacturing Decisions that must be governed, explainable, and compliant.",
+    "Explore BFSI Execution at scale, without disruption ClearView™ supports decision-making across high-volume, distributed telecom environments, enabling insights to move reliably through networks, systems, and operations.",
+    "Hoonartek Skip to content ClearView ClearView Overview ClearView for BFSI ClearView™ Activate Clearview for Telecom ClearView™ Governance Clearview for Manufacturing Agentic Readiness Calculator Turn Enterprise Data into Intelligent Decisions Unify data, AI, and governance into a single decision layer with ClearView™."
+   ],
+   "prod_eng": [
+    "How We Deliver Digital Product Engineering Services for Modern Systems Build scalable applications, modernize legacy platforms, and integrate enterprise systems to deliver reliable digital experiences.",
+    "Platform and product engineering Design and develop digital products and enterprise platforms that support scalable and user-centered applications.",
+    "Migration and cloudification Cloud-native applications Replatforming Delivery governance and engineering excellence Establish structured delivery practices that ensure consistent engineering standards, program visibility, and governance."
+   ],
+   "DQ_template": [
+    "Concept to prototype frameworks UX validation templates MUP minimal usable product Cloud and modernization Modernize legacy applications and transition systems to cloud architectures that support scalability and operational flexibility."
+   ],
+   "sdlc": [
+    "Agile and Scrum Senior oversight Governance cadence API and integration engineering Enable seamless communication between applications and platforms through modern APIs and integration architectures.",
+    "Agile, hybrid, or traditional methods are applied based on context, with a consistent emphasis on reliability, quality, and continuity so outcomes hold up over time."
+   ],
+   "qa": [
+    "API-driven economy Data platform integrations Connectors Microservices Quality and reliability Ensure applications and digital platforms operate reliably through structured testing and quality engineering practices.",
+    "Automated testing Continuous QA Industrialized delivery pipelines DevOps and engineering pipelines Enable continuous integration, delivery, and system reliability across enterprise platforms."
+   ],
+   "cicd": [
+    "Automated testing Continuous QA Industrialized delivery pipelines DevOps and engineering pipelines Enable continuous integration, delivery, and system reliability across enterprise platforms.",
+    "CI/CD pipelines and release orchestration Infrastructure automation and environment management Monitoring, logging, and system observability Full stack engineering Design, develop, and manage end-to-end applications across front-end, backend, databases, and deployment environments to deliver scalable digital solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Hope Foundation and Research Centre",
+  "city": "Pune",
+  "domain": "isquareit.ac.in",
+  "website": "https://isquareit.ac.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "c) Professional Postgraduate Program in Data Warehousing and Business Intelligence for BFSI Program Code PPGP-DW Program Duration 11 Months Academic Session/s 2008-09 Program Structure / Leaflet View For more details, please refer to the Academic Brochure / Program Leaflet in the Student Corner (Downloads) tab."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "HP Services",
+  "city": "Hyderabad",
+  "domain": "hpverification.com",
+  "website": "https://www.hpverification.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "HTC Global Services (India) Pvt Ltd",
+  "city": "Chennai",
+  "domain": "htcinc.com",
+  "website": "https://www.htcinc.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 87626,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 10,
+   "owns_product": 3,
+   "DQ_training": 1,
+   "sdlc": 4,
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "We deliver tailored solutions that propel your business into the future Banking, Financial Services & Insurance The Premier IT Transformation Partner for the Insurance Industry.",
+    "We modernize core banking, automate insurance claims & underwriting, and simplify risk & compliance.",
+    "Know more Healthcare Experts in Healthcare Transformation for Hospitals and Provider Networks.",
+    "We power data-driven healthcare transformation for providers and payers."
+   ],
+   "owns_product": [
+    "Know more Accelerate value with our IPs and accelerators Achieve more—faster, better, and at lower cost—with our solutions HTC MAiGE − Unlock the full potential of your data with HTC MAiGE—our modular, enterprise-ready AI platform built to accelerate innovation.",
+    "“GCC-as-a-Service” Approach + Covers setup to transformation, backed by accelerators and outcome-based pricing models.",
+    "Tech-Led Acceleration + MAiGE accelerators (DataWorks, GenAI Studio, NeuralNest, OmniDev) for rapid transformation."
+   ],
+   "DQ_training": [
+    "I think HTC is the place to be.” Arun Kumar VC Vice President Employee Speak HTC is an excellent place to work and also provides several learning opportunities (online training sessions, webinars, cross-functional training, peer coaching and much more)."
+   ],
+   "sdlc": [
+    "Building Smarter Foundations: Modular, Scalable, AI-Infused Engineering AI-Driven Development Automation AI-Driven Development Automation Automate the entire SDLC using AI to reduce manual effort, accelerate delivery, and improve productivity.",
+    "Composable API-First Architectures Composable API-First Architectures Build scalable, modular systems using APIs and microservices for agile integration and cross-channel delivery.",
+    "Driving Business Velocity with Optimized Digital Commerce Faster Time-to-Market AI-led automation streamlines SDLC and accelerates delivery timelines by up to 40%.",
+    "Leverage our Labs, CoEs and access educational institutions partnerships GCC Innovate Service USP Glass-Box Model − Transparent delivery with co-staffed agile teams and client-prioritized user stories."
+   ],
+   "prod_eng": [
+    "With a proven “GCC-as-a-Service” model, we empower clients to set up, scale, and transform their centers into strategic hubs for product engineering, AI-led innovation, data excellence, and operational efficiency—across diverse industries and geographies."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Hughes Systique Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "hsc.com",
+  "website": "https://www.hsc.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "tecture Product Ideation Technology Selection System Design Product Engineering Services IoT Sensors Gateways Applications Application Enablement Plat"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 2,
+   "owns_product": 5,
+   "cicd": 3,
+   "DQ_bpo": 1,
+   "sdlc": 4,
+   "senior_roles": 3,
+   "compliance": 1,
+   "DQ_training": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Find out what's new Accelerated GTM for Digital Enterprises Accelerated GTM for Digital Enterprises HSC’s AI-powered accelerators enable accelerated product engineering, smarter operations and faster rollout of next-generation applications across markets.",
+    "HSC’s AI-powered accelerators enable accelerated product engineering, smarter operations and faster rollout of next-generation applications across markets."
+   ],
+   "owns_product": [
+    "Find out what's new Accelerated GTM for Digital Enterprises Accelerated GTM for Digital Enterprises HSC’s AI-powered accelerators enable accelerated product engineering, smarter operations and faster rollout of next-generation applications across markets.",
+    "HSC’s AI-powered accelerators enable accelerated product engineering, smarter operations and faster rollout of next-generation applications across markets.",
+    "We decided to work with HSC over other similar organizations because of their talented staff, ready components and solution accelerators that helped us get to market faster and overall stability.",
+    "The offerings include software-based solution development, ready-to-go innovative solutions, accelerators , and managed services across several market verticals."
+   ],
+   "cicd": [
+    "Take a look AI-Driven Application Development & Maintenance AI-Driven Application Development & Maintenance Build, modernize, and sustain applications through intelligent automation and continuous delivery.",
+    "Build, modernize, and sustain applications through intelligent automation and continuous delivery.",
+    "Read More --> Leadership Team Hughes Systique is helmed by industry stalwarts who have proven their mettle in the business..."
+   ],
+   "DQ_bpo": [
+    "Call Centre Analysis Automate customer support handling with GenAI-powered contextual awareness."
+   ],
+   "sdlc": [
+    "Being in the forefront of a fast-moving market, we needed a vendor who was experienced, fast and agile.",
+    "What is Agile product lifecycle management?",
+    "Agile product development is a flexible approach that focuses on the agility and continuous improvement of the product lifecycle spanning from the development to the decline phase."
+   ],
+   "senior_roles": [
+    "VP Engineering LTE/4G communications software provider We utilized HSC to assist with developing applications for both iOS and Android.",
+    "Engineering Manager Leading Test and Measurement OEM We have been working with HSC for the past 3.5 years and just completed a cutting-edge R&D project for 5G.",
+    "VP Engineering LTE/4G communications software provider We have fruitful history of co-operation with HSC in developing cutting edge communication solutions."
+   ],
+   "compliance": [
+    "Read More --> Quality Hughes Systique (HSC) is a CMMI Level 5 Version3.0 DEV+SVC+People, ISO 9001:2015, ISO 27001:2022 and..."
+   ],
+   "DQ_training": [
+    "End-of-Life (EOL) Support : An EOL strategy helps clients manage the transition as products sunset, ensuring adequate support and replacement options."
+   ],
+   "DQ_support": [
+    "This could involve assessing current systems, recommending specific hardware/software, overseeing integration, and training staff."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Human Factors International Private Limited",
+  "city": "Mumbai",
+  "domain": "humanfactors.com",
+  "website": "https://www.humanfactors.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ning Thinking About Overview Profile Executive Team Clients Case Studies Awards Careers Contact Influence the Future With serious CX / UX engineering"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 11604,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 15
+  },
+  "site_quotes": {
+   "enterprise": [
+    "And so as we work in our field, we might be just redefining the way a banking system works, or a medical device works.",
+    "And so whatever it is that you're working on, whatever it is you deliver – it may be a consumer product, it may be something about the way people work in your operation, it may be a software system, a financial system, a banking system, it may be insurance… all those things will change.",
+    "We’ve delivered over $256,000,000 in CX work for Fortune 500 clients.",
+    "We've been consulting and training since 1981, and have numerous clients across Banking, Telecom, Retail, Medical, Entertainment, Government, and Education."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "HummingWave Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "hummingwave.com",
+  "website": "https://hummingwave.com",
+  "already_in_hubspot": true,
+  "headcount_known": 75,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "HummingWave - Product Development | Solution Design | Custom Software Development | Mobile Applications | iOS | Android | Bangalore | India We a"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "enterprise": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Read our Medical Coding AI Case Study Trusted by 50+ Businesses Worldwide We've got your back from Conceptualization to Product Launch Research We conduct in-depth market research and user analysis to understand your target audience and industry landscape, informing your product strategy.",
+    "Support We provide help and upkeep to keep your product running smoothly after it's launched."
+   ],
+   "enterprise": [
+    "It has built IT products for 50+ digital and enterprise products in EV, fintech, logistics, healthcare, CRM, content management, supply chain management, social, and e-commerce for clients across the US, Europe and the Asia-Pacific."
+   ],
+   "sdlc": [
+    "Amit S Founder & CEO Sandeep Koul Co-Founder Vani Singh President Our Values How we work at HummingWave Our shared values keep us connected and guide us as one team."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "HyTech Professionals India Pvt Ltd",
+  "city": "Noida",
+  "domain": "hytechpro.com",
+  "website": "http://www.hytechpro.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1220,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "owns_product": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Insurance and Finance Media and Event Travel and Hospitality Healthcare E-Commerce and Retail E-Learning and Education --> Looking For Best-Fit Solution For Your Business?"
+   ],
+   "owns_product": [
+    "Our experts interlace components of seamless application and infrastructure through tools, methodologies, accelerators and solutions."
+   ],
+   "senior_roles": [
+    "The customized solution architecture is flexible, less-complex, and highly manageable allowing organizations to have more share of loyalty, trust and wallet and customers to avail comprehensive services they can swear by."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "I-Gizmo Global Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "igtech.io",
+  "website": "https://igtech.io/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 26412,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "IBI Group India Private Limited",
+  "city": "Gurugram",
+  "domain": "arcadis.com",
+  "website": "https://www.arcadis.com/en",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Idam Infrastructure Advisory Private Limited",
+  "city": "Mumbai",
+  "domain": "idaminfra.com",
+  "website": "https://www.idaminfra.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2013-03-22",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2502,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our Mission Our Vision Core Values and Beliefs Our Mission Our mission is to enable a carbon minimal world through our products and services."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ideabytes Software India Private Limited",
+  "city": "Hyderabad",
+  "domain": "ideabytes.com",
+  "website": "https://ideabytes.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2003-08-04",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 3,
+   "DQ_support": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "IoT Hardware & Software Solutions Test Automation Software/Services DG/HAZMAT Shipping Software Solutions Security & Penetration Testing --> App/System Development Why Choose Ideabytes?",
+    "Bilage --> --> Blog and Latest News Focused on delivering Efficiency & Quality Serving diverse Business Verticals How Smart Devices are Revolutionizing Agriculture Discover More --> How to Future Proof Your Test Automation Strategy Discover More What are the Benefits of Software Test Automation for Corporations?",
+    "Discover More Why Should Test Automation – be an afterthought?"
+   ],
+   "DQ_support": [
+    "IoT Hardware & Software Solutions Test Automation Software/Services DG/HAZMAT Shipping Software Solutions Security & Penetration Testing --> App/System Development Why Choose Ideabytes?"
+   ],
+   "owns_product": [
+    "Once again, I want to thank you for your product and quick customer support.\" - VIRGINIJUS NAVICKAS - IOS USER - \" I really like the app."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Idox India Private Limited",
+  "city": "Pune",
+  "domain": "idoxgroup.com",
+  "website": "https://www.idoxgroup.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2002-11-05",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 544828,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

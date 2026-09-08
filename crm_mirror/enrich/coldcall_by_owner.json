@@ -1,0 +1,1124 @@
+{
+ "Shobit Gupta": [
+  {
+   "id": "337264332509",
+   "name": "The Modern Data Company",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337276931833",
+   "name": "Reliance Intelligence",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337255327440",
+   "name": "PW (PhysicsWallah)",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337267937988",
+   "name": "Autopilot Growth",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337280518851",
+   "name": "Secure Traces",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337280518853",
+   "name": "Vymo",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337343869635",
+   "name": "Traya",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337262534370",
+   "name": "Kambaa Inc",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337266135787",
+   "name": "Cendyn",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337290052296",
+   "name": "ABB",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337275125470",
+   "name": "Paytm",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337342087908",
+   "name": "InovarTech",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337297247944",
+   "name": "Zingle AI Lab",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337291845340",
+   "name": "Cars24",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337302660814",
+   "name": "Keychain",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337320816369",
+   "name": "Sahi",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337304448743",
+   "name": "Headout",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337293653726",
+   "name": "PAR Technology",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337343870676",
+   "name": "Asort.com",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337342088920",
+   "name": "Enphase Energy",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337275126486",
+   "name": "Equations Work",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337262537423",
+   "name": "WebEngage",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339311937231",
+   "name": "Metalstreet",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339219976923",
+   "name": "Vah Vah",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339341259505",
+   "name": "10Club",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339202035437",
+   "name": "BigPhi",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339310003916",
+   "name": "Welly",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339227216616",
+   "name": "The Woman's Company",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339350244038",
+   "name": "Savart",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339379982070",
+   "name": "Galaxycard",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339350244043",
+   "name": "BillMart",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339360611032",
+   "name": "Finbingo",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339258840794",
+   "name": "Baselit",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339357003453",
+   "name": "Humalect",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339350244049",
+   "name": "FifthTry",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339202217695",
+   "name": "Theremin",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339202217696",
+   "name": "Stupa Sports Analytics",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339343161077",
+   "name": "Saarthi Pedagogy",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339341460203",
+   "name": "Cosmofeed",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339318269638",
+   "name": "Biconomy",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339253024500",
+   "name": "Knowl",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339274929901",
+   "name": "RefreshMint",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339253034729",
+   "name": "ProfitWheel",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339253034732",
+   "name": "Doosra",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339322060493",
+   "name": "Zoko",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339310200560",
+   "name": "Kaagaz",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339322060498",
+   "name": "DigiBoxx",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339265987319",
+   "name": "FreeStand",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339227396796",
+   "name": "Truein",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339202252503",
+   "name": "Schneider Electric",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339370180313",
+   "name": "Marimo Global Technology Indonesia",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339341496036",
+   "name": "DoZe Ninja",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339352223471",
+   "name": "Jome Journey",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339202253527",
+   "name": "Stealth Startup",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339258886883",
+   "name": "Markono Group Pte Ltd",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339341498063",
+   "name": "GE HealthCare",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339281951455",
+   "name": "Software Engineer",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339370184408",
+   "name": "Allo Bank",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339221959417",
+   "name": "Handal Informasi Teknologi",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339318285006",
+   "name": "Anantarupa Studios",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339380024040",
+   "name": "PT. Adisena Mitra Usaha (Beyondtech)",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339191478007",
+   "name": "Insignia.co.id",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "340286684920",
+   "name": "Testaing",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  }
+ ],
+ "Ishpreet Sood": [
+  {
+   "id": "337319017204",
+   "name": "NICE Ltd",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337304446652",
+   "name": "ORBCOMM",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337293652684",
+   "name": "Teikametrics",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337257119468",
+   "name": "NimbleWork, INC (formerly Digité)",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337299060446",
+   "name": "Kimbal",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337291845318",
+   "name": "Capri Global Capital Ltd.",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337319019242",
+   "name": "Woolf",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337320816332",
+   "name": "Wingify",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337342087897",
+   "name": "Self-employed",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337322604231",
+   "name": "Sycamore Informatics Inc.",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337275125473",
+   "name": "Sarvam",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337343869664",
+   "name": "Altysys",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337290052312",
+   "name": "IET India",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337257120461",
+   "name": "Nielsen",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337264333541",
+   "name": "Blackboard",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337264333550",
+   "name": "HighLevel",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337257120475",
+   "name": "Suki",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337276933831",
+   "name": "Instawork",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337280518892",
+   "name": "FlexAI",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337342088923",
+   "name": "Synaptic",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "337302660839",
+   "name": "Future Focus Infotech Private Limited",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339358668503",
+   "name": "koinearth",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339274694358",
+   "name": "Infintus",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339358668505",
+   "name": "akudo",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339356862175",
+   "name": "OfficePulse",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339252808419",
+   "name": "Shiperone",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339311933148",
+   "name": "GramFactory",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339366453991",
+   "name": "ZinEdu",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339360446177",
+   "name": "Neuphony",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339221758703",
+   "name": "Anumati",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339274697448",
+   "name": "MyKaam",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339202035424",
+   "name": "Ecovia",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339351985899",
+   "name": "Cashcow",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339276497645",
+   "name": "H3 Mart",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339278206661",
+   "name": "Celebyte",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339262169832",
+   "name": "Oye Rickshaw",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339318055671",
+   "name": "BlueLearn",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339191218895",
+   "name": "Xponents",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339323508442",
+   "name": "Edyoo",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339276497649",
+   "name": "DIGITAL MALL OF ASIA",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339366654651",
+   "name": "Synapsica",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339325556466",
+   "name": "Ci4",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339341459175",
+   "name": "ENSUREDIT",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339274910397",
+   "name": "Telyport",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339348439751",
+   "name": "Chqbook",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339318247146",
+   "name": "Hypto",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339253000928",
+   "name": "LikeMinds",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339221921507",
+   "name": "Crib",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339227368122",
+   "name": "CashBook",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339274910408",
+   "name": "Ingenium",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339318247147",
+   "name": "NWORX",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339276635847",
+   "name": "Dhiway",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339322029767",
+   "name": "Refrens",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339390784240",
+   "name": "Zappyhire",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339288971984",
+   "name": "Totality Corp",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339278357218",
+   "name": "PayKun",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339381778155",
+   "name": "Craze",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339370140403",
+   "name": "Questt",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339281906393",
+   "name": "Rizort",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339258838739",
+   "name": "DcodeAI",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339262339772",
+   "name": "Retail Pulse",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339274910419",
+   "name": "Sorted AI",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339325557456",
+   "name": "CREDmitra",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339341460168",
+   "name": "SiCureMi",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339360610037",
+   "name": "Jumbaya",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339221921526",
+   "name": "Fix Health",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339191434981",
+   "name": "LightSpeedAI Labs",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339322029793",
+   "name": "StepSetGo",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339191434983",
+   "name": "FrontPage",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339352185547",
+   "name": "EdgeGrid",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339191470808",
+   "name": "TMRW House of Brands",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339230958282",
+   "name": "Albertsons Companies India",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339352218330",
+   "name": "Salesforce",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339281947366",
+   "name": "Personal Projects",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339348468437",
+   "name": "Aruba, a Hewlett Packard Enterprise company",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339325590220",
+   "name": "Snapmint",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339283540712",
+   "name": "Sayy AI",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339283540713",
+   "name": "Nucleus Software",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339283540725",
+   "name": "Toptal",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339352218352",
+   "name": "Craft Production Group",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339352218354",
+   "name": "Multiple Organizations ",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339322065635",
+   "name": "Naoki International Technologies (P) Limited",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339283541698",
+   "name": "Multiple Global Clients",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339325593294",
+   "name": "3SC ",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339366691561",
+   "name": "KlyONIX Tech",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339289010917",
+   "name": "Zepto",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339350282958",
+   "name": "API Holdings",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339350282959",
+   "name": "techjays",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339278403260",
+   "name": "Zscaler",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339370180322",
+   "name": "xaults",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339289010931",
+   "name": "Takyon Networks Limited",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339227409128",
+   "name": "Agile Robots SE",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339253043947",
+   "name": "Olyv",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339348472546",
+   "name": "Emergent",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339262376661",
+   "name": "Safe Circle",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339283543797",
+   "name": "Sapiens",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339202252536",
+   "name": "TE Connectivity",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339322072766",
+   "name": "Salesforce",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339278403283",
+   "name": "Consensys",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339366692555",
+   "name": "Cimba.ai",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339348472553",
+   "name": "Cardinal Health",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339310206671",
+   "name": "Storable",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339220185819",
+   "name": "Knoewit | The AI Unpacked",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339289012929",
+   "name": "Confidential",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339348472556",
+   "name": "NVIDIA",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339274946289",
+   "name": "KPMG",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339380024001",
+   "name": "Hiver",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339370182363",
+   "name": "Stellantis",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339366692572",
+   "name": "Kapture CX",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339276672702",
+   "name": "FSS",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339253044935",
+   "name": "ICARE - Indian Centre for Academic Rankings & Excellence",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339221959401",
+   "name": "Amazon Web Services (AWS)",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339341498050",
+   "name": "Graphon AI",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339323705075",
+   "name": "CLOUDSUFI",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339318284986",
+   "name": "Cisco",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  },
+  {
+   "id": "339310206711",
+   "name": "Surge Classes",
+   "pipeline": "Campaign",
+   "stage": "4002503379"
+  }
+ ],
+ "Ashish Ranjan": [
+  {
+   "id": "339278206672",
+   "name": "Tiny Mighty",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339258676956",
+   "name": "FlashPrep",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339265955560",
+   "name": "EsportsXO",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339341460211",
+   "name": "Luru",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339281907395",
+   "name": "Mooving",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339220149971",
+   "name": "Breathe ESG",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  },
+  {
+   "id": "339341460215",
+   "name": "Preimage",
+   "pipeline": "Scraped",
+   "stage": "3992480462"
+  }
+ ]
+}

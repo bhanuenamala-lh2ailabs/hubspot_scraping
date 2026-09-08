@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Dev Information Technology Limited",
+    "domain": "devitpl.com",
+    "score": 85,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 40,
+    "tier_b_points": 25,
+    "tier_c_points": 10,
+    "raw_before_caps": 85,
+    "caps_applied": [],
+    "pre2024_basis": "UNKNOWN - no Wayback snapshot and no RDAP record; missing, not absent",
+    "evidence": [
+      "JD: 'Azure DevOps for code repository, branching, CI/CD pipelines'",
+      "JD: 'Familiar with Jira and Bitbucket' - second private host",
+      "JD: 'Conduct code reviews and provide feedback to ensure code quality'",
+      "Site/about: ISO 27001 ISMS certification claimed"
+    ],
+    "why_this_rank": "Pre-2024 evidence is missing rather than absent - no snapshot, no RDAP - for a 970-person Ahmedabad firm whose JDs are the deepest in the batch (170k chars); with a snapshot this would sit at 100. Some managed-IT/infrastructure flavour (Cloud Administrator roles, hardware evaluation lines) but no SEO/PPC/helpdesk bundling was found, so the generalist-agency cap was deliberately not applied."
+  },
+  {
+    "name": "RITWIK IT Services Private Limited",
+    "domain": "ritwikinfotech.com",
+    "score": 60,
+    "band": "Secondary",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 25,
+    "tier_b_points": 25,
+    "tier_c_points": 0,
+    "raw_before_caps": 60,
+    "caps_applied": [],
+    "pre2024_basis": "DOMAIN_ONLY - domain registered 2015-11-25, proves ownership not software work",
+    "evidence": [
+      "JD: 'Conduct code reviews and enforce development standards'",
+      "JD: Azure DevOps named only inside a CI/CD tool list",
+      "JD: 'Working knowledge of Git (command-line) and GitLab for source control'",
+      "JD: test-automation framework roles - Selenium, Cucumber, Python/Java"
+    ],
+    "why_this_rank": "Tier A halved to 25: the sole private-host hit is 'CI/CD pipelines (Azure DevOps, Jenkins, GitHub Actions, etc.)' - a pipeline tool list, not a statement about where code lives. Tier C withheld because only one positioning family was credible (reusable test accelerators inside a JD), and the rubric requires two co-occurring. Domain age is the only pre-2024 basis, which is a gate, not merit."
+  },
+  {
+    "name": "Vrize India Private Limited",
+    "domain": "vrize.com",
+    "score": 90,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 40,
+    "tier_b_points": 25,
+    "tier_c_points": 15,
+    "raw_before_caps": 90,
+    "caps_applied": [],
+    "pre2024_basis": "DOMAIN_ONLY - domain registered 2014-02-10, no snapshot of software wording",
+    "evidence": [
+      "JD tech stack: 'GitLab, Bitbucket' listed under Version Control & CI/CD",
+      "JD: 'Participate in code reviews, design discussions, and agile ceremonies'",
+      "JD: 'full life cycle implementations for large, enterprise clients'",
+      "Site: quality engineering practice - QA architects, performance engineers"
+    ],
+    "why_this_rank": "Reaches Priority on JD evidence alone: Bitbucket named under an explicit 'Version Control' heading plus a code-review gate. The pre-2024 basis is only a 2014 domain registration, which proves somebody owned the name and nothing about software - so the placement should be read as JD-driven, not age-driven."
+  },
+  {
+    "name": "Krish Software Services (India) Private Limited",
+    "domain": "krishservicesgroup.com",
+    "score": 100,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 40,
+    "tier_b_points": 45,
+    "tier_c_points": 0,
+    "raw_before_caps": 110,
+    "caps_applied": ["Cap total at 100"],
+    "pre2024_basis": "PROVEN - 2022-06 snapshot advertising 'ROBUST, SCALABLE AND ADVANCED SOFTWARE SOLUTIONS', founded 2011",
+    "evidence": [
+      "JD: 'Branching strategies, pull requests, peer reviews and merge-conflict resolution'",
+      "JD: 'CI/CD implementation using Azure DevOps Pipelines'",
+      "Site: SOC 2 Type 2 compliant and ISO 27001 certified",
+      "JD: SonarQube named among enforced quality tooling"
+    ],
+    "why_this_rank": ""
+  },
+  {
+    "name": "CaliberFocus Business Solutions Private Limited",
+    "domain": "caliberfocus.com",
+    "score": 83,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 40,
+    "tier_b_points": 15,
+    "tier_c_points": 18,
+    "raw_before_caps": 83,
+    "caps_applied": [],
+    "pre2024_basis": "UNKNOWN - no snapshot and no RDAP; site claims '10+ Years of Expertise' uncorroborated",
+    "evidence": [
+      "JD: 'Manage code reviews, architecture decisions, and system integrations'",
+      "JD: 'Agile methodologies and tools like Azure DevOps for project tracking'",
+      "Site: '80+ Enterprise Clients', owns healthcare RCM coding platform",
+      "JD: CI/CD, Docker, Kubernetes across AWS/Azure/GCP"
+    ],
+    "why_this_rank": "Pre-2024 evidence is missing rather than absent, and that matters more here than elsewhere: the entire site reads as AI-era positioning (LLM pipelines, copilots, self-hosted inference), so a human-authored pre-2024 codebase is unproven. Full Tier A was a judgement call - Azure DevOps appears as tracking/CI tooling rather than a repo, but across six mentions alongside six separate code-review lines. HIPAA credit withheld: it describes platforms they build for clients, not their own audited change control."
+  },
+  {
+    "name": "Nelito Systems Private Limited",
+    "domain": "nelito.com",
+    "score": 100,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 40,
+    "tier_b_points": 35,
+    "tier_c_points": 20,
+    "raw_before_caps": 120,
+    "caps_applied": ["Cap total at 100"],
+    "pre2024_basis": "PROVEN - 2023-06 snapshot advertising 'Software Solutions for Banks & Financial Services'",
+    "evidence": [
+      "JD: 'Gitflow, branching strategies, pull requests, and code review processes'",
+      "JD: 'Git ... platforms such as GitHub, Azure Repos, GitLab, or Bitbucket'",
+      "Site: CMMI Level 3 organisation, 30+ years, 600 professionals",
+      "Site: owns Fincraft core banking and ILMS products"
+    ],
+    "why_this_rank": "Nelito runs a BPO and manpower division (a division head is named on the team page), which would trigger the cap-at-20 if BPO were the core. It plainly is not - core banking products, 480+ BFS clients and CMMI L3 dominate - so the cap was deliberately not applied. Digital-marketing wording comes from a product-marketing JD, not from services sold, so no agency cap either."
+  },
+  {
+    "name": "Source Fuse Technologies India Pvt Ltd",
+    "domain": "sourcefuse.com",
+    "score": 100,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 40,
+    "tier_b_points": 35,
+    "tier_c_points": 18,
+    "raw_before_caps": 118,
+    "caps_applied": ["Cap total at 100"],
+    "pre2024_basis": "PROVEN - 2023-06 snapshot advertising 'Product Engineering ... Internal Software & Systems'",
+    "evidence": [
+      "JD: 'Expertise in Azure DevOps (Pipelines, Repos, Boards)'",
+      "JD: 'code review processes and automated quality checks (Lint, SonarQube)'",
+      "JD: QA engineer owns 'release sign-off quality gates' across microservices",
+      "Site: owns ARC framework, ARC SaaS control plane, ARGUS QA agent"
+    ],
+    "why_this_rank": "Numbers place it cleanly, but one acquisition-relevant note the score cannot carry: their flagship ARC accelerator is advertised as an 'open-source rapid deployment framework', so part of the codebase is already public. The revised rubric scores public repos zero, so no points were added or deducted - flagging it because the thesis is buying code that has never been public."
+  },
+  {
+    "name": "MTAP Technologies Pvt Ltd",
+    "domain": "mtap.in",
+    "score": 78,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 25,
+    "tier_b_points": 25,
+    "tier_c_points": 18,
+    "raw_before_caps": 78,
+    "caps_applied": [],
+    "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 2023-02-04 but snapshot did not mention software",
+    "evidence": [
+      "JD: 'Code review of team members commits as part of CI/CD cycle'",
+      "JD: Azure DevOps named once, in a Firebase/PWA tool list",
+      "Site: owns Safetrax transport platform used by corporates, aviation, NBFC",
+      "JD: Selenium, Playwright, Appium automation; CI/CD pipeline ownership"
+    ],
+    "why_this_rank": "DQ_agency fired 24 times, the highest in the batch, but every hit comes from MTAP's own in-house marketing job ads (SEO, content campaigns, a WordPress site role) rather than services sold to clients - they are a product company, so the generalist-agency cap was not applied. Tier A halved because Azure DevOps appears exactly once, inside a tool list, even though the review-gate language ('code review ... as part of CI/CD cycle') is strong."
+  },
+  {
+    "name": "Concentrix Daksh Services India Private Limited",
+    "domain": "concentrix.com",
+    "score": 20,
+    "band": "Skip",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 40,
+    "tier_b_points": 25,
+    "tier_c_points": 20,
+    "raw_before_caps": 95,
+    "caps_applied": ["BPO / contact-centre core business - cap at 20", "Giant multinational - reject regardless of score"],
+    "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 2023-06 but snapshot did not mention software",
+    "evidence": [
+      "Site: 'Fortune 500 company', global contact-centre and BPO operations",
+      "Site: 'Previous contact center, BPO, or customer operations experience'",
+      "JD: 'Azure DevOps, GitHub, and CI/CD lifecycle concepts'",
+      "Site: call-centre team-leader roles, 16 coaching/training signals"
+    ],
+    "why_this_rank": "Rejected on instruction regardless of score: a Fortune 500 multinational with hundreds of thousands of staff - far past the giant threshold and not acquirable. Independently, contact-centre/BPO is the core business, which caps at 20 anyway. Its engineering JDs are real (Azure DevOps, code reviews), but they belong to a global parent, not a buyable Indian software firm."
+  },
+  {
+    "name": "Nihilent Limited",
+    "domain": "nihilent.com",
+    "score": 100,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 40,
+    "tier_b_points": 35,
+    "tier_c_points": 15,
+    "raw_before_caps": 115,
+    "caps_applied": ["Cap total at 100"],
+    "pre2024_basis": "PROVEN - 2023-06 snapshot advertising services, case studies and blogs dated 2019",
+    "evidence": [
+      "JD: 'Knowledge of Azure DevOps' required across multiple listings",
+      "JD: 'design patterns, code reviews, and testing methodologies'",
+      "Site: CMMI maturity level claimed; ITIL/CMMI process work",
+      "JD: Selenium/Java automation frameworks, quality gates, DevOps orchestration"
+    ],
+    "why_this_rank": "Two judgement calls. Tier A kept at 40 because Azure DevOps appears as a bare required skill in several listings, not only inside a CI/CD phrase. Compliance +10 awarded even though the crawl rendered the maturity level as a broken counter ('CMMI 0 Maturity Level') - the CMMI/ITIL wording is unambiguous, the number simply did not render. Headcount is unknown in the bundle; Nihilent is mid-size, not a >5000 giant, and is Pune-headquartered rather than a captive."
+  },
+  {
+    "name": "Digital Convergence Technologies Pune Private Limited",
+    "domain": "dctinc.com",
+    "score": 100,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 40,
+    "tier_b_points": 25,
+    "tier_c_points": 20,
+    "raw_before_caps": 110,
+    "caps_applied": ["Cap total at 100"],
+    "pre2024_basis": "PROVEN - 2023-06 snapshot advertising 'Digital Transformation Services Product Engineering Services'",
+    "evidence": [
+      "Careers: open 'Azure DevOps Engineer' role, Pune, 7+ yrs",
+      "JD: 'Experience with Git, version control systems, and code review practices'",
+      "Careers: 'QA Automation Engineer - Playwright', 6+ yrs",
+      "Site: owns DCT Vault; VP Engineering and VP Technology named"
+    ],
+    "why_this_rank": ""
+  },
+  {
+    "name": "Avaali Solutions Private Limited",
+    "domain": "avaali.com",
+    "score": 78,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 25,
+    "tier_b_points": 25,
+    "tier_c_points": 18,
+    "raw_before_caps": 78,
+    "caps_applied": [],
+    "pre2024_basis": "DOMAIN_ONLY - domain registered 2012-06-18, no snapshot of software wording",
+    "evidence": [
+      "JD: 'coding standards, code review culture, CI/CD structure' set by tech lead",
+      "JD: 'Azure DevOps or ALM' named as test-management, not repo",
+      "Site: owns AP automation product; Himalaya named client case study",
+      "JD: QA Lead role - Selenium, Appium, Robot Framework automation"
+    ],
+    "why_this_rank": "Tier A halved: the only private-host hit describes Azure DevOps as a test-management tool ('source control tools such as GIT and test management tools like Azure DevOps or ALM'), so the repo itself is never named. The DQ_template hits are false positives - 'template-less invoice processing' is a product feature and the other is MS Office document templates - so no template-shop deduction. Pre-2024 basis is domain age only, despite a 2012 registration."
+  },
+  {
+    "name": "AiRo Digital Labs India Private Limited",
+    "domain": "airodigitallabs.com",
+    "score": 90,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 25,
+    "tier_b_points": 25,
+    "tier_c_points": 15,
+    "raw_before_caps": 90,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN - 2023-06 snapshot advertising 'SaaS product engineering services - advisory to development'",
+    "evidence": [
+      "JD: 'platform governance, code reviews, architectural decisions'",
+      "JD: 'CI/CD (Azure DevOps/GitHub Actions) ... infrastructure-as-code'",
+      "Site: 'Renewed ISO 27001 certifications' in 2023 milestones",
+      "Site: BFSI, healthcare, life sciences, oil and gas case studies"
+    ],
+    "why_this_rank": "Tier A halved on substance: across 15 JD pages the only private-host evidence is one repeated line pairing Azure DevOps with GitHub Actions as CI/CD choices - thin for a 313-person firm, and it never says where code is hosted. Review-gate language is genuine, so 25 rather than 0."
+  },
+  {
+    "name": "Nuvento Systems Private Limited",
+    "domain": "nuvento.com",
+    "score": 85,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 25,
+    "tier_b_points": 25,
+    "tier_c_points": 10,
+    "raw_before_caps": 85,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN - 2023-06 snapshot advertising 'Enterprise Software Development Product Engineering'",
+    "evidence": [
+      "JD: 'branching strategy, change approval workflow, required sign-offs (tests, security review)'",
+      "JD: Azure DevOps appears only as Boards for release tracking",
+      "JD: Jenkins, Docker, Kubernetes, Terraform, Ansible, Git",
+      "Site: milestone map - founded 2007, product engineering scaled 2011"
+    ],
+    "why_this_rank": "The best release-discipline prose in the batch - semantic versioning, release-train cadence, branching strategy, change-approval sign-offs - yet Tier A is 25, not 40, because the only named host is Azure DevOps Boards, and that JD explicitly says the role is not the pipeline's operator. A firm this articulate about merge gates is worth a manual look above its score."
+  },
+  {
+    "name": "Enterprise System Solutions Private Limited",
+    "domain": "esspl.com",
+    "score": 70,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 25,
+    "tier_b_points": 20,
+    "tier_c_points": 0,
+    "raw_before_caps": 70,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN - 2023-06 snapshot 'Software Solutions for Logistics & Supply Chain Companies | ESSPL'",
+    "evidence": [
+      "JD: 'requirement/impact analysis ... code review, test case review'",
+      "JD: 'Good to have Dot Net core, Angular & Azure Devops'",
+      "Site: CMMi process certification obtained in company history",
+      "JD: Selenium and Cucumber frameworks; peer review of test cases"
+    ],
+    "why_this_rank": "Lands exactly on the Priority line after several conservative calls. headcount_known=7 is implausible for a CMMi-certified logistics software firm with a 2004-2008 partnership history and looks like a crawl artifact - do not read it as a seven-person shop. Tier A halved (Azure DevOps is a 'good to have' line), no CI/CD signal appears anywhere in the JDs, and Tier C was withheld because only one positioning family co-occurred. The review-gate language itself is strong and repeated."
+  },
+  {
+    "name": "Paltech Consulting Private Limited",
+    "domain": "pal.tech",
+    "score": 90,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 25,
+    "tier_b_points": 25,
+    "tier_c_points": 15,
+    "raw_before_caps": 90,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN - 2023-06 snapshot 'Home - PalTech ... Digital Product Engineering'",
+    "evidence": [
+      "JD: 'Implement code reviews, version control, and continuous improvements'",
+      "JD: 'CI/CD pipelines using Azure DevOps, GitHub Actions, or Jenkins'",
+      "Site: DevSecOps with IaC, Docker, Kubernetes; Quality Engineering line",
+      "Site: named client testimonial - Co-Founder, Vibrix Pharmacy"
+    ],
+    "why_this_rank": "Tier A halved: Azure DevOps appears once as one of three interchangeable CI/CD tools, so private-repo discipline is implied rather than stated, even though two separate JDs name code reviews. 'Digital Product Engineering' was judged substantive rather than decorative - it is the headline service with DevSecOps and Quality Engineering beneath it."
+  },
+  {
+    "name": "Vertex Offshore Services Pvt Ltd",
+    "domain": "vertexcs.com",
+    "score": 60,
+    "band": "Secondary",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 25,
+    "tier_b_points": 15,
+    "tier_c_points": 10,
+    "raw_before_caps": 60,
+    "caps_applied": [],
+    "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 2023-06 but snapshot did not mention software",
+    "evidence": [
+      "JD: 'will perform code review of other developers'",
+      "JD: 'Exposure to Azure DevOps, CI/CD pipelines, and automation workflows'",
+      "Site: 'Since 2001', Solution Architect leads custom application team",
+      "JD: 'CI/CD pipelines, Git-based deployments' for Fabric workloads"
+    ],
+    "why_this_rank": "Scored down mostly by evidence gaps rather than negatives: the pre-2024 snapshot exists but never says software, so only +10 for a 419-person firm that says 'Since 2001, helping businesses modernize'. Tier A halved - one 'exposure to Azure DevOps' line and one code-review line, both incidental, across 17 JD pages. A team bio notes an employee contributes to public GitHub projects; under the revised rubric that scores zero and was not counted."
+  },
+  {
+    "name": "Softlabs Technologies & Development Private Limited",
+    "domain": "softlabsgroup.com",
+    "score": 85,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 40,
+    "tier_b_points": 10,
+    "tier_c_points": 10,
+    "raw_before_caps": 85,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN - 2023-06 snapshot 'Outsourcing Software Development Company in India | Softlabs Group'",
+    "evidence": [
+      "JD: 'Knowledge of source control - TFS/SVN/Git'",
+      "JD: 'Perform code reviews, testing, debugging, and deployment'",
+      "Site: Engineering Lifecycle page - automated regression tests, security scans",
+      "Site: markets Copilot/Cursor-accelerated coding, '40% Time Saved'"
+    ],
+    "why_this_rank": "Full Tier A rests on a single line in one thin JD (27k chars, one page) - but 'source control - TFS/SVN/Git' is genuinely a repo context, unlike the CI/CD tool lists that got halved elsewhere, so 40 stands. Tier B is low because their CI/CD claim is marketing prose with no named tooling, and SOC2/HIPAA are described as standards their client solutions meet, not their own audits. Counter-signal worth weighing: the site now sells Copilot/Cursor-accelerated delivery and fixed-price MVPs, so recent code may be substantially machine-generated even though the pre-2024 codebase is proven."
+  },
+  {
+    "name": "Sumanas Technologies Private Limited",
+    "domain": "sumanastech.com",
+    "score": 90,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 40,
+    "tier_b_points": 25,
+    "tier_c_points": 0,
+    "raw_before_caps": 90,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN - 2023-06 snapshot 'Software development On-prem Application Cloud Application'",
+    "evidence": [
+      "JD: 'Good understanding of Git Flow development techniques (branching, pull requests)'",
+      "JD: 'Hands-on experience with Git (GitHub, Bitbucket)'",
+      "JD: 'conduct regular code reviews to maintain code quality'",
+      "Site: owns Medizura healthcare product"
+    ],
+    "why_this_rank": "Tier C is zero because the crawl captured almost no site prose - three signal families, mostly product copy - so positioning is under-evidenced rather than absent; the score is carried entirely by JD text, which is among the most explicit in the batch on branching and pull requests. One caution: the pre-2024 snapshot advertises WordPress/Drupal/Joomla CMS and CRM configuration alongside software, a template-shop tinge that stops short of the -15 signature."
+  },
+  {
+    "name": "Sourcemash Technologies Private Limited",
+    "domain": "sourcemash.com",
+    "score": 30,
+    "band": "Skip",
+    "confidence": "Verified",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 40,
+    "tier_b_points": 35,
+    "tier_c_points": 20,
+    "raw_before_caps": 105,
+    "caps_applied": ["Generalist-agency signature (dev bundled with SEO/SMM/ITSM support) - cap at 30", "Cap total at 100"],
+    "pre2024_basis": "EXISTED_NO_SW_WORDING - archived 2023-06 but snapshot did not mention software",
+    "evidence": [
+      "JD: 'create pull requests, and manage code changes using Bitbucket'",
+      "JD: 'pull-request-based collaboration (Bitbucket experience preferred)'",
+      "Site: 'SEO Social Media MarTech Performance Marketing' sold beside dev",
+      "Site: ISO 27001, SOC 2 Type II, CMMI Level 3 badges"
+    ],
+    "why_this_rank": "A cap overrode real merit. This has the single strongest private-repo evidence in the batch - two JD lines naming Bitbucket pull-request workflow explicitly - plus ISO 27001, SOC 2 Type II and CMMI L3, and would score 100. But dev is bundled with Digital Growth Services (SEO, social, performance marketing) and 24/7 ITSM/infrastructure support, which is the generalist-agency signature and caps the total at 30. Worth a manual override check: if the marketing line is a small side business, this is a Priority target."
+  }
+]

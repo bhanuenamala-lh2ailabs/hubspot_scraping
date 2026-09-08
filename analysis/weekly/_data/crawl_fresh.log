@@ -1,0 +1,2 @@
+2026-08-03T04:50:25.799893Z [info     ] source_done                    blocked=False pages=140 rows=5456 skipped=0 source=goodfirms
+2026-08-03T04:50:25.802067Z [info     ] crawl_complete                 sources=['goodfirms'] total_rows=5456

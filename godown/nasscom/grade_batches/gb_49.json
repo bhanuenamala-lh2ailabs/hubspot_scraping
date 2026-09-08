@@ -1,0 +1,849 @@
+[
+ {
+  "name": "Quantascend Consulting Global Private Limited",
+  "city": "Chennai",
+  "domain": "quantascend.com",
+  "website": "https://www.quantascend.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 5912,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Life at QA At QuantAscend, you will be given the freedom to discover, dream, share your ideas; to grow as fast as you wish to; to expand your horizons and to evolve and transform into the professional you always wanted to become."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Quantile Analytics Private Limited",
+  "city": "Indore",
+  "domain": "quantileanalytics.co",
+  "website": "https://www.quantileanalytics.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 70426,
+   "signals": {
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Technically comfortable—able to understand Git, read basic Python/SQL, and work closely with technology teams."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Quatrro Global Services Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "quatrro.com",
+  "website": "https://quatrro.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "view all awards » Fighting Bank Fraud in India: Essential Steps Aadhaar Getting Additional Security Layer Fraud Detection to Payments Processing - a Natural Extension for The ai Corporation view all news » Banking & Financial Services Mortgage Solutions Client Testimonial --> © 2006-2018 Quatrro Global Services."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Quetzal Verify Private Limited",
+  "city": "Mumbai",
+  "domain": "qverify.com",
+  "website": "https://www.qverify.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Quinpro Info Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "factsuite.com",
+  "website": "https://www.factsuite.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2140,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "A gile Agile, yet process-oriented We practice a unique, delightful operating model – agile, yet driven by process."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Rabbit and Tortoise Technology Solutions Private Limited",
+  "city": "Pune",
+  "domain": "rabbitandtortoise.com",
+  "website": "http://www.rabbitandtortoise.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ome About Us Our Philosophy Artificial Intelligence Service Portfolio Zero to One Services AI Solutions Platform Development RPA Services Dev-Sec-Ops"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 12
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Proactive Maintenance Support Cost-Efficient Operations Enhanced Scalability Options Read More Domain Expertise BANKING INSURANCE TELECOM DIGITAL COMMERCE HEALTHCARE Automotive Revolutionizing Banking Tech: Secure, Smart Solutions for a Seamless Financial Future.",
+    "Elevate Your Banking Experience Today!",
+    "Specializing in advancing the banking sector, we excel in developing solutions for government initiatives.",
+    "Our integration of APIs like UIDAI, Protean, NIC, and Bank-specific APIs ensures compliance and enhances secure, efficient financial services for the future banking landscape."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Rackbank Datacenters Pvt Ltd",
+  "city": "Indore",
+  "domain": "rackbank.com",
+  "website": "https://www.rackbank.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "across green engineering, construction firms to ensure that our work truly makes a positive impact on the global carbon footprint. Learn More BECOME A"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 11367,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Exposure to AI, cloud, sustainability, and government/enterprise project pipelines."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Rajalakshmi Engineering College",
+  "city": "Chennai",
+  "domain": "rajalakshmi.org",
+  "website": "https://www.rajalakshmi.org/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nt of CSE is organizing ACM India Sponsored Tutorial on Web Application Development using Hibernate with Spring MVC for the faculty members, students"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "RAMTeCH Software Solutions Pvt Ltd",
+  "city": "Noida",
+  "domain": "ramtech-corp.com",
+  "website": "https://www.ramtech-corp.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "cations Oil and Gas Buildings and Infrastructure Government Case Studies Careers Contact Us Responsive Menu Add more content here... Architectural Str"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "The role involves conducting end-user needs assessments, performing advanced GIS analysis, spatial data testing and QA/QC, business process analysis, deployment, etc."
+   ],
+   "cicd": [
+    "Read More Boost Accuracy with uConflate™ – Smart GIS Conflation Tool Across North America, electric, gas, pipeline, and telecommunications providers are under pressure to expand their networks, modernize their infrastructure, and meet stringent regulatory demands."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Raspberry Infosystems Private Limited",
+  "city": "Chennai",
+  "domain": "raspberry.systems",
+  "website": "https://www.raspberry.systems",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2017-03-08",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "RAVSoft Solutions India Private Limited",
+  "city": "Chennai",
+  "domain": "ravsoftsolutions.com",
+  "website": "https://www.ravsoftsolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1999-02-04",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 7904,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 16,
+   "cicd": 1,
+   "owns_product": 4,
+   "DQ_support": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "RAVSoft Solutions Home Discover RAVSoft About Services Contact Us Careers To bring home the benefits of healthcare standards like DICOM, HL7 and FHIR to medical professionals and artifical intelligence systems!",
+    "About Us Bring only the best workflow experience for healthcare professionals; by providing reliable standardized healthcare software solutions.",
+    "Innovative and Reliable Software Need Specialized healthcare workflow solutions or understand your position with artifical intelligence?",
+    "Find Out More Healthcare Standards Need DICOM Toolkits/ HL7/FHIR services or understand Compliance?"
+   ],
+   "cicd": [
+    "RAVSoft also has partnered with clients to design Rendering engine pipeline to render DICOM images."
+   ],
+   "owns_product": [
+    "We want our products to enable the clients to collaborate with each other and integrate smoothly with extant and future technologies and so empower diagnostics.",
+    "We take pride in our work and in the quality of our products and services.",
+    "Every employee here shares a passion for perfection.Like that great sculptor whose works have withstood the scrutiny of centuries, we are much focused on the quality of our products and services.",
+    "We are constantly improving and refining our practices and methods through attention to the smallest detail so the performance of our products is flawless."
+   ],
+   "DQ_support": [
+    "We sift through software and hardware and find /create the best interoperable products and algorithms so you will have a smoothly integrated console at your fingertip."
+   ],
+   "sdlc": [
+    "Our Core Values The DNA that defines us and gives us our edge in the field is forged from our values: Innovation Our solutions show original thought and agile execution and is always at the cutting edge of the field."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "REAGCC Technology Services Private Limited",
+  "city": "Gurugram",
+  "domain": "rea-group.com",
+  "website": "https://www.rea-group.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 131049,
+   "signals": {
+    "testing": 1
+   },
+   "quotes": {
+    "testing": [
+     "Learn Test Driven Development (TDD) and automated testing frameworks."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Reckitt Benckiser Healthcare India Private Limited",
+  "city": "Hyderabad",
+  "domain": "reckitt.com",
+  "website": "https://www.reckitt.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "d and trusted hygiene, health and nutrition brands. Each of our products is designed to meet people’s needs, and to help us all lead better lives. A d"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 41950,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "entrepreneurs expanding access to healthcare A new generation of community-based entrepreneurs is shaping the future of health and hygiene via Reckitt Catalyst."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Reckonsys Tech Labs Private Limited",
+  "city": "Bengaluru",
+  "domain": "reckonsys.com",
+  "website": "https://www.reckonsys.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "Reckonsys - Best Python, Django Development Company in Bangalore, India Created with Sketch. Home About Us"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 6825,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 1,
+   "owns_product": 7,
+   "cicd": 2,
+   "enterprise": 4,
+   "sdlc": 4
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Let’s Build Your AI Product AI Product Engineering Company for Enterprise AI Agents Build production-ready AI agents, RAG systems, AI copilots, and custom AI software that automate workflows.."
+   ],
+   "owns_product": [
+    "Scale Your Product Now Custom AI Agent Development for Business Automation Develop AI agents that automate internal workflows using enterprise-ready AI architectures.",
+    "Get Your Dedicated Team Launch AI Products Faster with Expert AI Engineering Partner with experienced AI engineers to build MVPs, AI-native SaaS products, copilots, and enterprise AI platforms that scale with your business.",
+    "Our Services Generative AI Build production-ready GenAI systems using LLMs, RAG pipelines, and custom AI workflows tailored to your product.",
+    "AI Agents Build autonomous AI agents that can reason, take actions, and automate complex workflows across your product and business processes."
+   ],
+   "cicd": [
+    "Our Services Generative AI Build production-ready GenAI systems using LLMs, RAG pipelines, and custom AI workflows tailored to your product.",
+    "AI Data Systems Design data pipelines and vector databases that power AI applications with real-time, context-aware intelligence."
+   ],
+   "enterprise": [
+    "Healthcare Healthcare Software Development Laboratory Information Management Custom mHealth App Development Electronic Health Record Software Pharmacy Management System Fintech Financial Software Development Mobile Banking Software Development Wealth Management Software Dev.",
+    "A world of opportunities at Reckonsys Grow your career amongst top tech talent in an environment that fosters innovation Health We provide medical insurance for you and your family.",
+    "Additionally, we offer personal accident insurance for all our team members.",
+    "Any business dealing with the movement of physical goods and resources can benefit from using supply chain management software, like retail, e-commerce, healthcare, automotive, consumer goods, etc."
+   ],
+   "sdlc": [
+    "We use agile development methodologies to ensure efficient progress, allowing you to review and test the software as it’s built.",
+    "You can trust us to streamline your processes and provide the tech foundation for sustainable growth.",
+    "We deliver tailored solutions that align closely with your business goals, backed by transparent communication and agile development.",
+    "04 Agile development process Our agile process places your needs at the center of our software development efforts."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Refinitiv India Shared Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "refinitiv.com",
+  "website": "https://www.lseg.com/en/data-analytics",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "prehensive Data Catalogue offers you the industry’s largest portfolio of real-time, pricing, reference, time series, and machine-readable content, as"
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 44275,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 2,
+   "owns_product": 1,
+   "sdlc": 2,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Learn more about LSEG’s Financial News Service Customer Consulting We are a global in-house team of business and technical consultants, solution architects and project managers.",
+    "Find out more about Engineering Graduates & students Build your own career path with a world-leading fintech leader."
+   ],
+   "owns_product": [
+    "Delivering human and technical expertise, we enable our customers to maximise the value of our products and services."
+   ],
+   "sdlc": [
+    "How we work Our purpose is the foundation on which our culture is built.",
+    "Our purpose & values Our purpose and values outline how we work with customers, partners, and each other as a leading global financial markets infrastructure and data provider."
+   ],
+   "DQ_training": [
+    "More about our Graduate and Internship programmes Explore Entry level opportunities in your preferred location Explore other roles Our organisation spans multiple divisions from People and Marketing to Risk and Finance, Legal & Compliance, Audit, and beyond."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Relativity Management Solutions India Private Limited",
+  "city": "Coimbatore",
+  "domain": "relativity.co.in",
+  "website": "https://relativity.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Relevance Lab Technologies Private Limited",
+  "city": "Ahmedabad",
+  "domain": "relevancelab.com",
+  "website": "https://www.relevancelab.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 8,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "nal Integration Extended Development Center Resources Blogs Case Studies E-Brochures GitHub Repo Product Docs Video Gallery Webinars Whitepapers Newsr"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 22604,
+   "signals": {
+    "testing": 1
+   },
+   "quotes": {
+    "testing": [
+     "Provide support for integration testing between OTM and other systems."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 2,
+   "prod_eng": 12,
+   "qa": 1,
+   "owns_product": 2,
+   "enterprise": 3,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "AWS SRE Certified Research Gateway: Purpose-Built for Modern Research Computing One of the top two partner solutions globally recommended by AWS for Higher Education, Research Gateway enables institutions to run secure, governed, and cost-controlled research environments at scale.",
+    "Cloud Operations & Site Reliability Engineering (SRE) ensuring reliability, cost optimization, and continuous availability."
+   ],
+   "prod_eng": [
+    "Explore the Approach Leap from Software Defined to AI Powered Paradigm We bring Product Engineering, DevOps, Cloud, AI, Automation, and now Generative Intelligence together to modernize Applications, Data, Infrastructure, and Business Processes — turning vision into measurable outcomes.",
+    "Product Engineering Build great experiences.",
+    "How GenAI Transforms Product Engineering At Relevance Lab, we view this as a refresh of Product Engineering along five key themes : SaaS & Copilots: Intelligent Products Rise Embedded AI assistants deliver context-aware support, predictive recommendations, and workflow automation.",
+    "A Legacy of Excellence in Product Engineering For over a decade, Relevance Lab has been a trusted partner for enterprises and ISVs in building world-class products."
+   ],
+   "qa": [
+    "Developer Copilots enable 40%+ productivity gains across Dev & QA."
+   ],
+   "owns_product": [
+    "We are ready to partner with enterprises and ISVs to reimagine their SaaS products, modernize their tech stack, and build the intelligent applications of tomorrow .",
+    "His expertise spans software-enabled cloud infrastructure, SaaS products, and technology strategy."
+   ],
+   "enterprise": [
+    "Rajeev was on the Board of Directors & Executive Management of Ness and, in 2004, was actively involved in Ness’ Initial Public Offering on NASDAQ.",
+    "He has played a pivotal role in establishing product engineering labs, fostering innovation, and driving transformative digital solutions for enterprise clients.",
+    "Before his current role at CIGNEX/Relevance Lab, Ashish was the Business Development Head at Ness Technologies (NASDAQ Listed)."
+   ],
+   "sdlc": [
+    "Drawing from his extensive experience and deep understanding of the industry, Raja focuses on keeping our organization agile, adaptable, and ready for success amidst ever-changing business dynamics."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Reltio India Private Limited",
+  "city": "Bengaluru",
+  "domain": "reltio.com",
+  "website": "https://www.reltio.com",
+  "already_in_hubspot": false,
+  "headcount_known": 675,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "er leading data innovators at DataDriven 2023. Register now CASE STUDY Empire Life switched from legacy MDM to the Reltio cloud-native platform. Read"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 28512,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 7,
+   "enterprise": 7,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Tech leaders To thrive, your organization needs connected and holistic data in real time.",
+    "Get started with business leaders Reltio for Tech Leaders A unified data and context backbone—ready for agentic AI, built for scale.",
+    "Get started with tech leaders Lead AI transformation with context."
+   ],
+   "enterprise": [
+    "Life sciences Financial services Insurance Healthcare Travel & hospitality Retail Manufacturing High tech Context intelligence for agentic AI Unified, trusted, and real-time data is mission critical as organizations move beyond analytical AI toward autonomous, agentic AI solutions.",
+    "Walking the tightrope of trust in banking personalization Blog Posts Walking the tightrope of trust in banking personalization Reltio AgentFlow™: The smart way to power the agentic enterprise.",
+    "15 Fortune 100 companies 38 Fortune 500 companies 40 Fortune 1000 companies 9 of the top 10 global life sciences companies Dive deeper."
+   ],
+   "owns_product": [
+    "Our platform doesn’t just unify and enrich data; it delivers it continuously and contextually, so businesses can move with speed and intelligence."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Renault Nissan Technology & Business Centre India Private Limited",
+  "city": "Chennai",
+  "domain": "renaultgroup.com",
+  "website": "https://www.renaultgroup.com/en/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Bringing all these areas of expertise together in a mass-market product is extremely rare.” Franck Naro VP Engineering, Project Development & Serial Life Aerospace and space industries integrate highly complex technologies, but in limited volumes."
+   ],
+   "owns_product": [
+    "This organizational and digital integration, still not developed to this extent by some manufacturers, acts as a powerful accelerator in terms of time-to-market and risk control."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Repute Network Private Limited",
+  "city": "Bengaluru",
+  "domain": "repute.net",
+  "website": "https://repute.net/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Talent Market Network Businesses Individuals About Careers Case Study In the News Insights Contact --> Businesses Individuals About Careers Case Stud"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 5,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Enhance with Less Engineering Integrate apps faster with minimal engineering—so your team can focus on scaling your platform.",
+    "Stay Agile & Adaptable Keep innovating by adding capabilities—without disrupting your platform.",
+    "Expand Without Complexity Grow your platform’s features—without added overhead or technical debt.",
+    "We Handle Updates, You Stay Focused Stay compatible and updated while focusing on your product."
+   ],
+   "sdlc": [
+    "Stay Agile & Adaptable Keep innovating by adding capabilities—without disrupting your platform."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

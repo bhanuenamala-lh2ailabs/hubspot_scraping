@@ -1,0 +1,1170 @@
+[
+ {
+  "name": "Diaspark Infotech Pvt Ltd",
+  "city": "Indore",
+  "domain": "diaspark.com",
+  "website": "https://diaspark.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "argin_top=\"50\"][/vc_column][/vc_row][vc_row][vc_column][gem_portfolio portfolio_gaps_size=\"0\" portfolio_hover=\"circular\" portfolio_background_style=\"g"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 39,
+   "prod_eng": 2,
+   "sdlc": 5,
+   "owns_product": 1,
+   "cicd": 6,
+   "compliance": 8,
+   "qa": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "AI Advisory & Enterprise Solutions for Healthcare and Retail Skip to content +1 732 248 8333 enterprise@diaspark.com Products Luxare Products Luxare Jewelry ERP, POS, CRM, and manufacturing tools in one suite Services Consulting AI/ML Strategic Consulting Define your AI vision and roadmap with expert guidance.",
+    "Our team has collaborated with organizations ranging from mid-sized enterprises to Fortune 500 companies, consistently delivering impactful solutions that drive measurable business outcomes.",
+    "Healthcare We help healthcare organizations improve patient care, streamline operations, and ensure compliance with industry regulations.",
+    "Electronic Health Records Compilation Telehealth Solutions Healthcare Analytics Learn More Retail We enable retailers to enhance customer experiences, optimize inventory management, and drive omnichannel growth."
+   ],
+   "prod_eng": [
+    "Our commitment to engineering excellence and the quality of our human and intellectual capital is consistently recognized by our clients.",
+    "Our clients consistently vouch for our engineering excellence and the quality of our human and intellectual capital."
+   ],
+   "sdlc": [
+    "Years of Experience 0 + Global Client 0 + IT Professionals 0 + Global Offices 0 Here’s How We Work Our Consulting Approach Discover Comprehensive assessment of your current technology landscape and business objectives.",
+    "We use Agile methodologies to ensure incremental value is delivered throughout the journey, so enterprises see results early while scaling responsibly.",
+    "Value Proposition Global Capability Center 750+ Global Workforce Scalable Value Deliveries Agile Methodologies Domain Expertise Technology-agnostic capabilities Our Core Values Write to us, we’d love to hear about your needs.",
+    "PoC and MVP Development Our PoC/MVP engagements leverage pre-trained models, synthetic datasets, and agile sprints to validate AI feasibility within 2–8 weeks."
+   ],
+   "owns_product": [
+    "Discover the Power of Our Luxare AI Product Suite Comprehensive enterprise solutions designed to streamline operations, enhance productivity, and drive business growth across various industries."
+   ],
+   "cicd": [
+    "Diaspark embeds trust and compliance into every solution: Security: encrypted pipelines, role-based access control, and end-to-end monitoring.",
+    "If not all of these are in place, Diaspark helps bridge the gaps — from building secure data pipelines to establishing governance models and change management processes.",
+    "Using scalable ETL/ELT pipelines and modern frameworks (e.g., Spark, dbt, Airflow), we enable unified data provisioning across EHR, claims, imaging, and third- party datasets.",
+    "LLM Fine-tuning Using de-identified datasets and enterprise-grade pipelines, we fine-tune LLMs for specialty-specific language, ontology alignment, and contextual nuance."
+   ],
+   "compliance": [
+    "Compliance: HIPAA, FHIR, GDPR, PCI DSS, and other regulatory frameworks based on industry.",
+    "Governance, Security, and Compliance — ensuring HIPAA, FHIR, GDPR, and ethical AI principles are met.",
+    "Data Engineering We architect HIPAA-compliant, FHIR- compatible data lakes and warehouses optimized for longitudinal patient records, real-time ingestion, and downstream AI/ML training.",
+    "Our teams unify clinical data across EHRs, streamline workflows, and drive better patient outcomes while ensuring compliance with HIPAA, FHIR, and HL7 standards."
+   ],
+   "qa": [
+    "Quality Assurance End-to-end QA practices ensure secure, interoperable, and reliable AI applications across healthcare systems."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "DriveIT Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "driveittech.in",
+  "website": "https://driveittech.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 45415,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 36,
+   "enterprise": 48
+  },
+  "site_quotes": {
+   "compliance": [
+    "Healthcare & Life Sciences Secure patient data and connected medical systems under HIPAA and DPDP.",
+    "Compliance Guides DPDP & ISO 27001 Readiness A practical checklist to align controls with regulatory expectations.",
+    "114 controls Annex A SOC 2 AICPA Trust Services Criteria Essential for SaaS and cloud-service organisations.",
+    "5 Trust Criteria PCI DSS Payment Card Industry Standard Mandatory for organisations that store, process, or transmit cardholder data."
+   ],
+   "enterprise": [
+    "Healthcare & Life Sciences Secure patient data and connected medical systems under HIPAA and DPDP.",
+    "BFSI Protect critical financial systems, payments, and customer data at scale.",
+    "Enterprise Governance Mature processes, reporting, and governance built for regulated industries.",
+    "Software · bigstrum.in Engineering at scale — full-stack, mobile, AI, and DevOps for regulated industries."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Effivity Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "effivity.com",
+  "website": "https://www.effivity.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2015-01-18",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 24,
+   "owns_product": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Achieve 100% conformity with ISO 9001, ISO 27001, ISO 14001, ISO 45001, ISO 22000, HACCP Standards Simplify your QMS, HSE, FSMS, HACCP, ISMS implementation, documentation, maintenance & certification.",
+    "Effivity is the software of choice for organizations implementing ISO 9001, ISO 14001, ISO 45001, ISO 13485, TS 16949, ISO 22718, ISO 22000, HACCP, GMP, BRC, FSSC 22000 standards.",
+    "QMS software is a framework built around the international best practices to help organizations implement a work flow based & automatic quality management system in line with ISO 9001, ISO 13485, ISO 22718, AS 9100, TS 16949 standards.",
+    "Read More Our Products State-of-the-art, cloud-based, agile & integrated Quality – Health & Safety – Environment - Food Safety/HACCP software solutions that fulfil your ISO 9001, ISO 14001, ISO 45001, HACCP and ISO 22000 certification requirements completely, comprehensively and effectively."
+   ],
+   "owns_product": [
+    "Read More Our Products State-of-the-art, cloud-based, agile & integrated Quality – Health & Safety – Environment - Food Safety/HACCP software solutions that fulfil your ISO 9001, ISO 14001, ISO 45001, HACCP and ISO 22000 certification requirements completely, comprehensively and effectively."
+   ],
+   "sdlc": [
+    "Read More Our Products State-of-the-art, cloud-based, agile & integrated Quality – Health & Safety – Environment - Food Safety/HACCP software solutions that fulfil your ISO 9001, ISO 14001, ISO 45001, HACCP and ISO 22000 certification requirements completely, comprehensively and effectively."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Fiorano Software Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "fiorano.com",
+  "website": "https://www.fiorano.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 48478,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 5,
+   "senior_roles": 2,
+   "qa": 3,
+   "enterprise": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "GDPR gives you specific rights."
+   ],
+   "senior_roles": [
+    "Apply Solution Architect(1) Senior Solutions Architect READ MORE Location: Palo Alto, CA Apply Job Responsiblities Engage with prospects that are interested in Fiorano products and explain the value proposition of the products to them; Compare and contrast with competitive products, highlighting Fiorano's benefits.",
+    "Location: Bangalore / Hyderabad Apply Solution Architect(1) Senior Solutions Architect READ MORE Job Responsiblities Engage with prospects that are interested in Fiorano products and explain the value proposition of the products to them; Compare and contrast with competitive products, highlighting Fiorano's benefits."
+   ],
+   "qa": [
+    "Location: Hyderabad Apply Senior Quality Assurance Engineer / QA Lead Manual Testing.",
+    "Technical Skills: Knowledge of QA processes."
+   ],
+   "enterprise": [
+    "READ STORY Bringing Modernization to Banking with Cloud-Native Middleware In addition to Open Banking and its concomitant PSD2 support, Fiorano offers API-first, real-time digital banking, composable banking that leverages microservices, and ISO 20022 and payments support."
+   ],
+   "cicd": [
+    "gRPC GraphQL Kubernetes-native REST Microservices architectures Fortified Authentication & Security Enterprise-grade protection."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Friends Color Images Private Limited",
+  "city": "Noida",
+  "domain": "fci-ccm.com",
+  "website": "https://www.fci-ccm.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "y Migration Convert crisis into opportunity for development Software Development Patient centric customer experience Managed IT Services Optimize your"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [
+    "https://fci-ccm.zohorecruit.in/jobs/Careers"
+   ],
+   "jd_chars": 894431,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 29,
+   "DQ_template": 6,
+   "cicd": 2,
+   "compliance": 6,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Insurance Streamline insurance communication for compliance and clarity.",
+    "other Industries Financial Services Healthcare Telecom Utilities Services Professional Services Comprehensive customer communication solutions and services.",
+    "Insights-led Customer Communications Platform for Financial Services Banking Leaders Trust VARTA Transform first-party transactional and behavioral signals into a measurable growth driver.",
+    "Explore More Talk to an expert Banking Leaders Trust VARTA Transform first-party transactional and behavioral signals into a measurable growth driver."
+   ],
+   "DQ_template": [
+    "Centralized templates, workflows, and compliance controls.",
+    "We leveraged the best of FCI solution to consolidate templates into reusable assets and cut service time by more than half.",
+    "The seamless job creation, template management, and CCM dashboard have truly revolutionized our approach and empowered us to manage and leverage customer communication insights."
+   ],
+   "cicd": [
+    "With Varta at the helm of all our communications with existing customers, we have achieved a level of personalization like never before."
+   ],
+   "compliance": [
+    "Accept Customize Close GDPR Cookie Settings Privacy Overview Strictly Necessary Cookies 3rd Party Cookies Cookie Policy Privacy Overview This website uses cookies so that we can provide you with the best user experience possible."
+   ],
+   "owns_product": [
+    "Our Vision Transform service communications & customer experience into a revenue accelerator."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "GRM Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "grmtechnologies.com",
+  "website": "https://grmtechnologies.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ced technology, our Forensic Services enable enterprises to react quickly and proactively to litigation, fraud, corruption, and finance related crimes"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "compliance": 6,
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Learn More Managed Security Services With resilience and scalability in mind, our Managed Security Services focus on equipping enterprises with cost-competitive and reliable 24/7 security and stability for hardware, software, network, and applications, all essential for running a successful business."
+   ],
+   "compliance": [
+    "Learn More Privacy Services Helping enterprises stay fully GDPR compliant, our Privacy Services offer custom privacy solutions that fit into the client’s business and operation strategy, while ensuring adherence to privacy legislations, and putting the most important aspect of organizational privacy into real practice.",
+    "Leading international standards such as ISO 27001, PCI DSS, SWIFT, PCI 3DS, require compliance with their guidelines for robust information risk management and our consultation and implementation services will enable you implement these standards and maintain a competitive edge.",
+    "We bring depth of experience in implementing PCI and Information Security standards and assist insurers to achieve total compliance to PCI DSS and ISMS ....",
+    "As leaders for providing IT compliance maturity, we offer complete suite of security services to proactively manage and improve the health of your IT security framework, protect your data, and meet HIPAA/HITECH/HITRUST or any regulatory and industry requirement to distinguish your organisation as market leaders."
+   ],
+   "enterprise": [
+    "Read More Banking Finance GRM is one of the most reliable security solutions partners for banking and finance sectors and empowers business to gain technical advantage with its advanced Cyber Security offerings.",
+    "Read More Insurance Insurance industry deals with myriad of confidential data both from credit card, bank details and their personal, medical information and thus it becomes even more pertinent to have solid ISMS framework and PCI compliance standards.",
+    "Read More Healthcare Today’s health care industry deals with the most sensitive information and high scrutiny regulation requirements.",
+    "We at GRM, for Healthcare Organisation of every size provide intrinsic oversight into their Cyber Security culture and a balanced approach to their IT security."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 10
+ },
+ {
+  "name": "Hertzwave Innovations Private Limited",
+  "city": "Bengaluru",
+  "domain": "hertzwave.in",
+  "website": "https://hertzwave.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2023-05-31",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2,
+   "compliance": 7,
+   "senior_roles": 2,
+   "owns_product": 3
+  },
+  "site_quotes": {
+   "cicd": [
+    "Embed carbon intelligence into your own product, ERP, or data pipeline.",
+    "Embed TerraCAP's engine into your own product, ERP or data pipeline — and let us handle the regulatory churn."
+   ],
+   "compliance": [
+    "CONSENT MANAGEMENT DPDPA 2023 & GDPR Built-in consent capture and data-retention controls — governance that keeps legal and DPOs comfortable.",
+    "0 % UPTIME SLA In-region DATA RESIDENCY REST JSON · VERSIONED DPDPA & GDPR ALIGNED Put carbon intelligence in your stack.",
+    "Enterprise-grade security, in-region data residency, and privacy compliant with DPDPA 2023 and GDPR — so legal and DPOs stay comfortable.",
+    "CERTIFICATION & COMPLIANCE ISO 27001 COMPLIANT Aligned to ISO 27001 controls and compliant — formal certification not currently pursued."
+   ],
+   "senior_roles": [
+    "That's what we built TerraCAP to do, for India first.” Arun Raju CEO · HERTZWAVE Leadership team Arun Raju CEO Kamesh Rao CTO Sandeep CHIEF AI OFFICER Sarath GS HEAD OF OPERATIONS Sivalingam K HEAD OF ENGINEERING Want to partner with us?",
+    "Our Team Arun Raju CEO Kamesh Rao CTO Vidya Director Sarath GS COO Sivalingam K Head of Engineering Want to partner with us?"
+   ],
+   "owns_product": [
+    "FOR ENTERPRISES · TOOL Process Mapping Tool Map your production process end-to-end, overlay actual energy and material consumption, and surface the gaps — so you can pinpoint operational savings before you invest in reduction.",
+    "Our platform combines IoT data collection, ERP integration, and advanced analytics to deliver comprehensive carbon management solutions.",
+    "Our platform is designed for mid to large enterprises with complex supply chains and multiple emission sources."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 10
+ },
+ {
+  "name": "Imagination Technologies (India) Private Limited",
+  "city": "Pune",
+  "domain": "imaginationtech.com",
+  "website": "https://www.imaginationtech.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 92038,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 3,
+   "owns_product": 1,
+   "compliance": 28,
+   "DQ_training": 1,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "A proven leader in mobile graphics, we pioneered the world’s first hardware-based ray tracing for mobile.",
+    "Read more Unlocking GPU Performance: An Introduction to PVRTune Developers 2 min read Watch: An Introduction to PVRTune (13 mins) When you start analysing performance on real hardware,...",
+    "Imagination has led the mobile graphics market for decades and introduced multiple industry-firsts, like hardware-based ray tracing technology for mobile."
+   ],
+   "owns_product": [
+    "Recent news and updates IMAGINATION ANNOUNCES E-SERIES: A NEW ERA OF ON-DEVICE AI AND GRAPHICS Massive gains in Imagination E-Series establishes the GPU as the principal accelerator for both graphics and AI at the edge."
+   ],
+   "compliance": [
+    "cookielawinfo-checkbox-advertisement 1 year Set by the GDPR Cookie Consent plugin, this cookie is used to record the user consent for the cookies in the \"Advertisement\" category .",
+    "cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\".",
+    "cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin."
+   ],
+   "DQ_training": [
+    "Each year we recruit for our graduate and internship programmes."
+   ],
+   "DQ_template": [
+    "LOWER YOUR COSTS; INCREASE YOUR REVENUE Chip manufacturers can either develop technology in-house or purchase ready-made IP."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Imast Operations Private Limited",
+  "city": "Indore",
+  "domain": "imast.in",
+  "website": "https://www.imast.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "d system plans.” Anit Chhabra DGM - Marketing, Varuna Pumps We build remarkable strategic Relationship Marketing Solutions that help brands to thrive"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2495,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 10,
+   "sdlc": 6,
+   "owns_product": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Get a Free Demo Explore Products Trusted by 100+ enterprises · 2M+ users · ISO 27001 certified LoyaltyBoard Channel & consumer loyalty with points, tiers, and gamification.",
+    "Enterprise-Grade Security ISO 27001, ISO 27017, ISO 27018, SOC 2 Type II, and GDPR compliant.",
+    "· Privacy · Terms · GDPR · Cookies · Security · Compliance CIN: U62013MP2016PTC041393 · 🇮🇳 India (English) Careers at IMAST — Join Our Team",
+    "· Privacy · Terms · GDPR · Cookies · Security · Compliance CIN: U62013MP2016PTC041393 · 🇮🇳 India (English) 6 positions open We're looking for engineers ."
+   ],
+   "sdlc": [
+    "Try IMAST 360 360 LoyaltyBoard Distribution+ Sales Track LeadSprint TrueView Reward Max LoyaltyBoard Distribution+ Sales Track LeadSprint TrueView Reward Max “ IMAST transformed our channel loyalty program.",
+    "Products Reward Max LoyaltyBoard Distribution+ Sales Track LeadSprint TrueView Company About Careers Press Blog Case Studies Security Resources Pricing Solutions Talk to Sales Contact hello@imast.in 080-69081290 WB-74, Scheme No."
+   ],
+   "owns_product": [
+    "Our Platform Everything you need to grow Six integrated products for loyalty, distribution, sales, CRM, service, and rewards.",
+    "3X Growth 4 Months +12% Market Share Read full case study FAQs Frequently asked questions Everything you need to know about IMAST and our products."
+   ],
+   "enterprise": [
+    "Full Benefits Health insurance, flexible hours, WFH Fridays, annual retreats."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Infozech Software Private Limited",
+  "city": "New Delhi",
+  "domain": "infozech.com",
+  "website": "https://infozech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 5,
+   "owns_product": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Details Home COMPANY JOIN INFOZECH CONTACT PRIVACY POLICY SERVICES THOUGHT LEADERSHIP CERTIFICATION NEWS ROOM REQUEST A DEMO FOLLOW US Facebook-f Instagram Twitter Linkedin EMPLOYEE LOGIN Infozech is an ISO/IEC 27001:2022, and ISO/IEC 20000-1:2018, and ISO 9001:2015 certified company.",
+    "She has also helped company’s setup management systems for ISO 9001, ISO 27001 and CMMI."
+   ],
+   "owns_product": [
+    "She headed Product management function at Infozech till 2020 and in her tenure of 16 years as the product head she helped define the iTower product suite and its modules at Infozech that make up the entire IT stack for an Infrastructure provider."
+   ],
+   "DQ_support": [
+    "It is a system and hardware agnostic IoT platform made with focus on improving site uptime and efficiently meeting SLAs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "ISOAH Data Securities Private Limited",
+  "city": "Kolkata",
+  "domain": "isoah.com",
+  "website": "http://www.isoah.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ecurity Audit (VAPT) Training Your last line of defense is your workforce. Train them on information security. Details ISO/IEC 27001:2013 Audit & Impl"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 5,
+   "cicd": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "ISO27001 Certification in Kolkata",
+    "ISOAH Data Securities Pvt Ltd ISO 27001:2022 Certified by SGS & ISO 9001:2015 Certified by Empanelled Security Auditor",
+    "Our Services GDPR Compliance GDPR is a regulation that requires businesses to protect the personal data and privacy of EU citizens and applies to all businesses and organizations established in the EU regardless of whether the data processing takes place in EU or not.",
+    "Details Certified Lead Implementer Professional (CLIP) for BS 10012:2017 Personal Information Management System including General Data Privacy Regulations (GDPR)."
+   ],
+   "cicd": [
+    "Article: Cyber Security Details 21 January, 2025 5 Shocking Docker Security Risks Developers Often Overlook!",
+    "Article: docker security risks Details 25 February, 2021 Know About Internet Browsing and Security Article: Internet Security Details 01 December, 2020 Easy To Crack Passwords, 2020 - Check The List!"
+   ],
+   "enterprise": [
+    "06 February, 2019 Artificial intelligence is changing credit cards and banking Artificial intelligence Details 21 January, 2019 The many claims of EVM tampering in India."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 10
+ },
+ {
+  "name": "KPIT Technologies Ltd",
+  "city": "Pune",
+  "domain": "kpit.com",
+  "website": "https://www.kpit.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 16875,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 13,
+   "external_job_boards": [],
+   "jd_chars": 122795,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "compliance": 12
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Hardware-Software disaggregation Decoupling hardware and software components in vehicles, allows for greater modularity and flexibility."
+   ],
+   "compliance": [
+    "Cookie Duration Description cookielawinfo-checbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\".",
+    "cookielawinfo-checbox-others 11 months This cookie is set by GDPR Cookie Consent plugin.",
+    "cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Management & Computer Consultants",
+  "city": "Kolkata",
+  "domain": "mccit.co.in",
+  "website": "https://mccit.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 21046,
+   "signals": {
+    "vcs_generic": 2
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Current technology training focus involves soft skill trainings and also technical training on technologies like Github Copilot, React.",
+     "Current technology training focus involves soft skill trainings and also technical training on technologies like Github Copilot, React."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "vcs": 1,
+   "enterprise": 1,
+   "compliance": 5
+  },
+  "site_quotes": {
+   "vcs": [
+    "Current technology training focus involves soft skill trainings and also technical training on technologies like Github Copilot, React."
+   ],
+   "enterprise": [
+    "We provide various benefits like Medical Insurance up to 3 lakhs for employees and their spouse and children with coverage of pre-existing diseases and all day care procedures, PF, LTA, Annual Bonus, and Interest free Loan up to 4 lakhs."
+   ],
+   "compliance": [
+    "Our ISO 9001-2015 and ISO 27001:2013 certifications reflect our commitment to quality and security.",
+    "Our ISO 9001-2015, ISO 27001:2013 ISO 22301-2019, SOC1 -Type 2 certifications reflect our commitment to quality.",
+    "✅ Certified Quality & Security – We hold ISO 9001:2015 and ISO 27001:2013 certifications, ensuring top-tier quality and robust data security."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "MNR Educational Trust",
+  "city": "Hyderabad",
+  "domain": "mnruniversity.edu.in",
+  "website": "https://mnruniversity.edu.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 15009,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 11,
+   "DQ_training": 2,
+   "compliance": 5,
+   "cicd": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Universities Building future leaders in healthcare, science, and technology.",
+    "4 Year Programme Explore Natural Sciences --> School of Allied and Healthcare Sciences Research-driven curriculum in Biotechnology, Chemistry, and Environmental Science with extensive field work and lab practice.",
+    "Apply Now --> Apply Now 60% Tuition Fee Waiver Engineering, Technology & Artificial Intelligence ★ Merit Based 40% Tuition Fee Waiver Allied & Healthcare Sciences ★ Merit Based Transforming Lives for Excellence Our university doesn't just offer programmes — we deliver experiences.",
+    "(Hons.) ★ Merit Based 40% Tuition Fee Waiver School of Allied and Healthcare Sciences Healthcare ★ Merit Based 40% Tuition Fee Waiver B.P.T."
+   ],
+   "DQ_training": [
+    "Enpowering Students for Placement Success At MNR University, we are committed to preparing students for successful and rewarding careers.",
+    "MNR July 21, 2026 Continue Reading School of Technology Why Internships Have Become a Deciding Factor for Engineering Placements Stepping into an engineering course is exciting, and most students start dreaming about a good..."
+   ],
+   "compliance": [
+    "ISO 9001:2015 Certified --> Faculty & Staff Openings",
+    "ISO 9001:2015 Certified --> MNR University Blog",
+    "ISO 9001:2015 Certified --> Leadership Team MNR University Management Board",
+    "ISO 9001:2015 Certified --> Apply Online Guide"
+   ],
+   "cicd": [
+    "Raju at the helm of affairs and the rock like support of our Vice-Chairman Sri Ravi Varma Mantena."
+   ],
+   "qa": [
+    "QA QUALITY POLICY MNR Educational Trust continuously aspires and strives to establish a system of Quality Assurance, which consistently evaluates and monitors the quality of education and training imparted across all MNR institutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "North Shore Technologies Pvt Ltd",
+  "city": "Noida",
+  "domain": "svam.com",
+  "website": "https://svam.com/",
+  "already_in_hubspot": false,
+  "headcount_known": 406,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "bout Us Our Story Govt. Contracts Leadership Team Resources Case Studies Blogs Service Offerings IT Professional Services Consulting & Staffing Hosted"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 7293,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "enterprise": 8,
+   "compliance": 11,
+   "prod_eng": 1,
+   "qa": 1,
+   "DQ_support": 3,
+   "sdlc": 1,
+   "cicd": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "They have always made me feel like the success of our product is very important to them.” Healthcare Service Provider “On the whole, the entire SVAM team is very responsive to the project needs.” State School Construction Authority “The entire SVAM project team are always excellent to work with!",
+    "He has always been very responsive to me and made me feel like the success of our product is very important to him personally."
+   ],
+   "enterprise": [
+    "They have always made me feel like the success of our product is very important to them.” Healthcare Service Provider “On the whole, the entire SVAM team is very responsive to the project needs.” State School Construction Authority “The entire SVAM project team are always excellent to work with!",
+    "Read More svamone_admin21 May 27, 2022 Amazing Ways That RPA Can be Used in Healthcare Read More svamone_admin21 May 20, 2022 Tips to Avert Cyber-attacks and Reinforce Cybersecurity",
+    "The Health Insurance Portability and Accountability Act of 1996 (HIPAA) is a federal law that required the creation of national standards to protect sensitive patient health information from being disclosed without the patient's consent or knowledge.",
+    "With more than three decades of industry experience, Anil has led technology initiatives for Fortune 500 companies and public-sector organizations alike."
+   ],
+   "compliance": [
+    "Elite Credentials: CMMI ML3 DEV 2.0, ISO 9001:2015 and ISO 27001:2022 Infrastructure: Enterprise-grade facility with 24/7 power redundancy, fiber-optic network, and connectivity to all the global delivery centers.",
+    "Certified: CMMI Level 5, ISO 9001:2015, and ISO 27001:2013.",
+    "Elite Industry Credentials: CMMI Level 5 Appraised with ISO 9001:2015 and ISO 27001:2013 certifications.",
+    "ISO 9001 : is defined as the international standard that specifies requirements for a quality management system (QMS)."
+   ],
+   "prod_eng": [
+    "Mexico - Nearshore center Established in 2009 in Victoria, Tamaulipas , our Mexico facility specializes in Nearshore Development and Product Engineering ."
+   ],
+   "qa": [
+    "For the high-value retail clients like Lowe’s and Ann, we executed several strategic programs – Large QA/Testing CoE, Customer MDM, Integration CoE, SAP retail, Infrastructure support, and IT Helpdesk."
+   ],
+   "DQ_support": [
+    "For the high-value retail clients like Lowe’s and Ann, we executed several strategic programs – Large QA/Testing CoE, Customer MDM, Integration CoE, SAP retail, Infrastructure support, and IT Helpdesk.",
+    "Manish Sehgal Vice President Sales & Marketing Linkedin Manish is an Industry professional with more than 25 years in IT Industry in Hardware Maintenance, IT and Infrastructure Support and Business Development.",
+    "In SVAM India he heads the Domestic Business Development and looks after IT Support and Infrastructure."
+   ],
+   "sdlc": [
+    "With development centers in New York, New Delhi, India and Victoria, Mexico, SVAM can offer clients’ cost-effective solutions through a blend of engagement models."
+   ],
+   "cicd": [
+    "His ability to develop partnerships and alliances, coupled with his proficiency in pipeline development and strategic transformations, has set him apart in the industry."
+   ],
+   "senior_roles": [
+    "Extensive experience in Service Delivery, Business Product Strategy, Enterprise Application Development, Support & Maintenance, Solution Architecture & Design, and Program & Project Management."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Orange Business Services India Network Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "orange-business.com",
+  "website": "https://www.orange-business.com/en",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ss with the digital workplace The digital workplace equips your workforce with what they need to be super smart, not only in that first interaction bu"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 115052,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 11,
+   "compliance": 6,
+   "owns_product": 6
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Link to Implement a collaboration solution designed for your employees Provide an outstanding employee experience Boost your performance and your appeal by ensuring a high-performance, agile and innovative work environment.",
+    "The result: a coherent, agile, and high-performing data environment that enables optimal data usage across your organization.",
+    "Find out how customers are already achieving significant savings, reducing vendor sprawl, and replacing legacy infrastructure with a more agile, modern approach."
+   ],
+   "compliance": [
+    "It also guarantees compliance with key regulations such as GDPR, NIS2, and the AI Act, while giving your business teams fast, easy access to reliable information."
+   ],
+   "owns_product": [
+    "Link to Data Management: Take control of your data assets Data Architecture: Design and deploy your technology platform Combining strategic guidance with hands-on implementation, our approach ensures your platform is aligned with both business goals and technical requirements.",
+    "Our platform ensures secure, scalable performance with API-based connectivity, real-time control, and global reach, enhancing user experience and driving business outcomes."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Orange Data Tech Private Limited",
+  "city": "Indore",
+  "domain": "orangedatatech.com",
+  "website": "https://orangedatatech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 3889,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 2,
+   "compliance": 6,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Custom-built data pipelines We design and develop custom data pipelines to extract, transform, and load data from multiple sources into a centralized database, data lake, or data warehouse.",
+    "Our data engineering team designs robust ETL pipelines to ensure smooth data flow from various sources into your MySQL databases."
+   ],
+   "compliance": [
+    "Accept Reject Close GDPR Cookie Settings Privacy Overview Strictly Necessary Cookies Cookie Policy Powered by GDPR Cookie Compliance Privacy Overview This website uses cookies so that we can provide you with the best user experience possible."
+   ],
+   "owns_product": [
+    "Talk to an Implementation Expert Organizations ready to deploy modern IAM infrastructure, modernize legacy systems, or accelerate their identity transformation can reach out to discuss how implementation services can deliver your platform on time, within budget, and with measurable business value."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "Plutomen Technologies Private Limited",
+  "city": "Ahmedabad",
+  "domain": "pluto-men.com",
+  "website": "https://pluto-men.com",
+  "already_in_hubspot": false,
+  "headcount_known": 31,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "omen Partner Program Career Resources Blogs Newsroom eBooks Case Studies FAQs Request Demo Frontline Operations Platform Simplify the Way Frontline Wo"
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 62200,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "owns_product": 5,
+   "compliance": 5,
+   "sdlc": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Industries Automotive Aviation Construction & Engineering Defense Food & Beverage Healthcare HVAC Manufacturing Oil & Gas Power & Renewable Energy Smart City Telecom Platform Platform Overview no-code editor to digitize frontline knowledge."
+   ],
+   "owns_product": [
+    "Interested to See Our Platform in Action?",
+    "With our platform , we aim to bridge the knowledge gap for workers who are often dispersed, working remotely, or lack access to proper training and support.",
+    "Awards & Recognitions Supporters & Accelerators Get Demo Join the ranks of leading industrial enterprises that empower frontlines.",
+    "Apply for Career Interested to See Our Platform in Action?"
+   ],
+   "compliance": [
+    "Accept Close GDPR Cookie Settings Privacy Overview Strictly Necessary Cookies Powered by GDPR Cookie Compliance Privacy Overview This website uses cookies so that we can provide you with the best user experience possible."
+   ],
+   "sdlc": [
+    "Other Industries Where Our Augmented Reality Solutions are Adopted Adopt Plutomen’s augmented reality solutions in construction industry today and streamline your processes."
+   ],
+   "DQ_support": [
+    "While initial setup and hardware investment exist, AR reduces expensive errors, rework, and project delays by improving precision and decision-making."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "10 Decoders Consultancy Services Private Limited",
+  "city": "Chennai",
+  "domain": "10decoders.com",
+  "website": "https://10decoders.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Custom Software Development Company - 10decoders --> --> --> --> Sales@10decoders.com -->"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [
+    "https://10decoders.keka.com/careers"
+   ],
+   "jd_chars": 5769,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 36,
+   "sdlc": 12,
+   "cicd": 49,
+   "compliance": 12,
+   "qa": 41,
+   "owns_product": 10,
+   "vcs": 1,
+   "DQ_template": 5,
+   "prod_eng": 10,
+   "senior_roles": 1,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "10decoders is a digital solutions and consulting company built for mid-market Healthcare, FinTech and growing SMBs.",
+    "Book a Discovery Call See what we build Trusted by leading enterprises and healthcare teams What we build Six practices.",
+    "Our practices are tuned for teams with real systems, real volume and real stakes — mid-market Healthcare and FinTech, and SMBs on a genuine growth curve.",
+    "Healthcare EHR/EMR, prior authorization, denial management, clinical document intelligence and RCM."
+   ],
+   "sdlc": [
+    "Get an honest read Ask about Rapid Agent Builder How we work Start where you actually are.",
+    "How does 10decoders' engagement model actually work?",
+    "10decoders follows a three-stage engagement model: discovery workshop, pilot implementation, and production rollout.",
+    "Enterprise security and quality discipline are part of how we work — not a slide we show once during procurement."
+   ],
+   "cicd": [
+    "3 Scale Full-scale rollout We deploy at scale with production pipelines, ongoing AI Ops and a trust layer — AI that compounds instead of stalling after the demo.",
+    "Read Article Data Engineering 7 min read Data Contracts for AI Pipelines: What Enterprise Teams Skip and What It Costs Them Most AI pipeline incidents don't start in the model.",
+    "We write the tests, manage the infrastructure, and automate the pipelines — so you release code faster with zero production drama.",
+    "We plug into your repository, CI/CD, and product flow — then bring AI and human expertise together across every release for clean builds and measurable confidence."
+   ],
+   "compliance": [
+    "37 + Clients ISO 27001 and ISO 9001 certified.",
+    "The company holds ISO 27001 and ISO 9001 certifications, with reference clients including IBM, Dedalus, and Harris Healthcare.",
+    "10decoders holds ISO/IEC 27001 for information security and ISO 9001 for quality management.",
+    "For healthcare engagements, it follows HIPAA-aligned controls, including Business Associate Agreement requirements before accessing protected health information."
+   ],
+   "qa": [
+    "Read Article Quality Engineering 8 min read Your AI Agent Passed the Demo.",
+    "· Privacy Policy · Cookie Preferences AI-Powered Quality Engineering & Testing",
+    "We plug engineering-led QA directly into your delivery flow.",
+    "QA experience 15 + QA clients served Trusted by leading enterprises and healthcare teams How We Test Three layers."
+   ],
+   "owns_product": [
+    "Want to partner and sell our products or services?",
+    "Forward Deployed Engineer A production engineer who works inside the customer's environment, sees what actually breaks against real data, and merges the fix into your product — rather than writing it up and filing it behind a quarter of backlog.",
+    "How our forward deployed engineers are staffed, what they own inside your release train, and how we stop customer work from forking your product.",
+    "Legacy Modernization Migration accelerators for PowerBuilder, MS Access, Oracle Forms, and mainframe apps."
+   ],
+   "vcs": [
+    "Works alongside your existing stack — Git, Jira, Jenkins, GitHub Actions, and the frameworks your team already uses."
+   ],
+   "DQ_template": [
+    "Ready-to-use frameworks Every engagement comes with battle-tested templates.",
+    "Did a prompt template update go out?",
+    "Cloud Migration Templates for GCP, AWS, and Azure with built-in cost optimization modules.",
+    "Microservices & APIs Internal scaffolding to generate API templates with observability built in."
+   ],
+   "prod_eng": [
+    "Quality Engineering Perspectives Quality & Platform Engineering Insights Validation harnesses, non-deterministic test design, and platform operating models.",
+    "Core Capabilities The full product engineering stack.",
+    "AWS · Azure · GCP Microservices Observability ⧉ API-First Product Engineering Modular, API-first architectures and strong engineering practices that enable rapid iteration and clean integration.",
+    "Product engineering ran for two decades on a clean handoff."
+   ],
+   "senior_roles": [
+    "Leadership Team Board of Advisory Venkatachalam Founder & CEO A tech leader with 16+ years driving digital transformation across global enterprises."
+   ],
+   "DQ_training": [
+    "Women · Returnship Reset & Rise A structured path back for women returning after a career break — real re-onboarding, mentorship, and placement on live projects."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ },
+ {
+  "name": "IEMA Research & Development Private Limited",
+  "city": "Kolkata",
+  "domain": "iemlabs.com",
+  "website": "https://iemlabs.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230102",
+   "quote": "ourses CompTIA Courses Cloud Courses Services Open menu Web/Application Development Software Development ISO Audits ISMS/ VAPT Audit Hackathon Digital"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1,
+   "pr_practice": 2,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "From programming, networking, cloud technologies, and ethical hacking to specialized bootcamps and diploma programs, each course delivers hands-on experience led by experienced instructors."
+   ],
+   "pr_practice": [
+    "We offer comprehensive VAPT (Vulnerability Assessment & Penetration Testing), Web & Mobile Application Security Testing, Network Penetration Testing, and Source Code Review.",
+    "VAPT Data Recovery Services Source Code Review"
+   ],
+   "compliance": [
+    "Know More Cyber Security Courses and Services --> About Us IEMLabs is an ISO 27001:2022, ISO 27032:2023 & ISO 9001:2015 certified, CERT-In empanelled, and CMMI L3 company."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 10
+ }
+]

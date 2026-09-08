@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Krescent IT Labs Private Limited",
+    "domain": "kitlabs.us",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Team page has no names, only 'our skilled, experienced professionals'",
+    "others": []
+  },
+  {
+    "name": "Lulu Tech Park Private Limited",
+    "domain": "lulutechpark.com",
+    "person": "Yusuff Ali M.A",
+    "title": "Chairman & Managing Director, Lulu Group",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "'Yusuff Ali M.A Chairman & Managing Director, Lulu Group'; promoter of Lulu IT Parks",
+    "others": []
+  },
+  {
+    "name": "Mindmill Software Limited",
+    "domain": "mindmill.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only product documentation for Institute Management System; no people named",
+    "others": []
+  },
+  {
+    "name": "Naviga Technology Solutions Private Limited",
+    "domain": "navigaglobal.com",
+    "person": "Scott Roessler",
+    "title": "Chief Executive Officer",
+    "linkedin": "https://www.linkedin.com/in/scott-e-roessler",
+    "confidence": "high",
+    "evidence": "'Scott Roessler Chief Executive Officer ... is the CEO of Naviga'",
+    "others": [
+      {
+        "person": "Karin Soderlund",
+        "title": "Chief Innovation Officer of Publishing",
+        "linkedin": "https://www.linkedin.com/in/karin-s%C3%B6derlund-8b2982"
+      },
+      {
+        "person": "Mike Moore",
+        "title": null,
+        "linkedin": "https://www.linkedin.com/in/mike-moore-3651415"
+      },
+      {
+        "person": "Raul Suarez",
+        "title": null,
+        "linkedin": "https://www.linkedin.com/in/suarezr"
+      }
+    ]
+  },
+  {
+    "name": "Orimark Technologies Private Limited",
+    "domain": "orimarktechnologies.com",
+    "person": "Swarup Ranjan Mohapatra",
+    "title": "CEO",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "'Meet The Team ... Swarup Ranjan Mohapatra CEO He is a dynamic business leader'",
+    "others": [
+      {
+        "person": "Sabyasachi Mishra",
+        "title": "Advisor",
+        "linkedin": ""
+      },
+      {
+        "person": "Gobinda Chandra Patra",
+        "title": "Advisor",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Phykon Solutions Pvt Ltd",
+    "domain": "phykon.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Order-management product page only; no leadership names present",
+    "others": []
+  },
+  {
+    "name": "Promact Infotech Private Limited",
+    "domain": "promactinfo.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Repeated case-study/services copy; only client 'Vanto Group' named",
+    "others": []
+  },
+  {
+    "name": "QuasarCyberTech Private Limited",
+    "domain": "quasarcybertech.com",
+    "person": "Kishor Sonawane",
+    "title": "Founder",
+    "linkedin": "https://www.linkedin.com/in/kishor-s-9405127",
+    "confidence": "high",
+    "evidence": "'QuasarCyberTech was founded by Kishor Sonawane, a cybersecurity leader'",
+    "others": []
+  },
+  {
+    "name": "Rishabh Software Pvt Ltd",
+    "domain": "rishabhsoft.com",
+    "person": "Raju Shah",
+    "title": null,
+    "linkedin": "https://www.linkedin.com/in/raju-shah-8560296",
+    "confidence": "low",
+    "evidence": "Leadership section: \"Shah's leadership philosophy\"; first leadership LinkedIn is raju-shah",
+    "others": [
+      {
+        "person": "Saumil Shah",
+        "title": null,
+        "linkedin": "https://www.linkedin.com/in/saumilrshah"
+      }
+    ]
+  },
+  {
+    "name": "Sathya Technosoft India Private Limited",
+    "domain": "sathyainfo.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Digital-marketing services copy only; no individual named",
+    "others": []
+  },
+  {
+    "name": "Shass Information & Quality Engineering Services",
+    "domain": "siqes.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "About/mission copy only; no leadership names on scraped pages",
+    "others": []
+  }
+]

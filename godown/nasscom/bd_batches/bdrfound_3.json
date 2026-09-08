@@ -1,0 +1,211 @@
+[
+  {
+    "name": "OMEGA SOLUTION",
+    "domain": "solution.omega.ac",
+    "person": "Sabbir Hossan Emon",
+    "title": "Chief Executive Officer",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "high",
+    "evidence": "Sabbir Hossan Emon Chief Executive Officer",
+    "others": [
+      {
+        "person": "Takdirul Islam Shishir",
+        "title": "Chief Operating Officer",
+        "linkedin": ""
+      },
+      {
+        "person": "Abu Sufian Sakib",
+        "title": "Head Of Business",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Polygon Technology",
+    "domain": "polygontech.xyz",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "No personal names anywhere in text; services/product copy only",
+    "others": []
+  },
+  {
+    "name": "Primacy Infotech Ltd",
+    "domain": "primacyinfotechltd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Only manager and client-testimonial names; no CEO/founder stated",
+    "others": []
+  },
+  {
+    "name": "ReformedTech",
+    "domain": "reformedtech.org",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About page describes team collectively; no individual named",
+    "others": []
+  },
+  {
+    "name": "SoftBD Ltd",
+    "domain": "soft-bd.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Team list shows managers/engineers only; no CEO, MD or founder",
+    "others": [
+      {
+        "person": "Md. Shafiqul Islam",
+        "title": "Chief Business Officer (CBO)",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "SOFTEKO",
+    "domain": "softeko.co",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "+88 01327403953",
+    "email": "contact@softeko.co",
+    "confidence": "low",
+    "evidence": "\"discussing your project with CEO & CTO\" - titles only, unnamed",
+    "others": []
+  },
+  {
+    "name": "Softograph Limited",
+    "domain": "softograph.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "About page written entirely in third person about the company",
+    "others": []
+  },
+  {
+    "name": "SOFTXMIND LIMITED",
+    "domain": "softxmind.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "\"How do founders choose...\" is generic blog copy, not a person",
+    "others": []
+  },
+  {
+    "name": "Spring Rain",
+    "domain": "springrainit.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "No personal names; about and staff-augmentation copy only",
+    "others": []
+  },
+  {
+    "name": "Syftet Limited",
+    "domain": "syftet.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Services and portfolio copy only; no individual named",
+    "others": []
+  },
+  {
+    "name": "Sylnovia",
+    "domain": "sylnovia.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Capabilities marketing copy only; no personal names present",
+    "others": []
+  },
+  {
+    "name": "Teccmark PLC",
+    "domain": "teccmark.org",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "\"Founded in Dhaka\" but no founder named anywhere in text",
+    "others": []
+  },
+  {
+    "name": "Technology and Business Solutions Ltd (TBS)",
+    "domain": "tecbsl.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Company history and Banani address only; no person named",
+    "others": []
+  },
+  {
+    "name": "THESOFTKING LIMITED",
+    "domain": "thesoftking.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "+8801811-797272",
+    "email": "software@thesoftking.com",
+    "confidence": "low",
+    "evidence": "\"We work as a team\"; no individual leader named on page",
+    "others": []
+  },
+  {
+    "name": "Tirzok Private Limited",
+    "domain": "tirzok.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "+8801896398590, +8801896282933",
+    "email": "info@tirzok.com",
+    "confidence": "low",
+    "evidence": "About page covers company history only; no leader named",
+    "others": []
+  },
+  {
+    "name": "Traideas",
+    "domain": "traideas.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "confidence": "low",
+    "evidence": "Single award sentence; no person named",
+    "others": []
+  }
+]

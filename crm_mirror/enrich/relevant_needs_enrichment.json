@@ -1,0 +1,78 @@
+[
+ {
+  "deal": "340343171782",
+  "name": "Userology",
+  "who": "Yuktha",
+  "stage": "No Pickup",
+  "src": "Outflo Outreach ( Startups )",
+  "day": "2026-08-05",
+  "note": "Relevant and Interested Ishpreet already in touch",
+  "phone": null,
+  "contacts": [
+   {
+    "firstname": "Shrey",
+    "lastname": "Khokhra",
+    "email": "shreykhokhra@gmail.com",
+    "linkedin_url": "https://www.linkedin.com/in/shrey-khokhra-8320a7127",
+    "jobtitle": "Co-Founder"
+   }
+  ]
+ },
+ {
+  "deal": "340286823112",
+  "name": "Flashpoint AI",
+  "who": "Yuktha",
+  "stage": "GMeet Fixed",
+  "src": "Outflo Outreach ( Startups )",
+  "day": "2026-08-05",
+  "note": "Relevant and Interested POC is interested, have asked for call timing + shared calendly link",
+  "phone": null,
+  "contacts": [
+   {
+    "firstname": "Raghav",
+    "lastname": "Arora",
+    "email": null,
+    "linkedin_url": "https://www.linkedin.com/in/raghavaro",
+    "jobtitle": "Head of Engineering"
+   }
+  ]
+ },
+ {
+  "deal": "340358867669",
+  "name": "NITHILAM.TECH",
+  "who": "Yuktha",
+  "stage": "Dead/ColdCall/Not Interested",
+  "src": "Outflo Outreach ( Startups )",
+  "day": "2026-08-05",
+  "note": "Relevant lead but POC not interested",
+  "phone": null,
+  "contacts": [
+   {
+    "firstname": "Karthikeyan",
+    "lastname": "Kasiviswanathan",
+    "email": null,
+    "linkedin_url": "https://www.linkedin.com/in/kartooz",
+    "jobtitle": "Chief Executive Officer"
+   }
+  ]
+ },
+ {
+  "deal": "340357010151",
+  "name": "Recepto",
+  "who": "Yuktha",
+  "stage": "Dead/ColdCall/WrongFit",
+  "src": "Outflo Outreach ( Startups )",
+  "day": "2026-08-05",
+  "note": "Not fully relevant and POC not interested 2 companies founded by him are still running and the first one was acquired by Mercer",
+  "phone": null,
+  "contacts": [
+   {
+    "firstname": "Ketan",
+    "lastname": "Kapoor",
+    "email": null,
+    "linkedin_url": "https://www.linkedin.com/in/ketankapoor",
+    "jobtitle": "Co-founder and CEO"
+   }
+  ]
+ }
+]

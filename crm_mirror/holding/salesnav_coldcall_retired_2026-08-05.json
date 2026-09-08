@@ -1,0 +1,387 @@
+[
+ {
+  "deal_id": "337264332509",
+  "dealname": "The Modern Data Company",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:21:58.533Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522917939960
+  ]
+ },
+ {
+  "deal_id": "337319017204",
+  "dealname": "NICE Ltd",
+  "owner": "Ishpreet Sood",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:22:05.545Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522917940932
+  ]
+ },
+ {
+  "deal_id": "337276931833",
+  "dealname": "Reliance Intelligence",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:22:10.933Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522912389833
+  ]
+ },
+ {
+  "deal_id": "337304446652",
+  "dealname": "ORBCOMM",
+  "owner": "Ishpreet Sood",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:22:18.121Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522902563526
+  ]
+ },
+ {
+  "deal_id": "337255327440",
+  "dealname": "PW (PhysicsWallah)",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:22:25.999Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522914207479
+  ]
+ },
+ {
+  "deal_id": "337267937988",
+  "dealname": "Autopilot Growth",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:22:38.158Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522927645411
+  ]
+ },
+ {
+  "deal_id": "337293652684",
+  "dealname": "Teikametrics",
+  "owner": "Ishpreet Sood",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:22:44.939Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522908774104
+  ]
+ },
+ {
+  "deal_id": "337280518851",
+  "dealname": "Secure Traces",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:22:51.982Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522900757192
+  ]
+ },
+ {
+  "deal_id": "337257119468",
+  "dealname": "NimbleWork, INC (formerly Digité)",
+  "owner": "Ishpreet Sood",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:22:59.439Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522927646437
+  ]
+ },
+ {
+  "deal_id": "337280518853",
+  "dealname": "Vymo",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:23:07.548Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522940339952
+  ]
+ },
+ {
+  "deal_id": "337299060446",
+  "dealname": "Kimbal",
+  "owner": "Ishpreet Sood",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:23:12.525Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522900758243
+  ]
+ },
+ {
+  "deal_id": "337343869635",
+  "dealname": "Traya",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:23:16.581Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522940340947
+  ]
+ },
+ {
+  "deal_id": "337291845318",
+  "dealname": "Capri Global Capital Ltd.",
+  "owner": "Ishpreet Sood",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:23:21.283Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522969605880
+  ]
+ },
+ {
+  "deal_id": "337319019242",
+  "dealname": "Woolf",
+  "owner": "Ishpreet Sood",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:23:35.575Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522912394938
+  ]
+ },
+ {
+  "deal_id": "337262534370",
+  "dealname": "Kambaa Inc",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:23:44.036Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522889672412
+  ]
+ },
+ {
+  "deal_id": "337320816332",
+  "dealname": "Wingify",
+  "owner": "Ishpreet Sood",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:23:51.549Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522966009549
+  ]
+ },
+ {
+  "deal_id": "337266135787",
+  "dealname": "Cendyn",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:23:58.849Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522891472570
+  ]
+ },
+ {
+  "deal_id": "337342087897",
+  "dealname": "Self-employed",
+  "owner": "Ishpreet Sood",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:24:06.456Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522889673415
+  ]
+ },
+ {
+  "deal_id": "337290052296",
+  "dealname": "ABB",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:24:14.055Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522898943707
+  ]
+ },
+ {
+  "deal_id": "337322604231",
+  "dealname": "Sycamore Informatics Inc.",
+  "owner": "Ishpreet Sood",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:24:21.204Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522915951294
+  ]
+ },
+ {
+  "deal_id": "337275125470",
+  "dealname": "Paytm",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:24:28.751Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522912398016
+  ]
+ },
+ {
+  "deal_id": "337342087908",
+  "dealname": "InovarTech",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:24:43.293Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522915953393
+  ]
+ },
+ {
+  "deal_id": "337297247944",
+  "dealname": "Zingle AI Lab",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:24:57.721Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522915954401
+  ]
+ },
+ {
+  "deal_id": "337290052312",
+  "dealname": "IET India",
+  "owner": "Ishpreet Sood",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:25:05.006Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522940348143
+  ]
+ },
+ {
+  "deal_id": "337291845340",
+  "dealname": "Cars24",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:25:11.875Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522891476695
+  ]
+ },
+ {
+  "deal_id": "337302660814",
+  "dealname": "Keychain",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:25:26.910Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522893259473
+  ]
+ },
+ {
+  "deal_id": "337320816369",
+  "dealname": "Sahi",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:25:42.106Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522889680632
+  ]
+ },
+ {
+  "deal_id": "337304448743",
+  "dealname": "Headout",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:25:57.456Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522902576889
+  ]
+ },
+ {
+  "deal_id": "337293653726",
+  "dealname": "PAR Technology",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:26:11.788Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522920313586
+  ]
+ },
+ {
+  "deal_id": "337343870676",
+  "dealname": "Asort.com",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:26:26.198Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522927656642
+  ]
+ },
+ {
+  "deal_id": "337342088920",
+  "dealname": "Enphase Energy",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:26:40.494Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522893263557
+  ]
+ },
+ {
+  "deal_id": "337342088923",
+  "dealname": "Synaptic",
+  "owner": "Ishpreet Sood",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:26:47.417Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522895396543
+  ]
+ },
+ {
+  "deal_id": "337275126486",
+  "dealname": "Equations Work",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:26:54.695Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522927661768
+  ]
+ },
+ {
+  "deal_id": "337302660839",
+  "dealname": "Future Focus Infotech Private Limited",
+  "owner": "Ishpreet Sood",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:27:01.701Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522910575310
+  ]
+ },
+ {
+  "deal_id": "337262537423",
+  "dealname": "WebEngage",
+  "owner": "Shobit Gupta",
+  "stage": "Cold Call",
+  "created": "2026-07-21T14:27:09.168Z",
+  "pipeline": "2425754306",
+  "contact_ids": [
+   522910577364
+  ]
+ }
+]

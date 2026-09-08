@@ -1,0 +1,28 @@
+[site] 672 in lane, 0 done, 672 to go, 8 workers
+[site] batch 1/27 — 25 done, 29/min, ~22 min left
+[site] batch 2/27 — 50 done, 41/min, ~15 min left
+[site] batch 3/27 — 75 done, 40/min, ~15 min left
+[site] batch 4/27 — 100 done, 44/min, ~13 min left
+[site] batch 5/27 — 125 done, 36/min, ~15 min left
+[site] batch 6/27 — 150 done, 43/min, ~12 min left
+[site] batch 7/27 — 175 done, 41/min, ~12 min left
+[site] batch 8/27 — 200 done, 43/min, ~11 min left
+[site] batch 9/27 — 225 done, 44/min, ~10 min left
+[site] batch 10/27 — 250 done, 43/min, ~10 min left
+[site] batch 11/27 — 275 done, 42/min, ~9 min left
+[site] batch 12/27 — 300 done, 45/min, ~8 min left
+[site] batch 13/27 — 325 done, 45/min, ~8 min left
+[site] batch 14/27 — 350 done, 45/min, ~7 min left
+[site] batch 15/27 — 375 done, 45/min, ~7 min left
+[site] batch 16/27 — 400 done, 43/min, ~6 min left
+[site] batch 17/27 — 425 done, 45/min, ~6 min left
+[site] batch 18/27 — 450 done, 46/min, ~5 min left
+[site] batch 19/27 — 475 done, 45/min, ~4 min left
+[site] batch 20/27 — 500 done, 44/min, ~4 min left
+[site] batch 21/27 — 525 done, 43/min, ~3 min left
+[site] batch 22/27 — 550 done, 43/min, ~3 min left
+[site] batch 23/27 — 575 done, 44/min, ~2 min left
+[site] batch 24/27 — 600 done, 44/min, ~2 min left
+[site] batch 25/27 — 625 done, 9/min, ~6 min left
+[site] batch 26/27 — 650 done, 9/min, ~3 min left
+[site] COMPLETE — 672 processed in 74.0 min

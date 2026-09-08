@@ -1,0 +1,293 @@
+[
+ {
+  "name": "AceVector limited",
+  "domain": "snapdeal.com",
+  "person": "Achint Setia",
+  "title": "Chief Executive Officer",
+  "linkedin": "",
+  "confidence": "high",
+  "is_india_entity_leader": true,
+  "evidence": "Achint Setia is the Chief Executive Officer of Snapdeal",
+  "others": []
+ },
+ {
+  "name": "Achala IT Solutions Private Limited",
+  "domain": "achalasolutions.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "confidence": "low",
+  "is_india_entity_leader": false,
+  "evidence": "no pages scraped; text empty",
+  "others": []
+ },
+ {
+  "name": "Acuiti Labs (India) Pvt Ltd",
+  "domain": "acuitilabs.com",
+  "person": "Manoj Harbhajanka",
+  "title": "CEO",
+  "linkedin": "https://www.linkedin.com/in/manojharbhajanka",
+  "confidence": "high",
+  "is_india_entity_leader": true,
+  "evidence": "Message from CEO Manoj Harbhajanka ... Manoj Harbhajanka CEO",
+  "others": [
+   {
+    "person": "Dhawal Ghatalia",
+    "title": "CFO",
+    "linkedin": ""
+   },
+   {
+    "person": "Souvik Majumdar",
+    "title": null,
+    "linkedin": "https://www.linkedin.com/in/souvik-majumdar-1a355618"
+   }
+  ]
+ },
+ {
+  "name": "AdGlobal360 India Private Limited",
+  "domain": "adglobal360.com",
+  "person": "Rakesh Yadav",
+  "title": "Founder & CEO",
+  "linkedin": "",
+  "confidence": "high",
+  "is_india_entity_leader": true,
+  "evidence": "Rakesh Yadav Founder & CEO Rakesh heads AGL along with 1000+",
+  "others": [
+   {
+    "person": "Mandeep Singh",
+    "title": "Founder & Chairman",
+    "linkedin": ""
+   },
+   {
+    "person": "Kosuke Kataoka",
+    "title": "Managing Director, Hakuhodo India & Global South (parent group, on AGL board)",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "Adrenalin eSystems Ltd",
+  "domain": "myadrenalin.com",
+  "person": "Arun Jain",
+  "title": "Chairman & Promoter of Adrenalin eSystems Limited",
+  "linkedin": "",
+  "confidence": "high",
+  "is_india_entity_leader": true,
+  "evidence": "Arun Jain is the Chairman & Promoter of Adrenalin eSystems Limited",
+  "others": [
+   {
+    "person": "Subramanian KS",
+    "title": "Chief Financial Officer",
+    "linkedin": "https://www.linkedin.com/in/subramanian-ks-24a365194"
+   }
+  ]
+ },
+ {
+  "name": "AIM Education Private Limited",
+  "domain": "praxis.ac.in",
+  "person": "Charanpreet Singh",
+  "title": "Co-Founder & Director",
+  "linkedin": "",
+  "confidence": "high",
+  "is_india_entity_leader": true,
+  "evidence": "Charanpreet Singh Co-Founder & Director Praxis Business School Foundation",
+  "others": []
+ },
+ {
+  "name": "AKS Information Technology Services Pvt Ltd",
+  "domain": "aksitservices.co.in",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "confidence": "low",
+  "is_india_entity_leader": false,
+  "evidence": "team/leadership pages returned 404 text; no person named",
+  "others": []
+ },
+ {
+  "name": "Allegis Services (India) Private Limited (Actalent)",
+  "domain": "easi.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "confidence": "low",
+  "is_india_entity_leader": false,
+  "evidence": "no person named; sole LinkedIn URL has only widget markup as context",
+  "others": []
+ },
+ {
+  "name": "Analytix Business Solutions (India) Private Limited",
+  "domain": "analytix.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "confidence": "low",
+  "is_india_entity_leader": false,
+  "evidence": "scraped text is service copy only; no person named",
+  "others": []
+ },
+ {
+  "name": "Avaali Solutions Private Limited",
+  "domain": "avaali.com",
+  "person": "Srividya Kannan",
+  "title": "Founder & Chief Executive Officer",
+  "linkedin": "https://www.linkedin.com/in/srividya-kannan-avaali",
+  "confidence": "high",
+  "is_india_entity_leader": true,
+  "evidence": "Srividya Kannan Founder & Chief Executive Officer; She has guided Avaali's growth",
+  "others": [
+   {
+    "person": "Piyush Agrawal",
+    "title": "Vice President - Velocious",
+    "linkedin": "https://www.linkedin.com/in/piyush-agrawal-583a6272"
+   },
+   {
+    "person": "Naveen Prabhakar",
+    "title": "Vice President - Business Operations, Bid Management & Legal",
+    "linkedin": "https://www.linkedin.com/in/naveen-prabhakar-73367113"
+   },
+   {
+    "person": "Guruprasad M",
+    "title": "Finance Director",
+    "linkedin": "https://www.linkedin.com/in/guruprasad-m-45605624"
+   }
+  ]
+ },
+ {
+  "name": "AXISCADES Technologies Limited",
+  "domain": "axiscades.com",
+  "person": "Sampath Ravinarayanan",
+  "title": "Founder Chairman & Managing Director",
+  "linkedin": "",
+  "confidence": "high",
+  "is_india_entity_leader": true,
+  "evidence": "Sampath Ravinarayanan is the Founder Chairman & Managing Director of AXISCADES Technologies",
+  "others": [
+   {
+    "person": "KP Mohanakrishnan",
+    "title": "Deputy CEO & President - Aerospace",
+    "linkedin": ""
+   },
+   {
+    "person": "C Manikandan",
+    "title": "President - ESAI & CEO - Mistral Solutions Private Limited",
+    "linkedin": ""
+   },
+   {
+    "person": "Ravikumar Joghee",
+    "title": "Chief Marketing Officer",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "CS Soft Solutions (India) Private Limited",
+  "domain": "cssoftsolutions.com",
+  "person": "Chhotu Sharma",
+  "title": "Founder & CEO",
+  "linkedin": "https://www.linkedin.com/in/chhotu-sharma-52ba671b",
+  "confidence": "high",
+  "is_india_entity_leader": true,
+  "evidence": "Meet the Leadership Team ... Chhotu Sharma Founder & CEO",
+  "others": [
+   {
+    "person": "Abhishek Sood",
+    "title": "Business Head",
+    "linkedin": "https://www.linkedin.com/in/mrabhisheksood"
+   },
+   {
+    "person": "Anil Kharyal",
+    "title": "Department Head",
+    "linkedin": "https://www.linkedin.com/in/anil-kharyal"
+   },
+   {
+    "person": "Shalini Sharma",
+    "title": null,
+    "linkedin": "https://www.linkedin.com/in/shalini-sharma-970928369"
+   }
+  ]
+ },
+ {
+  "name": "Inadev India Private Limited",
+  "domain": "inadev.com",
+  "person": "Manish Agarwal",
+  "title": "Chief Executive Officer",
+  "linkedin": "https://www.linkedin.com/in/manish-agarwal-dc",
+  "confidence": "medium",
+  "is_india_entity_leader": false,
+  "evidence": "Inadev Appoints Manish Agarwal as CEO; Inadev, a multinational technology firm",
+  "others": [
+   {
+    "person": "Jitesh Sachdev",
+    "title": "Founder, President",
+    "linkedin": "https://www.linkedin.com/in/jitesh-sachdev-b95bb9"
+   },
+   {
+    "person": "Vikrant Binjrajka",
+    "title": "Founder, Chief Technology Officer",
+    "linkedin": "https://www.linkedin.com/in/vikrant-binjrajka-541b95"
+   }
+  ]
+ },
+ {
+  "name": "Kapil IT Solutions Private Limited",
+  "domain": "kapilit.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "confidence": "low",
+  "is_india_entity_leader": false,
+  "evidence": "no pages scraped; text empty",
+  "others": []
+ },
+ {
+  "name": "Object Technology Solutions India Private Limited",
+  "domain": "otsi.co.in",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "confidence": "low",
+  "is_india_entity_leader": false,
+  "evidence": "single sentence of marketing copy; no person named",
+  "others": []
+ },
+ {
+  "name": "TLC Digitech Private Limited",
+  "domain": "tlcgroup.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "confidence": "low",
+  "is_india_entity_leader": false,
+  "evidence": "about-us text covers history/vision only; no person named",
+  "others": []
+ },
+ {
+  "name": "Oasys Tech Solutions Private Limited",
+  "domain": "oasystspl.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "confidence": "low",
+  "is_india_entity_leader": false,
+  "evidence": "only leader captured is Abhiram Pradhan, Asst Vice President - not founder/CEO/MD",
+  "others": [
+   {
+    "person": "Abhiram Pradhan",
+    "title": "Asst Vice President",
+    "linkedin": ""
+   }
+  ]
+ },
+ {
+  "name": "SAG Infotech Pvt Ltd",
+  "domain": "saginfotech.com",
+  "person": null,
+  "title": null,
+  "linkedin": "",
+  "confidence": "low",
+  "is_india_entity_leader": false,
+  "evidence": "team/leadership pages returned empty text",
+  "others": []
+ }
+]

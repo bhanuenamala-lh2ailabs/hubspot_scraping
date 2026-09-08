@@ -1,0 +1,879 @@
+[
+ {
+  "name": "NEC Software Solutions (India) Private Limited",
+  "city": "Mumbai",
+  "domain": "rave-tech.com",
+  "website": "https://rave-tech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 5,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "That shift arrives while portable gaming hardware… Xbox Console Price Hike: Is PlayStation Now the Better Buy?",
+    "It changes enough of the creator workflow to remind everyone that software upgrades can expose weak hardware, messy scenes, outdated drivers, and poorly planned source management.",
+    "It is Samsung’s clearest signal yet that AI hardware is moving from the phone screen toward the face, where cameras, voice, sensors, and context can make assistance feel more immediate.",
+    "Our editorial team includes seasoned streamers, hardware testers, broadcast engineers, and digital creators with firsthand experience across Twitch, YouTube, Kick, and the wider competitive gaming ecosystem."
+   ],
+   "DQ_template": [
+    "WordPress Theme by Superbthemes.com"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Neilsoft Limited",
+  "city": "Pune",
+  "domain": "neilsoft.com",
+  "website": "https://neilsoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 12,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Manager Business development Application Engineer Administrator - Plant 3D Project Engineering Manager Full Stack Web Application Developer (Software Engineer) Full Stack Web Application Developer (Sr."
+   ],
+   "DQ_template": [
+    "Construction Data Setup Configuring Forma document control, coordination, and project templates for AEC and plant delivery."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Nemetschek India Private Limited",
+  "city": "Hyderabad",
+  "domain": "nemetschek.com",
+  "website": "https://www.nemetschek.com/en",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1996-05-30",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 46421,
+   "signals": {
+    "vcs_generic": 8
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Read more Partnering with GitHub:",
+     "From Fragmentation to Platform, Scaling Innovation Across Nemetschek Nemetschek consolidates its development ecosystem on GitHub Enterprise...",
+     "Read more Partnering with GitHub:"
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 16,
+   "vcs": 3,
+   "DQ_training": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Read more Why construction in healthcare keeps failing and what the best projects are doing different.",
+    "Healthcare construction often suffers delays and cost overruns.",
+    "Read more Latest Topics and Insights Go to overview Newsletter abonnieren Why construction in healthcare keeps failing and what the best projects are doing different."
+   ],
+   "vcs": [
+    "Read more Partnering with GitHub: From Fragmentation to Platform, Scaling Innovation Across Nemetschek Nemetschek consolidates its development ecosystem on GitHub Enterprise..."
+   ],
+   "DQ_training": [
+    "read more Altglienicker Bridge (Germany) 30 years after its decommissioning, the Altglienicker Bridge in Berlin will finally receive a new replacement structure.",
+    "read more Replacement Bridge over the Hracholusky Reservoir Contruss Engineering s.r.o."
+   ],
+   "owns_product": [
+    "However, our product portfolio is our biggest contribution to sustainability."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "NetCracker Technology Solutions (India) Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "netcracker.com",
+  "website": "https://www.netcracker.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "s Necessary Statistics Marketing Cookie Name Purpose Cookie PHP Name PHPSESSID Purpose This cookie is automatically generated by applications based on"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 28412,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 4,
+   "owns_product": 1,
+   "senior_roles": 2,
+   "enterprise": 3,
+   "DQ_support": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Learn more Services Industry expertise and agile practices for optimal digital transformation results.",
+    "Read more Products & Services A comprehensive and modular product suite for the digital lifestyle Read more Netcracker in the News Industry expertise and agile practices for optimal digital transformation results Read more Meet Our Team “I started as a Junior Software Engineer in my last semester of University.",
+    "Read more Services Industry-leading expertise and agile practices to deliver measurable transformation results.",
+    "Service providers and enterprises become more agile, competitive and secure as they benefit from a continually updated and compliant IT environment."
+   ],
+   "owns_product": [
+    "Read more Products & Services A comprehensive and modular product suite for the digital lifestyle Read more Netcracker in the News Industry expertise and agile practices for optimal digital transformation results Read more Meet Our Team “I started as a Junior Software Engineer in my last semester of University."
+   ],
+   "senior_roles": [
+    "Often, something comes my way, challenges me and pushes me out of my comfort zone to accomplish it.” Aditya, Solution Architect India “I really like the culture of Netcracker.",
+    "Assists operators to define a cohesive strategy for digital transformation, designing solution architecture and implementation roadmaps and delivering optimal customer journeys."
+   ],
+   "enterprise": [
+    "They can also include the following: Your Insurance We care about your health and safety and we provide comprehensive insurance with a variety of coverage plans for you to choose from.",
+    "We offer our employees greater security with our life, accident and disability insurance coverage to help with unpredictable life events.",
+    "Monetize Cross-Industry Opportunities Netcracker Next-Generation Revenue Management substantially increases support for new business models and rapidly rolls out services across different verticals in telecom and non-telecom industries, including utilities, transportation, logistics, agriculture and healthcare."
+   ],
+   "DQ_support": [
+    "It supports distributed multicloud deployments with latency-critical charging functions, such as online session management and real-time service quotation, in the edge cloud and other functions in public or telco clouds."
+   ],
+   "cicd": [
+    "The solution always equips CSPs with the latest version by employing a modern evergreen approach to product rollout with DevOps and CI/CD/CT practices."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Netflix Entertainment Services India LLP",
+  "city": "Mumbai",
+  "domain": "about.netflix.com",
+  "website": "https://about.netflix.com/en",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "New Relic One India Private Limited",
+  "city": "Bengaluru",
+  "domain": "newrelic.com",
+  "website": "https://newrelic.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 2212,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 2,
+   "cicd": 2,
+   "qa": 2
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Get Started Free Get Demo SRE Agent Move beyond assistance to automated remediation.",
+    "Read Their Story Domino's logo Domino’s UK modernized reliability operations with SRE."
+   ],
+   "cicd": [
+    "Understand cloud costs Gain real-time visibility into multi-cloud and Kubernetes spend.",
+    "Read Their Story Seismic logo Seismic standardized on Terraform to support massive growth."
+   ],
+   "qa": [
+    "Data analytics firm used the New Relic free tier to shift left and easily scale their observability deployment."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Nexteer Automotive India Private Limited",
+  "city": "Bengaluru",
+  "domain": "nexteer.com",
+  "website": "https://www.nexteer.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 13238,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "In-house development and full system integration of hardware, software and electronics provides us with a competitive advantage as an agile, full-service supplier to automotive OEMs around the world."
+   ],
+   "DQ_support": [
+    "In-house development and full system integration of hardware, software and electronics provides us with a competitive advantage as an agile, full-service supplier to automotive OEMs around the world."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Nielseniq (India) Private Limited",
+  "city": "Chennai",
+  "domain": "nielseniq.com",
+  "website": "https://nielseniq.com/global/en/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ion What we do How we can help Know your consumer Innovate your products Refine your assortment Perfect your channels Maximize your revenue Optimize y"
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [
+    "https://join.smartrecruiters.com/NielsenIQ/04980a77-a032-429d-aafa-c98f19912694-global-career-site-prospects"
+   ],
+   "jd_chars": 93170,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "owns_product": 6
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Be curious, agile and flexible—challenge assumptions."
+   ],
+   "owns_product": [
+    "Our Product teams differentiate us by listening to customer needs and designing solutions that deliver the Full View™ of consumer behavior.",
+    "Commercial Commercial teams Our product portfolio solves complex problems for highly innovative industries.",
+    "Our Marketing and Communications team ensures all NIQ employees, clients, and prospective clients know who we are, why we exist, and the value our products create for clients.",
+    "90%+ proprietary product, consumer, and retailer data One connected intelligence layer + platform $7.4T global consumer spend covered 28k AI models in production daily NIQ delivers intelligence to clients wherever their workflows live."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Nike India Technology Center Private Limited",
+  "city": "Bengaluru",
+  "domain": "about.nike.com",
+  "website": "https://about.nike.com/en/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 682414,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 6,
+   "DQ_training": 8
+  },
+  "site_quotes": {
+   "cicd": [
+    "That constant back-and-forth was where the breakthroughs happened.\\u003c/p\\u003e\\u003cp\\u003e\\u003cstrong\\u003ePerformance design is always a balance.\\u003c/strong\\u003e Too much cushioning and you lose sensation; too much sensation and it becomes overwhelming.",
+    "Too much cushioning and you lose sensation; too much sensation and it becomes overwhelming."
+   ],
+   "DQ_training": [
+    "\\u003c/strong\\u003eWe went through hundreds of iterations, tuning the number, density, flexibility and placement of the nodes to make sure the sensation was enough to feel and focus on but not so much that it became distracting.",
+    "We used sensory science to determine the placement of the 22 nodes.",
+    "We wrote scripts that determined where each node needed to be for athlete performance and how those placements could still be manufactured consistently.",
+    "We went through hundreds of iterations, tuning the number, density, flexibility and placement of the nodes to make sure the sensation was enough to feel and focus on but not so much that it became distracting."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Nishith Desai Associates",
+  "city": "Mumbai",
+  "domain": "nishithdesai.com",
+  "website": "http://www.nishithdesai.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 39448,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 4,
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Sprinting to the Future of Law At NDA, we believe in helping shape the future of law through deep research and thought leadership."
+   ],
+   "enterprise": [
+    "India’s New Online Gaming Law: Industry Insights Navigating Data Protection in Healthcare: Legal Insights for India AI-Generated Content, Deepfakes and Platform Liability: How Global Platforms Can Navigate India’s New Rules Decoding India’s 2026 Budget & Global Competitiveness more Audio WHAT WE CONTRIBUTE."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Nisum Consulting Private Limited",
+  "city": "Hyderabad",
+  "domain": "nisum.com",
+  "website": "https://www.nisum.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "losophy Our Charter Our Core Values Partners Partner Values Portfolio Leadership Global Leadership Global Citizenry United Nations' 2030 Goals How We"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 59538,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Agentic Legacy System Modernization Custom GenAI Solutions, Tools & Applications Price Pro How We Partner With Our Clients to Drive Growth Our 4D Model defines four dimensions that guide how we work, how we measure impact, and how we ensure lasting value for your business, your people, and your customers."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Nomura Research Institute Financial Technologies India Pvt Ltd",
+  "city": "Kolkata",
+  "domain": "nrifintech.com",
+  "website": "https://www.nrifintech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ntegration Gateway (EIG) Reconciliation Solution Enterprise Application Development Framework Disclaimer CSR Policy Terms of use Personal Data Protect"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Northern Operating Services Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "northerntrust.com",
+  "website": "https://www.northerntrust.com/asia-pac/home",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1996-07-23",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 46576,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "O'Grady Chairman and Chief Executive Officer Michael O'Grady is Chairman and Chief Executive Officer of Northern Trust, a leading provider of wealth management, asset servicing, asset management and banking to corporations, institutions, affluent families and individuals.",
+    "READ BIO Guy Gibson Co-President, Asset Servicing and Head of Institutional Banking & Global Markets Guy is co-president of Asset Servicing, and global head of Institutional Banking & Markets.",
+    "Levy is Executive Vice President, General Counsel and Corporate Secretary of Northern Trust, a leading provider of wealth management, asset servicing, asset management and banking to corporations, institutions, affluent families and individuals."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Novartis Development IT (A Div. of Novartis Healthcare Pvt Ltd)",
+  "city": "Hyderabad",
+  "domain": "novartis.com",
+  "website": "https://www.novartis.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 122478,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 8,
+   "DQ_training": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Every day, we work to reimagine medicine to improve and extend people’s lives so that patients, healthcare professionals and societies are empowered in the face of serious disease.",
+    "Today, we take on the toughest challenges in healthcare and turn innovations into medicines that redefine the future for patients.",
+    "Health and wellbeing We offer medical and life insurance as well as benefits to support your overall wellbeing."
+   ],
+   "DQ_training": [
+    "Professional and leadership development Access thousands of courses, tools and resources, including coaching opportunities and internal talent and learning platforms."
+   ],
+   "DQ_support": [
+    "We think so and here are just some of the reasons why: we believe our workplace should reflect today’s emerging workforce; every culture needs diversity to thrive; and it supports fair treatment and opportunities for all our people."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Novo Elixir INC",
+  "city": "Mohali",
+  "domain": "novoelixir.com",
+  "website": "https://novoelixir.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Novo Nordisk Service Center India Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "novonordisk.com",
+  "website": "https://www.novonordisk.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "rtnering & innovation Sustainable business Careers About us Our products Investors News & media Patient help Healthcare professionals Contact us See h"
+  },
+  "jd": {
+   "pages_read": 26,
+   "external_job_boards": [],
+   "jd_chars": 33031,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "enterprise": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Novo Nordisk Disease areas Science & technology Partnering Sustainable business Careers About us Our products Investors News & media Healthcare professionals Contact us Read more here ® ')\"> Visit NovoCare® Latest news {{'2026-08-10T12:00:00Z'"
+   ],
+   "enterprise": [
+    "Novo Nordisk Disease areas Science & technology Partnering Sustainable business Careers About us Our products Investors News & media Healthcare professionals Contact us Read more here ® ')\"> Visit NovoCare® Latest news {{'2026-08-10T12:00:00Z'"
+   ],
+   "cicd": [
+    "Explore our pipeline Browse our entire R&D pipeline by study phase, or select a specific therapy areas."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "NSM Services Private Limited",
+  "city": "Chennai",
+  "domain": "mrcooper.com",
+  "website": "https://www.mrcooper.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 4567,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "It plays a part in determining everything from your home equity and insurance… View more » Behind on Mortgage Payments?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "NTT DATA Information Processing Services Private Limited",
+  "city": "Bengaluru",
+  "domain": "nttdata.com",
+  "website": "https://www.nttdata.com/global/en/about-us",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 41759,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "July 17, 2026 Global Edge READ MORE Why cloud is the missing link in banking AI AI projects are stalling everywhere in the banking industry.Boards have approved the budgets, pilot projects are running, there's a roadmap full of use cases, and the models are working … but not much is changing.",
+    "July 1, 2026 Global Network READ MORE Banking looks beyond pilot projects to turn AI into business impact Are you leading or lagging in AI?",
+    "It's a complicated question, and in banking and financial services, the answer is beginning to determine real competitive advantage.",
+    "July 1, 2026 Global Data & Artificial Intelligence READ MORE Why insurers' AI ambitions are exposing the cloud execution gap AI makes it possible for insurance claims adjusters to instantly access every relevant policy detail."
+   ],
+   "sdlc": [
+    "June 18, 2026 Global Data & Artificial Intelligence READ MORE Building agile supply chains in a volatile world: 5 key learnings Does it feel like your operations team is doing nothing but firefighting?",
+    "IT Transformation Design a truly agile digital experience with IT strategies that leverage cloud-based solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Nura Analytics Private Limited",
+  "city": "Chennai",
+  "domain": "datacrew.ai",
+  "website": "https://datacrew.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 4925,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Domain Knowledge Proven knowledge across Banking, Retail, CPG, Energy, Manufacturing, and Mobility Professional 70% of our team holds Master’s degrees in Data and Artificial Intelligence.",
+    "We combine global experience in 15+ countries with deep industry knowledge in Pharma, IT, Manufacturing, Agri & Commodities, FMCG, Mobility, and Banking.",
+    "Services Data Strategy & Roadmap Data & Analytics Data Engineering Business Intelligence AI & Machine Learning Data Monetization Industries Banking & Financial Services Manufacturing Food & Beverage Logistics Apparel Real Estate Retail Copyrights © 2025 Datacrew.ai /*!",
+    "UAE Testimonials Insurance Fraud Detection Head of Claims , APAC Vehicle Insurance Company Datacrew.ai’s machine learning and GenAI-powered fraud detection system dramatically improved our claims accuracy and reduced manual review time."
+   ],
+   "cicd": [
+    "Our engineers design scalable data pipelines and architectures, our BI experts create insightful dashboards using BI tools, and our data scientists and AI engineers develop intelligent models that drive automation, prediction, and smarter decisions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "NuSummit Technologies Private Limited",
+  "city": "Mumbai",
+  "domain": "nusummit.com",
+  "website": "https://www.nusummit.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 14606,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "name": "Initium Digital Private Limited",
+    "domain": "initiumdigital.com",
+    "person": "Abhishek Bhate",
+    "title": "Founder & Chief Executive Officer",
+    "linkedin": "https://www.linkedin.com/in/abhishekbhate",
+    "confidence": "high",
+    "evidence": "\"Founder & Chief Executive Officer Abhishek Bhate Abhishek leads Initium Digital\"",
+    "others": [
+      {
+        "person": "Charmaine Fernandes",
+        "title": null,
+        "linkedin": "https://www.linkedin.com/in/charmaine-fernandes-400725182"
+      },
+      {
+        "person": "Sumit Gaikwad",
+        "title": null,
+        "linkedin": "https://www.linkedin.com/in/sumit-gaikwad-59b7b915"
+      }
+    ]
+  },
+  {
+    "name": "InOrg Global India Private Limited",
+    "domain": "inorg.com",
+    "person": "Jeremy Stensland",
+    "title": "Founder & President",
+    "linkedin": "https://www.linkedin.com/in/jeremy-stensland-0b37802",
+    "confidence": "medium",
+    "evidence": "Leadership card \"Founder & President\" sits directly on jeremy-stensland LinkedIn link",
+    "others": [
+      {
+        "person": "Mukti Bhagtani",
+        "title": "Vice President of Human Resources",
+        "linkedin": "https://www.linkedin.com/in/muktibhagtani"
+      },
+      {
+        "person": "Debojyoti Roy",
+        "title": null,
+        "linkedin": "https://www.linkedin.com/in/roydebojyoti"
+      },
+      {
+        "person": "Michael Gibson",
+        "title": null,
+        "linkedin": "https://www.linkedin.com/in/michael-gibson-20a9103a"
+      }
+    ]
+  },
+  {
+    "name": "Intact Business Services Private Limited",
+    "domain": "intactinsurance.co.uk",
+    "person": "Ken Norgrove",
+    "title": "Chief Executive Officer",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Ken Norgrove is the Chief Executive Officer of Intact Insurance, UK and International\"",
+    "others": [
+      {
+        "person": "Tovah Grosscurth",
+        "title": "Senior-Vice President, Managing Director Commercial Lines",
+        "linkedin": ""
+      },
+      {
+        "person": "Jonathan Cope",
+        "title": "Senior-Vice President, Managing Director UK Specialty Lines",
+        "linkedin": ""
+      },
+      {
+        "person": "Kevin Thompson",
+        "title": "CEO Intact Insurance Ireland",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Intelliob Technologies Pvt Ltd",
+    "domain": "intelliob.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "No individual named anywhere in the scraped product/about copy",
+    "others": []
+  },
+  {
+    "name": "Inzuscene Technologies Private Limited",
+    "domain": "inzuscene.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Vision/values page only; no person named",
+    "others": []
+  },
+  {
+    "name": "IT Infrastructure Park Private Limited",
+    "domain": "crcgroup.in",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "\"The base of CRC was oriented by the Managing Director Mr.\" - name truncated",
+    "others": []
+  },
+  {
+    "name": "Ixsight Technologies Pvt Ltd",
+    "domain": "ixsight.com",
+    "person": "Uma Venkataraman",
+    "title": "CEO & Co-Founder",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Uma Venkataraman CEO & Co-Founder\" under Our Team Founders",
+    "others": [
+      {
+        "person": "Devdutta (Sunil) B Modak",
+        "title": "Chairman",
+        "linkedin": ""
+      },
+      {
+        "person": "Savita Modak",
+        "title": "COO & Co-Founder",
+        "linkedin": ""
+      },
+      {
+        "person": "Rajesh Kini",
+        "title": "SVP & CSO",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Jones Lang LaSalle Property Consultants (India) Private Limited",
+    "domain": "jll.co.in",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Service/marketing pages only; leadership page not scraped, no names",
+    "others": []
+  },
+  {
+    "name": "Kalpatharu Software Limited",
+    "domain": "kalsofte.com",
+    "person": "T. Mani",
+    "title": "Founder",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Our founder, Mr.T.Mani, started off by making an in-house company\"",
+    "others": []
+  },
+  {
+    "name": "Kenvue Solutions India Private Limited",
+    "domain": "kenvue.com",
+    "person": "Kirk Perry",
+    "title": "Chief Executive Officer",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "Board list reads \"Kirk Perry Chief Executive Officer Director\"",
+    "others": [
+      {
+        "person": "Vasant Prabhu",
+        "title": "Director, Chair, Audit Committee",
+        "linkedin": ""
+      },
+      {
+        "person": "Erica Mann",
+        "title": "Director",
+        "linkedin": ""
+      },
+      {
+        "person": "Kathleen Pawlus",
+        "title": "Director",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "KLoc Technologies Private Limited",
+    "domain": "kloctechnologies.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "About Us copy names no individual",
+    "others": []
+  },
+  {
+    "name": "Kryptos Technologies Private Limited",
+    "domain": "kryptostech.com",
+    "person": "Prasanna",
+    "title": "Founder & Chairman",
+    "linkedin": "https://www.linkedin.com/in/prasanna-r-888088b",
+    "confidence": "medium",
+    "evidence": "\"Prasanna (Founder & Chairman) formed kryptos in 2006\"",
+    "others": [
+      {
+        "person": "Gokulnath C",
+        "title": null,
+        "linkedin": "https://www.linkedin.com/in/gokulnathc"
+      }
+    ]
+  },
+  {
+    "name": "Lattice Semiconductor (India) Private Limited",
+    "domain": "latticesemi.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only surname \"Ford\" appears for the top role; no full name",
+    "others": [
+      {
+        "person": "Esam Elashmawi",
+        "title": "Chief Strategy and Marketing Officer",
+        "linkedin": ""
+      },
+      {
+        "person": "Sanjoy Maity",
+        "title": "Senior Vice President, AMI Business Unit Leader",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "Lester Infoservices Private Limited",
+    "domain": "lesterinc.com",
+    "person": "Rajiv Samant",
+    "title": "CEO",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "Management Team: \"Rajiv Samant, CEO. Rajiv started his career at Intel\"",
+    "others": [
+      {
+        "person": "Nikhil Kothari",
+        "title": "Managing Director",
+        "linkedin": ""
+      }
+    ]
+  },
+  {
+    "name": "LinkedIn Technology Information Private Limited",
+    "domain": "in.linkedin.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Profiles are third-party content authors, not LinkedIn's own leadership",
+    "others": []
+  },
+  {
+    "name": "LoudCloud Systems Private Limited",
+    "domain": "bnedloudcloud.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Company history page names no individual",
+    "others": []
+  },
+  {
+    "name": "Marsh Mclennan (India) Private Limited",
+    "domain": "mercer.co.in",
+    "person": "Pat Tomlinson",
+    "title": "President & CEO, Mercer",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Meet our President & CEO, Mercer, Pat Tomlinson\"",
+    "others": []
+  },
+  {
+    "name": "MCO MyCompliance India Private Limited",
+    "domain": "mco.mycomplianceoffice.com",
+    "person": "Brian Fahey",
+    "title": "Founder and CEO",
+    "linkedin": "https://www.linkedin.com/in/brianfaheyterranua",
+    "confidence": "high",
+    "evidence": "\"privately held company led by Founder and CEO Brian Fahey\"; link labelled Brian Fahey CEO",
+    "others": [
+      {
+        "person": "Tom Peilow",
+        "title": "Chief Financial Officer",
+        "linkedin": "https://www.linkedin.com/in/tom-peilow-90856253"
+      },
+      {
+        "person": "David Kubersky",
+        "title": "Chief Revenue Officer",
+        "linkedin": "https://www.linkedin.com/in/david-kubersky"
+      },
+      {
+        "person": "George O'Shea",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/george-o-shea-30390a4"
+      }
+    ]
+  },
+  {
+    "name": "MHP India Private Limited",
+    "domain": "mhp.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Only a Partner is named; no founder/CEO/MD on scraped pages",
+    "others": [
+      {
+        "person": "Kenneth Seder",
+        "title": "Partner",
+        "linkedin": "https://www.linkedin.com/in/kenneth-seder-79849410"
+      }
+    ]
+  },
+  {
+    "name": "Minutus Computing Private Limited",
+    "domain": "minutuscomputing.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Purpose/motto/values page only; no person named",
+    "others": []
+  },
+  {
+    "name": "MTAP Technologies Pvt Ltd",
+    "domain": "mtap.in",
+    "person": "Srinivas Chitturi",
+    "title": "CEO & Co-Founder",
+    "linkedin": "",
+    "confidence": "medium",
+    "evidence": "\"Srinivas Chitturi CEO & Co-Founder Chief Tinkerer, responsible for building MTAP tech stack\"",
+    "others": [
+      {
+        "person": "Satvir Singh Kohli",
+        "title": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/satvirkohli"
+      },
+      {
+        "person": "Vamsi Krishna Kaki",
+        "title": "Head, Marketing",
+        "linkedin": "https://www.linkedin.com/in/vamsi-krishna-kaki-3a502229"
+      }
+    ]
+  },
+  {
+    "name": "Nanosecond Technologies Private Limited",
+    "domain": "pice.one",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "\"Meet Our Founders\" heading present but no names in text or contexts",
+    "others": []
+  },
+  {
+    "name": "NCR Corporation India Pvt Ltd",
+    "domain": "ncr.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Platform marketing copy only; no person named",
+    "others": []
+  },
+  {
+    "name": "NobleServe Systems Private Limited",
+    "domain": "nobleserve.com",
+    "person": null,
+    "title": null,
+    "linkedin": "",
+    "confidence": "low",
+    "evidence": "Mission/vision/values page only; no person named",
+    "others": []
+  }
+]

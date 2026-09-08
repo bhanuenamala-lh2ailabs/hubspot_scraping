@@ -1,0 +1,32 @@
+2,989 companies | already done 2,559 | this run 429
+     50/429  14/min  ETA 26min  {'domain_not_found': 1940, 'verified_product': 130, 'probable_product': 176, 'brochure_only': 355, 'error': 8}
+    100/429  14/min  ETA 23min  {'domain_not_found': 1963, 'verified_product': 131, 'probable_product': 178, 'brochure_only': 363, 'error': 24}
+    150/429  14/min  ETA 20min  {'domain_not_found': 1999, 'verified_product': 131, 'probable_product': 180, 'brochure_only': 366, 'error': 33}
+    200/429  14/min  ETA 16min  {'domain_not_found': 2035, 'verified_product': 131, 'probable_product': 183, 'brochure_only': 369, 'error': 41}
+    250/429  14/min  ETA 13min  {'domain_not_found': 2068, 'verified_product': 132, 'probable_product': 185, 'brochure_only': 374, 'error': 50}
+    300/429  14/min  ETA 9min  {'domain_not_found': 2102, 'verified_product': 132, 'probable_product': 188, 'brochure_only': 375, 'error': 62}
+    350/429  14/min  ETA 6min  {'domain_not_found': 2131, 'verified_product': 134, 'probable_product': 190, 'brochure_only': 382, 'error': 72}
+    400/429  14/min  ETA 2min  {'domain_not_found': 2158, 'verified_product': 137, 'probable_product': 196, 'brochure_only': 388, 'error': 80}
+
+wrote data/out/LH2_buy_list.csv (2,989 rows)
+
+=== CROSS-TAB: title_cleanliness x codebase_band x product_evidence ===
+
+title             codebase    verified_product  probable_product     brochure_only  domain_not_found
+--------------------------------------------------------------------------------------------
+voluntary_clean   likely                    57                63               189               806
+voluntary_clean   possible                  33                58               120               998
+clean             likely                     1                 1                 1                16
+clean             possible                   3                 2                 6                58
+consent_risk      likely                     1                 1                 1                 4
+consent_risk      possible                   2                 0                 1                 3
+encumbered        likely                    16                25                27                92
+encumbered        possible                  25                49                47               194
+--------------------------------------------------------------------------------------------
+
+>>> BUY LIST  voluntary_clean AND likely AND verified_product : 57
+    next tier  voluntary_clean AND likely AND probable_product : 63
+    combined                                                    : 120
+
+product_evidence overall: {'verified_product': 138, 'probable_product': 199, 'brochure_only': 392, 'domain_not_found': 2172, 'error': 88}
+domain resolved for 817/2,989 = 27%

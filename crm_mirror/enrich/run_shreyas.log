@@ -1,0 +1,44 @@
+targets=493  already_done=2  model=claude-haiku-4-5-20251001
+  [10/493] Oga                          cb= 20 od= 19 unknown src=wayback:202211
+  [20/493] BoStreet                     cb= 50 od= 44 product src=wayback:202310
+  [30/493] Dumbell                      cb= 52 od= 33 product src=wayback:202411
+  [40/493] Dhaksha                      cb= 60 od= 76 product src=live
+  [50/493] Logibricks                   cb= 76 od= 45 product src=live
+  [60/493] EyeMyEye                     cb= 54 od= 59 product src=wayback:202412
+  [70/493] Sutradhar                    cb= 56 od= 37 product src=live
+  [80/493] Arva Health                  cb= 56 od= 41 product src=live
+  [90/493] Finsire                      cb= 68 od= 43 product src=live
+  [100/493] Neend                        cb= 20 od= 17 unknown src=wayback:202504
+  [110/493] Toffee Insurance             cb= 50 od= 55 product src=live
+  [120/493] Buyceps                      cb= 64 od= 50 product src=wayback:202410
+  [130/493] Explorex                     cb= 76 od= 54 product src=live
+  [140/493] NimbusPost                   cb= 74 od= 80 product src=live
+  [150/493] Awon Gamez                   cb= 50 od= 12 product src=live
+  [160/493] Mobilab                      cb= 68 od= 63 product src=live
+  [170/493] Selligion                    cb= 76 od= 46 product   [180/493  [180/493] MotorPedia                   cb= 60 od= 55 product   [190/493  [190/493] AbleCredit                   cb= 82 od= 49 product   [200/493] Tranzmeo                     cb= 82 od= 43 product src=live
+  [210/493] SmartCheck                   cb= 66 od= 47 product src=live
+  [220/493  [220/493] Raho                         cb= 56 od= 43 product   [230/493] Kiko Live                    cb= 76 od= 53 product src=live
+  [240/493  [240/493] Celcius                      cb= 68 od= 83 product   [250/493  [250/493] SuperPe                      cb=  8 od= 26 unknown   [260/493] Siftly                       cb= 62 od= 18 product src=live
+  [270/493] Greenday                     cb= 64 od= 47 product src=live
+  [280/493] SimpliContract               cb= 74 od= 47 product src=live
+  [290/493  [290/493] EaseMyAI                     cb= 74 od= 32 product   [300/493] Newmi                        cb= 68 od= 59 product src=live
+  [310/493] Akoirah                      cb= 44 od= 38 product src=live
+  [320/493] Marut Drones                 cb= 68 od= 78 product src=live
+  [330/493] Devic Earth                  cb= 46 od= 49 product src=wayback:202511
+  [340/493] PDRL                         cb= 82 od= 53 product src=live
+  [350/493] WickedGud                    cb= 48 od= 73 product src=live
+  [360/493] VAMA                         cb= 56 od= 52 product src=live
+  [370/493] BlueBinaries                 cb=  0 od= 64 SHELL services_agency src=live
+  [380/493] Geri Care                    cb=  0 od= 85 SHELL services_agency src=live
+  [390/493] InfinityBox                  cb= 54 od= 80 product src=live
+  [400/493] Terractive                   cb= 50 od= 40 product src=live
+  [410/493] Fantail                      cb= 56 od= 34 product src=live
+  [420/493] Darwix AI                    cb= 60 od= 66 product src=live
+  [430/493] Pice                         cb= 42 od= 44 product src=live
+  [440/493] Lets Try                     cb= 56 od= 44 product src=live
+  [450/493] Varashakti Housing Finance   cb= 54 od= 85 product src=live
+  [460/493] KIWI Kisan Window            cb= 56 od= 56 product src=live
+  [470/493] GreenJams                    cb= 44 od= 75 product src=live
+  [480/493] Optimo Capital               cb= 42 od= 79 product src=live
+  [490/493] TechEra                      cb=  0 od= 71 SHELL services_agency src=live
+DONE  493 scored -> C:\Users\naani\OneDrive\Desktop\hubspot\crm_mirror\enrich\asset_scores_shreyas.json

@@ -1,0 +1,1006 @@
+[
+ {
+  "name": "Epicenter Technologies Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "epicentertechnology.com",
+  "website": "https://epicenter.tech/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2000-07-31",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 13,
+   "external_job_boards": [],
+   "jd_chars": 73329,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "This journey embarked with innovative technology solutions, empowering Fortune 500 companies worldwide to achieve remarkable business outcomes & solving their business challenges.",
+    "For example, the innovation that started as solution to healthcare industry as food delivery challenge has now become full-fledged product for a customer."
+   ],
+   "compliance": [
+    "As one of the pioneering BPOs in India to achieve ISO 9001, 22301 & 27001, PCI DSS, SOC 2 Type 2 and HIPAA compliance, we ensure the highest standards of data protection and operational integrity."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Fioneer India Private Limited",
+  "city": "Bengaluru",
+  "domain": "sapfioneer.com",
+  "website": "https://www.sapfioneer.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "SAP Fioneer | Exceptional software solutions for financial services Skip to content Solutions Partners Expand Amplif"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 20589,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 9,
+   "owns_product": 2,
+   "DQ_template": 2,
+   "sdlc": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Get in touch Watch demos SAP Fioneer is trusted by: Pause End-to-end solutions for financial services Banking Reach more customers and build trust with real-time financial insights and risk control.",
+    "Learn more Insurance Accelerate digital insurance processes to meet customer expectations and create new revenue streams by connecting easily to the ecosystem.",
+    "Martin, SVP & Chief Technology Officer at HASI – a mission-driven organisation investing in renewable energy projects – speaks about… Banking What’s new AI Agent The SAP Fioneer AI Agent is here Learn about the SAP Fioneer AI Agent, and how it can help you turn AI into a usable, scalable advantage for your business.",
+    "Learn more Article The modernization dividend Modernizing core insurance systems represents far more than a technical upgrade; it’s a strategic investment."
+   ],
+   "owns_product": [
+    "Join the 800 banks globally who have chosen our platform.",
+    "End-to-end integration Our product suite covers a range of pre-integrated solutions from front to back-end."
+   ],
+   "DQ_template": [
+    "The pre-configured templates simplify setup for use cases like legal client accounts or vendor payments so your bank becomes a trusted partner.",
+    "Best practice templates We have an extensive library of optimized industry templates that can be customized to meet your specific needs."
+   ],
+   "sdlc": [
+    "Read more Article Why Virtual Account Management serves today’s corporate treasury Physical accounts are expensive and remain too static in today’s agile corporate world."
+   ],
+   "compliance": [
+    "Download ISO 9001 Certificate Our quality management system (QMS) meets the requirements of the ISO 9001 standard, showing our commitment to consistently delivering high-quality products or services."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Foxivision Screening Services Private Limited",
+  "city": "New Delhi",
+  "domain": "foxivision.com",
+  "website": "https://foxivision.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 2064,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 7,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Read More February 11, 2021 admin 0 Comments Uncategorized How you can save wealth by opting for health insurance in 2021?",
+    "It has helped us change our mindset from looking at health insurance as a priority to knowing the necessity of having health insurance.",
+    "Not to forget that in a recent […] Read More October 15, 2020 admin 2 Comments Health , Life Insurance Why everyone should have Life Insurance Why everyone should have Life Insurance is a question we must often ask as Indian.",
+    "When the country loses its GDP so much, a lot of unemployment also […] Read More 1 2 Recent Posts How to create wealth in 2021 and include insurance in it?"
+   ],
+   "compliance": [
+    "About FOXIVISION Building Trust, No Scope for Frauds Fox I Vision is an ISO 9001:2015 and ISO 27001:2013 certified the best screening company from India, which has been amplifying its presence since January 2009 passively."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "GRC Mentor LLP",
+  "city": "Bengaluru",
+  "domain": "grcmentor.com",
+  "website": "https://www.grcmentor.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "TRAINING We help organisations to improve their processes, ensure compliance posture, objectives achievement, enhance performance, certifications like ISO/IEC 27001, ISO/IEC 20000, ISO 9001 or any other."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Handy Online Solutions Private Limited",
+  "city": "Gurugram",
+  "domain": "ongrid.in",
+  "website": "https://www.ongrid.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2016-02-06",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Due Diligence OnGrid acquires Ancora Technologies to unite verification & distribution across the BFSI ecosystem.",
+    "IT/ITes Banking, Financial Services, Insurance and Fin-Tech Staffing EdTech Retail, Hospitality, F&B Transportation, Logistics, eCommerce Manufacturing Healthcare Internet Platforms IT/ITes IT/ITes The IT industry hires millions of new employees/contractors every year."
+   ],
+   "compliance": [
+    "Holding ISO 27001:2022 certification and adhering to SOC 2 Type II compliance, we prioritize the highest standards of compliance and protection for your data."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "Hyring Tech Private Limited",
+  "city": "Chennai",
+  "domain": "hyring.com",
+  "website": "https://hyring.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 9233,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "compliance": 1,
+   "DQ_template": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "ATS Track candidates through every stage in one pipeline."
+   ],
+   "compliance": [
+    "Enterprise-grade security, certified Hyring is ISO 27001 certified and SOC 2 compliant, processes candidate data under GDPR, and connects to the ATS your team already uses."
+   ],
+   "DQ_template": [
+    "Generate Letters Calculators Checklists Frameworks HR Email Templates OKRs HR Policies HR Surveys HR Glossary JD vs."
+   ],
+   "enterprise": [
+    "Written by Adithyan RK View Profile Founder and CEO, Hyring 18+ years of experience Adithyan RK is the Co-Founder and CEO of Hyring, an AI-native recruitment platform that has run over 900,000 AI interviews for companies ranging from early-stage startups to the Fortune 500."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "I Base Software Solutions (India) Private Limited",
+  "city": "Hyderabad",
+  "domain": "ibaseit.com",
+  "website": "https://www.ibaseit.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Custom Software Development Services | IBaseIT --> What We Do Full Life-Cycle Development"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 4928,
+   "signals": {
+    "testing": 1
+   },
+   "quotes": {
+    "testing": [
+     "Test automation QATTs Low-code test automation platform connecting all your testing needs."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 9,
+   "prod_eng": 23,
+   "owns_product": 10,
+   "sdlc": 8,
+   "DQ_bpo": 1,
+   "cicd": 9,
+   "enterprise": 11,
+   "DQ_template": 2,
+   "compliance": 2,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Test automation QATTs Low-code test automation platform connecting all your testing needs.",
+    "Zero-to-one builds Digital strategy Quality engineering 04 Data & Insights Pipelines, governance, decision intelligence — the foundation every AI initiative actually rests on.",
+    "Test Automation QATTS Low-code continuous testing across every layer — unit, integration, regression, performance, and security — running from the first commit to every production release.",
+    "Launched QATTS, our flagship test automation product, and deployed advanced BOT solutions for the legal sector."
+   ],
+   "prod_eng": [
+    "Developer portal Cortex Internal developer portal enabling AI-driven product engineering excellence.",
+    "Brainstorm with Us Say hello We Engineer AI That Performs in Real World › 14+ Years of Proven Excellence Trusted by Fortune 100 Companies Proprietary AI Growth Framework ROI-Driven AI Use Case Prioritization End-to-End AI-First Product Engineering Accelerate core systems to be AI-ready",
+    "IBaseONE is our proprietary methodology that connects AI, cloud infrastructure, and product engineering into a single delivery framework — so every technology investment you make multiplies and scales.",
+    "Multi-modal AI Agentic Workflows SLMs IB-Forge — Legacy Modernisation Engine CoE 02 Cognitive Product Engineering AI infused into every stage of the development lifecycle, from digital strategy through to custom model fine-tuning."
+   ],
+   "owns_product": [
+    "MLOps & Orchestration Blockchain Edge / Cloud Deploy DataFoundry — Data Integrity Platform Our Accelerators Four accelerators that fasten your go-to-market.",
+    "04 / proprietary platforms Legacy Modernisation IB-Forge Multi-agent solution that autonomously dissects and modernises legacy codebases — turning years of technical debt into competitive infrastructure.",
+    "Learn more Engineering Excellence Cortex AI-powered engineering accelerator that lives inside your SDLC — reducing build time, enforcing quality, improving consistency every sprint.",
+    "Our Cortex accelerator lives inside your development environment, enforcing standards and surfacing reusable components so your engineers spend time building systems that deliver results."
+   ],
+   "sdlc": [
+    "Learn more Engineering Excellence Cortex AI-powered engineering accelerator that lives inside your SDLC — reducing build time, enforcing quality, improving consistency every sprint.",
+    "Learn more Frictionless Testing QATTs Autonomous testing framework that eliminates quality bottlenecks — continuous, intelligent, integrated from sprint one of every engagement.",
+    "Every sprint is engineered for production — with our accelerator QATTS running continuous quality assurance from the first commit.",
+    "Bespoke applications AI-native architecture Full lifecycle delivery Cortex accelerator QATTS quality Explore What's Possible What we build Enterprise Applications Complex, multi-user enterprise systems like CRM, ERP extensions, workflow platforms, and operational tools built completely around your processes."
+   ],
+   "DQ_bpo": [
+    "View all case studies Case 01 Immigration Automating Global Immigration Document Processing with RPA and AI Attorney and Paralegal teams are unable to efficiently read and process employee immigration applications due to manual data entry and document review."
+   ],
+   "cicd": [
+    "Multi-agent solutions Custom LLM fine-tuning Workflow automation 02 Cloud & Infrastructure Edge-to-cloud infrastructure, MLOps pipelines, and data orchestration built to scale with AI ambition.",
+    "MLOps pipelines Edge / multi-cloud Data orchestration 03 Product Engineering Full lifecycle development, digital strategy, and AI-infused product builds — concept to production.",
+    "Zero-to-one builds Digital strategy Quality engineering 04 Data & Insights Pipelines, governance, decision intelligence — the foundation every AI initiative actually rests on.",
+    "Data pipelines Governance Decision intelligence 05 AI Strategy & Roadmap Readiness assessment, adoption strategy, responsible-AI guardrails — and a sequenced ROI roadmap."
+   ],
+   "enterprise": [
+    "14+ years of delivery across insurance, banking, retail, and hi-tech has taught us one thing: the best software is not the most technically impressive.",
+    "With 14+ years of enterprise delivery across insurance, banking, retail, and hi-tech, we bring domain depth to every build.",
+    "DOMAIN SPECIALIZATION Industry-Specific Platforms Domain-deep software for insurance, banking, healthcare, retail, and hi-tech built by engineers who understand the business rules, compliance requirements, and user expectations of your industry.",
+    "Industry application Healthcare & Medical Devices Connected medical devices and patient monitoring systems — real-time vitals streaming, alert generation, and clinical decision support driven by live patient data at the edge."
+   ],
+   "DQ_template": [
+    "We don't retrofit templates.",
+    "Real-time data pipelines High-throughput streaming pipelines from device to analytics layer — processing thousands of concurrent device streams with sub-second latency and guaranteed delivery."
+   ],
+   "compliance": [
+    "Achieved ISO 27001:2022 Re-Certification and executed a Master Service Agreement (MSA) with a Fortune 200 Financial Services leader."
+   ],
+   "senior_roles": [
+    "Leadership & Team The Leadership Vision Our team comprises a specialized mix of technical architects and business domain experts across Strategy, Design, Analytics, and Product Management."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "IIC Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "iictechnologies.com",
+  "website": "https://www.iictechnologies.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1998-10-09",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Helping in discovery, maintenance, and promotion of historical monuments and landscapes Details About IIC Technologies - Global Provider of Geospatial solutions and services IIC Technologies is a ISO 27001, ISO 20000-1 and ISO 9001 accredited global provider of geospatial solutions and services."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "Indus Health Plus Pvt Ltd",
+  "city": "Pune",
+  "domain": "indushealthplus.com",
+  "website": "https://www.indushealthplus.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 6894,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 4,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Know More DNAwise To empower you with good health, Indus is offering preventive healthcare service, DNAwise, a personalized genetic testing package.",
+    "Home About Us About Us Indus Health Plus has been trailblazing the Preventive Healthcare and Wellness industry since its inception in 2000.",
+    "With the aim of making quality healthcare Available, Accessible and Affordable, Indus Health Plus has taken its services across the globe.",
+    "2019 Designed 5 Preventive Health Packages tailored for every age group./p> Reached 500+ diagnostic centers, ensuring wider healthcare access."
+   ],
+   "compliance": [
+    "An ISO 9001:2015 certified company, Indus Health Plus has been successful in saving more than 7 lakh lives, and establishing Prevention as a culture within many households."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "INFYZ Solutions Private Limited",
+  "city": "Hyderabad",
+  "domain": "infyz.com",
+  "website": "https://infyz.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Best Terminal Operating System (TOS) and Port Management Software Solutions Toggle navigation Home Platform iTOMS iNAUKA Vehicle Booking System Equ"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 4,
+   "compliance": 1,
+   "sdlc": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Contact us Explore our Platforms Global Implementations 0 + Dedicated Engineers 0 + Product Platforms AI Intelligence Powering Every Platform Our AI-powered Terminal Operating System, together with six specialized product platforms that simplify port, shipping and logistics operations.",
+    "Explore our Platforms iTOMS — Terminal Operations Management System AI-powered Terminal Operations Management System TOS — from vessel scheduling and berth planning to yard control and dispatch.",
+    "Explore More Built for Every Cargo Type Our platform support a wide range of terminal Operations and cargo handling environments.",
+    "Our platforms enable organizations to modernize operations, improve visibility, and drive smarter decision-making."
+   ],
+   "compliance": [
+    "CMMI Level 3 + ISO 27001 Built with CMMI Level 3 and ISO 27001 standards to ensure high-quality performance and data protection."
+   ],
+   "sdlc": [
+    "The platform streamlined vessel planning, yard management and gate operations while providing real-time insights that support faster and smarter decisions.\" — General Manager, Port Operations After implementing EPS, our processing speed improved by roughly 35%."
+   ],
+   "enterprise": [
+    "Backed by industry experts with experience in Fortune 500 companies and over 18 years of domain and technology expertise, Infyz combines deep operational understanding with advanced digital and AI capabilities."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Intellobots Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "intellobots.com",
+  "website": "https://www.intellobots.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2015-11-10",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 2513,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "enterprise": 2,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Privacy & Compliance by Design GDPR-compliant, with data sovereignty and privacy controls built-in from the ground up."
+   ],
+   "enterprise": [
+    "Intellobots serves a wide range of industries including Retail, Healthcare, Logistics, Manufacturing, Pharma, and Smart Cities, providing tailored use cases for each sector.",
+    "Global Scale Deliver enterprise-grade intelligent platforms to fortune 500 manufacturing, retail, and pharmaceutical clients worldwide."
+   ],
+   "DQ_support": [
+    "Cutting-Edge Tech Work directly on computer vision, IoT hardware architectures, automation ecosystems, and large-scale deployment scaling."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "ISEC Services Private Limited",
+  "city": "Mumbai",
+  "domain": "isec.co.in",
+  "website": "https://www.isec.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Highly recommended for any organization serious about security.\" CTO, Fortune 500 Company \"iSec's compliance audit helped us achieve ISO 27001 certification."
+   ],
+   "enterprise": [
+    "Highly recommended for any organization serious about security.\" CTO, Fortune 500 Company \"iSec's compliance audit helped us achieve ISO 27001 certification."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "ITTI Private Limited",
+  "city": "Bengaluru",
+  "domain": "itti.com",
+  "website": "https://www.itti.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Power BI Cognos SAP BI/BO Qlik Sense Application Management Application Development IBM System i Progress Services ERP Extenders LS Central for Retail"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 3960,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Infrastructure Management We provide remote and onsite support to our customers, for the maintenance of their IT Hardware and Infrastructure."
+   ],
+   "compliance": [
+    "Based on the leading edge ISO 9001:2015 standards, our Multi-Shore delivery capabilities have further enhanced the ‘value-add’, that our Customer’s experience, in their engagements with ITTI."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "JD Software Pvt Ltd",
+  "city": "Chennai",
+  "domain": "jdsoft.in",
+  "website": "https://www.jdsoft.in/",
+  "already_in_hubspot": false,
+  "headcount_known": 49,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "eering & Manufacturing Retail Telecom Education White Paper Case Studies Approach Approach Integration Our Methodology QUALITY POLICY Engagement Model"
+  },
+  "jd": {
+   "pages_read": 12,
+   "external_job_boards": [],
+   "jd_chars": 93428,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "sdlc": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Energy & Utilities The energy game is evolving, and JD Soft is right in the… Engineering & Manufacturing At JD Soft, we're on top of our game in engineering and… Retail At JD Soft, we've got the banking scene covered.",
+    "Advanced Data Analytics, Data Visualization, Reporting, Content, and Big Data Management in verticals such as Energy & Utilities, Oil & Gas, Manufacturing, Engineering, Healthcare, Insurance, and Retail."
+   ],
+   "sdlc": [
+    "Whether it's blending systems, adapting to new tech, or staying agile in business shifts, we've got you covered."
+   ],
+   "compliance": [
+    "Tailored Advice & Support Flexible Company Policies ISO 9001:2015 (QMS) & ISO: 27001:2013 (ISMS) / We are global Who We Are?"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Kautech Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "kautech.in",
+  "website": "https://www.kautech.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2021-10-08",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Services Enterprise Resource Planning - ERP Kautech delivers you crafted solutions to your company to agile your overall business growth."
+   ],
+   "compliance": [
+    "Phone: +91 7672050167 --> Email: director@kautech.in Useful Links Home About us Services Terms of service Privacy policy Our Services ERP Mobile Application Development Software Services An ISO 9001:2015 Certified Company Join Our Newsletter --> Enter your email address below."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "Lazer Ken IT Services India Pvt Ltd",
+  "city": "Gurugram",
+  "domain": "lazerken.com",
+  "website": "http://www.lazerken.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "2.6 Mn Uploaded Design Hours Humanware Deft, Experienced But Youthful 24/7 * 363 Service/Delivery In Real Time 100% Quality Control of Deliverable Certificate ISO 9001:2015 Our Projects Selected references further available upon request."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "Lexicon Infotech Limited",
+  "city": "Hyderabad",
+  "domain": "lexiconinfotech.com",
+  "website": "http://lexiconinfotech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "urity Cloud based solutions for complex business challenges Application Development Consulting, Business Intelligence Get customized solutions in mobi"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "compliance": 1,
+   "qa": 3,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Application migration to cloud Lexicon offers a flexible, tailored approach to help organizations move infrastructure, apps and processes to cloud so that they could scale it easily along with your evolving needs and save on hardware and support."
+   ],
+   "compliance": [
+    "We provide services across specialized industry verticals with complete regulatory compliance to HIPAA, PCI etc."
+   ],
+   "qa": [
+    "With well-ingrained QA processes, in-depth knowledge about the latest methodologies, industry-standard testing tools and technologies, we are well positioned to fulfill your testing needs.",
+    "Web Application Testing Lexicon’s comprehensive QA and testing practices ensure web applications meet organizations business needs and expectations.",
+    "Test Automation We provide organizations with our test automation services ranging from automation strategy up to automation of regression test suites."
+   ],
+   "enterprise": [
+    "At Lexicon, we have the experience, expertise and capability to help you innovate and transform your healthcare practice."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 2
+ },
+ {
+  "name": "Mergen Global Private Limited",
+  "city": "Hyderabad",
+  "domain": "mergenglobal.co",
+  "website": "https://mergenglobal.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 15375,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 8,
+   "enterprise": 12,
+   "DQ_support": 1,
+   "cicd": 1,
+   "compliance": 1,
+   "prod_eng": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "By providing flexible engagement models, Mergen ensures that each client receives customized solutions tailored to their specific needs.",
+    "By practicing Agile and DevOps methodologies we enhance flexibility, speed up development cycles, and improve the quality of deliverables.",
+    "Here’s how Low Code and RPA can transform your processes Case Study Digital Commerce in 2025 and Beyond: Emerging Trends and Opportunities Latest News Bridging the Gap in Medicine Access and Healthcare Literacy with AI Agents Ready to Accelerate Y our Global Growth with Mergen?"
+   ],
+   "enterprise": [
+    "Discover More Healthcare Manufacturing Professional Services Banking & Financial Retail and E-commerce Transportation & Logistics Telecommunications Real Estate/ Realty Sector Technology Technology",
+    "Industries We Specialize In Tailored GCC solutions for technology, healthcare, telecommunications, retail, financial services, real estate, and, manufacturing sectors driving innovation and efficiency across the verticals.",
+    "View all Industries Healthcare.",
+    "Latest Buzz & Updates Case Study Revolutionizing App Development: Unleashing Low Code with Generative AI Blog Unlock the Power of the Intelligent Healthcare Ecosystem Case Study Helping industries do better with generative AI: Mergen launches Genix Copilot with Microsoft Blog Automate to Innovate!"
+   ],
+   "DQ_support": [
+    "Key Offerings: Network Setup & Management Cybersecurity Solutions Server & Storage Management IT Support & Maintenance Cloud Infrastructure Management Explore More Our Services Workspace Solutions Mergen offers premium, customized, branded, and fully managed office solutions to enhance your workplace experience."
+   ],
+   "cicd": [
+    "Proven Expertise With the world's largest young population, India provides a deep pipeline of future talent."
+   ],
+   "compliance": [
+    "We ensure you have the right skills to scale your operations effectively, backed by industry-leading experience, ISO certification and GDPR compliance."
+   ],
+   "prod_eng": [
+    "Growth Phase: By the mid-2000s, GCCs began to diversify and expand, moving beyond basic IT services to more complex functions like R&D, product engineering, and knowledge process outsourcing[1].",
+    "By the mid-2000s, GCCs began to diversify and expand, moving beyond basic IT services to more complex functions like R&D, product engineering, and knowledge process outsourcing."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Meru Technosoft Private Limited",
+  "city": "Ahmedabad",
+  "domain": "merufintech.com",
+  "website": "https://merufintech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1355,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1,
+   "compliance": 7,
+   "cicd": 4,
+   "DQ_agency": 2,
+   "DQ_bpo": 2,
+   "qa": 3
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Founded by a Chartered Accountant and an enterprise CRM operator, our products replace the legacy stack — QuickBooks, Xero, Tally, Truein, Zoho — with a single AI-native suite."
+   ],
+   "compliance": [
+    "Multi-country (US / UK / IN / AU / CA / UAE / SG / SA), bank-connected, invoice-extraction-powered, SOC 2 Type II.",
+    "1,000+ SEO pages, 200+ organic signups, SOC 2 Type II.",
+    "Compliance: SOC 2 Type II · GDPR · DPDP Act (India) ."
+   ],
+   "cicd": [
+    "Live · hellotime.ai Sales pipeline for finance-led businesses.",
+    "Explore Sales pipeline that talks to HelloBooks customers.",
+    "Each solution maps to a flagship product HelloBooks.ai · AI accounting HelloTime · Workforce ops HelloGrowth CRM · Sales pipeline Browse all 17 solutions Compliance & trust",
+    "HelloGrowth CRM — Sales pipeline for finance-led businesses."
+   ],
+   "DQ_agency": [
+    "1,000+ SEO pages, 200+ organic signups, SOC 2 Type II.",
+    "Email us your CV Open roles We are continuously hiring engineers (Node / TypeScript / React / Flutter / Python), QA leads, customer success managers, and content / SEO specialists."
+   ],
+   "DQ_bpo": [
+    "Our founder is a Chartered Accountant and the founder of Meru Accounting (300+ KPO team, sold January 2025).",
+    "Founder of Meru Accounting (300+ KPO team, sold January 2025)."
+   ],
+   "qa": [
+    "We employ 40+ people across engineering, QA, customer success, and operations.",
+    "We ship product as a small, capital-efficient group — engineers, QA, customer success, design, and go-to-market all in close range.",
+    "Email us your CV Open roles We are continuously hiring engineers (Node / TypeScript / React / Flutter / Python), QA leads, customer success managers, and content / SEO specialists."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Movibase Platform Private Limited",
+  "city": "Hyderabad",
+  "domain": "monkdb.com",
+  "website": "https://www.monkdb.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 15093,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 5,
+   "compliance": 1,
+   "DQ_support": 2,
+   "enterprise": 2,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "Intelligence runs where the data lives, not after a pipeline hop.",
+    "No pipelines, no delays, no fragmented tools.",
+    "Cloud On-prem Edge Air-gapped Stack Replace complexity with one system Replace databases, pipelines, vector DBs, and AI layers with a single unified platform.",
+    "All from the same plane, with no pipeline glue in between."
+   ],
+   "compliance": [
+    "SIMD Vectorized ARM + x86 Zero-copy 0 5 SOC2 / ISO27001 Enterprise security Identity, access, audit, and lineage built into every query before it executes."
+   ],
+   "DQ_support": [
+    "Designed to run the heaviest workloads on the smallest hardware you can give it.",
+    "Perks What we offer Remote-first across global timezones Premium health insurance for you and family Annual learning and conference budget Quarterly team offsites Meaningful equity from day one Top-tier hardware and software stipend Hiring process What to expect 01 Apply Send a CV and a short note about why MonkDB."
+   ],
+   "enterprise": [
+    "It features a regulated access layer that integrates data systems to facilitate secure, contextual, and real-time AI.",
+    "Perks What we offer Remote-first across global timezones Premium health insurance for you and family Annual learning and conference budget Quarterly team offsites Meaningful equity from day one Top-tier hardware and software stipend Hiring process What to expect 01 Apply Send a CV and a short note about why MonkDB."
+   ],
+   "sdlc": [
+    "Open roles No openings as of now Why MonkDB How we work Four working principles 01 Sovereignty by design We build for control."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ }
+]

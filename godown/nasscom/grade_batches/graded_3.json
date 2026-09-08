@@ -1,0 +1,435 @@
+[
+ {
+  "name": "Input Zero Technologies Private Limited",
+  "domain": "inputzero.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023 Wayback snapshot advertising automation/managed-services work",
+  "evidence": [
+   "JD 'bitbucket' hit is Font Awesome CSS class, not prose",
+   "JD 'jenkins' and 'git' hits are icon-font CSS artefacts too",
+   "Wayback 2023-06: case studies, careers, resources pages live",
+   "Site compliance hits are GDPR cookie-banner text only"
+  ],
+  "why_this_rank": "130K chars of careers pages produced no engineering prose at all - every repo, CI and VCS hit is Font Awesome icon CSS, so I scored it as no evidence rather than as Bitbucket usage. A re-crawl of actual listings could move this materially; 233 headcount is a plausible target size."
+ },
+ {
+  "name": "Lexplosion Solutions Pvt Ltd",
+  "domain": "lexplosion.in",
+  "score": 88,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 25,
+  "tier_c_points": 13,
+  "raw_before_caps": 88,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023 snapshot: legal tech products designed and developed in-house",
+  "evidence": [
+   "JD: 'Familiarity with CodeCommit/Git, CI/CD' - AWS CodeCommit named",
+   "JD: 'Docker, Jenkins, CI/CD pipelines', Kubernetes and Argo CD",
+   "Site: ISO 27001, VAPT, penetration testing on Komrisk",
+   "Site: own products Komrisk/Komlit; clients CitiusTech, investment bank"
+  ],
+  "why_this_rank": ""
+ },
+ {
+  "name": "Alumnus Software Limited",
+  "domain": "alumnux.com",
+  "score": 75,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 25,
+  "tier_c_points": 0,
+  "raw_before_caps": 75,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2020 snapshot advertised application development services",
+  "evidence": [
+   "JD: 'Conduct code reviews and provide constructive feedback to peers'",
+   "JD: 'DevOps pipelines, including Jenkins and deployment workflows'",
+   "JD: dedicated automation QA - Robot Framework, Playwright test scripts",
+   "Wayback 2020: business workflow automation, client-server application development"
+  ],
+  "why_this_rank": "Crawl reached only home, careers, about and team - no blog or tech-stack page - so Tier C found nothing to corroborate and scored zero. The whole score rests on JD evidence; positioning signals are almost certainly under-counted for a firm this old."
+ },
+ {
+  "name": "Azalio Technologies Private Limited",
+  "domain": "azalio.io",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 15,
+  "tier_c_points": 0,
+  "raw_before_caps": 50,
+  "caps_applied": [
+   "generalist bundling: infrastructure/networking plus IT-operations automation - cap 30"
+  ],
+  "pre2024_basis": "UNKNOWN - no snapshot, no RDAP; missing not absent, +10 and no 45 cap",
+  "evidence": [
+   "JD: 'Ensure code quality through unit testing... and code reviews'",
+   "JD: Kubernetes, Docker, Terraform, Ansible, Jenkins CI/CD pipelines",
+   "Site: 'infrastructure and networking solutions... private, public, hybrid cloud'",
+   "JD: OpenShift platform operations, runbooks, ticket-triage automation"
+  ],
+  "why_this_rank": "Real code-review and IaC language puts this at 50, but the business sold is telco infrastructure and IT-operations automation - networking, runbooks, ticket triage - not software built for clients, so the generalist-bundling cap overrides real merit. Pre-2024 status is unverifiable, not disproved."
+ },
+ {
+  "name": "Karkinos Healthcare Private Limited",
+  "domain": "karkinos.in",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN per bundle, though the 2023 snapshot quote is patient-education content",
+  "evidence": [
+   "JD text names 'SSGA's DevOps technology stack' - another firm's listing",
+   "Darwinbox board JD: 'Migrate code from TFS to Azure DevOps'",
+   "Site: cancer-care network, patient testimonials, hospital referrals",
+   "Only 13K chars of JD text across five pages"
+  ],
+  "why_this_rank": "The Azure DevOps and CI/CD lines describe State Street's (SSGA) environment, so they are not attributable to Karkinos - treated the same way the rubric treats a vendor's VCS org, and scored zero. Core business is cancer-care delivery, not software sold to clients."
+ },
+ {
+  "name": "Soft Suave Technologies Private Limited",
+  "domain": "softsuave.com",
+  "score": 70,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 10,
+  "tier_c_points": 10,
+  "raw_before_caps": 70,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023 snapshot: 'Software Development Outsourcing Company In India'",
+  "evidence": [
+   "JD: 'unit testing, code reviews, design documentation, quality assurance'",
+   "Site: automated QA testing, test coverage, unit testing described",
+   "Site: 'Enterprise Product Engineering' as a named service line",
+   "Site: iterative scrum cycle, sprints, releases described"
+  ],
+  "why_this_rank": "Lands exactly on the Priority line. The sole review-gate evidence is one parenthetical inside 106K chars of otherwise marketing copy, and no CI/CD tooling is named anywhere on site or JD. I judged their product-engineering framing substantive (dedicated page, service line) rather than decorative; judged the other way it drops to Secondary."
+ },
+ {
+  "name": "Varutra Consulting Private Limited",
+  "domain": "varutra.com",
+  "score": 10,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 10,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023 snapshot, no software wording; weak +10",
+  "evidence": [
+   "JD: 'Penetration Testing, Source code reviews, Report Creation' - client deliverable",
+   "JD: 'Well versed in OWASP Code Review concepts' - security service",
+   "Site: network security and VAPT; no software delivery evidenced",
+   "No repo host, CI/CD or build tooling in 38K JD chars"
+  ],
+  "why_this_rank": "All eleven 'code review' hits are secure-code-review services Varutra sells to clients, not internal pull-request discipline - keyword, not substance, so Tier A and the quality-gate line both scored zero. They are a security consultancy; there is no client codebase being built here."
+ },
+ {
+  "name": "QR Solutions (India) Private Limited",
+  "domain": "qrsolutions.in",
+  "score": 65,
+  "band": "Secondary",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 15,
+  "tier_c_points": 0,
+  "raw_before_caps": 65,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023 snapshot advertised own products and services",
+  "evidence": [
+   "JD: 'CI/CD pipelines using Bitbucket Pipelines' - private host named",
+   "JD: 'Experience with Git-based version control workflows'",
+   "Site: Infrastructure as Code, Docker, AWS managed services",
+   "No PR or peer-review wording in 74K JD chars"
+  ],
+  "why_this_rank": ""
+ },
+ {
+  "name": "Testrig Technologies Private Limited",
+  "domain": "testrigtechnologies.com",
+  "score": 73,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 25,
+  "tier_c_points": 13,
+  "raw_before_caps": 73,
+  "caps_applied": [],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - Jan 2023 snapshot, no software wording; weak +10",
+  "evidence": [
+   "JD: 'bug tracking... tools such as Jira or Azure DevOps'",
+   "Site: 'Bitbucket... test execution for every code commit, pull request'",
+   "Site tech-stack: Playwright, Cypress, Selenium, k6, Appium",
+   "Site: 'shift-left testing' embedded in CI/CD pipelines"
+  ],
+  "why_this_rank": "The Bitbucket-plus-pull-request pair sits in service marketing about client pipelines, not in a JD describing their own repos, so I scored one-of-two (+25) rather than the full +40; the JD's Azure DevOps mentions are bug-tracker context. Also note they are a QA vendor - the asset is a test-automation framework, not client product code."
+ },
+ {
+  "name": "Checkmarx India Technology Services Private Limited",
+  "domain": "checkmarx.com",
+  "score": 63,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 25,
+  "tier_c_points": 13,
+  "raw_before_caps": 63,
+  "caps_applied": [
+   "multinational captive/product-vendor arm - rejected regardless of score"
+  ],
+  "pre2024_basis": "PROVEN - 2023 snapshot with dated blog posts and product news",
+  "evidence": [
+   "Site: SOC 2 Type II, ISO 27001, FedRAMP certifications listed",
+   "Site: 'Pull Request... Code Review & Merge' describes product features",
+   "JD: 'code reviews using the Checkmarx Platform' - customer service work",
+   "Site: TPG board members, Fortune 500 customers - PE-owned multinational"
+  ],
+  "why_this_rank": "Rejected as the India arm of a PE-owned multinational AppSec vendor - not acquirable, so band is Skip regardless of the 63. Its pull-request and code-review language describes what its product does for customers, not how its own engineers work, so Tier A scored zero."
+ },
+ {
+  "name": "Contata Solutions Private Limited",
+  "domain": "contata.com",
+  "score": 83,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 15,
+  "tier_c_points": 18,
+  "raw_before_caps": 83,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023 snapshot: data science, application development, IT consulting",
+  "evidence": [
+   "JD: 'Actively participate and manage design and code reviews'",
+   "Site: 'build a continuous integration and deployment system'; Airflow orchestration",
+   "Site: Product Engineering case studies - IP/law firm, oil and gas",
+   "JD: Agile/Scrum ceremonies, sprint planning, coding standards"
+  ],
+  "why_this_rank": "Only one careers page (19K chars) was captured, yet it carried an explicit design-and-code-review line; the rest of the score comes from dated case studies and an owned oil-and-gas module. More JD text would most likely confirm rather than move this placement."
+ },
+ {
+  "name": "Ishttaa TechCraft Private Limited",
+  "domain": "ishttaa.com",
+  "score": 68,
+  "band": "Secondary",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 0,
+  "tier_c_points": 18,
+  "raw_before_caps": 68,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023 snapshot advertised own products and machine platform",
+  "evidence": [
+   "JD: 'Conduct code reviews and provide constructive feedback to peers'",
+   "Site: 'Product Engineering Services... industrial automation and industrial IT products'",
+   "Site: blog posts dated 2015; agile sprints and user stories described",
+   "JD: Git/SVN/Mercurial and continuous integration, but no named CI tooling"
+  ],
+  "why_this_rank": "Three DQ flags were examined and rejected: 'readymade platforms' means industrial platforms not website templates, the hardware hits are embedded engineering, and 'Training & Development' reads as an engagement approach - so no cap applied. Tier B stayed empty because the CI wording is generic boilerplate with no tool named."
+ },
+ {
+  "name": "MKS Vision Private Limited",
+  "domain": "mksvision.com",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 15,
+  "tier_c_points": 10,
+  "raw_before_caps": 60,
+  "caps_applied": [
+   "generalist bundling: networking/Windows admin/CAD staffing alongside dev - cap 30"
+  ],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023 snapshot, no software wording; weak +10",
+  "evidence": [
+   "Naukri JD: 'perform code review tasks' supporting automation engineers",
+   "Naukri JD: 'Jenkins, Bamboo, CI/CD tools, AWS'; Bamboo-to-Jenkins migration",
+   "Naukri board: Palo Alto/F5 network engineers, Windows administrators listed",
+   "Naukri board: HVAC mechanical design and CAD customization roles"
+  ],
+  "why_this_rank": "JD evidence is real and would score 60, but the sixteen Naukri listings expose a staffing bundle spanning network security, Windows administration and HVAC CAD design alongside developers, which is the generalist signature the rubric caps at 30. At 33 headcount an owned codebase is unlikely."
+ },
+ {
+  "name": "Movate Technologies Private Limited",
+  "domain": "movate.com",
+  "score": 20,
+  "band": "Skip",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 35,
+  "tier_c_points": 20,
+  "raw_before_caps": 90,
+  "caps_applied": [
+   "BPO / managed-IT-support and CX core business - cap 20",
+   "giant: ex-CSS Corp group, far above the 5000 headcount ceiling"
+  ],
+  "pre2024_basis": "EXISTED_NO_SW_WORDING - 2023 snapshot, no software wording; weak +10",
+  "evidence": [
+   "JD: 'Git-based workflows and PR practices'; 'Conduct code reviews and mentor'",
+   "JD: 'Contribute to CI/CD pipeline quality gates'; 'maintain code coverage standards'",
+   "Site: 'offering managed IT and CX services' plus five proprietary platforms",
+   "Site: predictive hardware maintenance and contact-centre style delivery"
+  ],
+  "why_this_rank": "This has the strongest JD language in the batch - explicit PR practices, code reviews, coverage standards, CI/CD quality gates - worth 90 raw, but the caps override real merit: core business is managed IT and CX services, and Movate (ex-CSS Corp) is a giant well past the 5,000-headcount ceiling."
+ },
+ {
+  "name": "zCon Solutions Pvt Ltd",
+  "domain": "zconsolutions.com",
+  "score": 80,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 10,
+  "tier_c_points": 20,
+  "raw_before_caps": 80,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023 snapshot: Angular/Azure migrations, agile delivery management",
+  "evidence": [
+   "Careers: 'code review, QA planning... release governance' named delivery controls",
+   "Site: ISO 9001:2015 certified, 20+ years delivery, 100+ customers",
+   "Site: 'AI Product Engineering & SaaS'; Chief Architects named",
+   "Site stack page: React, Next.js, .NET, Azure, RAG pipelines"
+  ],
+  "why_this_rank": "The review-gate evidence is one marketing sentence repeated three times and no private-repo host or CI tool is named anywhere; I judged it substantive because delivery governance and code-review practice recur in leader bios, but it is the weakest Tier A award among the Priority set. Their 20-year pre-2024 record means the legacy codebase predates the AI-assisted delivery they now advertise."
+ },
+ {
+  "name": "Fluentgrid Limited",
+  "domain": "fluentgrid.com",
+  "score": 50,
+  "band": "Secondary",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 50,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2023 snapshot with case studies, awards and GridX newsletter",
+  "evidence": [
+   "JD: 'Participate in code reviews and contribute to continuous improvement'",
+   "JD: 'Familiarity with Git and build tools like Maven or Gradle'",
+   "Site: 18 compliance hits are all GDPR cookie-consent plugin text",
+   "Site: one DevOps continuous-delivery line, no named tooling"
+  ],
+  "why_this_rank": "Under-scored by a thin crawl: four pages returned little beyond cookie-banner boilerplate, so Tier B and Tier C are both empty for what is a long-established utility-software product firm. The single JD code-review line is the only real signal captured - worth a re-crawl before deprioritising."
+ },
+ {
+  "name": "InLogic Technologies Pvt Ltd",
+  "domain": "inlogic.in",
+  "score": 30,
+  "band": "Skip",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 15,
+  "tier_c_points": 10,
+  "raw_before_caps": 75,
+  "caps_applied": [
+   "generalist bundling: websites/portals plus managed IT support - cap 30"
+  ],
+  "pre2024_basis": "PROVEN - 2023 snapshot: application development, websites, portals, e-commerce",
+  "evidence": [
+   "JD: 'continuous integration and continuous deployment using Azure DevOps'",
+   "JD: 'Developing using CI/CD DevOps models'",
+   "Site: services list 'cybersecurity... and managed IT support'",
+   "Site: 'Reliable Tech Support' pillar; Manage My Health healthcare client"
+  ],
+  "why_this_rank": "Genuine Azure DevOps CI/CD job text would score 75, but the offering bundles websites, portals, Microsoft workplace productivity and managed IT support - the generalist-agency signature - so the cap overrides real merit. Recorded headcount of 7 also argues against a substantial owned codebase."
+ },
+ {
+  "name": "Space Inventive Private Limited",
+  "domain": "spaceinventive.com",
+  "score": 60,
+  "band": "Secondary",
+  "confidence": "Verified",
+  "tier_gold_awarded": 10,
+  "tier_a_points": 25,
+  "tier_b_points": 15,
+  "tier_c_points": 10,
+  "raw_before_caps": 60,
+  "caps_applied": [],
+  "pre2024_basis": "UNKNOWN - no snapshot, no RDAP; missing not absent, +10 and no 45 cap",
+  "evidence": [
+   "JD: 'Participate in code reviews, technical documentation, and architecture discussions'",
+   "JD: 'Build and maintain CI/CD pipelines for automated testing and deployment'",
+   "Site: Product Management and Engineering as a detailed named service",
+   "Site: healthcare data case study; Azure Kubernetes Service deployment"
+  ],
+  "why_this_rank": "Pre-2024 evidence is missing rather than absent - no snapshot and no RDAP record at all - so only the weak +10 applies and the total lands ten short of Priority. At 186 headcount the firm is very unlikely to be a 2024 startup; a confirmed founding date would probably reclassify it."
+ },
+ {
+  "name": "RealPage India Pvt Ltd",
+  "domain": "realpage.com",
+  "score": 25,
+  "band": "Skip",
+  "confidence": "Inferred",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 0,
+  "tier_b_points": 0,
+  "tier_c_points": 0,
+  "raw_before_caps": 25,
+  "caps_applied": [
+   "multinational captive/GCC arm - rejected regardless of score"
+  ],
+  "pre2024_basis": "PROVEN - 2022 snapshot with case studies, eBooks and analytics blog",
+  "evidence": [
+   "Site: US property-management product suite, 'Our Products' portfolio",
+   "JD review-gate hits are Investment Management marketing copy",
+   "Site: acquisition-driven growth of a global product organisation",
+   "No repo host, CI/CD or review wording in 145K chars"
+  ],
+  "why_this_rank": "Captive India arm of RealPage Inc, a US multinational software vendor - rejected on ownership, band Skip. The four review-gate hits are a mis-tagged product marketing sentence repeated verbatim, so no engineering-practice evidence exists in the bundle at all."
+ },
+ {
+  "name": "Heera Software Private Limited",
+  "domain": "heerasoftware.com",
+  "score": 88,
+  "band": "Priority",
+  "confidence": "Verified",
+  "tier_gold_awarded": 25,
+  "tier_a_points": 25,
+  "tier_b_points": 25,
+  "tier_c_points": 13,
+  "raw_before_caps": 88,
+  "caps_applied": [],
+  "pre2024_basis": "PROVEN - 2022 snapshot: products used by 10+ multinationals",
+  "evidence": [
+   "JD: 'Implement Git-based workflows and maintain Azure Repos'",
+   "JD: 'CI/CD pipelines using Azure DevOps (classical and YAML pipelines)'",
+   "JD: 'ArgoCD for GitOps-based deployment strategies'",
+   "Site: ISO 27001, SOC 1/SOC 2 Type 2; own distribution-management platform"
+  ],
+  "why_this_rank": ""
+ }
+]

@@ -1,0 +1,1174 @@
+[
+ {
+  "name": "5Sec Cyberpwn Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "cyberpwn.com",
+  "website": "https://www.cyberpwn.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ansformation Cyber Education Technology & Solutions Insight Case Studies Blogs INDIA HQ 7th Floor, Fairway Business Park, Near EGL, Domlur, Bangalore,"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 8722,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "prod_eng": 3,
+   "senior_roles": 2,
+   "cicd": 4,
+   "owns_product": 1,
+   "sdlc": 1,
+   "qa": 1,
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "compliance": [
+    "Our frameworks align with global standards (ISO 27001, SOC 2, GDPR, DPDP) to ensure organizations stay compliant while building digital trust."
+   ],
+   "prod_eng": [
+    "Mahammed Taheer Head of Product Engineering My journey with CyberPWN over the past 5+ years has been nothing less than revolutionary.",
+    "Get in Touch Our Offerings Features that spearhead growth and innovation DevOps Consulting Product Management Product Engineering Product Quality Assurance ServiceNow Consulting Reporting and Analytics Accelerate delivery with secure, automated pipelines."
+   ],
+   "senior_roles": [
+    "Anusha Sunkhad Technical Architect My journey began as a lead on MOSIP, an innovative identity platform.Guided by great identity and security leaders in CyberPWN and through continuous learning, I've progressed to a senior role."
+   ],
+   "cicd": [
+    "Get in Touch Our Offerings Features that spearhead growth and innovation DevOps Consulting Product Management Product Engineering Product Quality Assurance ServiceNow Consulting Reporting and Analytics Accelerate delivery with secure, automated pipelines.",
+    "We help implement CI/CD, infrastructure-as-code, container orchestration, and monitoring practices that align with both agility and compliance needs.",
+    "We offer functional, performance, and security testing integrated into CI/CD workflows—catching issues early and improving product stability and resilience.",
+    "We design secure, scalable dashboards and analytics pipelines to track risk, user behavior, system health, and compliance metrics across your digital estate."
+   ],
+   "owns_product": [
+    "Our product managers define roadmaps, gather user feedback, and prioritize features to deliver secure, scalable, and impactful digital solutions."
+   ],
+   "sdlc": [
+    "We architect, develop, and maintain custom applications—following agile practices and security-by-design principles across the entire product lifecycle."
+   ],
+   "qa": [
+    "Ensure release confidence with structured QA."
+   ],
+   "enterprise": [
+    "BFSI Application Penetration Test Our client is a French multinational investment bank and financial services company.",
+    "Application Security Assurance BFSI RSA Archer eGRC Implementation A Financial Services major in the UAE region."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "AagatiServe Private Limited",
+  "city": "Bengaluru",
+  "domain": "aagati.com",
+  "website": "https://www.aagati.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2024-03-27",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 3472,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 7,
+   "compliance": 2,
+   "DQ_agency": 1,
+   "enterprise": 3,
+   "senior_roles": 1,
+   "qa": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "At AagatiServe, we exist to solve what most companies avoid: Systems that don’t talk to each other People overwhelmed by complexity Data that hides more than it reveals We're here to restore clarity.",
+    "Modernization Application Modernization & Managed Services Accelerate your transition to cloud agility using AI-assisted code refactoring and automated migration pipelines.",
+    "We deploy AI-driven predictive analytics and high-intent market targeting strategies to cut through B2B noise—aligning your Go-To-Market (GTM) playbook with real buyer behavior to build qualified, predictable revenue pipelines.",
+    "03 / The Outcome A Streamlined Technical Pipeline The deployed Agentic AI Workforce enabled recruiters and hiring managers to move beyond manual prescreening and focus on candidates already evaluated for relevant programming and engineering competencies."
+   ],
+   "compliance": [
+    "Cybersecurity Cybersecurity & Compliance Deploy AI-powered Zero-Trust architecture to secure your perimeter, isolate vulnerabilities, and stay audit-ready for DPDP, SOC2, and ISO.",
+    "Uncompromising Quality Certified experts delivering solutions built with explainability, ISO 27001 security, and future-proof architecture."
+   ],
+   "DQ_agency": [
+    "GTM Advisory Digital Marketing & GTM Advisory Transform your digital footprint into a high-converting growth engine."
+   ],
+   "enterprise": [
+    "Industries We Transform Specialized solutions for every sector Healthcare AI-powered diagnostics and data-driven care that improves patient outcomes while reducing operational costs.",
+    "BFSI Banking, Financial Services & Insurance Secure AI platforms for compliance, risk management, and intelligent customer insights.",
+    "Case Study · HealthTech & Electronic Health Records HEALTHCARE EHR SYSTEM Elevating Dental Practice Efficiency with AI Decision Support for a HealthTech Leader Our client sought to enhance the effectiveness of dental practitioners using its EHR platform."
+   ],
+   "senior_roles": [
+    "Case Study · HealthTech & Electronic Health Records HEALTHCARE EHR SYSTEM Elevating Dental Practice Efficiency with AI Decision Support for a HealthTech Leader Our client sought to enhance the effectiveness of dental practitioners using its EHR platform."
+   ],
+   "qa": [
+    "Open Positions Senior QA Lead (10+ Years of Experience) View Details AI/ML Engineer (2-5 years of experience) View Details Front-End Developer – React.js (Immediate Joiner"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Aarete Technosoft Private Limited",
+  "city": "Pune",
+  "domain": "the3i.com",
+  "website": "https://www.aarete.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "ning data analytics and digital transformation consultancy. We build smarter, faster, intuitive business applications for companies who want to compet"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 60906,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 10,
+   "sdlc": 2,
+   "DQ_training": 1,
+   "compliance": 1,
+   "cicd": 1,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "AArete Skip to content MENU MENU Who We Work With Healthcare Payer We improve the profitability and efficiency of health plans by implementing customized solutions to fit our clients’ unique needs.",
+    "Private Equity Driving portfolio exit success with strategic value creation and measurable EBITDA impact Healthcare Provider Arming healthcare providers with market intelligence, data analysis and subject matter expertise to drive profitability and bend the cost curve.",
+    "A Fortune 25 healthcare executive with more than 30 years of experience, Shipley succeeds AArete Founder Loren Trimble, who will transition from his role as CEO to board member.",
+    "Modern Technology Skip to content MENU MENU Who We Work With Healthcare Payer We improve the profitability and efficiency of health plans by implementing customized solutions to fit our clients’ unique needs."
+   ],
+   "sdlc": [
+    "Experienced Candidates For experienced professionals, our process is designed to be clear, engaging, and reflective of the work you’ll do at AArete.",
+    "AArete has helped to provide an agile approach to designing an enterprise platform enabling a new model of customer engagement supported by a data-first strategy."
+   ],
+   "DQ_training": [
+    "Summer Internship Program Our competitive summer internship is designed for undergraduates entering their senior year of college."
+   ],
+   "compliance": [
+    "AArete is proud to hold three certifications from ISO (ISO 9001:2015 Quality Management Systems; ISO 27001:2022 Information Security Management System; and ISO 20000-1:2018 Service Management System)."
+   ],
+   "cicd": [
+    "Explore Digital Transformation DATA MANAGEMENT Optimize your data architecture with our data management services, delivering scalable data pipelines and enhanced analytics and operational resilience."
+   ],
+   "owns_product": [
+    "Our Products Custom developed solutions tailored to your unique business needs featuring optimal user experience and intuitive visual design.",
+    "View Our Products Let’s Talk Whether you want to assess how to begin or accelerate your digital transformation journey, or if you have questions regarding our service offerings, get in touch with us."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Absyz Software Consulting Private Limited",
+  "city": "Hyderabad",
+  "domain": "absyz.com",
+  "website": "https://www.absyz.com",
+  "already_in_hubspot": true,
+  "headcount_known": 466,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "to post go-live support. Know More About Us What We Do Our Portfolio of Services Salesforce Right from Discovery, Implementation to Go-Live Support w"
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 130066,
+   "signals": {
+    "testing": 1
+   },
+   "quotes": {
+    "testing": [
+     "● Perform unit testing, System Integration Testing and deployment activities in Salesforce environments."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 28,
+   "prod_eng": 1,
+   "owns_product": 1,
+   "senior_roles": 3,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Healthcare Manufacturing Non Profit High Tech Higher Education BFSI Insights Menu Toggle Insights sub_menu Insights Deliver a win-win strategy across Salesforce offerings to create unique customer experience for your end clients.",
+    "We have an obligation to bring the very best ideas to the table and We pride ourselves to be a vendor of choice for many of our Fortune 500 clients.",
+    "Read More → What Makes the Best Salesforce Partners for Insurance Companies?",
+    "July 28, 2026 Learn what makes the best Salesforce partners for insurance companies."
+   ],
+   "prod_eng": [
+    "Salesforce Consulting Salesforce Implementation Salesforce Staffing Services Salesforce Managed Support Contact Us Digital Engineering Our product engineering services focuses on product design & innovation, development, and product management services."
+   ],
+   "owns_product": [
+    "Salesforce Consulting Salesforce Implementation Salesforce Staffing Services Salesforce Managed Support Contact Us Digital Engineering Our product engineering services focuses on product design & innovation, development, and product management services."
+   ],
+   "senior_roles": [
+    "Srinivas K V VP Engineering"
+   ],
+   "compliance": [
+    "A CMMI Level 3 company, ABSYZ adheres to strict process controls to enable an amazing customer experience without compromising on three aspects of project delivery: technology, people, and process 2011 ABSYZ Founded in a 2 BHK apartment in Hyderabad suburbs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Adamas Tech Consulting Private Limited",
+  "city": "Kolkata",
+  "domain": "adamastech.in",
+  "website": "https://adamastechconsulting.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 5,
+   "compliance": 2,
+   "sdlc": 2,
+   "DQ_agency": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Industries Empowering growth in diverse industries Education Retail Healthcare Finance Hospitality Supply chain Public sector Education Technology Solutions Empower educational institutions with advanced Learning Management Systems (LMS), University Management Systems (UMS), and School Management Systems (SMS).",
+    "Healthcare Management Systems Revolutionize healthcare delivery with robust management systems designed for hospitals, clinics, and healthcare providers.",
+    "Our solutions enhance patient engagement, streamline operations, and support data-driven decision-making, ensuring efficient and high-quality healthcare services.",
+    "(Optional) SAAS Banking Agency Business Other What you need from us?"
+   ],
+   "compliance": [
+    "Certified Quality ISO 9001, ISO 27001 certified, and CMMI Level 3, ensuring top standards of quality, security, and compliance.",
+    "As an ISO 9001 and ISO 27001 certified company and a CMMI Level 3 certification holder, we are dedicated to delivering high-quality, secure, and innovative technology solutions."
+   ],
+   "sdlc": [
+    "Innovative Approach We use the latest technology trends to drive your digital transformation journey Agile Methodology We adapt quickly to changes, ensuring your project is delivered on time Customer-Centric We prioritize your needs, building long-term partnerships with exceptional service.",
+    "Discovery and Vision Setting Comprehensive Planning Design and Prototyping Agile Development Quality Assurance Deployment and Support OUR TEAM Our professional experts Our team is a collective force of top talents, experts, and visionaries from diverse fields."
+   ],
+   "DQ_agency": [
+    "Web Design SAP Solution Branding AI/ML Service Development Web Dev."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Advent Global Solutions Ltd",
+  "city": "Hyderabad",
+  "domain": "adventglobal.com",
+  "website": "https://adventglobal.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "1997-09-11",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "Advent Global Solutions - Advent Global Play Contact Us +1-281-970-3000 Home Advent Nuggets Case Studies AGS Smart Server Careers Blogs About Us Services Staffing Services SAP Systems Quality Engineering Enterprise Mobility NetSuite AWS Contact Us +1-281-970-3000 Innovate, Transform, Succeed Welcome To TECH..."
+   ],
+   "compliance": [
+    "Transform Succeed Certificate of Appraisal by CMMI It underscores our commitment to excellence and continuous improvement in delivering top-tier IT solutions."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Aeonix Research and Innovations LLP",
+  "city": "Kolkata",
+  "domain": "aeonixinnovations.com",
+  "website": "https://aeonixinnovations.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "to execute them.” - Seth Godin Our Services Software, Web & Android Development We Reshape Your Dream Into Reality By Creating Customised Website For"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 10,
+   "enterprise": 3,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Embedded Systems & IoT Hardware We design and ship custom PCBs in production — ESP32, Quectel 4G LTE, GSM, motor drivers, BMS, custom display drivers — all engineered in-house.",
+    "What we deliver Autonomous service robots SLAM-based navigation LiDAR & sensor fusion Motion control systems Custom robotics platforms Surveillance, Security & Defense Defense-deployed surveillance and counter-surveillance systems built on custom hardware with secure communication protocols.",
+    "What we deliver Web & mobile applications SaaS platforms Admin panels & dashboards Cloud architecture APIs & data systems AI-integrated software End-to-End System Integration When a project needs hardware and AI and software working together, we own the integration.",
+    "What we deliver Full-stack system architecture Hardware + software integration Device-cloud sync Field deployment Optimization & iteration INDUSTRIES Where our systems run."
+   ],
+   "enterprise": [
+    "Explore Industrial work → Healthcare & Diagnostics AI-enabled health monitoring wearables, medical kiosks, foot health diagnostics, and patient platforms for hospitals, diagnostic centers, and elder care.",
+    "Explore Healthcare work → Entertainment & Experience Systems Real-time computer vision for IPL, kinetic installations for ITC, gesture-based gaming for KKR — engineered for high-footfall live environments.",
+    "Today, our work spans defense, smart infrastructure, healthcare, robotics, and enterprise systems, with a focus on environments where systems must work reliably under operational stress."
+   ],
+   "compliance": [
+    "Blockchain vs GDPR in Collaborative Data Governance — CDVE 2020, Springer."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Alfahive Private Limited",
+  "city": "Bengaluru",
+  "domain": "alfahive.com",
+  "website": "https://www.alfahive.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "iency and Effectiveness: The Power of Cyber Risk Automation Case Studies This is some text inside of a div block. February 22, 2023 This is some text"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3,
+   "owns_product": 3,
+   "compliance": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "#cyberrisk #impact Consumer Healthcare EVP Tech We can have an accurate picture of our financial exposure and negotiate a more effective cyber insurance to manage our overall risks.",
+    "Moreover, the average cyber insurance claim surged from USD 145,000 in 2019 to USD359,000 in 2020, highlighting the growing financial toll of cyber incidents."
+   ],
+   "owns_product": [
+    "Quantification Effortlessly quantify the impact of cyber risks to your business Our platform is trained on large set of cyber loss events data and industry specific risk scenarios.",
+    "Execution Prioritise risks and report strategically Our platform automates risks prioritization by simulating the controls against cyber threats.",
+    "Our platform empowers organizations to automate key aspects of cyber risk management, enhancing their ability to proactively identify, assess, and mitigate cyber threats effectively."
+   ],
+   "compliance": [
+    "Generative AI CyberRisk January 10, 2024 3 min read Unpacking RBI's Cybersecurity Guidelines Framework Generative AI CyberRisk November 24, 2023 5 min read A Comparative Analysis of DPDPA, GDPR, and CCPA Generative AI CyberRisk November 23, 2023 5 min read How to Navigate DPDPA Compliance in Four Stages?"
+   ],
+   "cicd": [
+    "As organizations expand, the task of manually overseeing cyber risk becomes even more daunting, overwhelmed by the vast amount of data and the intricacies of IT systems."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Alpha Plus Technologies Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "alphaplustech.com",
+  "website": "https://alphaplustech.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 81,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nquiry Careers Feedback to the CEO Locate us REQUEST A DEMO We build the perfect tool-kit of knowledge-driven, compliance enabling & business automati"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 17127,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 11,
+   "owns_product": 7,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "OUR JOURNEY HAS EMPOWERED US TO GIVE YOU OUR BEST Our first 2 decades have largely been spent serving the Indian Banking & Financial Sector resulting in characteristics like scalability, security, confidentiality, sensitivity towards an ecosystem having a strong regulatory environment, etc.",
+    "WE SERVICE BANKING CONSULTANCY JOIN OUR TEAM CONTACT US Product / Business Inquiry Careers Feedback to the CEO Locate us REQUEST A DEMO 404 Sorry!",
+    "WE SERVICE BANKING CONSULTANCY JOIN OUR TEAM CONTACT US Product / Business Inquiry Careers Feedback to the CEO Locate us REQUEST A DEMO Our stories… Our way!",
+    "WE SERVICE BANKING CONSULTANCY JOIN OUR TEAM CONTACT US Product / Business Inquiry Careers Feedback to the CEO Locate us REQUEST A DEMO Hello!"
+   ],
+   "owns_product": [
+    "being naturally deep-seated in all our products.",
+    "Almost 3 decades into the business, we proudly thrive on our legacy as “THE SOLUTION PEOPLE” Alpha Plus Timeline We have grown, our products have increased, our teams have expanded, our markets have flourished, and our dreams have become bigger… But it didn’t happen overnight.",
+    "Here’s how people who run the show at APT look like: Our Timeline We have grown, our products have increased, our teams have expanded, our markets have flourished, and our dreams have become bigger… But it didn’t happen overnight.",
+    "LIVE YOUR BEST LIFE HERE Our Timeline We have grown, our products have increased, our teams have expanded, our markets have flourished, and our dreams have become bigger… But it didn’t happen overnight."
+   ],
+   "compliance": [
+    "1 st January, 2017 marks the completion of Alpha Plus’ 25 years of service to the industry 2019 Alpha Plus Technologies is certified for ISO 9001:2015 & ISO 27001:2013 under the UKAS accreditation system 2020 The next generation of our beloved compliance product is born and ready to shine."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Avineon India Private Limited",
+  "city": "Hyderabad",
+  "domain": "avineon.com",
+  "website": "https://www.avineon.com/en-us/home",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2002-01-29",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "sdlc": 3,
+   "cicd": 1,
+   "DQ_template": 1,
+   "enterprise": 1,
+   "owns_product": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Avineon serves as your dedicated GIS adminstrator and GIS Support Helpdesk, ensuring smooth operations for your organization."
+   ],
+   "sdlc": [
+    "Avineon has been supporting the agile operations and missions of U.S.",
+    "Our positive attitude, fondness of challenges, and strong personal skills allow us to offer tailor-made, innovative, high-quality, and agile solutions to our clients – our success formula for achieving customer satisfaction."
+   ],
+   "cicd": [
+    "Across all three pillars, we focus on optimizing business and agency operations and performance by analyzing the impact of technology on systems, processes, projects, and programs, while managing continuous integration, improvement, and change management needs as businesses and agencies evolve over time."
+   ],
+   "DQ_template": [
+    "Read More 18 October 2024 Land Records: ArcGIS Web and Mobile App Template for County and City Government Websites Managing land records and parcel data is a responsibility for cities and counties across the United States."
+   ],
+   "enterprise": [
+    "Read More 9 August 2024 The 6 benefits of Managed Services We all know that having insurance can help you live your life with less worry."
+   ],
+   "owns_product": [
+    "Effective Tools Avineon has built state-of-the-art tools (Accelerators) to assist with GIS and Esri Extensions, such as Utility Network Management, Network Extension, ArcGIS Enterprise Portal, ArcGIS Online, ArcGIS Server, GeoEvent Server, etc., preparation, conversion, and governance."
+   ],
+   "compliance": [
+    "Quality and Methodology As an SEI-CMMI ML3 and ISO 9001:2015 registered firm, Avineon specializes in delivering high-quality Esri implementations."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Blue Star Limited",
+  "city": "Mumbai",
+  "domain": "bluestarindia.com",
+  "website": "https://www.bluestarindia.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 17730,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "enterprise": 8
+  },
+  "site_quotes": {
+   "compliance": [
+    "Blue Star M & E is ISO 9001:2015 certified and principally engaged in the business of HVAC & MEP contracting and maintenance in Malaysia."
+   ],
+   "enterprise": [
+    "She heads Apollo Pharmacies Ltd, India’s largest pharmacy; and is the Founder and a Wholetime Director on the Board of Apollo Munich Health Insurance Company Ltd.",
+    "She received the ‘Businesswomen of the Decade’ award from The Women Economic Forum for her work in healthcare and women empowerment.",
+    "She also has an Honorary Doctorate degree of Science from the Bryant University, USA, for her work in healthcare and pharmaceuticals, and her contribution in business expansion in India.",
+    "In addition to his leadership roles in global investment banking, he advises companies, investors, and stakeholders on strategic, financial, and corporate matters across multiple sectors."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Captiveaide Advisory Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "captiveaide.com",
+  "website": "https://captiveaide.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Our Value and Services Map - Our Practices Knowledge zone - Case Studies - Reports - Point of Views - Interviews Contact Us Linkedin CAPTIVEAIDE Setup"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 1,
+   "enterprise": 1,
+   "compliance": 1,
+   "DQ_training": 1,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "infrastructure - Ready Furnished Office spaces - SEZ Facilities - Cloud & Hosting Providers - Hardware & Software License Providers - Infrastructure Support teams 5."
+   ],
+   "enterprise": [
+    "external ecosystem - NASSCOM; CII; NHRDN - Investment Bankers - System Providers - Insurance Providers - National Skill Registry - DSCI 4."
+   ],
+   "compliance": [
+    "She is an Executive Coach, and is Certified in Change Leadership from Cornell University, a Certified NLP Practitioner, a Lead Assessor ISO9001 & Assessor BS7799 Girish Kamath Sr."
+   ],
+   "DQ_training": [
+    "We support your India operations by providing – Interim leadership & leadership hiring Leadership placement into IT/ITES companies International hiring in USA, Europe, UK, and Middle East Program management of senior leadership hiring How we do it?"
+   ],
+   "cicd": [
+    "CaptiveAide creates a sustainable leadership hiring pipeline that eliminates all the challenges in finding the perfect fit for your GCC."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Cruzze Solutions LLP",
+  "city": "Coimbatore",
+  "domain": "cruzzesolutions.com",
+  "website": "https://cruzzesolutions.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Product & Mobile App Development, Design, Testing & Staffing --> --> Home Company Services and Solut"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "DQ_support": 1,
+   "enterprise": 3,
+   "compliance": 1,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Startup Services We accelerate startup market entry through agile methodologies, emphasizing crucial features for a cost-effective minimum viable product (MVP).",
+    "View More What we do to empower your success What we do to empower your success 1 Start and Accelerate We help you to Plan, Execute and Iterate Startup Services We accelerate startup market entry through agile methodologies, emphasizing crucial features for a cost-effective minimum viable product (MVP)."
+   ],
+   "DQ_support": [
+    "View More STREAMLINE AND PROGRESS Procuring, installing, and maintaining computer hardware, servers, and networking equipment."
+   ],
+   "enterprise": [
+    "Few of our Happy Customers Latest Blog Posts View All IT Challenges in Digital Health Interoperability Issues Challenge: Lack of interoperability between different healthcare systems and applications.",
+    "Holding AI certification from UT Austin, she oversees AI projects in healthcare and e-commerce, ensuring seamless compliance and integrations."
+   ],
+   "compliance": [
+    "With a harmonious mix of seasoned and fresh perspectives, we secured ISO certifications, including ISO 27001, and joined NASSCOM to reinforce our commitment to quality standards."
+   ],
+   "owns_product": [
+    "Executive Leadership Jayasri R CEO Introducing Jayasri, our CEO, with an impressive 20-year tenure in IT and Leading SaaS product developments for both enterprises and startups.",
+    "Introducing Jayasri, our CEO, with an impressive 20-year tenure in IT and Leading SaaS product developments for both enterprises and startups."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "DataTracks Services Private Limited",
+  "city": "Chennai",
+  "domain": "datatracksglobal.com",
+  "website": "https://datatracks.com/",
+  "already_in_hubspot": true,
+  "headcount_known": "n/a",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ica Financial Statements Anywhere FATCA, CRS, CbCR We offer software solutions to help you prepare your compliance reports IN TIME Your report can be"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 23856,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "owns_product": 1,
+   "DQ_template": 1,
+   "enterprise": 7,
+   "sdlc": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "compliance": [
+    "Scalable, Secure, Anytime Support Enterprise-grade scalability with multi-user access, ISO 27001:2022 and SOC-certified security."
+   ],
+   "owns_product": [
+    "Global Explore Our Services Our Products United States SEC Filing Partner with us for comprehensive SEC filings including EDGAR submissions, IPO filings, Regulation A+ offerings, and ongoing compliance like 10-Q and 10-K reporting."
+   ],
+   "DQ_template": [
+    "Explore 'DataTracks Aurora' for MBRS XBRL Reporting AI-powered and intuitive, DataTracks Aurora simplifies MBRS reporting, enabling quick, accurate mapping of financial data to MBRS XBRL templates, reducing costs and time."
+   ],
+   "enterprise": [
+    "Our diverse client base — from Fortune 500 companies to agile startups — trusts us to simplify complex compliance challenges.",
+    "Before establishing DataTracks, he held senior leadership roles including Chief Financial Officer at Sutherland, New York, and Chief Financial Officer of Sify, a US-listed company based in Chennai.",
+    "She is a Director of Product at Ethos Life, where she leads core product strategy and drives customer-focused innovation in digital insurance.",
+    "Earlier in her career, she worked as a consultant at McKinsey & Company, advising Fortune 500 clients on strategy and operational transformation."
+   ],
+   "sdlc": [
+    "Our diverse client base — from Fortune 500 companies to agile startups — trusts us to simplify complex compliance challenges."
+   ],
+   "senior_roles": [
+    "Arul Sembiyann Software Development From starting as an Associate to becoming a Technical Architect, my 15 years at DataTracks have been full of growth and learning."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Devstringx Technologies Private Limited",
+  "city": "Noida",
+  "domain": "devstringx.com",
+  "website": "https://www.devstringx.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "utomation Testing Company India | DS Development Mobile App Mobile App Development iOS App Development Android App Development Hybrid App Development"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 9436,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "qa": 11,
+   "enterprise": 5,
+   "owns_product": 1,
+   "sdlc": 19,
+   "compliance": 1,
+   "senior_roles": 1
+  },
+  "site_quotes": {
+   "qa": [
+    "We’re a software development and QA company delivering AI-powered custom software, web and mobile applications, and intelligent test automation to clients across the globe, from fast-growing startups to established enterprises.",
+    "On the quality side, we’re specialists in AI-driven test automation and independent software testing, helping teams catch issues earlier, expand test coverage, and release high-quality products on time and on budget.",
+    "Whether you need a dedicated AI-capable development team, an extension of your existing engineering group, or an intelligent QA partner, we’re built to deliver.",
+    "Ryan Adler – QA/DevOps Team Lead, Global Nonprofit Organization The project is set to go live, and internal stakeholders are pleased with the current features."
+   ],
+   "enterprise": [
+    "We work across industries including Healthcare, Financial Services, Retail & eCommerce, IoT and Utilities, Field Service Management, Blockchain, Predictive Analytics, and Workflow Automation — combining domain knowledge with the practical application of AI.",
+    "Healthcare Apps Need a Healthcare app to enhance your online presence?",
+    "Devstringx, the best healthcare app development company, has everything for you.",
+    "Devstringx has extensive experience delivering solutions for finance, healthcare, retail, e-commerce, education, telecom, and more sectors."
+   ],
+   "owns_product": [
+    "Our Products Manage & Enhance Team Performance and Productivity with CloveHR CloveHR stands for Human Resource Management System."
+   ],
+   "sdlc": [
+    "It helps us stay agile and secure, and scale innovation to assist our clients unlock business value and developing strategic versatility.",
+    "Devstringx uses agile methodologies with transparent communication channels like Jira and Slack.",
+    "Our iterative development and regular sprint reviews allow you to provide feedback and keep the project aligned with your goals and timeline.",
+    "With features like task tracking, sprint planning, and real-time progress updates, MSN helps teams stay aligned and deliver results faster."
+   ],
+   "compliance": [
+    "ISO Certified SOC2 Certified Incredible Workspaces Certified Nasscom Member Top App Development Company CIOReview India 20 most Performing Software testing 2019 Top Software Testing Companies EIN Presswire Frequently Asked Questions What software development services does Devstringx provide?"
+   ],
+   "senior_roles": [
+    "Engineering Manager Gaurav Singh Linkedin Engineering Manager Deepak Gautam Linkedin Engineering Manager Varun Sharma Linkedin Senior HR Manager Tanu Sehgal Linkedin Business Development Manager Aakashdeep Singh Linkedin Our Values Integrity Honour commitments."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Digital Aptech Private Limited",
+  "city": "Kolkata",
+  "domain": "digitalaptech.com",
+  "website": "https://www.digitalaptech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "UX Development Frontend Development E-commerce Development Web Development Mobile App Development IoT Development IT Consulting Services Digital Mark"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 56437,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 9,
+   "DQ_agency": 4,
+   "vcs": 2,
+   "compliance": 3,
+   "pr_practice": 1,
+   "enterprise": 2,
+   "DQ_support": 2,
+   "qa": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Commitment to delivering excellence, world-class digital solutions, agile processes and consistent results make us a preferred software development company.",
+    "Streamlined Development Agile Development Build Your Team in 3 Easy Steps 1 Discovery Sessions & Team Selection Have an idea?",
+    "Our 5-Step Agile Process: 1 Let’s Plan What Matters We start by having a real conversation about your goals, what you’re building, and what actually matters to your business.",
+    "3 Build Bit by Bit (Sprints) We don’t disappear for months."
+   ],
+   "DQ_agency": [
+    "Digital Marketing Want to reach the right audience and grow faster online?",
+    "Our digital marketing services help you increase visibility, drive traffic, and boost conversions.",
+    "Digital Marketing Services Boost your online presence and drive measurable results with our tailored digital marketing strategies.",
+    "From SEO and content marketing to paid campaigns, we help your business reach the right audience and achieve its goals."
+   ],
+   "vcs": [
+    "HELLO Dart XCode Android Studio Bitbucket Magento Flutter Helllo approached us with a visionary idea for an all-in-one app, and Digital Aptech delivered an exceptional solution.",
+    "Kolkata Police Obj C Java Android Studio XCode BITBUCKET/ GIT Digital Aptech assisted Kolkata Police with an app where all the criminal records of the city could be stored as well as accessed by the employees efficiently."
+   ],
+   "compliance": [
+    "Look for certifications like ISO 9001 for quality management and ISO 27001 for information security.",
+    "Digital Aptech received the ISO 9001:2015 certification for compliance with standard quality management guidelines.",
+    "Number of Projects Delivered 178 Number of new clients Acquired 21 Client retention % 80% Global Reach (countries) 14 No of Services Offered 27 Industries Served 14 Digital Aptech got CMMI Dev- Level 3 maturity."
+   ],
+   "pr_practice": [
+    "We use strict testing processes, code reviews, and best practices across all our software development services to deliver reliable, high-performing products."
+   ],
+   "enterprise": [
+    "Trusted By Global Business Houses Government Bodies, Fortune 500 Giants, SMEs, Agencies and Startups worldwide trust Digital Aptech.",
+    "Our team works on designing and creating customised software and IT solutions for various industry sectors like finance, retail, healthcare, E-commerce, blockchain, cloud computing, data science and more."
+   ],
+   "DQ_support": [
+    "Collaborate with our team and empower your brand with Top-tier IT Support and Services Check Out Our Current Opportunities Explore our latest job openings and make your next career move!",
+    "Collaborate with our team and empower your brand with Top-tier IT Support and Services Our Evolution A Decade of Driving Digital Excellence Undertaking a decade-long journey, Digital Aptech has marked its excellence in innovation, excellence, and a commitment to delivering cutting-edge digital solutions."
+   ],
+   "qa": [
+    "Amit Sathwane Founder, Helllo Uniglobe Read More Digital Aptech's work meets the client's QA requirements."
+   ],
+   "cicd": [
+    "Our Comprehensive Data Engineering and Analytics Solutions From building scalable data pipelines to creating real-time dashboards, we design solutions tailored to your business needs."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Dyashin Technosoft Private Limited",
+  "city": "Bengaluru",
+  "domain": "dyashin.com",
+  "website": "https://www.dyashin.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 9403,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "compliance": 1,
+   "senior_roles": 3
+  },
+  "site_quotes": {
+   "compliance": [
+    "ISO 9001:2015 Certified Certified for maintaining international quality standards across software products and services."
+   ],
+   "senior_roles": [
+    "Head of Engineering “The embedded systems expertise Dyashin brings is unmatched."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Entrans Technologies Private Limited",
+  "city": "Chennai",
+  "domain": "entrans.io",
+  "website": "https://www.entrans.ai/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "~δ7�Z�up�1� ֠�\u0015X\u000e����jR\u0005�Cp\u0012� R\u000e�\u0006�Q� \u001at\u0000�L*\u000274{��1\u0007\"�\u001b_�0�pHp�k8�`�o�\u000e� $/\u0017;�OE\u0011�Ҵ�^�P� �F���-q񧎼Đ���7��$qG^\u0011I�f�\u0000q\u0002\u0006���[����\u000f�\u000468�\u0004�B\u0011W� �7\u0005O� ����6"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 16671,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 11,
+   "qa": 6,
+   "enterprise": 6,
+   "DQ_agency": 1,
+   "cicd": 2,
+   "sdlc": 3,
+   "vcs": 1,
+   "compliance": 2
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Built for real-world outcomes Our services span the full spectrum of digital transformation, combining AI-native capabilities with deep product engineering Explore Overview → Artificial Intelligence → Smarter enterprises powered by AI, agents, and automation.",
+    "Design & Product Engineering DevOps & Quality Engineering Application Modernization Data Platform Modernization Cloud & Data → Scalable cloud and data that drive real decisions.",
+    "Design & Product Engineering From concept to code—fast We help you bring digital products to life through human-centered design and agile development."
+   ],
+   "qa": [
+    "Design & Product Engineering DevOps & Quality Engineering Application Modernization Data Platform Modernization Cloud & Data → Scalable cloud and data that drive real decisions.",
+    "Serverless Testing & Monitoring Selenium"
+   ],
+   "enterprise": [
+    "View Success Story → Healthcare Build Better EHR Management Systems with Easier Access via App Leading healthcare companies have modernized their practice with Android and iOS mobile applications.",
+    "‍ Trusted by Enterprise Clients Who Demand Real-World Impact We deliver end-to-end digital engineering services that move you from vision to value faster Engineering Unlock competitive advantage through Generative AI, Agentic frameworks, and AI-driven automation from advisory to implementation.",
+    "Cross-Functional Expertise Finance, healthcare, and engineering teams work in unified pods.",
+    "Key Technologies We Work With Hire Revenue Cycle Management experts from us who specialize in optimizing healthcare financial workflows, leveraging automation, analytics, and compliance-driven processes to ensure faster reimbursements, reduced denials, and sustained revenue growth."
+   ],
+   "DQ_agency": [
+    "The support from leadership and my colleagues has allowed me to grow both personally and professionally Vijina Digital Marketing Manager Employee Benefits and Perks Full Name * Email * Thank you!"
+   ],
+   "cicd": [
+    "Our teams blend generative models, agentic frameworks, and automation pipelines—built with security, scale, and speed in mind.",
+    "Kubernetes Cloud & Infra AWS"
+   ],
+   "sdlc": [
+    "Our approach blends product thinking, agile execution, and technical rigor—so you can move fast and scale with confidence.",
+    "Design & Product Engineering From concept to code—fast We help you bring digital products to life through human-centered design and agile development.",
+    "How We Work Our RCM model is built for continuity, efficiency, and scalability."
+   ],
+   "vcs": [
+    "Vue.js Backend & APIs GitLab"
+   ],
+   "compliance": [
+    "HIPAA, ICD-10, and SOC 2 compliance frameworks Automated audit trails and exception reporting Continuous reconciliation for accuracy and governance Achieve Full Audit Readiness → Zero audit non-conformities across two consecutive years for a health-tech client.",
+    "SOC 2 controls AI & NLP OpenAI APIs"
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Epicenter Technologies Pvt Ltd",
+  "city": "Mumbai",
+  "domain": "epicentertechnology.com",
+  "website": "https://epicenter.tech/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2000-07-31",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 13,
+   "external_job_boards": [],
+   "jd_chars": 73329,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "This journey embarked with innovative technology solutions, empowering Fortune 500 companies worldwide to achieve remarkable business outcomes & solving their business challenges.",
+    "For example, the innovation that started as solution to healthcare industry as food delivery challenge has now become full-fledged product for a customer."
+   ],
+   "compliance": [
+    "As one of the pioneering BPOs in India to achieve ISO 9001, 22301 & 27001, PCI DSS, SOC 2 Type 2 and HIPAA compliance, we ensure the highest standards of data protection and operational integrity."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ },
+ {
+  "name": "Fioneer India Private Limited",
+  "city": "Bengaluru",
+  "domain": "sapfioneer.com",
+  "website": "https://www.sapfioneer.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "SAP Fioneer | Exceptional software solutions for financial services Skip to content Solutions Partners Expand Amplif"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 20589,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 9,
+   "owns_product": 2,
+   "DQ_template": 2,
+   "sdlc": 1,
+   "compliance": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Get in touch Watch demos SAP Fioneer is trusted by: Pause End-to-end solutions for financial services Banking Reach more customers and build trust with real-time financial insights and risk control.",
+    "Learn more Insurance Accelerate digital insurance processes to meet customer expectations and create new revenue streams by connecting easily to the ecosystem.",
+    "Martin, SVP & Chief Technology Officer at HASI – a mission-driven organisation investing in renewable energy projects – speaks about… Banking What’s new AI Agent The SAP Fioneer AI Agent is here Learn about the SAP Fioneer AI Agent, and how it can help you turn AI into a usable, scalable advantage for your business.",
+    "Learn more Article The modernization dividend Modernizing core insurance systems represents far more than a technical upgrade; it’s a strategic investment."
+   ],
+   "owns_product": [
+    "Join the 800 banks globally who have chosen our platform.",
+    "End-to-end integration Our product suite covers a range of pre-integrated solutions from front to back-end."
+   ],
+   "DQ_template": [
+    "The pre-configured templates simplify setup for use cases like legal client accounts or vendor payments so your bank becomes a trusted partner.",
+    "Best practice templates We have an extensive library of optimized industry templates that can be customized to meet your specific needs."
+   ],
+   "sdlc": [
+    "Read more Article Why Virtual Account Management serves today’s corporate treasury Physical accounts are expensive and remain too static in today’s agile corporate world."
+   ],
+   "compliance": [
+    "Download ISO 9001 Certificate Our quality management system (QMS) meets the requirements of the ISO 9001 standard, showing our commitment to consistently delivering high-quality products or services."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 2
+ }
+]

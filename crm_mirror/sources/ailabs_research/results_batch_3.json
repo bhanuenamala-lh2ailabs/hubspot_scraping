@@ -1,0 +1,12 @@
+[
+ {"company":"HYRR","founder":"Nisheeth Kumar","role":"Founder","linkedin":"https://www.linkedin.com/in/nisheethk/","confidence":"high"},
+ {"company":"Brego","founder":"Mihir Lunia","role":"Co-founder & CEO","linkedin":"https://www.linkedin.com/in/mihir-lunia-3b197a43/","confidence":"high"},
+ {"company":"Market Research Place","founder":"","role":"","linkedin":"","confidence":"low"},
+ {"company":"PayPortal","founder":"Alexandr Shishlov","role":"Founder & CEO","linkedin":"https://kz.linkedin.com/in/alexandr-shishlov-39833415a","confidence":"medium"},
+ {"company":"Indicare Health Solutions","founder":"Anuradha Sunil","role":"Co-founder & CEO","linkedin":"","confidence":"medium"},
+ {"company":"EasyMedico","founder":"Suresh Naagar","role":"Co-founder & CEO","linkedin":"","confidence":"medium"},
+ {"company":"Neorithm Technologies","founder":"Nandkumar Aradhye","role":"Founder, CEO & Managing Director","linkedin":"https://www.linkedin.com/in/nandkumar-aradhye-9907b910/","confidence":"high"},
+ {"company":"LaunchMyCareer","founder":"Ankur Aggarwal","role":"Co-founder & Managing Director","linkedin":"","confidence":"medium"},
+ {"company":"MyLnk","founder":"Neel Sinha","role":"Founder","linkedin":"https://www.linkedin.com/in/neelsinha/","confidence":"high"},
+ {"company":"M.M Edu Port","founder":"Rajiv Malik","role":"Founder & CEO","linkedin":"https://in.linkedin.com/in/rajivmalik-ceo-gepl","confidence":"medium"}
+]

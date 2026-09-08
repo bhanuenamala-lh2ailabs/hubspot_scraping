@@ -1,0 +1,841 @@
+[
+ {
+  "name": "Web3Passion",
+  "city": "Kochi",
+  "domain": "reposoft.in",
+  "website": "https://reposoft.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "This help to increase your productivity and profitability .",
+    "Optimise Your Productive Time It will also help you to utilise your productive time precisely without mis-spending on extra thought process after the decision or while executing."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Webrosoft Solutions Pvt Ltd",
+  "city": "Ludhiana",
+  "domain": "webrosoft.com",
+  "website": "https://www.webrosoft.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Wefe Technology Private Limited",
+  "city": "Bhubaneswar",
+  "domain": "wefe.in",
+  "website": "https://wefe.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 5
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "DTDC, Odisha View All WEFE Technology (P) Limited is one of Odisha’s leading companies with interest in Internet Service, Network Solution, WIFI Solution, Firewall & Network security, Intercom, CCTV Attendance And Access Control Solution.",
+    "Global Reaction Towards The Use Of CCTV Cameras Global Reaction Towards The Use Of CCTV Cameras Without getting into the controversies about the advantages and disadvantages relating to...",
+    "0674-6607080 WEFE Technology (P) Limited is one of Odisha’s leading companies with interest in Internet Service, Network Solution, WIFI Solution, Firewall & Network security, Intercom, CCTV Attendance And Access Control Solution.",
+    "WEFE Technology (P) Limited is one of Odisha’s leading companies with interest in Internet Service, Network Solution, WIFI Solution, Firewall & Network security, Intercom, CCTV Attendance And Access Control Solution."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Wisflux Private Limited",
+  "city": "Jaipur",
+  "domain": "wisflux.com",
+  "website": "https://wisflux.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Wisflux | Delivering Top Notch Software Solutions HOME ABOUT TEAM CULTURE OFFICE GALLERY SERVICES METHODOLOGY PRODUCTS CO"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [
+    "https://www.naukri.com/wisflux-jobs"
+   ],
+   "jd_chars": 1127,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "enterprise": 3,
+   "qa": 1,
+   "cicd": 3,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We use our own proprietary agents to build your products, delivering high-fidelity prototypes while others are still drafting briefs.",
+    "Rapid MVP Development High-fidelity prototypes delivered in weeks to validate your product fast."
+   ],
+   "enterprise": [
+    "BANKING Financial Services & Payments LEGAL Accounting & Compliance SOURCING Procurement & Sourcing AGENCY Advertising Agencies Between legacy core and modern fintech sits a gap.",
+    "Use Cases KYC / KYB Intake & Extraction Legacy Bank Reconciliation BSA / AML / SAR Audit Prep Policy-Grounded Agents Loan Origination Support Remittance Routing & Exceptions BANKING Financial Services & Payments Between legacy core and modern fintech sits a gap.",
+    "Wisflux Tech Labs About Services Industries Articles Book Discovery Call About Services Industries Articles Book Discovery Call Careers Join the team shaping AI-native operations We build AI-native systems for regulated, high-stakes industries."
+   ],
+   "qa": [
+    "Use Cases Media Planning Support Buying Ops & Tag QA Scalable Creative Variants Performance Deck Automation Campaign QA & Brand Safety Inventory & Yield Mgmt Our Core Capabilities Beyond implementation, we focus on integration."
+   ],
+   "cicd": [
+    "AI Workflow Automation End-to-end pipelines built with n8n, Make, Zapier, or custom code.",
+    "Roles Where we are hiring AI Engineering Agentic workflows, evaluation pipelines, prompt systems, and production tooling.",
+    "Sales + Business Development Outbound strategy, enterprise partnerships, pipeline ownership, and revenue growth."
+   ],
+   "sdlc": [
+    "AI-Led Delivery Our process is AI-led with human oversight."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Xstream Secure",
+  "city": "Ghaziabad",
+  "domain": "xstreamsecure.com",
+  "website": "https://xstreamsecure.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Yamaha Motor Solutions (India) Pvt Ltd",
+  "city": "Gautam Buddha Nagar",
+  "domain": "ymsl.in",
+  "website": "https://www.ymsl.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Zafin Software Centre of Excellence Pvt Ltd",
+  "city": "Thiruvananthapuram",
+  "domain": "zafin.com",
+  "website": "https://zafin.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 885,
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20220601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [
+    "https://boards.greenhouse.io/zafinlabsamericasinc/jobs/"
+   ],
+   "jd_chars": 22251,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 29,
+   "sdlc": 3,
+   "owns_product": 6
+  },
+  "site_quotes": {
+   "enterprise": [
+    "AI Platform Company for Regulated Institutions",
+    "Regulated institutions need a way to turn AI activity into governed work across the systems, decisions, and controls that matter.",
+    "Zafin turns AI-driven change into governed operating outcomes Zafin helps regulated institutions orchestrate AI-driven change through three platform paths: Zafin AIOS for governed agentic work, Zafin Banking Platform for banking execution, and Zafin IO for enterprise integration.",
+    "Best for Regulated institutions moving AI from experimentation into governed, accountable work."
+   ],
+   "sdlc": [
+    "Core Values We focus on simplicity We make products easy to use and remove complexity in how we work.",
+    "We focus on simplicity We make products easy to use and remove complexity in how we work."
+   ],
+   "owns_product": [
+    "2005 We launched our product and pricing capabilities platform, custom tailored for financial services.",
+    "2007-10 Zafin expanded into Europe, gained new clients, and proved the value of our platform for banks burdened by legacy systems.",
+    "2019 Zafin scaled our SaaS model across multiple customers, delivering strong ROI and validating our platform’s value."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Zeeve Deeptech Private Limited",
+  "city": "Gautam Buddha Nagar",
+  "domain": "zeeve.io",
+  "website": "https://www.zeeve.io",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 43557,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Zoho Corporation Pvt Ltd",
+  "city": "Kanchipuram",
+  "domain": "zohocorp.com",
+  "website": "https://www.zohocorp.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2006-01-25",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Our Customers Three out of every five Fortune 500 companies trust Zoho."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "A5E Consulting Private Limited",
+  "city": "Mumbai",
+  "domain": "a5econsulting.com",
+  "website": "https://a5econsulting.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Data Sciences and AI/ML combined with Enterprise solutions, Product Engineering and Value Engineering to transform our clients into intelligent enterp"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 66416,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 4,
+   "cicd": 1,
+   "sdlc": 4
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "A5E Consulting Live - A5E Consulting We leverage our capabilities in Analytics, Data Sciences and AI/ML combined with Enterprise solutions, Product Engineering and Value Engineering to transform our clients into intelligent enterprises.",
+    "Submit Leadership - A5E Consulting We leverage our capabilities in Analytics, Data Sciences and AI/ML combined with Enterprise solutions, Product Engineering and Value Engineering to transform our clients into intelligent enterprises.",
+    "Salesforce Integration Services| Microsoft Services - A5E Consulting We leverage our capabilities in Analytics, Data Sciences and AI/ML combined with Enterprise solutions, Product Engineering and Value Engineering to transform our clients into intelligent enterprises.",
+    "Services Core HR Talent Acquisition Talent Management Custom apps + Solution People Analytics & MIS HR + Know more Product Engineering Product Engineering Services, can help you to evaluate your idea, suggest the quickest implementation scenarios, and create a map for product development."
+   ],
+   "cicd": [
+    "How Generative AI Tripled Revenue with 85% fewer Recruiters for a Contract Staffing Platform A U.S.-based staffing platform for blue-collar roles was overwhelmed by messy, unstructured candidate data—voice notes, photos, hand-written forms."
+   ],
+   "sdlc": [
+    "We execute a blend of expert process consulting services and top-tier technology platforms at organizations making them more agile."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Access Healthcare Services Pvt Ltd",
+  "city": "Chennai",
+  "domain": "accesshealthcare.co",
+  "website": "https://www.accesshealthcare.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 444,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6
+  },
+  "site_quotes": {
+   "enterprise": [
+    "﻿ Welcome to Access Healthcare Contact us.",
+    "Access Healthcare Revenue Cycle Toolkit has the answers.",
+    "Read More Access Healthcare is an Equal Opportunity Employer.",
+    "To apply to work with a talented team and earn very competitive compensation apply online or email careers@accesshealthcare.co View Curent Openings Please click here to request for additional information on our services and revenue cycle transformation capabilities."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Actualize Consulting Engineers (India) Private Limited",
+  "city": "Bengaluru",
+  "domain": "actualize.co.in",
+  "website": "https://actualize.co.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ptive business models to support unique requirements. 10000 Projects Delivered 9 Countries Served 80 Customers Know More Our Valued Customers Testimon"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 2,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Read More About us Engineering Excellence, Powering Digital Growth Actualize is a global leader in engineering and digital transformation, delivering next-gen product lifecycle and software solutions.",
+    "+91 91485 55541 About Us Home / About About us Engineering Excellence, Powering Digital Growth Actualize is a global leader in engineering and digital transformation, delivering next-gen product lifecycle and software solutions."
+   ],
+   "cicd": [
+    "Tools like Kubernetes, GitOps, Backstage, Terraform, ArgoCD."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Adient India Private Limited",
+  "city": "Pune",
+  "domain": "adient.com",
+  "website": "https://www.adient.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "tation as a global leader in automotive seating begins with our products – from complete seating systems to individual components – and extends across"
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 21542,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 8,
+   "prod_eng": 2,
+   "qa": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Products Approaches Advancements Superior results through state-of-the-art seating products At Adient, our reputation as a global leader in automotive seating begins with our products – from complete seating systems to individual components – and extends across our entire portfolio.",
+    "Our deep expertise means that our products always stand out and apart in craftsmanship, comfort, style and safety.",
+    "Learn more about our products Expertise.",
+    "Every day, we challenge ourselves to make our products and processes better – and to improve the experience of a world in motion."
+   ],
+   "prod_eng": [
+    "Engineering: automotive seating innovators Engineering performance EXECUTING THROUGH ENGINEERING EXCELLENCE Engineering Industrial Design Joint Ventures Manufacturing At Adient, our products are engineered to outperform.",
+    "From conducting simulations in difficult environments to checking durability, acoustics and comfort, we have the world’s largest automotive seating testing network – and a proven track record in engineering excellence."
+   ],
+   "qa": [
+    "By leveraging our international system, we collaborate across cultures, borders and time zones to offer the highest quality engineering resources for our customers."
+   ],
+   "sdlc": [
+    "Our processes involve screenings, audits, supplier data submissions, and monitoring global laws."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Agility E Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "agility.com",
+  "website": "https://agility.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20080719",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [
+    "https://alliad.darwinbox.com/ms/candidatev2/main/careers/home"
+   ],
+   "jd_chars": 22674,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "AITOBI Technologies Private Limited",
+  "city": "Hyderabad",
+  "domain": "aitobi.co",
+  "website": "https://aitobi.co/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "on IVR-NLP Machine Learning & Deep Learning RESOURCES Blogs Case Studies CONTACT US Navigation Menu Navigation Menu Home ABOUT US CONSULTING Artificia"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Choose Our Products Explore our Products and see what suits the best for your business with just a few clicks."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Amgen Technology Private Limited",
+  "city": "Hyderabad",
+  "domain": "wwwext.amgen.com",
+  "website": "https://wwwext.amgen.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "of using living cells to make biologic medicines. READ MORE Our Products Amgen’s medicines treat serious illnesses and typically address diseases with"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 37670,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "enterprise": 2,
+   "sdlc": 1,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "owns_product": [
+    "READ MORE Our Products Amgen’s medicines treat serious illnesses and typically address diseases with a limited number of treatment options.",
+    "SEARCH JOBS KEYWORD LOCATION RADIUS Select Miles 5 miles 15 miles 25 miles 35 miles 50 miles SEARCH JOBS SEE ALL JOBS Attention Job Applicants: At Amgen, we are relentless in applying the highest ethical standards to our products, services and communications."
+   ],
+   "enterprise": [
+    "Amgen recruiters will never ask for payment, banking information, gift cards, cryptocurrency, or purchases as part of the hiring process.",
+    "Amgen is one of the 30 companies that comprise the Dow Jones Industrial Average ® , and it is also part of the Nasdaq-100 Index ® , which includes the largest and most innovative non-financial companies listed on the Nasdaq Stock Market based on market capitalization."
+   ],
+   "sdlc": [
+    "Live From our tech to how we work, everything we do is about putting patients first."
+   ],
+   "cicd": [
+    "Amgen is advancing a broad and deep pipeline and portfolio of medicines to treat heart disease, obesity and obesity-related conditions, rare diseases, inflammatory conditions and cancer.",
+    "With a diversified portfolio, strong commercial performance, and a deep and advancing pipeline, we are executing on our strategy to deliver meaningful innovation for patients and attractive long-term growth for shareholders."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Apollo India Services LLP",
+  "city": "Mumbai",
+  "domain": "apollo.com",
+  "website": "https://www.apollo.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230102",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 57720,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 8,
+   "DQ_training": 2,
+   "DQ_template": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "(NASDAQ: MFIC) Institutional Investors Wealth Professionals Watch the Replay of Investor Day Featuring senior leaders from across the business providing insight on the firm’s progress, long-term growth opportunities, strategy and financial outlook.",
+    "We have long offered comprehensive benefits such as medical, dental, and vision coverage; disability, life, and AD&amp;D insurance; mental and emotional wellness programs; commuter benefits; and financial wellness offerings.",
+    "At the time, insurance companies were the bedrock of capital, supporting vast <a href=\\\"/content/apolloaem/global/en/general-public/strategies/asset-management/real-assets/infrastructure.html\\\">infrastructure</a> needs.",
+    "At the time, insurance companies were the bedrock of capital, supporting vast infrastructure needs."
+   ],
+   "DQ_training": [
+    "Apollo benefits include paid parental leave, phase back and leave coaching, fertility and adoption assistance in the US & UK, in addition to medical coverage.",
+    "Our parental stipend gives primary caregivers extra financial flexibility and Talking Talent offers customized coaching for expecting parents."
+   ],
+   "DQ_template": [
+    "</p>\\r\\n<p><b>Unprecedented Need for Secular CapEx</b></p>\\r\\n\"}}\" data-article-template id=\"text-1abf33624d\" class=\"cmp-text cmp-apollo-text bottom-margin-20 \"> Rising to Meet the Capital Needs of a Renaissance Each century has its story of economic evolution.",
+    "</p>\\r\\n\"}}\" data-article-template id=\"text-c9fdf461af\" class=\"cmp-text cmp-apollo-text \"> A Partner of Choice for the New Economy Apollo aims to be a partner of choice for investment-grade companies seeking more than just capital."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ashley Furniture India Private Limited",
+  "city": "Chennai",
+  "domain": "ashleyfurnitureindia.com",
+  "website": "https://ashleyfurnitureindia.com/gcc",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2011-06-02",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "AUI Systems Private Limited",
+  "city": "Delhi",
+  "domain": "auisys.com",
+  "website": "https://auisys.com/nlu/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 8,
+   "external_job_boards": [],
+   "jd_chars": 14893,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Or an insurance sales person wanting to locate a property insurance plan that conforms to several criteria.",
+    "--> Harpal Parmar Published 14 January 2021 The success of Deep Learning AI systems has leveraged neural networks to solve difficult problems such as self-driving cars, spotting fraudulent banking transactions, language translation, and more."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Avalara Technologies Private Limited",
+  "city": "Pune",
+  "domain": "avalara.com",
+  "website": "https://www.avalara.com/us/en/index.html",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 70440,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "senior_roles": 1,
+   "enterprise": 2,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Enterprise solutions Developers and partners Embed intelligent tax and compliance directly into your platforms and workflows — with APIs, MCP servers, and 1,400+ signed partner integrations.",
+    "\\r\\n\"}}\" data-animation-type=\"none\"> Embed intelligent tax and compliance directly into your platforms and workflows — with APIs, MCP servers, and 1,400+ signed partner integrations."
+   ],
+   "senior_roles": [
+    "I basically fell in love with the goal and I really wanted to be a part of it.\" Rui Rizzi Engineering Manager Our Culture At Avalara, we foster a culture that values inclusivity, creativity, and continuous learning."
+   ],
+   "enterprise": [
+    "Physical Health Avalarians and their families benefit from comprehensive health insurance, including coverage related to general wellbeing, illness, and maternity care - often at low or no cost.",
+    "Life insurance and wage replacement plans, such as disability insurance, are also included in the benefits package for many Avalarians."
+   ],
+   "DQ_training": [
+    "Life insurance and wage replacement plans, such as disability insurance, are also included in the benefits package for many Avalarians."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

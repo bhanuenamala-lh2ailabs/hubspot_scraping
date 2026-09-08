@@ -1,0 +1,883 @@
+[
+ {
+  "name": "ReTechPrime Technology Solutions Private Limited",
+  "city": "Kolkata",
+  "domain": "retechprime.com",
+  "website": "https://retechprime.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 17326,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Merchandising Financial Planning Four things that define how we work Deep Retail & Supply Chain Focus Every engagement, every team member, every solution — built around the specific demands of retail and supply chain."
+   ],
+   "cicd": [
+    "Full-time GoldenGate & data pipelines Data lakes (OCI/AWS/Azure) AI use cases Retail analytics dashboards Apply Now → Document HOW WE HIRE Simple, fast, and human Our hiring process is designed to be efficient and respectful of your time.",
+    "Read More ReTechPrime WebMaster March 7, 2026 Streaming Retail Events Into Oracle GoldenGate: A Kafka-First Approach Architecting near-real-time POS and e-commerce event pipelines that feed Oracle Analytics Cloud without batch latency or data quality surprises."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "RIIV India Private Limited",
+  "city": "Mumbai",
+  "domain": "russellinvestments.com",
+  "website": "https://russellinvestments.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 104301,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 1,
+   "enterprise": 1,
+   "sdlc": 2
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Prioritize your mental well-being with 10 free, confidential counseling sessions and 10 free, confidential coaching sessions each year through Modern Health for you and your family."
+   ],
+   "enterprise": [
+    "Receive disability insurance coverage effective on your first day."
+   ],
+   "sdlc": [
+    "Curiosity, collaboration, and care shape how we work.",
+    "How we work × Awards When you invest, it's good to know you're working with an established global firm."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Rio Tinto India Private Limited",
+  "city": "Gurugram",
+  "domain": "riotinto.com",
+  "website": "https://www.riotinto.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "nt performance. The global miners aim to jointly identify a portfolio of tailings management partners with whom 28 April 2023 Rio Tinto acquires high-"
+  },
+  "jd": {
+   "pages_read": 10,
+   "external_job_boards": [],
+   "jd_chars": 125679,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Careers Available jobs More about what we do We are finding new ways to restore old mines, advancing new technologies to improve the traceability of our products, and contributing to circular value chains by creating useful materials from waste.",
+    "For more than 150 years, our products and operations have helped build the world we know."
+   ],
+   "enterprise": [
+    "Such major risks are transferred to third parties in the international insurance markets, to the extent considered appropriate or possible."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "RiVirtual Private Limited",
+  "city": "Hyderabad",
+  "domain": "rivirtual.in",
+  "website": "https://rivirtual.in",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Roblox India Services Private Limited",
+  "city": "Gurugram",
+  "domain": "corp.roblox.com",
+  "website": "https://about.roblox.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 20698,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Our values are critical to how we operate day to day, how we find and grow our Builders, how we work together, and what success looks like at Roblox."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "ROITech Consulting Private Limited",
+  "city": "Kolkata",
+  "domain": "roitech.biz",
+  "website": "https://www.roitech.biz/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2009-10-12",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 13226,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Keyman Insurance Keyman insurance is an industry leading benefit from ROITech as it is offered to our key employees which is otherwise offered to Directors only, ensuring financial stability and continuity in the event of the loss of a key employee.",
+    "Group Health Insurance & Check-Up The Group Health Insurance Policy and Group Health Check-Up benefit extending coverage to include health check-ups for both ROITech employees and their dependents."
+   ],
+   "DQ_training": [
+    "ZD 421 Desktop Printers Premium replacement for older Zebra desktop printers."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "ROSTAN Technologies Private Limited",
+  "city": "Gurugram",
+  "domain": "rostantechnologies.com",
+  "website": "https://rostantechnologies.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2018-05-16",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 7,
+   "external_job_boards": [],
+   "jd_chars": 63741,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 4,
+   "enterprise": 5,
+   "sdlc": 2,
+   "senior_roles": 1,
+   "DQ_training": 4,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "AWS Partner AWS Cloud Architecture & Migration Full-stack AWS — EC2, ECS, RDS, Lambda, S3 — with DevOps pipelines, cost optimisation and 24×7 real-time monitoring.",
+    "Explore NEW ROSTAN EduTech — Learn Oracle APEX, ERP, Cloud & DevOps from Oracle Gold Partner Experts Oracle APEX · SQL+AI · NetSuite · Fusion Cloud · OCI · Linux & Docker Browse Courses Limited Registrations Open Are You a Startup?",
+    "Rostan Supports You with Free Cloud Credits We help early-stage startups run their workloads on AWS for free — including compute, storage, databases, and CI/CD pipelines.",
+    "Up to $5,000 AWS Credits Dedicated Cloud Architect CI/CD & Infrastructure Setup Monthly Tech Review Calls Apply Now — Free Talk to Us First No credit card required · No hidden fees · Limited to qualifying startups Get a Free Consultation Speak with an expert about your digital transformation goals."
+   ],
+   "enterprise": [
+    "11+ Years A Decade of Enterprise IT Excellence Trusted by Fortune 500 and mid-market businesses since 2015 — delivering on-time, on-budget outcomes across 20+ countries.",
+    "has been in operations since 2015, serving 200+ enterprise clients across India, UAE, UK, USA, Malaysia, Saudi Arabia, Bahrain & Australia."
+   ],
+   "sdlc": [
+    "01 Discovery & Assessment Deep-dive into your processes, tech stack and pain points to define the right solution roadmap.",
+    "03 Implementation & Go-Live Agile delivery with sprints, rigorous UAT, data migration, training and a smooth zero-downtime go-live."
+   ],
+   "senior_roles": [
+    "02 Solution Architecture Certified architects design a scalable, secure blueprint tailored to your exact business requirements."
+   ],
+   "DQ_training": [
+    "RSS Feed Let's Connects India (+91) Send Message Please fill out the form below Full Name * Email ID * India (+91) Message * Submit − 🌐 Free AI Bootcamp · 25 Apr ▲ LIVE BOOTCAMP FREE 25 Apr 2026 Build AI Apps with Python Real-world AI application development — learn from industry experts!"
+   ],
+   "DQ_template": [
+    "Knowledge in building BI Publisher reports using excel, RTF and online templates."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "RPATech (Spawn Ventures Services Private Limited)",
+  "city": "New Delhi",
+  "domain": "rpatech.ai",
+  "website": "https://www.rpatech.ai",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 13572,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 9
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Book Discovery Workshop Latest Case Studies Apollo Hospitals: ~1400 Hours Saved in Corporate Health Check Report with Intelligent Automation Timely Nikshay Report Updates with Unattended Bot at Max Healthcare Max Healthcare Reduces Access Provisioning TAT by ~85%",
+    "You, your spouse, and four kids (No, we don’t support high population growth) are covered for cashless health insurance of 5 lakh, with all existing diseases covered.",
+    "Life Insurance As part of our employee benefits basket, We offer Life Insurance coverage for all our employees depending on your position, you get 10-40L of life insurance coverage.",
+    "By June 12, it was Moving from Pilot Purgatory to Production – CIO’s Roadmap to Healthcare Agentic Automation Healthcare has no shortage of AI pilots."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Russell Reynolds Associates India Private Limited",
+  "city": "Gurugram",
+  "domain": "russellreynolds.com",
+  "website": "https://www.russellreynolds.com/en/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "mposition & Succession Mergers, Acquisitions & Integrations Portfolio Company Leadership Transformation & Innovation Activism, Vulnerability & Defense"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 92040,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 4
+  },
+  "site_quotes": {
+   "cicd": [
+    "We secure your leadership pipelines for critical executive and board roles."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Ryan India Tax Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "ryan.com",
+  "website": "https://www.ryan.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "Technology Ryan delivers a wide array of tax technology and software solutions designed to transform the tax function and improve profitability. Ryan"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 50381,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2,
+   "enterprise": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Ryan’s internship program is one of the best in the industry and serves as a gateway to our full-time roles."
+   ],
+   "enterprise": [
+    "Kotch Principal and Practice Leader, Captive Insurance Kevin Koziey Principal, Scientific Research and Experimental Development Luke G."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "S10 Healthcare Solutions Pvt Ltd",
+  "city": "Chennai",
+  "domain": "s10health.com",
+  "website": "https://www.s10health.com:443/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 81133,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 3
+  },
+  "site_quotes": {
+   "enterprise": [
+    "_1 Improving lives Home About Meet the team Careers Blog --> Contact The leader in Virtual Medical Scribing Trusted By Over 1000+ Hospitals Worldwide With the world’s growing need for better health and improved well-being, S10 Health seamlessly unifies the fragmented healthcare system.",
+    "Experience across all specialties © 2022 S10 Healthcare solutions Pvt ltd.",
+    "© 2024 S10 Healthcare solutions pvt ltd."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Saama Technologies (India) Pvt Ltd",
+  "city": "Pune",
+  "domain": "saama.com",
+  "website": "https://www.saama.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "siness Consulting Modern Data Platform/Cloud Resources Blog Case Studies Webinars & Podcast Scientific Papers Solution Briefs & Fact Sheets Expert Per"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 16947,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "enterprise": 4
+  },
+  "site_quotes": {
+   "owns_product": [
+    "We offer AI-backed SaaS solutions as well as product based industry services and accelerators."
+   ],
+   "enterprise": [
+    "THE CHALLENGE Overcoming Strategic Friction in Healthcare Finance In 2026, healthcare leadership is no longer struggling with a lack of information, but with Operational Fragmentation impacting data systems and user workflows.",
+    "This enables a self-optimizing environment where predictive care and Revenue Integrity are integrated, automatic, and auditable restoring the focus of healthcare to the patient and the provider.",
+    "The next era of healthcare finance won’t be won by hiring more staff or layering more software onto legacy workflows.",
+    "We are moving beyond managing “Data Debt” to restoring the focus of healthcare: the patient and the provider."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Sabre Travel Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "sabre.com",
+  "website": "https://www.sabre.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "logy applications that will advance the intelligence behind our products and services, such as artificial intelligence, machine learning, and real-tim"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 20074,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "How we work We put customers first, stay open and optimistic, move fast, and challenge the norm."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Saigun Technologies Pvt Ltd",
+  "city": "Noida",
+  "domain": "saigun.com",
+  "website": "https://empxtrack.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 5478,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 2,
+   "DQ_support": 1,
+   "sdlc": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Financial Services Retail Hospitality Public Services Media & Entertainment And More… Healthcare Manufacturing Technology Nonprofit Education Construction & Eng.",
+    "It supports organizations across a wide range of industries including IT, consulting, manufacturing, retail, healthcare, education, financial services, hospitality, construction, government, nonprofit organizations, and more."
+   ],
+   "DQ_support": [
+    "It supports organizations across a wide range of industries including IT, consulting, manufacturing, retail, healthcare, education, financial services, hospitality, construction, government, nonprofit organizations, and more."
+   ],
+   "sdlc": [
+    "HR’s role is now instrumental in building agile organizations and … Read more 1 2 3 … 54 Next Empxtrack is a cloud-based HR software for Human Resource and Employee Management."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Samasti Health Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "svasthyahealth.com",
+  "website": "https://svasthyahealth.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "UNKNOWN",
+   "how": "no wayback snapshot and no RDAP record — MISSING, not absent",
+   "date": "",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "prod_eng": [
+    "Instrumental in building the product engineering services vertical."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Sandhata Technologies Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "sandhata.com",
+  "website": "https://sandhata.com/",
+  "already_in_hubspot": true,
+  "headcount_known": 33,
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ith us Resources Solutions and White Papers Videos Webinars Case Studies Customers Engage Us Work with us News room Blog We transform IT for business"
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 5212,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "senior_roles": 3,
+   "sdlc": 5,
+   "qa": 2
+  },
+  "site_quotes": {
+   "senior_roles": [
+    "Learn More Site Reliability Engineering Ensure uptime with our reliability engineering.",
+    "◉ Winners – “Project Team of the Year” in the Digital Tech Leader Awards 2020."
+   ],
+   "sdlc": [
+    "◉ Our ‘Agile Change Management Process’ is launched.",
+    "◉ A new fully fledged application, Sandhata Bank, is created on our internal DevOps Innovation Platform using collaboratiove and Agile delivery practices to develop and showcase new solutions.",
+    "Known for turning complex challenges into agile solutions, Khalai is all about pushing boundaries and delivering excellence that lasts.",
+    "A visionary in hyper automation, he transforms complex processes into agile, user-friendly solutions that drive rapid results in today’s digital world."
+   ],
+   "qa": [
+    "◉ Our ‘Mainframe Test Automation’ service is launched.",
+    "2008 - Advancing Innovation ◉ We partner with Green Hat to deliver integration test automation and service virtualisation."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Sankalp Computer & Systems Pvt Ltd",
+  "city": "Pune",
+  "domain": "sankalptech.com",
+  "website": "http://www.sankalptech.com/Web/EpaisaPay.aspx",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "Sankalp: Best Software Development Company in Pune, India Company Overview Team Sankalp Award & Recoziga"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our platform ensures seamless transactions, enabling growth and simplifying travel management for all.",
+    "Read More --> Our Products Flights Hotels Trains Bus Holidays Cabs Activities Charter Visa Cruise Gift Cards Offers Top-Rated Attractions Lakhshdweep Andaman Kashmir Jaipur Bengaluru Paris Leh Bali Dubai Kerala Why Choose Epaisa Pay?",
+    "Comprehensive Solutions Our platform offers a complete suite of travel services, ensuring all your needs are met in one place."
+   ]
+  },
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "SAS Partners Corporate Advisors Private Limited",
+  "city": "Chennai",
+  "domain": "saspartners.com",
+  "website": "https://saspartners.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "f30a\"}.fa.fa-long-arrow-right:before{content:\"\\f30b\"}.fa.fa-android,.fa.fa-apple,.fa.fa-dribbble,.fa.fa-foursquare,.fa.fa-gittip,.fa.fa-gratipay,.fa.f"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Satnav Technologies Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "satnavtechnologies.com",
+  "website": "https://www.quickfms.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "DOMAIN_ONLY",
+   "how": "domain registered pre-2024; does NOT prove what it was used for",
+   "date": "2004-03-26",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 9,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 9,
+   "sdlc": 1,
+   "enterprise": 1,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Cloud-Based Solutions for Seamless Operations Got Questions?: helpdesk@quickfms.com Email Us India: +91 404-917-1027",
+    "AI Dashboards & Data Science: Unlock deep intelligence with real-time visual analytics for predictive maintenance, intelligent space utilisation, automated helpdesk actions, and forecasting.",
+    "Know More Help Desk Management Efficiently manage help desk requests and improve customer satisfaction with our user-friendly platform.",
+    "We at Aequs Infra are a leading aircraft parts manufacturer, and have greatly improved operations by integrating QuickFMS's helpdesk modules."
+   ],
+   "sdlc": [
+    "Improved ROI Streamline your process and get quicker ROI of minimum 4%, which is equal to 25% increase in your sales."
+   ],
+   "enterprise": [
+    "We are pleased to share our positive experience with QuickFMS at Max Life Insurance."
+   ],
+   "owns_product": [
+    "We help you enhance your productivity and efficiency in order to reduce costs and save admin time, resulting in a greater return on investment."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Saveetha Engineering College (A college of Saveetha Medical and Educational Trust)",
+  "city": "Chennai",
+  "domain": "saveetha.ac.in",
+  "website": "https://saveetha.ac.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "e Verification Training Wing About Synapse Trainers Profile Portfolio Careers Why Saveetha ? Vacancy Positions Apply Online Links SEC Portal Alumni As"
+  },
+  "jd": {
+   "pages_read": 11,
+   "external_job_boards": [],
+   "jd_chars": 32101,
+   "signals": {
+    "testing": 1
+   },
+   "quotes": {
+    "testing": [
+     "Majestorium Hall ✨ This session reflects our continued commitment to industry-aligned career readiness for our learners."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 1,
+   "DQ_training": 13,
+   "DQ_support": 4
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Up to 40% credits via MOOCs Primary industry sources Industry certifications Global ecosystem Primary Sources OpenAI Microsoft Google Amazon IBM NVIDIA Harvard MIT Stanford News and Events SEC Events 💰 Understanding Credit Intelligence and Fraud Prevention isn’t just a banking skill—it’s a life skill."
+   ],
+   "DQ_training": [
+    "“ The college has a dedicated and very helpful placement and training team who are always there to clear your doubts and questions.",
+    "Students are put through placement trainings starting from their second year in order to help them crack their on campus placements.",
+    "The friendly and supportive staff made learning enjoyable, and the placement training was extremely effective in preparing me for the industry.",
+    "With strong placement records and a dedicated placement training cell, students are well-prepared to meet industry standards and secure opportunities in top companies."
+   ],
+   "DQ_support": [
+    "To enable graduates to develop hardware and software systems by understanding the importance of social, business and environmental needs in the human context.",
+    "PROGRAMME OUTCOMES (POs) An ability to apply knowledge of mathematics, including discrete mathematics, probability, statistics, science, computer science and engineering, electronic engineering and electrical engineering as it applies to computer hardware and software.",
+    "An ability to identify, formulates, and solves hardware and software computing problems, accounting for the interaction between hardware and software.",
+    "An ability to communicate effectively in speech and in writing, including documentation of hardware and software systems."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

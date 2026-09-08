@@ -1,0 +1,867 @@
+[
+ {
+  "name": "MHP India Private Limited",
+  "city": "Bengaluru",
+  "domain": "mhp.com",
+  "website": "https://www.mhp.com/us/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20130129",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 6,
+   "external_job_boards": [],
+   "jd_chars": 42634,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Close Read More We are an agile project management company, so our recruitment team is as adaptable as the rest of the business.",
+    "We strive for excellence in everything we do – from working daily with our customers, to executing our processes, all the way to driving our strategy."
+   ],
+   "owns_product": [
+    "Application Management Services SLA-based services for the support of all your productive systems."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Minutus Computing Private Limited",
+  "city": "Pune",
+  "domain": "minutuscomputing.com",
+  "website": "https://minutuscomputing.com",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "at We Do PLM Platform Deployment Infrastructure Engineering Application Development & Modernization DevOps Tools & Automation Know More About Us Who W"
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 1805,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "MorningStar India Private Limited",
+  "city": "Mumbai",
+  "domain": "morningstar.in",
+  "website": "https://www.morningstar.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230111",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/"
+  ],
+  "has_no_careers_blog_or_team": true,
+  "_prio": 0
+ },
+ {
+  "name": "Nanosecond Technologies Private Limited",
+  "city": "Bengaluru",
+  "domain": "pice.one",
+  "website": "https://piceapp.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230130",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_training": 2,
+   "owns_product": 1
+  },
+  "site_quotes": {
+   "DQ_training": [
+    "Pay via UPI, card or bank transfer Instant digital receipt for every payment High-value payments with business-grade security Tutor & Coaching Payments Pay tutors and coaching institutes in seconds, right from your phone."
+   ],
+   "owns_product": [
+    "Meet Our Founders Our Products Credit Card Bill Payments Track all your Credit Card bills in one place and pay them in one click Invoice management View and manage sales and purchase invoice in one seamless platform GST Payment Paying your GST is now easier than ever with multiple payment options."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "NCR Corporation India Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "ncr.com",
+  "website": "https://www.ncr.com:443/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "P.O.S. to Expand Hospitality Business More NCR News Explore Our Products Aloha Everything you need to run your restaurant. Silver The easy to use, clo"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 26420,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "DQ_support": 2,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "DQ_support": [
+    "Explore services Explore services Hardware From POS and payments to self-service and back-of-house, our hardware portfolio supports critical workflows across retail and restaurants, and is engineered for durability and reliability in fast-paced, high-volume environments.",
+    "Explore hardware Explore hardware Bringing our platform story to life The NCR Voyix Customer Experience Center (CEC) is where our technology moves from slideware to real-world execution."
+   ],
+   "owns_product": [
+    "Explore hardware Explore hardware Bringing our platform story to life The NCR Voyix Customer Experience Center (CEC) is where our technology moves from slideware to real-world execution.",
+    "This allows teams to quickly see how our platform, applications, and services work together in practice."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "NobleServe Systems Private Limited",
+  "city": "Coimbatore",
+  "domain": "nobleserve.com",
+  "website": "https://nobleserve.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ds covered with our services which include mobile, web, and software development. Get Started About Us NobleServe, a company with strong leaders who a"
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 1341,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 8,
+   "sdlc": 2,
+   "DQ_template": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "NobleServe Mortgage Healthcare IT Services About Us Careers Contact Us Get Started Mortgage NobleServe has team of experienced professional who has core experience in the end to end mortgage processes.",
+    "Get Started Healthcare Explore and experience an entire set of services which will have quantifiable business outcomes.",
+    "Mortgage Services Originations Title Settlement Curative Servicing Valuations Healthcare Services Coding Services Revenue Cycle Management IT Services Enterprise Software Development Web Application Development Mobile Application Development Company Privacy Policy Terms & Conditions Follow Us Copyrights Reserved 2021.",
+    "NobleServe Careers Mortgage Healthcare IT Services About Us Careers Contact Us Join our team Our work culture supports creativity, empowerment, and openness."
+   ],
+   "sdlc": [
+    "We have the pioneering technology, management expertise, and end-to-end engagement model to make it happen with any Industry and services you choose with us.",
+    "03 Accelerate With Latest Technology We at NobleServe make sure we enable continuous transformation by helping businesses scale and drive agile innovation."
+   ],
+   "DQ_template": [
+    "We always on the run to face obstacles and have a readymade solution to fix them."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "NVIDIA Graphics Pvt Ltd",
+  "city": "Bengaluru",
+  "domain": "nvidia.in",
+  "website": "https://www.nvidia.com/en-in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "is the world’s first AI supercomputer in the cloud, a multi-node AI-training-as-a-service solution optimized for the unique demands of enterprise AI."
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 129617,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 6,
+   "DQ_support": 3,
+   "owns_product": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Announcement Enterprise Software Is Going Agentic With NVIDIA From engineering to healthcare, companies gain always-on AI coworkers with NVIDIA’s open stack.",
+    "Quick Links HPC Overview SC22 Event Supercomputing Healthcare Public Sector Energy NVIDIA HPC SDK NVIDIA PhysicsNeMo HPC",
+    "Announcement NVIDIA Jetson Is Agentic-Ready to Unlock Physical AI Frontier JetPack 7.2, NemoClaw make Jetson agentic-ready for robotics, healthcare, industrial automation.",
+    "From healthcare to robots."
+   ],
+   "DQ_support": [
+    "Learn More Hardware Join our hardware team for the opportunity to have real impact in a dynamic, technology-focused company.",
+    "Learn More DLSS Supported Hardware Maximize your performance, responsiveness, and image quality on GeForce RTX GPUs."
+   ],
+   "owns_product": [
+    "Our product lines range from consumer graphics to self-driving cars to the growing field of AI."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Outscalepartners India Private Limited",
+  "city": "Gurugram",
+  "domain": "outscalepartners.com",
+  "website": "https://outscalepartners.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "RED_FLAG_2024_PLUS",
+   "how": "domain first registered 2024 or later",
+   "date": "2025-05-06",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [],
+   "jd_chars": 5944,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Park Hospitals",
+  "city": "Kolkata",
+  "domain": "neotiahospital.com",
+  "website": "https://neotiahospital.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230129",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 31593,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 11
+  },
+  "site_quotes": {
+   "enterprise": [
+    "With a steadfast commitment to excellence and a nurturing environment, this healthcare institution has emerged as a trusted partner in the journey of maternal, women and child health.",
+    "The company- with its strong forte in real estate, hospitality, healthcare, and education under the leadership of Shri Harshavardhan Neotia – has been responsible for landmark projects in and around Kolkata.",
+    "Read More Booking & Insurance Advance booking is done in case of maternity cases for which the following procedure is to be followed.",
+    "Always seek the advice of your physician or other qualified healthcare professional with questions you may have regarding your medical condition."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Pennant Technologies Pvt Ltd",
+  "city": "Hyderabad",
+  "domain": "pennanttech.com",
+  "website": "https://www.pennanttech.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "ess Application Services Enterprise Application Integration Product Engineering Consulting Technology Expertise Insights News Events View Points Opera"
+  },
+  "jd": {
+   "pages_read": 4,
+   "external_job_boards": [
+    "https://pennanttech.keka.com/careers/"
+   ],
+   "jd_chars": 13925,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 3,
+   "enterprise": 7,
+   "sdlc": 2,
+   "DQ_template": 1,
+   "prod_eng": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Delight Borrowers Whether you're designing a specialised retail or corporate loan program, or adapting swiftly to evolving market and regulatory changes, our platform empowers you to create solutions that drive your business goals.",
+    "Our platform adapts to your unique needs, enabling efficient and customisable lending products for every requirement while lowering total cost of operations.",
+    "Its proprietary platform and Great Place To Work Model help companies evaluate the experience of every employee, with exemplary workplaces becoming Great Place To Work Certified and receiving recognition on a coveted Best Workplaces list."
+   ],
+   "enterprise": [
+    "Innovation is at the heart of everything we do as we combine deep engineering expertise with domain knowledge in banking and financial services to help financial institutions transform their application landscape, deliver seamless customer experiences, and stay ahead in an ever-evolving digital world.",
+    "Imagine working on cutting-edge products transforming the banking and financial services industry, gaining hands-on experience with the latest technologies, and collaborating with exceptional professionals who inspire and challenge you.",
+    "For generations, banks and non-banking finance companies (NBFCs) have shouldered the...",
+    "Our Story Our Leadership Team We are on a mission to build future-ready products for the global banking and financial services industry."
+   ],
+   "sdlc": [
+    "It inspires us to pursue the highest standards across every aspect of our business, from designing innovative products and delivering exceptional customer experiences to continuously improving our processes and capabilities.",
+    "About Pennant Technologies Pennant Technologies is an agile and innovative financial technology company that empowers banks and financial institutions to transform their lending operations."
+   ],
+   "DQ_template": [
+    "Event-Based Accounting Engine Replicate your chart of accounts and configure accounting templates for various transactions or events to ensure consistent application of accounting rules and standards."
+   ],
+   "prod_eng": [
+    "As Pennant continues its growth journey, it remains committed to fostering a culture of continuous learning, and collaboration, thereby strengthening its position as a preferred destination for professionals aspiring to build long-term careers in the financial technology Product Engineering."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Pioneer Design And Engineering Private Limited",
+  "city": "Hyderabad",
+  "domain": "pioneerdesign.in",
+  "website": "https://www.pioneerdesign.in/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20200601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 4801,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "sdlc": 1,
+   "prod_eng": 3
+  },
+  "site_quotes": {
+   "sdlc": [
+    "Embracing automation as a catalyst for success, we empower our clients to pioneer a new era of streamlined and agile business processes."
+   ],
+   "prod_eng": [
+    "With a focus on client-centricity, engineering excellence, global reach, and competitive pricing, we are committed to setting new standards of quality and innovation in the engineering services domain."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Pragma Edge Software Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "pragmaedge.com",
+  "website": "https://pragmaedge.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "l .elementor-post__thumbnail__link{display:block}.elementor-portfolio__filter{margin:0;cursor:pointer;padding:8px}.elementor-portfolio-item{align-self"
+  },
+  "jd": {
+   "pages_read": 0,
+   "external_job_boards": [],
+   "jd_chars": 0,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "R S Software (India) Ltd",
+  "city": "Kolkata",
+  "domain": "rssoftware.com",
+  "website": "https://www.rssoftware.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20200601",
+   "quote": "t.That's why, we've been at the forefront of groundbreaking software solutions for the world's leading payment brands, for over two decades. As we loo"
+  },
+  "jd": {
+   "pages_read": 5,
+   "external_job_boards": [],
+   "jd_chars": 38379,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Rolls Royce India Private Limited",
+  "city": "Bengaluru",
+  "domain": "rolls-royce.com",
+  "website": "https://www.rolls-royce.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230103",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 1,
+   "external_job_boards": [],
+   "jd_chars": 15548,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 6,
+   "enterprise": 8,
+   "prod_eng": 1,
+   "DQ_training": 1,
+   "DQ_support": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "Our products and service packages enable our customers to connect people, societies, cultures and economies together.",
+    "Press release 13 November 2023 How does our Production Test Facility work?"
+   ],
+   "enterprise": [
+    "Dame Anita was a non-executive director of BHP Group plc until 2021 and deputy chair and senior independent director of Lloyds Banking Group until May 2020.",
+    "These include aerospace technology group GKN; energy, healthcare technology group DCC plc; and energy company Türkiye Petrol Rafinerileri A.Ş (Tupras).",
+    "Prior to joining Lloyds in 2012, George served as group financial officer at RSA Insurance Group from 2004.",
+    "Board skills and competencies George has a strong track record as a senior finance professional with significant experience gained in large, international, highly regulated groups with high cyber threat profiles and has proven business leadership credentials."
+   ],
+   "prod_eng": [
+    "Tufan has a strong track record for execution, delivery and the creation of significant value and a stated ambition to deliver the full potential of the market positions which Rolls-Royce has built over many years, through its engineering excellence and innovative technology."
+   ],
+   "DQ_training": [
+    "She also has a strong track record and an ongoing interest in developing, mentoring and coaching key talent and encouraging women in particular to consider a career in STEM."
+   ],
+   "DQ_support": [
+    "She brings experience and insight across hardware, software and services with a deep understanding of technological transformation of complex global organisations."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "RxBenefits Healthcare India Private Limited",
+  "city": "Hyderabad",
+  "domain": "rxbenefits.com",
+  "website": "https://www.rxbenefits.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230601",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 15904,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "cicd": 1,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "cicd": [
+    "It can be very lonely and exhausting, as a spouse I know I am not alone in how overwhelming each day can be."
+   ],
+   "DQ_training": [
+    "What Sets Us Apart We’re redefining the pharmacy benefits landscape with five key differentiators: Client-Aligned Economics: At RxBenefits, we don’t profit from formulary placement incentives, spread pricing, rebate withholds, or dispensing fees."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Schlumberger India Technology Centre Pvt Ltd",
+  "city": "Pune",
+  "domain": "slb.com",
+  "website": "https://www.slb.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20230601",
+   "quote": "ootprint Our Technology Development Schlumberger Foundation Case Studies Our Alumni Leadership and Governance Back Leadership and Governance Executive"
+  },
+  "jd": {
+   "pages_read": 3,
+   "external_job_boards": [],
+   "jd_chars": 10158,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Sesame Group India Private Limited",
+  "city": "Gurugram",
+  "domain": "sbg.co.uk",
+  "website": "https://www.sbg.co.uk/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230315",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 17,
+   "external_job_boards": [],
+   "jd_chars": 118409,
+   "signals": {
+    "vcs_generic": 1
+   },
+   "quotes": {
+    "vcs_generic": [
+     "Attention to detail and a disciplined approach to data quality, model governance and version control."
+    ]
+   },
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 15,
+   "owns_product": 2,
+   "DQ_training": 1
+  },
+  "site_quotes": {
+   "enterprise": [
+    "We have specialised in mortgages, protection and general insurance for more than 20 years, placing our members and customers at the heart of everything we do.",
+    "In addition to market-leading products, including exclusive arrangements across mortgages, protection and general insurance, we work to ensure that our members benefit from our truly personalised, collaborative approach.",
+    "Go to Sesame website About Bankhall Bankhall is a leading supplier of support services to more than 800 directly regulated financial services firms.",
+    "From pensions and investments to mortgages and insurance, Bankhall has been operating for over 25 years, supporting thousands of advisers to embrace regulatory change and reach their full potential."
+   ],
+   "owns_product": [
+    "We do this by designing our products and services to educate advisers on market trends, to provide exclusive mortgage products and services, as well as technology solutions, property valuation and legal support, protection, and more."
+   ],
+   "DQ_training": [
+    "Steve is motivated in developing and supporting individuals to reach their potential, gaining an internationally recognised accreditation for coaching through ICF."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "SHRM East Private Limited",
+  "city": "Gurugram",
+  "domain": "shrmindia.org",
+  "website": "https://www.shrm.org/?loc=india",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20140117",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 114683,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "owns_product": 6,
+   "DQ_template": 11,
+   "cicd": 1
+  },
+  "site_quotes": {
+   "owns_product": [
+    "All Things Work 2026 BLUEPRINT 2026 Linkage Institute 2026 Skills Accelerator 2026 Talent 2027 The AI+HI Project 2027 State Conferences Attend a SHRM state event to network with other HR professionals and learn more about the future of work."
+   ],
+   "DQ_template": [
+    "How-To Guides Interactive Tools Job Descriptions Templates Center for Inclusion & Diversity HR Topics AI in the Workplace Civility at Work Inclusion & Diversity Recruiting Total Rewards Community Find a SHRM Chapter Easily find a local professional or student chapter in your area.",
+    "How-To Guides Interactive Tools Job Descriptions Templates Center for Inclusion & Diversity HR Topics AI in the Workplace Civility at Work Inclusion & Diversity Recruiting Total Rewards Community back Community --> --> Find a SHRM Chapter Easily find a local professional or student chapter in your area.",
+    "Renew Now Job Description Guide & Templates Skip to main content Personal Business Foundation Close Select Region Select your region below to see curated info.",
+    "That's why a SHRM membership provides access to more than 1,000 job description templates to assist your hiring process."
+   ],
+   "cicd": [
+    "Taylor’s career spans more than 20 years as a lawyer and executive, serving at IAC, Paramount Pictures, Blockbuster Entertainment Group, and the Thurgood Marshall College Fund, among other organizations."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Sirius Info Services Private Limited",
+  "city": "Hyderabad",
+  "domain": "siriusinfos.com",
+  "website": "https://www.siriusinfos.com/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "EXISTED_NO_SW_WORDING",
+   "how": "site archived pre-2024 but snapshot did not mention software",
+   "date": "20230202",
+   "quote": ""
+  },
+  "jd": {
+   "pages_read": 2,
+   "external_job_boards": [],
+   "jd_chars": 2613,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {},
+  "site_quotes": {},
+  "pages_reached": [
+   "/",
+   "careers",
+   "blog",
+   "about"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ },
+ {
+  "name": "Smith & Nephew GBS Private Limited",
+  "city": "Pune",
+  "domain": "smith-nephew.com",
+  "website": "https://www.smith-nephew.com/en/",
+  "already_in_hubspot": false,
+  "headcount_known": "",
+  "tier_gold_evidence": {
+   "level": "PROVEN",
+   "how": "wayback snapshot advertising software work",
+   "date": "20220601",
+   "quote": "ion or meniscal repair, our robust arthroscopic knee repair portfolio has you covered. Learn more Smith+Nephew is a leading portfolio medical technolo"
+  },
+  "jd": {
+   "pages_read": 9,
+   "external_job_boards": [],
+   "jd_chars": 76470,
+   "signals": {},
+   "quotes": {},
+   "meets_tier_a": false
+  },
+  "site_signals": {
+   "enterprise": 17,
+   "DQ_training": 9,
+   "owns_product": 4,
+   "cicd": 2
+  },
+  "site_quotes": {
+   "enterprise": [
+    "Explore our stories Careers News Investors Celebrating 170 years A legacy of healthcare innovation.",
+    "We inform you that you are about to access areas containing information aimed exclusively at healthcare professionals.",
+    "By continuing to browse, the user declares that they wish to consult this information as a healthcare professional.",
+    "We support healthcare professionals to return their patients to health and mobility, helping them to perform at their fullest potential."
+   ],
+   "DQ_training": [
+    "Discover our story Life Unlimited Smith+Nephew is a portfolio medical technology company focused on the repair, regeneration and replacement of soft and hard tissue.",
+    "Dr Ast specialises in hip and knee replacement surgery focusing on rapid-recovery, short-stay, and outpatient surgery.",
+    "Dr Ast will discuss the trend of joint replacements transitioning to Ambulatory Surgery Centers (ASCs) and the unique ASC needs that must be addressed.",
+    "Ravi Bashyal, MD, FAAOS , Director of Outpatient Hip and Knee Replacement Surgery at NorthShore University in Chicago."
+   ],
+   "owns_product": [
+    "Our 17,000 employees deliver this mission every day, making a difference to patients’ lives through the excellence of our product portfolio, and the invention and application of new technologies across our three global business units of Orthopaedics, Sports Medicine & ENT and Advanced Wound Management.",
+    "For example, statements regarding expected revenue growth and trading profit margins, market trends and our product pipeline are forward-looking statements."
+   ],
+   "cicd": [
+    "For example, statements regarding expected revenue growth and trading profit margins, market trends and our product pipeline are forward-looking statements."
+   ]
+  },
+  "pages_reached": [
+   "/",
+   "blog",
+   "team",
+   "tech-stack"
+  ],
+  "has_no_careers_blog_or_team": false,
+  "_prio": 0
+ }
+]

@@ -1,0 +1,37 @@
+﻿flow,gate,reason,n,provenance
+NASSCOM ( IT Services ),grading,band=Skip (score below cut),1558,NASSCOM_RANKED.csv
+NASSCOM ( IT Services ),grading,already in HubSpot,99,NASSCOM_RANKED.csv
+NASSCOM ( IT Services ),identity,name found but NO LinkedIn URL (dead end),153,founders_websearch.json
+NASSCOM ( IT Services ),enrichment,revealed person not senior,48,gate field
+NASSCOM ( IT Services ),enrichment,no +91 number (hard gate),50,gate field
+NASSCOM ( IT Services ),enrichment,reveal returned no phone,24,gate field
+NASSCOM ( IT Services ),enrichment,reveal failed,9,gate field
+NASSCOM ( IT Services ),push,dedup vs live CRM at push time,23,PASS minus pushed
+Romania ( IT Services ),phone provenance,company contact page,24,ro50_enriched.json
+Romania ( IT Services ),phone provenance,personal (revealed),4,ro50_enriched.json
+Romania ( IT Services ),phone provenance,company website,1,ro50_enriched.json
+Romania ( IT Services ),enrichment,no phone from any source (unpushable),21,ro50_enriched.json
+Romania ( IT Services ),identity,no careers/team page on site,97,context: JD harvest finding
+Deadpool waves ( dead startups ),scoring,noise tier,149,radar.sqlite:scored
+Deadpool waves ( dead startups ),prequal,routed dont_pursue,400,radar.sqlite:prequal
+Deadpool waves ( dead startups ),enrichment,no +91 number (hard gate),11,deadpool_no_indian_number.json
+Deadpool waves ( dead startups ),wave mix (pushed),Foodtech,13,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),Hyperlocal grocery,10,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),Hyperlocal Laundry,10,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),Hyperlocal Home Services,10,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),P2P Lending / Fintech NBFC,8,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),Quick Commerce,7,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),Edtech,6,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),Crypto/Web3 Exchanges,5,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),Used Car Marketplaces,4,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),Social/Video Commerce,4,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),Mobility,4,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),Online Pharmacy,4,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),Furniture & Home Decor E-comm,3,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),Hyperlocal Delivery/Logistics,3,pushed_deadpool.json
+Deadpool waves ( dead startups ),wave mix (pushed),Daily Deals / Group Buying,1,pushed_deadpool.json
+Tracxn Sheet ( Startups ),data quality,bad number rows,5,tracxn_badnumber_rows.json
+Tracxn Sheet ( Startups ),data quality,bad remarks rows,7,tracxn_remarks_bad.json
+SalesNav batch (7 Aug),screen,excluded (giants/irrelevant),30,aug7_salesnav_excluded.json
+OutFlo outreach ( Startups ),geography,bucket Indonesia,13,pushed_outflo.json
+OutFlo outreach ( Startups ),geography,bucket India,48,pushed_outflo.json

@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Spearhead Technology India Private Limited",
+    "domain": "spearheadtech.io",
+    "score": 45,
+    "band": "Skip",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 10,
+    "tier_c_points": 10,
+    "raw_before_caps": 45,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN: 2023-06-01 Wayback snapshot advertising delivered app-development and migration projects",
+    "evidence": [
+      "Wayback 2023: 'Web and Mobile Application Development for Large Restaurant Chain'",
+      "Site: ISO 27001, SOC 2 and ISO 9001 controls named",
+      "890k chars of careers text read; zero git/PR/CI-tool mention",
+      "Site prose names 'NexGenTek', claims 1,000+ engineers against headcount 43"
+    ],
+    "why_this_rank": "Real pre-2024 delivery record and right city/size, but the site prose names a different brand (NexGenTek) and claims 1,000+ engineers against a 43 headcount; 890k chars of careers text produced no repo or review evidence at all.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "Atyeti IT Services Private Limited",
+    "domain": "atyeti.com",
+    "score": 45,
+    "band": "Skip",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 10,
+    "tier_c_points": 10,
+    "raw_before_caps": 45,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN: 2023-06-01 Wayback snapshot advertising Agile software development and DevOps",
+    "evidence": [
+      "Wayback 2023: 'Cloud, DevOps, Agile Software development and Data Science'",
+      "Site: ISO 27001:2022 certified",
+      "JD source-control line is a client security anecdote, not workflow",
+      "headcount_known 502; investment-banking and Fortune 500 clients"
+    ],
+    "why_this_rank": "Ideal size and a genuine banking-engineering record, but the single source-control mention is a case-study anecdote about a client storing passwords in repos, not Atyeti describing its own review practice; 9k chars of JD carried nothing else.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "Clayfin Technologies Private Limited",
+    "domain": "clayfin.com",
+    "score": 48,
+    "band": "Skip",
+    "confidence": "Low",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 10,
+    "tier_c_points": 13,
+    "raw_before_caps": 48,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN: 2023-06-01 Wayback snapshot showing product suite, case studies and careers",
+    "evidence": [
+      "Wayback 2023: digital banking product site with case studies, careers",
+      "Site: banks use products across internet, mobile, smart-watch channels",
+      "Site: ISO 27001:2022 in footer",
+      "Zero careers/JD pages reached; jd_chars 0"
+    ],
+    "why_this_rank": "Owns a digital-banking platform sold to banks, which fits the target profile well; it lands two points under Secondary only because no careers or JD text was collected at all — missing evidence rather than evidence of absence.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "CompuCom CSI Systems India Private Limited",
+    "domain": "compucom.com",
+    "score": 20,
+    "band": "Skip",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 10,
+    "tier_c_points": 13,
+    "raw_before_caps": 48,
+    "caps_applied": [
+      "BPO / managed-IT-support core business: cap 20",
+      "REJECT: multinational captive delivery arm"
+    ],
+    "pre2024_basis": "PROVEN: 2022-06-01 Wayback snapshot advertising design/implement/manage services",
+    "evidence": [
+      "Site: 'Managed Services and IT Support', device lifecycle, managed print",
+      "Site: 35 years, serves 5 of top-10 Fortune 500",
+      "Site: ISO 20000-1, ISO 27001, ISO 9001 certifications",
+      "89k chars of JD read; no git, CI/CD or review mention"
+    ],
+    "why_this_rank": "Rejected on structure, not score: this is the India entity of US-headquartered CompuCom, a multinational's captive delivery arm, and its core business is managed IT support, hardware sourcing and device lifecycle rather than software it built and sold.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "E-Merge Tech Global Services Private Limited",
+    "domain": "e-mergeglobal.com",
+    "score": 20,
+    "band": "Skip",
+    "confidence": "Low",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 0,
+    "tier_b_points": 10,
+    "tier_c_points": 0,
+    "raw_before_caps": 20,
+    "caps_applied": [],
+    "pre2024_basis": "EXISTED_NO_SW_WORDING: 2023-06-01 snapshot exists but advertises no software work (+10)",
+    "evidence": [
+      "Wayback 2023: archived site, no software wording captured",
+      "Site: ISO 9001 awarded 2008, ISO 27001 for ISMS",
+      "3 careers pages, 4k chars, zero engineering signals",
+      "Site: only a life-sciences board-advisor mention as client proof"
+    ],
+    "why_this_rank": "",
+    "graded_by": "agent"
+  },
+  {
+    "name": "Flatworld Solutions Private Limited",
+    "domain": "flatworldsolutions.com",
+    "score": 20,
+    "band": "Skip",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 10,
+    "tier_c_points": 10,
+    "raw_before_caps": 45,
+    "caps_applied": [
+      "BPO / call-centre / data-entry core business: cap 20"
+    ],
+    "pre2024_basis": "PROVEN: 2023-06-01 Wayback snapshot listing Software Development Services",
+    "evidence": [
+      "Wayback 2023: 'Call Center Services Healthcare BPO ... Software Development'",
+      "Site: call centre, medical coding, transcription, photo editing lines",
+      "Site: 5,000-strong delivery workforce across 18,000 clients",
+      "Site 'AI-assisted code review' is marketing prose, not JD text"
+    ],
+    "why_this_rank": "",
+    "graded_by": "agent"
+  },
+  {
+    "name": "Gauri Technologies Private Limited",
+    "domain": "gauri.com",
+    "score": 48,
+    "band": "Skip",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 0,
+    "tier_b_points": 25,
+    "tier_c_points": 13,
+    "raw_before_caps": 48,
+    "caps_applied": [],
+    "pre2024_basis": "EXISTED_NO_SW_WORDING: 2023-06-01 snapshot exists but advertises no software work (+10)",
+    "evidence": [
+      "JD: 'version control systems (e.g., Git) and continuous integration/continuous deployment'",
+      "Site: delivers on Salesforce and SAP with custom-built accelerators",
+      "Wayback 2023: archived, no software wording, so +10 only",
+      "No compliance, QA or named-tool signals anywhere on site"
+    ],
+    "why_this_rank": "The JD git/CI-CD line is real hiring text rather than marketing, but delivery is Salesforce and SAP platform work, so what could be acquired is largely configuration and accelerators rather than an owned codebase.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "iWork Technologies Pvt Ltd",
+    "domain": "iworktech.com",
+    "score": 48,
+    "band": "Skip",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 20,
+    "tier_c_points": 18,
+    "raw_before_caps": 63,
+    "caps_applied": [
+      "MVP-shop / AI-velocity positioning: -15"
+    ],
+    "pre2024_basis": "PROVEN: 2023-06-01 Wayback snapshot titled software development services",
+    "evidence": [
+      "Wayback 2023: 'IWORKTECH - SOFTWARE DEVELOPMENT SERVICES'",
+      "Site: toolkit is 'GitHub Copilot, Cursor AI, Windsurf, Replit, Lovable'",
+      "Site: 'automated testing, code reviews' is homepage prose, no JD",
+      "headcount_known 1; homepage ticker 'MVP shipped to Acme Health'"
+    ],
+    "why_this_rank": "The code-review claim is homepage prose with no job description behind it, the advertised delivery toolkit is AI code generation, and the activity ticker reads as placeholder copy — precisely the machine-written-codebase risk the rubric exists to avoid.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "Tenarai Technologies Private Limited",
+    "domain": "infogain.com",
+    "score": 45,
+    "band": "Skip",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 25,
+    "tier_c_points": 18,
+    "raw_before_caps": 68,
+    "caps_applied": [
+      "Giant / multinational delivery arm exclusion: cap 45"
+    ],
+    "pre2024_basis": "PROVEN: 2022-06-01 Wayback snapshot advertising delivered client work",
+    "evidence": [
+      "JD: 'automated builds and deployments (CI/CD)' across product portfolio",
+      "JD: unit test cases written to improve code coverage",
+      "Site: 'Headquartered in Silicon Valley', Fortune 500 clients throughout",
+      "Domain infogain.com — Infogain group, far past 5,000 staff"
+    ],
+    "why_this_rank": "The strongest JD evidence in this bundle, but the record is the Indian arm of Silicon-Valley-headquartered Infogain (rebranded Tenarai), well past the giant threshold, so it is capped and skipped rather than contacted.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "Trigent Software Limited",
+    "domain": "trigent.com",
+    "score": 65,
+    "band": "Secondary",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 20,
+    "tier_c_points": 20,
+    "raw_before_caps": 65,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN: 2023-06-01 Wayback snapshot titled custom software development and testing company",
+    "evidence": [
+      "Wayback 2023: 'Custom Software development and Testing Company'",
+      "Site: CMMI Level 4, ISO 27001, GDPR-ready, HIPAA alignment",
+      "Site: owns QMetry360, test-automation and DevOps accelerator frameworks",
+      "4 careers pages, 21k chars, no git or PR wording"
+    ],
+    "why_this_rank": "Scored as a services firm that owns test-automation IP; the GCC language on its site is a service it sells to clients, not evidence that Trigent is itself a captive arm, so the reject rule does not apply.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "Uniq Technologies",
+    "domain": "uniqtechnologies.co.in",
+    "score": 30,
+    "band": "Skip",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 10,
+    "tier_c_points": 0,
+    "raw_before_caps": 35,
+    "caps_applied": [
+      "Generalist-agency signature: cap 30"
+    ],
+    "pre2024_basis": "PROVEN: 2023-06-01 Wayback snapshot listing software and web services",
+    "evidence": [
+      "Wayback 2023: 'Civil Services Mechanical Services ... Domain name registration'",
+      "Site: ISO 9001:2015, 'experts from MNCs like TCS, WIPRO'",
+      "Blog is SEO marketing content, not engineering writing",
+      "5 careers pages, 45k chars, zero engineering signals"
+    ],
+    "why_this_rank": "The archived service list spans civil and mechanical work alongside web design and domain registration, and the blog is SEO copy — a student-project and general-agency shop rather than a firm that built and sold client software.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "vCreaTek Consulting Services Private Limited",
+    "domain": "vcreatek.com",
+    "score": 65,
+    "band": "Secondary",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 25,
+    "tier_c_points": 15,
+    "raw_before_caps": 65,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN: 2023-06-01 Wayback snapshot listing full-stack, mobile and API competencies",
+    "evidence": [
+      "JD: 'CI/CD pipelines and release strategies such as Blue/Green or Canary'",
+      "JD: Azure AKS/Functions solution-architect role, 5+ years experience",
+      "Wayback 2023: web, full-stack, mobile and API development competencies",
+      "headcount_known 2 despite 8 careers pages of live roles"
+    ],
+    "why_this_rank": "Tier A was withheld deliberately: the JD names Azure cloud services (AKS, Functions), not Azure DevOps, and no review gate appears. The headcount of 2 also conflicts with eight pages of live roles — verify actual size on the call.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "WiztekIT Solutions Private Limited",
+    "domain": "wiztekit.com",
+    "score": 30,
+    "band": "Skip",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 0,
+    "tier_b_points": 25,
+    "tier_c_points": 0,
+    "raw_before_caps": 35,
+    "caps_applied": [
+      "Generalist-agency signature: cap 30"
+    ],
+    "pre2024_basis": "UNKNOWN: no Wayback snapshot and no RDAP record — missing, not absent (+10)",
+    "evidence": [
+      "JD: 'Knowledge of DevOps, CI/CD, and database management'",
+      "Site: digital marketing, branding and campaign dashboards beside development",
+      "Site: positioned as IT staffing and consulting provider",
+      "No snapshot or RDAP record, so pre-2024 existence unproven"
+    ],
+    "why_this_rank": "",
+    "graded_by": "agent"
+  },
+  {
+    "name": "ZeroCodeHR LLP",
+    "domain": "zerocodehr.in",
+    "score": 60,
+    "band": "Secondary",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 35,
+    "tier_c_points": 0,
+    "raw_before_caps": 60,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN: 2022-06-01 Wayback snapshot describing no-code software development",
+    "evidence": [
+      "JD: 'source control repository tools such as GitHub/GITLAB, CVS & SVN'",
+      "JD: 'DevOps tools (Git, Jenkins, Sonar, Nexus/Artifactory)', TDD/BDD",
+      "Wayback 2022: no-code software development wording",
+      "Site: 'proprietary low code/no code development tools'"
+    ],
+    "why_this_rank": "Tier A withheld: GitHub and GitLab.com are not private-repo hosts and no review gate is named. Delivery is low-code, so the acquirable asset may be platform artefacts, and the Java/Jenkins JDs may be staffing roles rather than their own team.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "Extrapolix Technologies Private Limited",
+    "domain": "extrapolix.com",
+    "score": 45,
+    "band": "Skip",
+    "confidence": "Low",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 10,
+    "tier_c_points": 10,
+    "raw_before_caps": 45,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN: 2023-06-01 Wayback snapshot advertising enterprise application development",
+    "evidence": [
+      "Wayback 2023: 'enterprise application development project successful'",
+      "Site: ISO 27001 certified and assessed at CMMI Level 3",
+      "Site: hospital records-to-billing, manufacturing and field-service software",
+      "No careers page reached; jd_chars 0"
+    ],
+    "why_this_rank": "",
+    "graded_by": "agent"
+  },
+  {
+    "name": "MOHS10 Technologies Private Limited",
+    "domain": "mohs10.io",
+    "score": 63,
+    "band": "Secondary",
+    "confidence": "Inferred",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 20,
+    "tier_c_points": 18,
+    "raw_before_caps": 63,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN: 2022-06-01 Wayback snapshot showing testing and product-engineering pages",
+    "evidence": [
+      "Wayback 2022: testing, product engineering and partner pages live",
+      "Site: 'enable shift-left ... embedding testing within DevOps pipelines'",
+      "Site: owns Jyotsna AI hospital management system and EMR",
+      "Site: ISO 27001:2022 and ISO 9001:2015; headcount_known 24"
+    ],
+    "why_this_rank": "The generalist-agency cap was considered and not applied: digital marketing is a side line, while quality engineering, an owned hospital product and explicit shift-left testing are the substance of the site.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "Sinergia Media Labs Private Limited",
+    "domain": "simelabs.com",
+    "score": 90,
+    "band": "Priority",
+    "confidence": "Verified",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 25,
+    "tier_b_points": 25,
+    "tier_c_points": 15,
+    "raw_before_caps": 90,
+    "caps_applied": [],
+    "pre2024_basis": "PROVEN: 2023-06-01 Wayback snapshot advertising software development for 72 clients",
+    "evidence": [
+      "Careers page: 'Exhaustive code reviews ... a regular development practice'",
+      "Careers page: 'We use Jenkins and Gitlab CI' after merges",
+      "Careers: Senior SRE, Principal Backend & AI Engineer roles open",
+      "Wayback 2023: software development and data work for 72 clients"
+    ],
+    "why_this_rank": "Tier A is +25 rather than +40: an explicit review gate is stated, but on the careers/practices page rather than inside a job description, and GitLab CI alone does not establish a self-hosted private host.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "Tekki Web Solutions Private Limited",
+    "domain": "tekkiwebsolutions.com",
+    "score": 25,
+    "band": "Skip",
+    "confidence": "Low",
+    "tier_gold_awarded": 25,
+    "tier_a_points": 0,
+    "tier_b_points": 0,
+    "tier_c_points": 0,
+    "raw_before_caps": 25,
+    "caps_applied": [
+      "Generalist-agency signature: cap 30 (not binding)"
+    ],
+    "pre2024_basis": "PROVEN: 2020-06-01 Wayback snapshot advertising web and mobile development",
+    "evidence": [
+      "Wayback 2020: 'Web Development Mobile Development Ecommerce ... Internet Marketing'",
+      "Site: HIPAA/GDPR named for client solutions, not own certification",
+      "Site: ready-made versus custom solution positioning",
+      "No careers page reached; jd_chars 0"
+    ],
+    "why_this_rank": "",
+    "graded_by": "agent"
+  },
+  {
+    "name": "Cypros Technologies Private Limited",
+    "domain": "cypros.in",
+    "score": 20,
+    "band": "Skip",
+    "confidence": "Low",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 0,
+    "tier_b_points": 10,
+    "tier_c_points": 0,
+    "raw_before_caps": 20,
+    "caps_applied": [],
+    "pre2024_basis": "EXISTED_NO_SW_WORDING: 2023-06-01 snapshot exists but advertises no software work (+10)",
+    "evidence": [
+      "Site: 'ISO 27001:2022 certified cybersecurity consulting company'",
+      "Site: VAPT, ITGC, SOX, NIST, SOC 2 audit services",
+      "Wayback 2023: archived, no software wording captured",
+      "No careers page reached; jd_chars 0"
+    ],
+    "why_this_rank": "Skipped on fit as much as on score: this is a CERT-In empanelled security-audit and VAPT consultancy, so there is no delivered client software codebase to acquire.",
+    "graded_by": "agent"
+  },
+  {
+    "name": "Inzuscene Technologies Private Limited",
+    "domain": "inzuscene.com",
+    "score": 20,
+    "band": "Skip",
+    "confidence": "Low",
+    "tier_gold_awarded": 10,
+    "tier_a_points": 0,
+    "tier_b_points": 10,
+    "tier_c_points": 0,
+    "raw_before_caps": 20,
+    "caps_applied": [],
+    "pre2024_basis": "EXISTED_NO_SW_WORDING: 2023-03-14 snapshot exists but advertises no software work (+10)",
+    "evidence": [
+      "Wayback 2023-03: archived, no software wording captured",
+      "Site: 'Industrial AI and enterprise software' positioning only",
+      "Site: ISO 9001, 27001 and 20000 certified",
+      "No careers page reached; jd_chars 0"
+    ],
+    "why_this_rank": "",
+    "graded_by": "agent"
+  }
+]
