@@ -1,0 +1,35 @@
+{
+ "date": "2026-09-11",
+ "owner_id": "96573782",
+ "owner_name": "Yuktha Anand",
+ "flow": {
+  "Cold Call": 0,
+  "No Pickup": 6,
+  "Interested": 3,
+  "GMeet Fixed": 1,
+  "Script Shared": 2,
+  "Script Results Received": 1,
+  "Commercial Negotiation": 1,
+  "LOI": 0,
+  "Deal Contract Signed": 0,
+  "Data Migration Done": 0,
+  "Metadata Matched": 0,
+  "Payment Initiation": 0
+ },
+ "current_state": {
+  "Closed/Won": 0,
+  "Dead/ColdCall/Not Interested": 88,
+  "Dead/ColdCall/WrongFit": 412,
+  "Dead/ColdCall/WrongNumber": 210,
+  "Dead/ColdCall/NoPickup": 1,
+  "Dead/Interested/NoShow": 4,
+  "Dead/GMeet/NoShow": 2,
+  "Dead/GMeet/Cancelled": 0,
+  "Dead/GMeet/wrong fit": 6,
+  "Dead/GMeet/Privacy Concerns": 0,
+  "Dead/ScriptShared/NoShow": 0,
+  "Dead/ResultsReceived/WrongFit-Rejected": 3,
+  "Dead/Negotiation/Pricing": 2,
+  "Dead/Negotiation/Contractual": 0
+ }
+}

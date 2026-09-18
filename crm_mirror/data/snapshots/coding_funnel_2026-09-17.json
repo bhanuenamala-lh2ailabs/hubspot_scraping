@@ -1,0 +1,33 @@
+{
+ "date": "2026-09-17",
+ "flow": {
+  "Cold Call": 0,
+  "No Pickup": 0,
+  "Interested": 0,
+  "GMeet Fixed": 0,
+  "Script Shared": 0,
+  "Script Results Received": 1,
+  "Commercial Negotiation": 0,
+  "LOI": 0,
+  "Deal Contract Signed": 0,
+  "Data Migration Done": 0,
+  "Metadata Matched": 0,
+  "Payment Initiation": 0
+ },
+ "current_state": {
+  "Closed/Won": 9,
+  "Dead/ColdCall/Not Interested": 290,
+  "Dead/ColdCall/WrongFit": 994,
+  "Dead/ColdCall/WrongNumber": 405,
+  "Dead/ColdCall/NoPickup": 1,
+  "Dead/Interested/NoShow": 20,
+  "Dead/GMeet/NoShow": 2,
+  "Dead/GMeet/Cancelled": 0,
+  "Dead/GMeet/wrong fit": 23,
+  "Dead/GMeet/Privacy Concerns": 2,
+  "Dead/ScriptShared/NoShow": 1,
+  "Dead/ResultsReceived/WrongFit-Rejected": 16,
+  "Dead/Negotiation/Pricing": 6,
+  "Dead/Negotiation/Contractual": 1
+ }
+}

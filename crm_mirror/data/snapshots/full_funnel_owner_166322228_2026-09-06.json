@@ -1,0 +1,35 @@
+{
+ "date": "2026-09-06",
+ "owner_id": "166322228",
+ "owner_name": "Ishpreet Sood",
+ "flow": {
+  "Cold Call": 0,
+  "No Pickup": 0,
+  "Interested": 0,
+  "GMeet Fixed": 0,
+  "Script Shared": 0,
+  "Script Results Received": 0,
+  "Commercial Negotiation": 0,
+  "LOI": 0,
+  "Deal Contract Signed": 0,
+  "Data Migration Done": 0,
+  "Metadata Matched": 0,
+  "Payment Initiation": 0
+ },
+ "current_state": {
+  "Closed/Won": 6,
+  "Dead/ColdCall/Not Interested": 4,
+  "Dead/ColdCall/WrongFit": 77,
+  "Dead/ColdCall/WrongNumber": 7,
+  "Dead/ColdCall/NoPickup": 0,
+  "Dead/Interested/NoShow": 3,
+  "Dead/GMeet/NoShow": 0,
+  "Dead/GMeet/Cancelled": 0,
+  "Dead/GMeet/wrong fit": 9,
+  "Dead/GMeet/Privacy Concerns": 2,
+  "Dead/ScriptShared/NoShow": 0,
+  "Dead/ResultsReceived/WrongFit-Rejected": 13,
+  "Dead/Negotiation/Pricing": 0,
+  "Dead/Negotiation/Contractual": 0
+ }
+}

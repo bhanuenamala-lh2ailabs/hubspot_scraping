@@ -1,0 +1,60 @@
+{
+ "date": "2026-09-05",
+ "flow": {
+  "Cold Call": 0,
+  "No Pickup": 0,
+  "Interested": 0,
+  "GMeet Fixed": 0,
+  "Script Shared": 0,
+  "Script Results Received": 0,
+  "Commercial Negotiation": 0,
+  "LOI": 0,
+  "Deal Contract Signed": 0,
+  "Data Migration Done": 0,
+  "Metadata Matched": 0,
+  "Payment Initiation": 0
+ },
+ "current_state": {
+  "Closed/Won": 13,
+  "Dead/ColdCall/Not Interested": 347,
+  "Dead/ColdCall/WrongFit": 1064,
+  "Dead/ColdCall/WrongNumber": 401,
+  "Dead/ColdCall/NoPickup": 1,
+  "Dead/Interested/NoShow": 24,
+  "Dead/GMeet/NoShow": 4,
+  "Dead/GMeet/Cancelled": 0,
+  "Dead/GMeet/wrong fit": 36,
+  "Dead/GMeet/Privacy Concerns": 4,
+  "Dead/ScriptShared/NoShow": 2,
+  "Dead/ResultsReceived/WrongFit-Rejected": 21,
+  "Dead/Negotiation/Pricing": 7,
+  "Dead/Negotiation/Contractual": 1
+ },
+ "cumulative": {
+  "Leads Assigned": 3514,
+  "No Pickup": 871,
+  "Interested": 456,
+  "GMeet Fixed": 80,
+  "Script Shared": 106,
+  "Script Results Received": 33,
+  "Commercial Negotiation": 19,
+  "LOI": 1,
+  "Deal Contract Signed": 10,
+  "Closed/Won": 12,
+  "Dead": 1505
+ },
+ "engaged_deal_ids": [],
+ "dashboard_flow": {
+  "Leads Assigned": 0,
+  "No Pickup": 0,
+  "Interested": 0,
+  "GMeet Fixed": 0,
+  "Script Shared": 0,
+  "Script Results Received": 0,
+  "Commercial Negotiation": 0,
+  "LOI": 0,
+  "Deal Contract Signed": 0,
+  "Closed/Won": 0,
+  "Dead": 0
+ }
+}

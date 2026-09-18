@@ -1,0 +1,35 @@
+{
+ "date": "2026-09-07",
+ "owner_id": null,
+ "owner_name": "Unassigned",
+ "flow": {
+  "Cold Call": 0,
+  "No Pickup": 0,
+  "Interested": 0,
+  "GMeet Fixed": 0,
+  "Script Shared": 0,
+  "Script Results Received": 0,
+  "Commercial Negotiation": 0,
+  "LOI": 0,
+  "Deal Contract Signed": 0,
+  "Data Migration Done": 0,
+  "Metadata Matched": 0,
+  "Payment Initiation": 0
+ },
+ "current_state": {
+  "Closed/Won": 0,
+  "Dead/ColdCall/Not Interested": 2,
+  "Dead/ColdCall/WrongFit": 6,
+  "Dead/ColdCall/WrongNumber": 0,
+  "Dead/ColdCall/NoPickup": 0,
+  "Dead/Interested/NoShow": 0,
+  "Dead/GMeet/NoShow": 0,
+  "Dead/GMeet/Cancelled": 0,
+  "Dead/GMeet/wrong fit": 0,
+  "Dead/GMeet/Privacy Concerns": 0,
+  "Dead/ScriptShared/NoShow": 0,
+  "Dead/ResultsReceived/WrongFit-Rejected": 0,
+  "Dead/Negotiation/Pricing": 0,
+  "Dead/Negotiation/Contractual": 0
+ }
+}

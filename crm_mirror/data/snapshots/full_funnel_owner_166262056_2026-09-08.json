@@ -1,0 +1,35 @@
+{
+ "date": "2026-09-08",
+ "owner_id": "166262056",
+ "owner_name": "Shobit Gupta",
+ "flow": {
+  "Cold Call": 0,
+  "No Pickup": 0,
+  "Interested": 0,
+  "GMeet Fixed": 0,
+  "Script Shared": 0,
+  "Script Results Received": 0,
+  "Commercial Negotiation": 0,
+  "LOI": 0,
+  "Deal Contract Signed": 0,
+  "Data Migration Done": 0,
+  "Metadata Matched": 0,
+  "Payment Initiation": 0
+ },
+ "current_state": {
+  "Closed/Won": 5,
+  "Dead/ColdCall/Not Interested": 0,
+  "Dead/ColdCall/WrongFit": 2,
+  "Dead/ColdCall/WrongNumber": 0,
+  "Dead/ColdCall/NoPickup": 0,
+  "Dead/Interested/NoShow": 2,
+  "Dead/GMeet/NoShow": 0,
+  "Dead/GMeet/Cancelled": 0,
+  "Dead/GMeet/wrong fit": 4,
+  "Dead/GMeet/Privacy Concerns": 0,
+  "Dead/ScriptShared/NoShow": 1,
+  "Dead/ResultsReceived/WrongFit-Rejected": 4,
+  "Dead/Negotiation/Pricing": 4,
+  "Dead/Negotiation/Contractual": 1
+ }
+}
